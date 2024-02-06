@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spies, Swingers and Shadows<br> The Films and Scores of John Barry
+title: Spies, Swingers<br> and Shadows<br> The Films and Scores of<br> John Barry
 published: true
 date: 2024-02-06
 readtime: true
