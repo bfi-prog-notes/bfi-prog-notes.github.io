@@ -6,7 +6,7 @@ date: 2024-02-07
 readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama, Period]
-metadata: 'Italy 1974, 113 mins<br> Directors: Paolo Taviani, Vittorio Taviani''
+metadata: 'Italy 1974, 113 mins<br> Directors: Paolo Taviani, Vittorio Taviani'
 pdf: '2024-02-07-allonsanfan.pdf'
 ---
 
@@ -48,7 +48,7 @@ _Sound Recording_: Sergio Buzi
 _Sound Re-recording_: Venanzio Biraschi  
 _Sound Effects_: Alvaro Gramigna, Fernando Caso  
 
-**Cast** 
+**Cast**  
 Marcello Mastroianni _(Fulvio Imbriani)_  
 Lea Massari _(Charlotte)_  
 Mimsy Farmer _(Francesca)_  
@@ -79,6 +79,7 @@ Digital
 
 Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at Cinecittà S.p.A.
 <br>
+
 **MAGICAL REALISM:**
 **THE FILM FABLES OF THE TAVIANI BROTHERS**  
 **Elective Affinities** Le affinità elettive  
@@ -106,6 +107,8 @@ Presented in collaboration with the Italian Embassy in London and the Italian Cu
 <br>
 **Co-produced by**  
 Cinecittà, Rome
+
+<img style="float: left;" src="/img/cinecitta.png" width="100%" height="100%"><br><br><br>
 
 
 The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
