@@ -44,40 +44,22 @@ Mon 5 Feb 18:20<br>
 **Focus on Hong Kong:  UK Premiere: Love Unto Waste + intro**<br>
 Tue 6 Feb 18:15<br>
 **Chinese New Year: UK premiere: Father + Q&A with director Deng Wei, producer Wenlan Peng and host, Professor Chris Berry, Kings College London**<br>
-
 Sat 10 Feb 15:10<br>
-
 **Valentine’s Day: Casablanca**<br>
-
 Wed 14 Feb 14:30<br>
-
-**Valentine’s Day: Portrait of a Lady on Fire  
-**Portrait de la jeune fille en feu<br>
-
+**Valentine’s Day: Portrait of a Lady on Fire** Portrait de la jeune fille en feu<br>
 Wed 14 Feb 18:15<br>
-
 **Valentine’s Day: Moonlight**<br>
-
 Wed 14 Feb 20:40<br>
-
 **BFI Future Film Festival 2024**<br>
-
 15-18 Feb<br>
-
 **ANTHROPOCENE: The Human Epoch**<br>
-
-Fri 16 Feb 18:15 (+ panel discussion);  
-Wed 21 Feb 20:40<br>
-
+Fri 16 Feb 18:15 (+ panel discussion);  Wed 21 Feb 20:40<br>
 **Manufactured Landscapes**<br>
-
-Fri 16 Feb 21:00 (+ intro by Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky);  
-Tue 20 Feb 20:40<br>
-
+Fri 16 Feb 21:00 (+ intro by Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky);  Tue 20 Feb 20:40<br>
 **Watermark**<br>
-
 Sat 17 Feb 18:10 (+ Q&A with filmmakers Jennifer Baichwal, Nicholas de Pencier and Edward Burtynsky); Fri 23 Feb 20:40<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxOTA0NDUzXX0=
+eyJoaXN0b3J5IjpbLTU4NDQ0MjA0N119
 -->
