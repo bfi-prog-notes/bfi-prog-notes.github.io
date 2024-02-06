@@ -38,7 +38,7 @@ Her interviewees for print and radio have included film composer Lalo Schifrin, 
 
 She was previously a BBC radio reporter and a regular contributor to BBC 6 Music and BBC Radio 4. She presented the BBC Radio 4 documentary ‘_John Barry – The Lost Tapes_’.
 <br>
-<br>
+
 **JOHN BARRY: SOUNDTRACKING BOND AND BEYOND**  
 **Never Let Go**  
 Fri 2 Feb 20:10; Sun 11 Feb 15:30  
@@ -92,5 +92,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYwMjAyNzFdfQ==
+eyJoaXN0b3J5IjpbMTA0OTM5MjgzNV19
 -->
