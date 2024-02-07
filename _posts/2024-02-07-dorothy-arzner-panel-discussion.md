@@ -1,7 +1,14 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: <![endif]--> **Dorothy Arzner: Pioneer, Queer, Feminist**
+published: true
+date: 2024-02-07
+readtime: true
+categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
+tags:  [Talk]
+metadata: 
+pdf: '2024-02-06-spies-swingers-and-shadows.pdf'
+---
 Dive into the work of Dorothy Arzner with the UK premiere of this documentary, which traces the filmmaker’s groundbreaking Hollywood career.
 
 Following the screening, film historian Pamela Hutchinson, academic Lies Lanckman and artist filmmaker Michelle Williams Gamaker will join the illustrated discussion hosted by season curator Caroline Cassin. The panel will discuss Arzner’s life and legacy, the dynamics of her professional collaborations and romantic relationships with other women in Hollywood, and her pivotal role as a star-maker.
@@ -15,5 +22,6 @@ Following the screening, film historian Pamela Hutchinson, academic Lies Lanckma
 **Host: Caroline Cassin** is a freelance film and events programmer, and recently graduated with an MA in Film Studies, Programming and Curation from the National Film and Television School. She hosts a popular monthly pre-Code cinema series called Women & Cocaine at the Cinema Museum in London, which recently had its second international film festival in Helsinki, Finland. She organised the first ever women’s football film festival in the UK, called Kick Like a Girl at the Genesis Cinema, and also hosted the 25th anniversary of the seminal book, _Tipping the Velvet_, which featured a screening and interview with author Sarah Waters. Caroline enjoys utilising archive material in her work to curate cross-media events that bring classic and queer cinema to life through a contemporary lens. Her work largely focuses on championing women’s history, and she is interested in the power of film to inspire positive social change.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA0MDIzNTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTU4MTEwMzgsLTE3NjA0MDIzNTZdfQ
+==
 -->
