@@ -22,6 +22,21 @@ Following the screening, film historian Pamela Hutchinson, academic Lies Lanckma
 **Host: Caroline Cassin** is a freelance film and events programmer, and recently graduated with an MA in Film Studies, Programming and Curation from the National Film and Television School. She hosts a popular monthly pre-Code cinema series called Women & Cocaine at the Cinema Museum in London, which recently had its second international film festival in Helsinki, Finland. She organised the first ever women’s football film festival in the UK, called Kick Like a Girl at the Genesis Cinema, and also hosted the 25th anniversary of the seminal book, _Tipping the Velvet_, which featured a screening and interview with author Sarah Waters. Caroline enjoys utilising archive material in her work to curate cross-media events that bring classic and queer cinema to life through a contemporary lens. Her work largely focuses on championing women’s history, and she is interested in the power of film to inspire positive social change.  
 <br>
 
+**DOROTHY ARZNER: PIONEER, QUEER, FEMINIST**  
+_Directors:_ Clara Kuperberg, Julia Kuperberg  
+_Production Company:_ Kali Pictures  
+_Producers:_ Clara Kuperberg, Julia Kuperberg  
+_Executive Producer:_ Martine Melloul  
+_Writers:_ Clara Kuperberg, Julia Kuperberg  
+_Cinematographer:_ Yoram Astrakhan  
+_Editors:_ Clara Kuperberg, Julia Kuperberg  
+France 2023  
+53 mins  
+Digital  
+
+Total running time 110 mins  
+
+
 **A LEAGUE OF HER OWN: THE CINEMA OF DOROTHY ARZNER**  
 **Merrily We Go to Hell**  
 Wed 7 Feb 20:40; Tue 20 Feb 18:40  
@@ -56,6 +71,7 @@ Tue 27 Feb 20:10 Blue Room
 
 **With thanks to**
 
+<img style="float: left;" src="/img/UCLA.jpg" width="40%" height="40%"><br><br><br>
 
 <br>
 
