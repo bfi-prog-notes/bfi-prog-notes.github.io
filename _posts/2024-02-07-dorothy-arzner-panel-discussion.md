@@ -1,13 +1,13 @@
 ---
 layout: post
-title: <![endif]--> **Dorothy Arzner: Pioneer, Queer, Feminist**
+title: Dorothy Arzner<br> Pioneer, Queer, Feminist
 published: true
 date: 2024-02-07
 readtime: true
 categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
 tags:  [Talk]
 metadata: 
-pdf: '2024-02-06-spies-swingers-and-shadows.pdf'
+pdf: '2024-02-07-dorothy-arzner-panel-discussion.pdf'
 ---
 Dive into the work of Dorothy Arzner with the UK premiere of this documentary, which traces the filmmaker’s groundbreaking Hollywood career.
 
@@ -19,9 +19,57 @@ Following the screening, film historian Pamela Hutchinson, academic Lies Lanckma
 
 **Michelle Williams Gamaker** is an artist filmmaker, based in London. She is joint winner of Film London’s Jarman Award (2020) and winner of Aesthetica’s Short Film Festival’s Best Experimental Film, 2021 and 2023. Her major institutional solo, ‘Our Mountains Are Painted on Glass’ premiered _Thieves_ (2023) a co-commission between Film London, South London Gallery and Dundee Contemporary Arts, where it is currently on exhibition. The show will tour to Bluecoat, Liverpool in May. Williams Gamaker is Reader in BA Fine Art at Goldsmiths College, University of London, and is currently a British Academy Wolfson Fellow.
 
-**Host: Caroline Cassin** is a freelance film and events programmer, and recently graduated with an MA in Film Studies, Programming and Curation from the National Film and Television School. She hosts a popular monthly pre-Code cinema series called Women & Cocaine at the Cinema Museum in London, which recently had its second international film festival in Helsinki, Finland. She organised the first ever women’s football film festival in the UK, called Kick Like a Girl at the Genesis Cinema, and also hosted the 25th anniversary of the seminal book, _Tipping the Velvet_, which featured a screening and interview with author Sarah Waters. Caroline enjoys utilising archive material in her work to curate cross-media events that bring classic and queer cinema to life through a contemporary lens. Her work largely focuses on championing women’s history, and she is interested in the power of film to inspire positive social change.
+**Host: Caroline Cassin** is a freelance film and events programmer, and recently graduated with an MA in Film Studies, Programming and Curation from the National Film and Television School. She hosts a popular monthly pre-Code cinema series called Women & Cocaine at the Cinema Museum in London, which recently had its second international film festival in Helsinki, Finland. She organised the first ever women’s football film festival in the UK, called Kick Like a Girl at the Genesis Cinema, and also hosted the 25th anniversary of the seminal book, _Tipping the Velvet_, which featured a screening and interview with author Sarah Waters. Caroline enjoys utilising archive material in her work to curate cross-media events that bring classic and queer cinema to life through a contemporary lens. Her work largely focuses on championing women’s history, and she is interested in the power of film to inspire positive social change.  
+<br>
+<![endif]-->
+
+**A LEAGUE OF HER OWN:**
+
+**THE CINEMA OF**
+
+**DOROTHY ARZNER**
+
+**Merrily We Go to Hell**
+
+Wed 7 Feb 20:40; Tue 20 Feb 18:40
+
+**Anybody’s Woman**
+
+Fri 9 Feb 18:20; Mon 12 Feb 20:30
+
+**Sarah and Son** Fri 9 Feb 20:30
+
+**Blood and Sand** Sat 10 Feb 12:30
+
+**Working Girls** Sat 10 Feb 15:00; Sat 17 Feb 20:50
+
+**Christopher Strong** Sat 10 Feb 18:30; Mon 19 Feb 18:50 (+ intro by season curator Caroline Cassin)
+
+**Honor Among Lovers**
+
+Sun 11 Feb 18:20; Mon 19 Feb 21:10
+
+**Nana** Mon 12 Feb 18:15; Thu 22 Feb 18:20
+
+**Woman with a Movie Camera: The Wild Party**
+
+Tue 13 Feb 18:30 (+ intro by season curator Caroline Cassin)
+
+**Paramount on Parade** 
+Wed 14 Feb 18:10
+**Craig’s Wife**  
+Fri 16 Feb 20:30; Sun 25 Feb 15:40  
+**The Bride Wore Red**  
+Fri 23 Feb 18:20; Mon 26 Feb 20:45  
+**First Comes Courage**  
+Sun 25 Feb 12:30; Thu 29 Feb 18:20  
+**Dance, Girl, Dance**  
+Sun 25 Feb 18:20; Tue 27 Feb 18:20 (+ intro by academic Lucy Bolton)  
+**Philosophical Screens: Dance, Girl, Dance**  
+Tue 27 Feb 20:10 Blue Room  
+
+**With thanks to**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU4MTEwMzgsLTE3NjA0MDIzNTZdfQ
-==
+eyJoaXN0b3J5IjpbLTc3MjYyOTM5MCwtMTc2MDQwMjM1Nl19
 -->
