@@ -6,7 +6,7 @@ date: 2024-02-02
 readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama]
-metadata: 'Italy 19, 90 mins<br> Directors: <Paolo Taviani, Vittorio Taviani, Valentino Orsini'
+metadata: 'Italy 1962, 90 mins<br> Directors: <Paolo Taviani, Vittorio Taviani, Valentino Orsini'
 pdf: '2024-02-02-a-man-for-burning.pdf'
 ---
 
@@ -117,5 +117,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjExNDM2MSwtNTg1MzQ0OTE3XX0=
+eyJoaXN0b3J5IjpbMTYwMDYzNjU1NSwtMzc2MTE0MzYxLC01OD
+UzNDQ5MTddfQ==
 -->
