@@ -11,9 +11,8 @@ But it is picked, washed, peeled and prepared by women.
 
 This is why green papaya immediately evokes in me a world of gestures and attitudes of women’s daily work.
 
-The scent of green papaya is for me a childhood memory of maternal gestures.
-
-Trân Anh Hûng
+The scent of green papaya is for me a childhood memory of maternal gestures.  
+**Trân Anh Hûng**
 
 Trân Anh Hûng, born in Vietnam and educated in Paris, was inspired to become a filmmaker by the example of Lam Le, the pioneer French Vietnamese director, and he worked on Le’s seminal _Dust of Empire_. Trân’s two short films – _La Femme mariée de Nam Xuong_ (1987) and _La Pierre de l’attente_ (1991) – are both close in spirit to Le’s film, but _The Scent of Green Papaya_ picks up their elliptical narrative structures and their accumulation-of-details style and turns them into something distinct and underivative. This is a remarkably confident and achieved debut feature.
 
@@ -25,18 +24,14 @@ Metaphor apart, the film is overwhelmingly sensual in its depiction of its milie
 
 There is sadly no real Vietnamese tradition for Trân to draw on in constructing his images and metaphors. Vietnamese film production dates back to the 1930s (when it was largely in the hands of Vietnamese-Chinese), but most production since the 1930s – including the communist government’s propaganda output – has been locked into stale conventions of theatricality and melodrama. Implicitly acknowledging his own cultural identity as a westernised émigré artist, Trân has combined ideas and influences from both oriental and occidental sources to underpin his vision. The use of the studio and the _mise en scène_ of tracking shots is indebted to western tradition, from von Sternberg to Bresson. The use of a small boy given to domestic mischief and provocative farting is a respectful nod to Ozu.
 
-Trân insists that his future projects will be shot in Vietnam, and that they will deal with the country’s present-day realities and problems; _Green Papaya_ will be his only period movie, and it expresses things that he needed to get out of his system. It’s hard to imagine what the film might mean to a Vietnamese audience, either in Vietnam or in the global diaspora, but its established success suggests that its central conundrum – the tangled lines between servitude and love – achieves a universality. Not bad for a first-time director far from home.
+Trân insists that his future projects will be shot in Vietnam, and that they will deal with the country’s present-day realities and problems; _Green Papaya_ will be his only period movie, and it expresses things that he needed to get out of his system. It’s hard to imagine what the film might mean to a Vietnamese audience, either in Vietnam or in the global diaspora, but its established success suggests that its central conundrum – the tangled lines between servitude and love – achieves a universality. Not bad for a first-time director far from home.  
+**Tony Rayns, _Sight and Sound_, April 1994**
+<br><br>
 
-Tony Rayns, _Sight and Sound_, April 1994
-
-<![endif]-->
-
-**THE SCENT OF GREEN PAPAYA (MÙI DU DU XANH)**
-
+**THE SCENT OF GREEN PAPAYA (MÙI DU DU XANH)**  
 _Director_: Trân Anh Hûng  
 ©_/Produced by_: Les Productions Lazennec  
-©_/In co-production with_: SFP Cinéma,  
-La Sept Cinéma  
+©_/In co-production with_: SFP Cinéma,  La Sept Cinéma  
 _With the participation of_: Canal+, CNC - Centre national de la cinématographie, Foundation Gan pour le Cinema, Procirep  
 _Executive Producer_: Christophe Rossignon  
 _Associate Producers_: Adeline Lécallier, Alain Rocca  
@@ -52,8 +47,7 @@ _Sound Mixer_: Joël Faure
 _Sound Engineer_: Michel Guiffan  
 _Studio_: SFP Studios (Bry-sur-Marne)
 
-_Cast:_
-
+**Cast**  
 Trân Nû Yên Khê _(Mùi, age 20)_  
 Lu Man San _(Mùi, age 10)_  
 Truong Thi Lôc _(the mother)_  
@@ -70,11 +64,10 @@ Nguyen Thi Thanh Tra _(Mai)_
 Bui Lam Huy _(the doctor)_  
 Nguyen Xuan Thu _(antique dealer)_
 
-France 1992©
-
-104 mins
-
+France 1992©  
+104 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MTI1ODU2XX0=
+eyJoaXN0b3J5IjpbODQwMjg2MDEzXX0=
 -->
