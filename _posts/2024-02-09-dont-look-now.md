@@ -43,16 +43,13 @@ No, that was in the shooting – two-thirds in the shooting and then developed i
 
 _In general, then, you like to have the script as detailed as possible, but it loses or gains bits during shooting; and any changes are substitutions for something that is in the script to start with?_
 
-Yes, I really think I’d feel cheated, or else I’d begin doubting my reason for making the ﬁlm, if I thought halfway through that I’d changed my mind about what this person was, or what these characters were doing. If I said, ‘I tell you what, he’s not really like that at all, he wouldn’t think that way,’ then maybe I shouldn’t be making this ﬁlm, I should be making another ﬁlm about this man. I like to keep the intention of the scene; I like to know the people. That’s what interests me about a writer like Daphne du Maurier: one feels she has thought about a story, maybe put it out of her mind and then come back to it and developed it – _before_ she starts writing, and not halfway through, waiting to see what these people are going to do next.
+Yes, I really think I’d feel cheated, or else I’d begin doubting my reason for making the ﬁlm, if I thought halfway through that I’d changed my mind about what this person was, or what these characters were doing. If I said, ‘I tell you what, he’s not really like that at all, he wouldn’t think that way,’ then maybe I shouldn’t be making this ﬁlm, I should be making another ﬁlm about this man. I like to keep the intention of the scene; I like to know the people. That’s what interests me about a writer like Daphne du Maurier: one feels she has thought about a story, maybe put it out of her mind and then come back to it and developed it – _before_ she starts writing, and not halfway through, waiting to see what these people are going to do next.  
+**Nicolas Roeg interviewed by Tom Milne and Penelope Houston, _Sight and Sound,_ Winter 1973/74**
+<br><br>
 
-Nicolas Roeg interviewed by Tom Milne and Penelope Houston, _Sight and Sound,_ Winter 1973/74
-
-<![endif]-->
-
-**DON’T LOOK NOW**
-
+**DON’T LOOK NOW**  
 _Directed by:_ Nicolas Roeg  
-©D.L.N. Ventures Partnership  
+©: D.L.N. Ventures Partnership  
 _Production Companies:_ Casey Productions, Eldorado Films srl (Rome)  
 _Executive Producer:_ Anthony B. Unger  
 _Produced by:_ Peter Katz  
@@ -65,9 +62,7 @@ _Continuity:_ Rita Agostini
 _Casting:_ Miriam Brickman, Ugo Mariotti  
 _Screenplay by:_ Alan Scott, Chris Bryant  
 _From a story by:_ Daphne du Maurier  
-_Director of Photography:_
-
-Anthony Richmond  
+_Director of Photography:_ Anthony Richmond  
 _Camera Operator:_ Luciano Tonti  
 _Assistant Cameraman:_ Simon Ransley  
 _Key Grip:_ Spartaco Pizzi  
@@ -82,16 +77,15 @@ _Make-up:_ Giancarlo Del Brocco
 _Hair Stylist:_ Barry Richardson  
 _Hairdresser:_ Maria Luisa Garbini  
 _Music by:_ Pino Donnagio  
-_Arranged and Conducted by:_  
-Giampiero Boneschi  
+_Arranged and Conducted by:_  Giampiero Boneschi  
 _Sound Recordist:_ Peter Davies  
 _Dubbing Mixer:_ Bob Jones  
 _Sound Editor:_ Rodney Holland  
 _Stunt Co-ordinator:_ Richard Grayden  
 _Publicity:_ Hubert Doyle  
 _Re-recorded at:_ Shepperton Studios  
-_Cast:_
 
+**Cast**  
 Julie Christie _(Laura Baxter)_  
 Donald Sutherland _(John Baxter)_  
 Hilary Mason _(Heather)_  
@@ -112,5 +106,5 @@ UK/Italy 1973©
 
 Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDI5OTk1OV19
+eyJoaXN0b3J5IjpbLTc3NDYyMjgzOF19
 -->
