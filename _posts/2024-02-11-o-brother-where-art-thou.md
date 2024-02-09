@@ -29,118 +29,58 @@ _Presented by:_ Universal Pictures,
 
 Touchstone Pictures
 
-_In association with:_ StudioCanal
-
-_Production Companies:_ Working Title Films, Blind Bard Pictures
-
-_Executive Producers:_ Tim Bevan, Eric Fellner
-
-_Produced by:_ Ethan Coen
-
-_Co-producer:_ John Cameron
-
-_Associate Producer:_ Robert Graf
-
-_Production Supervisor:_ Gilly Ruben
-
-_Production Accountant:_ Barbara Ann Stein
-
-_Production Co-ordinator:_ Karen Ruth Getchell
-
-_Unit Production Manager:_ John Cameron
-
-_Location Manager:_ Michael Riley
-
-_Post-production Provost:_ Neil A. Stelzner
-
-_Post-production Supervisor:_ David Diliberto
-
-_1st Assistant Director:_ Betsy Magruder
-
-_2nd Assistant Director:_ Jonathan McGarry
-
-_2nd 2nd Assistant Director:_ Donald Murphy
-
-_Script Supervisor:_ Thomas Johnston
-
-_Casting:_ Ellen Chenoweth
-
-_Local Casting:_ Sandy Dawes
-
-_Additional Casting:_ Kathleen Chopin
-
-_Voice Casting:_ Sondra James
-
-_Screenplay:_ Ethan Coen, Joel Coen
-
-_Based upon ‘The Odyssey’ by:_ Homer
-
-_Director of Photography:_ Roger Deakins
-
-_Camera Operator:_ Clint Dougherty
-
-_1st Assistant Camera:_ Andy Harris
-
-_2nd Assistant Camera:_ Adam Gilmore
-
-_Steadicam Operators:_ Kyle Rudolph,
-
-Mark O’Kane
-
-_Still Photographer:_ Melinda Sue Gordon
-
-_Special Visual Effects/Digital Animation:_
-
-Digital Domain
-
-_Graphic Art Director:_ Ted Haigh
-
-_Editors:_ Roderick Jaynes [i.e., Joel Coen,
-
-Ethan Coen], Tricia Cooke
-
-_Associate Film Editor:_ David Diliberto
-
-_1st Assistant Editor:_ Ian Silverstein
-
-_2nd Assistant Editor:_ Karyn Anonia
-
-_Production Designer:_ Dennis Gassner
-
-_Art Director:_ Richard Johnson
-
-_Assistant Art Director:_ Marco Rubeo
-
-_Set Designer:_ Thomas Minton
-
-_Set Consultant:_ Jonathan Short
-
-_Set Decorator:_ Nancy Haigh
-
-_Storyboard Artist:_ J. Todd Anderson
-
-_Property Master:_ Ritchie Kremer
-
-_Construction Co-ordinators:_ Bill Bradford,
-
-Jeff Passanante
-
-_Costume Designer:_ Mary Zophres
-
-_Assistant Costume Designer:_ Danielle Valenciano
-
-_Make-up Supervisor:_ Jean Black
-
-_Key Make-up:_ Amy Schmiederer
-
-_Head Hairstylist:_ Paul LeBlanc
-
-_Key Hairstylists:_ Roy Bryson, Barbara Sanders, Karyn Huston
-
-_Mr George Clooney’s Hairstylist:_ Waldo Sanchez
-
-_Title Design and Other Cool Stuff:_ Balsmeyer & Everett Inc
-
+_In association with:_ StudioCanal 
+_Production Companies:_ Working Title Films, Blind Bard Pictures  
+_Executive Producers:_ Tim Bevan, Eric Fellner  
+_Produced by:_ Ethan Coen  
+_Co-producer:_ John Cameron  
+_Associate Producer:_ Robert Graf  
+_Production Supervisor:_ Gilly Ruben  
+_Production Accountant:_ Barbara Ann Stein  
+_Production Co-ordinator:_ Karen Ruth Getchell  
+_Unit Production Manager:_ John Cameron  
+_Location Manager:_ Michael Riley  
+_Post-production Provost:_ Neil A. Stelzner  
+_Post-production Supervisor:_ David Diliberto  
+_1st Assistant Director:_ Betsy Magruder  
+_2nd Assistant Director:_ Jonathan McGarry  
+_2nd 2nd Assistant Director:_ Donald Murphy  
+_Script Supervisor:_ Thomas Johnston  
+_Casting:_ Ellen Chenoweth  
+_Local Casting:_ Sandy Dawes  
+_Additional Casting:_ Kathleen Chopin  
+_Voice Casting:_ Sondra James  
+_Screenplay:_ Ethan Coen, Joel Coen  
+_Based upon ‘The Odyssey’ by:_ Homer  
+_Director of Photography:_ Roger Deakins  
+_Camera Operator:_ Clint Dougherty  
+_1st Assistant Camera:_ Andy Harris  
+_2nd Assistant Camera:_ Adam Gilmore  
+_Steadicam Operators:_ Kyle Rudolph, Mark O’Kane  
+_Still Photographer:_ Melinda Sue Gordon  
+_Special Visual Effects/Digital Animation:_ Digital Domain  
+_Graphic Art Director:_ Ted Haigh  
+_Editors:_ Roderick Jaynes [i.e., Joel Coen, Ethan Coen], Tricia Cooke  
+_Associate Film Editor:_ David Diliberto  
+_1st Assistant Editor:_ Ian Silverstein  
+_2nd Assistant Editor:_ Karyn Anonia  
+_Production Designer:_ Dennis Gassner  
+_Art Director:_ Richard Johnson  
+_Assistant Art Director:_ Marco Rubeo  
+_Set Designer:_ Thomas Minton  
+_Set Consultant:_ Jonathan Short  
+_Set Decorator:_ Nancy Haigh  
+_Storyboard Artist:_ J. Todd Anderson  
+_Property Master:_ Ritchie Kremer  
+_Construction Co-ordinators:_ Bill Bradford, Jeff Passanante  
+_Costume Designer:_ Mary Zophres  
+_Assistant Costume Designer:_ Danielle Valenciano  
+_Make-up Supervisor:_ Jean Black  
+_Key Make-up:_ Amy Schmiederer  
+_Head Hairstylist:_ Paul LeBlanc  
+_Key Hairstylists:_ Roy Bryson, Barbara Sanders, Karyn Huston  
+_Mr George Clooney’s Hairstylist:_ Waldo Sanchez  
+_Title Design and Other Cool Stuff:_ Balsmeyer & Everett Inc  
 _Digital Intermediate:_ Cinesite, Inc  
 _Music by:_ T-Bone Burnett  
 _Additional Music by:_ Carter Burwell  
@@ -208,5 +148,5 @@ USA/France/UK 2000©
 
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg2NjU3OTldfQ==
+eyJoaXN0b3J5IjpbLTYwMTQ1NjU3MV19
 -->
