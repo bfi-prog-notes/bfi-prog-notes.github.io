@@ -149,6 +149,55 @@ USA/France/UK 2000©
 107 mins
 
 Digital  
+<br>
+**BIG SCREEN CLASSICS**  
+
+**Le Mépris** Contempt  
+Thu 1 Feb 14:40; Tue 13 Feb 20:20; Mon 19 Feb 20:50; Wed 28 Feb (+ intro by film academic and curator Michael Temple)  
+**Adaptation**  
+Fri 2 Feb 20:30; Wed 7 Feb 18:15 (+ intro by culture writer Kemi Alemoru); Sun 18 Feb 18:30  
+**O Brother, Where Art Thou?**  
+Sat 3 Feb 20:45; Sun 11 Feb 15:50; Thu 15 Feb 20:50  
+**Rear Window**  
+Mon 5 Feb 20:45; Fri 16 Feb 18:10; Fri 23 Feb 18:00  
+**Babette’s Feast** Babettes Gaestebud  
+Tue 6 Feb 20:40; Mon 12 Feb 20:50; Wed 21 Feb 18:20 (+ intro by Geoff Andrew, Programmer-at-Large)  
+**The Bridges of Madison County**  
+Thu 8 Feb 20:20; Sat 24 Feb 15:40  
+**Don’t Look Now**  
+Fri 9 Feb 20:35; Thu 15 Feb 18:05; Thu 29 Feb 14:30  
+**Orphée**  
+Sat 10 Feb 12:45; Sat 17 Feb 21:00; Tue 27 Feb 14:30  
+**High and Low** Tenguko to Jijuko  
+Sat 10 Feb 17:45; Sun 25 Feb 18:00  
+**A Farewell to Arms**  
+Wed 14 Feb 18:00 (+ intro by film critic and writer Christina Newland); Sat 24 Feb 18:15; Mon 26 Feb 20:35  
+**The Big Sleep**  
+Thu 22 Feb 18:10; Tue 27 Feb 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzc0MDcxMF19
+eyJoaXN0b3J5IjpbLTE3NTcwNjEwMzBdfQ==
 -->
