@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: HONOR AMONG LOVERS
+published: true
+date: 2024-02-10
+readtime: true
+categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
+tags:  [Talk]
+metadata: 
+pdf: '2024-02-07-dorothy-arzner-panel-discussion.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -26,10 +33,8 @@ I collaborated in the writing of _Honor among Lovers_, which I made for Paramoun
 No, there was no pressure regarding the script, I had very little interference with my pictures. Sometimes there were differences in casting, sets or costumes, but usually I had my way. You see, I was not dependent on the movies for my living, so I was always ready to give the picture over to some other director if I couldn’t make it the way I saw it. Right or wrong, I believe this was why I sustained so long – 20 years.  
 **Dorothy Arzner interviewed by Gerald Peary and Karyn Kay in Claire Johnston (ed.), _The Work of Dorothy Arzner  Towards a Feminist Cinema_ (BFI Publishing, 1975) Reproduced by kind permission of Bloomsbury Publishing. (c) Claire Johnston**  
 <br>
-<![endif]-->
 
-**Honor among Lovers**
-
+**HONOR AMONG LOVERS**  
 _Director:_ Dorothy Arzner  
 _Production Company:_ Paramount Pictures  
 _Assistant Director:_ Arthur Jacobson *  
@@ -42,8 +47,8 @@ _Art Directors:_ Charles M. Kirk, J. Frank Whitman *
 _Costumes:_ Caroline Putnam *  
 _Musical Arrangements:_ Johnny Green *  
 _Sound Recordist:_ C.A. Tuthill *  
-_Cast:_
 
+**Cast**  
 Claudette Colbert _(Julia Traynor)_  
 Fredric March _(Jerry Stafford)_  
 Monroe Owsley _(Philip Craig)_  
@@ -72,5 +77,5 @@ USA 1931
 
 35mm preservation print courtesy of the UCLA Film & Television Archive.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM4NjQ4NTldfQ==
+eyJoaXN0b3J5IjpbLTEyOTU5NjM4MjJdfQ==
 -->
