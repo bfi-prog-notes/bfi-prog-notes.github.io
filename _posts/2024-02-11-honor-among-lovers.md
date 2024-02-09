@@ -1,20 +1,19 @@
 ---
 layout: post
-title: HONOR AMONG LOVERS
+title: Honor among Lovers
 published: true
 date: 2024-02-10
 readtime: true
 categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
-tags:  [Talk]
-metadata: 
-pdf: '2024-02-07-dorothy-arzner-panel-discussion.pdf'
+tags:  [Drama]
+metadata: 'USA 1931, 75 mins<br> Director: Dorothy Arzner'
+pdf: '2024-02-10-honor-among-lovers.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-Here, Dorothy Arzner’s instinct for story, casting and visuals are employed at the service of some of the era’s finest actors. Her third collaboration with Fredric March proved her star-making skills worked for men too. Businessman Jerry is in love with his secretary Julia and what begins as an office romance evolves into a love triangle with dangerous consequences. Arzner cynically plays on sex and social class distinctions to satisfying effect.
-
-bfi.org.uk
+Here, Dorothy Arzner’s instinct for story, casting and visuals are employed at the service of some of the era’s finest actors. Her third collaboration with Fredric March proved her star-making skills worked for men too. Businessman Jerry is in love with his secretary Julia and what begins as an office romance evolves into a love triangle with dangerous consequences. Arzner cynically plays on sex and social class distinctions to satisfying effect.  
+**bfi.org.uk**  
 
 It takes Dorothy Arzner less than two minutes to upend expectations about where men and women belong in _Honor Among Lovers_. In a boardroom looking out on the New York City skyline, nine businessmen are deliberating on a deal. One associate is missing; the chair of the table calls in the absentee’s secretary. Arzner’s notions of secretarial duty, of course, went beyond typing and keeping tabs on a diary: when she arrived at Paramount Pictures as a typist herself in 1919, she already had aspirations to direct. And so Julia Traynor, played with characteristic poise and wit by Claudette Colbert, is not just any secretary in this feminist-minded film. By the end of the meeting, she has engineered approval for an audit on behalf of her employer – a man who would, for his part, rather plan cruises and pick out jewellery than do too much work.
 
@@ -77,5 +76,5 @@ USA 1931
 
 35mm preservation print courtesy of the UCLA Film & Television Archive.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU5NjM4MjJdfQ==
+eyJoaXN0b3J5IjpbMzMxMzY2OTNdfQ==
 -->
