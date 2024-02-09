@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Padre Padrone
+published: true
+date: 2024-02-11
+readtime: true
+categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
+tags:  [Drama]
+metadata: 'Italy 1977, 115 mins<br> Directors: Paolo Taviani, Vittorio Taviani'
+pdf: '2024-02-11-padre-padrone.pdf'
+---
 
 _Padre Padrone_, a Sardinian-set true story about a young shepherd’s rebellion against his tyrannical father and the seventh feature from brothers Paolo and Vittorio Taviani, is based on an autobiographical novel by linguist Gavino Ledda. It tells of the author’s struggle to educate himself after being plucked out of school and set to work at the age of six.
 
@@ -9,12 +16,10 @@ Given that the film was made (on 16mm) for Italian state broadcaster RAI, the br
 
 _Padre Padrone_ opens with an extraordinary sequence in which the real Gavino Ledda is shown sharpening a stick outside a school classroom before handing it over to the actor playing his father Efisio (Taviani regular Omero Antonutti, a dead ringer for British actor Julian Glover). Efisio then enters the classroom to march the six-year-old Gavino (Fabrizio Forte) away. As the film progresses, we follow the protagonist (played as a young man by Saverio Marconi) through adolescence, a failed attempt to emigrate to Germany and then on to his military service. The latter experience proves to be the turning point – an opportunity to finally break free from his father’s suffocating grip. With the encouragement of fellow conscript Cesare (a young Nanni Moretti, fresh from directing his first feature, 1976’s _I Am Self Sufficient_), Gavino starts to develop an all-consuming interest in language. In one scene, he and Cesare find themselves driving tanks across a field, practising Latin with each other across the airwaves.
 
-_Padre_ _Padrone_’s formal playfulness is reminiscent of the mid/late-60s films of Pier Paolo Pasolini, especially _Hawks and Sparrows_ (1966). As with that film, sound and music are used in a boldly unconventional way (in one scene, we hear the inner thoughts of children in Gavino’s class; in another, a goat warning that it’s about to defecate as it’s being milked). In a 1979 interview with Aldo Tassone, Paolo Taviani points out: ‘Sound is even more important in _Padre Padrone_ than our other works because the film tells of the passage from silence to sound, to words.’ Scholar of Italian film Millicent Marcus reinforces this: ‘Because sound is what frees Gavino from his predicament, it should come as no surprise that sound is also the Tavianis’ primary means of cinematic liberation from realist codes.’
+_Padre_ _Padrone_’s formal playfulness is reminiscent of the mid/late-60s films of Pier Paolo Pasolini, especially _Hawks and Sparrows_ (1966). As with that film, sound and music are used in a boldly unconventional way (in one scene, we hear the inner thoughts of children in Gavino’s class; in another, a goat warning that it’s about to defecate as it’s being milked). In a 1979 interview with Aldo Tassone, Paolo Taviani points out: ‘Sound is even more important in _Padre Padrone_ than our other works because the film tells of the passage from silence to sound, to words.’ Scholar of Italian film Millicent Marcus reinforces this: ‘Because sound is what frees Gavino from his predicament, it should come as no surprise that sound is also the Tavianis’ primary means of cinematic liberation from realist codes.’  
+**Pasquale Iannone, _Sight and Sound_, September 2016**  
 
-Pasquale Iannone, _Sight and Sound_, September 2016
-
-**A contemporary review**
-
+**A contemporary review**  
 _Padre Padrone_ is both a naturalistic folk tale about the power of knowledge, and a stylised, almost Brechtian tract about dominance and control, youth and age. By combining information about his own culture with an understanding of Italian, and finally by acquiring degrees in the world outside, Sardinian shepherd Gavino Ledda achieves the inevitable: mastery over his father and master. Efisio is broken by the predictable impact of age, but more by being robbed of an heir who builds on skills he has imparted. Gavino choses to be an observer, a writer who does not work with his hands, and in so doing rejects the life-style of his forefathers.
 
 In a lyrical adaptation of Ledda’s own book, the Taviani brothers preserve a balance between Gavino’s individual history and a universal plight. His father symbolises all fathers and masters. He removes Gavino from school, obligatory by law, and justifies his action in terms of the higher law of necessity: the threat of poverty. The father is the boy’s link to nature and work, exemplifying nature’s caprice in his relationship with his son: the alternation of harvest and killing frost. The stylisation of action and gestures emphasises the cyclical nature of events: Gavino is left on the mountain, escapes, is waylaid, beaten and sent back; the alternating caresses and beatings of his father are frozen into mime.
@@ -149,5 +154,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODI3NTA0OF19
+eyJoaXN0b3J5IjpbLTE5MjcxODIxMzhdfQ==
 -->
