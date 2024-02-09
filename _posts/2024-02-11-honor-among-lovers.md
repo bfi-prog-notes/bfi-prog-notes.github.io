@@ -75,6 +75,69 @@ USA 1931
 * Uncredited  
 
 35mm preservation print courtesy of the UCLA Film & Television Archive.
+<br>
+
+
+**A LEAGUE OF HER OWN: THE CINEMA OF DOROTHY ARZNER**  
+**Merrily We Go to Hell**  
+Wed 7 Feb 20:40; Tue 20 Feb 18:40  
+**Anybody’s Woman**  
+Fri 9 Feb 18:20; Mon 12 Feb 20:30  
+**Sarah and Son**  
+Fri 9 Feb 20:30  
+**Blood and Sand**  
+Sat 10 Feb 12:30  
+**Working Girls**  
+Sat 10 Feb 15:00; Sat 17 Feb 20:50  
+**Christopher Strong**  
+Sat 10 Feb 18:30; Mon 19 Feb 18:50 (+ intro by season curator Caroline Cassin)  
+**Honor Among Lovers**  
+Sun 11 Feb 18:20; Mon 19 Feb 21:10  
+**Nana**  
+Mon 12 Feb 18:15; Thu 22 Feb 18:20  
+**Woman with a Movie Camera: The Wild Party**  
+Tue 13 Feb 18:30 (+ intro by season curator Caroline Cassin)  
+**Paramount on Parade**  
+Wed 14 Feb 18:10  
+**Craig’s Wife**  
+Fri 16 Feb 20:30; Sun 25 Feb 15:40  
+**The Bride Wore Red**  
+Fri 23 Feb 18:20; Mon 26 Feb 20:45  
+**First Comes Courage**  
+Sun 25 Feb 12:30; Thu 29 Feb 18:20  
+**Dance, Girl, Dance**  
+Sun 25 Feb 18:20; Tue 27 Feb 18:20 (+ intro by academic Lucy Bolton)  
+**Philosophical Screens: Dance, Girl, Dance**  
+Tue 27 Feb 20:10 Blue Room  
+
+**With thanks to**
+
+<img style="float: left;" src="/img/UCLA.jpg" width="40%" height="40%"><br><br><br>
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: progn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMzY2OTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTk4NTg2MDVdfQ==
 -->
