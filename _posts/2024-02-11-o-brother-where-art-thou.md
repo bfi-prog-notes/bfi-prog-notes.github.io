@@ -139,104 +139,53 @@ _Key Hairstylists:_ Roy Bryson, Barbara Sanders, Karyn Huston
 
 _Mr George Clooney’s Hairstylist:_ Waldo Sanchez
 
-_Title Design and Other Cool Stuff:_
+_Title Design and Other Cool Stuff:_ Balsmeyer & Everett Inc
 
-Balsmeyer & Everett Inc
+_Digital Intermediate:_ Cinesite, Inc  
+_Music by:_ T-Bone Burnett  
+_Additional Music by:_ Carter Burwell  
+_Yodelling:_ Pat Enright  
+_Music Co-ordinator:_ Lee Olsen  
+_Music Producer:_ T-Bone Burnett  
+_Music Producer:_ Denise Stitt  
+_Associate Music Producer:_ Gillian Welch  
+_Music Production Co-ordinator:_ Valerie Pack  
+_Music Editor:_ Sean Garnhart  
+_Music Recorded by:_ Mike Piersante  
+_Choreographers:_ Jacqui Landrum, Bill Landrum  
+_Sound Designer:_ Eugene Gearty  
+_Production Sound Mixer:_ Peter Kurland  
+_Boom Operator:_ Steve Bowerman  
+_Re-recording Mixers:_ Skip Lievsay, Michael Barry, Sean Garnhart, Greg Orloff  
+_Supervising Sound Editor:_ Skip Lievsay  
+_Dialogue Editors:_ Fred Rosenberg, Philip Stockton  
+_Effects Editors:_ Glenfield Payne, Paul Urmson  
+_ADR Editor:_ Kenton Jakub  
+_Supervisor Foley:_ Ben Cheah  
+_Foley Artists:_ Marko Costanzo, Jay Peck  
+_Foley Editors:_ Kam Chan, Frank Kern, Jennifer Ralston  
+_Stunt Co-ordinator:_ Jery Hewitt  
+_Animal Handlers:_ Birds & Animals  
+_Animal Co-ordinator:_ Jennifer Henderson  
+_Unit Publicist:_ Louise A. Spencer   
 
-_Digital Intermediate:_ Cinesite, Inc
-
-_Music by:_ T-Bone Burnett
-
-_Additional Music by:_ Carter Burwell
-
-_Yodelling:_ Pat Enright
-
-_Music Co-ordinator:_ Lee Olsen
-
-_Music Producer:_ T-Bone Burnett
-
-_Music Producer:_ Denise Stitt
-
-_Associate Music Producer:_ Gillian Welch
-
-_Music Production Co-ordinator:_ Valerie Pack
-
-_Music Editor:_ Sean Garnhart
-
-_Music Recorded by:_ Mike Piersante
-
-_Choreographers:_ Jacqui Landrum, Bill Landrum
-
-_Sound Designer:_ Eugene Gearty
-
-_Production Sound Mixer:_ Peter Kurland
-
-_Boom Operator:_ Steve Bowerman
-
-_Re-recording Mixers:_ Skip Lievsay, Michael Barry,
-
-Sean Garnhart, Greg Orloff
-
-_Supervising Sound Editor:_ Skip Lievsay
-
-_Dialogue Editors:_ Fred Rosenberg,
-
-Philip Stockton
-
-_Effects Editors:_ Glenfield Payne, Paul Urmson
-
-_ADR Editor:_ Kenton Jakub
-
-_Supervisor Foley:_ Ben Cheah
-
-_Foley Artists:_ Marko Costanzo, Jay Peck
-
-_Foley Editors:_ Kam Chan, Frank Kern,
-
-Jennifer Ralston
-
-_Stunt Co-ordinator:_ Jery Hewitt
-
-_Animal Handlers:_ Birds & Animals
-
-_Animal Co-ordinator:_ Jennifer Henderson
-
-_Unit Publicist:_ Louise A. Spencer
-
-_Cast:_
-
-George Clooney _(Everett Ulysses McGill)_
-
-John Turturro _(Pete)_
-
-Tim Blake Nelson _(Delmar)_
-
-Charles Durning _(Pappy O’Daniel)_
-
-John Goodman _(Big Dan Teague)_
-
-Michael Badalucco _(George Nelson)_
-
-Holly Hunter _(Penny)_
-
-Stephen Root _(radio station man)_
-
-Chris Thomas King _(Tommy Johnson)_
-
-Wayne Duvall _(Homer Stokes)_
-
-Daniel Von Bargen _(Sheriff Cooley)_
-
-J.R. Horne, Brian Reddy _(Pappy’s staffs)_
-
-Frank Collison _(Wash Hogwallop)_
-
-Del Pentecost _(Junior O’Daniel)_
-
-Ed Gale _(the little man)_
-
-Ray McKinnon _(Vernon T. Waldrip)_
-
+**Cast**  
+George Clooney _(Everett Ulysses McGill)_  
+John Turturro _(Pete)_  
+Tim Blake Nelson _(Delmar)_  
+Charles Durning _(Pappy O’Daniel)_  
+John Goodman _(Big Dan Teague)_  
+Michael Badalucco _(George Nelson)_  
+Holly Hunter _(Penny)_  
+Stephen Root _(radio station man)_  
+Chris Thomas King _(Tommy Johnson)_  
+Wayne Duvall _(Homer Stokes)_  
+Daniel Von Bargen _(Sheriff Cooley)_  
+J.R. Horne, Brian Reddy _(Pappy’s staffs)_  
+Frank Collison _(Wash Hogwallop)_  
+Del Pentecost _(Junior O’Daniel)_  
+Ed Gale _(the little man)_  
+Ray McKinnon _(Vernon T. Waldrip)_  
 Royce D. Applegate _(man with bullhorn)_  
 Quinn Gasaway _(Bog Hogwallop)_  
 Lee Weaver _(blind seer)_  
@@ -259,5 +208,5 @@ USA/France/UK 2000©
 
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0ODAxNzE5XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg2NjU3OTldfQ==
 -->
