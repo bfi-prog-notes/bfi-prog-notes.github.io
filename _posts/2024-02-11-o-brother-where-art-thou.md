@@ -6,8 +6,7 @@ One of the earliest gags thrown out (and apparently away) by the Brothers Coen i
 
 None of which would appear to have very much point, other than in adding a certain quality of bookish gamesomeness to the proceedings for those in the know, just as a movie buff’s knowledge of the film’s undeclared source, Preston Sturges’ 1941 comedy _Sullivan’s Travels_ (in which the idealistic director played by Joel McCrea yearns to make a socially conscious epic entitled _O Brother, Where Art Thou?_), will give a little extra relish to the scene in which a chain gang is marched into the local cinema for their weekly dose of motion entertainment. Disparate as they otherwise are, though, the two classic sources of Sturges’ _Travels_ and Homer’s _Odyssey_ do have at least one thing in common: they share the basic structure of the episodic adventure journey – a form which can have the virtue of mating a reasonably strong narrative drive with a pleasingly wide and promiscuous range of subject matter.
 
-The better part of a century ago, both James Joyce and Ezra Pound twigged to the usefulness of the _Odyssey_ as a clothes line for hanging your obsessions on; though the Coens are neither as universally compendious as Joyce nor as nastily deranged as Pound, their film is also a bit of an encyclopaedic rag-bag or cabinet of curiosities, stuffed to bursting point with the minutiae of American popular culture and folk memory. At one point or another, their film invokes more or less directly all of the following and more: the satanic legend of blues guitarist Robert Johnson, the career of Louisiana governor Huey Long,  
-_The Wizard of Oz_, the modernising and devastating activities of the Tennessee Valley Authority, bank robbers Bonnie and Clyde, _The Grapes of Wrath_, Southern novelist Flannery O’Connor’s religious zealots and hucksters, writer James Agee and photographer Walker Evans’ account of the Depression years _Let Us Now Praise Famous Men_ and the Lord alone knows what else.
+The better part of a century ago, both James Joyce and Ezra Pound twigged to the usefulness of the _Odyssey_ as a clothes line for hanging your obsessions on; though the Coens are neither as universally compendious as Joyce nor as nastily deranged as Pound, their film is also a bit of an encyclopaedic rag-bag or cabinet of curiosities, stuffed to bursting point with the minutiae of American popular culture and folk memory. At one point or another, their film invokes more or less directly all of the following and more: the satanic legend of blues guitarist Robert Johnson, the career of Louisiana governor Huey Long, _The Wizard of Oz_, the modernising and devastating activities of the Tennessee Valley Authority, bank robbers Bonnie and Clyde, _The Grapes of Wrath_, Southern novelist Flannery O’Connor’s religious zealots and hucksters, writer James Agee and photographer Walker Evans’ account of the Depression years _Let Us Now Praise Famous Men_ and the Lord alone knows what else.
 
 Above all, it’s a compendium of American musical styles of the period, from blues and gospel to bluegrass and back again, comparable in spirit and sheer enjoyment value to Harry Smith’s celebrated anthology of American folk music of the ‘20s and ‘30s, re-issued on CDs a couple of years ago to ecstatic reviews and brisk sales. Simply, _O Brother, Where Art Thou?_ has one of the richest and most satisfying soundtracks I’ve heard in years: hats off to T-Bone Burnett, who arranged and produced it, as well as recruiting a lot of the performers.
 
@@ -15,11 +14,250 @@ So much for the encyclopaedic rag-bag. As for the narrative clothes line: well, 
 
 Clooney’s character holds the film together as much as such a digressive narrative can be held together, and few viewers are going to be much bothered by the implausibilities and grandstanding vignettes which threaten to pull it apart from time to time. As you’d expect from the Coens, _O Brother_ is rich in visual jokes, from very simple slapstick stunts (chained together, the convicts try to jump on to a train one after another; Everett goes first, only to be yanked back into the dust by his less athletic peers) to less readily encapsulated effects, such as the neatly shot moment in which the siren-drugged cons wake up and see that nothing is left of their friend Pete (John Turturro) but a carefully laid-out set of clothes. The torch-lit Klan rally, which the gang eavesdrop, is a particularly strange piece of virtuoso staging, which manages to be at once camp and authentically sinister.
 
-Time to raise and, if possible, lance the old objection levelled against the Coens by unbelievers: yes, they are clever, very clever, too clever by half, but where is the substance, the warmth, the passion? One answer, this time around, is that it is obviously possible to love some of the things you mock (to mock them partly because you love them), and that the treatment of American music in  
-_O Brother_, even silly yodelling American music, is in the end far more loving than mocking, just as it was in Robert Altman’s _Nashville_ (1975).
+Time to raise and, if possible, lance the old objection levelled against the Coens by unbelievers: yes, they are clever, very clever, too clever by half, but where is the substance, the warmth, the passion? One answer, this time around, is that it is obviously possible to love some of the things you mock (to mock them partly because you love them), and that the treatment of American music in _O Brother_, even silly yodelling American music, is in the end far more loving than mocking, just as it was in Robert Altman’s _Nashville_ (1975).
 
-And what is true of the music is true of the culture which produced that music: it would be hard for filmmakers with no real attachment to Americana to produce a movie so besotted with the bric-a-brac of their nation’s half-forgotten folk ways. It was always clear that the Coens were film-fed boys, but less clear how reverent they felt to their pop-cultural roots. Maybe, like Ulysses or Odysseus, they’ve finally come home to Ithaca. In any event, _O Brother, Where Art Thou?_ is a finely wrought entertainment film, one which any con might be pleased to see on his afternoon away from the chain gang. 
-Kevin Jackson, _Sight and Sound_, October 2000
+And what is true of the music is true of the culture which produced that music: it would be hard for filmmakers with no real attachment to Americana to produce a movie so besotted with the bric-a-brac of their nation’s half-forgotten folk ways. It was always clear that the Coens were film-fed boys, but less clear how reverent they felt to their pop-cultural roots. Maybe, like Ulysses or Odysseus, they’ve finally come home to Ithaca. In any event, _O Brother, Where Art Thou?_ is a finely wrought entertainment film, one which any con might be pleased to see on his afternoon away from the chain gang.  
+**Kevin Jackson, _Sight and Sound_, October 2000**  
+<br>
+<![endif]-->
+
+**O BROTHER, WHERE ART THOU?**
+
+_Directed by:_ Joel Coen
+
+_Presented by:_ Universal Pictures,
+
+Touchstone Pictures
+
+_In association with:_ StudioCanal
+
+_Production Companies:_ Working Title Films, Blind Bard Pictures
+
+_Executive Producers:_ Tim Bevan, Eric Fellner
+
+_Produced by:_ Ethan Coen
+
+_Co-producer:_ John Cameron
+
+_Associate Producer:_ Robert Graf
+
+_Production Supervisor:_ Gilly Ruben
+
+_Production Accountant:_ Barbara Ann Stein
+
+_Production Co-ordinator:_ Karen Ruth Getchell
+
+_Unit Production Manager:_ John Cameron
+
+_Location Manager:_ Michael Riley
+
+_Post-production Provost:_ Neil A. Stelzner
+
+_Post-production Supervisor:_ David Diliberto
+
+_1st Assistant Director:_ Betsy Magruder
+
+_2nd Assistant Director:_ Jonathan McGarry
+
+_2nd 2nd Assistant Director:_ Donald Murphy
+
+_Script Supervisor:_ Thomas Johnston
+
+_Casting:_ Ellen Chenoweth
+
+_Local Casting:_ Sandy Dawes
+
+_Additional Casting:_ Kathleen Chopin
+
+_Voice Casting:_ Sondra James
+
+_Screenplay:_ Ethan Coen, Joel Coen
+
+_Based upon ‘The Odyssey’ by:_ Homer
+
+_Director of Photography:_ Roger Deakins
+
+_Camera Operator:_ Clint Dougherty
+
+_1st Assistant Camera:_ Andy Harris
+
+_2nd Assistant Camera:_ Adam Gilmore
+
+_Steadicam Operators:_ Kyle Rudolph,
+
+Mark O’Kane
+
+_Still Photographer:_ Melinda Sue Gordon
+
+_Special Visual Effects/Digital Animation:_
+
+Digital Domain
+
+_Graphic Art Director:_ Ted Haigh
+
+_Editors:_ Roderick Jaynes [i.e., Joel Coen,
+
+Ethan Coen], Tricia Cooke
+
+_Associate Film Editor:_ David Diliberto
+
+_1st Assistant Editor:_ Ian Silverstein
+
+_2nd Assistant Editor:_ Karyn Anonia
+
+_Production Designer:_ Dennis Gassner
+
+_Art Director:_ Richard Johnson
+
+_Assistant Art Director:_ Marco Rubeo
+
+_Set Designer:_ Thomas Minton
+
+_Set Consultant:_ Jonathan Short
+
+_Set Decorator:_ Nancy Haigh
+
+_Storyboard Artist:_ J. Todd Anderson
+
+_Property Master:_ Ritchie Kremer
+
+_Construction Co-ordinators:_ Bill Bradford,
+
+Jeff Passanante
+
+_Costume Designer:_ Mary Zophres
+
+_Assistant Costume Designer:_ Danielle Valenciano
+
+_Make-up Supervisor:_ Jean Black
+
+_Key Make-up:_ Amy Schmiederer
+
+_Head Hairstylist:_ Paul LeBlanc
+
+_Key Hairstylists:_ Roy Bryson, Barbara Sanders, Karyn Huston
+
+_Mr George Clooney’s Hairstylist:_ Waldo Sanchez
+
+_Title Design and Other Cool Stuff:_
+
+Balsmeyer & Everett Inc
+
+_Digital Intermediate:_ Cinesite, Inc
+
+_Music by:_ T-Bone Burnett
+
+_Additional Music by:_ Carter Burwell
+
+_Yodelling:_ Pat Enright
+
+_Music Co-ordinator:_ Lee Olsen
+
+_Music Producer:_ T-Bone Burnett
+
+_Music Producer:_ Denise Stitt
+
+_Associate Music Producer:_ Gillian Welch
+
+_Music Production Co-ordinator:_ Valerie Pack
+
+_Music Editor:_ Sean Garnhart
+
+_Music Recorded by:_ Mike Piersante
+
+_Choreographers:_ Jacqui Landrum, Bill Landrum
+
+_Sound Designer:_ Eugene Gearty
+
+_Production Sound Mixer:_ Peter Kurland
+
+_Boom Operator:_ Steve Bowerman
+
+_Re-recording Mixers:_ Skip Lievsay, Michael Barry,
+
+Sean Garnhart, Greg Orloff
+
+_Supervising Sound Editor:_ Skip Lievsay
+
+_Dialogue Editors:_ Fred Rosenberg,
+
+Philip Stockton
+
+_Effects Editors:_ Glenfield Payne, Paul Urmson
+
+_ADR Editor:_ Kenton Jakub
+
+_Supervisor Foley:_ Ben Cheah
+
+_Foley Artists:_ Marko Costanzo, Jay Peck
+
+_Foley Editors:_ Kam Chan, Frank Kern,
+
+Jennifer Ralston
+
+_Stunt Co-ordinator:_ Jery Hewitt
+
+_Animal Handlers:_ Birds & Animals
+
+_Animal Co-ordinator:_ Jennifer Henderson
+
+_Unit Publicist:_ Louise A. Spencer
+
+_Cast:_
+
+George Clooney _(Everett Ulysses McGill)_
+
+John Turturro _(Pete)_
+
+Tim Blake Nelson _(Delmar)_
+
+Charles Durning _(Pappy O’Daniel)_
+
+John Goodman _(Big Dan Teague)_
+
+Michael Badalucco _(George Nelson)_
+
+Holly Hunter _(Penny)_
+
+Stephen Root _(radio station man)_
+
+Chris Thomas King _(Tommy Johnson)_
+
+Wayne Duvall _(Homer Stokes)_
+
+Daniel Von Bargen _(Sheriff Cooley)_
+
+J.R. Horne, Brian Reddy _(Pappy’s staffs)_
+
+Frank Collison _(Wash Hogwallop)_
+
+Del Pentecost _(Junior O’Daniel)_
+
+Ed Gale _(the little man)_
+
+Ray McKinnon _(Vernon T. Waldrip)_
+
+Royce D. Applegate _(man with bullhorn)_  
+Quinn Gasaway _(Bog Hogwallop)_  
+Lee Weaver _(blind seer)_  
+Milford Fortenberry _(pomade vendor)_  
+John Locke _(Mr French)_  
+Gillian Welch _(soggy bottom customer)_  
+A. Ray Ratliff _(record store clerk)_  
+Mia Tate, Musetta Vander, Christy Taylor _(sirens)_  
+April Hardcastle _(waitress)_  
+Michael W. Finnell _(interrogator)_  
+Georgia Rae Rainer, Marianna Breland, Lindsey Miller, Natalie Shedd _(Wharvey gals)_  
+John McConnell _(Woolworths manager)_  
+Isaac Freeman, Wilson Waters Jr., Robert Hamlett _(gravediggers)_  
+Willard Cox, Evelyn Cox, Suzanne Cox, Sidney Cox _(Cox family members)_  
+Buck White, Sharon White, Sheryl White _(White family members)_  
+Ed Snodderly, David Holt _(village idiots)_  
+
+USA/France/UK 2000©  
+107 mins
+
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4ODQ1OTQ2XX0=
+eyJoaXN0b3J5IjpbOTc0ODAxNzE5XX0=
 -->
