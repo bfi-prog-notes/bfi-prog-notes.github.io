@@ -38,71 +38,42 @@ Perhaps the person who most appreciates Lizzy’s creative powers is Jo. And it 
 <br><br>
 
 **SHOWING UP**<br>
-
 _Directed by:_ Kelly Reichardt<br>
-
 _a_ filmscience _production_<br>
-
 _Presented by:_ A24<br>
-
-_Produced by:_ Neil Kopp, Vincent Savino,  
-Anish Savjani<br>
-
+_Produced by:_ Neil Kopp, Vincent Savino,  Anish Savjani<br>
 _Co-producer:_ Louise Lovegrove<br>
-
 _Line Producer:_ Becky Glupczynski<br>
-
 _Casting by:_ Gayle Keller<br>
-
 _Written by:_ Jon Raymond, Kelly Reichardt<br>
-
 _Director of Photography:_ Christopher Blauvelt<br>
-
 _Editor:_ Kelly Reichardt<br>
-
 _Production Designer:_ Anthony Gasparro<br>
-
 _Costume Designer:_ April Napier<br>
-
 _Score by:_ Ethan Rose<br>
-
 _Flute by:_ André Benjamin<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Michelle Williams _(Lizzy)_<br>
-
 Hong Chau _(Jo)_<br>
-
 André Benjamin _(Eric)_<br>
-
 Todd-o-Phonic Todd _(radio DJ)_<br>
-
 Lauren Lakis _(Terri)_<br>
-
 Denzel Rodriguez _(William)_<br>
-
 Jean-Luc Boucherot _(Peter)_<br>
-
 Ted Rooney _(Ted)_<br>
-
 Maryann Plunkett _(Jean)_<br>
-
 Heather Lawless _(Marlene)_<br>
-
 John Magaro _(Sean)_<br>
-
 James Le Gros _(Ira)_<br>
-
 Judd Hirsch _(Bill)_<br>
 
 USA 2022<br>
-
 108 mins<br>
-
 Digital<br>
 
-A Park Circus/Universal release
+A Park Circus/Universal release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTg1OTk5OF19
+eyJoaXN0b3J5IjpbLTMyNjQ4MzEwNl19
 -->
