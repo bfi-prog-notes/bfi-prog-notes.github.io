@@ -1,3 +1,14 @@
+---
+layout: post
+title: Showing Up
+published: true
+date: 2024-02-11
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'USA 2022, 108 mins<br> Director: Kelly Reichardt'
+pdf: '2024-02-11-showing-up.pdf'
+---
 
 From the rising tensions of a make-or-break week of a Portland artist getting ready for a big show, filmmaker Kelly Reichardt carves a profound, gorgeously layered portrait of a woman that is as much about what makes up a life as it is about making art. Michelle Williams shimmers with complexity as Lizzy, who is trying to hold things together when they keep trying to fall apart. Her hot water heater is busted, her brother might be going off the rails, her divorced parents are exasperating in their own separate ways, she’s surrounded by free spirits at the arts college where she works… and all this lies just below the raw surface of the work that feeds her soul.
 
@@ -74,6 +85,47 @@ Digital<br>
 
 A Park Circus/Universal release<br>
 <br>
+
+**NEW RELEASES**<br>
+**The Zone of Interest**<br>
+From Fri 2 Feb<br>
+**American Fiction**<br>
+From Fri 9 Feb<br>
+**The Taste of Things** La Passion du Dodin-Bouffant<br>
+From Fri 16 Feb (Preview on Wed 14 Feb)<br>
+**Getting It Back: The Story of Cymande**<br>
+From Fri 16 Feb (Preview + Q&A on Tue 13 Feb)<br>
+
+**RE-RELEASES**<br>
+**Days of Heaven**<br>
+From Fri 2 Feb<br>
+**City of God** Cidade de Deus<br>
+From Fri 23 Feb<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMyNjQ4MzEwNl19
 -->
