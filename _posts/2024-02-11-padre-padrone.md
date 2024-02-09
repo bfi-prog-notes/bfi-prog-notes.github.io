@@ -26,20 +26,14 @@ The circularity of events and the suffocation of village life are brilliantly sh
 Throughout, education is linked to power. Domination is based on a fusion of skills respected inside as well as outside the community. The physically stronger son can defy his father’s commands, but is still regarded as a parasite and a thief for failing to work with his hands. At the time of the final quarrel between Gavino and his father, his mother stands outside, singing to herself an eternal song which transcends the struggle. Without the physical strength to control his son, the father is undermined; but the son, no longer a shepherd, remains in the village he scorned, needing roots to nurture his talent, to become _padre padrone_ over words.  
 **Louise Sweet, _Monthly Film Bulleting_, November 1977**  
 <br>
-<![endif]-->
 
-**Padre Padrone**
-
+**PADRE PADRONE**  
 _Directors_: Paolo Taviani, Vittorio Taviani  
 _Production Company_: RAI  
 _Executive Producer_: Tonino Paoletti  
 _Producer_: Giuliani G. De Negri  
-_Assistant Directors_: Marco De Poli,
-
-Giampiero Cubeddu, Francesco Lizzani  
-_Screenplay and dialogue_: Paolo Taviani,
-
-Vittorio Taviani  
+_Assistant Directors_: Marco De Poli, Giampiero Cubeddu, Francesco Lizzani  
+_Screenplay and dialogue_: Paolo Taviani, Vittorio Taviani  
 _Adaptation_: Gavino Ledda  
 _Original autobiographical novel by_: Gavino Ledda  
 _Photography_: Mario Masini  
@@ -50,11 +44,9 @@ _Costumes_: Lina Nerli Taviani
 _Costumes Assistant_: Giovanna De Poli  
 _Music composed and conducted by_: Egisto Macchi  
 _Sound Recording_: Giovanni Sardo  
-_Sound Re-recording_: Pietrantonio Federico,
+_Sound Re-recording_: Pietrantonio Federico, Adriano Taloni  
 
-Adriano Taloni
-
-_Cast__:_  
+**Cast**  
 Omero Antonutti _(Efisio Ledda)_  
 Saverio Marconi _(Gavino Ledda)_  
 Marcella Michelangeli _(Gavino’s Mother)_  
@@ -90,14 +82,72 @@ Marco Sanna
 Stefano Satta  
 Mario Spissu  
 Salvatore Stangoli  
-Marco Unali
+Marco Unali  
 
 Italy 1977  
-115 mins
-
+115 mins  
 Digital 4K (restoration)  
 
 Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at Cinecittà S.p.A.
+
+<br>
+
+**MAGICAL REALISM:**
+**THE FILM FABLES OF THE TAVIANI BROTHERS**  
+**Elective Affinities** Le affinità elettive  
+Thu 1 Feb 20:35 (+ intro by season curator Adrian Wootton); Wed 21 Feb 18:30  
+**A Man for Burning (aka This Man is For Burning)** Un uomo da bruciare  
+Fri 2 Feb 18:10; Sat 10 Feb 20:40  
+**St. Michael Had a Rooster** San Michele aveva un gallo  
+Sun 4 Feb 13:30; Mon 12 Feb 20:40  
+**Allonsanfan** Allonsanfàn  
+Wed 7 Feb 18:20; Sat 24 Feb 20:25  
+**Kaos**  
+Sat 10 Feb 14:40; Sun 25 Feb 14:30  
+**Padre Padrone**  
+Sun 11 Feb 15:20; Thu 22 Feb 20:45  
+**Wondrous Boccaccio** Meraviglioso Boccaccio  
+Mon 19 Feb 18:45; Mon 26 Feb 20:40  
+**You Laugh** Tu ridi  
+Fri 23 Feb 18:10; Wed 28 Feb 20:50  
+**Caesar Must Die** Cesare deve morire  
+Sat 24 Feb 12:00; Thu 29 Feb 20:50  
+<BR>
+**With thanks to**  
+Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.  
+<br>
+**Co-produced by**  
+Cinecittà, Rome
+
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br>
+
+
+The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NDM5NjRdfQ==
+eyJoaXN0b3J5IjpbLTY5ODI3NTA0OF19
 -->
