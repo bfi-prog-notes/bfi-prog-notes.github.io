@@ -100,11 +100,11 @@ Nicholas Salter _(Johnny Baxter)_
 Sharon Williams _(Christine Baxter)_  
 Bruno Cattaneo _(Detective Sabbione)_  
 Adelina Poerio _(dwarf)_  
-UK/Italy 1973©
 
-110 mins
-
+UK/Italy 1973©  
+110 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDYyMjgzOF19
+eyJoaXN0b3J5IjpbLTE0NzEzMDM4MzRdfQ==
 -->
