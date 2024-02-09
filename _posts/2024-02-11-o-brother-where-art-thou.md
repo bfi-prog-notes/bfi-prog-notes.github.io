@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: O Brother, Where Art Thou?
+published: true
+date: 2024-02-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Comedy]
+metadata: 'France 1950, 94 mins<br> Director: Jean Cocteau'
+pdf: '2024-02-10-orphee.pdf'
+---
 
 One of the earliest gags thrown out (and apparently away) by the Brothers Coen is their po-faced title-credit claim that _O Brother, Where Art Thou?_ is based on the _Odyssey_. Aha, you think, typical smart-alecky college-boy spoofery… and then darn it if the Homeric parallels don’t start coming thick and fast. A hero called Ulysses heading back home to see off the suitors for his wife Penny/Penelope; a one-eyed and hence suitably Cyclopean bad guy in the corpulent form of John Goodman, crooked Bible salesman and KKK goon Big Dan Teague; a trio of exquisitely sexy sirens, who coax our crew, three escapees from a chain gang on the trail of a cache of buried money, to the river and oblivion with sweet song and spiked hooch, and even manage to turn one of them – or so his superstitious pals believe – into a frog; blind men prophesying signs and wonders and a guy called Homer.
 
@@ -19,17 +27,11 @@ Time to raise and, if possible, lance the old objection levelled against the Coe
 And what is true of the music is true of the culture which produced that music: it would be hard for filmmakers with no real attachment to Americana to produce a movie so besotted with the bric-a-brac of their nation’s half-forgotten folk ways. It was always clear that the Coens were film-fed boys, but less clear how reverent they felt to their pop-cultural roots. Maybe, like Ulysses or Odysseus, they’ve finally come home to Ithaca. In any event, _O Brother, Where Art Thou?_ is a finely wrought entertainment film, one which any con might be pleased to see on his afternoon away from the chain gang.  
 **Kevin Jackson, _Sight and Sound_, October 2000**  
 <br>
-<![endif]-->
 
-**O BROTHER, WHERE ART THOU?**
-
-_Directed by:_ Joel Coen
-
-_Presented by:_ Universal Pictures,
-
-Touchstone Pictures
-
-_In association with:_ StudioCanal 
+**O BROTHER, WHERE ART THOU?**  
+_Directed by:_ Joel Coen  
+_Presented by:_ Universal Pictures, Touchstone Pictures  
+_In association with:_ StudioCanal  
 _Production Companies:_ Working Title Films, Blind Bard Pictures  
 _Executive Producers:_ Tim Bevan, Eric Fellner  
 _Produced by:_ Ethan Coen  
@@ -148,5 +150,5 @@ USA/France/UK 2000©
 
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQ1NjU3MV19
+eyJoaXN0b3J5IjpbNDYwNTY0ODI0XX0=
 -->
