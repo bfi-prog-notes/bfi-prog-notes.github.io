@@ -14,29 +14,24 @@ Jonathan Ricquebourg’s restless handheld camera brings a freshness to the genr
 More than simply a film about food, then, _The Taste of Things_ is a reflection on artists, and the ways in which they communicate through their work, and the peculiar pleasures and anxieties that brings. Asked why she doesn’t share the table with their guests, Eugénie demurs that her cooking is her contribution to the conversation. The cook, that is, like the writer or the painter, sends out a passionate utterance to the world and waits to learn how it will be received. In the film’s most tender moment Dodin, who has prepared a bespoke menu for Eugénie, nervously asks to watch her eat. Since we have witnessed his efforts in the kitchen, the twisting of his body and scalding of his fingers and labouring of his breath, the request is imbued with a clear vulnerability. As the film progresses, it also reveals itself to be about grief, and rebirth, and what happens when there is no one to receive what we so desperately want to give – a theme that also shaped Hûng’s earlier works _The Scent of Green Papaya_ (1993) and _Norwegian Wood_ (2010).
 
 Of course, the temptation with writing about any foodie movie is to descend into metaphor, particularly when romance is involved. The scholar Alice Guilluy has written eloquently about the tendency among critics to dismiss romances as ‘sugary confections’, implying, of course, that they’re akin to junk food: lacking substance or value. No doubt about it, _The Taste of Things_ fits the clichés. It is a feast for the senses; the perfect balance of salt, heat, acid, fat; an exquisite delicacy and a thing of substance. But it is more than that besides. In a way, the food is the least interesting thing about it.  
-**Catherine Wheatley, _Sight and Sound_, March 2024
-
-<![endif]-->
+**Catherine Wheatley, _Sight and Sound_, March 2024**
+<br><br>
 
 **THE TASTE OF THINGS  
-(LA PASSION DU DODIN-BOUFFANT)**
-
+(LA PASSION DU DODIN-BOUFFANT)**  
 _A film by_: Trân Anh Hûng  
 ©: Curiosa Films, Gaumont, France 2 Cinéma  
 _Production Company_: Curiosa Films  
-_In coproduction with_: Gaumont,  
-France 2 Cinéma, uMedia  
+_In coproduction with_: Gaumont,  France 2 Cinéma, uMedia  
 _Presented by_: Gaumont  
 _Produced by_: Olivier Delbosc  
 _Associate Producer_: Emilien Bignon  
 _Production Manager_: Angeline Massoni  
-_Post-production Supervisors_:  
-Anne-Sophie Henry-Cavillon, Susana Antunes  
+_Post-production Supervisors_:  Anne-Sophie Henry-Cavillon, Susana Antunes  
 _Post-production Manager_: Pierre Py  
 _1st Assistant Director_: Thierry Verrier  
 _Script Supervisor_: Cathy Mlakar  
-_Casting by_: Gigi Akoka, Valérie Espagne,  
-Marie-Pierre Delabrière  
+_Casting by_: Gigi Akoka, Valérie Espagne,  Marie-Pierre Delabrière  
 _Screenplay/Adaptation/Dialogue_: Trân Anh Hûng  
 _Loosely based on ‘La Vie et la Passion de Dodin-Bouffant’ by_: Marcel Rouff  
 _Director of Photography_: Jonathan Ricquebourg  
@@ -54,8 +49,7 @@ _Sound Effects Recording_: Aline Gavroy
 _Gastronomic Direction_: Pierre Gagnaire  
 _Culinary Adviser_: Michel Nave
 
-_Cast:_
-
+**Cast**  
 Juliette Binoche _(Eugénie)_  
 Benoît Magimel _(Dodin)_  
 Emmanuel Salinger _(Rabaz)_  
@@ -77,13 +71,12 @@ Cécile Bodson, Céline Duraffourg _(candidates)_
 Michel Cherruault _(Louis)_  
 Jean-Louis Dupont _(priest)_
 
-France-Belgium 2022©
-
-135 mins
-
+France-Belgium 2022©  
+135 mins  
 Digital
 
 A Picturehouse Entertainment release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyODMxMjI5XX0=
+eyJoaXN0b3J5IjpbLTEzMzA3MzgzODhdfQ==
 -->
