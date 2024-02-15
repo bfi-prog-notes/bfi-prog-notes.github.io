@@ -22,10 +22,8 @@ Though he has never won an Academy Award, Christopher Nolan’s personal accolad
 Nolan will be joining the distinguished ranks of other BFI Fellows including David Lean, Bette Davis, Akira Kurosawa, Ousmane Sembène, Elizabeth Taylor, Michael Powell, Emeric Pressburger, Orson Welles, Thelma Schoonmaker, Derek Jarman, Martin Scorsese, Satyajit Ray, Yasujiro Ozu and, most recently, Tilda Swinton, Barbara Broccoli, Michael G. Wilson and Spike Lee.
 <br><br>
 
-**Christopher Nolan**
-
-Born 30 July 1970, London, UK
-
+**Christopher Nolan**  
+Born 30 July 1970, London, UK<br>
 As Director | Selected filmography
 
 **2023  Oppenheimer** (+ prod/scr)<br>
@@ -39,18 +37,14 @@ As Director | Selected filmography
 **2006  The Prestige** (+ prod/scr)<br>
 **2005  Batman Begins** (+ scr)<br>
 **2002  Insomnia**<br>
-
 **2000  Memento** (+ scr)<br>
-
 **1998  Following** (+ prod/scr/ed/phot)<br>
-
 **1997  Doodlebug** (short)<br>
-
 **1996  Larceny** (short)<br>
-
 **1989  Tarantella** (short)<br>
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgzOTgyNjYsMTUzOTc3NTExNV19
+eyJoaXN0b3J5IjpbLTE5NDM3OTg1NTQsLTE0MzgzOTgyNjYsMT
+UzOTc3NTExNV19
 -->
