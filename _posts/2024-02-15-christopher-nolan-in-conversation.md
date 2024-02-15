@@ -33,17 +33,11 @@ As Director | Selected filmography
 **2017  Dunkirk** (+ prod/scr)<br>
 **2015  Quay** (short)<br>
 **2014  Interstellar** (+ prod/scr)<br>
-
 **2012  The Dark Knight Rises** (+ prod/scr)<br>
-
 **2010  Inception** (+ prod/scr)<br>
-
 **2008  The Dark Knight** (+ prod/scr)<br>
-
 **2006  The Prestige** (+ prod/scr)<br>
-
 **2005  Batman Begins** (+ scr)<br>
-
 **2002  Insomnia**<br>
 
 **2000  Memento** (+ scr)<br>
@@ -58,5 +52,5 @@ As Director | Selected filmography
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTI0NjQ3OCwxNTM5Nzc1MTE1XX0=
+eyJoaXN0b3J5IjpbLTE0MzgzOTgyNjYsMTUzOTc3NTExNV19
 -->
