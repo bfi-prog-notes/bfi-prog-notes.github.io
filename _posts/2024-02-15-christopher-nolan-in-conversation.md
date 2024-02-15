@@ -19,10 +19,8 @@ epic scale, this time with a visceral, hyper realistic style that effectively ar
 
 Though he has never won an Academy Award, Christopher Nolan’s personal accolades are numerous and far-reaching. He received the CBE in 2019, has had five Academy Award nominations, five BAFTA nominations, six Golden Globes nominations and, in 2012, he became the youngest director to be honoured with a hand-and-footprint ceremony at Grauman’s Chinese Theatre in Los Angeles. Last year he won the NATO Spirit of the Industry award and the Sundance Institute’s first ever Trailblazer Award.
 
-Nolan will be joining the distinguished ranks of other BFI Fellows including David Lean, Bette Davis, Akira Kurosawa, Ousmane Sembène, Elizabeth Taylor, Michael Powell, Emeric Pressburger, Orson Welles, Thelma Schoonmaker, Derek Jarman, Martin Scorsese, Satyajit Ray, Yasujiro Ozu  
-and, most recently, Tilda Swinton, Barbara Broccoli, Michael G. Wilson and Spike Lee.
-
-<![endif]-->
+Nolan will be joining the distinguished ranks of other BFI Fellows including David Lean, Bette Davis, Akira Kurosawa, Ousmane Sembène, Elizabeth Taylor, Michael Powell, Emeric Pressburger, Orson Welles, Thelma Schoonmaker, Derek Jarman, Martin Scorsese, Satyajit Ray, Yasujiro Ozu and, most recently, Tilda Swinton, Barbara Broccoli, Michael G. Wilson and Spike Lee.
+<br><br>
 
 **Christopher Nolan**
 
@@ -30,37 +28,35 @@ Born 30 July 1970, London, UK
 
 As Director | Selected filmography
 
-**2023  Oppenheimer** (+ prod/scr)
+**2023  Oppenheimer** (+ prod/scr)<br>
+**2020  Tenet** (+ prod/scr)<br>
+**2017  Dunkirk** (+ prod/scr)<br>
+**2015  Quay** (short)<br>
+**2014  Interstellar** (+ prod/scr)<br>
 
-**2020  Tenet** (+ prod/scr)
+**2012  The Dark Knight Rises** (+ prod/scr)<br>
 
-**2017  Dunkirk** (+ prod/scr)
+**2010  Inception** (+ prod/scr)<br>
 
-**2015  Quay** (short)
+**2008  The Dark Knight** (+ prod/scr)<br>
 
-**2014  Interstellar** (+ prod/scr)
+**2006  The Prestige** (+ prod/scr)<br>
 
-**2012  The Dark Knight Rises** (+ prod/scr)
+**2005  Batman Begins** (+ scr)<br>
 
-**2010  Inception** (+ prod/scr)
+**2002  Insomnia**<br>
 
-**2008  The Dark Knight** (+ prod/scr)
+**2000  Memento** (+ scr)<br>
 
-**2006  The Prestige** (+ prod/scr)
+**1998  Following** (+ prod/scr/ed/phot)<br>
 
-**2005  Batman Begins** (+ scr)
+**1997  Doodlebug** (short)<br>
 
-**2002  Insomnia**
+**1996  Larceny** (short)<br>
 
-**2000  Memento** (+ scr)
+**1989  Tarantella** (short)<br>
+<br><br>
 
-**1998  Following** (+ prod/scr/ed/phot)
-
-**1997  Doodlebug** (short)
-
-**1996  Larceny** (short)
-
-**1989  Tarantella** (short)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTc3NTExNV19
+eyJoaXN0b3J5IjpbMjA4NTI0NjQ3OCwxNTM5Nzc1MTE1XX0=
 -->
