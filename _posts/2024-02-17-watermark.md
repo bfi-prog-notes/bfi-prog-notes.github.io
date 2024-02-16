@@ -76,11 +76,10 @@ _Re-recording Mixer_: David Rose
 _Supervising Sound Editor_: David Rose  
 _Thanks_: Atom Egoyan
 
-Canada-Germany 2013©
-
-91 mins
-
+Canada-Germany 2013©  
+91 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTc3MzAxMl19
+eyJoaXN0b3J5IjpbMjA2MDM2MTA1NF19
 -->
