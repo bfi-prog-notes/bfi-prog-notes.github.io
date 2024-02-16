@@ -74,63 +74,34 @@ _Production Accountant:_ Stephen Paniccia<br>
 _Production Co-ordinator:_ Sarah Christie<br>
 _Daily Production Co-ordinator:_ Kerryn Ciracovitch<br>
 _China Production Co-ordinator:_ Maggie Tang<br>
-
-_Film & Video Post Facility:_  
-Technicolor Creative Services (Montréal)<br>
-
+_Film & Video Post Facility:_  Technicolor Creative Services (Montréal)<br>
 _Audio Post Facility:_ Tattersall Sound & Picture<br>
-
 _Office Manager:_ Christine Hobson<br>
-
-_Production Assistants:_ Ryan J. Noth,  
-Brooke Hanson, Ted Hobson<br>
-
+_Production Assistants:_ Ryan J. Noth,  Brooke Hanson, Ted Hobson<br>
 _Research Assistant:_ Chelsea McMullan<br>
-
 _Archival Footage Directed by:_ Jeff Powis<br>
-
 _Director of Photography:_ Peter Mettler<br>
-
-_Brooklyn Museum Cinematography:_  
-Nick de Pencier<br>
-
+_Brooklyn Museum Cinematography:_  Nick de Pencier<br>
 _California Aerial Cinematography:_ Noah Weinzweig<br>
-
 _Camera Assistant:_ John Price<br>
-
 _Motion Designer:_ Stephanie Dudley<br>
-
 _Editor:_ Roland Schlimme<br>
-
 _Assistant Editor:_ Avril Jacobson<br>
-
-_Assistant Editors (Daily):_ Cort Bremner,  
-Joseph Doane<br>
-
+_Assistant Editors (Daily):_ Cort Bremner,  Joseph Doane<br>
 _Sound Design:_ Peter Mettler, Roland Schlimme, David Rose, Jane Tattersall, Dan Driscoll<br>
-
 _Location Sound Recordist:_ Sanjay Mehta<br>
-
 _Re-recording Mixer:_ Lou Solakofski<br>
-
 _Dialogue Editor:_ Jane Tattersall<br>
-
 _Effects Editor:_ David Rose<br>
-
 _Archival Footage Courtesy of:_ Restless Pictures<br>
-
-_Translators:_ Lanny Dong Zhi Ying,
-
-Longyu Tong, Luo Li<br>
+_Translators:_ Lanny Dong Zhi Ying, Longyu Tong, Luo Li<br>
 
 Canada 2006©<br>
-
 88 mins<br>
-
 Digital<br>
 
 **This work contains flashing images which may affect viewers who are susceptible to photosensitive epilepsy.**  
 This is a nightclub scene 1 hour 14 minutes into the film. Duration less than 2 minutes.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjM0NzU4OV19
+eyJoaXN0b3J5IjpbMTUxMzU3NjY5N119
 -->
