@@ -16,21 +16,15 @@ I think the balance of scale and detail is also where we have learned from each 
 
 Below are some stats on the film’s production:
 
-Filmed over 3 years, 2 months and 22 days
+Filmed over 3 years, 2 months and 22 days  
+50.77 TB of raw footage  
+202 hours and 57 minutes of material  
+43 locations, 20 countries, 6 of 7 continents  
+6 wrappers, 10 codecs, 29 cameras  
+10 months of editing  
+Made without a traditional script
 
-<![if !supportLists]>· <![endif]>50.77 TB of raw footage
-
-<![if !supportLists]>· <![endif]>202 hours and 57 minutes of material
-
-<![if !supportLists]>· <![endif]>43 locations, 20 countries, 6 of 7 continents
-
-<![if !supportLists]>· <![endif]>6 wrappers, 10 codecs, 29 cameras
-
-<![if !supportLists]>· <![endif]>10 months of editing
-
-<![if !supportLists]>· <![endif]>Made without a traditional script
-
-Jennifer Baichwal, also on behalf of co-directors Nicholas de Pencier and Edward Burtynsky
+**Jennifer Baichwal, also on behalf of co-directors Nicholas de Pencier and Edward Burtynsky**<br><br>
 
 **Jennifer Baichwal** has been directing and producing documentaries for 25 years. Among other films, installations and lens-based projects, she has made 10 feature documentaries which have played all over the world and won awards nationally and internationally. These features include: _Let It Come Down: The Life of Paul Bowles_ (International Emmy); _The Holier It Gets_ (Best Canadian and Best Cultural Film, Hot Docs); _The True Meaning of Pictures_ (Best Arts Doc, Geminis); _Manufactured_ _Landscapes_ (Best Canadian Film, TIFF, Al Gore Reel Current Award); _Act of God_ (opening night film, Hot Docs); _Payback_ (Sundance); _Watermark_ (Berlin, Best Canadian Film, TFCA, and Best Feature Doc, CSA); _Long Time Running_ (TIFF Gala); and _ANTHROPOCENE: The Human Epoch_ (TIFF, Sundance, Berlin, Best Canadian Film, TFCA, and Best Feature Doc, CSA).
 
@@ -59,50 +53,49 @@ Burtynsky’s distinctions include the inaugural TED Prize (which he shared with
 Burtynsky is represented by: Nicholas Metivier Gallery, Toronto; Paul Kuhn Gallery, Calgary; Robert Koch Gallery, San Francisco; Sundaram Tagore Gallery, New York and Hong Kong; Howard Greenberg Gallery, New York; Flowers Gallery, London; Admira Photography, Milan; Galerie Springer, Berlin; and Weinstein Hammons Gallery, Minneapolis.
 
 **Host: Farah Ahmed** is the Climate Justice Lead at Julie’s Bicycle. She supports the curation of events and the Creative Climate Justice programme, developing resources, training and advocacy, connecting environmental, racial and social justice, and creative activism. Her interest lies in how art can centre stories and solutions from the frontlines of climate impacts, and how we can imagine and enact decolonial and anti-capitalist ways of being. Farah is also co-founder and facilitator of Diaspora Futures, a reflective space for people of colour to centre collective care in the face of the climate crisis. She is a trustee for Platform London, an art, activism, education and research organisation campaigning for social and ecological justice. She was on the sounding board for Arvae, a site-specific experiment in collaborative work between artists, scientists and regional environmental experts in Arosa, Switzerland, and was also on the oversight board for Art For The People, a citizen’s assembly on arts and culture in Coventry. She is an alumni of the peer-led accelerator programme Huddlecraft and is also an Arts Emergency mentor, supporting young people into careers in the arts.
+<br><br>
 
-<![endif]-->
+**ANTHROPOCENE: The Human Epoch**<br>
 
-**ANTHROPOCENE: The Human Epoch**
+_A film by:_ Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky<br>
 
-_A film by:_ Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky
-
-©: Anthropocene Films Inc.
+©: Anthropocene Films Inc.<br>
 
 _Presented by:_ Mercury Films, Telefilm Canada,  
-The Rogers Group of Funds through the Theatrical Documentary Program
+The Rogers Group of Funds through the Theatrical Documentary Program<br>
 
-_In association with:_ Mongrel Media
+_In association with:_ Mongrel Media<br>
 
-_Produced with the participation of:_ The Canada Media Fund, The Movie Network, Ontario Creates, Telus Fund, Rogers Documentary Fund, Bell Fund
+_Produced with the participation of:_ The Canada Media Fund, The Movie Network, Ontario Creates, Telus Fund, Rogers Documentary Fund, Bell Fund<br>
 
-_In association with:_ TVO
+_In association with:_ TVO<br>
 
-_With the assistance of:_ The Canadian Film or Video Production Tax Credit
+_With the assistance of:_ The Canadian Film or Video Production Tax Credit<br>
 
 _Executive Producers:_ Edward Burtynsky,  
-Nicholas de Pencier, Daniel Iron, Nicholas Metivier
+Nicholas de Pencier, Daniel Iron, Nicholas Metivier<br>
 
-_Produced by:_ Nicholas de Pencier
+_Produced by:_ Nicholas de Pencier<br>
 
-_Associate Producer:_ Nadia Tavazzani
+_Associate Producer:_ Nadia Tavazzani<br>
 
-_Written by:_ Jennifer Baichwal
+_Written by:_ Jennifer Baichwal<br>
 
-_Director of Photography:_ Nicholas de Pencier
+_Director of Photography:_ Nicholas de Pencier<br>
 
-_Additional Camera:_ Mike Reid
+_Additional Camera:_ Mike Reid<br>
 
-_Editor:_ Roland Schlimme
+_Editor:_ Roland Schlimme<br>
 
-_Original Music:_ Rose Bolton, Norah Lorway
+_Original Music:_ Rose Bolton, Norah Lorway<br>
 
-_Sound Design:_ David Rose
+_Sound Design:_ David Rose<br>
 
-_Re-recording Mixer:_ Lou Solakofski
+_Re-recording Mixer:_ Lou Solakofski<br>
 
-_Narrated by:_ Alicia Vikander
+_Narrated by:_ Alicia Vikander<br>
 
-Canada 2018©
+Canada 2018©<br>
 
 87 mins
 
@@ -116,5 +109,5 @@ These screenings coincide with BURTYNSKY: Extraction/Abstraction at **saatchigal
 
 In cultural partnership with
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMDU2OTgwXX0=
+eyJoaXN0b3J5IjpbLTE3MzE3MjkxNjddfQ==
 -->
