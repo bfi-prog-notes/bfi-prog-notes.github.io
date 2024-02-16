@@ -50,117 +50,87 @@ Burtynsky’s distinctions include the inaugural TED Prize (which he shared with
 Burtynsky is represented by: Nicholas Metivier Gallery, Toronto; Paul Kuhn Gallery, Calgary; Robert Koch Gallery, San Francisco; Sundaram Tagore Gallery, New York and Hong Kong; Howard Greenberg Gallery, New York; Flowers Gallery, London; Admira Photography, Milan; Galerie Springer, Berlin; and Weinstein Hammons Gallery, Minneapolis.
 
 **Maggi Hurt** is a member of BFI Southbank Cinemas team.
+<br><br>
 
-<![endif]-->
-
-**MANUFACTURED LANDSCAPES**
-
-_Director:_ Jennifer Baichwal
-
-©_/Presented in association with:_ TV Ontario
-
-_Presented by:_ Mercury Films Inc.,  
-Foundry Films Inc.
-
-_Presented in co-production with:_  
-National Film Board of Canada
-
-_Produced with the financial participation of:_ Musagetes Foundation, Rogers Documentary Fund, Canadian Television and Cable Production Fund,
-
-CTF - License Fee Program, Telefilm Canada - Equity Investment Program, Téléfilm Canada
-
-_Produced with the assistance/participation of:_ Canadian Film & Video Tax Credit
-
-_Producers (National Film Board of Canada):_
-
-Peter Starr, Gerry Flahive
-
-_Produced by:_ Nick de Pencier, Daniel Iron,  
-Jennifer Baichwal
-
-_Commissioning Editor (TVO):_ Rudy Buttignol
-
-_Line Producer:_ Paul Scherzer
-
-_China Line Producer:_ Noah Weinzweig
-
-_Associate Producers:_ Jeff Powis, Lukas Lackner
-
-_Office of Edward Burtynsky (China Shoot Producer):_ Noah Weinzweig
-
-_Office of Edward Burtynsky (Production Manager):_ Marcus Schubert
-
-_Office of Edward Burtynsky (Wish Evolver, TED Prize):_ Anna Withrow
-
-_Office of Edward Burtynsky (Arts Administrator):_ Karen Machtinger
-
-_Office of Edward Burtynsky (General Manager, Toronto Image Works):_ Jeannie Baxter
-
-_Production Accountant:_ Stephen Paniccia
-
-_Production Co-ordinator:_ Sarah Christie
-
-_Daily Production Co-ordinator:_ Kerryn Ciracovitch
-
-_China Production Co-ordinator:_ Maggie Tang
+**MANUFACTURED LANDSCAPES**<br>
+_Director:_ Jennifer Baichwal<br>
+©_/Presented in association with:_ TV Ontario<br>
+_Presented by:_ Mercury Films Inc.,  Foundry Films Inc.<br>
+_Presented in co-production with:_  National Film Board of Canada<br>
+_Produced with the financial participation of:_ Musagetes Foundation, Rogers Documentary Fund, Canadian Television and Cable Production Fund, CTF - License Fee Program, Telefilm Canada - Equity Investment Program, Téléfilm Canada<br>
+_Produced with the assistance/participation of:_ Canadian Film & Video Tax Credit<br>
+_Producers (National Film Board of Canada):_ Peter Starr, Gerry Flahive<br>
+_Produced by:_ Nick de Pencier, Daniel Iron,  Jennifer Baichwal<br>
+_Commissioning Editor (TVO):_ Rudy Buttignol<br>
+_Line Producer:_ Paul Scherzer<br>
+_China Line Producer:_ Noah Weinzweig<br>
+_Associate Producers:_ Jeff Powis, Lukas Lackner<br>
+_Office of Edward Burtynsky (China Shoot Producer):_ Noah Weinzweig<br>
+_Office of Edward Burtynsky (Production Manager):_ Marcus Schubert<br>
+_Office of Edward Burtynsky (Wish Evolver, TED Prize):_ Anna Withrow<br>
+_Office of Edward Burtynsky (Arts Administrator):_ Karen Machtinger<br>
+_Office of Edward Burtynsky (General Manager, Toronto Image Works):_ Jeannie Baxter<br>
+_Production Accountant:_ Stephen Paniccia<br>
+_Production Co-ordinator:_ Sarah Christie<br>
+_Daily Production Co-ordinator:_ Kerryn Ciracovitch<br>
+_China Production Co-ordinator:_ Maggie Tang<br>
 
 _Film & Video Post Facility:_  
-Technicolor Creative Services (Montréal)
+Technicolor Creative Services (Montréal)<br>
 
-_Audio Post Facility:_ Tattersall Sound & Picture
+_Audio Post Facility:_ Tattersall Sound & Picture<br>
 
-_Office Manager:_ Christine Hobson
+_Office Manager:_ Christine Hobson<br>
 
 _Production Assistants:_ Ryan J. Noth,  
-Brooke Hanson, Ted Hobson
+Brooke Hanson, Ted Hobson<br>
 
-_Research Assistant:_ Chelsea McMullan
+_Research Assistant:_ Chelsea McMullan<br>
 
-_Archival Footage Directed by:_ Jeff Powis
+_Archival Footage Directed by:_ Jeff Powis<br>
 
-_Director of Photography:_ Peter Mettler
+_Director of Photography:_ Peter Mettler<br>
 
 _Brooklyn Museum Cinematography:_  
-Nick de Pencier
+Nick de Pencier<br>
 
-_California Aerial Cinematography:_ Noah Weinzweig
+_California Aerial Cinematography:_ Noah Weinzweig<br>
 
-_Camera Assistant:_ John Price
+_Camera Assistant:_ John Price<br>
 
-_Motion Designer:_ Stephanie Dudley
+_Motion Designer:_ Stephanie Dudley<br>
 
-_Editor:_ Roland Schlimme
+_Editor:_ Roland Schlimme<br>
 
-_Assistant Editor:_ Avril Jacobson
+_Assistant Editor:_ Avril Jacobson<br>
 
 _Assistant Editors (Daily):_ Cort Bremner,  
-Joseph Doane
+Joseph Doane<br>
 
-_Sound Design:_ Peter Mettler, Roland Schlimme, David Rose, Jane Tattersall, Dan Driscoll
+_Sound Design:_ Peter Mettler, Roland Schlimme, David Rose, Jane Tattersall, Dan Driscoll<br>
 
-_Location Sound Recordist:_ Sanjay Mehta
+_Location Sound Recordist:_ Sanjay Mehta<br>
 
-_Re-recording Mixer:_ Lou Solakofski
+_Re-recording Mixer:_ Lou Solakofski<br>
 
-_Dialogue Editor:_ Jane Tattersall
+_Dialogue Editor:_ Jane Tattersall<br>
 
-_Effects Editor:_ David Rose
+_Effects Editor:_ David Rose<br>
 
-_Archival Footage Courtesy of:_ Restless Pictures
+_Archival Footage Courtesy of:_ Restless Pictures<br>
 
 _Translators:_ Lanny Dong Zhi Ying,
 
-Longyu Tong, Luo Li
+Longyu Tong, Luo Li<br>
 
-Canada 2006©
+Canada 2006©<br>
 
-88 mins
+88 mins<br>
 
-Digital
+Digital<br>
 
-**This work contains flashing images which may affect viewers who are susceptible to photosensitive epilepsy.**
-
-This is a nightclub scene 1 hour 14 minutes into the film. Duration less than 2 minutes.
+**This work contains flashing images which may affect viewers who are susceptible to photosensitive epilepsy.**  
+This is a nightclub scene 1 hour 14 minutes into the film. Duration less than 2 minutes.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDUzMTUyNF19
+eyJoaXN0b3J5IjpbMTI4NjM0NzU4OV19
 -->
