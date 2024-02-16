@@ -56,58 +56,35 @@ Burtynsky is represented by: Nicholas Metivier Gallery, Toronto; Paul Kuhn Galle
 <br><br>
 
 **ANTHROPOCENE: The Human Epoch**<br>
-
 _A film by:_ Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky<br>
-
 ©: Anthropocene Films Inc.<br>
-
-_Presented by:_ Mercury Films, Telefilm Canada,  
-The Rogers Group of Funds through the Theatrical Documentary Program<br>
-
+_Presented by:_ Mercury Films, Telefilm Canada,  The Rogers Group of Funds through the Theatrical Documentary Program<br>
 _In association with:_ Mongrel Media<br>
-
 _Produced with the participation of:_ The Canada Media Fund, The Movie Network, Ontario Creates, Telus Fund, Rogers Documentary Fund, Bell Fund<br>
-
 _In association with:_ TVO<br>
-
 _With the assistance of:_ The Canadian Film or Video Production Tax Credit<br>
-
-_Executive Producers:_ Edward Burtynsky,  
-Nicholas de Pencier, Daniel Iron, Nicholas Metivier<br>
-
+_Executive Producers:_ Edward Burtynsky,  Nicholas de Pencier, Daniel Iron, Nicholas Metivier<br>
 _Produced by:_ Nicholas de Pencier<br>
-
 _Associate Producer:_ Nadia Tavazzani<br>
-
 _Written by:_ Jennifer Baichwal<br>
-
 _Director of Photography:_ Nicholas de Pencier<br>
-
 _Additional Camera:_ Mike Reid<br>
-
 _Editor:_ Roland Schlimme<br>
-
 _Original Music:_ Rose Bolton, Norah Lorway<br>
-
 _Sound Design:_ David Rose<br>
-
 _Re-recording Mixer:_ Lou Solakofski<br>
-
 _Narrated by:_ Alicia Vikander<br>
 
 Canada 2018©<br>
+87 mins<br>
+Digital 4K<br>
 
-87 mins
+**This work contains flashing images which may affect viewers who are susceptible to photosensitive epilepsy.**  
+This is at 43 minutes in as a train travels through a tunnel. Duration less than 2 minutes.<br><br>
 
-Digital 4K
-
-**This work contains flashing images which may affect viewers who are susceptible to photosensitive epilepsy.**
-
-This is at 43 minutes in as a train travels through a tunnel. Duration less than 2 minutes.
-
-These screenings coincide with BURTYNSKY: Extraction/Abstraction at **saatchigallery.com**
+These screenings coincide with BURTYNSKY: Extraction/Abstraction at **saatchigallery.com**<br><br>
 
 In cultural partnership with
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE3MjkxNjddfQ==
+eyJoaXN0b3J5IjpbMTgyNTI1MjA3NV19
 -->
