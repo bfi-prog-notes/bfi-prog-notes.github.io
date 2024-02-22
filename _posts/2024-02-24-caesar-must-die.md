@@ -1,9 +1,16 @@
+---
+layout: post
+title: Caesar Must Die
+published: true
+date: 2024-02-24
+readtime: true
+categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
+tags:  [Drama]
+metadata: 'Italy 2012, 77mins<br> Directors: Paolo Taviani, Vittorio Taviani'
+pdf: '2024-02-24-caesar-must-die.pdf'
+---
 
-
-<![endif]-->
-
-**A contemporary review**
-
+**A contemporary review**  
 The Taviani brothers, arthouse darlings of the 70s and 80s (_Allonsanfàn_, _Padre padrone_, _The Night of San Lorenzo_), have rather dropped off the international map in recent years. But though they’ve slowed down they have not stopped making films, and the unexpected triumph of their most recent movie, _Caesar Must Die_, at the Berlin Film Festival (where it won the Golden Bear) brings them back into the spotlight. The film also introduces something relatively new in their oeuvre – a teasing penchant for blurring the line between artifice and reality.
 
 At first sight, we seem to be watching a documentary about a production of Shakespeare’s _Julius Caesar_, its text somewhat adapted, recently staged by the inmates of Rome’s high-security Rebibbia jail. But early on there’s a hint that things aren’t quite so straightforward. We start at the end – the full-costume production, given before a mixed audience of inmates and invited outsiders, and received with wild enthusiasm. But then there’s a title, ‘Six Months Earlier’, and the screen switches from full colour to black-and-white. A simple enough device, but quietly suggesting that what we see may not be as close to unfiltered reality as it initially appears.
@@ -19,7 +26,7 @@ Other moments, however much set up, ring equally true to their situation: Arcuri
 Wryly humorous touches abound. Chided by Cavalli for slowness, Rega responds: ‘I’ve been here 20 years and you say let’s not waste time!’ The occasional rewriting of Shakespeare might give purists a shock: Decius Brutus’s protest that he must know some reason why Caesar declines to come to the senate, ‘Lest I be laughed at when I tell them so,’ becomes ‘The other senators will take the piss.’ Cries of ‘For freedom!’ from the conspirators carry their own ironic charge, as do the references to Brutus and his cohorts as ‘men of honour’; several members of the cast, as we’re told early on, have been jailed for involvement in the Mafia. The Tavianis hardly need to emphasise the relevance of the play as a whole to current Italian politics; that, they most likely feel, is a given.
 
 We end with a return to full colour and a longer reprise of the final production in front of an audience and its ecstatic reception, the actors cheering as loudly as the spectators. It’s a moment of uplifting jubilation before the dying fall as the cast, now back in drab prison garb, are returned to their cells and the doors locked on them, each a solitary prisoner. One of them, Cosimo Rega, we follow into his cell and watch as he mooches around and makes himself coffee, reflecting as he does so, ‘Since I got to know art, this cell has become a prison.’ Another scripted line? Quite possibly – but it hardly matters. Truth to art – as the Tavianis and Rega have just reminded us – is what matters.  
-**Philip Kemp, _Sight and Sound_, March 2013*
+**Philip Kemp, _Sight and Sound_, March 2013**  
 
 **Directors’ statement**  
 A dear friend recounted to us a theatre experience she had had a few nights earlier. She cried, she said, and it had not happened in years. We went to that theatre inside a prison. Rome’s Rebibbia, the High Security Section.
@@ -74,5 +81,5 @@ Italy 2012©
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NDE0ODM4LC0yNTA1MjcwMjNdfQ==
+eyJoaXN0b3J5IjpbNTA4MDA0MzM3LC0yNTA1MjcwMjNdfQ==
 -->
