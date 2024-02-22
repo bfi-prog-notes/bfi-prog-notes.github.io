@@ -18,12 +18,10 @@ Other moments, however much set up, ring equally true to their situation: Arcuri
 
 Wryly humorous touches abound. Chided by Cavalli for slowness, Rega responds: ‘I’ve been here 20 years and you say let’s not waste time!’ The occasional rewriting of Shakespeare might give purists a shock: Decius Brutus’s protest that he must know some reason why Caesar declines to come to the senate, ‘Lest I be laughed at when I tell them so,’ becomes ‘The other senators will take the piss.’ Cries of ‘For freedom!’ from the conspirators carry their own ironic charge, as do the references to Brutus and his cohorts as ‘men of honour’; several members of the cast, as we’re told early on, have been jailed for involvement in the Mafia. The Tavianis hardly need to emphasise the relevance of the play as a whole to current Italian politics; that, they most likely feel, is a given.
 
-We end with a return to full colour and a longer reprise of the final production in front of an audience and its ecstatic reception, the actors cheering as loudly as the spectators. It’s a moment of uplifting jubilation before the dying fall as the cast, now back in drab prison garb, are returned to their cells and the doors locked on them, each a solitary prisoner. One of them, Cosimo Rega, we follow into his cell and watch as he mooches around and makes himself coffee, reflecting as he does so, ‘Since I got to know art, this cell has become a prison.’ Another scripted line? Quite possibly – but it hardly matters. Truth to art – as the Tavianis and Rega have just reminded us – is what matters.
+We end with a return to full colour and a longer reprise of the final production in front of an audience and its ecstatic reception, the actors cheering as loudly as the spectators. It’s a moment of uplifting jubilation before the dying fall as the cast, now back in drab prison garb, are returned to their cells and the doors locked on them, each a solitary prisoner. One of them, Cosimo Rega, we follow into his cell and watch as he mooches around and makes himself coffee, reflecting as he does so, ‘Since I got to know art, this cell has become a prison.’ Another scripted line? Quite possibly – but it hardly matters. Truth to art – as the Tavianis and Rega have just reminded us – is what matters.  
+**Philip Kemp, _Sight and Sound_, March 2013*
 
-Philip Kemp, _Sight and Sound_, March 2013
-
-**Directors’ statement**
-
+**Directors’ statement**  
 A dear friend recounted to us a theatre experience she had had a few nights earlier. She cried, she said, and it had not happened in years. We went to that theatre inside a prison. Rome’s Rebibbia, the High Security Section.
 
 After passing a number of gates and blockades, we reached a stage where 20 or so inmates, some of them serving life sentences, were reciting Dante’s _Divine Comedy_. They had chosen a few cantos of _Hell_ and were now reliving the pain and torments of Paolo and Francesca, of Count Ugolino, of Ulysses – all in the hell of their own prison...
@@ -35,74 +33,40 @@ We felt the need to discover through a film how the beauty of their performances
 We staged it with the collaboration of the inmates, filming in their cells, in the prison yard, the depths of the High Security Section and eventually on stage. We tried to contrast the darkness of their life as convicts with the poetic force of the emotions Shakespeare evokes – friendship and betrayal, murder and the torment of difficult choices, the price of power and truth. Reaching deep into a work like this means also looking at yourself, especially when one must leave the stage and return to the confinement of a cell.  
 **Production notes**  
 <br>
-<![endif]-->
 
-**Caesar Must Die (Cesare deve morire)**
+**CAESAR MUST DIE (CESARE DEVE MORIRE)**  
+_Directors:_ Paolo Taviani, Vittorio Taviani  
+©: Kaos Cinematografica, Stemal Entertainment, Le Talee  
+_Production Company:_ Kaos Cinematografica  
+_Presented by:_ Grazia Volpi  
+_In association with:_ Stemal Entertainment, Le Talee, La Ribalta centro studi Enrico Maria Salerno  
+_In collaboration with:_ RAI Cinema  
+_With the support and sponsorship of:_ Direzione Generale per il Cinema – Ministero per i Beni e le Attività Culturali, Regione Lazio – Fondo regionale per il cinema e l’audiovisivo  
+_With the contribution of:_ Roma Capitale  
+_With the sponsorship of:_ Ministero della Giustizia  
+_Executive Producer:_ Donatella Palermo  
+_Producer:_ Frazia Volpi  
+_Story/Screenplay:_ Paolo Taviani, Vittorio Taviani  
+_In collaboration with:_ Fabio Cavalli  
+_Loosely based on_ The Tragedy of Julius Caesar _by:_ William Shakespeare  
+_Director of Photography:_ Simone Zampagni  
+_Editor:_ Roberto Perpignani  
+_Music:_ Giuliano Taviani, Carmelo Travia  
+_Sound:_ Benito Alchimede, Brando Mosca  
 
-_Directors:_ Paolo Taviani, Vittorio Taviani
-
-©: Kaos Cinematografica, Stemal Entertainment,
-
-Le Talee
-
-_Production Company:_ Kaos Cinematografica
-
-_Presented by:_ Grazia Volpi
-
-_In association with:_ Stemal Entertainment, Le Talee, La Ribalta centro studi Enrico Maria Salerno
-
-_In collaboration with:_ RAI Cinema
-
-_With the support and sponsorship of:_ Direzione Generale per il Cinema – Ministero per i Beni e le Attività Culturali, Regione Lazio – Fondo regionale per il cinema e l’audiovisivo
-
-_With the contribution of:_ Roma Capitale
-
-_With the sponsorship of:_ Ministero della Giustizia
-
-_Executive Producer:_ Donatella Palermo
-
-_Producer:_ Frazia Volpi
-
-_Story/Screenplay:_ Paolo Taviani, Vittorio Taviani
-
-_In collaboration with:_ Fabio Cavalli
-
-_Loosely based on_ The Tragedy of Julius Caesar _by:_ William Shakespeare
-
-_Director of Photography:_ Simone Zampagni
-
-_Editor:_ Roberto Perpignani
-
-_Music:_ Giuliano Taviani, Carmelo Travia
-
-_Sound:_ Benito Alchimede, Brando Mosca
-
-_With:_
-
-Cosimo Rega _(Cassius)_
-
-Salvatore Striano _(Brutus)_
-
-Giovanni Arcuri _(Caesar)_
-
-Antonio Frasca _(Mark Antony)_
-
-Juan Dario Bonetti _(Decius)_
-
-Vincenzo Gallo _(Lucius)_
-
-Rosario Majorana _(Metellus)_
-
-Francesco De Masi _(Trebonius)_
-
-Gennaro Solito _(Cinna)_
-
-Vittorio Parrella _(Casca)_
-
-Pasquale Crapetti _(legionary)_
-
-Francesco Carusone _(fortune teller)_
-
+**With**
+Cosimo Rega _(Cassius)_  
+Salvatore Striano _(Brutus)_  
+Giovanni Arcuri _(Caesar)_  
+Antonio Frasca _(Mark Antony)_  
+Juan Dario Bonetti _(Decius)_  
+Vincenzo Gallo _(Lucius)_  
+Rosario Majorana _(Metellus)_  
+Francesco De Masi _(Trebonius)_  
+Gennaro Solito _(Cinna)_  
+Vittorio Parrella _(Casca)_  
+Pasquale Crapetti _(legionary)_  
+Francesco Carusone _(fortune teller)_  
 Fabio Rizzuto _(Strato)_  
 Maurilio Giaffreda _(Octavian)_  
 
@@ -110,5 +74,5 @@ Italy 2012©
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTc5MTI2NywtMjUwNTI3MDIzXX0=
+eyJoaXN0b3J5IjpbOTI4NDE0ODM4LC0yNTA1MjcwMjNdfQ==
 -->
