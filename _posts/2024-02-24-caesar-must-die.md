@@ -61,7 +61,7 @@ _Editor:_ Roberto Perpignani
 _Music:_ Giuliano Taviani, Carmelo Travia  
 _Sound:_ Benito Alchimede, Brando Mosca  
 
-**With**
+**With**  
 Cosimo Rega _(Cassius)_  
 Salvatore Striano _(Brutus)_  
 Giovanni Arcuri _(Caesar)_  
