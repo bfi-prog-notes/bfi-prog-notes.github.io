@@ -103,13 +103,12 @@ Pasquale Crapetti _(legionary)_
 
 Francesco Carusone _(fortune teller)_
 
-Fabio Rizzuto _(Strato)_
-
+Fabio Rizzuto _(Strato)_  
 Maurilio Giaffreda _(Octavian)_  
 
 Italy 2012©  
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDUyNzAyM119
+eyJoaXN0b3J5IjpbMTUxOTc5MTI2NywtMjUwNTI3MDIzXX0=
 -->
