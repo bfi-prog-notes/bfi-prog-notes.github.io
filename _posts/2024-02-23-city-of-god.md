@@ -26,104 +26,51 @@ Music fans might be interested to know that Knockout Ned is played by Seu Jorge,
 <br><br>
 
 **CITY OF GOD (CIDADE DE DEUS)**<br>
-
 _Director:_ Fernando Meirelles<br>
-
 _Co-direction:_ Katia Lund<br>
-
 ©: O2 Filmes, Hank Levine Film<br>
-
 _Production Companies:_ O2 Filmes, VideoFilmes<br>
-
 _Co-production:_ Globo Filmes, Lumiere, Wild Bunch<br>
-
-_Producers:_ Andréa Barata Ribeiro,  
-Mauricio Andrade Ramos<br>
-
-_Co-producers:_ Daniel Filho, Hank Levine,  
-Marc Beauchamps, Vincent Maraval,  
-Walter Salles, Juliette Renaud<br>
-
+_Producers:_ Andréa Barata Ribeiro,  Mauricio Andrade Ramos<br>
+_Co-producers:_ Daniel Filho, Hank Levine,  Marc Beauchamps, Vincent Maraval,  Walter Salles, Juliette Renaud<br>
 _Line Producer:_ Elisa Tolomelli<br>
-
 _Set Producer:_ Rogério Carvalho<br>
-
 _1st Phase Production Manager:_ René Bittencourt<br>
-
 _2nd Phase Production Manager:_ Claudine Franco<br>
-
 _Production Co-ordinator:_ Bel Berlinck<br>
-
 _Location Producer:_ Sérgio Bezerra<br>
-
 _Post-production Co-ordinator:_ Alessandra Casolari<br>
-
 _1st Assistant Director:_ Lamartine Ferreira<br>
-
 _2nd Assistant Director:_ Malu Miranda<br>
-
 _Casting:_ No Mundo do Cinema<br>
-
 _Screenplay:_ Bráulio Mantovani<br>
-
 _Based on the novel by:_ Paulo Lins<br>
-
 _Director of Photography:_ César Charlone<br>
-
 _2nd Unit Camera Operator:_ Fernando Meirelles<br>
-
 _Steadicam:_ Fabrício Tadeu<br>
-
 _1st Assistant Camera:_ Lula Carvalho<br>
-
 _2nd Unit 1st Assistant Camera:_ Cristiano Conceição<br>
-
-_2nd Unit 2nd Assistant Camera:_  
-Pablo Giannini Baião, Breno Cunha<br>
-
+_2nd Unit 2nd Assistant Camera:_  Pablo Giannini Baião, Breno Cunha<br>
 _Visual Effects:_ Renato Batata<br>
-
 _Special Effects:_ M.M. Arte Técnica<br>
-
 _Graphic Design:_ Cartolina Design<br>
-
 _Editor:_ Daniel Rezende<br>
-
-_Off-line Editors:_ Marcell Hernandes,  
-Marcelo Cois, Eugen Pfister<br>
-
-_On-line Editor/Effects:_ Lepiani, André Pinto,  
-Paulo Ferreira<br>
-
+_Off-line Editors:_ Marcell Hernandes,  Marcelo Cois, Eugen Pfister<br>
+_On-line Editor/Effects:_ Lepiani, André Pinto,  Paulo Ferreira<br>
 _Art Director:_ Tulé Peake<br>
-
 _Set Designers:_ Claudia Moraes, Beli Araújo<br>
-
 _Set Decorators:_ Ângela Pralon, Mónica Rochlin<br>
-
 _Costume Designers:_ Bia Salgado, Inês Salgado<br>
-
 _Make-up:_ Anna van Steen<br>
-
 _Make-up Artist:_ Dona Meirelles<br>
-
 _Colour Timer:_ Sergio Pasqualino<br>
-
 _Music:_ Antônio Pinto, Ed Côrtes<br>
-
 _Fender Rhodes/Electric Guitar/Drums/Transversal Flute/Ukulele/Guitar/Percussion/Synthesizers:_ Antônio Pinto<br>
-
 _Ianomami Flute/Transversal Flute/Tenor Sax/Baritone Sax/Clarinet/Percussion/Fender Rhodes/Synthesizers/Metal Settings:_ Ed Côrtes<br>
-
-_Seven Strings Guitar/Guitar/Ukulele:  
-_Edmilson Capeluppi<br>
-
+_Seven Strings Guitar/Guitar/Ukulele:_ Edmilson Capeluppi<br>
 _Cuíca:_ Barba<br>
-
 _Trumpet/Flugelhorn:_ Nahor Gomes<br>
-
 _Trombone:_ Sidnei Borgani<br>
-
 _Scratches:_ DJ Marco<br>
 
 _Mix:_ L.C. Varella, Supersonica<br>
@@ -145,105 +92,106 @@ _Sound Recording:_ Guilherme Ayrosa,
 
 Paulo Ricardo Nunes<br>
 
-_Studio Sound:_ Pradip Romay
+_Studio Sound:_ Pradip Romay<br>
 
-_Boom Operator:_ Venilton Moreira (Vampiro)
+_Boom Operator:_ Venilton Moreira (Vampiro)<br>
 
-_Mixers:_ Rudy Pi, Adam Sawelson
+_Mixers:_ Rudy Pi, Adam Sawelson<br>
 
-_Dialogue Editor:_ Alessandro Laroca
+_Dialogue Editor:_ Alessandro Laroca<br>
 
-_Sound Effects Artist:_ Samuel Mendoza
+_Sound Effects Artist:_ Samuel Mendoza<br>
 
-_ADR:_ Alessandro Laroca
+_ADR:_ Alessandro Laroca<br>
 
-_Fight Instructor:_ Amaury Guarilha
+_Fight Instructor:_ Amaury Guarilha<br>
 
-_Cast:_
+_Cast:_<br>
 
-Alexandre Rodrigues _(Buscapé, ‘Rocket’)_
+Alexandre Rodrigues _(Buscapé, ‘Rocket’)_<br>
 
-Leandro Firmino Da Hora _(Zé Pequeño, ‘Li’l Ze’)_
+Leandro Firmino Da Hora _(Zé Pequeño, ‘Li’l Ze’)_<br>
 
-Phellipe Haagensen _(Bené, ‘Beny’)_
+Phellipe Haagensen _(Bené, ‘Beny’)_<br>
 
-Douglas Silva _(Dadinho, ‘Li’l Dice’)_
+Douglas Silva _(Dadinho, ‘Li’l Dice’)_<br>
 
-Jonathan Haagensen _(Cabeleira, ‘Shaggy’)_
+Jonathan Haagensen _(Cabeleira, ‘Shaggy’)_<br>
 
-Matheus Nachtergaele _(Sandro Cenoura, ‘Carrot’)_
+Matheus Nachtergaele _(Sandro Cenoura, ‘Carrot’)_<br>
 
-Seu Jorge _(Mané Galinha, ‘Knockout Ned’)_
+Seu Jorge _(Mané Galinha, ‘Knockout Ned’)_<br>
 
-Jefechander Suplino _(Alicate, ‘Clipper’)_
+Jefechander Suplino _(Alicate, ‘Clipper’)_<br>
 
-Alice Braga _(Angélica)_
+Alice Braga _(Angélica)_<br>
 
-Emerson Gomes _(Barbantinho)_
+Emerson Gomes _(Barbantinho)_<br>
 
-Edson Oliveira _(adult Barbantinho)_
+Edson Oliveira _(adult Barbantinho)_<br>
 
-Michel de Souza Gomes _(Bené as a child)_
+Michel de Souza Gomes _(Bené as a child)_<br>
 
-Roberta Rodrigues _(Berenice)_
+Roberta Rodrigues _(Berenice)_<br>
 
-Luis Otávio _(Buscapé as a child)_
+Luis Otávio _(Buscapé as a child)_<br>
 
-Maurício Marques _(Cabeção)_
+Maurício Marques _(Cabeção)_<br>
 
-Gustavo Engracia _(newspaper editor)_
+Gustavo Engracia _(newspaper editor)_<br>
 
-Darlan Cunha _(Filé com Fritas)_
+Darlan Cunha _(Filé com Fritas)_<br>
 
-Robson Rocha _(Gelson)_
+Robson Rocha _(Gelson)_<br>
 
-Thiago Martins _(Lampião)_
+Thiago Martins _(Lampião)_<br>
 
-Leandra Miranda _(Lúcia Maracanã)_
+Leandra Miranda _(Lúcia Maracanã)_<br>
 
-Graziella Moretto _(Marina Cintra)_
+Graziella Moretto _(Marina Cintra)_<br>
 
-Renato de Souza _(Marreco, ‘Goose’)_
+Renato de Souza _(Marreco, ‘Goose’)_<br>
 
-Karina Falcão _(Paraíba’s wife)_
+Karina Falcão _(Paraíba’s wife)_<br>
 
-Sabrina Rosa _(Galinha’s girlfriend)_
+Sabrina Rosa _(Galinha’s girlfriend)_<br>
 
-Rubens Sabino _(Neguinho)_
+Rubens Sabino _(Neguinho)_<br>
 
-Marcos Junqueira (Kikito) _(Otavio)_
+Marcos Junqueira (Kikito) _(Otavio)_<br>
 
-Edson Montenegro _(Buscapé’s father)_
+Edson Montenegro _(Buscapé’s father)_<br>
 
-Gero Camilo _(Paraíba)_
+Gero Camilo _(Paraíba)_<br>
 
-Felipe Silva _(Rafael)_
+Felipe Silva _(Rafael)_<br>
 
-Daniel Zettel _(Thiago)_
+Daniel Zettel _(Thiago)_<br>
 
-Charles Paraventi _(Tio Sam)_
+Charles Paraventi _(Tio Sam)_<br>
 
-Luiz Carlos Ribeiro Seixas _(Touro)_
+Luiz Carlos Ribeiro Seixas _(Touro)_<br>
 
-Paulo César (Jacaré) _(Tuba)_
+Paulo César (Jacaré) _(Tuba)_<br>
 
-Danielle Ornellas _(Paraíba’s neighbour)_
+Danielle Ornellas _(Paraíba’s neighbour)_<br>
 
-Bernardo Santos, Diego Batista, Diego Ferreira, Marcio Vinicios, Micael Borges, Rafael de Castro, Ramon Francisco, Thiago Wallace _(slum area kids)_
+Bernardo Santos, Diego Batista, Diego Ferreira, Marcio Vinicios, Micael Borges, Rafael de Castro, Ramon Francisco, Thiago Wallace _(slum area kids)_<br>
 
 Alexander Cerqueira, Alexandre Tavares (China), André Pires Martins, Antônio Rodrigues, Bartolomeu Braga, Carlos Henrique Avernais, Cláudio César, Cleiton Ventura, Damião Firmino, Euclides Garcia, Fábio Castro Conceição, Felipe Nogueira, Ivan Martins_,_ John Lima,  Jonas Michel,  Leandro Lucas,  Leonardo Dias Batista,  Lúcio Andrey,  Luis Carlos Rodrigues Oliveira,  Luís Nascimento,  Marcello Melo Junior,  Márcio Costa,  Mário Luiz Costa Oliveira,  Nelson Amaral,  Omar Barcelos (Mazinho),  Otto Amorim,  Peter Soares,  Rafael De Souza,  Roberto Miguez,  Rómulo Sech (Guinomo),  Ruy Vitório,  Sergio Bispo  
-_(Zé Pequeno’s gang)_
+_(Zé Pequeno’s gang)_<br>
 
 Alex Dos Santos, Anderson Bruno Marques, Anderson Lugão, André Luiz Mendes, Antoni Guedes, Bruno Ricardo, Charles Samuel, Éder Júlio Martins, Eduardo (BR) Piranha, Erick Oliveira, Fábio Da Cunha (Dog), Felipe Villela Mendonça, Frederico Lins, Guilherme Estevam, Guilherme William, Harlem Teixeira, Leandro Gonçalves, Leandro Lima, Leiz Moreira, Leonardo Melo, Luis Carlos Oliveira, Marcello Melo, Marcelo Alves (Máscara), Márcio Costa, Wallace Araújo, Wallace Nascimento, Wanderson Lopes (Petão), Wellington Costa Ricardo, Wemerson Gonçalves, Wendel Barros,  
-Yuri Krushewsky _(Cenoura’s gang)_
+Yuri Krushewsky _(Cenoura’s gang)_<br>
 
-Brazil-Germany-France 2002©
+Brazil-Germany-France 2002©<br>
 
-130 mins
+130 mins<br>
 
-Digital
+Digital<br>
 
-A TFA (The Festival Agency) release
+A TFA (The Festival Agency) release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY3OTU0OF19
+eyJoaXN0b3J5IjpbLTEwNDQ2MjIzNzJdfQ==
 -->
