@@ -72,126 +72,68 @@ _Cuíca:_ Barba<br>
 _Trumpet/Flugelhorn:_ Nahor Gomes<br>
 _Trombone:_ Sidnei Borgani<br>
 _Scratches:_ DJ Marco<br>
-
 _Mix:_ L.C. Varella, Supersonica<br>
-
 _5.1 Mix:_ L.C. Varella, Armando Torres Junior<br>
-
 _Supersonica Executive Producers:_ Paula Maciel, Luciana Meula<br>
-
 _Choreography:_ Luciano PerÍ<br>
-
 _Sound Design:_ Zeta Audio, Martín Hernández<br>
-
 _Sound Design Supervisor:_ Roland Thai<br>
-
-_Sound Design/Effects Supervisor:_  
-Alejandro Quevedo<br>
-
-_Sound Recording:_ Guilherme Ayrosa,
-
-Paulo Ricardo Nunes<br>
-
+_Sound Design/Effects Supervisor:_  Alejandro Quevedo<br>
+_Sound Recording:_ Guilherme Ayrosa, Paulo Ricardo Nunes<br>
 _Studio Sound:_ Pradip Romay<br>
-
 _Boom Operator:_ Venilton Moreira (Vampiro)<br>
-
 _Mixers:_ Rudy Pi, Adam Sawelson<br>
-
 _Dialogue Editor:_ Alessandro Laroca<br>
-
 _Sound Effects Artist:_ Samuel Mendoza<br>
-
 _ADR:_ Alessandro Laroca<br>
-
 _Fight Instructor:_ Amaury Guarilha<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Alexandre Rodrigues _(Buscapé, ‘Rocket’)_<br>
-
 Leandro Firmino Da Hora _(Zé Pequeño, ‘Li’l Ze’)_<br>
-
 Phellipe Haagensen _(Bené, ‘Beny’)_<br>
-
 Douglas Silva _(Dadinho, ‘Li’l Dice’)_<br>
-
 Jonathan Haagensen _(Cabeleira, ‘Shaggy’)_<br>
-
 Matheus Nachtergaele _(Sandro Cenoura, ‘Carrot’)_<br>
-
 Seu Jorge _(Mané Galinha, ‘Knockout Ned’)_<br>
-
 Jefechander Suplino _(Alicate, ‘Clipper’)_<br>
-
 Alice Braga _(Angélica)_<br>
-
 Emerson Gomes _(Barbantinho)_<br>
-
 Edson Oliveira _(adult Barbantinho)_<br>
-
 Michel de Souza Gomes _(Bené as a child)_<br>
-
 Roberta Rodrigues _(Berenice)_<br>
-
 Luis Otávio _(Buscapé as a child)_<br>
-
 Maurício Marques _(Cabeção)_<br>
-
 Gustavo Engracia _(newspaper editor)_<br>
-
 Darlan Cunha _(Filé com Fritas)_<br>
-
 Robson Rocha _(Gelson)_<br>
-
 Thiago Martins _(Lampião)_<br>
-
 Leandra Miranda _(Lúcia Maracanã)_<br>
-
 Graziella Moretto _(Marina Cintra)_<br>
-
 Renato de Souza _(Marreco, ‘Goose’)_<br>
-
 Karina Falcão _(Paraíba’s wife)_<br>
-
 Sabrina Rosa _(Galinha’s girlfriend)_<br>
-
 Rubens Sabino _(Neguinho)_<br>
-
 Marcos Junqueira (Kikito) _(Otavio)_<br>
-
 Edson Montenegro _(Buscapé’s father)_<br>
-
 Gero Camilo _(Paraíba)_<br>
-
 Felipe Silva _(Rafael)_<br>
-
 Daniel Zettel _(Thiago)_<br>
-
 Charles Paraventi _(Tio Sam)_<br>
-
 Luiz Carlos Ribeiro Seixas _(Touro)_<br>
-
 Paulo César (Jacaré) _(Tuba)_<br>
-
 Danielle Ornellas _(Paraíba’s neighbour)_<br>
-
 Bernardo Santos, Diego Batista, Diego Ferreira, Marcio Vinicios, Micael Borges, Rafael de Castro, Ramon Francisco, Thiago Wallace _(slum area kids)_<br>
-
 Alexander Cerqueira, Alexandre Tavares (China), André Pires Martins, Antônio Rodrigues, Bartolomeu Braga, Carlos Henrique Avernais, Cláudio César, Cleiton Ventura, Damião Firmino, Euclides Garcia, Fábio Castro Conceição, Felipe Nogueira, Ivan Martins_,_ John Lima,  Jonas Michel,  Leandro Lucas,  Leonardo Dias Batista,  Lúcio Andrey,  Luis Carlos Rodrigues Oliveira,  Luís Nascimento,  Marcello Melo Junior,  Márcio Costa,  Mário Luiz Costa Oliveira,  Nelson Amaral,  Omar Barcelos (Mazinho),  Otto Amorim,  Peter Soares,  Rafael De Souza,  Roberto Miguez,  Rómulo Sech (Guinomo),  Ruy Vitório,  Sergio Bispo  
 _(Zé Pequeno’s gang)_<br>
-
-Alex Dos Santos, Anderson Bruno Marques, Anderson Lugão, André Luiz Mendes, Antoni Guedes, Bruno Ricardo, Charles Samuel, Éder Júlio Martins, Eduardo (BR) Piranha, Erick Oliveira, Fábio Da Cunha (Dog), Felipe Villela Mendonça, Frederico Lins, Guilherme Estevam, Guilherme William, Harlem Teixeira, Leandro Gonçalves, Leandro Lima, Leiz Moreira, Leonardo Melo, Luis Carlos Oliveira, Marcello Melo, Marcelo Alves (Máscara), Márcio Costa, Wallace Araújo, Wallace Nascimento, Wanderson Lopes (Petão), Wellington Costa Ricardo, Wemerson Gonçalves, Wendel Barros,  
-Yuri Krushewsky _(Cenoura’s gang)_<br>
+Alex Dos Santos, Anderson Bruno Marques, Anderson Lugão, André Luiz Mendes, Antoni Guedes, Bruno Ricardo, Charles Samuel, Éder Júlio Martins, Eduardo (BR) Piranha, Erick Oliveira, Fábio Da Cunha (Dog), Felipe Villela Mendonça, Frederico Lins, Guilherme Estevam, Guilherme William, Harlem Teixeira, Leandro Gonçalves, Leandro Lima, Leiz Moreira, Leonardo Melo, Luis Carlos Oliveira, Marcello Melo, Marcelo Alves (Máscara), Márcio Costa, Wallace Araújo, Wallace Nascimento, Wanderson Lopes (Petão), Wellington Costa Ricardo, Wemerson Gonçalves, Wendel Barros,  Yuri Krushewsky _(Cenoura’s gang)_<br>
 
 Brazil-Germany-France 2002©<br>
-
 130 mins<br>
-
 Digital<br>
 
 A TFA (The Festival Agency) release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2MjIzNzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQyNTUzOThdfQ==
 -->
