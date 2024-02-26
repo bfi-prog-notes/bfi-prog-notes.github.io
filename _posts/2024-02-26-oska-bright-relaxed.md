@@ -10,16 +10,16 @@ metadata:
 pdf: '2024-02-26-oska-bright-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/cunning-01.jpeg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/cunning-01.jpeg"><br><br><br><br><br><br><br><br><br>
 The Cunning
-<br>
+<br><br>
 
 The Oska Bright team is delighted to share this selection of highlights ahead of the festival. The festival will explore aspects of the human condition past and present, encompassing morality, conflict and death, from the witch trials of the Middle Ages through to more contemporary struggles, with a focus on LGBTQIA+ perspectives. Be prepared to rethink how you view learning disabilities and autism, as you witness the work of award-winning storytellers and filmmakers. 
 
 Join us following the screening to meet the Oska Bright team and filmmakers behind the festival. 
 
 Oska Bright Film Festival runs 11–17 March 2024 in Brighton and across the UK: **oskabright.org**
-<br>
+<br><br>
 
 **PROGRAMME (Total run time 100 mins)**<br>
 **Born to Dance with an Extra Chromosome**<br>
@@ -56,22 +56,22 @@ Italy 2019. Dir Daniele Bonarini. 13min. EST<br>
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
-<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 <img style="float: left;" src="/img/oska-bright-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 **The next relaxed screenings are: 
-SPECIAL PEOPLE + Q&A with director Justin Edgar and actors Dominic Coleman & David Proud<br>
-Saturday 2 March 2024 15:50 NFT1**
-**BFI FLARE: OSKA BRIGHT PRESENTS QUEER FREEDOM<br>
-Thursday 21 March 2024 18:20 NFT3**
-<br>
+SPECIAL PEOPLE + Q&A with director Justin Edgar and actors Dominic Coleman & David Proud**<br>
+Saturday 2 March 2024 15:50 NFT1<br>
+**BFI FLARE: OSKA BRIGHT PRESENTS QUEER FREEDOM**<br>
+Thursday 21 March 2024 18:20 NFT3<br>
+<br><br>
 
 
 **Find out more at**
 **www.whatson.bfi.org.uk**
 **and bfi.org.uk/relaxed**
-
+<br>
 
 **Relaxed Screenings**
 
