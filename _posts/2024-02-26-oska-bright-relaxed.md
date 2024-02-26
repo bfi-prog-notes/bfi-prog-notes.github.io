@@ -60,8 +60,8 @@ Italy 2019. Dir Daniele Bonarini. 13min. EST<br>
 
 <img style="float: left;" src="/img/oska-bright-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
-**The next relaxed screenings are: 
-SPECIAL PEOPLE + Q&A with director Justin Edgar and actors Dominic Coleman & David Proud**<br>
+**The next relaxed screenings are:**<br> 
+**SPECIAL PEOPLE + Q&A with director Justin Edgar and actors Dominic Coleman & David Proud**<br>
 Saturday 2 March 2024 15:50 NFT1<br>
 **BFI FLARE: OSKA BRIGHT PRESENTS QUEER FREEDOM**<br>
 Thursday 21 March 2024 18:20 NFT3<br>
