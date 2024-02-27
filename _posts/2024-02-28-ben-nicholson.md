@@ -43,8 +43,7 @@ UK 1985
 52 mins  
 Digital
 
-**ALFRED WALLIS – ARTIST AND MARINER**
-
+**ALFRED WALLIS – ARTIST AND MARINER**  
 _Director_: Christopher Mason  
 _Production Company_: Mason Bruce Associates  
 _Sponsor_: Arts Council of Great Britain  
@@ -56,28 +55,23 @@ _Harmonium played by_: Ben Nance
 _Voices recorded by_: Roger Slack  
 _Sound_: Iain Bruce
 
-UK 1973
-
-22 mins
-
+UK 1973  
+22 mins  
 Digital
 
-**BARBARA HEPWORTH AT THE TATE**
-
+**BARBARA HEPWORTH AT THE TATE**  
 _Director_: Bruce Beresford  
 _Production Company_: British Film Institute  
 _Sponsor_: Arts Council of Great Britain  
 _Photography_: Bruce Beresford  
-_Assistant Photographers_: Cedric Pheasant,  
-Richard Saunders  
+_Assistant Photographers_: Cedric Pheasant,  Richard Saunders  
 _Editor_: Trevor Craig  
 _Art Consultant_: Hugh Evans
 
-UK 1969
-
-12 mins
-
+UK 1969  
+12 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzYxMDldfQ==
+eyJoaXN0b3J5IjpbMTg2NzEyNDQ4NV19
 -->
