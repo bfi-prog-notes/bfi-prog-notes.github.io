@@ -1,13 +1,16 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Blue Black Permanent
+published: true
+date: 2024-03-01
+readtime: true
+categories: ['UK PREMIERE OF 4K RESTORATION']
+tags: [Drama, Period]
+metadata: 'France-UK-Italy-USA 2003, 115 mins<br> Director: Bernardo Bertolucci'
+pdf: '2024-02-27-dreamers.pdf'
+---
 
 _+ intro by BFI events programmer Aga Baranowska and filmmaker and curator Peter Todd_
-
-The contradictory or paradoxical thing is that in documentary the real things depicted are liable to lose their reality by being photographed and presented in that ‘documentary’ way, and there’s no poetry in that. In poetry, something else happens. Hard to say what it is. Presence, let’s say, soul or spirit, an empathy with whatever it is that’s dwelt upon, feeling for it – to the point of identification.
-
-Margaret Tait, ‘A Few Notes about Film and Poetry’, _Poem Film Film Poem_, Peter Todd (ed.), 1997
 
 _Blue Black Permanent_ was Margaret Tait’s first and only feature production. Although her abstract animations and densely allusive film poems such as _Where I Am Is Here_ (1964) or _On the Mountain_ (1974) earned Tait a small but devoted following among the English and Continental avant-garde, she was still something of an unknown in her native Scotland.
 
@@ -18,7 +21,7 @@ By the time _Blue Black Permanent_ was released, Tait was already 74, and it is 
 Tait was a fiercely independent and self-sufficient artist, and _Blue Black Permanent_ showcases her wider influences as well as her remarkable singularity of vision. The use of static objects to cut between scenes suggests more than a passing familiarity with the work of Yasujiro Ozu, but the most profound influence on her work came from her studies at the Centro Sperimentale di Cinematografia in Rome. Besides her contemporary Enrico Cocozza, she was the nearest Scotland had to a bona fide neo-realist, substituting the ‘mean dialects’ of Sardinia or Rome for the broad Orcadian cadences of the homecoming scenes.
 
 The film does not so much flout conventions as create its own; flashbacks within flashbacks, several shifts of narrative voice, frequent use of ellipsis and occasionally abstract dialogue. Most audacious – and typical of Tait’s lateral sensibilities – is the script’s refusal to lend coherence to Barbara’s search for her past. It remains unfinished business, like the poem left on Greta’s sideboard or Barbara’s outrage that her story could be neatly compressed into something as crude or indelicate as ‘a beginning, a middle and an end.’  
-Mitchell Miller, BFI Screenonline, screenonline.org.uk
+**Mitchell Miller, BFI Screenonline, screenonline.org.uk**  
 
 **A contemporary review**  
 _Blue Black Permanent_ works like a talking cure. Barbara is at a crossroads – one choice seems to be between greater or lesser commitment to lover Philip – and goes looking for clues in the past. In the present-day scenes very little ‘happens’: the lovers talk disjointedly, potter about the flat and go for walks. The flashbacks tell the film’s most complete story, covering events leading up to the death of Barbara’s mother. Yet the present is not used as a mere framing device, nor is the death exploited for its ‘drama’. Rather, the beauty of Margaret Tait’s construction is that it allows connections across the two periods to emerge as the film progresses, serving the real drama, which lies in Barbara’s attempts to understand and to communicate.
@@ -52,5 +55,5 @@ He has contributed to the recent Temenos film restoration workshops organised by
 
 - Peter Todd and Benjamin Cook (eds.), _Subjects and Sequences: A Margaret Tait Reader_ (LUX, 2005)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwNTA4ODddfQ==
+eyJoaXN0b3J5IjpbLTE1MzQ5ODkxNDRdfQ==
 -->
