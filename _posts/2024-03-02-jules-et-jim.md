@@ -7,14 +7,13 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
 metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
-pdf: '2024-03-02-devil-in-a-blue-dress.pdf'
+pdf: '2024-03-02-jules-et-jim.pdf'
 ---
 
 In 1912, Frenchman Jim (Henri Serre) and the Austrian Jules (Oskar Werner) become firm friends, happily sharing their enjoyment of Paris, art, literature and women, even when their adoration of the divine but sometimes demanding Catherine (Jeanne Moreau) looks set to test their relationship. Then comes war...
 
-Truffaut’s adaptation – at once faithful and ebulliently cinematic – of Henri-Pierre Roché’s novel both celebrates its characters’ aspirations to unfettered love and acknowledges the social and psychological obstacles that conspire to undermine such dreams. Accordingly, energetic pre-war passions yield to a deeper awareness of responsibilities and needs: life, Truffaut reminds us, is seldom simple, happiness never absolute.
-
-Geoff Andrew, Programmer-at-large
+Truffaut’s adaptation – at once faithful and ebulliently cinematic – of Henri-Pierre Roché’s novel both celebrates its characters’ aspirations to unfettered love and acknowledges the social and psychological obstacles that conspire to undermine such dreams. Accordingly, energetic pre-war passions yield to a deeper awareness of responsibilities and needs: life, Truffaut reminds us, is seldom simple, happiness never absolute.  
+**Geoff Andrew, Programmer-at-large**  
 
 **A contemporary review**
 
@@ -74,5 +73,5 @@ France 1962©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjg0Mjg4LDU3NjYzMjI1NV19
+eyJoaXN0b3J5IjpbMjA5OTM2NDQxOSw1NzY2MzIyNTVdfQ==
 -->
