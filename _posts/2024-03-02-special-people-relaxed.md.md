@@ -4,17 +4,16 @@ title: Special People
 published: true
 date: 2024-03-02
 readtime: true
-categories: ['RELAXED SCREENING']
+categories: ['RELAXED SCREENING<br>BUSTING THE BIAS']
 tags: [Comedy, Drama]
-metadata: 
-pdf: '2024-03-02-special-people.pdf'
+metadata: 'UK 2007, 74 mins<br> Director: Justin Edgar'
+pdf: '2024-03-02-special-people-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/SP.png"><br><br><br><br><br><br><br><br><br>
 
 
-_+ Q&A with director Justin Edgar and actors  
-Dominic Coleman & David Proud_
+_+ Q&A with director Justin Edgar and actors Dominic Coleman & David Proud_
 
 Enlisted to teach a class of wheelchair-users about filmmaking, neurotic Jasper gets a little more than he bargained for.
 
