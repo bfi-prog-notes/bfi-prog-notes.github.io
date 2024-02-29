@@ -6,8 +6,8 @@ date: 2024-03-02
 readtime: true
 categories: ['Preview']
 tags: [Television, Sci-fi]
-metadata: 'Japan/Germany 2023, 123 mins<br> Director: Wim Wenders'
-pdf: '2024-03-01-perfect-days.pdf'
+metadata: 'UK 1966, 100 mins<br> Director: Bill Sellars'
+pdf: '2024-03-02-doctor-who-the-celestial-toymaker.pdf'
 ---
 
 **The making of ‘The Celestial Toymaker’**  
@@ -68,5 +68,5 @@ UK 1966
 
 Courtesy of BBC Studios
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTcxMzA0M119
+eyJoaXN0b3J5IjpbMTgwMTg1NjAyOV19
 -->
