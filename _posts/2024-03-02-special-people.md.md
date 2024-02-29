@@ -1,10 +1,8 @@
-
-
 ---
 layout: post
-title: Oska Bright Film Festival 2024 First Look
+title: Special People
 published: true
-date: 2024-02-26
+date: 2024-03-03
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Shorts]
@@ -12,17 +10,20 @@ metadata:
 pdf: '2024-02-26-oska-bright-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/cunning-01.jpeg"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/SP.png"><br><br><br><br><br><br><br><br><br>
 The Cunning
 <br><br>
 
-The Oska Bright team is delighted to share this selection of highlights ahead of the festival. The festival will explore aspects of the human condition past and present, encompassing morality, conflict and death, from the witch trials of the Middle Ages through to more contemporary struggles, with a focus on LGBTQIA+ perspectives. Be prepared to rethink how you view learning disabilities and autism, as you witness the work of award-winning storytellers and filmmakers. 
 
-Join us following the screening to meet the Oska Bright team and filmmakers behind the festival. 
 
-Oska Bright Film Festival runs 11–17 March 2024 in Brighton and across the UK: **oskabright.org**
-<br><br>
+_+ Q&A with director Justin Edgar and actors  
+Dominic Coleman & David Proud_
 
+Enlisted to teach a class of wheelchair-users about filmmaking, neurotic Jasper gets a little more than he bargained for.
+
+Hailed in _The Guardian_ as a ‘milestone in mainstream cinema’, _Special People_ is a British comedy from the pioneering production company 104 Films.
+
+It questions condescending outreach projects, self-defeating attitudes within the disabled community and the vacuity of the film business, all with a sly wink and a healthy helping of self-parody. Contemporary censorship of its disability themes resulted in it receiving widespread press coverage.
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -71,5 +72,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUyMDQ1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDI4MTM5ODZdfQ==
 -->
