@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
 metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
-pdf: '2024-03-01-devil-in-a-blue-dress.pdf'
+pdf: '2024-03-02-devil-in-a-blue-dress.pdf'
 ---
 
 In 1912, Frenchman Jim (Henri Serre) and the Austrian Jules (Oskar Werner) become firm friends, happily sharing their enjoyment of Paris, art, literature and women, even when their adoration of the divine but sometimes demanding Catherine (Jeanne Moreau) looks set to test their relationship. Then comes war...
@@ -74,5 +74,5 @@ France 1962©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NjMyMjU1XX0=
+eyJoaXN0b3J5IjpbMTYxMjg0Mjg4LDU3NjYzMjI1NV19
 -->
