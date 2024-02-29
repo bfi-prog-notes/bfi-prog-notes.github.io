@@ -2,12 +2,12 @@
 layout: post
 title: Devil in a Blue Dress
 published: true
-date: 2024-03-02
+date: 2024-03-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags:  [Comedy, Drama]
-metadata: 'USA 2002, 114 mins<br> Director: Spike Jonze'
-pdf: '2024-02-02-adaptation.pdf'
+tags:  [Drama, Crime, Thriller]
+metadata: 'USA 1995, 101 mins<br> Director: Carl Franklin'
+pdf: '2024-03-01-devil-in-a.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.  
@@ -33,5 +33,5 @@ Such characters and concerns are new to the American screen but for all of its c
 The second wears a sky blue dress; the third a crisp fedora and a neatly pressed suit and then there’s the devil who stares back when things go sour, and the one who comes up from Texas with two cocked guns and a swallowing grin – a Southern Gothic gone north to remind Easy where he’s come from. ‘They thought I was some kind of new fool,’ says Easy at one point of his voice over, ‘and I guess I was.’ For better and sometimes worse, Easy has left Joppy’s bar for good. He’s put the noir back into film _noir_ and crossed over into the world; there’s no turning back.  
 **Manohla Dargis, _Sight and Sound_, January 1996**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzk4MzExOF19
+eyJoaXN0b3J5IjpbLTYzNzk4MzI0Ml19
 -->
