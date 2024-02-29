@@ -7,7 +7,7 @@ readtime: true
 categories: ['BFI FAMILIES']
 tags: [Animation, Children, Adventure]
 metadata: 'USA 2023, 95 mins<br> Directors: Chris Buck, Fawn Veerasunthorn'
-pdf: '2023-11-19-wish.pdf'
+pdf: '2024-03-03-wish.pdf'
 ---
 <img style="float: left;" src="/img/RD.png"><br><br><br>
 
@@ -28,29 +28,41 @@ Not a word is spoken in the film. Writer-director Pablo Berger takes his cue fro
 Although this is Berger’s first foray into animation, he directs with confidence. Characters and backgrounds are all clean lines and simple colour fills, and the schematic designs allow for some nice visual puns: in one sweet scene, Robot helps teach a hatchling bird to fly by arching and flapping the line of its mouth in imitation of wings. Fast, snappy editing propels the narrative. Shots are framed dynamically, ranging from close-ups that convey thoughts in the absence of words to extreme high-angle long shots, which emphasise Dog’s and Robot’s solitude. New York teems with a menagerie of animals ­– a busking octopus, a sunbathing proboscis monkey – amid which, once again, Dog often appears isolated.
 
 Ultimately, _Robot Dreams_ is a story about how swiftly and lastingly a bond of affection can mark a life, in which the protagonists just happen not to look human. The film strikes a very particular tone. It is easy to follow and entertaining in a way that speaks to children, but the emotions it deals with are adult ones. Wistfulness hangs in the air. The film is not effusive – nobody cries – but it is touching, especially as it approaches its unexpected ending. I loved it for that.  
-**Alex Dudok de Wit, _Sight and Sound_, April 2024**
+**Alex Dudok de Wit, _Sight and Sound_, April 2024**  
 <br>
 
-**Robot Dreams**
-
+**ROBOT DREAMS**  
 _Directed by_: Pablo Berger  
-_©_: Arcadia Motion Pictures S.L., Lokiz Films A.I.E., Noodles Productions SARL,
-
-Les Films du Worso SARL  
+_©_: Arcadia Motion Pictures S.L., Lokiz Films A.I.E., Noodles Productions SARL, Les Films du Worso SARL  
 _An_ Arcadia _production_  
 _A_ Lokizfilms _production_  
-_In co-production with_: Noodles Production,
-
-Les Films du Worso  
+_In co-production with_: Noodles Production, Les Films du Worso  
 _In association with_: Elle Driver, Mama Films  
-_With the participation of:_ RTVE, M+, Canal+,
-
-Ciné+  
+_With the participation of:_ RTVE, M+, Canal+, Ciné+  
 _With finance from_: The Government of Spain  
 _With the support of_: Generalitat de Catalunya Department de Cultura, Institut Català de les Empreses Culturals, Eurimages, Centre national du cinéma et de l'image animée  
 _In association with_: La Banque Postale Image 15  
-_With the support of_: Europa Creative Media
+_With the support of_: Europa Creative Media  
+_Executive Producer_: Sandra Tapia Diaz  
+_Produced by_: Ibon Cormenzana, Ignasi Estapé, Sandra Tapia Diaz, Pablo Berger, Ángel Durández  
+_Co-producers:_ Sylvie Danton, Jérôme Vidal,  Benoît Quainon  
+_Line Producer_: Julián Larrauri  
+_Associate Producer_: Yuko Harami
+_Written by_: Pablo Berger  
+_Based on the Graphic Novel by_: Sara Varon  
+_Animation Director_: Benoît Féroumont  
+_Editor_: Fernando Franco  
+_Art Director_: José Luis Ágreda  
+_Character Designer_: Daniel Fernández Casas  
+_Music_: Alfonso de Vilallonga  
+_Sound Design_: Fabiola Ordoyo  
+_Supervising Sound Editor_: Fabiola Ordoyo  
 
+Spain 2023  
+102 mins  
+Digital  
+
+Courtesy of Curzon Film  
 <br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -79,5 +91,5 @@ eyJoaXN0b3J5IjpbLTE4NzUzNjU5NjAsMjUzNzE4MjUyXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NzgyNzM0XX0=
+eyJoaXN0b3J5IjpbMjEwNjkyNDc2NF19
 -->
