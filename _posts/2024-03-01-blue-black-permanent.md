@@ -56,18 +56,12 @@ He has contributed to the recent Temenos film restoration workshops organised by
 - Peter Todd and Benjamin Cook (eds.), _Subjects and Sequences: A Margaret Tait Reader_ (LUX, 2005)
 <br>
 
-<![endif]-->
+**MARGARET TAIT: FILM MAKER**  
+_Director:_ Margaret Williams  
+UK 1983  
+34 mins  
 
-**MARGARET TAIT: FILM MAKER**
-
-_Director:_ Margaret Williams
-
-UK 1983
-
-34 mins
-
-**BLUE BLACK PERMANENT**
-
+**BLUE BLACK PERMANENT**  
 _Directed by_: Margaret Tait  
 ©: British Film Institute  
 _Production Company_: Viz Permanent  
@@ -78,9 +72,7 @@ _Executive Producers_: Ben Gibson, Rod Stoneman, Kate Swan
 _Producer_: Barbara Grigor  
 _Co-producer_: Kate Swan  
 _Associate Producer_: Christine Maclean  
-_Executive in Charge of Production (BFI)_:
-
-Angela Topping  
+_Executive in Charge of Production (BFI)_: Angela Topping  
 _Production Co-ordination_: Avril Watt  
 _Production Accountant_: Louise Coulter  
 _Accounts Assistant_: Susan Freeman  
@@ -102,9 +94,7 @@ _Stills Photographer_: Ken Mellin
 _Editor_: John MacDonnell  
 _Assistant Editor_: Ian Adams  
 _Designer_: Andrew Semple  
-_Art Department Assistant_:
-
-Tracey Gallacher  
+_Art Department Assistant_: Tracey Gallacher  
 _Art Department Runner_: Mike Gunn  
 _Production Buyer_: Robina Nicholson  
 _Standby Props_: Scott Keery  
@@ -128,9 +118,9 @@ _Dubbing Editor_: Neil Castell
 _Trainee Assistant Director_: Mo Colvin  
 _Trainee Camera Assistant_: Alan Maxwell _Trainee Assistant Editor_: Alex McLaren  
 _Catering_: L.G. McNeill’s Catering Services  
-_Unit Publicist_: Liz Reddish_  
-Cast:_
+_Unit Publicist_: Liz Reddish   
 
+**Cast**
 Jack Shepherd _(Philip Lomax)_  
 Celia Imrie _(Barbara Thorburn)_  
 Gerda Stevenson _(Greta Thorburn)_  
@@ -162,5 +152,5 @@ UK 1992©
 86 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjI5NDc0M119
+eyJoaXN0b3J5IjpbLTEwMTk5MDU3MjBdfQ==
 -->
