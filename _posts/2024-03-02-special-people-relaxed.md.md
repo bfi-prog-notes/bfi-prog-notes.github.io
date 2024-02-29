@@ -2,12 +2,12 @@
 layout: post
 title: Special People
 published: true
-date: 2024-03-03
+date: 2024-03-02
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy, Drama]
 metadata: 
-pdf: '2024-03-03-special-people.pdf'
+pdf: '2024-03-02-special-people.pdf'
 ---
 
 <img style="float: left;" src="/img/SP.png"><br><br><br><br><br><br><br><br><br>
@@ -90,5 +90,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjA5NzIzNF19
+eyJoaXN0b3J5IjpbMTQ4NjIwMDMwNF19
 -->
