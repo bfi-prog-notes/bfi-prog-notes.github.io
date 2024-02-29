@@ -46,42 +46,22 @@ _Production Companies:_ Clinica Estetico,
 
 Mundy Lane Entertainment
 
-_Executive Producers:_ Jonathan Demme,
-
-Edward Saxon, Denzel Washington
-
-_Producers:_ Gary Goetzman, Jesse Beaton
-
-_Associate Producers:_ Walter Mosley,
-
-Donna Gigliotti, Thomas Imperato
-
-_Production Accountant:_ Steven Shareshian
-
-_Production Co-ordinator:_ Christa Vausbinder
-
-_Unit Production Manager:_ Charles Skouras III
-
-_Location Manager:_ Wayne Middleton
-
-_1st Assistant Director:_ Katterli Frauenfelder
-
-_2nd Assistant Director:_ Mark Cotone
-
-_Script Supervisor:_ Annie Welles
-
-_Casting:_ Victoria Thomas
-
-_Screenplay:_ Carl Franklin
-
-_Based on the book by:_ Walter Mosley
-
-_Director of Photography:_ Tak Fujimoto
-
-_Chief Lighting Technician:_ Gary B. Tandrow
-
-_Lenses and Panaflex Camera by:_ Panavision
-
+_Executive Producers:_ Jonathan Demme Edward Saxon, Denzel Washington  
+_Producers:_ Gary Goetzman, Jesse Beaton  
+_Associate Producers:_ Walter Mosley, Donna Gigliotti, Thomas Imperato  
+_Production Accountant:_ Steven Shareshian  
+_Production Co-ordinator:_ Christa Vausbinder  
+_Unit Production Manager:_ Charles Skouras III  
+_Location Manager:_ Wayne Middleton  
+_1st Assistant Director:_ Katterli Frauenfelder  
+_2nd Assistant Director:_ Mark Cotone  
+_Script Supervisor:_ Annie Welles  
+_Casting:_ Victoria Thomas  
+_Screenplay:_ Carl Franklin  
+_Based on the book by:_ Walter Mosley  
+_Director of Photography:_ Tak Fujimoto  
+_Chief Lighting Technician:_ Gary B. Tandrow  
+_Lenses and Panaflex Camera by:_ Panavision  
 _Camera Operator:_ P. Scott Sakamoto
 
 _B Camera Operator:_ Malcolm M. Brown Jr
@@ -90,93 +70,50 @@ _1st Assistant Camera:_ Baird Steptoe
 
 _2nd Assistant Camera:_ S. Beth Horton
 
-_Key Grip:_ Bob Rose
+_Key Grip:_ Bob Rose  
+_Steadicam Operator:_ P. Scott Sakamoto  
+_Rigging Gaffer:_ Jerry Enright  
+_Stills Photography:_ Bruce W. Talamon, D. Stevens  
+_Visual and Digital Effects by:_ D-Rez  
+_Special Effects Supervisor:_ Thomas R. Ward  
+_Graphic Designer:_ Martin Charles  
+_Editor:_ Carole Kravetz  
+_Production Designer:_ Gary Frutkoff  
+_Art Director:_ Dan Webster  
+_Set Designers:_ Lauren Polizzi, Cheryl Smith  
+_Set Decorator:_ Kathryn Peters  
+_Costume Designer:_ Sharen Davis  
+_Costume Supervisor:_ Mira Zavidowsky  
+_Key Make-up Artist:_ Edna M. Sheen  
+_Key Hairstylist:_ Ken Walker 
+_Titles:_ Pablo Ferro  
+_Music:_ Elmer Bernstein  
+_Orchestrations:_ Emilie A. Bernstein  
+_Choreography:_ Tony Selznick, Russell Clark  
+_Sound Mixer:_ Ken Segal  
+_Re-recording Mixers:_ Gary Bourgeois, Dan Sherman  
+_Supervising Sound Editor:_ Robert Grieve  
+_Stunt Co-ordinator:_ Tony Brubaker  
 
-_Steadicam Operator:_ P. Scott Sakamoto
-
-_Rigging Gaffer:_ Jerry Enright
-
-_Stills Photography:_ Bruce W. Talamon, D. Stevens
-
-_Visual and Digital Effects by:_ D-Rez
-
-_Special Effects Supervisor:_ Thomas R. Ward
-
-_Graphic Designer:_ Martin Charles
-
-_Editor:_ Carole Kravetz
-
-_Production Designer:_ Gary Frutkoff
-
-_Art Director:_ Dan Webster
-
-_Set Designers:_ Lauren Polizzi, Cheryl Smith
-
-_Set Decorator:_ Kathryn Peters
-
-_Costume Designer:_ Sharen Davis
-
-_Costume Supervisor:_ Mira Zavidowsky
-
-_Key Make-up Artist:_ Edna M. Sheen
-
-_Key Hairstylist:_ Ken Walker
-
-_Titles:_ Pablo Ferro
-
-_Music:_ Elmer Bernstein
-
-_Orchestrations:_ Emilie A. Bernstein
-
-_Choreography:_ Tony Selznick, Russell Clark
-
-_Sound Mixer:_ Ken Segal
-
-_Re-recording Mixers:_ Gary Bourgeois,  
-Dan Sherman
-
-_Supervising Sound Editor:_ Robert Grieve
-
-_Stunt Co-ordinator:_ Tony Brubaker
-
-_Cast:_
-
-Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_
-
-Jennifer Beals _(Daphne Monet/Ruby Hanks)_
-
-Tom Sizemore _(Dewitt Albright)_
-
-Don Cheadle _(Mouse)_
-
-Maury Chaykin _(Matthew Terell)_
-
-Terry Kinney _(Todd Carter)_
-
-Mel Winkler _(Joppy Shag)_
-
-Lisa Nicole Carson _(Coretta James)_
-
-Albert Hall _(Odell)_
-
-Jernard Burks _(Dupree Brouchard)_
-
-David Fonteno _(Junior Fornay)_
-
-John Roselius _(Detective Jackie Mason)_
-
-Beau Starr _(Detective Miller)_
-
-Steven Randazzo _(Benny Giacomo)_
-
-Scott Lincoln _(Richard McGee)_
-
-L. Scott Caldwell _(Hattie Parsons)_
-
-Barry ‘Shabaka’ Henley _(woodcutter)_
-
-Nicky Corello _(Shariff)_
-
+**Cast**  
+Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_  
+Jennifer Beals _(Daphne Monet/Ruby Hanks)_  
+Tom Sizemore _(Dewitt Albright)_  
+Don Cheadle _(Mouse)_  
+Maury Chaykin _(Matthew Terell)_  
+Terry Kinney _(Todd Carter)_  
+Mel Winkler _(Joppy Shag)_  
+Lisa Nicole Carson _(Coretta James)_  
+Albert Hall _(Odell)_  
+Jernard Burks _(Dupree Brouchard)_  
+David Fonteno _(Junior Fornay)_  
+John Roselius _(Detective Jackie Mason)_  
+Beau Starr _(Detective Miller)_  
+Steven Randazzo _(Benny Giacomo)_  
+Scott Lincoln _(Richard McGee)_  
+L. Scott Caldwell _(Hattie Parsons)_  
+Barry ‘Shabaka’ Henley _(woodcutter)_  
+Nicky Corello _(Shariff)_  
 Kenny Endoso _(Manny)_  
 Joseph Latimore _(Frank Green)_  
 Renée Humphrey _(Barbara)_  
@@ -203,5 +140,5 @@ USA 1995©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyODM0NTAzXX0=
+eyJoaXN0b3J5IjpbLTM0NDUxMjQ4MV19
 -->
