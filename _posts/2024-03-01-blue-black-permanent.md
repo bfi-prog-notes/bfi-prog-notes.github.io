@@ -4,7 +4,7 @@ title: Blue Black Permanent
 published: true
 date: 2024-03-01
 readtime: true
-categories: ['UK PREMIERE OF 4K RESTORATION']
+categories: ['REGULAR PROGRAMME']
 tags: [Drama, Period]
 metadata: 'France-UK-Italy-USA 2003, 115 mins<br> Director: Bernardo Bertolucci'
 pdf: '2024-02-27-dreamers.pdf'
@@ -55,5 +55,5 @@ He has contributed to the recent Temenos film restoration workshops organised by
 
 - Peter Todd and Benjamin Cook (eds.), _Subjects and Sequences: A Margaret Tait Reader_ (LUX, 2005)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ5ODkxNDRdfQ==
+eyJoaXN0b3J5IjpbMTk2OTk4NzgzXX0=
 -->
