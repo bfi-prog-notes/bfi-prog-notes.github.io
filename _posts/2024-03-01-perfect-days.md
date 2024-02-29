@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Perfect Days
+published: true
+date: 2024-03-01
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'Japan 2023, 106 mins<br> Director: Wim We'
+pdf: '2024-03-01-evil-does-not-exist.pdf'
+---
 
 The 21st-century fiction filmmaking career of Wim Wenders has been exasperating for fans of the early work of wonderment and charm that made him a pillar of the New German cinema in the 1970s and 80s. What a delightful surprise, then, that Perfect Days is his best and most winning fiction film since Wings of Desire (1987), both an example of late style evolving out of a return to first principles and, more simply, of Wenders adapting the documentary approach, which has rarely failed him, to a fictional subject.
 
@@ -69,5 +77,5 @@ Digital
 
 A MUBI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDM5MDc2NV19
+eyJoaXN0b3J5IjpbOTI2Njk1NjIzXX0=
 -->
