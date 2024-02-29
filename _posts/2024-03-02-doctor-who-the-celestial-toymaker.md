@@ -21,70 +21,37 @@ Audiences didn’t react well to the serial. The BBC’s Audience Research Repor
 _The Giggle_, the third episode in the 60th anniversary specials and early the following year, an animated version of _The Celestial Toymaker_ story using the original soundtrack, was released on DVD and blu-ray.  
 **Kevin Lyons, eofftv.com**  
 <br>
-<![endif]-->
 
-**DOCTOR WHO: THE CELESTIAL TOYMAKER (Animated)**
+**DOCTOR WHO: THE CELESTIAL TOYMAKER (Animated)**  
+_Director:_ Bill Sellars  
+_Production Company:_ BBC  
+_Producer:_ Innes Lloyd  
+_Production Assistant:_ Snowy White *  
+_Assistant Floor Manager:_ Elisabeth Dunbar *  
+_Script:_ Brian Hayles, Donald Tosh  
+_Script Editor:_ Gerry Davis  
+_Studio Lighting:_ Frank Cresswell  
+_Film Camera:_ Tony Leggo  
+_Film Editor:_ Bob Rymer  
+_Costumes:_ Daphne Dare  
+_Make-up:_ Sonia Markham  
+_Designer:_ John Wood  
+_Title Music:_ Ron Grainer with the BBC Radiophonic Workshop  
+_Title Music Arranged by:_ Delia Derbyshire *  
+_Incidental Music:_ Dudley Simpson  
+_Choreography:_ Tutte Lemkow *  
+_Studio Sound:_ Alan Fogg  
+_Special Sound:_ Brian Hodgson  
 
-_Director:_ Bill Sellars
-
-_Production Company:_ BBC
-
-_Producer:_ Innes Lloyd
-
-_Production Assistant:_ Snowy White *
-
-_Assistant Floor Manager:_ Elisabeth Dunbar *
-
-_Script:_ Brian Hayles, Donald Tosh
-
-_Script Editor:_ Gerry Davis
-
-_Studio Lighting:_ Frank Cresswell
-
-_Film Camera:_ Tony Leggo
-
-_Film Editor:_ Bob Rymer
-
-_Costumes:_ Daphne Dare
-
-_Make-up:_ Sonia Markham
-
-_Designer:_ John Wood
-
-_Title Music:_
-
-Ron Grainer with the BBC Radiophonic Workshop
-
-_Title Music Arranged by:_ Delia Derbyshire *
-
-_Incidental Music:_ Dudley Simpson
-
-_Choreography:_ Tutte Lemkow *
-
-_Studio Sound:_ Alan Fogg
-
-_Special Sound:_ Brian Hodgson
-
-_Cast:_
-
-William Hartnell _(Dr Who)_
-
-Peter Purves _(Steven)_
-
-Jackie Lane _(Dodo)_
-
-Michael Gough _(Toymaker)_
-
-Campbell Singer _(Joey/King of Hearts/Sergeant_
-
-_Rugg)_
-
-Carmen Silvera _(Clara/Queen of Hearts/Mrs Wiggs)_
-
-Peter Stephens _(Knave of Hearts/Kitchen Boy/Cyril)_
-
-Reg Lever _(Joker)_
-
+**Cast**  
+William Hartnell _(Dr Who)_  
+Peter Purves _(Steven)_  
+Jackie Lane _(Dodo)_  
+Michael Gough _(Toymaker)_  
+Campbell Singer _(Joey/King of Hearts/Sergeant_ _Rugg)_  
+Carmen Silvera _(Clara/Queen of Hearts/Mrs Wiggs)_  
+Peter Stephens _(Knave of Hearts/Kitchen Boy/Cyril)_  
+Reg Lever _(Joker)_  
 Beryl Braham, Ann Harrison, Delia Lindon _(dancers)_  
 
 UK 1966  
@@ -94,5 +61,5 @@ UK 1966
 
 Courtesy of BBC Studios
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA5MjM3MzRdfQ==
+eyJoaXN0b3J5IjpbNjMzMjIzMjU1XX0=
 -->
