@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Devil in a Blue Dress
+published: true
+date: 2024-03-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama, Crime, Thriller]
+metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
+pdf: '2024-03-01-devil-in-a-blue-dress.pdf'
+---
 
 In 1912, Frenchman Jim (Henri Serre) and the Austrian Jules (Oskar Werner) become firm friends, happily sharing their enjoyment of Paris, art, literature and women, even when their adoration of the divine but sometimes demanding Catherine (Jeanne Moreau) looks set to test their relationship. Then comes war...
 
@@ -25,49 +32,28 @@ As in Renoir, too, music plays a large part in _Jules et Jim_ (and there is even
 What belongs undeniably and unmistakably to Truffaut is the film’s sense of movement. Just as the story sweeps along from 1910 to 1933, so Truffaut’s camera pans, swoops, dives, irises in and out, tracks and turns on itself in great full circles. Cuts and jump-cuts follow on each other with breathless speed and elegance. But whenever it is necessary, Truffaut never hesitates to slow his camera down, to slide in and hold the characters in close-up for important dialogue scenes. And then, smoothly, the movement starts up again: aerial shots scoop down and we soar away. In short, his technique (and Raoul Coutard’s photography) is even more brilliant than in _Tirez sur le pianiste_; and as someone pointed out the other day, technique, after all, comes from the Greek word for art – _techne_. There will be those who will regret the simplicity of _Les Quatre Cents Coups_; and there will be those (myself included) who still have a sneaking nostalgia for the anarchy of _Tirez sur le pianiste_. But no one, I think, will have any more doubts about Truffaut’s stature: he is right up there with the great directors (make your own list) of our time.  
 **Richard Roud, _Sight and Sound_, Summer 1962**
 <br>
-<![endif]-->
 
-**JULES ET JIM**
-
-_Director:_ François Truffaut
-
-_©/Production Company:_ Films du Carrosse
-
-_Production Company:_ SEDIF
-
-_Adaptation/Dialogue:_ François Truffaut,
-
-Jean Gruault
-
-_Based on the novel by:_ Henri-Pierre Roché
-
-_Publisher:_ Editions Gallimard
-
-_Director of Photography:_ Raoul Coutard
-
-_Editor:_ Claudine Bouché
-
-_Laboratory:_ GTC Joinville France
-
-_Music:_ Georges Delerue
-
-_Song ‘Le Tourbillon’ Lyrics/Music by:_ Bassiak
-
-_Sound Recording:_ Studio Marignan
-
-_Narrator:_ Michel Subor
+**JULES ET JIM**  
+_Director:_ François Truffaut  
+_©/Production Company:_ Films du Carrosse  
+_Production Company:_ SEDIF  
+_Adaptation/Dialogue:_ François Truffaut, Jean Gruault  
+_Based on the novel by:_ Henri-Pierre Roché  
+_Publisher:_ Editions Gallimard  
+_Director of Photography:_ Raoul Coutard  
+_Editor:_ Claudine Bouché  
+_Laboratory:_ GTC Joinville France  
+_Music:_ Georges Delerue  
+_Song ‘Le Tourbillon’ Lyrics/Music by:_ Bassiak  
+_Sound Recording:_ Studio Marignan  
+_Narrator:_ Michel Subor  
 
 _uncredited_  
 _Producer:_ Marcel Berbert  
-_Production Manager:_ Maurice Urbain 
-_Assistant Directors:_ Florence Malraux,
-
-Georges Pellegrin, Robert Bober
-
-_Script Supervisor:_ Suzanne Schiffman
-
-_Camera Operator:_ Claude Beausoleil
-
+_Production Manager:_ Maurice Urbain  
+_Assistant Directors:_ Florence Malraux, Georges Pellegrin, Robert Bober  
+_Script Supervisor:_ Suzanne Schiffman  
+_Camera Operator:_ Claude Beausoleil  
 _Gaffer:_ Fernand Coquet  
 _Stills Photography:_ Raymond Cauchetier  
 _Art Director:_ Fred Capel  
@@ -88,5 +74,5 @@ France 1962©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NDg3MzgwXX0=
+eyJoaXN0b3J5IjpbOTQ1OTY3NTgzXX0=
 -->
