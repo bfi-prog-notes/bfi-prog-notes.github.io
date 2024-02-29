@@ -57,6 +57,16 @@ Digital
 Courtesy of Modern Films
 <br><br>
 
+**NEW RELEASES**  
+**Evil Does Not Exist** Aku wa sonzai shinai  
+From Fri 1 Mar  
+**Getting It Back: The Story of Cymande**  
+From Fri 1 Mar  
+**Perfect Days**  
+From Fri 1 Mar  
+**Do Not Expect Too Much from the End of the World** Nu astepta prea mult de la sfârsitul lumii  
+From Fri 8 Mar; Sat 9 Mar 18:15 + Q&A with director Radu Jude  
+<BR><BR>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
@@ -81,5 +91,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NTI2NzYxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE2ODEzNDcxMyw3MzA5OTgxMTZdfQ==
 -->
