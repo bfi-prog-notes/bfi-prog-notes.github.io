@@ -34,19 +34,12 @@ Such characters and concerns are new to the American screen but for all of its c
 The second wears a sky blue dress; the third a crisp fedora and a neatly pressed suit and then there’s the devil who stares back when things go sour, and the one who comes up from Texas with two cocked guns and a swallowing grin – a Southern Gothic gone north to remind Easy where he’s come from. ‘They thought I was some kind of new fool,’ says Easy at one point of his voice over, ‘and I guess I was.’ For better and sometimes worse, Easy has left Joppy’s bar for good. He’s put the noir back into film _noir_ and crossed over into the world; there’s no turning back.  
 **Manohla Dargis, _Sight and Sound_, January 1996**  
 <br>
-<![endif]-->
 
-**DEVIL IN A BLUE DRESS**
-
-_Director:_ Carl Franklin
-
-_©:_ TriStar Pictures, Inc.
-
-_Production Companies:_ Clinica Estetico,
-
-Mundy Lane Entertainment
-
-_Executive Producers:_ Jonathan Demme Edward Saxon, Denzel Washington  
+**DEVIL IN A BLUE DRESS**  
+_Director:_ Carl Franklin  
+_©:_ TriStar Pictures, Inc.  
+_Production Companies:_ Clinica Estetico, Mundy Lane Entertainment  
+_Executive Producers:_ Jonathan Demme, Edward Saxon, Denzel Washington  
 _Producers:_ Gary Goetzman, Jesse Beaton  
 _Associate Producers:_ Walter Mosley, Donna Gigliotti, Thomas Imperato  
 _Production Accountant:_ Steven Shareshian  
@@ -62,14 +55,10 @@ _Based on the book by:_ Walter Mosley
 _Director of Photography:_ Tak Fujimoto  
 _Chief Lighting Technician:_ Gary B. Tandrow  
 _Lenses and Panaflex Camera by:_ Panavision  
-_Camera Operator:_ P. Scott Sakamoto
-
-_B Camera Operator:_ Malcolm M. Brown Jr
-
-_1st Assistant Camera:_ Baird Steptoe
-
-_2nd Assistant Camera:_ S. Beth Horton
-
+_Camera Operator:_ P. Scott Sakamoto  
+_B Camera Operator:_ Malcolm M. Brown Jr  
+_1st Assistant Camera:_ Baird Steptoe  
+_2nd Assistant Camera:_ S. Beth Horton  
 _Key Grip:_ Bob Rose  
 _Steadicam Operator:_ P. Scott Sakamoto  
 _Rigging Gaffer:_ Jerry Enright  
@@ -140,5 +129,5 @@ USA 1995©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDUxMjQ4MV19
+eyJoaXN0b3J5IjpbLTE3MjU2MTQzMDZdfQ==
 -->
