@@ -2,7 +2,7 @@
 layout: post
 title: Robot Dreams
 published: true
-date: 2024-03-19
+date: 2024-03-03
 readtime: true
 categories: ['BFI FAMILIES']
 tags: [Animation, Children, Adventure]
@@ -13,35 +13,44 @@ pdf: '2023-11-19-wish.pdf'
 
 **What’s it about?**  
 Living a solitary life and longing for fun and excitement, Dog sends off for a robot friend. When it arrives, the two make an immediate connection and Dog’s life is transformed. A trip to the park sees the two displaying disco dancing moves that Travolta could only dream of, but an unexpected event threatens their friendship. Told entirely without dialogue, _Robot Dreams_ is joyful and thought-provoking in equal measure, skilfully delivering its message to young and old alike.  
-**Production notes**  
+
+**‘Robot Dreams’ reviewed**  
+The robot of the title dreams of New York sidewalks and other robots and sunflowers who tap-dance; but mostly it dreams of its companion, an anthropomorphic dog it has been separated from and yarns to see again.
+
+The film opens in an East Village apartment, where our melancholic pooch with a paunch is playing Pong by himself. Responding to an ad, Dog – the characters have no personal names – mail-orders a robot companion who, once assembled, brims with childlike naivety and good-natured exuberance.
+
+Their first scenes together play out like a series of early dates: a trip on a row boat, a night in with _The Wizard of Oz_ (1939), roller-skating in Central Park to Earth, Wind & Fire’s ‘September’ (a song that will resurface as a plot device). Whether this is a friendship or a romance isn’t the point; what matters is that they care for one another, and indeed that Robot is capable of caring like a living creature.
+
+This blossoming comes abruptly to a stop after a misadventure leaves Robot paralysed and stranded on a fenced-off beach. Powerless to rescue it, Dog returns to a life of solitude in the city. From here, the film takes on a more episodic rhythm, each season bringing new experiences to Dog and new visitors to Robot’s spot on the beach. But their bond endures in dreams, depicted in surreal sequences that reveal the characters’ attachment to one another and shared fear of abandonment. We see more of Robot’s dreams: poignantly, these are forever remixing the limited experiences it has had in its short life. The very fact that it can have dreams is perhaps the best proof that Robot is alive.
+
+Not a word is spoken in the film. Writer-director Pablo Berger takes his cue from his source, Sara Varon’s graphic novel, also dialogue-free. The effect is to make the relationship between the protagonists, who already lack the particulars of human appearance, even more universal.
+
+Although this is Berger’s first foray into animation, he directs with confidence. Characters and backgrounds are all clean lines and simple colour fills, and the schematic designs allow for some nice visual puns: in one sweet scene, Robot helps teach a hatchling bird to fly by arching and flapping the line of its mouth in imitation of wings. Fast, snappy editing propels the narrative. Shots are framed dynamically, ranging from close-ups that convey thoughts in the absence of words to extreme high-angle long shots, which emphasise Dog’s and Robot’s solitude. New York teems with a menagerie of animals ­– a busking octopus, a sunbathing proboscis monkey – amid which, once again, Dog often appears isolated.
+
+Ultimately, _Robot Dreams_ is a story about how swiftly and lastingly a bond of affection can mark a life, in which the protagonists just happen not to look human. The film strikes a very particular tone. It is easy to follow and entertaining in a way that speaks to children, but the emotions it deals with are adult ones. Wistfulness hangs in the air. The film is not effusive – nobody cries – but it is touching, especially as it approaches its unexpected ending. I loved it for that.  
+**Alex Dudok de Wit, _Sight and Sound_, April 2024**
 <br>
 
-**WISH**  
-_Directed by_: Chris Buck, Fawn Veerasunthorn  
-_©_: Inc. Disney Enterprises  
-_Production Company_: Disney  
-_Created and Produced at_: Walt Disney Animation Studios  
-_Executive Producers_: Jennifer Lee, Don Hall  
-_Produced by_: Peter Del Vecho, Juan Pablo Reyes Lancaster-Jones  
-_Screenplay by_: Jennifer Lee, Allison Moore  
-_Additional Story Material by_: Carlos López Estrada, Andrew Rothschild  
-_Story by_: Jennifer Lee, Chris Buck, Fawn Veerasunthorn, Allison Moore  
-_Director of Cinematography Layout_: Rob Dressel  
-_Director of Cinematography Lighting_: Adolph Lusinsky  
-_Heads of Animation_: Rebecca Wilson Bresee, Wayne Unten  
-_Edited by_: Jeff Draheim  
-_Production Designer_: Michael Giaimo, Lisa Keene, David Womersley  
-_Original Songs by_: Julia Michaels, Benjamin Rice  
-_Original Score Composed by_: Dave Metzger  
-_Score Choir_: London Voices  
-_Orchestra Conducted by_: Don Harper  
-_Sound Designer_: Nia Hansen  
+**Robot Dreams**
 
-USA 2023  
-95 mins  
-Digital  
+_Directed by_: Pablo Berger  
+_©_: Arcadia Motion Pictures S.L., Lokiz Films A.I.E., Noodles Productions SARL,
 
-Courtesy of Walt Disney Studios (UK)  
+Les Films du Worso SARL  
+_An_ Arcadia _production_  
+_A_ Lokizfilms _production_  
+_In co-production with_: Noodles Production,
+
+Les Films du Worso  
+_In association with_: Elle Driver, Mama Films  
+_With the participation of:_ RTVE, M+, Canal+,
+
+Ciné+  
+_With finance from_: The Government of Spain  
+_With the support of_: Generalitat de Catalunya Department de Cultura, Institut Català de les Empreses Culturals, Eurimages, Centre national du cinéma et de l'image animée  
+_In association with_: La Banque Postale Image 15  
+_With the support of_: Europa Creative Media
+
 <br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -70,5 +79,5 @@ eyJoaXN0b3J5IjpbLTE4NzUzNjU5NjAsMjUzNzE4MjUyXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ4OTY3MjVdfQ==
+eyJoaXN0b3J5IjpbOTU1NzgyNzM0XX0=
 -->
