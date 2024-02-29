@@ -6,8 +6,8 @@ date: 2024-03-03
 readtime: true
 categories: ['BFI FAMILIES']
 tags: [Animation, Children, Adventure]
-metadata: 'USA 2023, 95 mins<br> Directors: Chris Buck, Fawn Veerasunthorn'
-pdf: '2024-03-03-wish.pdf'
+metadata: 'Spain 2023, 103 mins<br> Director: Pablo Berger'
+pdf: '2024-03-03-robot-dreams.pdf'
 ---
 <img style="float: left;" src="/img/RD.png"><br><br><br>
 
@@ -91,5 +91,5 @@ eyJoaXN0b3J5IjpbLTE4NzUzNjU5NjAsMjUzNzE4MjUyXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjkyNDc2NF19
+eyJoaXN0b3J5IjpbMzUwNjc4OTAwXX0=
 -->
