@@ -54,6 +54,113 @@ He has contributed to the recent Temenos film restoration workshops organised by
 - Margaret Tait, _Personae_ (LUX, 2020)
 
 - Peter Todd and Benjamin Cook (eds.), _Subjects and Sequences: A Margaret Tait Reader_ (LUX, 2005)
+<br>
+
+<![endif]-->
+
+**MARGARET TAIT: FILM MAKER**
+
+_Director:_ Margaret Williams
+
+UK 1983
+
+34 mins
+
+**BLUE BLACK PERMANENT**
+
+_Directed by_: Margaret Tait  
+©: British Film Institute  
+_Production Company_: Viz Permanent  
+_Presented by_: Channel Four Television Company, British Film Institute Production  
+_In association with_: Scottish Film Production Fund, Orkney Islands Council, City of Edinburgh District Council, Grampian Television  
+_With the participation of_: British Screen Finance  
+_Executive Producers_: Ben Gibson, Rod Stoneman, Kate Swan  
+_Producer_: Barbara Grigor  
+_Co-producer_: Kate Swan  
+_Associate Producer_: Christine Maclean  
+_Executive in Charge of Production (BFI)_:
+
+Angela Topping  
+_Production Co-ordination_: Avril Watt  
+_Production Accountant_: Louise Coulter  
+_Accounts Assistant_: Susan Freeman  
+_Location Managers_: Sara Barr, Andrea Calderwood  
+_Production Runner_: Tony Sheridan  
+_Assistant Director_: Gus Maclean  
+_2nd Assistant Director_: Alison Goring  
+_Director’s Assistant_: Melissa Wishart  
+_Script Supervisor_: Pat Rambaut  
+_Casting Director_: Susie Bruffin  
+_Original Screenplay by_: Margaret Tait  
+_Director of Photography_: Alex Scott  
+_Rostrum_: Stop-Frame  
+_Focus Puller_: Mike Cuthbert  
+_Clapper/Loader_: Chris Burns  
+_Gaffer_: Andy Stewart  
+_Electrician_: Donny Campbell  
+_Stills Photographer_: Ken Mellin  
+_Editor_: John MacDonnell  
+_Assistant Editor_: Ian Adams  
+_Designer_: Andrew Semple  
+_Art Department Assistant_:
+
+Tracey Gallacher  
+_Art Department Runner_: Mike Gunn  
+_Production Buyer_: Robina Nicholson  
+_Standby Props_: Scott Keery  
+_Set Construction_: Fantastic Fabrications  
+_Costume Designer_: Lynn Aitken  
+_Wardrobe Assistant_: Helen Keenan  
+_Make-up/Hair_: Irene Napier  
+_Titles_: Paperdart  
+_Laboratory_: Technicolor  
+_Original Music_: John Gray  
+_Pibroch/Vocals_: Allan Macdonald  
+_Music Director_: David McNiven  
+_Music Mixer_: Brian Young  
+_Music Recording_: Edinburgh Cava  
+_Music Consultant_: Bob Last  
+_Sound Recordist_: Colin Nicolson  
+_Boom Operator_: Tony Cook  
+_Dubbing Mixers_: Aad Wirtz, Adrian Rhodes  
+_Sound Post-production_: Ladbroke Film Dubbing  
+_Dubbing Editor_: Neil Castell  
+_Trainee Assistant Director_: Mo Colvin  
+_Trainee Camera Assistant_: Alan Maxwell _Trainee Assistant Editor_: Alex McLaren  
+_Catering_: L.G. McNeill’s Catering Services  
+_Unit Publicist_: Liz Reddish_  
+Cast:_
+
+Jack Shepherd _(Philip Lomax)_  
+Celia Imrie _(Barbara Thorburn)_  
+Gerda Stevenson _(Greta Thorburn)_  
+James Fleet _(Jim Thorburn)_  
+Sean Scanlan _(Andrew Cunningham)_  
+Hilary Maclean _(Wendy)_  
+Walter Leask _(Sam Kelday)_  
+Sheana Marr _(Mrs Kemp)_  
+Eoin Macdonald _(Dan of Fea)_  
+Jimmy Moar _(Billy Spence)_  
+Liz Robertson _(Mary Kelday)_  
+Bobby Bews _(Grandfather Bews)_  
+Keith Hutcheon _(Roger)_  
+Mairi Wallace _(shoe salesgirl)_  
+Pamela Kelly _(Mrs Brodie)_  
+Joan Alcorn _(Mrs Kilgour)_  
+Lisa Grindall _(Joan Kilgour)_  
+Gowan Calder _(Eileen)_  
+Katie Groat _(young Barbara)_  
+James Holmes _(Fergus)_  
+Sean Holmes _(Tom)_  
+Elsa Davidson _(young Greta)_  
+Thomas Pirie _(Donald)_  
+Bill Jack _(newsreader)_  
+Douglas Sutherland _(art critic)_  
+Erlend Tait, Peter Tait _(boatmen)_  
+
+UK 1992©  
+86 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYzMjU1MjddfQ==
+eyJoaXN0b3J5IjpbLTgwNjI5NDc0M119
 -->
