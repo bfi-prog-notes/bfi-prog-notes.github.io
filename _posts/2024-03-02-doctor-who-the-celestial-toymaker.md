@@ -1,9 +1,16 @@
+---
+layout: post
+title: Doctore Who<br> The Celestial Toymaker
+published: true
+date: 2024-03-02
+readtime: true
+categories: ['Preview']
+tags: [Television, Sci-fi]
+metadata: 'Japan/Germany 2023, 123 mins<br> Director: Wim Wenders'
+pdf: '2024-03-01-perfect-days.pdf'
+---
 
-
-<![endif]-->
-
-**The making of ‘The Celestial Toymaker’**
-
+**The making of ‘The Celestial Toymaker’**  
 Brian Hayles would write many _Doctor Who_ stories and is best remembered for creating the Martian Ice Warriors and the planet and civilisation of Peladon. But his first pass at writing a script for the programme wasn’t so successful. In early 1965 he submitted a story outline titled _The Dark Planet_ which was rejected by the production office. He came up with another idea, a fanciful notion of an alien toymaker from another dimension that fared much better – given the nod by story editor Donald Tosh and producer John Wiles, he was commissioned to develop the treatment as a series of scripts, going by the simple title _The Toymaker_. Hayles originally envisaged the alien menace as another Time Lord, though this idea was eventually played down to the point where it barely registers at all.
 
 Tosh came up with the idea of The Doctor and The Toymaker locking intellectual horns over a round of The Trilogic Game, which was briefly considered as the title for the serial, though it eventually became _The Celestial Toymaker_ by the time Hayles handed in his completed scripts. Unfortunately, when Wiles and Tosh saw what he’d come up with, they started to worry about the number of special effects needed, many of which would be unachievable on the budget they had. A rewrite was called for, but Hayles had started work on _United!_ (1965-1967), a twice weekly drama about a second division football team that he’d co-created with Anthony Cornish (many _Doctor Who_ writers and directors would work on the series) and was unable to spare the time to do the new versions. Tosh decided to rewrite them himself, though Hayles would retain his writing credit.
@@ -61,5 +68,5 @@ UK 1966
 
 Courtesy of BBC Studios
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMjIzMjU1XX0=
+eyJoaXN0b3J5IjpbMTYyOTcxMzA0M119
 -->
