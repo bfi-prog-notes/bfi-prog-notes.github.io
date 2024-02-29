@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Crime, Thriller]
 metadata: 'USA 1995, 101 mins<br> Director: Carl Franklin'
-pdf: '2024-03-01-devil-in-a.pdf'
+pdf: '2024-03-01-devil-in-a-blue-dress.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.  
@@ -30,8 +30,178 @@ Easy eventually finds Daphne but only after he’s been plunged into political, 
 Don Cheadle’s Mouse is the single biggest shock in the film. Compact, with lustrous ebony skin and a gold cap that catches light, Cheadle enters laughing, maybe because he knows he’s about to steal home. Washington may never have been as good as he is here but he pales significantly next to his friend.
 
 Such characters and concerns are new to the American screen but for all of its convolutions, the first half of _Devil_ holds to a deliberate, occasionally slow pace with few fluctuations in tone – it’s easy does it. When the pace picks up, the body count does too: rage floods the scene then drops to a savage whisper. The first devil that Easy meets is a corpulent creep with a pet baby boy.  
+
 The second wears a sky blue dress; the third a crisp fedora and a neatly pressed suit and then there’s the devil who stares back when things go sour, and the one who comes up from Texas with two cocked guns and a swallowing grin – a Southern Gothic gone north to remind Easy where he’s come from. ‘They thought I was some kind of new fool,’ says Easy at one point of his voice over, ‘and I guess I was.’ For better and sometimes worse, Easy has left Joppy’s bar for good. He’s put the noir back into film _noir_ and crossed over into the world; there’s no turning back.  
 **Manohla Dargis, _Sight and Sound_, January 1996**  
+<br>
+<![endif]-->
+
+**DEVIL IN A BLUE DRESS**
+
+_Director:_ Carl Franklin
+
+_©:_ TriStar Pictures, Inc.
+
+_Production Companies:_ Clinica Estetico,
+
+Mundy Lane Entertainment
+
+_Executive Producers:_ Jonathan Demme,
+
+Edward Saxon, Denzel Washington
+
+_Producers:_ Gary Goetzman, Jesse Beaton
+
+_Associate Producers:_ Walter Mosley,
+
+Donna Gigliotti, Thomas Imperato
+
+_Production Accountant:_ Steven Shareshian
+
+_Production Co-ordinator:_ Christa Vausbinder
+
+_Unit Production Manager:_ Charles Skouras III
+
+_Location Manager:_ Wayne Middleton
+
+_1st Assistant Director:_ Katterli Frauenfelder
+
+_2nd Assistant Director:_ Mark Cotone
+
+_Script Supervisor:_ Annie Welles
+
+_Casting:_ Victoria Thomas
+
+_Screenplay:_ Carl Franklin
+
+_Based on the book by:_ Walter Mosley
+
+_Director of Photography:_ Tak Fujimoto
+
+_Chief Lighting Technician:_ Gary B. Tandrow
+
+_Lenses and Panaflex Camera by:_ Panavision
+
+_Camera Operator:_ P. Scott Sakamoto
+
+_B Camera Operator:_ Malcolm M. Brown Jr
+
+_1st Assistant Camera:_ Baird Steptoe
+
+_2nd Assistant Camera:_ S. Beth Horton
+
+_Key Grip:_ Bob Rose
+
+_Steadicam Operator:_ P. Scott Sakamoto
+
+_Rigging Gaffer:_ Jerry Enright
+
+_Stills Photography:_ Bruce W. Talamon, D. Stevens
+
+_Visual and Digital Effects by:_ D-Rez
+
+_Special Effects Supervisor:_ Thomas R. Ward
+
+_Graphic Designer:_ Martin Charles
+
+_Editor:_ Carole Kravetz
+
+_Production Designer:_ Gary Frutkoff
+
+_Art Director:_ Dan Webster
+
+_Set Designers:_ Lauren Polizzi, Cheryl Smith
+
+_Set Decorator:_ Kathryn Peters
+
+_Costume Designer:_ Sharen Davis
+
+_Costume Supervisor:_ Mira Zavidowsky
+
+_Key Make-up Artist:_ Edna M. Sheen
+
+_Key Hairstylist:_ Ken Walker
+
+_Titles:_ Pablo Ferro
+
+_Music:_ Elmer Bernstein
+
+_Orchestrations:_ Emilie A. Bernstein
+
+_Choreography:_ Tony Selznick, Russell Clark
+
+_Sound Mixer:_ Ken Segal
+
+_Re-recording Mixers:_ Gary Bourgeois,  
+Dan Sherman
+
+_Supervising Sound Editor:_ Robert Grieve
+
+_Stunt Co-ordinator:_ Tony Brubaker
+
+_Cast:_
+
+Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_
+
+Jennifer Beals _(Daphne Monet/Ruby Hanks)_
+
+Tom Sizemore _(Dewitt Albright)_
+
+Don Cheadle _(Mouse)_
+
+Maury Chaykin _(Matthew Terell)_
+
+Terry Kinney _(Todd Carter)_
+
+Mel Winkler _(Joppy Shag)_
+
+Lisa Nicole Carson _(Coretta James)_
+
+Albert Hall _(Odell)_
+
+Jernard Burks _(Dupree Brouchard)_
+
+David Fonteno _(Junior Fornay)_
+
+John Roselius _(Detective Jackie Mason)_
+
+Beau Starr _(Detective Miller)_
+
+Steven Randazzo _(Benny Giacomo)_
+
+Scott Lincoln _(Richard McGee)_
+
+L. Scott Caldwell _(Hattie Parsons)_
+
+Barry ‘Shabaka’ Henley _(woodcutter)_
+
+Nicky Corello _(Shariff)_
+
+Kenny Endoso _(Manny)_  
+Joseph Latimore _(Frank Green)_  
+Renée Humphrey _(Barbara)_  
+Robert J. Knoll _(Herman)_  
+Kai Lennox _(Football)_  
+Poppy Montgomery _(Barbara’s sister)_  
+Brendan Kelly _(Norman, Terell’s chauffeur)_  
+Peggy Rea _(Carter’s secretary)_  
+Vinny Argiro _(Baxter, Carter’s valet)_  
+Deborah Lacey _(Sophie)_  
+Brazylia Kotere _(neighbourhood woman)_  
+Jeris Lee Poindexter _(Alphonso Jenkins)_  
+Frank Davis _(butcher)_  
+Matt Barry _(cop in car)_  
+Mark Cotone _(cop in station)_  
+Brian E. O’Neal _(John’s band singer)_  
+G. Smokey Campbell _(nightclub owner)_  
+Alan Craig Schwartz _(Johnny)_  
+Steve Sekely _(Abe)_  
+J.D. Smith _(pool hall owner)_  
+Nigel Gibbs _(bootlegger)_  
+
+USA 1995©  
+101 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzk4MzI0Ml19
+eyJoaXN0b3J5IjpbOTMyODM0NTAzXX0=
 -->
