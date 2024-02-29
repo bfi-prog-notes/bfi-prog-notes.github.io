@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Devil in a Blue Dress
+title: Jules et Jim
 published: true
-date: 2024-03-01
+date: 2024-03-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags:  [Drama, Crime, Thriller]
+tags:  [Drama]
 metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
 pdf: '2024-03-01-devil-in-a-blue-dress.pdf'
 ---
@@ -74,5 +74,5 @@ France 1962©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1OTY3NTgzXX0=
+eyJoaXN0b3J5IjpbNTc2NjMyMjU1XX0=
 -->
