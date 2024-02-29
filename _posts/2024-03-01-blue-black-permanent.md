@@ -5,9 +5,9 @@ published: true
 date: 2024-03-01
 readtime: true
 categories: ['REGULAR PROGRAMME']
-tags: [Drama, Period]
-metadata: 'France-UK-Italy-USA 2003, 115 mins<br> Director: Bernardo Bertolucci'
-pdf: '2024-02-27-dreamers.pdf'
+tags: [Experimental]
+metadata: 'UK 1992, 86mins<br> Director: Margaret Tait'
+pdf: '2024-03-01-blue-black-permanent.pdf'
 ---
 
 _+ intro by BFI events programmer Aga Baranowska and filmmaker and curator Peter Todd_
@@ -55,5 +55,5 @@ He has contributed to the recent Temenos film restoration workshops organised by
 
 - Peter Todd and Benjamin Cook (eds.), _Subjects and Sequences: A Margaret Tait Reader_ (LUX, 2005)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTk4NzgzXX0=
+eyJoaXN0b3J5IjpbLTE0NDYzMjU1MjddfQ==
 -->
