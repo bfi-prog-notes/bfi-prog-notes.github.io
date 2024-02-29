@@ -20,7 +20,28 @@ Enlisted to teach a class of wheelchair-users about filmmaking, neurotic Jasper 
 
 Hailed in _The Guardian_ as a ‘milestone in mainstream cinema’, _Special People_ is a British comedy from the pioneering production company 104 Films.
 
-It questions condescending outreach projects, self-defeating attitudes within the disabled community and the vacuity of the film business, all with a sly wink and a healthy helping of self-parody. Contemporary censorship of its disability themes resulted in it receiving widespread press coverage.
+It questions condescending outreach projects, self-defeating attitudes within the disabled community and the vacuity of the film business, all with a sly wink and a healthy helping of self-parody. Contemporary censorship of its disability themes resulted in it receiving widespread press coverage.  
+<br>
+
+**SPECIAL PEOPLE**  
+_Director:_ Justin Edgar  
+_Production Company_: 104 Films  
+_Produced by_: Alex Usborne, Justin Edgar  
+_Written by_: Dominic Coleman, Justin Edgar  
+_Director of Photography_: Zac Nicholson  
+_Editor_: Mark Burgess  
+_Original Music Composed by_: Kim Humphrey  
+
+**Cast**  
+Dominic Coleman _(Jasper)_  
+Robyn Frampton _(Jess)_  
+Jason Maza _(Dave)_  
+Sasha Hardway _(Anais)_  
+David Proud _(Scott)_
+
+UK 2007  
+74 mins  
+Digital  
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -69,5 +90,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMzA1NzMwXX0=
+eyJoaXN0b3J5IjpbLTk0NjA5NzIzNF19
 -->
