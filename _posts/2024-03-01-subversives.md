@@ -14,7 +14,25 @@ _I sovversivi_ traces the separate but parallel liberating personal crises of fo
 _I sovversivi_ itself, in its demonstration through image and action of the possibility of going beyond discussion to active change.
 
 The quartet of protagonists are ‘subversive’ because their revolutionary fervour takes them beyond the constraints of ideology, history and environment into the sphere of personal action, inventing their own histories, in the absence of a coherent, organised mass political movement, instead of being passive spectators to its conditioning processes. Thus the final image of the film, that of Togliatti’s coffin being lowered into the grave, is presented coldly and unemotionally as a historical terminal point which has been shown to have been superseded by the positive and imaginative decisions of the four subversives.  
-Tony Mitchell, _Sight and Sound_, Summer 1979
+**Tony Mitchell, _Sight and Sound_, Summer 1979**
+<br><br>
+
+**MAGICAL REALISM:  THE FILM FABLES OF  THE TAVIANI BROTHERS**<br>
+**The Subversives** I sovversivi<br>
+Fri 1 Mar 18:20; Tue 5 Mar 20:40<br>
+**The Night of the Shooting Stars** La notte di San Lorenzo<br>
+Sat 2 Mar 15:45; Tue 12 20:20 + extended intro by season curator Adrian Wootton<br>
+**Good Morning Babylon** Good Morning, Babilonia<br>
+Sat 2 Mar 18:10; Thu 7 Mar 20:40<br>
+**The Lark Farm** La masseria delle allodole<br>
+Sat 2 Mar 20:40; Sun 10 Mar 18:15<br>
+**The Meadow** Il prato<br>
+Sun 3 Mar 12:30; Sat 9 Mar 18:20<br>
+**Rainbow: A Private Affair** Una questione privata<br>
+Fri 8 Mar 17:55; Mon 11 Mar 21:00<br>
+**Leonora Addio**<br>
+Sat 9 Mar 20:40; Wed 13 Mar 17:50<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNjk1NjE0XX0=
+eyJoaXN0b3J5IjpbODM4MTE5MTI2XX0=
 -->
