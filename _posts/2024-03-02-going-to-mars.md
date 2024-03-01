@@ -17,71 +17,40 @@ _Going to Mars_ opens in the present-day, as she walks on stage in a New York Ci
 
 **Bianca Wilson** aka Island girl is a multi-instrumentalist and singer from south London. Focusing mainly on the banjo, their quest into music is rooted in celebrating sound as a reflection of diasporic experience; journeying through the different musical epochs of traditional music and incorporating that into their personal style.
 
-**Host: Chardine Taylor-Stone** is an award-winning cultural producer, Black feminist activist, and writer. She was featured in _The Voice_ newspaper as one of the Women Who Rocked the World in 2015, Diva Magazine’s LGBT Power List 2016 and Buzzfeed’s ‘The Most Inspiring British LGBT People of 2016‘.  
-A regular on the Pride Power List, in May 2017 Chardine won the British LGBT Award for ‘Outstanding Contribution to LGBT+ life’. In 2018 she was nominated by Diva Awards for LGBT Activist/Campaigner of the Year and has again been nominated by Diva Awards in 2020 for ‘Unsung Hero’.  
-A committed trade unionist she is vice-chair of the Musician’s Union Equalities Committee and newly elected member of the London Regional Committee. Chardine is also a newly appointed trustee of London Black Women’s Project, a specialist and dedicated organisation for Black, Asian and Minority Ethnic women and girls who have experienced violence and abuse.
+**Host: Chardine Taylor-Stone** is an award-winning cultural producer, Black feminist activist, and writer. She was featured in _The Voice_ newspaper as one of the Women Who Rocked the World in 2015, Diva Magazine’s LGBT Power List 2016 and Buzzfeed’s ‘The Most Inspiring British LGBT People of 2016‘.  A regular on the Pride Power List, in May 2017 Chardine won the British LGBT Award for ‘Outstanding Contribution to LGBT+ life’. In 2018 she was nominated by Diva Awards for LGBT Activist/Campaigner of the Year and has again been nominated by Diva Awards in 2020 for ‘Unsung Hero’.  A committed trade unionist she is vice-chair of the Musician’s Union Equalities Committee and newly elected member of the London Regional Committee. Chardine is also a newly appointed trustee of London Black Women’s Project, a specialist and dedicated organisation for Black, Asian and Minority Ethnic women and girls who have experienced violence and abuse.
+<br><br>
 
-<![endif]-->
+**GOING TO MARS: THE NIKKI GIOVANNI PROJECT**<br>
+_Directors:_ Joe Brewster, Michele Stephenson<br>
+_Production Companies:_ Confluential Films,  RADA Studio, Just Films<br>
+_Producers:_ Joe Brewster, Michele Stephenson, Tommy Oliver<br>
+_Cinematography:_ Greg Harriott, Alfredo Alcantara, Derek Wiesehahn, Shawn Peters<br>
+_Editing:_ Terra Long, Lawrence Jackman<br>
+_Music:_ Samora Pinderhughes, Chris Pattishall<br>
 
-**GOING TO MARS: THE NIKKI GIOVANNI PROJECT**
-
-_Directors:_ Joe Brewster, Michele Stephenson
-
-_Production Companies:_ Confluential Films,  
-RADA Studio, Just Films
-
-_Producers:_ Joe Brewster, Michele Stephenson, Tommy Oliver
-
-_Cinematography:_ Greg Harriott, Alfredo Alcantara, Derek Wiesehahn, Shawn Peters
-
-_Editing:_ Terra Long, Lawrence Jackman
-
-_Music:_ Samora Pinderhughes, Chris Pattishall
-
-USA 2023
-
-102 mins
-
+USA 2023<br>
+102 mins<br>
 Digital
 
-Contains language which some viewers  
-may find upsetting
+Contains language which some viewers  may find upsetting<br>
+<br>
 
-<![endif]-->
-
-**REGULAR PROGRAMME**
-
-**Silent Cinema: Hell’s Heroes** + intro by  
-BFI National Archive curator Bryony Dixon
-
-Sun 3 Mar 15:15
-
-**Art in the Making: A Sign is a Fine Investment** + intro by Steve Foxon, Curator of Non-Fiction, BFI National Archive  + **Exit No Exit** + **1 in a Million**
-
-Mon 4 Mar 18:15
-
-**Projecting the Archive: Dance Pretty Lady** + intro by Marc David Jacobs, writer and film nerd
-
-Tue 5 Mar 18:30
-
-**Restored: Dr Jekyll and Mr Hyde**
-
-Tue 5 Mar 20:45
-
-**Experimenta: The Blue Description Project:  
-Blue** + discussion
-
-Fri 8 Mar 18:15
-
-**Filmmaking for Artists:  
-Beginners Filmmaking Workshop**
-
-Sun 10 Mar 10:30–16:30 (one session)
-
-**Filmmaking for Artists:  
-Intermediate Filmmaking Workshop**
-
-Sun 31 Mar 10:30–16:30 (one session)
+**REGULAR PROGRAMME**<br>
+**Silent Cinema: Hell’s Heroes** + intro by  BFI National Archive curator Bryony Dixon<br>
+Sun 3 Mar 15:15<br>
+**Art in the Making: A Sign is a Fine Investment** + intro by Steve Foxon, Curator of Non-Fiction, BFI National Archive  + **Exit No Exit** + **1 in a Million**<br>
+Mon 4 Mar 18:15<br>
+**Projecting the Archive: Dance Pretty Lady** + intro by Marc David Jacobs, writer and film nerd<br>
+Tue 5 Mar 18:30<br>
+**Restored: Dr Jekyll and Mr Hyde**<br>
+Tue 5 Mar 20:45<br>
+**Experimenta: The Blue Description Project:  Blue** + discussion<br>
+Fri 8 Mar 18:15<br>
+**Filmmaking for Artists:  Beginners Filmmaking Workshop**<br>
+Sun 10 Mar 10:30–16:30 (one session)<br>
+**Filmmaking for Artists:  Intermediate Filmmaking Workshop**<br>
+Sun 31 Mar 10:30–16:30 (one session)<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTAxNDYwN119
+eyJoaXN0b3J5IjpbLTY1NjQ5MjE4NV19
 -->
