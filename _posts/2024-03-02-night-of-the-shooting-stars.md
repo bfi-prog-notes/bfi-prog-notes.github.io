@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Night of the Shooting Stars
+published: true
+date: 2024-03-02
+readtime: true
+categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
+tags:  [Drama]
+metadata: 'Italy 1982, 107 mins<br> Directors: Paolo Taviani, Vittorio Taviani'
+pdf: '2024-03-02-night-of-the-shooting-stars.pdf'
+---
 
 _La notte di San Lorenzo_, like the Taviani brothers’ previous films, belongs to a cinema of rhetoric. The overall structure is loose, defined in broad strokes that can be grasped immediately and thereafter taken for granted, and this structure is ultimately a pretext for a succession of bravura gestures, visual and musical hyperboles, in which emotion, spectacle and ideology merge into one. The Tavianis have often indicated that the roots of this approach lie in the aural traditions of Tuscany, where they were born and raised, and the vigour and assertiveness of their style clearly has something in common with the technique of a storyteller in a public square. But their films also brim over with a specifically filmic rhetoric – a repertoire of striking camera movements, heightened colours, ‘exemplary’ compositions, musical underlinings – that has equally obvious connections with other recent work from the broad spectrum of the Italian left, from the operatic emotionalism of Bertolucci to the ‘absurd’ mannerism of Sergio Leone.
 
@@ -92,6 +103,60 @@ Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by 
 
 The screening on Tue 12 Mar will include an extended intro by season curator Adrian Wootton
 <br><br>
+
+**MAGICAL REALISM:  THE FILM FABLES OF  THE TAVIANI BROTHERS**<br>
+**The Subversives** I sovversivi<br>
+Fri 1 Mar 18:20; Tue 5 Mar 20:40<br>
+**The Night of the Shooting Stars** La notte di San Lorenzo<br>
+Sat 2 Mar 15:45; Tue 12 20:20 + extended intro by season curator Adrian Wootton<br>
+**Good Morning Babylon** Good Morning, Babilonia<br>
+Sat 2 Mar 18:10; Thu 7 Mar 20:40<br>
+**The Lark Farm** La masseria delle allodole<br>
+Sat 2 Mar 20:40; Sun 10 Mar 18:15<br>
+**The Meadow** Il prato<br>
+Sun 3 Mar 12:30; Sat 9 Mar 18:20<br>
+**Rainbow: A Private Affair** Una questione privata<br>
+Fri 8 Mar 17:55; Mon 11 Mar 21:00<br>
+**Leonora Addio**<br>
+Sat 9 Mar 20:40; Wed 13 Mar 17:50<br>
+<br><br>
+
+**With thanks to**  
+Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.  
+<br>
+**Co-produced by**  
+Cinecittà, Rome
+
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br>
+
+
+The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc3NTk2ODAyM119
 -->
