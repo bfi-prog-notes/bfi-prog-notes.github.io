@@ -1,8 +1,18 @@
+---
+layout: post
+title: Going to Mars - The Nikki Giovanni Project
+published: true
+date: 2024-03-02
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Documentary]
+metadata: 'USA 2023, 102 mins<br> Directors: Joe Brewster, Michele Stephenson'
+pdf: '2024-03-02-going-to-mars.pdf'
+---
 
 _+ Q&A with Chanje Kunda, Bianca Wilson and host Chardine Taylor-Stone_
 
-This life-affirming, award-winning documentary follows legendary poet and activist Nikki Giovanni, aged 80, as she looks back on her legacy and reflects on her mortality. Combining archive, personal reflection and performance, with additional contributions by Taraji P. Henson and archive featuring James Baldwin, the film recounts Giovanni’s life story, from her early immersion in  
-Civil Rights activism, through the Black Arts Movement and Black Lives Matter protests, and looks towards an uncertain future.  
+This life-affirming, award-winning documentary follows legendary poet and activist Nikki Giovanni, aged 80, as she looks back on her legacy and reflects on her mortality. Combining archive, personal reflection and performance, with additional contributions by Taraji P. Henson and archive featuring James Baldwin, the film recounts Giovanni’s life story, from her early immersion in  Civil Rights activism, through the Black Arts Movement and Black Lives Matter protests, and looks towards an uncertain future.  
 **bfi.org.uk**
 
 In 2003, Oprah Winfrey sought out some of America’s greatest poets to contribute to an issue of _OWN Magazine_ dedicated to the different parts of the human body. There was a mad dash by poets to choose the heart, the brain and the skin to serve as poetic metaphor for their balladry. African-American poet Nikki Giovanni’s choice best illustrates her approach to life. She chose the feet and then spun a compelling and inspirational tale using the feet of African American women to describe their struggle and ultimate triumph over oppression. This is the life work of Nikki Giovanni, using poetry, humour and satire to inspire us to think, challenge assumptions and ultimately demand equity and justice.
@@ -51,6 +61,30 @@ Sun 10 Mar 10:30–16:30 (one session)<br>
 **Filmmaking for Artists:  Intermediate Filmmaking Workshop**<br>
 Sun 31 Mar 10:30–16:30 (one session)<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY1NjQ5MjE4NV19
 -->
