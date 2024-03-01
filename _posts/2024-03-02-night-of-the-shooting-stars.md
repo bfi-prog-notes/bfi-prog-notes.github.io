@@ -84,15 +84,14 @@ Graziella Galvani _(Signora Migliorati)_
 Giorgio Naddi _(bishop)_  
 Renata Zamengo _(La Scardigli, Bellindia’s mother)_
 
-Italy 1982
-
-107 mins
-
+Italy 1982  
+107 mins  
 Digital (restoration)
 
 Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at Cinecittà S.p.A.
 
 The screening on Tue 12 Mar will include an extended intro by season curator Adrian Wootton
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTA1NzAwMV19
+eyJoaXN0b3J5IjpbMTc3NTk2ODAyM119
 -->
