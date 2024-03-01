@@ -98,14 +98,14 @@ Francesco Tola
 Pinon Toska  
 Robert Case  *
 
-Italy-France-USA 1987
+*Uncredited
 
-118 mins
-
+Italy-France-USA 1987  
+118 mins  
 Digital (restoration)
 
-Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at  
-Cinecittà S.p.A.
+Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at  Cinecittà S.p.A.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAxMzQ1NTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDY4OTY5OTddfQ==
 -->
