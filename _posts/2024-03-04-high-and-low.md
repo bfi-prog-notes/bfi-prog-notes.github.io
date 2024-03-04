@@ -6,7 +6,7 @@ date: 2024-03-04
 readtime: true
 categories: ['PREVIEW']
 tags:  [Documentary]
-metadata: 'USA 2023, 141 mins<br> Director: Ava DuVernay'
+metadata: 'France/USA/UK 2023, 116 mins<br> Director: Kevin Macdonald'
 pdf: '2024-03-04-origin.pdf'
 ---
 
@@ -88,5 +88,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY5Njg4MjYsMjg0NzgxMDQyXX0=
+eyJoaXN0b3J5IjpbLTE4OTA4NTczNzksMjg0NzgxMDQyXX0=
 -->
