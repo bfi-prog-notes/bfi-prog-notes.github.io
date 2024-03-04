@@ -7,7 +7,7 @@ readtime: true
 categories: ['PREVIEW']
 tags:  [Documentary]
 metadata: 'France/USA/UK 2023, 116 mins<br> Director: Kevin Macdonald'
-pdf: '2024-03-04-origin.pdf'
+pdf: '2024-03-04-high-and-low.pdf'
 ---
 
 Oscar-winning director Kevin Macdonald (_Marley_, _Whitney_) turns his camera towards the life and career of the gifted fashion designer and head of Dior, who caused outrage following a drunken, anti-Semitic tirade in 2011. Featuring the man himself, alongside figures from the fashion world, the film deftly investigates John Galliano’s childhood, celebrated work, mental health and addiction struggles, and his long road to redemption.  
