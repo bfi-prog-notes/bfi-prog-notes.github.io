@@ -20,7 +20,7 @@ There’s also a cinephile wink in another borrowing, _The Red Shoes_ (1948), co
 As for measuring Galliano by his offences, the film – a little like _Citizen Kane_ (1941) – offers the audience depositions from past acquaintances. There are character clues throughout, notes of repression and recklessness and dependency, though no perfect keys. Most clearly, he had long been a nasty drunk; at his worst, he says, he was hallucinating, and he was banned from 20 London hotels. How to judge a drunk, and the hate he denies when sober? Interviewees speculate on received antisemitism, an urge to selfdestruct, the worth of his public penance. The film finds trails of damage, received and wrought. The Jewish head of Dior talks of waiting more than seven years for an apology. But before the incident, Galliano was allowed to fire his secretary for sounding the alarm about his mental health. Philippe Virgitti – whose verbal abuse by him in a cafe has been magnified while the world works through Galliano’s shame – volunteers his testimony again: his trauma shows. Marlene Dietrich’s summation in _Touch of Evil_ (1958) seems applicable. ‘He was some kind of man. What does it matter what you say about people?’ And when millions keep saying it?  
 **Nick Bradshaw, _Sight and Sound_, April 2024**  
 <br>
-<![endif]-->
+
 
 **HIGH & LOW – JOHN GALLIANO**  
 _Director:_ Kevin Macdonald  
@@ -36,5 +36,5 @@ Digital
 
 Courtesy of MUBI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NzgxMDQyXX0=
+eyJoaXN0b3J5IjpbNjUzODYyMzgzLDI4NDc4MTA0Ml19
 -->
