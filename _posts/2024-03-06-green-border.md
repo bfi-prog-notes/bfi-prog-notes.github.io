@@ -4,12 +4,11 @@ title: Green Border
 published: true
 date: 2024-03-06
 readtime: true
-categories: ['PREVIEW']
+categories: ['KINOTEKA<br> POLISH FILM FESTIVAL<br> OPENING NIGHT']
 tags:  [Drama]
-metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Ava DuVernay'
+metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Agnieszka Holland'
 pdf: '2024-03-06-green-border.pdf'
 ---
-
 
 _+ Q&A with director Agnieszka Holland_  
 
@@ -201,5 +200,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMxMDIzNjRdfQ==
+eyJoaXN0b3J5IjpbMTM5NDY5MjEwNCwtMTM4MzEwMjM2NF19
 -->
