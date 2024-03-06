@@ -150,11 +150,55 @@ Courtesy of Modern Films
 For more information about Kinoteka Polish Film Festival (6-28 March) go to https://kinoteka.org.uk
 
 
-**Kinoteka Closing Night Gala: The Peasants**
+**Kinoteka Closing Night Gala: The Peasants + live musical accompaniment**  
+Thursday 28 March 17:45 BFI IMAX  
+<br>
 
-**+ live musical accompaniment**
+**IN PERSON & PREVIEWS**  
+**Funday Preview: Robot Dreams**  
+Sun 3 Mar 12:00  
+**Preview: La Chimera**  
+Sun 3 Mar 17:30  
+**Preview: Origin**  
+Mon 4 Mar 17:50  
+**Preview: High & Low – John Galliano**  
+Mon 4 Mar 20:40  
+**Kinoteka Polish Film Festival Opening Night London Premiere: Green Border** Zielona granica  + Q&A with director Agnieszka Holland  
+Wed 6 Mat 19:00  
+**Woman with a Movie Camera International Women’s Day Preview: Banel & Adama** + Q&A with director Ramata-Toulaye Sy  
+Fri 8 Mar 18:10  
+**Woman with a Movie Camera International Women’s Day Preview: Elaha**  
+Fri 8 Mar 20:45  
+**TV Preview: Inside No. 9: The Final Series** + Q&A with Reece Shearsmith, Steve Pemberton and executive producer Adam Tandy  
+Mon 11 Mar 18:15  
+**Mark Kermode Live in 3D at the BFI** **IMAX**  
+Mon 11 Mar 18:15  
+**TV Preview: Mandy** + Q&A with Diane Morgan  
+Tue 12 Mar 18:10  
+<br>
 
-Thursday 28 March 17:45 BFI IMAX
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ3MzQ1MTNdfQ==
+eyJoaXN0b3J5IjpbLTQxMjk3NDAyN119
 -->
