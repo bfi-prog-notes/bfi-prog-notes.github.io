@@ -4,10 +4,10 @@ title: Green Border
 published: true
 date: 2024-03-06
 readtime: true
-categories: ['KINOTEKA<br> POLISH FILM FESTIVAL<br> OPENING NIGHT']
+categories: ['KINOTEKA<br>POLISH FILM FESTIVAL<br>OPENING NIGHT']
 tags:  [Drama]
 metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Agnieszka Holland'
-pdf: '2024-03-06-green-border.pdf'
+pdf: '2024-03-06-green-border.jpg'
 ---
 
 _+ Q&A with director Agnieszka Holland_  
@@ -57,100 +57,52 @@ The cinematic style of the film is revealed in the mood board. The action will b
 
 The film’s narrative weaves together a few storylines, intercutting them with various points of view, then strategically separating them, only to reconnect them again. We’ll try to be very specific, to capture the context and particular situations in a very precise, veristic way and – at the same time – to express some more general, more global and relevant truth about the contemporary world and its challenges.
 
-The characters must be vivid and real, their journey emotionally fulfilling. We want to be close to them, to follow them, to care and worry about them.
+The characters must be vivid and real, their journey emotionally fulfilling. We want to be close to them, to follow them, to care and worry about them.  
 **Agnieszka Holland, Production notes**  
 
 **Agnieszka Holland** is a Polish film director and scriptwriter, born in Warsaw in 1948. After graduating from FAMU in Prague in 1971 she began her film career working as an assistant director of Krzysztof Zanussi and was mentored by Andrzej Wajda. Throughout her work life the filmmaker was nominated for the Academy Award 3 times – in 1985 for _Angry Harvest_, in 1990 for _Europa, Europa_ and 2012 for _In Darkness_. Holland’s numerous features include _Olivier, Olivier_ (1992), _The Secret Garden_ (1993), _Total Eclipse_ (1995), _Julie Walking Home_ (2001), _Spoor_ (2017), _Mr Jones_ (2019) and _Charlatan_ (2020) among others. She also directed episodes of many notable TV series, including _Treme_ and _House of Cards_.  
 
 **Ian Haydn Smith** is a writer, editor and curator. Publications include _Well Documented_, _The Short Story of Film_ and _Selling the Movie_.  
 <br>
-<![endif]-->
+<
+**GREEN BORDER (ZIELONA GRANICA)**  
+_A film by:_ Agnieszka Holland  
+_In collaboration with:_ Kamila Tarabura, Katarzyna Warzecha  
+_A_ Metro Films _production in association with_ Astute Films  
+_Co-produced by:_ Maria Blicharska, Damien McDonald – Blick Production, Šárka Cimbalová – Marlene Film Production, Diana Elbaum, David Ragonig – Beluga Tree  
+_In co-production with:_ CANAL+ Poland – Beata Ryczkowska, Małgorzata Seck, dFLIGHTS – Dominika Kulczyk, Czech Television, Mazovia Warsaw Film Fund  
+_In participation of:_ Astute Films, Eurimages, Volapuk, ZDF/ARTE, Centre du cinéma et de l’audiovisuel de la Fédération Wallonie- Bruxelles, La Banque Postale, Image 17, Films Boutique, VOO-BE tv, TRT Sinema, Downey Ink., Saudade Film  
+_With the Support of:_ Czech Film Fund, Aide aux cinémas du monde, CNC – Institut Français  
+_Executive Producers:_ Mike Downey, Jeff Field, Emir Külal Haznevi, Daniel Bergman  
+_Produced by:_ Marcin Wierzchosłąwski, Fred Bernstein, Agnieszka Holland  
+_Written by:_ Maciej Pisuk, Gabriela Łazarkiewicz-Sieczko, Agnieszka Holland  
+_Director of Photography:_ Tomek Naumiuk  
+_Editor:_ Pavel Hrdlička  
+_Production Design:_ Katarzyna Jędrzejczyk  
+_Costume Design:_ Katarzyna Lewińska  
+_Hair and Make-up Design:_ Aneta Brzozowska  
+_Music:_ Frédéric Vercheval  
+_Sound:_ Roman Dymny  
 
-**GREEN BORDER (ZIELONA GRANICA)**
+**Cast**  
+Jalal Altawil _(Bashir)_  
+Maja  Ostaszewska _(Julia)_  
+Behi  Djanati  Atai _(Leïla)_  
+Mohamad  Al  Rashi _(grandpa)_  
+Dalia  Naous _(Amina)_  
+Tomasz  Włosok _(Jan)_  
 
-_A film by:_ Agnieszka Holland
-
-_In collaboration with:_ Kamila Tarabura,
-
-Katarzyna Warzecha
-
-_A_ Metro Films _production in association with_
-
-Astute Films
-
-_Co-produced by:_ Maria Blicharska,
-
-Damien McDonald – Blick Production,
-
-Šárka Cimbalová – Marlene Film Production,
-
-Diana Elbaum, David Ragonig – Beluga Tree
-
-_In co-production with:_ CANAL+ Poland – Beata Ryczkowska, Małgorzata Seck, dFLIGHTS –
-
-Dominika Kulczyk, Czech Television,
-
-Mazovia Warsaw Film Fund
-
-_In participation of:_ Astute Films, Eurimages, Volapuk, ZDF/ARTE, Centre du cinéma et
-
-de l’audiovisuel de la Fédération Wallonie- Bruxelles, La Banque Postale, Image 17, Films Boutique, VOO-BE tv, TRT Sinema, Downey Ink., Saudade Film
-
-_With the Support of:_ Czech Film Fund, Aide aux cinémas du monde, CNC – Institut Français
-
-_Executive Producers:_ Mike Downey, Jeff Field,
-
-Emir Külal Haznevi, Daniel Bergman
-
-_Produced by:_ Marcin Wierzchosłąwski,
-
-Fred Bernstein, Agnieszka Holland
-
-_Written by:_ Maciej Pisuk,
-
-Gabriela Łazarkiewicz-Sieczko, Agnieszka Holland
-
-_Director of Photography:_ Tomek Naumiuk
-
-_Editor:_ Pavel Hrdlička
-
-_Production Design:_ Katarzyna Jędrzejczyk
-
-_Costume Design:_ Katarzyna Lewińska
-
-_Hair and Make-up Design:_ Aneta Brzozowska
-
-_Music:_ Frédéric Vercheval
-
-_Sound:_ Roman Dymny
-
-_Cast:_
-
-Jalal Altawil _(Bashir)_
-
-Maja  Ostaszewska _(Julia)_
-
-Behi  Djanati  Atai _(Leïla)_
-
-Mohamad  Al  Rashi _(grandpa)_
-
-Dalia  Naous _(Amina)_
-
-Tomasz  Włosok _(Jan)_
-
-Poland-France-Czech Republic-Belgium 2023
-
-152 mins
-
+Poland-France-Czech Republic-Belgium 2023  
+152 mins  
 Digital
 
-Courtesy of Modern Films
+Courtesy of Modern Films  
 
 For more information about Kinoteka Polish Film Festival (6-28 March) go to https://kinoteka.org.uk
 
 <img style="float: left;" src="/img/kinoteka.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
-**Kinoteka Closing Night Gala: The Peasants + live musical accompaniment**  
+**Kinoteka Closing Night Gala: The Peasants + live musical accompaniment**   
 Thursday 28 March 17:45 BFI IMAX  
 <br>
 
