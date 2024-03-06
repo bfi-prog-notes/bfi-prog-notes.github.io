@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Green Border
+published: true
+date: 2024-03-06
+readtime: true
+categories: ['PREVIEW']
+tags:  [Drama]
+metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Ava DuVernay'
+pdf: '2024-03-06-green-border.pdf'
+---
 
 
 _+ Q&A with director Agnieszka Holland_  
@@ -55,5 +65,5 @@ The characters must be vivid and real, their journey emotionally fulfilling. We 
 
 **Ian Haydn Smith** is a writer, editor and curator. Publications include _Well Documented_, _The Short Story of Film_ and _Selling the Movie_.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYwNTUwNTRdfQ==
+eyJoaXN0b3J5IjpbLTc3Mjc2MzM2Ml19
 -->
