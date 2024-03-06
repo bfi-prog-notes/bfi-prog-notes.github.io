@@ -64,6 +64,97 @@ The characters must be vivid and real, their journey emotionally fulfilling. We 
 **Agnieszka Holland** is a Polish film director and scriptwriter, born in Warsaw in 1948. After graduating from FAMU in Prague in 1971 she began her film career working as an assistant director of Krzysztof Zanussi and was mentored by Andrzej Wajda. Throughout her work life the filmmaker was nominated for the Academy Award 3 times – in 1985 for _Angry Harvest_, in 1990 for _Europa, Europa_ and 2012 for _In Darkness_. Holland’s numerous features include _Olivier, Olivier_ (1992), _The Secret Garden_ (1993), _Total Eclipse_ (1995), _Julie Walking Home_ (2001), _Spoor_ (2017), _Mr Jones_ (2019) and _Charlatan_ (2020) among others. She also directed episodes of many notable TV series, including _Treme_ and _House of Cards_.  
 
 **Ian Haydn Smith** is a writer, editor and curator. Publications include _Well Documented_, _The Short Story of Film_ and _Selling the Movie_.  
+<br>
+<![endif]-->
+
+**GREEN BORDER (ZIELONA GRANICA)**
+
+_A film by:_ Agnieszka Holland
+
+_In collaboration with:_ Kamila Tarabura,
+
+Katarzyna Warzecha
+
+_A_ Metro Films _production in association with_
+
+Astute Films
+
+_Co-produced by:_ Maria Blicharska,
+
+Damien McDonald – Blick Production,
+
+Šárka Cimbalová – Marlene Film Production,
+
+Diana Elbaum, David Ragonig – Beluga Tree
+
+_In co-production with:_ CANAL+ Poland – Beata Ryczkowska, Małgorzata Seck, dFLIGHTS –
+
+Dominika Kulczyk, Czech Television,
+
+Mazovia Warsaw Film Fund
+
+_In participation of:_ Astute Films, Eurimages, Volapuk, ZDF/ARTE, Centre du cinéma et
+
+de l’audiovisuel de la Fédération Wallonie- Bruxelles, La Banque Postale, Image 17, Films Boutique, VOO-BE tv, TRT Sinema, Downey Ink., Saudade Film
+
+_With the Support of:_ Czech Film Fund, Aide aux cinémas du monde, CNC – Institut Français
+
+_Executive Producers:_ Mike Downey, Jeff Field,
+
+Emir Külal Haznevi, Daniel Bergman
+
+_Produced by:_ Marcin Wierzchosłąwski,
+
+Fred Bernstein, Agnieszka Holland
+
+_Written by:_ Maciej Pisuk,
+
+Gabriela Łazarkiewicz-Sieczko, Agnieszka Holland
+
+_Director of Photography:_ Tomek Naumiuk
+
+_Editor:_ Pavel Hrdlička
+
+_Production Design:_ Katarzyna Jędrzejczyk
+
+_Costume Design:_ Katarzyna Lewińska
+
+_Hair and Make-up Design:_ Aneta Brzozowska
+
+_Music:_ Frédéric Vercheval
+
+_Sound:_ Roman Dymny
+
+_Cast:_
+
+Jalal Altawil _(Bashir)_
+
+Maja  Ostaszewska _(Julia)_
+
+Behi  Djanati  Atai _(Leïla)_
+
+Mohamad  Al  Rashi _(grandpa)_
+
+Dalia  Naous _(Amina)_
+
+Tomasz  Włosok _(Jan)_
+
+Poland-France-Czech Republic-Belgium 2023
+
+152 mins
+
+Digital
+
+Courtesy of Modern Films
+
+For more information about Kinoteka Polish Film Festival (6-28 March) go to https://kinoteka.org.uk
+
+
+**Kinoteka Closing Night Gala: The Peasants**
+
+**+ live musical accompaniment**
+
+Thursday 28 March 17:45 BFI IMAX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mjc2MzM2Ml19
+eyJoaXN0b3J5IjpbLTEyMzQ3MzQ1MTNdfQ==
 -->
