@@ -67,16 +67,16 @@ Binta Racine Sy _(mother)_
 Moussa Sow _(Racine)_  
 Ndiabel Diallo _(Coudy)_  
 Oumar Samba Dia _(Abou Dia)_  
-Amadou Ndiaye _(Malik)_
+Amadou Ndiaye _(Malik)_  
 
 France-Senegal-Mali 2023  
 87 mins  
 Digital
 
-Courtesy of We Are Parable
+Courtesy of We Are Parable  
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA4NDA5NjUsLTE1Mzk4OTg5NDcsLT
-UwMzA4NzUwMl19
+eyJoaXN0b3J5IjpbOTk1MDkwNTU1LC0xNTM5ODk4OTQ3LC01MD
+MwODc1MDJdfQ==
 -->
