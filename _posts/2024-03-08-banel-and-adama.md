@@ -24,7 +24,58 @@ French-senegalese **Ramata-Toulaye Sy** was born and raised in the Paris region.
 
 In 2020, Ramata-Toulaye directed her first short film, _Astel_, selected in more than 80 festivals and pre-selected for the 2023 César Awards. _Banel & Adama_ is her first feature film.  
 <br.
+<![endif]-->
 
+**Banel & Adama**
+
+_A film by_: Ramata-Toulaye Sy  
+_©_: La Chauve Souris, Take Shelter, Astou Films, Astou Production, DS Productions, Canal+ International, ARTE France Cinéma  
+_A La Chauve-Souris production_: La Chauve-Souris  
+_Production Company_: La Chauve-Souris  
+_In association with_: Cinemage 17  
+_A Take Shelter production_: Take Shelter  
+_In co-production with_: Astou Films,
+
+Astou Production, DS Productions,
+
+Canal+ International, ARTE France Cinema  
+_With the financial contribution of_:
+
+Union Européenne  
+_With the competition of_: Groupe des États ACP  
+_With the support of_: Canal+, Centre national du cinéma et de l'image animée, Fonds Jeune Création Francophone, Fonds Image de la Francophonie, Fonds de promotion de l'industrie cinematographique et audiovisuelle du Senegal (FOPICA), Doha Film Institute  
+_With the participation of_: ARTE France, TV5Monde, Ciné+  
+_Produced by_: Eric Névé, Maud Leclair Névé, Margaux Juvénal  
+_Co-produced by_: Kébé Souleymane,
+
+Oumar Gabar Sy, Andrey Samouté Diarra  
+_Written by_: Ramata-Toulaye Sy  
+_Director of Photography_: Amine Berrada  
+_Visual Effects_: Mac Guff  
+_Production Designer_: Oumar Sall  
+_Costumes_: Mariam Diop  
+_Make-up - Hair_: Marième Ngom  
+_Original Music_: Bachar Mar-Khalifé  
+_Sound_: Benjamin Silvestre  
+_Re-recording Mixer_: Jean-Pierre Laforce  
+_Sound Editor_: Olivier Voisin
+
+_Cast_  
+Khady Mane _(Banel)_  
+Mamadou Diallo _(Adama)_  
+Binta Racine Sy _(mother)_  
+Moussa Sow _(Racine)_  
+Ndiabel Diallo _(Coudy)_  
+Oumar Samba Dia _(Abou Dia)_  
+Amadou Ndiaye _(Malik)_
+
+France-Senegal-Mali 2023  
+87 mins  
+Digital
+
+Courtesy of We Are Parable
+
+Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3Mzc0OTU2LC01MDMwODc1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk4OTg5NDcsLTUwMzA4NzUwMl19
 -->
