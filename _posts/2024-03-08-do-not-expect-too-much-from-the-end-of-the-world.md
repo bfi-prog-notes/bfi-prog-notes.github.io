@@ -7,14 +7,12 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Comedy]
 metadata: 'Romania 2023, 163 mins<br> Director: Radu Jude'
-pdf: '2024-03-28-evil-does-not-exist.pdf'
+pdf: '2024-03-28-do-not-expect-too-much-from-the-end-of-the-world.pdf'
 ---
 
 Radu Jude’s delightfully digressive dark satire about the ills of modern life is one of the most remarkable movies of the last year. It follows Angela, an insanely overworked assistant working for a film company, as she drives around auditioning disabled people for a video dubiously promoting safety in the workplace; between encounters she posts bilious TikTok rants pretending to be Andrew Tate. Meanwhile, her wretched existence is contrasted with that of another Angela – a taxi-driver from a 1981 movie.
 
-Scabrously funny, provocatively topical, unashamedly oddball and often inspired, Jude’s sprawling, crazed but surprisingly coherent comedy skewers both today’s Romania and the West in general. And the last quarter – a superb single take – speaks volumes about the unreliability of the moving image. Radically insightful entertainment.
-
-Geoff Andrew, Programmer-at-large, bfi.org.uk
+Scabrously funny, provocatively topical, unashamedly oddball and often inspired, Jude’s sprawling, crazed but surprisingly coherent comedy skewers both today’s Romania and the West in general. And the last quarter – a superb single take – speaks volumes about the unreliability of the moving image. **Geoff Andrew, Programmer-at-large, bfi.org.uk**  
 
 In simple terms, _Do Not Expect Too Much from the End of the World_ is about the day-to-day graft of a video production runner in contemporary Bucharest. Angela (Ilinca Manolache) calls herself a PA, but – on a zero-hours contract – she’s really a kind of fixer or factotum or dogsbody, currently working with a corporation that’s making a safety-at-work video. For much of Radu Jude’s sprawling black comedy, the camera is placed in the front seat of her Fiat, shooting in high-contrast black and white as she negotiates choked-up traffic to run errands around the city. She’s ‘auditioning’ a succession of workplace accident victims to appear as the video’s main case study.
 
@@ -28,12 +26,10 @@ Perhaps that feels like a high-cultural reach, but Jude’s film is itself full 
 
 In the soil under Bucharest are Angela’s own grandparents, but these graves are due to be dug up as part of a forced exhumation to make way for the expansion of a hotel complex – sacred ground no protection against the march of capital. But it will all be done ‘by the book’, Angela is assured. And there are more graves, dozens of them, in an interlude late in the film: after Angela tells Hoss’s character about an over-trafficked stretch of highway outside the city, Jude pauses the action for a mute, five-minute montage of the roadside grave markers – a documentary requiem for the collateral damage of a world in hyperdrive.
 
-The giving of ground. Forced compromises. These themes play out in real time in Jude’s bleakly hilarious closing sequence, a 35-minute fixed-frame tableau filmed in sharp, high-resolution colour in an industrial parking lot as the film crew attempts to finesse the messaging of Ovidiu’s testimony. The daylight dims, it starts to drizzle, and Jude drops in his most Godardian digression yet, explicitly connecting this scene of unreliable image-making and corporate exploitation with the Lumière brothers and the dawn of cinema itself. His film surveys our world of avatars and green screen and deepfakes and links it all back to the primal scene of workers leaving the factory.
+The giving of ground. Forced compromises. These themes play out in real time in Jude’s bleakly hilarious closing sequence, a 35-minute fixed-frame tableau filmed in sharp, high-resolution colour in an industrial parking lot as the film crew attempts to finesse the messaging of Ovidiu’s testimony. The daylight dims, it starts to drizzle, and Jude drops in his most Godardian digression yet, explicitly connecting this scene of unreliable image-making and corporate exploitation with the Lumière brothers and the dawn of cinema itself. His film surveys our world of avatars and green screen and deepfakes and links it all back to the primal scene of workers leaving the factory.  
+**Sam Wigley, _Sight and Sound_, April 2024**  
 
-Sam Wigley, _Sight and Sound_, April 2024
-
-**Radu Jude talking to Jonathan Romney**
-
+**Radu Jude talking to Jonathan Romney**  
 Romanian director Radu Jude is one of the few contemporary directors whose films genuinely have a breaking-news vividness. His latest film _Do Not Expect Too Much from the End of the World_ – its title from an aphorism by Polish writer Stanisław Jerzy Lec – analyses the malaises of the working life in digital-era Romania.
 
 _In this film, you use social media – Tik Tok, Instagram, et cetera – as well as lots of adverts, as you did in_ Bad Luck Banging_. These are films very much about now, in a very immediate, Godardian way._
@@ -115,6 +111,6 @@ Digital
 
 A Sovereign Films release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM4ODk1OCwtMTUzMDA5NDg0OCwtMz
+eyJoaXN0b3J5IjpbMTYwODk1OTI2OCwtMTUzMDA5NDg0OCwtMz
 E0MDA3ODFdfQ==
 -->
