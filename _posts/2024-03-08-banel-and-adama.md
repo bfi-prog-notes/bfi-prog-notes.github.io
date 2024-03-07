@@ -6,7 +6,7 @@ date: 2024-03-08
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br> INTERNATIONAL WOMEN’S DAY PREVIEW']
 tags:  [Drama]
-metadata: '<![endif]--> France-Senegal-Mali 2023, 87 mins <br> Director: Ramata-Toulaye Sy'
+metadata: 'France-Senegal-Mali 2023, 87 mins <br> Director: Ramata-Toulaye Sy'
 pdf: '2024-03-08-banel-and-adama.jpg'
 ---
 
