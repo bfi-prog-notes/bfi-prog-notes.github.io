@@ -64,7 +64,7 @@ The characters must be vivid and real, their journey emotionally fulfilling. We 
 
 **Ian Haydn Smith** is a writer, editor and curator. Publications include _Well Documented_, _The Short Story of Film_ and _Selling the Movie_.  
 <br>
-<
+
 **GREEN BORDER (ZIELONA GRANICA)**  
 _A film by:_ Agnieszka Holland  
 _In collaboration with:_ Kamila Tarabura, Katarzyna Warzecha  
@@ -152,5 +152,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDY5MjEwNCwtMTM4MzEwMjM2NF19
+eyJoaXN0b3J5IjpbLTEzNTA3MTA4MTIsMTM5NDY5MjEwNCwtMT
+M4MzEwMjM2NF19
 -->
