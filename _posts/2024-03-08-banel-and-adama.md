@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Banel & Adama
+published: true
+date: 2024-03-08
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA<br> INTERNATIONAL WOMEN’S DAY PREVIEW']
+tags:  [Drama]
+metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Agnieszka Holland'
+pdf: '2024-03-06-green-border.jpg'
+---
 
 _+ Q&A with director Ramata-Toulaye Sy_
 
@@ -68,6 +76,6 @@ Courtesy of We Are Parable
 Woman with a Movie Camera is generously supported by Jane Stanton  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjg3MDA1MCwtMTUzOTg5ODk0NywtNT
-AzMDg3NTAyXX0=
+eyJoaXN0b3J5IjpbODAxMDc0MTE0LC0xNTM5ODk4OTQ3LC01MD
+MwODc1MDJdfQ==
 -->
