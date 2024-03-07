@@ -5,9 +5,9 @@ published: true
 date: 2024-03-08
 readtime: true
 categories: ['NEW RELEASES']
-tags: [Drama]
-metadata: 'Japan 2023, 106 mins<br> Director: Ryusuke Hamaguchi'
-pdf: '2024-03-01-evil-does-not-exist.pdf'
+tags: [Comedy]
+metadata: 'Romania 2023, 163 mins<br> Director: Radu Jude'
+pdf: '2024-03-28-evil-does-not-exist.pdf'
 ---
 
 Radu Jude’s delightfully digressive dark satire about the ills of modern life is one of the most remarkable movies of the last year. It follows Angela, an insanely overworked assistant working for a film company, as she drives around auditioning disabled people for a video dubiously promoting safety in the workplace; between encounters she posts bilious TikTok rants pretending to be Andrew Tate. Meanwhile, her wretched existence is contrasted with that of another Angela – a taxi-driver from a 1981 movie.
@@ -115,5 +115,6 @@ Digital
 
 A Sovereign Films release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAwOTQ4NDgsLTMxNDAwNzgxXX0=
+eyJoaXN0b3J5IjpbMTYwMDM4ODk1OCwtMTUzMDA5NDg0OCwtMz
+E0MDA3ODFdfQ==
 -->
