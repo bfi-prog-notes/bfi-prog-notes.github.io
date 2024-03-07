@@ -33,6 +33,78 @@ I made a few films about history. I always thought that those are not about the 
 **Radu Jude interviewed by Jonathan Romney, _Sight and Sound_, April 2024**  
 <br>
 
+**DO NOT EXPECT TOO MUCH FROM THE END OF THE WORLD (NU AȘTEPTA PREA MULT DE LA SFÎRȘITUL LUMII)**  
+_Directed by_: Radu Jude  
+_©_: 4 Proof Film, Paul Thiltges Distributions, Les Films d'Ici, Kinorama, microFILM  
+_Made by_: 4 Proof Film  
+_In co-production with_: Paul Thiltges Distributions, Les Films d'Ici, Kinorama, microFILM  
+_International Sales_: Heretic Outreach  
+_Executive Producers_: Diana Caravia, Dan Wechsler, Jamal Zeinal-Zade, Andreas Roald  
+_Producers_: Ada Solomon, Adrian Sitaru  
+_Line Producer_: Valentino Rudolf  
+_Production Manager_: Vlad Gliga  
+_Location Manager_: Floriana Sandu  
+_Assistant Director_: Adriana Itu  
+_Script Supervisor_: Vlad Popa  
+_Casting Director_: Florentina Bratfanof  
+_Written by_: Radu Jude  
+_Director of Photography_: Marius Panduru  
+_Stills Photography_: Silviu Ghetie  
+_Visual Effects_: Quentin Verbruggen  
+_Editor_: Cătălin Cristuțiu  
+_Production Designers_: Cristian Niculescu, Andreea Popa  
+_Set Decorator_: Marius Bardasan  
+_Costume Designer_: Radu Jude  
+_Make-up_: Bianca Boeroiu  
+_Hair_: Margareta Stefan  
+_Colourist_: Raoul Nadalet  
+_Composers_: Jura Ferina, Pavao Miholjević  
+_Sound Designer_: Marius Leftarache  
+_Production Sound Mixer_: Hrvoje Radnic  
+_Sound Mixers_: Jaime Baksht, Michelle Couttolenc  
+_Sound Editor_: Marius Leftarache  
+_Stunt Co-ordinator_: Jerry Florian  
+
+**Cast**
+Ilinca Manolache _(Angela Raducani)_  
+Ovidiu Pîrșan _(Ovidiu Pîrșan)_  
+Dorina Lazar _(Angela Coman)_  
+Laszlo Miske _(Gyuri)_  
+Katia Pascariu  
+Sofia Nicolaescu  
+Nina Hoss _(Doris Goethe)_  
+Rodica Negrea  
+Serban Pavlu  
+Ioana Iacob  
+Claudia Ieremia  
+Zita Moldovan  
+Nicodim Ungureanu  
+Adina Cristescu  
+Adrian Nicolae  
+Andi Vasluianu  
+Bogdan Marhodin  
+Costel Lepadatu  
+Liliana Ghita  
+Mariana Feraru  
+Cristi Epure  
+Nelu Tincea  
+Anastasia Stefan  
+Alex Dascalu  
+Daniel Popa  
+Doru Catanescu  
+Ada Dumitru  
+Ciprian Anton  
+Uwe Boll  
+Paul Thiltges  
+Dan Nicolaescu  
+Valentino Rudolf  
+Marius Panduru  
+
+Romania 2023  
+163 mins  
+Digital  
+
+A Sovereign Films release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTYwOTQ3NV19
+eyJoaXN0b3J5IjpbLTMxNDAwNzgxXX0=
 -->
