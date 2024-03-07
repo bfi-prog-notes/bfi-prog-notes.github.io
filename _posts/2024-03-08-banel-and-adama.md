@@ -23,32 +23,22 @@ Sy has said that the film’s influences ranged from classical Greek myths, like
 French-senegalese **Ramata-Toulaye Sy** was born and raised in the Paris region. She joined La fémis in 2011 in the Screenwriting department, from which she graduated in 2015. Ramata-Toulaye worked, among others, as a screenwriter on the film _Sibel_ (2018) by C. Zencirci and G. Giovanetti as well as on _Our Lady of the Nile_ (2019) by A. Rahimi.
 
 In 2020, Ramata-Toulaye directed her first short film, _Astel_, selected in more than 80 festivals and pre-selected for the 2023 César Awards. _Banel & Adama_ is her first feature film.  
-<br.
-<![endif]-->
+<br>
 
-**Banel & Adama**
-
+**BANEL & ADAMA**  
 _A film by_: Ramata-Toulaye Sy  
 _©_: La Chauve Souris, Take Shelter, Astou Films, Astou Production, DS Productions, Canal+ International, ARTE France Cinéma  
 _A La Chauve-Souris production_: La Chauve-Souris  
 _Production Company_: La Chauve-Souris  
 _In association with_: Cinemage 17  
 _A Take Shelter production_: Take Shelter  
-_In co-production with_: Astou Films,
-
-Astou Production, DS Productions,
-
-Canal+ International, ARTE France Cinema  
-_With the financial contribution of_:
-
-Union Européenne  
+_In co-production with_: Astou Films, Astou Production, DS Productions, Canal+ International, ARTE France Cinema  
+_With the financial contribution of_: Union Européenne  
 _With the competition of_: Groupe des États ACP  
 _With the support of_: Canal+, Centre national du cinéma et de l'image animée, Fonds Jeune Création Francophone, Fonds Image de la Francophonie, Fonds de promotion de l'industrie cinematographique et audiovisuelle du Senegal (FOPICA), Doha Film Institute  
 _With the participation of_: ARTE France, TV5Monde, Ciné+  
 _Produced by_: Eric Névé, Maud Leclair Névé, Margaux Juvénal  
-_Co-produced by_: Kébé Souleymane,
-
-Oumar Gabar Sy, Andrey Samouté Diarra  
+_Co-produced by_: Kébé Souleymane, Oumar Gabar Sy, Andrey Samouté Diarra  
 _Written by_: Ramata-Toulaye Sy  
 _Director of Photography_: Amine Berrada  
 _Visual Effects_: Mac Guff  
@@ -76,8 +66,8 @@ Digital
 Courtesy of We Are Parable  
 
 Woman with a Movie Camera is generously supported by Jane Stanton  
-
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NDg4MTA1LC0xNTM5ODk4OTQ3LC01MD
-MwODc1MDJdfQ==
+eyJoaXN0b3J5IjpbMTMzNjg3MDA1MCwtMTUzOTg5ODk0NywtNT
+AzMDg3NTAyXX0=
 -->
