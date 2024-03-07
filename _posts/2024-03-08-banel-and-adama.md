@@ -6,8 +6,8 @@ date: 2024-03-08
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br> INTERNATIONAL WOMEN’S DAY PREVIEW']
 tags:  [Drama]
-metadata: 'Poland-France-Czech Republic-Belgium 2023, 152 mins <br> Director: Agnieszka Holland'
-pdf: '2024-03-06-green-border.jpg'
+metadata: '<![endif]--> France-Senegal-Mali 2023, 87 mins <br> Director: Ramata-Toulaye Sy'
+pdf: '2024-03-08-banel-and-adama.jpg'
 ---
 
 _+ Q&A with director Ramata-Toulaye Sy_
@@ -76,6 +76,6 @@ Courtesy of We Are Parable
 Woman with a Movie Camera is generously supported by Jane Stanton  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMDc0MTE0LC0xNTM5ODk4OTQ3LC01MD
-MwODc1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzE5MjQwMzUsLTE1Mzk4OTg5NDcsLT
+UwMzA4NzUwMl19
 -->
