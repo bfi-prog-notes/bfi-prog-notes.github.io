@@ -76,7 +76,8 @@ Digital
 Courtesy of We Are Parable  
 
 Woman with a Movie Camera is generously supported by Jane Stanton  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg5MjIxODEsLTE1Mzk4OTg5NDcsLT
-UwMzA4NzUwMl19
+eyJoaXN0b3J5IjpbMjc2NDg4MTA1LC0xNTM5ODk4OTQ3LC01MD
+MwODc1MDJdfQ==
 -->
