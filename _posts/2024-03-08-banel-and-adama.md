@@ -58,9 +58,9 @@ _Make-up - Hair_: Marième Ngom
 _Original Music_: Bachar Mar-Khalifé  
 _Sound_: Benjamin Silvestre  
 _Re-recording Mixer_: Jean-Pierre Laforce  
-_Sound Editor_: Olivier Voisin
+_Sound Editor_: Olivier Voisin  
 
-_Cast_  
+**Cast**    
 Khady Mane _(Banel)_  
 Mamadou Diallo _(Adama)_  
 Binta Racine Sy _(mother)_  
@@ -77,5 +77,6 @@ Courtesy of We Are Parable
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk4OTg5NDcsLTUwMzA4NzUwMl19
+eyJoaXN0b3J5IjpbLTE1NzA4NDA5NjUsLTE1Mzk4OTg5NDcsLT
+UwMzA4NzUwMl19
 -->
