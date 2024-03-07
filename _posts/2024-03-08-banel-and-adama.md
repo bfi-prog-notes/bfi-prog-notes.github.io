@@ -22,7 +22,9 @@ Sy has said that the film’s influences ranged from classical Greek myths, like
 
 French-senegalese **Ramata-Toulaye Sy** was born and raised in the Paris region. She joined La fémis in 2011 in the Screenwriting department, from which she graduated in 2015. Ramata-Toulaye worked, among others, as a screenwriter on the film _Sibel_ (2018) by C. Zencirci and G. Giovanetti as well as on _Our Lady of the Nile_ (2019) by A. Rahimi.
 
-In 2020, Ramata-Toulaye directed her first short film, _Astel_, selected in more than 80 festivals and pre-selected for the 2023 César Awards. _Banel & Adama_ is her first feature film.
+In 2020, Ramata-Toulaye directed her first short film, _Astel_, selected in more than 80 festivals and pre-selected for the 2023 César Awards. _Banel & Adama_ is her first feature film.  
+<br.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzA4NzUwMl19
+eyJoaXN0b3J5IjpbNTc3Mzc0OTU2LC01MDMwODc1MDJdfQ==
 -->
