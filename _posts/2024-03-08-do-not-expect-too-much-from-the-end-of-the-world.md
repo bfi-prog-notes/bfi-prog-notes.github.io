@@ -12,7 +12,8 @@ pdf: '2024-03-28-do-not-expect-too-much-from-the-end-of-the-world.pdf'
 
 Radu Jude’s delightfully digressive dark satire about the ills of modern life is one of the most remarkable movies of the last year. It follows Angela, an insanely overworked assistant working for a film company, as she drives around auditioning disabled people for a video dubiously promoting safety in the workplace; between encounters she posts bilious TikTok rants pretending to be Andrew Tate. Meanwhile, her wretched existence is contrasted with that of another Angela – a taxi-driver from a 1981 movie.
 
-Scabrously funny, provocatively topical, unashamedly oddball and often inspired, Jude’s sprawling, crazed but surprisingly coherent comedy skewers both today’s Romania and the West in general. And the last quarter – a superb single take – speaks volumes about the unreliability of the moving image. **Geoff Andrew, Programmer-at-large, bfi.org.uk**  
+Scabrously funny, provocatively topical, unashamedly oddball and often inspired, Jude’s sprawling, crazed but surprisingly coherent comedy skewers both today’s Romania and the West in general. And the last quarter – a superb single take – speaks volumes about the unreliability of the moving image.  
+**Geoff Andrew, Programmer-at-large, bfi.org.uk**  
 
 In simple terms, _Do Not Expect Too Much from the End of the World_ is about the day-to-day graft of a video production runner in contemporary Bucharest. Angela (Ilinca Manolache) calls herself a PA, but – on a zero-hours contract – she’s really a kind of fixer or factotum or dogsbody, currently working with a corporation that’s making a safety-at-work video. For much of Radu Jude’s sprawling black comedy, the camera is placed in the front seat of her Fiat, shooting in high-contrast black and white as she negotiates choked-up traffic to run errands around the city. She’s ‘auditioning’ a succession of workplace accident victims to appear as the video’s main case study.
 
@@ -70,7 +71,7 @@ _Sound Mixers_: Jaime Baksht, Michelle Couttolenc
 _Sound Editor_: Marius Leftarache  
 _Stunt Co-ordinator_: Jerry Florian  
 
-**Cast**
+**Cast**  
 Ilinca Manolache _(Angela Raducani)_  
 Ovidiu Pîrșan _(Ovidiu Pîrșan)_  
 Dorina Lazar _(Angela Coman)_  
