@@ -19,7 +19,7 @@ _Him, her, the other. A narrative archetype to which you have already referred�
 
 Indeed, it is the classic love triangle, a true genre in itself, which has inspired both mediocre and extraordinary films... The myth of originality is nonsense for us. We always copy, trying to tell the same stories differently. Within this known structure, we invent new characters, a new love story like that of Milton, Fulvia and Giorgio.
 
-_You are familiar with the adaptation of literary works to cinema (_Padre Padrone_,_ Kaos_,_ Elective Affinities _etc). Is the work different when starting from an  existing text?_
+_You are familiar with the adaptation of literary works to cinema (Padre Padrone, Kaos, Elective Affinities etc). Is the work different when starting from an  existing text?_
 
 The choice to adapt a novel always arises from the intuition that its pages will allow us to express and represent our thoughts, our existential anxieties. Whether the text is by Tolstoy or Pirandello, we follow our path which is that of cinema. We know we will have to betray the author. Pirandello rightly said that ‘stories are like empty sacks, shrivelled on the ground. They only arise if you fill them with your feelings and your impulses.’
 
@@ -39,9 +39,8 @@ _How important is it to film in the locations where the book takes place?_
 
 We did not do it! We went to the Langhe, but today there are vineyards as far as the eye can see, which look like rows of toy soldiers. These were not the windswept hills Fenoglio recounted. Emita [Frigato], the production designer, was not fazed and introduced us to one of the most beautiful valleys in our mountains, Val Maira. We reconstructed the partisan camp, at an altitude of 2,300 meters. Luckily it was warm. But a black fog rolled in in the evening, which was perfect for the atmosphere of the film.
 
-Production notes
-
-<![endif]-->
+**Production notes**
+<br><br>
 
 **RAINBOW: A PRIVATE AFFAIR (UNA QUESTIONE PRIVATA)**
 
@@ -91,5 +90,5 @@ Italy-France 2017
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTUxMDQ4NV19
+eyJoaXN0b3J5IjpbNzI3NDMyNF19
 -->
