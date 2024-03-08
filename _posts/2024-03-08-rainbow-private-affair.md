@@ -42,53 +42,34 @@ We did not do it! We went to the Langhe, but today there are vineyards as far as
 **Production notes**
 <br><br>
 
-**RAINBOW: A PRIVATE AFFAIR (UNA QUESTIONE PRIVATA)**
-
-_Directors:_ Paolo Taviani, Vittorio Taviani
-
-_Production Companies:_ Stemal Entertainment, Ipotesi Cinema, Les Films d’Ici,  
-Sampek Productions
-
-_In_ _association with:_ RAI Cinema, Cineventure
-
-_Producers:_ Donatella Palermo, Ermanno Olmi, Elisabetta Olmi, Serge Lalou, Eric Lagesse
-
-_Casting Director:_ Stefania Rodà
-
-_Written by:_ Paolo Taviani, Vittorio Taviani
-
-_Based on a novel by:_ Beppe Fenoglio
-
+**RAINBOW: A PRIVATE AFFAIR (UNA QUESTIONE PRIVATA)**<br>
+_Directors:_ Paolo Taviani, Vittorio Taviani<br>
+_Production Companies:_ Stemal Entertainment, Ipotesi Cinema, Les Films d’Ici, Sampek Productions<br>
+_In_ _association with:_ RAI Cinema, Cineventure<br>
+_Producers:_ Donatella Palermo, Ermanno Olmi, Elisabetta Olmi, Serge Lalou, Eric Lagesse<br>
+_Casting Director:_ Stefania Rodà<br>
+_Written by:_ Paolo Taviani, Vittorio Taviani<br>
+_Based on a novel by:_ Beppe Fenoglio<br>
 _Director of Photography:_ Simone Zampagni  
-_Editor:_ Roberto Perpignani
+_Editor:_ Roberto Perpignani<br>
+_Special Effects:_ Canecane<br>
+_Production Designer:_ Emita Frigato<br>
+_Costume Designers:_ Lina Nerli Taviani, Valentina Taviani<br>
+_Music:_ Giuliano Taviani, Carmelo Travia<br>
+_Sound:_ Gianfranco Tortora<br>
 
-_Special Effects:_ Canecane
+**Cast**<br>
+Luca Marinelli _(Milton)_<br>
+Lorenzo Richelmy _(Giorgio)_<br>
+Valentina Bellè _(Fulvia)_<br>
+Francesca Agostini _(Giovane Contadina)_<br>
+Giulio Beranek _(Ivan)_<br>
+Andrea Di Maria _(prisoner)_<br>
 
-_Production Designer:_ Emita Frigato  
-_Costume Designers:_ Lina Nerli Taviani, Valentina Taviani
-
-_Music:_ Giuliano Taviani, Carmelo Travia
-
-_Sound:_ Gianfranco Tortora  
-_Cast:_
-
-Luca Marinelli _(Milton)_
-
-Lorenzo Richelmy _(Giorgio)_
-
-Valentina Bellè _(Fulvia)_
-
-Francesca Agostini _(Giovane Contadina)_
-
-Giulio Beranek _(Ivan)_
-
-Andrea Di Maria _(prisoner)_
-
-Italy-France 2017
-
-84 mins
-
-Digital
+Italy-France 2017<br>
+84 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NDMyNF19
+eyJoaXN0b3J5IjpbLTM0MDQyODA5MF19
 -->
