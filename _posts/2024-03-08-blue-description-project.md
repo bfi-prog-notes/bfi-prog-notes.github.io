@@ -23,61 +23,39 @@ We are keen to gather and learn from your responses to this presentation of BDP 
 <br><br>
 
 **The Blue  Description Project**<br>
-
 Christopher Robert Jones, Liza Sylvestre, Sarah Hayden<br>
-
 Blue Description Project 2024. 81 mins. Digital<br>
 
 **Blue (original credits)**<br>
-
-_Directed by_:  
-Derek Jarman  
-©: Basilisk, Uplink
-
+_Directed by_:  Derek Jarman  
+©: Basilisk, Uplink<br>
 _Production Companies_: Basilisk, Uplink  
-_Presented by_:  
-Channel Four  
+_Presented by_:  Channel Four  
 _In association with_: Arts Council of Great Britain, Opal, BBC Radio 3  
-_Producers_:  
-James Mackay,  
-Takashi Asai  
+_Producers_:  James Mackay,  Takashi Asai  
 _Production Co-ordinator_: Angela Connealy  
 _Production Accountant_: Chris Harrison  
-_Associate Director_:  
-David Lewis  
+_Associate Director_:  David Lewis  
 _Written by_: Derek Jarman  
 _Titles_: General Screen Enterprises  
 _Colour by_: Technicolor  
-_Composer_:  
-Simon Fisher Turner  
-_Musicians_:  
-Jhonn Balance, Gini Ball, Marvin Black, Peter Christopherson, Markus Dravius, Brian Eno, Tony Hinnigan, Danny Hyde, Jan Latham Koening, Marden Hill, King of Luxembourg, Miranda Sex Garden, Momus,  
-Vini Reilly, Kate St John, Simon Fisher Turner, Richard Watson,  
-Hugh Webb  
+_Composer_:  Simon Fisher Turner  
+_Musicians_:  Jhonn Balance, Gini Ball, Marvin Black, Peter Christopherson, Markus Dravius, Brian Eno, Tony Hinnigan, Danny Hyde, Jan Latham Koening, Marden Hill, King of Luxembourg, Miranda Sex Garden, Momus,  Vini Reilly, Kate St John, Simon Fisher Turner, Richard Watson,  Hugh Webb  
 _Music Recording Engineer_: Markus Dravius  
 _Music Recorded at_: Wilderness Studio  
-_Sound Design_:  
-Marvin Black  
-_Re-recorded at_:  
-De Lane Lea  
-_Re-recording Mixer_:  
-Paul Hamblin
+_Sound Design_:  Marvin Black  
+_Re-recorded at_:  De Lane Lea  
+_Re-recording Mixer_:  Paul Hamblin  
+_With the voices of:_<br>
+John Quentin<br>
+Nigel Terry<br>
+Derek Jarman<br>
+Tilda Swinton<br>
 
-_With the voices of:_
-
-John Quentin
-
-Nigel Terry
-
-Derek Jarman
-
-Tilda Swinton
-
-UK 1993©
-
-79 mins
-
-Digital
+UK 1993©<br>
+79 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc3NzgxMzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTIyMDMxMTddfQ==
 -->
