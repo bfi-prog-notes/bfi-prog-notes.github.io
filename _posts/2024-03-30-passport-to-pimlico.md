@@ -39,151 +39,81 @@ _Costume Designer_:  Anthony Mendleson<br>
 _Make-up_:  Ernest Taylor<br>
 _Hair Styles_:  Barbara Barnard<br>
 _Music Composed by_:  Georges Auric<br>
-
 _Played by_:  The Philharmonia Orchestra<br>
-
 _Conducted by_:  Ernest Irving<br>
-
 _Sound Supervisor_:  Stephen Dalby<br>
-
 _Recordist_:  Arthur Bradburn<br>
-
 _Sound System Logo_:  RCA<br>
-
 _Made at_:  Ealing Studios<br>
 
 _uncredited_<br>
-
-_2nd Assistant Directors_:  Simon Kershaw,
-
-David Peers<br>
-
+_2nd Assistant Directors_:  Simon Kershaw, David Peers<br>
 _3rd Assistant Director_:  John Assig<br>
-
 _Assistant Continuity_:  Felicia Manheim<br>
-
 _2nd Camera Operator_:  Chic Waterson<br>
-
 _Crowd and Small Parts Casting_:  Muriel Cole<br>
-
 _Focus Puller_:  George Levy<br>
-
 _Clapper Loader_:  Michael Shepherd<br>
-
 _Chief Electrician_:  Jack Ford<br>
-
 _Stills_:  Richard Woodard<br>
-
 _Stills Supervisor_:  Jack Dooley<br>
-
 _Assistant Editor_:  Harry Aldous<br>
-
 _Assistant Art Director_:  Len Wills<br>
-
-_Draughtsmen_:  V. Shaw,  Jack Shampan,
-
-G. Bryan-Brown,  R. Hopkin,  R. Thurgarland<br>
-
+_Draughtsmen_:  V. Shaw,  Jack Shampan, G. Bryan-Brown,  R. Hopkin,  R. Thurgarland<br>
 _Property Master_:  Bob Tull<br>
-
 _Construction Manager_:  George Speller<br>
-
 _Wardrobe Master_:  Ron Beck<br>
-
 _Wardrobe Mistress_:  Mrs Minell<br>
-
 _Make-up_:  Harry Frampton<br>
-
 _Hairdresser_:  Eleanor Jackson<br>
-
 _Boom Operator_:  Tom Otter<br>
-
 _Dubbing Editor_:  Gordon Stone<br>
-
 _Publicity_:  John Newnham<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Stanley Holloway _(Arthur Pemberton)_<br>
-
 Betty Warren _(Connie Pemberton)_<br>
-
 Barbara Murray _(Shirley Pemberton)_<br>
-
 Paul Dupuis _(Duke of Burgundy)_<br>
-
 John Slater _(Frank Huggins)_<br>
-
 Jane Hylton _(Molly Reid)_<br>
-
 Raymond Huntley _(Mr P.J. Wix)_<br>
-
 Philip Stainton _(Police Constable Ted Spiller)_<br>
-
 Roy Carr _(Benny Spiller)_<br>
-
 Sydney Tafler _(Fred Cowan)_<br>
-
 Nancy Gabrielle _(Mrs Cowan)_<br>
-
 Malcolm Knight _(Monty Cowan)_<br>
-
 Hermione Baddeley _(Edie Randall)_<br>
-
 Roy Gladdish _(Charlie Randall)_<br>
-
 Frederick Piper _(Garland)_<br>
-
 Charles Hawtrey _(Bert Fitch)_<br>
-
 Margaret Rutherford _(Professor Hatton-Jones)_<br>
-
 Stuart Lindsell _(coroner)_<br>
-
 Naunton Wayne _(Straker)_<br>
-
 Basil Radford _(Gregg)_<br>
-
 Gilbert Davis _(Bagshawe)_<br>
-
 Michael Hordern _(Bashford)_<br>
-
 Arthur Howard _(Bassett)_<br>
-
 Bill Shine _(Captain Willow)_<br>
-
 Harry Locke _(sergeant)_<br>
-
 Sam Kydd _(Sapper)_<br>
-
 Joey Carr _(Dave Parsons)_<br>
-
 Lloyd Pearson _(Fawcett)_<br>
-
 Arthur Denton _(customs official)_<br>
-
 Tommy Godfrey _(bus conductor)_<br>
-
 James Hayter _(commissionaire)_<br>
-
 Masoni _(conjurer)_<br>
-
 Fred Griffiths _(Bill, the spiv)_<br>
-
 Grace Arnold _(pompous woman)_<br>
-
 Paul Demel _(Central European on train)_<br>
 
 _uncredited_<br>
-
 Doris Yorke<br>
 
 UK 1949©<br>
-
 84 mins<br>
-
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODYxNDE3NF19
+eyJoaXN0b3J5IjpbLTEyNTA4Njg1ODJdfQ==
 -->
