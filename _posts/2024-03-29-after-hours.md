@@ -106,19 +106,19 @@ Stephen Lim _(bartender, Club Berlin)_
 Frank Aquilino, Maree Catalano, Paula Raflo, Rockets Redglare _(angry mob members)_  
 Martin Scorsese _(man with spotlight) *_
 
-USA 1985©
-
-97 mins
-
+USA 1985©  
+97 mins  
 Digital 4K
 
-* Uncredited
+*Uncredited
 
 Presented by Park Circus
 
 Approved by editor Thelma Schoonmaker, this new digital master from The Criterion Collection was created from the 35mm original camera negative, which was scanned in 4K resolution on a Lasergraphics Director film scanner.
 
 Director Martin Scorsese’s personal 35mm print was used for colour reference. The original monaural soundtrack was remastered from the magnetic track.
+<br><br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI4MDMwOTNdfQ==
+eyJoaXN0b3J5IjpbMTc3NjQzODc3MV19
 -->
