@@ -33,21 +33,16 @@ _Speaking of families – you show very different relationships here, including 
 
 I wanted to see what could happen if these girls, coming from two different backgrounds, would finally get together. I feel that Florence is using Franky at first. She wants a girlfriend, or maybe just an accessory. She is narcissistic and it’s hard for her to have real relationships – the exact opposite of Franky, who is very caring. But she does give her something, and it means more than she could have even expected. They are both searching, figuring out what they need in life. Not to mention dealing with very different problems.
 
-_Everyone is searching for something in_ Silver Haze_. Also your supporting characters._
+_Everyone is searching for something in_ Silver Haze _. Also your supporting characters._
 
-It’s true – it can be religion, love, it can be family. What Franky finds at the end is something I can relate to as well: this idea that you can always create your own community. There is a happy ending, with all these strange people coming together somehow. There is hope for the future. In this film, I wanted to avoid what is usually described as ‘poverty porn’. Yes, there is illness and alcohol, there are people who for various reasons are simply not taking care of themselves. But when I was spending time with Vicky or with her family, I noticed so much more. They all live in the same house – where I am from, which is Amsterdam, you move out when you are 18 years old. For them, it’s not possible, but I am not even sure it would make them happier. There is a lot of love and warmth there, and light, and I certainly wanted to show that.
+It’s true – it can be religion, love, it can be family. What Franky finds at the end is something I can relate to as well: this idea that you can always create your own community. There is a happy ending, with all these strange people coming together somehow. There is hope for the future. In this film, I wanted to avoid what is usually described as ‘poverty porn’. Yes, there is illness and alcohol, there are people who for various reasons are simply not taking care of themselves. But when I was spending time with Vicky or with her family, I noticed so much more. They all live in the same house – where I am from, which is Amsterdam, you move out when you are 18 years old. For them, it’s not possible, but I am not even sure it would make them happier. There is a lot of love and warmth there, and light, and I certainly wanted to show that.  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**SILVER HAZE**
-
+**SILVER HAZE**  
 _Directed by_: Sacha Polak  
 _Production Companies_: Viking Film, EMU Films  
-_Executive Producers_: Eva Yates, Frank Klein,  
-Clea De Koning, Sacha Polak, Vicky Knight,  
-Jim Mooney, Walli Ullah  
+_Executive Producers_: Eva Yates, Frank Klein,  Clea De Koning, Sacha Polak, Vicky Knight,  Jim Mooney, Walli Ullah  
 _Produced by_: Marleen Slot, Michael Elliott  
 _Line Producers_: Lee Groombridge, Chris Jorna  
 _Casting_: Lucy Pardee  
@@ -59,8 +54,7 @@ _Composers_: Ella van der Woude, Joris Oonk
 _Sound Designer_: Jan Schermer  
 _Sound Recordist_: Job Michel
 
-_Cast:_
-
+**Cast**  
 Vicky Knight _(Franky)_  
 Esmé Creed-Miles _(Florence)_  
 Charlotte Knight _(Leah)_  
@@ -68,13 +62,12 @@ Archie Bridgen _(Jack)_
 Terriann Cousins _(Jenn)_  
 Angela Bruce _(Alice)_
 
-Netherlands-UK 2023
-
-102 mins
-
+Netherlands-UK 2023  
+102 mins  
 Digital
 
 A BFI release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjIyMDU5MF19
+eyJoaXN0b3J5IjpbLTExMjg5NDQzXX0=
 -->
