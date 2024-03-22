@@ -1,3 +1,14 @@
+---
+layout: post
+title: After Hours
+published: true
+date: 2024-03-29
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Comedy]
+metadata: 'USA 1985, 97 mins<br> Director: Martin Scorsese'
+pdf: '2024-03-29-after-hours.pdf'
+---
 
 It’s hard to believe now, but Martin Scorsese was once on the outs in Hollywood. Today, his passion projects command blockbuster budgets; 40 years ago, however, _The King of Comedy_ (1982) had just been declared ‘Flop of the Year’, the plug had been suddenly pulled on a planned 1983 production of _The Last Temptation of Christ_, and studios had turned wary of working with a director known for making expensive pictures with limited appeal. In Scorsese’s own words: ‘I had nothing lined up next. And I knew I was going to have to start all over.’
 
@@ -118,6 +129,51 @@ Approved by editor Thelma Schoonmaker, this new digital master from The Criterio
 
 Director Martin Scorsese’s personal 35mm print was used for colour reference. The original monaural soundtrack was remastered from the magnetic track.
 <br><br>
+
+**NEW RELEASES**<br>
+**Robot Dreams**<br>
+From Mon 25 Mar<br>
+**Monster** Kaibutsu<br>
+From Mon 25 Mar<br>
+**Silver Haze**<br>
+From Fri 29 Mar<br>
+**Close Your Eyes** Cerrar los ojos<br>
+From Fri 12 Apr<br>
+**Made in England:  The Films of Powell and Pressburger**<br>
+From Fri 10 May<br>
+**Hoard**<br>
+From Fri 10 May<br>
+
+**RE-RELEASES**<br>
+**After Hours**<br>
+From Fri 29 Mar<br>
+**Rome, Open City** Roma città aperta<br>
+From Fri 17 May<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc3NjQzODc3MV19
