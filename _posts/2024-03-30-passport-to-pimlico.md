@@ -1,3 +1,14 @@
+---
+layout: post
+title: Passport to Pimlico
+published: true
+date: 2024-03-30
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Comedy]
+metadata: 'UK 1949, 84 mins<br> Director: Henry Cornelius'
+pdf: '2024-03-30-passport-to-pimlico.pdf'
+---
 
 By general consent the best of writer T.E.B. Clarke’s six Ealing comedies, _Passport to Pimlico_ arguably best exemplifies studio head Michael Balcon’s description of Ealing’s post-war films as ‘our mild revolution’.
 
@@ -114,6 +125,89 @@ UK 1949©<br>
 84 mins<br>
 Digital<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Trial**<br>
+Mon 25 Mar 12:20; Mon 8 Apr 12:20; Thu 18 Apr 17:25<br>
+**The Gospel According to Matthew** Il Vangelo secondo Matteo<br>
+Tue 26 Mar 20:20; Fri 29 Mar 17:50<br>
+**Nosferatu**<br>
+Wed 27 Mar 18:15 (+ intro by Arike Oke, Executive Director of Knowledge, Learning & Collections); Sat 6 Apr 13:15; Fri 12 Apr 21:00<br>
+**The Picture of Dorian Gray**<br>
+Thu 28 Mar 18:10; Sun 7 Apr 12:50; Tue 23 Apr 12:00<br>
+**Little Women**<br>
+Sat 30 Mar 13:15; Tue 9 Apr 12:20; Sat 27 Apr 20:30<br>
+**The Last Temptation of Christ**<br>
+Sat 30 Mar 19:50; Sun 14 Apr 17:30<br>
+**The Leopard** Il gattopardo<br>
+Sun 31 Mar 17:00; Tue 16 Apr 13:30; Sun 28 Apr 19:30<br>
+**The Grapes of Wrath**<br>
+Mon 1 Apr 20:10; Sat 20 Apr 15:45<br>
+**Pather Panchali**<br>
+Tue 2 Apr 20:30; Mon 22 Apr 18:00; Tue 30 Apr 12:10<br>
+**The Heiress**<br>
+Wed 3 Apr 18:05 (+ intro by Ruby McGuigan, BFI Programme and Acquisitions); Sat 6 Apr 20:30; Mon 15 Apr 20:45<br>
+**Dr. Jekyll and Mr. Hyde**<br> 
+Thu 4 Apr 20:30; Wed 10 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**The Last of the Mohicans**<br>
+Fri 5 Apr 18:10; Sun 21 Apr 20:20<br>
+**Women in Love**<br>
+Thu 11 Apr 20:20; Sat 20 Apr 13:00; Fri 26 Apr 14:40<br>
+**Beau Travail**<br>
+Sat 13 Apr 13:20; Fri 19 Apr 20:45; Wed 24 Apr 18:10 (+ intro)<br>
+**Great Expectations**<br>
+Wed 17 Apr 17:45 (+ intro by Jade Evans, AHRC REACH PhD student with QMUL and BFI); Thu 25 Apr 12:00<br>
+**Ordet** The Word<br>
+Sat 27 Apr 13:15; Mon 29 Apr 14:40<br>
+**Rope**<br> 
+Wed 1 May 18:10 (+ intro by Bryony Dixon, BFI National Archive Curator); Fri 3 May 21:00; Tue 14 May 12:30; Sun 26 May 13:00<br>
+**Henry V**<br>
+Thu 2 May 14:40; Thu 9 May 20:15; Thu 30 May 14:30<br>
+**The Magic Flute** Trollflöjten<br>
+Fri 3 May 12:00; Fri 24 May 20:25; Tue 28 May 14:30<br>
+**Pandora’s Box** Die Büchse der Pandora<br>
+Sat 4 May 15:10; Fri 17 May 18:00; Sat 25 May 13:10; Fri 31 May 14:30<br>
+**West Side Story**<br>
+Sun 5 May 19:30; Thu 16 May 14:30<br>
+**Cabaret**<br>
+Mon 6 May 20:20; Sat 11 May 14:45; Tue 21 May 14:30<br>
+**A Streetcar Named Desire**<br>
+Tue 7 May 12:10; Sat 18 May 20:30; Fri 24 May 14:50; Sun 26 May 17:40<br>
+**Camille**<br>
+Wed 8 May 18:10 (+ intro); Sun 12 May 20:40; Mon 27 May 12:30<br>
+**His Girl Friday**<br>
+Fri 10 May 18:10; Sun 19 May 20:30; Thu 23 May 18:30; Wed 29 May 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**Beautiful Thing**<br> 
+Mon 13 May 20:40; Wed 22 May 18:20 (+ intro by Simon McCallum, BFI National Archive Curator); Thu 30 May 12:10<br>
+**Bluebeard’s Castle** Herzog Blaubarts Burg<br> 
+Wed 15 May 18:10 (+ intro by Alex Prideaux, Marketing and Events Manager – Our Screen Heritage); Fri 31 May 18:10<br>
+**Chi-Raq**<br>
+Mon 20 May 18:05; Thu 30 May 20:30<br> 
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNTA4Njg1ODJdfQ==
 -->
