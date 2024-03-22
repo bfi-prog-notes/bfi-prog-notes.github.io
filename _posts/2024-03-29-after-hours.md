@@ -38,25 +38,20 @@ _You shot the film almost entirely at night. What effect did that have on everyo
 It changes your body chemistry. It’s always nice to have a drink at the end of the day when you’re shooting, and to crack open a beer at 6:30 in the morning is sacrilegious, but that’s just how the clock worked. It was dinner for breakfast… everything was ass-backwards. It took a while to get my body back to non-vampiric living.
 
 **Brogan Morris, bfi.org.uk, 20 March 2024**
-
-<![endif]-->
+<br><br>
 
 **AFTER HOURS**  
 _Director_: Martin Scorsese  
 ©: The Geffen Company, Double Play Productions  
-_Producers_: Amy Robinson, Griffin Dunne,  
-Robert F. Colesberry  
+_Producers_: Amy Robinson, Griffin Dunne,  Robert F. Colesberry  
 _Associate Producer_: Deborah Schindler  
 _Production Executive_: Nellie Nugiel  
 _Production Manager_: Michael Nozik  
 _Production Co-ordinator_: Denise Pinckley  
 _Location Manager_: Gary Weiner  
-_Production Assistants_: Bomani Yusuf Ali,
-
-Adam Cohen, Jem Cohen, Jonathan De Camp, Bettiann Fishman, Richard Kurtz, John O’Toole, John Pirozzi, Angela Salgado, David Sardi, Catherine Scorsese, Amy Wells  
+_Production Assistants_: Bomani Yusuf Ali, Adam Cohen, Jem Cohen, Jonathan De Camp, Bettiann Fishman, Richard Kurtz, John O’Toole, John Pirozzi, Angela Salgado, David Sardi, Catherine Scorsese, Amy Wells    
 _Research Assistants_: Lisa Hsia, Elizabeth Benjamin  
-_Assistant Directors_: Stephen Lim,  
-Christopher Griffin, Sarah M. Brim  
+_Assistant Directors_: Stephen Lim,  Christopher Griffin, Sarah M. Brim  
 _Screenplay_: Joseph Minion  
 _Director of Photography_: Michael Ballhaus  
 _Steadicam Operator_: Larry McConkey  
@@ -75,14 +70,13 @@ _Opticals_: Computer Opticals
 _Music_: Howard Shore  
 _Music Editor_: Thomas Drescher  
 _Sound Recording_: Chat Gunter  
-_Sound Re-recording_: Dick J. Vorisek,  
-Tom Fleischman  
+_Sound Re-recording_: Dick J. Vorisek,  Tom Fleischman  
 _Supervising Sound Editor_: Skip Lievsay  
 _Sound Editors_: Neil L. Kaufman, Michael Jacobi, Magdaline Volaitis  
 _Stunt Co-ordinator_: Harry Madsen  
 _Stunts_: Shawn O’Neil, Jordan H. Fischer
 
-_Cast:_  
+**Cast**  
 Griffin Dunne _(Paul Hackett)_  
 Rosanna Arquette _(Marcy Franklin)_  
 Verna Bloom _(June)_  
@@ -101,16 +95,15 @@ Larry Block _(taxi driver)_
 Victor Argo _(diner cashier)_  
 Murray Mosten _(subway attendant)_  
 John P. Codiglia _(transit cop)_  
-Clarke Evans_,_ Victor Bumbalo_,_ Bill Elverman _(neighbours)_  
-Joel Jason_,_ Rand Carr _(bikers)_  
+Clarke Evans, Victor Bumbalo, Bill Elverman _(neighbours)_  
+Joel Jason, Rand Carr _(bikers)_  
 Clarence Felder _(bouncer, Club Berlin)_  
 Henry Baker _(Jett)_  
 Margo Winkler _(woman with gun)_  
 Victor Magnotta _(dead man)_  
 Robin Johnson _(punk girl)_  
 Stephen Lim _(bartender, Club Berlin)_  
-Frank Aquilino_,_ Maree Catalano_,_ Paula Raflo_,_  
-Rockets Redglare _(angry mob members)_  
+Frank Aquilino, Maree Catalano, Paula Raflo, Rockets Redglare _(angry mob members)_  
 Martin Scorsese _(man with spotlight) *_
 
 USA 1985©
@@ -127,5 +120,5 @@ Approved by editor Thelma Schoonmaker, this new digital master from The Criterio
 
 Director Martin Scorsese’s personal 35mm print was used for colour reference. The original monaural soundtrack was remastered from the magnetic track.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMTI1MTA2XX0=
+eyJoaXN0b3J5IjpbLTExMzI4MDMwOTNdfQ==
 -->
