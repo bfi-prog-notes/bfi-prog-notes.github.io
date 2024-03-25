@@ -43,15 +43,10 @@ We see the child’s consciousness being formed throughout the film – a consci
 In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time. But that formative process involves pain. Knowledge is like a wound; consciousness is formed through a wound.  
 **Interview by Rikki Morgan, _Sight and Sound_, April 1993**  
 <br>
-<![endif]-->
 
-**THE SPIRIT OF THE BEEHIVE  
-(EL ESPÍRITU DE LA COLMENA)**
-
+**THE SPIRIT OF THE BEEHIVE  (EL ESPÍRITU DE LA COLMENA)**  
 _Director:_ Víctor Erice  
-_Production Company:_
-
-Elías Querejeta Producciones Cinematográficas  
+_Production Company:_ Elías Querejeta Producciones Cinematográficas  
 _Producer:_ Elías Querejeta  
 _Production Manager:_ Primitivo Álvaro  
 _Unit Manager:_ Fernando Hermoso  
@@ -59,9 +54,7 @@ _Production Assistant:_ Pedro Esteban Samu
 _1st Assistant Director:_ José Luis Ruíz Marcos  
 _2nd Assistant Director:_ Francisco Lucio Ramos  
 _Script Supervisor:_ Francisco J. Querejeta  
-_Screenplay/Original Story:_
-
-Ángel Fernández Santos, Víctor Erice  
+_Screenplay/Original Story:_ Ángel Fernández Santos, Víctor Erice  
 _Director of Photography:_ Luis Cuadrado  
 _Camera Operator:_ Teo Escamilla  
 _1st Assistant Camera:_ Santiago Zuazo  
@@ -84,8 +77,8 @@ _Music:_ Luis de Pablo
 _Sound Recording:_ Luis Rodríguez  
 _Sound Effects:_ Luis Castro, SYRE  
 _Special Collaborators:_ Miguel Picazo, Laly Soldevila  
-_Cast:_
 
+**Cast**  
 Fernando Fernán Gómez _(Fernando)_  
 Teresa Gimpera _(Teresa)_  
 Ana Torrent _(Ana)_  
@@ -98,10 +91,25 @@ Ketty de la Cámara _(Milagros)_
 Estanis González _(captain, Guardia civil)_  
 Manuel de Agústina _(theatre owner)_  
 Miguel Aguado _(projectionist)_  
-Spain 1973  
 
+Spain 1973  
 98 mins  
-Digital
+Digital  
+<br>
+
+**OF TIME AND LIGHT: THE FILMS OF VÍCTOR ERICE**  
+**The Art of Seeing: The Lifelong Passion of Víctor Erice**  
+Wed 27 Mar 18:00  
+**The Spirit of the Beehive** El espíritu de la colmena  
+Mon 25 Mar 20:45; Thu 28 Mar 14:40; Sat 13 Apr 17:40; Thu 25 Apr 20:50  
+**El sur** The South  
+Tue 26 Mar 18:10; Sun 14 Apr 20:45; Sat 20 Apr 18:30; Tue 30 Apr 20:40  
+**The Quince Tree Sun** El sol de membrillo  
+Thu 28 Mar 18:00; Wed 17 Apr 20:25  
+**Erice-Kiarostami: Correspondences**  
+Sun 31 Mar 12:30; Tue 9 Apr 20:30  
+**Víctor Erice Shorts**  
+Sun 7 Apr 16:00; Mon 22 Apr 20:40  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTczNzYzODQsMTA4MTkyNTkwNl19
+eyJoaXN0b3J5IjpbLTM3ODkzNzcxNiwxMDgxOTI1OTA2XX0=
 -->
