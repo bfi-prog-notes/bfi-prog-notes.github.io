@@ -43,7 +43,66 @@ We see the child’s consciousness being formed throughout the film – a consci
 In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time. But that formative process involves pain. Knowledge is like a wound; consciousness is formed through a wound.  
 **Interview by Rikki Morgan, _Sight and Sound_, April 1993**  
 <br>
+<![endif]-->
 
+**THE SPIRIT OF THE BEEHIVE  
+(EL ESPÍRITU DE LA COLMENA)**
+
+_Director:_ Víctor Erice  
+_Production Company:_
+
+Elías Querejeta Producciones Cinematográficas  
+_Producer:_ Elías Querejeta  
+_Production Manager:_ Primitivo Álvaro  
+_Unit Manager:_ Fernando Hermoso  
+_Production Assistant:_ Pedro Esteban Samu  
+_1st Assistant Director:_ José Luis Ruíz Marcos  
+_2nd Assistant Director:_ Francisco Lucio Ramos  
+_Script Supervisor:_ Francisco J. Querejeta  
+_Screenplay/Original Story:_
+
+Ángel Fernández Santos, Víctor Erice  
+_Director of Photography:_ Luis Cuadrado  
+_Camera Operator:_ Teo Escamilla  
+_1st Assistant Camera:_ Santiago Zuazo  
+_2nd Assistant Camera:_ José Manuel de Nicolas  
+_Stills Photography:_ Laureano López Martínez  
+_Editor:_ Pablo G. del Amo  
+_1st Assistant Editor:_ José Salcedo  
+_2nd Assistant Editor:_ Juan Ignacio San Mateo  
+_Art Director:_ Adolfo Cofiño  
+_Set Decorators:_ Ramón de Diego, Jaime Chávarri  
+_Costume House:_ Peris Hermanos  
+_Wardrobe:_ Angelines Castro  
+_Make-up Artist:_ Ramón de Diego  
+_Assistant Make-up Artist:_ Ángel Luis De Diego  
+_Title Designer:_ Ana Torrent  
+_Title Artwork:_ Alicia Tellería, Isabel Tellería,  
+María Tellería  
+_Opticals/Title Designer:_ Pablo Núñez  
+_Music:_ Luis de Pablo  
+_Sound Recording:_ Luis Rodríguez  
+_Sound Effects:_ Luis Castro, SYRE  
+_Special Collaborators:_ Miguel Picazo, Laly Soldevila  
+_Cast:_
+
+Fernando Fernán Gómez _(Fernando)_  
+Teresa Gimpera _(Teresa)_  
+Ana Torrent _(Ana)_  
+Isabel Tellería _(Isabel)_  
+Laly Soldevilla _(Doña Lucia, teacher)_  
+Miguel Picazo _(doctor)_  
+José Villasante _(Frankenstein’s monster)_  
+Juan Margallo _(the fugitive)_  
+Ketty de la Cámara _(Milagros)_  
+Estanis González _(captain, Guardia civil)_  
+Manuel de Agústina _(theatre owner)_  
+Miguel Aguado _(projectionist)_  
+Spain 1973
+
+98 mins
+
+Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU5MjE0NjZdfQ==
+eyJoaXN0b3J5IjpbMTA4MTkyNTkwNl19
 -->
