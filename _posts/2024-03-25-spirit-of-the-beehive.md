@@ -4,10 +4,10 @@ title: The Spirit of the Beehive
 published: true
 date: 2024-03-25
 readtime: true
-categories: ['OF TIME AND LIGHT: THE FILMS OF VÍCTOR ERICE']
-tags: [Comedy]
-metadata: 'UK 1949, 84 mins<br> Director: Henry Cornelius'
-pdf: '2024-03-30-passport-to-pimlico.pdf'
+categories: ['OF TIME AND LIGHT<br>THE FILMS OF VÍCTOR ERICE']
+tags: [Drama]
+metadata: 'Spain 1973, 98 mins<br> Director: Víctor Erice'
+pdf: '2024-03-25-spirit-of-the-beehive.pdf'
 ---
 
 Erice’s remarkable first feature concerns a family living in a remote Castilian village shortly after the end of the Civil War, and centres on eight-year-old Ana, confused about the relationship of life and death after a screening of _Frankenstein_. A piercingly perceptive portrait of lonely lives haunted by grief, the film boasts images of both wondrously direct simplicity and enormous eloquence.  
@@ -41,7 +41,9 @@ _How might this spiritual journey be understood in relation to_ The Spirit of th
 We see the child’s consciousness being formed throughout the film – a consciousness that will be characterised forever as separated from the conventional vision of the world. It could be the consciousness of an artist, an excess of vision through which artists see things that others don’t see, or see them in a different way. At the beginning Ana is a docile, timid person – just a child who asks questions. She can’t understand how there can be something so absurd in life or so terrible that makes a monster kill a child. What the monster wants, in his misery, is to be accepted into society, yet society rejects him – perhaps because of his excess of humanity, for there is something tremendously humane in the monster. So the child’s identification with him is the identification with those who suffer, because she experiences suffering too.
 
 In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time. But that formative process involves pain. Knowledge is like a wound; consciousness is formed through a wound.  
-**Interview by Rikki Morgan, _Sight and Sound_, April 1993**
+**Interview by Rikki Morgan, _Sight and Sound_, April 1993**  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDU0ODQxNl19
+eyJoaXN0b3J5IjpbLTIwNDU5MjE0NjZdfQ==
 -->
