@@ -4,7 +4,7 @@ title: El sur
 published: true
 date: 2024-03-26
 readtime: true
-categories: ['OF TIME AND LIGHT<br>THE FILMS OF VÍCTOR ERICE']
+categories: ['OUT OF THE SHADOWS: THE FILMS OF GENE TIERNEY']
 tags: [Drama]
 metadata: 'Spain/France 1983, 95 mins<br> Director: Víctor Erice'
 pdf: '2024-03-26-sur.pdf'
@@ -66,7 +66,33 @@ When it comes to Gene Tierney, I think of certain colours, especially the green 
 
 But I also think of music: not just David Raksin’s famous theme song for _Laura_, which later had lyrics attached by Johnny Mercer about how Laura was ‘the face in the misty light’, but also the romantic Bernard Herrmann score for Joseph L. Mankiewicz’s _The Ghost and Mrs Muir_ (1947), full of churnings and crescendos and tributes to the feelings Gene Tierney’s face inspires. As an actress in _The Ghost and Mrs Muir_, Tierney is only competent; she plays her widow by the sea mainly on one note of self-satisfied defiance. But to many moviegoers, Tierney is the embodiment of a certain kind of 1940s movie experience – someone of whom it can plausibly be said, as Mercer’s lyrics have it, that maybe she was only a dream.  
 **Dan Callahan, _Sight and Sound_, bfi.org.uk/sight-and-sound,14 March 2024**  
+<br>
 
+**OUT OF THE SHADOWS: THE FILMS OF GENE TIERNEY**  
+**The Return of Frank James**  
+Mon 25 Mar 18:10; Fri 29 Mar 20:45  
+**Heaven Can Wait**  
+Mon 25 Mar 20:20; Mon 1 Apr 13:00; Mon 8 Apr 18:10  
+**More than a Dream: Gene Tierney**  
+Tue 26 Mar 18:15  
+**Rings on Her Fingers**  
+Tue 26 Mar 20:30; Sun 7 Apr 18:20  
+**Laura**  
+Thu 28 Mar 20:50; Sat 13 Apr 15:30; Sun 14 Apr 17:20  
+**Leave Her to Heaven**  
+Fri 29 Mar 13:20; Thu 11 Apr 14:40; Sat 20 Apr 20:40; Sun 28 Apr 12:10  
+**Dragonwyck**  
+Sat 30 Mar 17:40; Mon 15 Apr 20:40; Thu 18 Apr 12:00  
+**The Razor’s Edge**  
+Sun 31 Mar 15:00; Fri 19 Apr 17:45  
+**The Ghost and Mrs. Muir**  
+Sun 31 Mar 20:30; Tue 23 Apr 18:10 (+ intro by season programmer Aga Baranowska); Fri 26 Apr 12:20  
+**Night and the City**  
+Sat 6 Apr 18:10; Mon 29 Apr 12:20; Tue 30 Apr 18:10 (+ intro by Josephine Botting, BFI National Archive curator)  
+**Whirlpool**  
+Sun 21 Apr 18:00; Sat 27 Apr 18:10  
+**Where the Sidewalk Ends**  
+Sat 27 Apr 15:50; Mon 29 Apr 20:50  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTI1ODE5Nl19
+eyJoaXN0b3J5IjpbLTE1MjI2MTEzNjJdfQ==
 -->
