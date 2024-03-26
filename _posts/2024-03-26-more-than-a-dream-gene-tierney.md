@@ -1,15 +1,14 @@
 ---
 layout: post
-title: El sur
+title: More Than a Dream<br> Gene Tierney
 published: true
 date: 2024-03-26
 readtime: true
-categories: ['OUT OF THE SHADOWS: THE FILMS OF GENE TIERNEY']
-tags: [Drama]
-metadata: 'Spain/France 1983, 95 mins<br> Director: Víctor Erice'
-pdf: '2024-03-26-sur.pdf'
+categories: ['OUT OF THE SHADOWS<br>THE FILMS OF GENE TIERNEY']
+tags: [Talk]
+metadata: 
+pdf: '2024-03-26-more-than-a-dream-gene-tierney.pdf'
 --
-
 
 **SPOILER WARNING** The following notes give away some of the plot of a couple of films in Gene Tierney’s season.
 
@@ -94,5 +93,5 @@ Sun 21 Apr 18:00; Sat 27 Apr 18:10
 **Where the Sidewalk Ends**  
 Sat 27 Apr 15:50; Mon 29 Apr 20:50  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI2MTEzNjJdfQ==
+eyJoaXN0b3J5IjpbMTEwNTI4MjM5MV19
 -->
