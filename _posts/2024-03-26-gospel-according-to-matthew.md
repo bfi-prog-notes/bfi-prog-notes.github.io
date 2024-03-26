@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: The Gospel According to Matthew
+published: true
+date: 2024-03-26
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'Italy/France 19, 137 mins<br> Director: Víctor Erice'
+pdf: '2024-03-26-sur.pdf'
+---
 
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
 
@@ -86,35 +96,21 @@ Digital
 
 \* Uncredited  
 <br>
-<![endif]-->
 
-**BIG SCREEN CLASSICS**
-
-**The Trial**
-
-Mon 25 Mar 12:20; Mon 8 Apr 12:20; Thu 18 Apr 17:25
-
-**The Gospel According to Matthew** Il Vangelo secondo Matteo
-
-Tue 26 Mar 20:20; Fri 29 Mar 17:50
-
-**Nosferatu**
-
-Wed 27 Mar 18:15 (+ intro by Arike Oke, Executive Director of Knowledge, Learning & Collections); Sat 6 Apr 13:15; Fri 12 Apr 21:00
-
-**The Picture of Dorian Gray**
-
-Thu 28 Mar 18:10; Sun 7 Apr 12:50; Tue 23 Apr 12:00
-
-**Little Women**
-
-Sat 30 Mar 13:15; Tue 9 Apr 12:20; Sat 27 Apr 20:30
-
-**The Last Temptation of Christ**
-
-Sat 30 Mar 19:50; Sun 14 Apr 17:30
-=  
-**The Leopard** Il gattopardo  
+**BIG SCREEN CLASSICS**  
+**The Trial**  
+Mon 25 Mar 12:20; Mon 8 Apr 12:20; Thu 18 Apr 17:25  
+**The Gospel According to Matthew** Il Vangelo secondo Matteo  
+Tue 26 Mar 20:20; Fri 29 Mar 17:50  
+**Nosferatu**  
+Wed 27 Mar 18:15 (+ intro by Arike Oke, Executive Director of Knowledge, Learning & Collections); Sat 6 Apr 13:15; Fri 12 Apr 21:00  
+**The Picture of Dorian Gray**  
+Thu 28 Mar 18:10; Sun 7 Apr 12:50; Tue 23 Apr 12:00  
+**Little Women**  
+Sat 30 Mar 13:15; Tue 9 Apr 12:20; Sat 27 Apr 20:30  
+**The Last Temptation of Christ**  
+Sat 30 Mar 19:50; Sun 14 Apr 17:30  
+**The Leopard** Il gattopardo
 Sun 31 Mar 17:00; Tue 16 Apr 13:30; Sun 28 Apr 19:30  
 **The Grapes of Wrath**  
 Mon 1 Apr 20:10; Sat 20 Apr 15:45  
@@ -135,5 +131,5 @@ Wed 17 Apr 17:45 (+ intro by Jade Evans, AHRC REACH PhD student with QMUL and BF
 **Ordet** The Word  
 Sat 27 Apr 13:15; Mon 29 Apr 14:40  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM5MjExOF19
+eyJoaXN0b3J5IjpbMTQyNzM3MzEwMl19
 -->
