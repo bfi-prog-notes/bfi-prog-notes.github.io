@@ -8,7 +8,7 @@ categories: ['OUT OF THE SHADOWS<br>THE FILMS OF GENE TIERNEY']
 tags: [Talk]
 metadata: 
 pdf: '2024-03-26-more-than-a-dream-gene-tierney.pdf'
---
+---
 
 **SPOILER WARNING** The following notes give away some of the plot of a couple of films in Gene Tierney’s season.
 
@@ -54,8 +54,7 @@ A more obvious ‘actress’ type than Tierney would have underlined Ellen’s p
 
 In 1943, a pregnant Tierney went to the Hollywood Canteen for a one-off appearance; soon afterwards she contracted German measles, which caused her daughter to be born with disabilities. Tierney’s anguish over her daughter’s condition was compounded when a female fan later approached her to tell her that she had broken her quarantine for German measles to see Tierney at the Hollywood Canteen. Everyone always said that Tierney was even more beautiful in person than in front of a camera, and this woman had wanted to see her in the flesh, not on the screen. Stunned, Tierney said nothing and just walked away. ‘After that I didn’t care whether ever again I was anyone’s favourite actress,’ she wrote in her pained 1979 autobiography _Self-Portrait_.
 
-Otto Preminger stayed loyal to Tierney even as her personal problems began to engulf her. He used her in three more films after _Laura_: in the demanding role of a kleptomaniac who falls under the spell of hypnotic charlatan Jose Ferrer in _Whirlpool_ (1950); as another woman mixed up with murder in _Where the Sidewalk_ _Ends_ (1950); and finally in a modest comeback role as a Washington hostess in his political epic _Advise & Consent_ (1962), where she walks through his long takes as if on eggshells and holds her head high and still so that you can feel how scared and nervous she is. As an older woman, her voice grew dramatically lower because of her cigarette habit. Once she’d been reduced to slapping Carol Lynley and calling her a tramp in Jean Negulesco’s  
-_The Pleasure Seekers_ (1964), Tierney decided to retire into the comfort of her second marriage to a kindly Texas oil baron.
+Otto Preminger stayed loyal to Tierney even as her personal problems began to engulf her. He used her in three more films after _Laura_: in the demanding role of a kleptomaniac who falls under the spell of hypnotic charlatan Jose Ferrer in _Whirlpool_ (1950); as another woman mixed up with murder in _Where the Sidewalk_ _Ends_ (1950); and finally in a modest comeback role as a Washington hostess in his political epic _Advise & Consent_ (1962), where she walks through his long takes as if on eggshells and holds her head high and still so that you can feel how scared and nervous she is. As an older woman, her voice grew dramatically lower because of her cigarette habit. Once she’d been reduced to slapping Carol Lynley and calling her a tramp in Jean Negulesco’s _The Pleasure Seekers_ (1964), Tierney decided to retire into the comfort of her second marriage to a kindly Texas oil baron.
 
 She married well, at the very least. In the late 1940s, when her marriage to Cassini was on the rocks, she had also carried on a serious affair with a young John F. Kennedy. She wanted to marry him, but as a Catholic and a future political candidate he steered clear of marriage to her. Later on, when Kennedy became president, Cassini was hired to provide the wardrobe for his wife Jacqueline. Tierney herself wears a pillbox hat in her first scene in _Advise & Consent_, so she certainly merits mention as a footnote and cross-reference to any Kennedy history, as an early version of Jackie – unsuitable as a married woman, an actress, and mentally precarious, but a solid trial run for what JFK wanted visually.
 
