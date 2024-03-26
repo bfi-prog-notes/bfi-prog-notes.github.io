@@ -6,8 +6,8 @@ date: 2024-03-26
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'Italy/France 19, 137 mins<br> Director: Víctor Erice'
-pdf: '2024-03-26-sur.pdf'
+metadata: 'Italy/France 1964, 137 mins<br> Director: Pier Paolo Pasolini'
+pdf: '2024-03-26-gospe-according-to-matthew.pdf'
 ---
 
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
@@ -130,6 +130,30 @@ Sat 13 Apr 13:20; Fri 19 Apr 20:45; Wed 24 Apr 18:10 (+ intro)
 Wed 17 Apr 17:45 (+ intro by Jade Evans, AHRC REACH PhD student with QMUL and BFI); Thu 25 Apr 12:00  
 **Ordet** The Word  
 Sat 27 Apr 13:15; Mon 29 Apr 14:40  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzM3MzEwMl19
+eyJoaXN0b3J5IjpbMTcyNTkxMTY0Ml19
 -->
