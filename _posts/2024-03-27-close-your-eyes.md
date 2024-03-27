@@ -22,6 +22,46 @@ It’s a film, then, made by, and about, true believers in the transcendent pote
 Still, this isn’t blind cinephile love. The climax, set in a closed down, small town cinema, is no simplistic paean to ‘the magic of the movies.’ In fact, editor Max gruffly jokes that ‘miracles in movies haven’t existed since [Carl Theodor] Dreyer died!’ And yet Erice has dreamed in light an extraordinary ambition for what film, certainly his films, can strive for. As his characters gaze up at the screen, and out, perhaps for the final time, at their audience, it’s hard to envisage a more emotionally overwhelming farewell, if that’s what _Close Your Eyes_ becomes, from a vital, too-often missing, force in world cinema.  
 **Leigh Singer, _Sight and Sound_, bfi.org.uk/sight-and-sound, 26 May 2023**  
 <br>
+
+**CLOSE YOUR EYES (CERRAR LOS OJOS)**  
+_Director_: Víctor Erice  
+_©_: La Mirada del Adiós A.I.E., Tandem Films S.L., Nautilus Films S.L., Pecado Films S.L., Pampa Films S.A.  
+_Production Companies_: La Mirada del Adiós A.I.E., Tandem Films, Nautilus Films S.L, Pecado Films S.L, Pampa Films S.A.  
+_Executive Producer_: Cristina Zumárraga  
+_Producers_: Cristina Zumárraga, Pablo E. Bossi, Víctor Erice, José Alba, Odile Antonio-Baez, Agustín Bossi, Pol Bossi, Maximiliano Lasansky  
+_Post-production Supervisor_: Carolina Redondo Fernandez  
+_Screenplay_: Víctor Erice, Michel Gaztambide  
+_Story_: Víctor Erice  
+_Director of Photography_: Valentín Álvarez  
+_Visual Effects Supervisor_: Juliana Lasuncion  
+_Editor_: Ascen Marchena  
+_Art Director_: Curru Garabal  
+_Costume Designer_: Helena Sanchis  
+_Head of Make-up and Hair_: Beatushka Wojtowicz  
+_Original Music_: Federico Jusid  
+_Sound Design_: Juan Ferro  
+_Head of Sound_: Iván Marín  
+_Re-recording Mixer_: Candela Palencia  
+
+**Cast**    
+Manolo Solo _(Miguel Garay)_  
+José Coronado _(Gardel/Julio Arenas)_  
+Ana Torrent _(Ana Arenas)_  
+Petra Martínez _(Sor Consuelo)_  
+María León _(Belén)_  
+Mario Pardo _(Max Roca)_  
+Helena Miquel _(Marta Soriano)_  
+Antonio Dechent _(Tico Mayoral)_  
+José María Pou _(Mr Levy)_  
+Soledad Villamíl _(Lola San Román)_  
+Juan Margallo _(Doctor Benavides)_  
+Venecia Franco _(Qiao Shu/Judith)_  
+
+Spain 2023  
+169 mins  
+Digital  
+
+A New Wave release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjkyOTUyM119
+eyJoaXN0b3J5IjpbLTYzNjU0NTE0MV19
 -->
