@@ -1,13 +1,19 @@
+---
+layout: post
+title: Pather Panchali
+published: true
+date: 2024-04-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'India 1955, 125 mins<br> Director: Satyajit Ray'
+pdf: '2024-04-02-pather-panchali.pdf'
+---
 
+Adapted from the autobiographical novel by Bengali writer Bibhutibhushan Bandyopadhyay, Ray’s film is one of the most extraordinary feature debuts ever made. It follows the everyday lives of an impoverished family in rural Bengal in the early years of the 20th century. We witness events through the eyes of the young Apu, whose sentimental education makes for subtle moral, social and psychological insights. A timeless masterpiece.  
+**bfi.org.uk**  
 
-<![endif]-->
-
-Adapted from the autobiographical novel by Bengali writer Bibhutibhushan Bandyopadhyay, Ray’s film is one of the most extraordinary feature debuts ever made. It follows the everyday lives of an impoverished family in rural Bengal in the early years of the 20th century. We witness events through the eyes of the young Apu, whose sentimental education makes for subtle moral, social and psychological insights. A timeless masterpiece.
-
-bfi.org.uk
-
-**Satyajit Ray on ‘Pather Panchali’**
-
+**Satyajit Ray on ‘Pather Panchali’**  
 I remember the first day’s shooting of _Pather Panchali_ very well. It was in the festive season, in October, and the last of the big _pujas_ was taking place that day. Our location was 75 miles away from Calcutta. As our taxi sped along the Grand Trunk Road, we passed through several suburban towns and villages and heard the drums and even had fleeting glimpses of some images. Someone said it would bring us luck. I had my doubts, but I wished to believe it. All who set about making films need luck as much as they need the other things: talent, money, perseverance and so on. We needed a little more of it than most.
 
 I knew this first day was really a sort of rehearsal for us, to break us in, as it were. For most of us it was a start from scratch. There were eight on our unit of whom only one – Bansi, the art director – had previous professional experience. We had a new cameraman, Subrata, and an old, much-used Wall camera which happened to be the only one available for hire on that particular day. Its one discernible advantage seemed to be a device to insure smoothness of panning. We had no sound equipment, as the scene was to be a silent one.
@@ -125,5 +131,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ1MDM0MTldfQ==
+eyJoaXN0b3J5IjpbLTc3NzE2NzEwMF19
 -->
