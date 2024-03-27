@@ -23,12 +23,9 @@ _Director:_ Albert Lewin
 
 _©:_ Loew’s Incorporated
 
-_Production Company:_ Metro-Goldwyn-Mayer
-
-_Producer:_ Pandro S. Berman
-
+_Production Company:_ Metro-Goldwyn-Mayer  
+_Producer:_ Pandro S. Berman  
 _Special Assistant to Mr Lewin:_ Gordon Wiles
-
 _Screenplay:_ Albert Lewin
 
 _Based on the novel by:_ Oscar Wilde
@@ -43,106 +40,54 @@ _Set Decorator:_ Edwin B. Willis
 
 _Associates:_ Hugh Hunt, John Bonar
 
-_Paintings of Dorian Gray:_ Ivan Le Lorraine Albright
-
-_Paintings of Dorian Gray as a young man:_
-
-Henrique Medina
-
-_Costume Supervisor:_ Irene
-
-_Men’s Costumes:_ Vallès
-
-_Make-up Created by:_ Jack Dawn
-
-_Music:_ Herbert Stothart
-
-_Recording Director:_ Douglas Shearer
-
-_uncredited_
-
-_Assistant Director:_ Earl McEvoy
-
-_Process Photography:_
-
-Carroll L. Shepphird
-
-_Camera Operator:_ Sam Leavitt
-
-_Camera Assistant:_ Frank Phillips
-
-_2nd Camera Assistant:_ Edward Davis
-
-_Special Effects:_ Warren Newcombe,
-
-A. Arnold Gillespie
-
-_Associate Costume Supervisor:_
-
-Marion Herwood Keyes
-
-_Sound Technician:_ William R. Edmondson
-
-_Narrator:_ Cedric Hardwicke
+_Paintings of Dorian Gray:_ Ivan Le Lorraine Albright  
+_Paintings of Dorian Gray as a young man:_ Henrique Medina  
+_Costume Supervisor:_ Irene  
+_Men’s Costumes:_ Vallès  
+_Make-up Created by:_ Jack Dawn  
+_Music:_ Herbert Stothart  
+_Recording Director:_ Douglas Shearer  
+_uncredited_  
+_Assistant Director:_ Earl McEvoy  
+_Process Photography:_ Carroll L. Shepphird  
+_Camera Operator:_ Sam Leavitt  
+_Camera Assistant:_ Frank Phillips  
+_2nd Camera Assistant:_ Edward Davis  
+_Special Effects:_ Warren Newcombe, A. Arnold Gillespie  
+_Associate Costume Supervisor:_ Marion Herwood Keyes  
+_Sound Technician:_ William R. Edmondson  
+_Narrator:_ Cedric Hardwicke  
 
 **Cast**  
 George Sanders _(Lord Henry Wotton)_  
-Hurd Hatfield _(Dorian Gray)_
-
-Donna Reed _(Gladys Hallward)_
-
-Angela Lansbury _(Sibyl Vane)_
-
-Peter Lawford _(David Stone)_
-
-Lowell Gilmore _(Basil Hallward)_
-
-Richard Fraser _(James Vane)_
-
-Douglas Walton _(Allen Campbell)_
-
-Morton Lowry _(Adrian Singleton)_
-
-Miles Mander _(Sir Robert Bentley)_
-
-Lydia Bilbrook _(Mrs Vane)_
-
-Mary Forbes _(Lady Agatha)_
-
-Robert Greig _(Sir Thomas)_
-
-Moyna McGill _(Duchess)_
-
-Billy Bevan _(Malvolio Jones, the chairman)_
-
-Renie Carson _(young French Woman)_
-
-Lillian Bond _(Kate)_
-
-Devi Dja and Her Balisene Dancers _(specialty)_
-
-_uncredited_
-
-Lisa Carpenter _(Lady Henry Wotton)_
-
-William Stack _(Mr Erskine)_
-
-Natalie Draper _(Mrs Vandeleur)_
-
-Anita Sharp-Bolster _(Lady Marlborough)_
-
-Sidney Lawford _(Davenant)_
-
-Dorothy Ford _(a woman)_
-
-Guy Bates Post _(Victor, the butler)_
-
-Crauford Kent _(friend)_
-
-Jimmy Conlin _(stage pianist)_
-
-Carol Diane Kappler _(Gladys as a child)_
-
+Hurd Hatfield _(Dorian Gray)_  
+Donna Reed _(Gladys Hallward)_  
+Angela Lansbury _(Sibyl Vane)_  
+Peter Lawford _(David Stone)_  
+Lowell Gilmore _(Basil Hallward)_  
+Richard Fraser _(James Vane)_  
+Douglas Walton _(Allen Campbell)_  
+Morton Lowry _(Adrian Singleton)_  
+Miles Mander _(Sir Robert Bentley)_  
+Lydia Bilbrook _(Mrs Vane)_  
+Mary Forbes _(Lady Agatha)_  
+Robert Greig _(Sir Thomas)_  
+Moyna McGill _(Duchess)_  
+Billy Bevan _(Malvolio Jones, the chairman)_  
+Renie Carson _(young French Woman)_  
+Lillian Bond _(Kate)_  
+Devi Dja and Her Balisene Dancers _(specialty)_  
+_uncredited_  
+Lisa Carpenter _(Lady Henry Wotton)_  
+William Stack _(Mr Erskine)_  
+Natalie Draper _(Mrs Vandeleur)_  
+Anita Sharp-Bolster _(Lady Marlborough)_  
+Sidney Lawford _(Davenant)_  
+Dorothy Ford _(a woman)_  
+Guy Bates Post _(Victor, the butler)_  
+Crauford Kent _(friend)_  
+Jimmy Conlin _(stage pianist)_  
+Carol Diane Kappler _(Gladys as a child)_  
 Rex Evans _(Lord Gerald Goodbody)_  
 Lee Powell _(station master)_  
 Edward Cooper _(Ernest Harrowden)_  
@@ -166,5 +111,5 @@ USA 1945©
 110 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYzNjgzNjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTU4MTEzMzBdfQ==
 -->
