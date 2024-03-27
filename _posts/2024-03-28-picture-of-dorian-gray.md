@@ -6,8 +6,8 @@ date: 2024-03-28
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'Italy/France 1964, 137 mins<br> Director: Pier Paolo Pasolini'
-pdf: '2024-03-28-gospe-according-to-matthew.pdf'
+metadata: 'USA 1945, 110 mins<br> Director: Albert Lewin'
+pdf: '2024-03-28-picture-of-dorian-gray.pdf'
 ---
 
 The most ready defence of director Albert Lewin is that he was ahead of his time. In the 50s and 60s, the question of what he had to do with cinema or cinema to do with him created a sense of inassimilable peculiarity. Now the lurid atmospheres of _Pandora and the Flying Dutchman_, its Spanish sea-shore high jinks, look right at home next to Raúl Ruiz’s _City of Pirates_, and surrealism _à la_ the 20s or the 80s lives in the beach party sequence where be-boppers and musicians mingle with cast-off bits of statuary (‘Ozymandias’ – the perfect Lewin text). But more than this, Lewin anticipates a cinema that has incorporated what is alien to it, that has effaced itself in order to become the vessel of what is alien to it. Does _The Picture of Dorian Gray_ anticipate Fassbinder’s _Effi Briest_, Rohmer’s _Die Marquise von O…_, something of Straub-Huillet? Is the cross-hatching of emotion in _The Private Affairs of Bel Ami_, the objective tracing of a subjective multiplicity of romances, kin to another kind of modernism, Alan Rudolph’s _Welcome to L.A._?
@@ -167,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDc4NDc3M119
+eyJoaXN0b3J5IjpbMTMwNDY4NjI2MF19
 -->
