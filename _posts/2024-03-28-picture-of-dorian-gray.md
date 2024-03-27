@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Picture of Dorian Gray
+published: true
+date: 2024-03-28
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'Italy/France 1964, 137 mins<br> Director: Pier Paolo Pasolini'
+pdf: '2024-03-28-gospe-according-to-matthew.pdf'
+---
 
 The most ready defence of director Albert Lewin is that he was ahead of his time. In the 50s and 60s, the question of what he had to do with cinema or cinema to do with him created a sense of inassimilable peculiarity. Now the lurid atmospheres of _Pandora and the Flying Dutchman_, its Spanish sea-shore high jinks, look right at home next to Raúl Ruiz’s _City of Pirates_, and surrealism _à la_ the 20s or the 80s lives in the beach party sequence where be-boppers and musicians mingle with cast-off bits of statuary (‘Ozymandias’ – the perfect Lewin text). But more than this, Lewin anticipates a cinema that has incorporated what is alien to it, that has effaced itself in order to become the vessel of what is alien to it. Does _The Picture of Dorian Gray_ anticipate Fassbinder’s _Effi Briest_, Rohmer’s _Die Marquise von O…_, something of Straub-Huillet? Is the cross-hatching of emotion in _The Private Affairs of Bel Ami_, the objective tracing of a subjective multiplicity of romances, kin to another kind of modernism, Alan Rudolph’s _Welcome to L.A._?
 
@@ -15,31 +23,20 @@ Put another way, however, Lord Henry’s creed – ‘All influence is immoral b
 What the ceaseless epigrammatic wit of the dialogue seeks to describe, the visuals frame (like the portrait of Dorian Gray) mysteriously, ‘perfectly’, impenetrably. _Dorian Gray_ may be one of the few films that has actually weighed the value of a thousand words against that of a picture, and found the former infinitely distortable and the latter infinitely inscrutable. Starting from the plot premise of a man whose face reveals nothing of his true nature, the film spirals off into an extraordinary series of metaphors about what is involved (denying, controlling and deceiving, as well as declaring, portraying and revealing) in the act of picture-making. ‘You must learn to see it in its proper perspective’, says Lord Henry to Dorian about Sibyl’s death (while fiddling with a slide in a stereopticon), and moments later, ‘You should look upon this tragedy as an episode in the wonderful spectacle of life’. There is the spectacle of the music hall itself where Dorian meets Sibyl, where she sings a song about a hungry sparrow declining to join a canary in the ‘perfect’ prison of its gilded cage; and there are two scenes (one with Dorian studying coins through a magnifying glass, the other with a police commissioner studying evidence with a magnifying machine) in which the conversation turns on the theme of ‘how little we really know of what goes on inside a man’. The ‘picture’ of Albert Lewin that emerges finally from _Dorian Gray_ is not of a director who was a prisoner of his high-culture pretensions, but of one with a remarkable visual sensibility that has little to do with conventional notions of style. _Dorian Gray_ is an intellectual and abstract adaptation; a ‘record’ not only of Oscar Wilde’s original but of a range of ideas both within and about its spectacle.  
 **Richard Combs, _Monthly Film Bulletin_, November 1985**  
 <br>
-<![endif]-->
 
-**THE PICTURE OF DORIAN GRAY**
-
-_Director:_ Albert Lewin
-
-_©:_ Loew’s Incorporated
-
+**THE PICTURE OF DORIAN GRAY**  
+_Director:_ Albert Lewin  
+_©:_ Loew’s Incorporated  
 _Production Company:_ Metro-Goldwyn-Mayer  
 _Producer:_ Pandro S. Berman  
-_Special Assistant to Mr Lewin:_ Gordon Wiles
-_Screenplay:_ Albert Lewin
-
-_Based on the novel by:_ Oscar Wilde
-
-_Director of Photography:_ Harry Stradling
-
-_Editor:_ Ferris Webster
-
-_Art Directors:_ Cedric Gibbons, Hans Peters
-
-_Set Decorator:_ Edwin B. Willis
-
-_Associates:_ Hugh Hunt, John Bonar
-
+_Special Assistant to Mr Lewin:_ Gordon Wiles  
+_Screenplay:_ Albert Lewin  
+_Based on the novel by:_ Oscar Wilde  
+_Director of Photography:_ Harry Stradling  
+_Editor:_ Ferris Webster  
+_Art Directors:_ Cedric Gibbons, Hans Peters  
+_Set Decorator:_ Edwin B. Willis  
+_Associates:_ Hugh Hunt, John Bonar  
 _Paintings of Dorian Gray:_ Ivan Le Lorraine Albright  
 _Paintings of Dorian Gray as a young man:_ Henrique Medina  
 _Costume Supervisor:_ Irene  
@@ -110,6 +107,65 @@ Al Ferguson _(customer)_
 USA 1945©  
 110 mins  
 Digital  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**The Trial**  
+Mon 25 Mar 12:20; Mon 8 Apr 12:20; Thu 18 Apr 17:25  
+**The Gospel According to Matthew** Il Vangelo secondo Matteo  
+Tue 26 Mar 20:20; Fri 29 Mar 17:50  
+**Nosferatu**  
+Wed 27 Mar 18:15 (+ intro by Arike Oke, Executive Director of Knowledge, Learning & Collections); Sat 6 Apr 13:15; Fri 12 Apr 21:00  
+**The Picture of Dorian Gray**  
+Thu 28 Mar 18:10; Sun 7 Apr 12:50; Tue 23 Apr 12:00  
+**Little Women**  
+Sat 30 Mar 13:15; Tue 9 Apr 12:20; Sat 27 Apr 20:30  
+**The Last Temptation of Christ**  
+Sat 30 Mar 19:50; Sun 14 Apr 17:30  
+**The Leopard** Il gattopardo
+Sun 31 Mar 17:00; Tue 16 Apr 13:30; Sun 28 Apr 19:30  
+**The Grapes of Wrath**  
+Mon 1 Apr 20:10; Sat 20 Apr 15:45  
+**Pather Panchali**  
+Tue 2 Apr 20:30; Mon 22 Apr 18:00; Tue 30 Apr 12:10  
+**The Heiress**  
+Wed 3 Apr 18:05 (+ intro by Ruby McGuigan, BFI Programme and Acquisitions); Sat 6 Apr 20:30; Mon 15 Apr 20:45  
+**Dr. Jekyll and Mr. Hyde**  
+Thu 4 Apr 20:30; Wed 10 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large)  
+**The Last of the Mohicans**  
+Fri 5 Apr 18:10; Sun 21 Apr 20:20  
+**Women in Love**  
+Thu 11 Apr 20:20; Sat 20 Apr 13:00; Fri 26 Apr 14:40  
+**Beau Travail**  
+Sat 13 Apr 13:20; Fri 19 Apr 20:45; Wed 24 Apr 18:10 (+ intro)  
+**Great Expectations**  
+Wed 17 Apr 17:45 (+ intro by Jade Evans, AHRC REACH PhD student with QMUL and BFI); Thu 25 Apr 12:00  
+**Ordet** The Word  
+Sat 27 Apr 13:15; Mon 29 Apr 14:40  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU4MTEzMzBdfQ==
+eyJoaXN0b3J5IjpbLTU2MDc4NDc3M119
 -->
