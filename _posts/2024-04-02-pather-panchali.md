@@ -58,7 +58,7 @@ Harimohan Nag _(doctor)_
 Haridhan Nag _(Chakravarti)_  
 Nibhanoni Devi _(Dasi)_  
 Ksirodh Roy _(priest)_  
-Roma Ganguli _(Roma)_ 
+Roma Ganguli _(Roma)_  
  
 India 1955  
 125 mins  
@@ -125,5 +125,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzMxNjA5OV19
+eyJoaXN0b3J5IjpbLTIwOTQ1MDM0MTldfQ==
 -->
