@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Close Your Eyes
+title: The Art of Seeing<br> The Lifelong Passion of Víctor Erice
 published: true
 date: 2024-03-27
 readtime: true
-categories: ['PREVIEW']
-tags: [Drama]
-metadata: 'Spain 2023, 169 mins<br> Director: Víctor Erice'
+categories: ['OF TIME AND LIGHT<br>THE FILMS OF VÍCTOR ERICE']
+tags: [Talk]
+metadata: 
 pdf: '2024-03-27-art-of-seeing.pdf'
 ---
 Good evening, and thank you for coming along to this talk on the films of Víctor Erice; I hope you find it enjoyable and illuminating. It should last around 90 minutes; around half of that will be devoted to clips. In the programme notes I’ve written for talks in the past, I usually make a point of explaining that I am no expert on the filmmaker in question, merely an enthusiast. This time, I’ll put it differently. While I would certainly hesitate to describe myself as an ‘expert’ on anything – there are too many things of interest for me to devote myself to specialist areas of study – it’s fair to say I may know a little more about Erice and his work than most film writers and programmers. How so? I’ve seen all his films (some of which have been very rarely screened) except for his student work; I’ve watched most of them quite a few times; and I’ve had the rare pleasure and privilege of getting to know their creator a little. Not well – he is, I feel, a fairly private person – but we’ve spent quite a few hours together over the years, admittedly at infrequent intervals, mainly discussing our shared interest in the cinema.
@@ -21,6 +21,46 @@ There is a great deal to say about Erice’s work, and I shall certainly not hav
 **Geoff Andrew**
 
 **Geoff Andrew** is Programmer-at-large for BFI Southbank. Formerly Head of Film Programme for BFI Southbank, he was also film editor of _Time Out_ magazine for many years, and is a regular contributor to _Sight and Sound_. His numerous books on the cinema including studies of Nicholas Ray and the American ‘indie’ filmmakers of the 1980s and ’90s, and BFI Classics monographs on Kieslowski’s _Three Colours Trilogy_ and Kiarostami’s _10_. He is the editor of _Sight and Sound_ anthologies devoted to Jean-Luc Godard, Martin Scorsese, Spike Lee and the New Hollywood of the ’60s and ’70s. He has contributed to many anthologies and DVD extras, lectured widely on the cinema, and served on film festival juries in Cannes, Venice, Istanbul, Turin, Krakow, Morelia, Sarajevo and elsewhere. In 2009 the French government made him a _Chevalier de l’Ordre des Arts et des Lettres._ He writes on film, music and the other arts at geoffandrew.com
+<br>
+
+
+**OF TIME AND LIGHT: THE FILMS OF VÍCTOR ERICE**  
+**The Art of Seeing: The Lifelong Passion of Víctor Erice**  
+Wed 27 Mar 18:00  
+**The Spirit of the Beehive** El espíritu de la colmena  
+Mon 25 Mar 20:45; Thu 28 Mar 14:40; Sat 13 Apr 17:40; Thu 25 Apr 20:50  
+**El sur** The South  
+Tue 26 Mar 18:10; Sun 14 Apr 20:45; Sat 20 Apr 18:30; Tue 30 Apr 20:40  
+**The Quince Tree Sun** El sol de membrillo  
+Thu 28 Mar 18:00; Wed 17 Apr 20:25  
+**Erice-Kiarostami: Correspondences**  
+Sun 31 Mar 12:30; Tue 9 Apr 20:30  
+**Víctor Erice Shorts**  
+Sun 7 Apr 16:00; Mon 22 Apr 20:40  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTQxMDA3XX0=
+eyJoaXN0b3J5IjpbLTIxMTkxMjc0MzRdfQ==
 -->
