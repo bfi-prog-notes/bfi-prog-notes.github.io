@@ -36,197 +36,197 @@ _Your films succeed in hijacking the viewer’s nervous system so completely tha
 It’s not style. You’re getting at the reason why I love making pictures – it’s the intensity of the experience, the power of film to make you dream, to take over your nervous system and sweep you away. It’s because I love being swept away and I love the power of this medium to do that, intellectually and emotionally. But it only works when what things mean and the way they feel are all operating in total harmony. Style just gets you seven minutes of attention, that’s it.
 
 **Michael Mann interviewed by Gavin Smith, _Sight and Sound,_ November 1992**
+<br><br>
 
-<![endif]-->
+**THE LAST OF THE MOHICANS**<br>
 
-**THE LAST OF THE MOHICANS**
-
-_Director:_ Michael Mann
+_Director:_ Michael Mann<br>
 
 _Production Companies:_  
 Twentieth Century Fox Film Corporation,  
-Morgan Creek Productions
+Morgan Creek Productions<br>
 
-_Executive Producer:_ James G. Robinson  
-_Producers:_ Michael Mann, Hunt Lowry
+_Executive Producer:_ James G. Robinson<br>
+_Producers:_ Michael Mann, Hunt Lowry<br>
 
-_Production Associate:_ Bonnie Arnold
+_Production Associate:_ Bonnie Arnold<br>
 
-_Supervising Producer:_ Ned Dowd
+_Supervising Producer:_ Ned Dowd<br>
 
-_Production Accountant:_ Jennifer Freed
+_Production Accountant:_ Jennifer Freed<br>
 
 _Post-production Accountant:_ Doris Hellmann _Production Co-ordinators:_  
-Sondra Dee Boyachek, Judi Rosner
+Sondra Dee Boyachek, Judi Rosner<br>
 
-_2nd Unit Production Co-ordinator:_ Mary Lou Devlin
+_2nd Unit Production Co-ordinator:_ Mary Lou Devlin<br>
 
-_2nd Unit Production Manager:_ Whitney Green
+_2nd Unit Production Manager:_ Whitney Green<br>
 
-_Unit Production Managers:_ Ned Dowd, Ellen Rauch _Location Manager:_ George C. Bosley
+_Unit Production Managers:_ Ned Dowd, Ellen Rauch _Location Manager:_ George C. Bosley<br>
 
-_Location Manager (North Carolina):_ Michael Bigham
+_Location Manager (North Carolina):_ Michael Bigham<br>
 
-_Post-production Supervisor:_ Judith Blume
+_Post-production Supervisor:_ Judith Blume<br>
 
 _2nd Unit Directors:_ Mickey Gilbert,  
-Gusmano Cesaretti
+Gusmano Cesaretti<br>
 
-_1st Assistant Director:_ Michael Waxman
+_1st Assistant Director:_ Michael Waxman<br>
 
-_2nd Assistant Director:_ Daniel Stillman
+_2nd Assistant Director:_ Daniel Stillman<br>
 
-_2nd Unit 2nd Assistant Director:_ Cyndie Williams _Script Supervisor:_ Alan Greedy
+_2nd Unit 2nd Assistant Director:_ Cyndie Williams _Script Supervisor:_ Alan Greedy<br>
 
-_Casting:_ Bonnie Timmermann
+_Casting:_ Bonnie Timmermann<br>
 
-_Casting (London):_ Susie Figgis
+_Casting (London):_ Susie Figgis<br>
 
 _Screenplay:_ Michael Mann, Christopher Crowe _Adaptation:_ John L. Balderston, Paul Perez,  
-Daniel Moore
+Daniel Moore<br>
 
-_Based on the screenplay by:_ Philip Dunne
+_Based on the screenplay by:_ Philip Dunne<br>
 
-_Based on the novel by:_ James Fenimore Cooper _Director of Photography:_ Dante Spinotti
+_Based on the novel by:_ James Fenimore Cooper _Director of Photography:_ Dante Spinotti<br>
 
-_Additional Photography:_ Doug Milsome
+_Additional Photography:_ Doug Milsome<br>
 
-_2nd Unit Director of Photography:_ Jerry G. Callaway
+_2nd Unit Director of Photography:_ Jerry G. Callaway<br>
 
-_Camera Operators:_ Don Reddy, Michael McGowan _Key Grip:_ Chunky Huse
+_Camera Operators:_ Don Reddy, Michael McGowan<br>
+ _Key Grip:_ Chunky Huse<br>
 
-_2nd Unit Key Grip:_ Tom May
+_2nd Unit Key Grip:_ Tom May<br>
 
-_Steadicam Operators:_ Kyle Rudolph, Bob Ulland _Gaffer:_ Daniel Eccleston
+_Steadicam Operators:_ Kyle Rudolph, Bob Ulland _Gaffer:_ Daniel Eccleston<br>
 
-_Stills Photography:_ Frank Connor
+_Stills Photography:_ Frank Connor<br>
 
 _Special Effects Co-ordinators:_ Tom Fisher,  
-Trix Unlimited
+Trix Unlimited<br>
 
-_2nd Unit Special Effects Co-ordinator:_ Henry Millar _Editors:_ Dov Hoenig, Arthur Schmidt
+_2nd Unit Special Effects Co-ordinator:_ Henry Millar _Editors:_ Dov Hoenig, Arthur Schmidt<br>
 
-_Additional Editors:_ Jere Huggins, Wayne Wahrman _Production Designer:_ Wolf Kroeger
+_Additional Editors:_ Jere Huggins, Wayne Wahrman _Production Designer:_ Wolf Kroeger<br>
 
-_Visual Consultants:_ Gusmano Cesaretti, Lee Teter _Art Directors:_ Richard Holland, Robert Guerra
+_Visual Consultants:_ Gusmano Cesaretti, Lee Teter _Art Directors:_ Richard Holland, Robert Guerra<br>
 
-_Set Designers:_ Karl Martin, Masako Masuda
+_Set Designers:_ Karl Martin, Masako Masuda<br>
 
-_Set Decorators:_ Jim Erickson, James V. Kent _Property Masters:_ Ron Downing, Mickey Pugh _Construction Co-ordinator:_ Anthony Lattanzio _Costume Designer:_ Elsa Zamparelli
+_Set Decorators:_ Jim Erickson, James V. Kent _Property Masters:_ Ron Downing, Mickey Pugh _Construction Co-ordinator:_ Anthony Lattanzio _Costume Designer:_ Elsa Zamparelli<br>
 
-_Costume Supervisor:_ Jennifer Butler
+_Costume Supervisor:_ Jennifer Butler<br>
 
-_Military Costume Adviser:_ Richard E. La Motte
+_Military Costume Adviser:_ Richard E. La Motte<br>
 
-_Key Make-up Artist:_ Peter Robb-King
+_Key Make-up Artist:_ Peter Robb-King<br>
 
 _Prosthetic Make-up Artists:_ Evan Campbell, Nicholas Dudman, Vincent Guastini,
 
-Christopher Johnson, Neal B. Kelly, Joe Macchia
+Christopher Johnson, Neal B. Kelly, Joe Macchia<br>
 
-_Music:_ Trevor Jones, Randy Edelman
+_Music:_ Trevor Jones, Randy Edelman<br>
 
-_Additional Music:_ Daniel Lanois
+_Additional Music:_ Daniel Lanois<br>
 
-_Sound Design/Supervision:_ Lon E. Bender
+_Sound Design/Supervision:_ Lon E. Bender<br>
 
-_Sound Mixer:_ Simon Kaye
+_Sound Mixer:_ Simon Kaye<br>
 
-_Re-recording Mixers:_ Paul Massey, Doug Hemphill, Mark Smith, Chris Jenkins
+_Re-recording Mixers:_ Paul Massey, Doug Hemphill, Mark Smith, Chris Jenkins<br>
 
-_Sound Effects Supervisor:_ Larry Kemp
+_Sound Effects Supervisor:_ Larry Kemp<br>
 
-_Military Technical Adviser:_ Captain Dale Dye
+_Military Technical Adviser:_ Captain Dale Dye<br>
 
-_Stunt Co-ordinator:_ Mickey Gilbert
+_Stunt Co-ordinator:_ Mickey Gilbert<br>
 
-_Cast:_
+_Cast:_<br>
 
-Daniel Day-Lewis _(Hawkeye)_
+Daniel Day-Lewis _(Hawkeye)_<br>
 
-Madeleine Stowe _(Cora Munro)_
+Madeleine Stowe _(Cora Munro)_<br>
 
-Russell Means _(Chingachgook)_
+Russell Means _(Chingachgook)_<br>
 
-Eric Schweig _(Uncas)_
+Eric Schweig _(Uncas)_<br>
 
-Jodhi May _(Alice Munro)_
+Jodhi May _(Alice Munro)_<br>
 
-Steven Waddington _(Major Duncan Heyward)_
+Steven Waddington _(Major Duncan Heyward)_<br>
 
-Wes Studi _(Magua)_
+Wes Studi _(Magua)_<br>
 
-Maurice Roëves _(Colonel Edmund Munro)_
+Maurice Roëves _(Colonel Edmund Munro)_<br>
 
-Patrice Chéreau _(General Montcalm)_
+Patrice Chéreau _(General Montcalm)_<br>
 
-Edward Blatchford _(Jack Winthrop)_
+Edward Blatchford _(Jack Winthrop)_<br>
 
-Terry Kinney _(John Cameron)_
+Terry Kinney _(John Cameron)_<br>
 
-Tracey Ellis _(Alexandra Cameron)_
+Tracey Ellis _(Alexandra Cameron)_<br>
 
-Justin M. Rice _(James Cameron)_
+Justin M. Rice _(James Cameron)_<br>
 
-Dennis J. Banks _(Ongewasgone)_
+Dennis J. Banks _(Ongewasgone)_<br>
 
-Pete Postlethwaite _(Captain Beams)_
+Pete Postlethwaite _(Captain Beams)_<br>
 
-Colm Meaney _(Major Ambrose)_
+Colm Meaney _(Major Ambrose)_<br>
 
-Mac Andrews _(General Webb)_
+Mac Andrews _(General Webb)_<br>
 
-Malcolm Storry _(Phelps)_
+Malcolm Storry _(Phelps)_<br>
 
-David Schofield _(sergeant major)_
+David Schofield _(sergeant major)_<br>
 
-Eric D. Sandgren _(Coureur de Bois)_
+Eric D. Sandgren _(Coureur de Bois)_<br>
 
-Mike Phillips _(Sachem)_
+Mike Phillips _(Sachem)_<br>
 
-Mark A. Baker _(colonial man)_
+Mark A. Baker _(colonial man)_<br>
 
-Dylan Baker _(Bougainville)_
+Dylan Baker _(Bougainville)_<br>
 
-Tim Hopper _(Ian)_
+Tim Hopper _(Ian)_<br>
 
-Gregory Zaragoza _(Abenaki chief)_
+Gregory Zaragoza _(Abenaki chief)_<br>
 
-Scott Means _(Abenaki warrior)_
+Scott Means _(Abenaki warrior)_<br>
 
-William J. Bozic Jr _(French artillery officer)_
+William J. Bozic Jr _(French artillery officer)_<br>
 
-Patrick Fitzgerald _(Webb’s adjutant)_
+Patrick Fitzgerald _(Webb’s adjutant)_<br>
 
-Mark Joy _(Henri)_
+Mark Joy _(Henri)_<br>
 
-Steve Keator _(colonial representative)_
+Steve Keator _(colonial representative)_<br>
 
-Don Tilley _(colonial 1)_
+Don Tilley _(colonial 1)_<br>
 
-Thomas E. Cummings _(colonial 2)_
+Thomas E. Cummings _(colonial 2)_<br>
 
-David Mark Farrow _(guard)_
+David Mark Farrow _(guard)_<br>
 
-Ethan James Fugate _(French sappeur)_
+Ethan James Fugate _(French sappeur)_<br>
 
-F. Curtis Gaston _(soldier 1)_
+F. Curtis Gaston _(soldier 1)_<br>
 
-Eric A. Hurley _(soldier 2)_
+Eric A. Hurley _(soldier 2)_<br>
 
-Jared Harris _(British lieutenant)_
+Jared Harris _(British lieutenant)_<br>
 
-Michael McConnell _(sentry)_
+Michael McConnell _(sentry)_<br>
 
-Thomas John McGowan _(rich merchant)_
+Thomas John McGowan _(rich merchant)_<br>
 
-Alice Papineau _(Huron woman)_
+Alice Papineau _(Huron woman)_<br>
 
-Mark J. Maracle _(Sharitarish)_
+Mark J. Maracle _(Sharitarish)_<br>
 
-Clark Heathcliffe _(regimental sergeant major)_
+Clark Heathcliffe _(regimental sergeant major)_<br>
 
-Sebastian Roché _(Martin)_
+Sebastian Roché _(Martin)_<br>
 
 Joe Finnegan _(redcoat 2)_
 
@@ -238,5 +238,5 @@ USA 1992©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NDQwNTU3XX0=
+eyJoaXN0b3J5IjpbMTM3ODEzNTMzNF19
 -->
