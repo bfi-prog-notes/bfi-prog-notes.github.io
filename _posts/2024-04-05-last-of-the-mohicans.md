@@ -75,125 +75,71 @@ _Steadicam Operators:_ Kyle Rudolph, Bob Ulland<br>
 _Gaffer:_ Daniel Eccleston<br>
 _Stills Photography:_ Frank Connor<br>
 _Special Effects Co-ordinators:_ Tom Fisher,  Trix Unlimited<br>
-
-_2nd Unit Special Effects Co-ordinator:_ Henry Millar _Editors:_ Dov Hoenig, Arthur Schmidt<br>
-
-_Additional Editors:_ Jere Huggins, Wayne Wahrman _Production Designer:_ Wolf Kroeger<br>
-
-_Visual Consultants:_ Gusmano Cesaretti, Lee Teter _Art Directors:_ Richard Holland, Robert Guerra<br>
-
+_2nd Unit Special Effects Co-ordinator:_ Henry Millar<br>
+_Editors:_ Dov Hoenig, Arthur Schmidt<br>
+_Additional Editors:_ Jere Huggins, Wayne Wahrman<br>
+_Production Designer:_ Wolf Kroeger<br>
+_Visual Consultants:_ Gusmano Cesaretti, Lee Teter<br>
+_Art Directors:_ Richard Holland, Robert Guerra<br>
 _Set Designers:_ Karl Martin, Masako Masuda<br>
-
-_Set Decorators:_ Jim Erickson, James V. Kent _Property Masters:_ Ron Downing, Mickey Pugh _Construction Co-ordinator:_ Anthony Lattanzio _Costume Designer:_ Elsa Zamparelli<br>
-
+_Set Decorators:_ Jim Erickson, James V. Kent<br>
+_Property Masters:_ Ron Downing, Mickey Pugh<br>
+_Construction Co-ordinator:_ Anthony Lattanzio<br>
+_Costume Designer:_ Elsa Zamparelli<br>
 _Costume Supervisor:_ Jennifer Butler<br>
-
 _Military Costume Adviser:_ Richard E. La Motte<br>
-
 _Key Make-up Artist:_ Peter Robb-King<br>
-
-_Prosthetic Make-up Artists:_ Evan Campbell, Nicholas Dudman, Vincent Guastini,
-
-Christopher Johnson, Neal B. Kelly, Joe Macchia<br>
-
+_Prosthetic Make-up Artists:_ Evan Campbell, Nicholas Dudman, Vincent Guastini, Christopher Johnson, Neal B. Kelly, Joe Macchia<br>
 _Music:_ Trevor Jones, Randy Edelman<br>
-
 _Additional Music:_ Daniel Lanois<br>
-
 _Sound Design/Supervision:_ Lon E. Bender<br>
-
 _Sound Mixer:_ Simon Kaye<br>
-
 _Re-recording Mixers:_ Paul Massey, Doug Hemphill, Mark Smith, Chris Jenkins<br>
-
 _Sound Effects Supervisor:_ Larry Kemp<br>
-
 _Military Technical Adviser:_ Captain Dale Dye<br>
-
 _Stunt Co-ordinator:_ Mickey Gilbert<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Daniel Day-Lewis _(Hawkeye)_<br>
-
 Madeleine Stowe _(Cora Munro)_<br>
-
 Russell Means _(Chingachgook)_<br>
-
 Eric Schweig _(Uncas)_<br>
-
 Jodhi May _(Alice Munro)_<br>
-
 Steven Waddington _(Major Duncan Heyward)_<br>
-
 Wes Studi _(Magua)_<br>
-
 Maurice Roëves _(Colonel Edmund Munro)_<br>
-
 Patrice Chéreau _(General Montcalm)_<br>
-
 Edward Blatchford _(Jack Winthrop)_<br>
-
 Terry Kinney _(John Cameron)_<br>
-
 Tracey Ellis _(Alexandra Cameron)_<br>
-
 Justin M. Rice _(James Cameron)_<br>
-
 Dennis J. Banks _(Ongewasgone)_<br>
-
 Pete Postlethwaite _(Captain Beams)_<br>
-
 Colm Meaney _(Major Ambrose)_<br>
-
 Mac Andrews _(General Webb)_<br>
-
 Malcolm Storry _(Phelps)_<br>
-
 David Schofield _(sergeant major)_<br>
-
 Eric D. Sandgren _(Coureur de Bois)_<br>
-
 Mike Phillips _(Sachem)_<br>
-
 Mark A. Baker _(colonial man)_<br>
-
 Dylan Baker _(Bougainville)_<br>
-
 Tim Hopper _(Ian)_<br>
-
 Gregory Zaragoza _(Abenaki chief)_<br>
-
 Scott Means _(Abenaki warrior)_<br>
-
 William J. Bozic Jr _(French artillery officer)_<br>
-
 Patrick Fitzgerald _(Webb’s adjutant)_<br>
-
 Mark Joy _(Henri)_<br>
-
 Steve Keator _(colonial representative)_<br>
-
 Don Tilley _(colonial 1)_<br>
-
 Thomas E. Cummings _(colonial 2)_<br>
-
 David Mark Farrow _(guard)_<br>
-
 Ethan James Fugate _(French sappeur)_<br>
-
 F. Curtis Gaston _(soldier 1)_<br>
-
 Eric A. Hurley _(soldier 2)_<br>
-
 Jared Harris _(British lieutenant)_<br>
-
 Michael McConnell _(sentry)_<br>
-
 Thomas John McGowan _(rich merchant)_<br>
-
 Alice Papineau _(Huron woman)_<br>
-
 Mark J. Maracle _(Sharitarish)_<br>
 
 Clark Heathcliffe _(regimental sergeant major)_<br>
@@ -211,5 +157,5 @@ USA 1992©<br>
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mjg5MjczMl19
+eyJoaXN0b3J5IjpbMjEyMjY0MTgxNl19
 -->
