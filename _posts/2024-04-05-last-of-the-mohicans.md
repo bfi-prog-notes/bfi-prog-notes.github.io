@@ -141,21 +141,15 @@ Michael McConnell _(sentry)_<br>
 Thomas John McGowan _(rich merchant)_<br>
 Alice Papineau _(Huron woman)_<br>
 Mark J. Maracle _(Sharitarish)_<br>
-
 Clark Heathcliffe _(regimental sergeant major)_<br>
-
 Sebastian Roché _(Martin)_<br>
-
 Joe Finnegan _(redcoat 2)_<br>
-
 Sheila Adams Barnhill _(humming woman)_<br>
 
 USA 1992©<br>
-
 115 mins<br>
-
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjY0MTgxNl19
+eyJoaXN0b3J5IjpbLTE5OTI3MzkwNTZdfQ==
 -->
