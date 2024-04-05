@@ -39,70 +39,42 @@ It’s not style. You’re getting at the reason why I love making pictures – 
 <br><br>
 
 **THE LAST OF THE MOHICANS**<br>
-
 _Director:_ Michael Mann<br>
-
-_Production Companies:_  
-Twentieth Century Fox Film Corporation,  
-Morgan Creek Productions<br>
-
+_Production Companies:_  Twentieth Century Fox Film Corporation,  Morgan Creek Productions<br>
 _Executive Producer:_ James G. Robinson<br>
 _Producers:_ Michael Mann, Hunt Lowry<br>
-
 _Production Associate:_ Bonnie Arnold<br>
-
 _Supervising Producer:_ Ned Dowd<br>
-
 _Production Accountant:_ Jennifer Freed<br>
-
-_Post-production Accountant:_ Doris Hellmann _Production Co-ordinators:_  
-Sondra Dee Boyachek, Judi Rosner<br>
-
+_Post-production Accountant:_ Doris Hellmann<br>
+_Production Co-ordinators:_ Sondra Dee Boyachek, Judi Rosner<br>
 _2nd Unit Production Co-ordinator:_ Mary Lou Devlin<br>
-
 _2nd Unit Production Manager:_ Whitney Green<br>
-
-_Unit Production Managers:_ Ned Dowd, Ellen Rauch _Location Manager:_ George C. Bosley<br>
-
+_Unit Production Managers:_ Ned Dowd, Ellen Rauch<br>
+_Location Manager:_ George C. Bosley<br>
 _Location Manager (North Carolina):_ Michael Bigham<br>
-
 _Post-production Supervisor:_ Judith Blume<br>
-
-_2nd Unit Directors:_ Mickey Gilbert,  
-Gusmano Cesaretti<br>
-
+_2nd Unit Directors:_ Mickey Gilbert,  Gusmano Cesaretti<br>
 _1st Assistant Director:_ Michael Waxman<br>
-
 _2nd Assistant Director:_ Daniel Stillman<br>
-
-_2nd Unit 2nd Assistant Director:_ Cyndie Williams _Script Supervisor:_ Alan Greedy<br>
-
+_2nd Unit 2nd Assistant Director:_ Cyndie Williams<br>
+_Script Supervisor:_ Alan Greedy<br>
 _Casting:_ Bonnie Timmermann<br>
-
 _Casting (London):_ Susie Figgis<br>
-
-_Screenplay:_ Michael Mann, Christopher Crowe _Adaptation:_ John L. Balderston, Paul Perez,  
-Daniel Moore<br>
-
+_Screenplay:_ Michael Mann, Christopher Crowe<br>
+_Adaptation:_ John L. Balderston, Paul Perez,  Daniel Moore<br>
 _Based on the screenplay by:_ Philip Dunne<br>
-
-_Based on the novel by:_ James Fenimore Cooper _Director of Photography:_ Dante Spinotti<br>
-
+_Based on the novel by:_ James Fenimore Cooper<br>
+_Director of Photography:_ Dante Spinotti<br>
 _Additional Photography:_ Doug Milsome<br>
-
 _2nd Unit Director of Photography:_ Jerry G. Callaway<br>
-
 _Camera Operators:_ Don Reddy, Michael McGowan<br>
  _Key Grip:_ Chunky Huse<br>
-
 _2nd Unit Key Grip:_ Tom May<br>
-
-_Steadicam Operators:_ Kyle Rudolph, Bob Ulland _Gaffer:_ Daniel Eccleston<br>
-
+_Steadicam Operators:_ Kyle Rudolph, Bob Ulland<br>
+_Gaffer:_ Daniel Eccleston<br>
 _Stills Photography:_ Frank Connor<br>
-
-_Special Effects Co-ordinators:_ Tom Fisher,  
-Trix Unlimited<br>
+_Special Effects Co-ordinators:_ Tom Fisher,  Trix Unlimited<br>
 
 _2nd Unit Special Effects Co-ordinator:_ Henry Millar _Editors:_ Dov Hoenig, Arthur Schmidt<br>
 
@@ -228,15 +200,16 @@ Clark Heathcliffe _(regimental sergeant major)_<br>
 
 Sebastian Roché _(Martin)_<br>
 
-Joe Finnegan _(redcoat 2)_
+Joe Finnegan _(redcoat 2)_<br>
 
-Sheila Adams Barnhill _(humming woman)_
+Sheila Adams Barnhill _(humming woman)_<br>
 
-USA 1992©
+USA 1992©<br>
 
-115 mins
+115 mins<br>
 
-Digital
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODEzNTMzNF19
+eyJoaXN0b3J5IjpbLTc3Mjg5MjczMl19
 -->
