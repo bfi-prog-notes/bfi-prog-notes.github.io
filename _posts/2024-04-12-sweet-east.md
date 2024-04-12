@@ -17,66 +17,55 @@ Still, if you put aside its politics and submit to the sheer scale of the thing 
 **Inspirations**  
 More than most movies, _The Sweet East_ is rooted in deep cinephilia. Here are three of the films to which it is most heavily indebted.
 
-**Dyn Amo** **(1972)  
-**Nominally based on a stage play, Stephen Dwoskin’s _Dyn Amo_ begins with a striptease performed by Jenny Runacre, at first indifferently, but then, as the camera closes in on her face, and the music – a Phil Spector production, ‘Zip-a-Dee-Doo-Dah’ – starts to loop and distort, with special intensity, as she returns the spectator’s gaze. The Brooklyn-born Dwoskin was one of London’s leading underground filmmakers, and he shot _Dyn Amo_, his second feature, in a real Soho strip club. The film culminates in a remarkable, sustained turn by Linda Marlowe which forces the viewer to question where character begins and actress leaves off; feminist critics at the time saw the film as laying bare the normally suppressed mechanisms of cinematic voyeurism. Like all Dwoskin’s early 1970s films, _Dyn Amo_ has an outstanding score by minimalist composer Gavin Bryars.
+**Dyn Amo (1972)**  
+Nominally based on a stage play, Stephen Dwoskin’s _Dyn Amo_ begins with a striptease performed by Jenny Runacre, at first indifferently, but then, as the camera closes in on her face, and the music – a Phil Spector production, ‘Zip-a-Dee-Doo-Dah’ – starts to loop and distort, with special intensity, as she returns the spectator’s gaze. The Brooklyn-born Dwoskin was one of London’s leading underground filmmakers, and he shot _Dyn Amo_, his second feature, in a real Soho strip club. The film culminates in a remarkable, sustained turn by Linda Marlowe which forces the viewer to question where character begins and actress leaves off; feminist critics at the time saw the film as laying bare the normally suppressed mechanisms of cinematic voyeurism. Like all Dwoskin’s early 1970s films, _Dyn Amo_ has an outstanding score by minimalist composer Gavin Bryars.
 
-**O Lucky Man! (1973)  
-**Lindsay Anderson’s prominence as a critic and commentator made it difficult for British reviewers to see his films in isolation from his forthrightly expressed views, but it is never wise to look to artists for political answers, and _O Lucky Man!_ is a portrait of Britain that has survived the passing of the political context in which it was made. Malcolm McDowell plays a sales rep for a coffee manufacturer, whose tour of duty in the north-east of England turns into a nightmare, before he is rescued by a touring band led by Alan Price, formerly of the Animals, plus a hanger-on played by Helen Mirren. Price’s songs for the film are shown being performed in the studio, an idea inspired by Bertolt Brecht’s 1939 play _Mother Courage and Her Children_. _The Sweet East_ borrows a piano cue used for the band’s arrival in London (and not included on the soundtrack album) to mark Lillian and Lawrence’s arrival in New York.
+**O Lucky Man! (1973)**  
+Lindsay Anderson’s prominence as a critic and commentator made it difficult for British reviewers to see his films in isolation from his forthrightly expressed views, but it is never wise to look to artists for political answers, and _O Lucky Man!_ is a portrait of Britain that has survived the passing of the political context in which it was made. Malcolm McDowell plays a sales rep for a coffee manufacturer, whose tour of duty in the north-east of England turns into a nightmare, before he is rescued by a touring band led by Alan Price, formerly of the Animals, plus a hanger-on played by Helen Mirren. Price’s songs for the film are shown being performed in the studio, an idea inspired by Bertolt Brecht’s 1939 play _Mother Courage and Her Children_. _The Sweet East_ borrows a piano cue used for the band’s arrival in London (and not included on the soundtrack album) to mark Lillian and Lawrence’s arrival in New York.
 
-**Edgar Allen Poe (1909)  
-**For many years it was common to credit D.W. Griffith with the invention of the close-up, but before he introduced it into his toolkit he directed this misspelled mini-biopic. One of more than a hundred films that Griffith made in 1909, it is a half-reeler consisting of four scenes in three settings, done in five shots, showing Poe tending to his sick wife Virginia, being inspired to write ‘The Raven’, pitching it to publishers, first unsuccessfully then successfully, and then returning home, proceeds in hand, to find that Virginia has died. In _The Sweet East_ Lawrence shows it to Lillian, who is ‘just glad they figured out how to make movies less boring than this’, but Griffith is one of the film’s presiding spirits. The name Lillian echoes that of Lillian Gish, whose many starring roles for Griffith include _Way Down East_ (1920), evoked not only in _The Sweet East_’s title but in one of Lillian’s escapes.
+**Edgar Allen Poe (1909)**  
+For many years it was common to credit D.W. Griffith with the invention of the close-up, but before he introduced it into his toolkit he directed this misspelled mini-biopic. One of more than a hundred films that Griffith made in 1909, it is a half-reeler consisting of four scenes in three settings, done in five shots, showing Poe tending to his sick wife Virginia, being inspired to write ‘The Raven’, pitching it to publishers, first unsuccessfully then successfully, and then returning home, proceeds in hand, to find that Virginia has died. In _The Sweet East_ Lawrence shows it to Lillian, who is ‘just glad they figured out how to make movies less boring than this’, but Griffith is one of the film’s presiding spirits. The name Lillian echoes that of Lillian Gish, whose many starring roles for Griffith include _Way Down East_ (1920), evoked not only in _The Sweet East_’s title but in one of Lillian’s escapes.
 
-Henry K. Miller, _Sight and Sound_, April 2024
+**Henry K. Miller, _Sight and Sound_, April 2024**
+<br><br>
 
-<![endif]-->
+**THE SWEET EAST**<br>
+_Director:_ Sean Price Williams<br>
+_Production Company:_ Base 12<br>
+_Presented by:_ Utopia, Marathon Street<br>
+_Executive Producers:_ Jimmy Kaltreider,  David Kaplan<br>
+_Produced by:_ Craig Butta, Alex Coco,  Alex Ross Perry<br>
+_Written by:_ Nick Pinkerton<br>
+_Director of Photography:_ Sean Price Williams<br>
+_Editor:_ Stephen Gurewitz<br>
+_Production Design:_ Madeline Sadowski<br>
 
-**THE SWEET EAST**
+_Costume Design:_ Jocelyn Pierce<br>
 
-_Director:_ Sean Price Williams
+_Cast:_<br>
 
-_Production Company:_ Base 12
+Talia Ryder _(Lillian)_<br>
 
-_Presented by:_ Utopia, Marathon Street
+Earl Cave _(Caleb)_<br>
 
-_Executive Producers:_ Jimmy Kaltreider,  
-David Kaplan
+Simon Rex _(Lawrence)_<br>
 
-_Produced by:_ Craig Butta, Alex Coco,  
-Alex Ross Perry
+Ayo Edebiri _(Molly)_<br>
 
-_Written by:_ Nick Pinkerton
+Jeremy O. Harris _(Matthew)_<br>
 
-_Director of Photography:_ Sean Price Williams
+Jacob Elordi _(Ian)_<br>
 
-_Editor:_ Stephen Gurewitz
+Rish Shah _(Mohammad)_<br>
 
-_Production Design:_ Madeline Sadowski
+USA 2023<br>
 
-_Costume Design:_ Jocelyn Pierce
+104 mins<br>
 
-_Cast:_
+Digital<br>
 
-Talia Ryder _(Lillian)_
-
-Earl Cave _(Caleb)_
-
-Simon Rex _(Lawrence)_
-
-Ayo Edebiri _(Molly)_
-
-Jeremy O. Harris _(Matthew)_
-
-Jacob Elordi _(Ian)_
-
-Rish Shah _(Mohammad)_
-
-USA 2023
-
-104 mins
-
-Digital
-
-A Utopia Distribution release
+A Utopia Distribution release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzI3MTkwM119
+eyJoaXN0b3J5IjpbMTc4MzkwMzc0Ml19
 -->
