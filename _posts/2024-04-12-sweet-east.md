@@ -39,33 +39,23 @@ _Written by:_ Nick Pinkerton<br>
 _Director of Photography:_ Sean Price Williams<br>
 _Editor:_ Stephen Gurewitz<br>
 _Production Design:_ Madeline Sadowski<br>
-
 _Costume Design:_ Jocelyn Pierce<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Talia Ryder _(Lillian)_<br>
-
 Earl Cave _(Caleb)_<br>
-
 Simon Rex _(Lawrence)_<br>
-
 Ayo Edebiri _(Molly)_<br>
-
 Jeremy O. Harris _(Matthew)_<br>
-
 Jacob Elordi _(Ian)_<br>
-
 Rish Shah _(Mohammad)_<br>
 
 USA 2023<br>
-
 104 mins<br>
-
 Digital<br>
 
 A Utopia Distribution release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkwMzc0Ml19
+eyJoaXN0b3J5IjpbMTcyMDcxNDIyNl19
 -->
