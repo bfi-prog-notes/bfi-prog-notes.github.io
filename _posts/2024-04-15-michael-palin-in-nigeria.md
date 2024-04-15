@@ -20,56 +20,34 @@ A book to accompany the series will publish next year.
 <br><br>
 
 **MICHAEL PALIN IN NIGERIA**<br>
+_Series Producer and Director:_ Neil Ferguson<br>
+_Channel 5 Commissioning Editor:_ Guy Davies<br>
+_Executive Producer:_ Will Smith<br>
+_Head of Production:_ Nicki Purcell<br>
+_Assistant Producer:_ Segilola Arisekola<br>
+_Production Managers:_ Hazel Graham,  Charlotte Robb<br>
+_Junior Production Coordinator:_ Abi Cook<br>
+_Post Production Facility:_ ITN Post<br>
+_Director of Photography:_ Jaimie Gramston<br>
+_Camera and Drone Operator:_ Ben Crossley<br>
+_Film Editor:_ Eddie Haselden<br>
+_Assistant Film Editor:_ Larry Molloy<br>
+_Fixers:_ Chriss Nwobu, Mohammad Adamu<br>
+_Consultant:_ Noo Sara-Wiwa<br>
+_Graphics:_ UF6<br>
+_Colourist:_ Boyd Nagle<br>
+_Composer:_ Miguel D’Oliveira<br>
+_Sound Recordist:_ Joe Morsman<br>
+_Dubbing Mixer:_ Jez Spencer<br>
 
-_Series Producer and Director:_ Neil Fergusonv
-
-_Channel 5 Commissioning Editor:_ Guy Davies
-
-_Executive Producer:_ Will Smith
-
-_Head of Production:_ Nicki Purcell
-
-_Assistant Producer:_ Segilola Arisekola
-
-_Production Managers:_ Hazel Graham,  
-Charlotte Robb
-
-_Junior Production Coordinator:_ Abi Cook
-
-_Post Production Facility:_ ITN Post
-
-_Director of Photography:_ Jaimie Gramston
-
-_Camera and Drone Operator:_ Ben Crossley
-
-_Film Editor:_ Eddie Haselden
-
-_Assistant Film Editor:_ Larry Molloy
-
-_Fixers:_ Chriss Nwobu, Mohammad Adamu
-
-_Consultant:_ Noo Sara-Wiwa
-
-_Graphics:_ UF6
-
-_Colourist:_ Boyd Nagle
-
-_Composer:_ Miguel D’Oliveira
-
-_Sound Recordist:_ Joe Morsman
-
-_Dubbing Mixer:_ Jez Spencer
-
-UK 2024
-
-Episode 1 45 mins
-
-Channel 5/ITN Productions
+UK 2024<br>
+Episode 1 45 mins<br>
+Channel 5/ITN Productions<br>
 
 Total running time: 100 mins
 
-Available on Channel 5 and My5 from  
-Tuesday 16 April, 9pm
+Available on Channel 5 and My5 from Tuesday 16 April, 9pm<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc2MTM0MTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDEwNDQ4NjBdfQ==
 -->
