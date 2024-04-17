@@ -24,188 +24,151 @@ Among the major characters the film owes much to the sincerity of John Mills in 
 <br><br>
 
 **GREAT EXPECTATIONS**<br>
-
 _Director:_ David Lean<br>
-
-_Production Companies:_ Cineguild,  
-Independent Producers<br>
-
+_Production Companies:_ Cineguild,  Independent Producers<br>
 _Executive Producer:_ Anthony Havelock-Allan<br>
-
 _Producer:_ Ronald Neame<br>
-
 _Production Manager:_ Norman Spencer<br>
-
 _2nd Unit Directors:_ Stanley Haynes, Roy Kellino<br>
-
 _Assistant Director:_ George Pollock<br>
-
 _Continuity:_ Margaret Sibley<br>
+_Adapted for the Screen by:_ David Lean,  Ronald Neame, Anthony Havelock-Allan<br>
+_Based on the novel by:_ Charles Dickens<br>
+_Director of Photography:_ Guy Green<br>
+_Camera Operator:_ Nigel Huke<br>
+_Editor:_ Jack Harris<br>
+_Production Designer:_ John Bryan<br>
+_Art Director:_ Wilfred Shingleton<br>
+_Draughtsmen:_ T. Hopewell Ash, Bill Holmes<br>
+_Costume Designer:_ Sophia Harris of Motley<br>
+_Music Composed/Conducted by:_ Walter Goehr<br>
+_With:_ The National Symphony Orchestra<br>
+_Dances Arranged by:_ Suria Magito<br>
+_Sound Recording:_ Stanley Lambourne,  Gordon K. McCallum<br>
+_Sound Editor:_ Winston Ryder<br>
+_Studio:_ Denham Studios<br>
 
-_Adapted for the Screen by:_ David Lean,  
-Ronald Neame, Anthony Havelock-Allan
+_uncredited_<br>
+_Location Manager:_ John Alderson<br>
+_2nd Assistant Director:_ Philip Shipway<br>
+_3rd Assistant Director:_ Chick Simpson<br>
+_2nd Unit 1st Assistant Director:_ Victor Wark<br>
+_2nd Unit Continuity:_ Yvonne Axworthy<br>
+_Adapted for the Screen With:_ Kay Walsh,  Cecil McGivern<br>
+_Director of Photography - Started:_ Robert Krasker<br>
+_2nd Unit Director of Photography:_ Ernest Steward<br>
+_2nd Unit Camera Operator:_ Arthur Ibbetson<br>
+_2nd Camera Operator:_ Skeets Kelly<br>
+_2nd Unit 2nd Camera Operator:_ Alan Hume<br>
 
-_Based on the novel by:_ Charles Dickens
+_Focus Puller:_ John Howard Godar<br>
 
-_Director of Photography:_ Guy Green
+_Clapper/Loaders:_ Henry Slagter, Tony Hermes<br>
 
-_Camera Operator:_ Nigel Huke
+_Stills:_ Cyril Stanborough<br>
 
-_Editor:_ Jack Harris
+_Back Projection:_ Sid Howell<br>
 
-_Production Designer:_ John Bryan
+_Models:_ Douglas Woolsey<br>
 
-_Art Director:_ Wilfred Shingleton
+_Assistant Editor:_ Marjorie Saunders<br>
 
-_Draughtsmen:_ T. Hopewell Ash, Bill Holmes
+_2nd Assistant Editor:_ John Cook<br>
 
-_Costume Designer:_ Sophia Harris of Motley
+_Assistant Art Director:_ John Elphick<br>
 
-_Music Composed/Conducted by:_ Walter Goehr
+_Production Buyer:_ Frank Hobbs<br>
 
-_With:_ The National Symphony Orchestra
+_Costume Designer Assisted by:_ Margaret Furse<br>
 
-_Dances Arranged by:_ Suria Magito
+_Make-up:_ Ernie Gasser<br>
 
-_Sound Recording:_ Stanley Lambourne,  
-Gordon K. McCallum
+_Production Mixers:_ C.C. Stevens, John Dennis<br>
 
-_Sound Editor:_ Winston Ryder
-
-_Studio:_ Denham Studios
-
-_uncredited_
-
-_Location Manager:_ John Alderson
-
-_2nd Assistant Director:_ Philip Shipway
-
-_3rd Assistant Director:_ Chick Simpson
-
-_2nd Unit 1st Assistant Director:_ Victor Wark
-
-_2nd Unit Continuity:_ Yvonne Axworthy
-
-_Adapted for the Screen With:_ Kay Walsh,  
-Cecil McGivern
-
-_Director of Photography - Started:_ Robert Krasker
-
-_2nd Unit Director of Photography:_ Ernest Steward
-
-_2nd Unit Camera Operator:_ Arthur Ibbetson
-
-_2nd Camera Operator:_ Skeets Kelly
-
-_2nd Unit 2nd Camera Operator:_ Alan Hume
-
-_Focus Puller:_ John Howard Godar
-
-_Clapper/Loaders:_ Henry Slagter, Tony Hermes
-
-_Stills:_ Cyril Stanborough
-
-_Back Projection:_ Sid Howell
-
-_Models:_ Douglas Woolsey
-
-_Assistant Editor:_ Marjorie Saunders
-
-_2nd Assistant Editor:_ John Cook
-
-_Assistant Art Director:_ John Elphick
-
-_Production Buyer:_ Frank Hobbs
-
-_Costume Designer Assisted by:_ Margaret Furse
-
-_Make-up:_ Ernie Gasser
-
-_Production Mixers:_ C.C. Stevens, John Dennis
-
-_Music Sound Camera:_ Peter T. Davies
+_Music Sound Camera:_ Peter T. Davies<br>
 
 _Sound Camera Operators:_ Fred Goodes,  
-Harold Rowland
+Harold Rowland<br>
 
-_Boom Operator:_ George Paternoster
+_Boom Operator:_ George Paternoster<br>
 
-_Boom Assistant:_ Mick Stolovich
+_Boom Assistant:_ Mick Stolovich<br>
 
 _Maintenance Engineers:_ Jack Rossiter,  
-Charles Knott
+Charles Knott<br>
 
-_Dubbing Crew:_ J.B. Smith, Bill Daniels, John Hood
+_Dubbing Crew:_ J.B. Smith, Bill Daniels, John Hood<br>
 
-_Assistant Sound Editor:_ Jack Slade
+_Assistant Sound Editor:_ Jack Slade<br>
 
-_Sound Effects Recording:_ John W. Mitchell
+_Sound Effects Recording:_ John W. Mitchell<br>
 
-_Studio:_ Pinewood Studios
+_Studio:_ Pinewood Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-John Mills _(Philip Pirrip, ‘Pip’)_
+John Mills _(Philip Pirrip, ‘Pip’)_<br>
 
-Anthony Wager _(Pip as a boy)_
+Anthony Wager _(Pip as a boy)_<br>
 
-Valerie Hobson _(Estella)_
+Valerie Hobson _(Estella)_<br>
 
-Jean Simmons _(Estella as a girl)_
+Jean Simmons _(Estella as a girl)_<br>
 
-Bernard Miles _(Joe Gargery)_
+Bernard Miles _(Joe Gargery)_<br>
 
-Francis L. Sullivan _(Mr Jaggers)_
+Francis L. Sullivan _(Mr Jaggers)_<br>
 
-Finlay Currie _(Abel Magwitch)_
+Finlay Currie _(Abel Magwitch)_<br>
 
-Martita Hunt _(Miss Havisham)_
+Martita Hunt _(Miss Havisham)_<br>
 
-Alec Guinness _(Herbert Pocket)_
+Alec Guinness _(Herbert Pocket)_<br>
 
-Ivor Barnard _(Mr Wemmick)_
+Ivor Barnard _(Mr Wemmick)_<br>
 
-Freda Jackson _(Mrs Joe Gargery)_
+Freda Jackson _(Mrs Joe Gargery)_<br>
 
-Eileen Erskine _(Biddy)_
+Eileen Erskine _(Biddy)_<br>
 
-George Hayes _(Compeyson, the convict)_
+George Hayes _(Compeyson, the convict)_<br>
 
-Hay Petrie _(Uncle Pomblechook)_
+Hay Petrie _(Uncle Pomblechook)_<br>
 
-John Forrest _(pale young gentleman)_
+John Forrest _(pale young gentleman)_<br>
 
-Torin Thatcher _(Bentley Drummle)_
+Torin Thatcher _(Bentley Drummle)_<br>
 
-O.B. Clarence _(aged parent)_
+O.B. Clarence _(aged parent)_<br>
 
-John Burch _(Mr Wopsle)_
+John Burch _(Mr Wopsle)_<br>
 
-Richard George _(The Sergeant)_
+Richard George _(The Sergeant)_<br>
 
-Grace Denbeigh-Russell _(Mrs Wopsle)_
+Grace Denbeigh-Russell _(Mrs Wopsle)_<br>
 
-Everley Gregg _(Sarah Pocket)_
+Everley Gregg _(Sarah Pocket)_<br>
 
-Anne Holland _(relation)_
+Anne Holland _(relation)_<br>
 
-Frank Atkinson _(Mike)_
+Frank Atkinson _(Mike)_<br>
 
-Gordon Begg _(night porter)_
+Gordon Begg _(night porter)_<br>
 
-Edie Martin _(Mrs Whimple)_
+Edie Martin _(Mrs Whimple)_<br>
 
-Walford Hyden _(the dancing master)_
+Walford Hyden _(the dancing master)_<br>
 
-Roy Arthur _(galley steersman)_
+Roy Arthur _(galley steersman)_<br>
 
-UK 1946
+UK 1946<br>
 
-119 mins
+119 mins<br>
 
-Digital (restoration)
+Digital (restoration)<br>
 
-The screening on Wed 17 Apr will be introduced by Jade Evans, AHRC REACH PhD student with QMUL and BFI
+The screening on Wed 17 Apr will be introduced by Jade Evans, AHRC REACH PhD student with QMUL and BFI<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTYwODc3NV19
+eyJoaXN0b3J5IjpbNzYyMDU1ODddfQ==
 -->
