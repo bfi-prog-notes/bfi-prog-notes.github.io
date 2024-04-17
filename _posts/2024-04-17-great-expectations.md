@@ -60,115 +60,63 @@ _2nd Unit Director of Photography:_ Ernest Steward<br>
 _2nd Unit Camera Operator:_ Arthur Ibbetson<br>
 _2nd Camera Operator:_ Skeets Kelly<br>
 _2nd Unit 2nd Camera Operator:_ Alan Hume<br>
-
 _Focus Puller:_ John Howard Godar<br>
-
 _Clapper/Loaders:_ Henry Slagter, Tony Hermes<br>
-
 _Stills:_ Cyril Stanborough<br>
-
 _Back Projection:_ Sid Howell<br>
-
 _Models:_ Douglas Woolsey<br>
-
 _Assistant Editor:_ Marjorie Saunders<br>
-
 _2nd Assistant Editor:_ John Cook<br>
-
 _Assistant Art Director:_ John Elphick<br>
-
 _Production Buyer:_ Frank Hobbs<br>
-
 _Costume Designer Assisted by:_ Margaret Furse<br>
-
 _Make-up:_ Ernie Gasser<br>
-
 _Production Mixers:_ C.C. Stevens, John Dennis<br>
-
 _Music Sound Camera:_ Peter T. Davies<br>
-
-_Sound Camera Operators:_ Fred Goodes,  
-Harold Rowland<br>
-
+_Sound Camera Operators:_ Fred Goodes,  Harold Rowland<br>
 _Boom Operator:_ George Paternoster<br>
-
 _Boom Assistant:_ Mick Stolovich<br>
-
-_Maintenance Engineers:_ Jack Rossiter,  
-Charles Knott<br>
-
+_Maintenance Engineers:_ Jack Rossiter,  Charles Knott<br>
 _Dubbing Crew:_ J.B. Smith, Bill Daniels, John Hood<br>
-
 _Assistant Sound Editor:_ Jack Slade<br>
-
 _Sound Effects Recording:_ John W. Mitchell<br>
-
 _Studio:_ Pinewood Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 John Mills _(Philip Pirrip, ‘Pip’)_<br>
-
 Anthony Wager _(Pip as a boy)_<br>
-
 Valerie Hobson _(Estella)_<br>
-
 Jean Simmons _(Estella as a girl)_<br>
-
 Bernard Miles _(Joe Gargery)_<br>
-
 Francis L. Sullivan _(Mr Jaggers)_<br>
-
 Finlay Currie _(Abel Magwitch)_<br>
-
 Martita Hunt _(Miss Havisham)_<br>
-
 Alec Guinness _(Herbert Pocket)_<br>
-
 Ivor Barnard _(Mr Wemmick)_<br>
-
 Freda Jackson _(Mrs Joe Gargery)_<br>
-
 Eileen Erskine _(Biddy)_<br>
-
 George Hayes _(Compeyson, the convict)_<br>
-
 Hay Petrie _(Uncle Pomblechook)_<br>
-
 John Forrest _(pale young gentleman)_<br>
-
 Torin Thatcher _(Bentley Drummle)_<br>
-
 O.B. Clarence _(aged parent)_<br>
-
 John Burch _(Mr Wopsle)_<br>
-
 Richard George _(The Sergeant)_<br>
-
 Grace Denbeigh-Russell _(Mrs Wopsle)_<br>
-
 Everley Gregg _(Sarah Pocket)_<br>
-
 Anne Holland _(relation)_<br>
-
 Frank Atkinson _(Mike)_<br>
-
 Gordon Begg _(night porter)_<br>
-
 Edie Martin _(Mrs Whimple)_<br>
-
 Walford Hyden _(the dancing master)_<br>
-
 Roy Arthur _(galley steersman)_<br>
 
 UK 1946<br>
-
 119 mins<br>
-
 Digital (restoration)<br>
 
 The screening on Wed 17 Apr will be introduced by Jade Evans, AHRC REACH PhD student with QMUL and BFI<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMDU1ODddfQ==
+eyJoaXN0b3J5IjpbOTQxODY4NDA3XX0=
 -->
