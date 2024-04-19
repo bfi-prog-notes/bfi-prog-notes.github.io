@@ -6,7 +6,7 @@ date: 2024-05-01
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Drama]
-metadata: 'UK1963, 134mins<br> Director: Lindsay Anderson'
+metadata: 'UK 1963, 134 mins<br> Director: Lindsay Anderson'
 pdf: '2024-05-01-this-sporting-life.pdf'
 ---
 
