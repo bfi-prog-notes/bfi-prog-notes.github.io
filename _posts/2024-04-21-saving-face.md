@@ -1,1 +1,219 @@
 
+_With a recorded introduction from Jinghua Qian, writer and critic_
+
+_Saving Face_ is the first feature directed by Alice Wu. Featuring a cast made up of primarily Chinese-American actors from the New York Chinese community and set and shot in New York City, the film looks at how traditional Chinese culture continues to play into but also conflicts with the experiences of today’s Chinese-American families. It also deals with the universal story of love and how anyone who’s ever experienced real love also experiences a desire to protect it and not have to explain it. The film spans three generations and boasts as many interconnected love stories, a structure one might expect more from a novel than a product of Hollywood.
+
+Indeed, it was a novel Wu thought she was writing when she first started work on the project that would become _Saving Face_. This was over five years ago, and Wu was out of graduate school and making a very good living as a computer scientist at a company in Seattle. ‘The computer company I worked for went through a massive re-organisation, and there were about two months where we didn’t have much to do but we had to look like we were busy. So I joined a writing group, and suddenly I remembered what it felt like to be passionate about something again.’
+
+_Saving Face_ began as a treatment for a novel. But when Wu finished the treatment, she realised that the piece would make a better film than a book. ‘Part of the story is that there are so many levels to Chinese culture that what’s really important is sometimes not what a character says, but rather what they don’t say. Film is a much better medium to get this across than any other. With film, you can give people the illusion that they are watching someone who’s unaware that they are being observed.’ To illustrate this, Wu points out that Joan Chen’s character, Ma, ‘says a lot of things she doesn’t really believe, and her facial expressions speak volumes. So I just knew that the story might be more effecting on film, which was of course ironic because I knew nothing about film.’
+
+Wu shared this with the head of her writing group in Seattle, a man who was also a movie producer, and he pushed her to crank out the screenplay in a week. ‘I stayed up all night for three nights of that week, and thought it was the worst piece of writing I’d ever done,’ Wu says today. ‘I’m a geek,’ she says. ‘What was I doing writing a movie script?’ But after he read her first draft, the producer told Wu he was interested in optioning it. ‘I learned so much from him,’ says Wu. ‘I learned that as the writer I would have almost no rights if someone else made my script into a movie. As I wrote I had a very specific idea of how this story needed to be told. So my friend told me that if that’s what I wanted I would have to move to New York or LA right away, and learn to be a filmmaker.’
+
+Wu had saved enough money to live on a budget for five years. She bit the bullet, quit her job and moved to Brooklyn with the goal of one day making her movie. For a few months during the first three years of her filmmaking education, Wu trained as an editor, under Alan Oxman, whose credits include the Todd Solondz films _Welcome to the Dollhouse_, _Happiness_ and _Storytelling_. Oxman helped Wu start her freelance editing career, which she did for a few years. During that time Wu also used her college theatre background by workshopping her script with actors. But her ambitions to direct _Saving Face_ turned a corner when she submitted the script to a screenplay contest sponsored by a Hollywood organisation called CAPE (Coalition of Asian Pacifics in Entertainment). Wu’s screenplay won the contest, and she went to Hollywood to meet with various executives. ‘I flew out there and everyone took me out to a nice lunch, but I have to say the whole thing was sort of deadening. Nothing happened. Not that I was expecting Hollywood to embrace my script, I mean, quite frankly, it’s a Chinese-American-lesbian-romantic-comedy-of-manners that’s half in Mandarin Chinese! But then I met Teddy.’
+
+Teddy is Teddy Zee, president of Overbrook Entertainment, Will Smith’s production company based on the Sony lot in Culver City. Zee had been a judge on the CAPE jury that had given _Saving Face_ its award. ‘At first I thought Teddy was another one of those superficial Hollywood types, because he was trying to convince me to move to LA and be a Hollywood screenwriter. But then I realised that he saw that as merely a means to an end: if I made enough money as a screenwriter, then I could shoot my script the way I had always wanted to.’
+
+Casting began in June of 2003. ‘I honestly think I have seen every single Chinese, Chinese-American, Asian and Asian-American person with any aspirations to become an actor in New York City, San Francisco and Los Angeles,’ Wu declares as she describes the ‘tough’ process, which she calls ‘the hardest thing about making the film’. ‘Casting was our film’s greatest success,’ adds Wu. ‘I love my casting director. I love all 35 of our actors, from our leads to the uncles and the aunties.’ Wu points out that not all of the supporting roles are played by professionals. As for the three leads, played by Joan Chen, Michelle Krusiec and Lynn Chen, Wu says it was ‘great training’ for her to learn how to deal with three different acting styles and three different personalities.
+
+On a personal level, making the film brought Wu and her mother closer together, but in true independent film style the agenda was not altogether personal, but financial. ‘I wrote the script in English, but it had to be translated into Mandarin,’ explains Wu, ‘which I speak but can’t write. It would have been very expensive to hire someone, so I asked my mom to help. We went through a three-month period where every issue we had with each other came to bear. My mother would reach a particular scene and call me up, crying ‘No daughter would ever say this to her mother, how ungrateful!’ Then she’d hang up and call me back five minutes later. I always imagined my mother would experience the film for the first time in a movie theatre, but by having her help me translate the script I was able to let her know that I wrote it for her – that at 48, her life had not ended, that it really could begin again if she chose to begin it again. It’s ironic – now looking back it looks like it’s a story about a daughter saving a mother, but in truth it’s the mother that saves the daughter. It’s the journey a woman goes through to better understand her mother’s heart, but in the end she better understands her own.’  
+**Production notes**
+<br><br>
+
+**SAVING FACE**<br>
+
+_Directed by:_ Alice Wu<br>
+
+©_:_ Screen Gems
+
+_Presented by:_ Destination Films
+
+_Production Company:_ Overbrook Films
+
+_In association with:_ Forensic Films,  
+GreeneStreet Films
+
+_Executive Producers:_ Robin O’Hara,  
+Scott Macaulay
+
+_Producers:_ James Lassiter, Will Smith, Teddy Zee
+
+_Line Producer/Unit Production Manager:_  
+Bergen Swanson
+
+_Associate Producer:_ Jeff Morin
+
+_Production Accountant:_ John Finn
+
+_Production Co-ordinator:_ Terry Ladin
+
+_Location Manager:_ Collin Smith
+
+_Post-production Supervisor:_ Seth I. Shire
+
+_Post-production Consultant:_ Robert J. Lyons
+
+_1st Assistant Director:_ Carrie Fix
+
+_2nd Assistant Directors:_ Mariela Comitini,  
+Heather M. Daniels
+
+_Script Supervisor:_ Mariana Hellmund
+
+_Additional Script Supervisor:_ Eileen Ying Gong
+
+_Casting by:_ Heidi Griffiths, Jaclyn Brodsky
+
+_Screenplay:_ Alice Wu
+
+_Director of Photography:_ Harlan Bosmajian
+
+_Camera Operator:_ Bill Trautvetter
+
+_Key Grip:_ Anthony Cox
+
+_Steadicam Operator:_ George Bianchini
+
+_Gaffer:_ Robert Sciretta
+
+_Still Photographers:_ JoJo Whilden, John Clifford, Larry Riley
+
+_Editors:_ Susan Graef, Sabine Hoffman
+
+_Production Designer:_ Dan Ouellette
+
+_Art Department Co-ordinator:_ Colleen Nowers
+
+_Set Decorator:_ Mylene Santos
+
+_Prop Master:_ Adam Roffman
+
+_Costume Design:_ Jill Newell
+
+_Wardrobe Supervisor:_ Abigail Stowe
+
+_Key Make-up:_ Angela Gallagher
+
+_Key Hair:_ Donna B. Greene
+
+_Title Design:_ Doborah Ross Film
+
+_Digital Titles:_ Technicolor Digital Intermediate
+
+_Title Designer:_ Ariel Enriquez Saulog
+
+_Opticals:_ Cineric Inc
+
+_Optical Supervisor:_ János Pilenyi
+
+_Colour Timer:_ Fred Heid
+
+_Music:_ Anton Sanko
+
+_Orchestrations by:_ Gordon Minette
+
+_Music Supervisor:_ Tracy McKnight
+
+_Music Co-ordinator:_ Alysia Oakley
+
+_Score Recorded/Mixed by:_ Denny McNerney
+
+_Choreographer:_ Michael Terrace
+
+_Sound Designer:_ Steve Borne
+
+_Location Sound Mixers:_ Noah Timan,
+
+Aaron Rudelson
+
+_Boom Operator:_ Anguibe Guindo
+
+_Re-recording Mixer:_ Dominic Tavella
+
+_Sound Editorial:_ Rocket NYC
+
+_Mix Facility:_ Sound One
+
+_Dialogue Editor:_ Branka Mrkic-Tana
+
+_Sound Effects Editor:_ Stuart Stanley
+
+_ADR Mixers:_ David Bolton, Bobby Johanson
+
+_Foley Artist:_ Nancy Cabrera
+
+_Editor Foley:_ David Briggs
+
+_Medical Technical Advisor:_ Michael Sachs
+
+_Stunt Co-ordinator:_ Manny Sivero
+
+_Publicists:_ Jeremy Walker & Associates (Jeremy Walker, Jessica Grant)  
+_Cast:_
+
+Joan Chen _(Ma)_  
+Michelle Krusiec _(Wilhelmina ‘Wil’ Pang)_  
+Lynn Chen _(Vivian Shing)_  
+Jin Wang _(Grandpa Wai Gung)_  
+Guang Lan Koh _(Grandma Wai Po)_  
+Ato Essandoh _(Jay, neighbour)_  
+Nathanael Geng _(Stinson Cho, ‘Mr Cho’)_  
+Zhao Mao _(old Yu)_  
+Brian Yang _(little Yu)_  
+Luoyong Wong _(Dr Shing)_  
+Qian Luo _(Mrs Shing)_  
+Jessica Hecht _(hospital co-worker)_  
+Connie Hsia _(Mrs Chen)_  
+Clare Sum _(Mrs Wong)_  
+Ruth Zhang _(Mrs Yao)_  
+Jackson Ning _(Mr Chen)_  
+Paul Sum _(Mr Wong)_  
+Jamie Guan _(Mr Yao)_  
+David Shih _(Norman)_  
+Richard Chang _(Stephen)_  
+Hoon Lee _(Raymond Wong)_  
+Xiaofeng Zang _(Mr Fu)_  
+Yu Lu _(stoic date)_  
+Fang Yulin _(wart date)_  
+Pamela-Payton Wright _(Dr Morgan)_  
+Saidah Arrika Ekulona _(nurse 1)_  
+Twinkle Burke _(hospital receptionist)_  
+Tina Johnson _(nurse 2)_  
+Phillip Meng _(mambo date)_  
+Chloe Tsang _(eight-year-old Chinese girl)_  
+Rosa Luo _(Cho sister 1)_  
+Christy Qin _(nurse at clinic)_  
+Nan Meng _(mother at clinic)_  
+Brittany Perrineau _(Dara)_  
+USA 2004©
+
+94 mins
+
+35mm
+
+<![endif]-->
+
+**QUEER EAST FESTIVAL**
+
+**Saving Face + intro**
+
+Sun 21 Apr 15:20
+
+**Abang Adik + intro**
+
+Wed 24 Apr 20:30
+
+**Summer Vacation 1999  
+**1999 nen no natsu yasumi **+ intro**
+
+Fri 26 Apr 20:40
+
+**Closing Night: Bye Bye Love – 50th anniversary screening** Baibai rabu **+ intro**
+
+Sun 28 Apr 17:10
+
+<![endif]-->
+
+**queereast.org.uk**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3NzU1NDkyMF19
+-->
