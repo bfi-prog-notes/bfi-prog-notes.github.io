@@ -129,11 +129,8 @@ Sun 21 Apr 15:20<br>
 **Abang Adik + intro**<br>
 Wed 24 Apr 20:30<br>
 **Summer Vacation 1999**  1999 nen no natsu yasumi **+ intro**<br>
-
 Fri 26 Apr 20:40<br>
-
 **Closing Night: Bye Bye Love – 50th anniversary screening** Baibai rabu **+ intro**<br>
-
 Sun 28 Apr 17:10<br>
 
 **queereast.org.uk**
@@ -141,5 +138,5 @@ Sun 28 Apr 17:10<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk1MDI4ODhdfQ==
+eyJoaXN0b3J5IjpbODU4NzY3MjQ2XX0=
 -->
