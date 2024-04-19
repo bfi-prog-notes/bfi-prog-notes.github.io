@@ -22,132 +22,67 @@ On a personal level, making the film brought Wu and her mother closer together, 
 **SAVING FACE**<br>
 _Directed by:_ Alice Wu<br>
 ©_:_ Screen Gems<br>
-
 _Presented by:_ Destination Films<br>
-
 _Production Company:_ Overbrook Films<br>
-
-_In association with:_ Forensic Films,  
-GreeneStreet Films<br>
-
-_Executive Producers:_ Robin O’Hara,  
-Scott Macaulay<br>
-
+_In association with:_ Forensic Films,  GreeneStreet Films<br>
+_Executive Producers:_ Robin O’Hara,  Scott Macaulay<br>
 _Producers:_ James Lassiter, Will Smith, Teddy Zee<br>
-
-_Line Producer/Unit Production Manager:_  
-Bergen Swanson<br>
-
+_Line Producer/Unit Production Manager:_  Bergen Swanson<br>
 _Associate Producer:_ Jeff Morin<br>
-
 _Production Accountant:_ John Finn<br>
-
 _Production Co-ordinator:_ Terry Ladin<br>
-
 _Location Manager:_ Collin Smith<br>
-
 _Post-production Supervisor:_ Seth I. Shire<br>
-
 _Post-production Consultant:_ Robert J. Lyons<br>
-
 _1st Assistant Director:_ Carrie Fix<br>
-
-_2nd Assistant Directors:_ Mariela Comitini,  
-Heather M. Daniels<br>
-
+_2nd Assistant Directors:_ Mariela Comitini,  Heather M. Daniels<br>
 _Script Supervisor:_ Mariana Hellmund<br>
-
 _Additional Script Supervisor:_ Eileen Ying Gong<br>
-
 _Casting by:_ Heidi Griffiths, Jaclyn Brodsky<br>
-
 _Screenplay:_ Alice Wu<br>
-
 _Director of Photography:_ Harlan Bosmajian<br>
-
 _Camera Operator:_ Bill Trautvetter<br>
-
 _Key Grip:_ Anthony Cox<br>
-
 _Steadicam Operator:_ George Bianchini<br>
-
 _Gaffer:_ Robert Sciretta<br>
-
 _Still Photographers:_ JoJo Whilden, John Clifford, Larry Riley<br>
-
 _Editors:_ Susan Graef, Sabine Hoffman<br>
-
 _Production Designer:_ Dan Ouellette<br>
-
 _Art Department Co-ordinator:_ Colleen Nowers<br>
-
 _Set Decorator:_ Mylene Santos<br>
-
 _Prop Master:_ Adam Roffman<br>
-
 _Costume Design:_ Jill Newell<br>
-
 _Wardrobe Supervisor:_ Abigail Stowe<br>
-
 _Key Make-up:_ Angela Gallagher<br>
-
 _Key Hair:_ Donna B. Greene<br>
-
 _Title Design:_ Doborah Ross Film<br>
-
 _Digital Titles:_ Technicolor Digital Intermediate<br>
-
 _Title Designer:_ Ariel Enriquez Saulog<br>
-
 _Opticals:_ Cineric Inc<br>
-
 _Optical Supervisor:_ János Pilenyi<br>
-
 _Colour Timer:_ Fred Heid<br>
-
 _Music:_ Anton Sanko<br>
-
 _Orchestrations by:_ Gordon Minette<br>
-
 _Music Supervisor:_ Tracy McKnight<br>
-
 _Music Co-ordinator:_ Alysia Oakley<br>
-
 _Score Recorded/Mixed by:_ Denny McNerney<br>
-
 _Choreographer:_ Michael Terrace<br>
-
 _Sound Designer:_ Steve Borne<br>
-
-_Location Sound Mixers:_ Noah Timan,
-
-Aaron Rudelson<br>
-
+_Location Sound Mixers:_ Noah Timan, Aaron Rudelson<br>
 _Boom Operator:_ Anguibe Guindo<br>
-
 _Re-recording Mixer:_ Dominic Tavella<br>
-
 _Sound Editorial:_ Rocket NYC<br>
-
 _Mix Facility:_ Sound One<br>
-
 _Dialogue Editor:_ Branka Mrkic-Tana<br>
-
 _Sound Effects Editor:_ Stuart Stanley<br>
-
 _ADR Mixers:_ David Bolton, Bobby Johanson<br>
-
 _Foley Artist:_ Nancy Cabrera<br>
-
 _Editor Foley:_ David Briggs<br>
-
 _Medical Technical Advisor:_ Michael Sachs<br>
-
 _Stunt Co-ordinator:_ Manny Sivero<br>
-
 _Publicists:_ Jeremy Walker & Associates (Jeremy Walker, Jessica Grant)  
 
-_Cast:_<br>
+**Cast**<br>
 Joan Chen _(Ma)_  
 Michelle Krusiec _(Wilhelmina ‘Wil’ Pang)_  
 Lynn Chen _(Vivian Shing)_  
@@ -189,17 +124,11 @@ USA 2004©<br>
 <br><br>
 
 **QUEER EAST FESTIVAL**<br>
-
 **Saving Face + intro**<br>
-
 Sun 21 Apr 15:20<br>
-
 **Abang Adik + intro**<br>
-
 Wed 24 Apr 20:30<br>
-
-**Summer Vacation 1999  
-**1999 nen no natsu yasumi **+ intro**<br>
+**Summer Vacation 1999**  1999 nen no natsu yasumi **+ intro**<br>
 
 Fri 26 Apr 20:40<br>
 
@@ -212,5 +141,5 @@ Sun 28 Apr 17:10<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE0MDk3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODk1MDI4ODhdfQ==
 -->
