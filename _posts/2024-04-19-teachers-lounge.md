@@ -16,62 +16,37 @@ But education is political: not only in what gets taught, or even in the inheren
 <br><br>
 
 **THE TEACHERS’ LOUNGE**<br>
-
 _Director:_ Ilker Çatak<br>
-
 _Producer:_ Ingo Fliess<br>
-
 _Line Producer:_ Markus Mayr<br>
-
 _Casting:_ Simone Bär, Alexandra Montag<br>
-
 _Casting Children:_ Patrick Dreikauss<br>
-
 _Screenplay:_ Johannes Duncker, Ilker Çatak<br>
-
 _Cinematography:_ Judith Kaufmann<br>
-
 _Editor:_ Gesa Jäger<br>
-
 _Production Design:_ Zazie Knepper<br>
-
 _Music:_ Marvin Miller<br>
-
 _Original Sound:_ Torsten Többen<br>
-
 _Sound Design:_ Kirsten Kunhardt<br>
-
 _Costume Design:_ Christian Röhrs<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Leonie Benesch _(Carla Nowak)_<br>
-
 Leonard Stettnisch _(Oskar)_<br>
-
 Eva Löbau _(Friederike Kuhn)_<br>
-
 Michael Klammer _(Thomas Liebenwerda)_<br>
-
 Rafael Stachowiak _(Milosz Dudek)_<br>
-
 Anne-Kathrin Gummich _(Dr Bettina Böhm)_<br>
-
 Kathriin Wehlisch _(Lore Semnik)_<br>
-
 Sarah Bauerett _(Vanessa König)_<br>
+Oscar Zickur _(Lukas)_<br>
+Antonia Küpper _(Jenny)_<br>
+Elsa Krieger _(Hatice)_<br>
 
-Oscar Zickur _(Lukas)_
-
-Antonia Küpper _(Jenny)_
-
-Elsa Krieger _(Hatice)_
-
-Germany 2023
-
-99 mins
-
-Digital
+Germany 2023<br>
+99 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTA1NzcxOF19
+eyJoaXN0b3J5IjpbMTA1NTM4MzU5Ml19
 -->
