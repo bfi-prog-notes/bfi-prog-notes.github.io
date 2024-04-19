@@ -6,8 +6,8 @@ date: 2024-05-04
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Drama]
-metadata: 'UK1963, 134mins<br> Director: Lindsay Anderson'
-pdf: '2024-05-01-this-sporting-life.pdf'
+metadata: 'Italy 1942, 141 mins<br> Director: Luchino Visconti'
+pdf: '2024-05-04-ossessione.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -138,5 +138,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI5MTU5Nl19
+eyJoaXN0b3J5IjpbLTUwODg5OTE0M119
 -->
