@@ -20,136 +20,134 @@ On a personal level, making the film brought Wu and her mother closer together, 
 <br><br>
 
 **SAVING FACE**<br>
-
 _Directed by:_ Alice Wu<br>
+©_:_ Screen Gems<br>
 
-©_:_ Screen Gems
+_Presented by:_ Destination Films<br>
 
-_Presented by:_ Destination Films
-
-_Production Company:_ Overbrook Films
+_Production Company:_ Overbrook Films<br>
 
 _In association with:_ Forensic Films,  
-GreeneStreet Films
+GreeneStreet Films<br>
 
 _Executive Producers:_ Robin O’Hara,  
-Scott Macaulay
+Scott Macaulay<br>
 
-_Producers:_ James Lassiter, Will Smith, Teddy Zee
+_Producers:_ James Lassiter, Will Smith, Teddy Zee<br>
 
 _Line Producer/Unit Production Manager:_  
-Bergen Swanson
+Bergen Swanson<br>
 
-_Associate Producer:_ Jeff Morin
+_Associate Producer:_ Jeff Morin<br>
 
-_Production Accountant:_ John Finn
+_Production Accountant:_ John Finn<br>
 
-_Production Co-ordinator:_ Terry Ladin
+_Production Co-ordinator:_ Terry Ladin<br>
 
-_Location Manager:_ Collin Smith
+_Location Manager:_ Collin Smith<br>
 
-_Post-production Supervisor:_ Seth I. Shire
+_Post-production Supervisor:_ Seth I. Shire<br>
 
-_Post-production Consultant:_ Robert J. Lyons
+_Post-production Consultant:_ Robert J. Lyons<br>
 
-_1st Assistant Director:_ Carrie Fix
+_1st Assistant Director:_ Carrie Fix<br>
 
 _2nd Assistant Directors:_ Mariela Comitini,  
-Heather M. Daniels
+Heather M. Daniels<br>
 
-_Script Supervisor:_ Mariana Hellmund
+_Script Supervisor:_ Mariana Hellmund<br>
 
-_Additional Script Supervisor:_ Eileen Ying Gong
+_Additional Script Supervisor:_ Eileen Ying Gong<br>
 
-_Casting by:_ Heidi Griffiths, Jaclyn Brodsky
+_Casting by:_ Heidi Griffiths, Jaclyn Brodsky<br>
 
-_Screenplay:_ Alice Wu
+_Screenplay:_ Alice Wu<br>
 
-_Director of Photography:_ Harlan Bosmajian
+_Director of Photography:_ Harlan Bosmajian<br>
 
-_Camera Operator:_ Bill Trautvetter
+_Camera Operator:_ Bill Trautvetter<br>
 
-_Key Grip:_ Anthony Cox
+_Key Grip:_ Anthony Cox<br>
 
-_Steadicam Operator:_ George Bianchini
+_Steadicam Operator:_ George Bianchini<br>
 
-_Gaffer:_ Robert Sciretta
+_Gaffer:_ Robert Sciretta<br>
 
-_Still Photographers:_ JoJo Whilden, John Clifford, Larry Riley
+_Still Photographers:_ JoJo Whilden, John Clifford, Larry Riley<br>
 
-_Editors:_ Susan Graef, Sabine Hoffman
+_Editors:_ Susan Graef, Sabine Hoffman<br>
 
-_Production Designer:_ Dan Ouellette
+_Production Designer:_ Dan Ouellette<br>
 
-_Art Department Co-ordinator:_ Colleen Nowers
+_Art Department Co-ordinator:_ Colleen Nowers<br>
 
-_Set Decorator:_ Mylene Santos
+_Set Decorator:_ Mylene Santos<br>
 
-_Prop Master:_ Adam Roffman
+_Prop Master:_ Adam Roffman<br>
 
-_Costume Design:_ Jill Newell
+_Costume Design:_ Jill Newell<br>
 
-_Wardrobe Supervisor:_ Abigail Stowe
+_Wardrobe Supervisor:_ Abigail Stowe<br>
 
-_Key Make-up:_ Angela Gallagher
+_Key Make-up:_ Angela Gallagher<br>
 
-_Key Hair:_ Donna B. Greene
+_Key Hair:_ Donna B. Greene<br>
 
-_Title Design:_ Doborah Ross Film
+_Title Design:_ Doborah Ross Film<br>
 
-_Digital Titles:_ Technicolor Digital Intermediate
+_Digital Titles:_ Technicolor Digital Intermediate<br>
 
-_Title Designer:_ Ariel Enriquez Saulog
+_Title Designer:_ Ariel Enriquez Saulog<br>
 
-_Opticals:_ Cineric Inc
+_Opticals:_ Cineric Inc<br>
 
-_Optical Supervisor:_ János Pilenyi
+_Optical Supervisor:_ János Pilenyi<br>
 
-_Colour Timer:_ Fred Heid
+_Colour Timer:_ Fred Heid<br>
 
-_Music:_ Anton Sanko
+_Music:_ Anton Sanko<br>
 
-_Orchestrations by:_ Gordon Minette
+_Orchestrations by:_ Gordon Minette<br>
 
-_Music Supervisor:_ Tracy McKnight
+_Music Supervisor:_ Tracy McKnight<br>
 
-_Music Co-ordinator:_ Alysia Oakley
+_Music Co-ordinator:_ Alysia Oakley<br>
 
-_Score Recorded/Mixed by:_ Denny McNerney
+_Score Recorded/Mixed by:_ Denny McNerney<br>
 
-_Choreographer:_ Michael Terrace
+_Choreographer:_ Michael Terrace<br>
 
-_Sound Designer:_ Steve Borne
+_Sound Designer:_ Steve Borne<br>
 
 _Location Sound Mixers:_ Noah Timan,
 
-Aaron Rudelson
+Aaron Rudelson<br>
 
-_Boom Operator:_ Anguibe Guindo
+_Boom Operator:_ Anguibe Guindo<br>
 
-_Re-recording Mixer:_ Dominic Tavella
+_Re-recording Mixer:_ Dominic Tavella<br>
 
-_Sound Editorial:_ Rocket NYC
+_Sound Editorial:_ Rocket NYC<br>
 
-_Mix Facility:_ Sound One
+_Mix Facility:_ Sound One<br>
 
-_Dialogue Editor:_ Branka Mrkic-Tana
+_Dialogue Editor:_ Branka Mrkic-Tana<br>
 
-_Sound Effects Editor:_ Stuart Stanley
+_Sound Effects Editor:_ Stuart Stanley<br>
 
-_ADR Mixers:_ David Bolton, Bobby Johanson
+_ADR Mixers:_ David Bolton, Bobby Johanson<br>
 
-_Foley Artist:_ Nancy Cabrera
+_Foley Artist:_ Nancy Cabrera<br>
 
-_Editor Foley:_ David Briggs
+_Editor Foley:_ David Briggs<br>
 
-_Medical Technical Advisor:_ Michael Sachs
+_Medical Technical Advisor:_ Michael Sachs<br>
 
-_Stunt Co-ordinator:_ Manny Sivero
+_Stunt Co-ordinator:_ Manny Sivero<br>
 
 _Publicists:_ Jeremy Walker & Associates (Jeremy Walker, Jessica Grant)  
-_Cast:_
 
+_Cast:_<br>
 Joan Chen _(Ma)_  
 Michelle Krusiec _(Wilhelmina ‘Wil’ Pang)_  
 Lynn Chen _(Vivian Shing)_  
@@ -184,36 +182,35 @@ Rosa Luo _(Cho sister 1)_
 Christy Qin _(nurse at clinic)_  
 Nan Meng _(mother at clinic)_  
 Brittany Perrineau _(Dara)_  
-USA 2004©
 
-94 mins
-
+USA 2004©<br>
+94 mins<br>
 35mm
+<br><br>
 
-<![endif]-->
+**QUEER EAST FESTIVAL**<br>
 
-**QUEER EAST FESTIVAL**
+**Saving Face + intro**<br>
 
-**Saving Face + intro**
+Sun 21 Apr 15:20<br>
 
-Sun 21 Apr 15:20
+**Abang Adik + intro**<br>
 
-**Abang Adik + intro**
-
-Wed 24 Apr 20:30
+Wed 24 Apr 20:30<br>
 
 **Summer Vacation 1999  
-**1999 nen no natsu yasumi **+ intro**
+**1999 nen no natsu yasumi **+ intro**<br>
 
-Fri 26 Apr 20:40
+Fri 26 Apr 20:40<br>
 
-**Closing Night: Bye Bye Love – 50th anniversary screening** Baibai rabu **+ intro**
+**Closing Night: Bye Bye Love – 50th anniversary screening** Baibai rabu **+ intro**<br>
 
-Sun 28 Apr 17:10
-
-<![endif]-->
+Sun 28 Apr 17:10<br>
 
 **queereast.org.uk**
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzU1NDkyMF19
+eyJoaXN0b3J5IjpbLTE3NDE0MDk3MjJdfQ==
 -->
