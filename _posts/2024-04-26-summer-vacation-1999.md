@@ -1,3 +1,14 @@
+---
+layout: post
+title: Summer Vacation 1999
+published: true
+date: 2024-04-26
+readtime: true
+categories: ['QUEER EAST FESTIVAL']
+tags: [Drama]
+metadata: 'Japan 1988, 90 mins<br> Director: Shusuke Kaneko'
+pdf: '2024-04-26-summer-vacation-1999.pdf'
+---
 
 _+ intro by writer and film curator Ren Scateni_
 
@@ -8,8 +19,7 @@ I was really a very lonely child. This had nothing to do with my parents or anyt
 
 In the ’70s Japan could have gone in one of many possible directions. Looking back, it seems inconceivable that Japan could have taken a socialist road, but at the time it seemed like a real possibility. By contrast, the ’80s have seen the reassertion of a bedrock conservatism; Japanese society now is as stable and resistant to change as it has ever been. I suppose it’s true that I have something of the ‘disillusioned former radical’ in me, but the factor that really shaped my own political development was purely domestic: my parents were Communists.
 
-Another idea that fed into the project was an incident that happened in 1979.  
-A 16-year-old killed his grandmother and then committed suicide. Before his death, he sent a long letter to the newspapers, a kind of testament. I read this letter, and found it extremely poignant. In his statement, the boy tried hard to present himself as a ‘bad type’, to explain his actions. This moved me, and I found myself wanting to make a ﬁlm about it. I guess that I ended up superimposing the boy’s experience on my own childhood when I began drafting the script.
+Another idea that fed into the project was an incident that happened in 1979.  A 16-year-old killed his grandmother and then committed suicide. Before his death, he sent a long letter to the newspapers, a kind of testament. I read this letter, and found it extremely poignant. In his statement, the boy tried hard to present himself as a ‘bad type’, to explain his actions. This moved me, and I found myself wanting to make a ﬁlm about it. I guess that I ended up superimposing the boy’s experience on my own childhood when I began drafting the script.
 
 But then the ﬁlm was directly inspired by a graphic novel, published in a comics magazine for girls. _Toma_ _no Shinzo_ (_Toma’s Heart_) by Hagio Moto was serialised as a long and very complex story; it stands in the tradition of the Tolstoyan novel. It’s set in a school dormitory in Germany, and it has a large number of characters. It centres on religious questions as much as sexual questions. The central boy (who becomes Kazuhiko in the ﬁlm) has a deep, inner trauma. He has declared that God doesn’t exist, and he suffers mentally and physically for his professed atheism – physically because he is tortured by the older boys. The story in the ﬁlm is quite different, but I was inspired by some of the dialogue in the original strip, and sometimes also by individual graphic frames. Hagio Moto considered the script completely different from the original, and asked me not to call it an adaptation. But I still think that the experience of reading the _manga_ graphic novel and seeing this ﬁlm may be quite similar.
 
@@ -62,6 +72,43 @@ Japan 1988
 
 35mm (courtesy of the ICA Archive)
 <br><br>
+
+**QUEER EAST FESTIVAL**<br>
+**Saving Face + intro**<br>
+Sun 21 Apr 15:20<br>
+**Abang Adik + intro**<br>
+Wed 24 Apr 20:30<br>
+**Summer Vacation 1999**  1999 nen no natsu yasumi **+ intro**<br>
+Fri 26 Apr 20:40<br>
+**Closing Night: Bye Bye Love – 50th anniversary screening** Baibai rabu **+ intro**<br>
+Sun 28 Apr 17:10<br>
+
+**queereast.org.uk**
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwNDg1MjI1MDddfQ==
 -->
