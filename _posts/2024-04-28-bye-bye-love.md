@@ -20,24 +20,17 @@ Ultimately, it’s the film’s challenging sexual dimension which makes it nota
 <br><br>
 
 **BYE BYE LOVE (BAIBAI RABU)**<br>
-
 _Director/Producer/Writer:_ Isao Fujisawa<br>
-
 _Cast:_<br>
-
 Ren Tamura _(Utamaro)_<br>
-
 Miyabi Ichijô _(Giko)_<br>
-
 Satomi Oki _(prostitute)_<br>
-
 Enver Tenpai _(Nixon)_<br>
 
 Japan 1974<br>
-
-85 mins
-
-Digital
+85 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUzMjU5NDZdfQ==
+eyJoaXN0b3J5IjpbOTUzNjMxNzg4XX0=
 -->
