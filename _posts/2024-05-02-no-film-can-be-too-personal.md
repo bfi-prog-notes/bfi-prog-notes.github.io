@@ -1,8 +1,19 @@
+---
+layout: post
+title: This Sporting Life
+published: true
+date: 2024-05-01
+readtime: true
+categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+tags: [Drama]
+metadata: 'UK 1963, 134 mins<br> Director: Lindsay Anderson'
+pdf: '2024-05-01-this-sporting-life.pdf'
+---
 
 
-<![endif]-->
 
-**A contemporary review** 
+
+**A contemporary review**  
 This article, I had better start by saying, will not be an ‘objective’ review of _Is That All There Is?_, but as personal as the film Lindsay Anderson has made. An old friend, he asked me to write about it – provided, of course, that I liked it – because he said he ‘couldn’t think of anyone else who would fully understand what I’ve tried to express’. And as I like the film very much, I shall try to express here how it affected me, the delayed echo I hear as I write.
 
 In 1971 a soon-to-be-defunct American magazine, _Cinema_, published a monograph by Lindsay on John Ford – something I had originally commissioned, when I was editor of _Sight and Sound_, as the first of a projected series on film directors, delayed and then cancelled owing to lack of funds. In the introduction that _Cinema_ asked me to write, I noted – from the vantage point of a California expatriate – that Lindsay had always been far more ‘British’ than myself: ‘He is impatient and sometimes furious, but remains deeply attached. He will always live there, I guess, because like Ford he loves the idea of solid, far-reaching roots, and like Ford he is fundamentally a secret person. Exile involves self-exposure...’
@@ -99,5 +110,5 @@ UK 1995
 38 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzY1MjMxNF19
+eyJoaXN0b3J5IjpbMTg5ODY1NjY3NF19
 -->
