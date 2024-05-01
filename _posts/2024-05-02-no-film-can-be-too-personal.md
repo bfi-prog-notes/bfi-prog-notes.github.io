@@ -1,12 +1,12 @@
 ---
 layout: post
-title: This Sporting Life
+title: Is That All There Is
 published: true
-date: 2024-05-01
+date: 2024-05-02
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
-tags: [Drama]
-metadata: 'UK 1963, 134 mins<br> Director: Lindsay Anderson'
+tags: [Documentary]
+metadata: 'UK 1994, 52 mins<br> Director: Lindsay Anderson'
 pdf: '2024-05-02-this-sporting-life.pdf'
 ---
 
@@ -86,7 +86,6 @@ Anthony Page
 Alexander Walker
 
 UK 1994
-
 52 mins
 
 Digital
@@ -107,5 +106,6 @@ UK 1995
 38 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTYzNDEyMywxODk4NjU2Njc0XX0=
+eyJoaXN0b3J5IjpbMTQzMzcwNTk5NywxOTI1NjM0MTIzLDE4OT
+g2NTY2NzRdfQ==
 -->
