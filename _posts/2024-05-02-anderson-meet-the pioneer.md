@@ -30,7 +30,7 @@ In Britain, Channel 4 has helped to finance films and then has the right to show
 
 _Glory! Glory!_ is somewhat different. Plainly, although the spread of the story is quite great, it’s not possible in 35 days to give it the kind of wit you would have in a movie. If we were making it as a movie, we would certainly have had at least a week or ten days in Texas to shoot some locations. Here we have had one day shooting at York University and that has been our exteriors. My approach to it has been completely pragmatic – to get the script on to film as inventively and expressively as possible. When you take on a subject like this, I don’t think you indulge too much in theory.
 
-_How far did the schedule force you into different procedures from those you followed on The Whales of August?_
+_How far did the schedule force you into different procedures from those you followed on_ The Whales of August _?_
 
 If we had been making _The Whales of August_ for television, I imagine it would have been done on a four-week budget, and it wouldn’t have been shot in Maine but in a studio with a few exteriors. It would have been a different kind of film and it would have been much diminished. I think the fact that we were making a movie creates a psychological difference. I know that some of the American technicians on _The Whales_ _of August_ expected us to shoot it like a television movie. They just expected us to give it an overall lighting and then go in to shoot all the sequences. But, of course, we didn’t. We shot it with the care that goes with making a movie. But that is true of this film also, and how you have to look at it, if you like, is that the restrictions or economies are present in the script.
 
