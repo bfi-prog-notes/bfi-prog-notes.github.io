@@ -7,7 +7,7 @@ readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Documentary]
 metadata: 'UK 1994, 52 mins<br> Director: Lindsay Anderson'
-pdf: '2024-05-02-this-sporting-life.pdf'
+pdf: '2024-05-02-no-film-can-be-too-personal.pdf'
 ---
 
 **A contemporary review**  
@@ -169,6 +169,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjY2NzExMiwxOTI1NjM0MTIzLDE4OT
-g2NTY2NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTYwMzc3MDcsMTkyNTYzNDEyMywxOD
+k4NjU2Njc0XX0=
 -->
