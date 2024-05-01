@@ -7,9 +7,8 @@ readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Drama]
 metadata: 'UK 1963, 134 mins<br> Director: Lindsay Anderson'
-pdf: '2024-05-01-this-sporting-life.pdf'
+pdf: '2024-05-02-this-sporting-life.pdf'
 ---
-
 
 **A contemporary review**  
 This article, I had better start by saying, will not be an ‘objective’ review of _Is That All There Is?_, but as personal as the film Lindsay Anderson has made. An old friend, he asked me to write about it – provided, of course, that I liked it – because he said he ‘couldn’t think of anyone else who would fully understand what I’ve tried to express’. And as I like the film very much, I shall try to express here how it affected me, the delayed echo I hear as I write.
@@ -108,5 +107,5 @@ UK 1995
 38 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Nzk4OTUwMiwxODk4NjU2Njc0XX0=
+eyJoaXN0b3J5IjpbMTkyNTYzNDEyMywxODk4NjU2Njc0XX0=
 -->
