@@ -2,8 +2,7 @@
 
 <![endif]-->
 
-**A contemporary review**
-
+**A contemporary review** 
 This article, I had better start by saying, will not be an ‘objective’ review of _Is That All There Is?_, but as personal as the film Lindsay Anderson has made. An old friend, he asked me to write about it – provided, of course, that I liked it – because he said he ‘couldn’t think of anyone else who would fully understand what I’ve tried to express’. And as I like the film very much, I shall try to express here how it affected me, the delayed echo I hear as I write.
 
 In 1971 a soon-to-be-defunct American magazine, _Cinema_, published a monograph by Lindsay on John Ford – something I had originally commissioned, when I was editor of _Sight and Sound_, as the first of a projected series on film directors, delayed and then cancelled owing to lack of funds. In the introduction that _Cinema_ asked me to write, I noted – from the vantage point of a California expatriate – that Lindsay had always been far more ‘British’ than myself: ‘He is impatient and sometimes furious, but remains deeply attached. He will always live there, I guess, because like Ford he loves the idea of solid, far-reaching roots, and like Ford he is fundamentally a secret person. Exile involves self-exposure...’
@@ -34,10 +33,8 @@ Like Ford, his favourite director, Lindsay is part rebel and part traditionalist
 But the last delayed echo I hear is of unrequited love, for a country of the mind, the better place that he would like England to be – and that in the 60s optimism of _If...._ he thought it might become. Slow dissolve, and it turned into _Britannia Hospital_. Now, even if he asks _Is That All There Is?_, he carries on regardless, finding moments of comfort and solidarity where he can, and for the rest of the time, keeping his finger on the trigger.  
 **Gavin Lambert, _Sight and Sound_, October 1994**  
 <br>
-<![endif]-->
 
-**Is That All There Is?**
-
+**IS THAT ALL THERE IS?**  
 _Director_: Lindsay Anderson  
 _Production Company_: Yaffle Films  
 _Commissioning Company_: BBC Scotland  
@@ -45,10 +42,9 @@ _Executive Producer_: John Archer
 _Producer_: Trevor Ingman  
 _Photography_: Jonathan Collinson  
 _Editor_: Nicolas Gaster  
-_Music_: Alan Price
+_Music_: Alan Price  
 
-_With:_
-
+**With**  
 Lindsay Anderson  
 Alexander Anderson  
 Murray Anderson  
@@ -87,16 +83,15 @@ UK 1994
 
 Digital
 
-**Lucky Man**
-
+**LUCKY MAN**  
 _Director_: Ken McMullen  
 _Production Company_: Looseyard  
 _Producers_: Hannah Wiggin, Sean Lewis  
 _Photography_: Tony Costa  
 _Editor_: Guy Landver  
-_Music_: David Cunningham
+_Music_: David Cunningham  
 
-_With:_
+**With**  
 Sean Lewis  
 John Cartwright
 
@@ -104,5 +99,5 @@ UK 1995
 38 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMTk5NDAzXX0=
+eyJoaXN0b3J5IjpbMTg1MzY1MjMxNF19
 -->
