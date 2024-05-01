@@ -1,10 +1,16 @@
-
-
-<![endif]-->
-
-Join season curators William Fowler and James Bell as they explore Anderson’s life and work, and interrogate the career of a filmmaker who remained a singularly combative thorn in the side of British cinema, whether as a critic or as a filmmaker. Illustrated with rare clips taken from Anderson’s films, TV plays, interviews and commercials, and sourced from the collections of the BFI National Archive, the talk will consider the complex legacy of one of British cinema’s true iconoclasts.
-
-bfi.org.uk
+---
+layout: post
+title: Lindsay Anderson<br>Meet the Pioneer
+published: true
+date: 2024-05-02
+readtime: true
+categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+tags: [Talk]
+metadata: 
+pdf: '2024-05-02-anderson-meet-the-puoneer.pdf'
+---
+Join season curators William Fowler and James Bell as they explore Anderson’s life and work, and interrogate the career of a filmmaker who remained a singularly combative thorn in the side of British cinema, whether as a critic or as a filmmaker. Illustrated with rare clips taken from Anderson’s films, TV plays, interviews and commercials, and sourced from the collections of the BFI National Archive, the talk will consider the complex legacy of one of British cinema’s true iconoclasts.  
+**bfi.org.uk**  
 
 Born in Bangalore, India, on 17 April 1923, younger son of a Scottish army officer stationed there, Anderson was named for Australian poet, Adam Lindsay Gordon, much admired by his mother. Educated at Cheltenham College, he announced there his intention to ‘rebel’ and spent the rest of his life carrying out this aim. At Cheltenham, he began a life-long friendship with writer-to-be, Gavin Lambert, drawn together by their love of American films; sixty years later, Lambert would write an elegant account of Anderson’s (and his own) life and work.
 
@@ -14,8 +20,7 @@ _Sequence_ ran to fourteen polemical issues, after which Anderson continued to w
 
 Anderson was the last Free Cinema director to make his feature debut, but he arguably outstripped them all. Based on David Storey’s novel, _This Sporting Life_ (1963, produced by Reisz) is an excoriating account of an emotionally inarticulate footballer, whose aggression serves him well on the rugby field but not in dealing with the deeply inhibited woman he loves. The film was set around Wakefield, Yorkshire, where Anderson had shot his first four documentaries, and its surface realism, on sporting-field, in locker-room, street and pub, is impeccable; but it is the rendering of the man’s bruising inner life that is most remarkable. Masterly as this film is, it is his next feature - _If...._ (1968) – with which his name is inextricably associated.
 
-Before _If…._, there were two curious, little-seen short films: _The White Bus_ (1966), which was one of a planned triptych of art films that never came to pass and was released alone as a short, and the Polish documentary, _The Singing Lesson_/_Raz, Dra, Trzy_ (1967). But _If...._ proved the one indisputable commercial success of Anderson’s fitful screen career. Filmed at his old school, Cheltenham, which was not made privy to the full nature of its iconoclasm, _If...._ struck a very resonant chord in the year of student uprisings in several continents. Its image of the rebellious public schoolboy, Mick Travis (Malcolm McDowell), armed to the teeth on the chapel roof, became a treasured icon for disaffected youth. The film railed against the debilitating class system which was Anderson’s recurring _bête noire_, and, winding its exhilarating way between black-and-white and colour sequences, it exposed hypocrisy in school, church and the military. It remains Anderson’s key denunciation of the ills of British society as he persistently saw them. He retained Travis/McDowell as the protagonist of two further ‘state-of-the-nation’ films: the picaresque Brechtian satirical fable,  
-_O Lucky Man!_ (1973), with Travis as a Candide-like coffee-salesman, and _Britannia Hospital_ (1982), with Travis a reporter and the nation now, metaphorically, an ill-run hospital, rather than public school. Neither was much liked on release – his curmudgeonly socialism was out of step with the times – but hindsight may teach us to value them better.
+Before _If…._, there were two curious, little-seen short films: _The White Bus_ (1966), which was one of a planned triptych of art films that never came to pass and was released alone as a short, and the Polish documentary, _The Singing Lesson_/_Raz, Dra, Trzy_ (1967). But _If...._ proved the one indisputable commercial success of Anderson’s fitful screen career. Filmed at his old school, Cheltenham, which was not made privy to the full nature of its iconoclasm, _If...._ struck a very resonant chord in the year of student uprisings in several continents. Its image of the rebellious public schoolboy, Mick Travis (Malcolm McDowell), armed to the teeth on the chapel roof, became a treasured icon for disaffected youth. The film railed against the debilitating class system which was Anderson’s recurring _bête noire_, and, winding its exhilarating way between black-and-white and colour sequences, it exposed hypocrisy in school, church and the military. It remains Anderson’s key denunciation of the ills of British society as he persistently saw them. He retained Travis/McDowell as the protagonist of two further ‘state-of-the-nation’ films: the picaresque Brechtian satirical fable, _O Lucky Man!_ (1973), with Travis as a Candide-like coffee-salesman, and _Britannia Hospital_ (1982), with Travis a reporter and the nation now, metaphorically, an ill-run hospital, rather than public school. Neither was much liked on release – his curmudgeonly socialism was out of step with the times – but hindsight may teach us to value them better.
 
 His only other feature films were the fine, cinematically fluent 1974 adaptation of his friend David Storey’s play, _In Celebration_, which Anderson had directed at the Royal Court Theatre, and, US-made, the final, elegiac _The Whales of August_ (1987), which did honour to two of the screen’s greatest stars, Lillian Gish and Bette Davis. Anderson never found it easy to bring his projects to screen fruition, partly because he acquired a reputation for being difficult and uncompromising, but he survived on his own terms and there is no trash in his oeuvre. Joining the English Stage Company at the Royal Court in 1957, he was also a noted director of plays, classical (e.g., a fine production of _The Cherry Orchard_, 1983) and – groundbreakingly – modern  
 (e.g., Storey’s _Home_, 1970); he directed the savage Canadian miniseries, _Glory! Glory!_ (1989) which dealt swingeing blows at TV evangelism, acted in several films, including _Chariots of Fire_ (1981), and wrote two valuable books about film, _The Making of a Film: the Story of ‘Secret People’_ (1952) and _About John Ford_ (1981). His last screen work was to provide an angry, very recognisable voice on the telephone in Mark Herman’s _Blame It on the Bellboy_ (1992).
@@ -33,5 +38,5 @@ He is regular programmer of BFI Southbank’s biannual Deep Focus film seasons, 
 **William Fowler** – **Curator, artists’ moving image**  
 Will joined the BFI in 2005 as the archive’s first dedicated curator of artists’ moving image. Since then he has undertaken a number of film restoration projects, seasons and DVD releases, including GAZWRX: the films of Jeff Keen, Queer Pagan Punk: Derek Jarman (the largest ever Jarman retrospective) and This Is Now: Film and Video After Punk, currently touring internationally through LUX. He co-conceived and co-programmed with Vic Pratt the popular monthly programme The Flipside and regularly contributes to the BFI Flipside Blu Rays and DVDs. He programmes the monthly BFI Southbank Experimenta strand and the Experimenta Mixtape.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NDI2NDg1XX0=
+eyJoaXN0b3J5IjpbOTA4ODM3Mjg1XX0=
 -->
