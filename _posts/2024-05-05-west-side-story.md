@@ -1,3 +1,14 @@
+---
+layout: post
+title: West Side Story
+published: true
+date: 2024-05-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Musical]
+metadata: 'USA 1961, 151 mins<br> Directors: Robert Wise, Jerome Robbins'
+pdf: '2024-05-05-west-side-story.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -5,9 +16,7 @@ _West Side Story_  magically  transmutes _Romeo and Juliet_’s dramatic momentu
 
 As in the stage musical triumphantly directed by Robbins on Broadway in 1957, gangs of white American Jets (Montagues) take on Puerto Rican Sharks (Capulets) on the streets of New York. Romeo becomes Tony, who works in the soda shop run by the elderly Doc (the Friar Laurence figure), leaving Jets co-founder Riff (Mercutio) to run the gang alone. Maria (Juliet) works in a bridal shop after being brought over from Puerto Rico by her volatile brother, Bernardo (Tybalt and Capulet combined). Bernardo runs the Sharks, dates Anita, who replaces the Nurse as Maria’s confidante, and wants his sister to marry Chino (Paris). Two cops, racist Lieutenant Schrank and ineffectual Officer Krupke, assume the Prince’s judicial role at the end of a dazzling opening ‘fight’, in which the gangs trade dance-steps instead of blows.
 
-_Romeo and Juliet_’s love poetry is matched by the duets and solos for handsome, anodyne Richard Beymer (dubbed by Jimmy Bryant) and radiant Natalie Wood (dubbed by Marni Nixon), who gives a devastating portrayal of innocence betrayed.  Their songs include the tingling anticipation of Maria’s  
-‘I Feel Pretty’, the dazed joy of Tony’s ‘Maria’ and the shared hope of ‘Tonight’ in their fire-escape ‘balcony’ scene. Their hesitant intimacy is played off against the overwhelming vitality of the Jets’ delinquent’s lament, ‘Gee, Officer Krupke’, and the Sharks girls’ equally ironic view of immigrant life, ‘America’,  
-an incomparable rooftop stomp led by Moreno’s fiery Anita and Chakiris’ brooding Bernardo.
+_Romeo and Juliet_’s love poetry is matched by the duets and solos for handsome, anodyne Richard Beymer (dubbed by Jimmy Bryant) and radiant Natalie Wood (dubbed by Marni Nixon), who gives a devastating portrayal of innocence betrayed.  Their songs include the tingling anticipation of Maria’s  ‘I Feel Pretty’, the dazed joy of Tony’s ‘Maria’ and the shared hope of ‘Tonight’ in their fire-escape ‘balcony’ scene. Their hesitant intimacy is played off against the overwhelming vitality of the Jets’ delinquent’s lament, ‘Gee, Officer Krupke’, and the Sharks girls’ equally ironic view of immigrant life, ‘America’,  an incomparable rooftop stomp led by Moreno’s fiery Anita and Chakiris’ brooding Bernardo.
 
 These arm-thrusting, pelvis-tilting ensembles are a delight and, crucially, make you care about _all_ the singers, from the smouldering Anita/Bernardo relationship, down to the most junior Jet. Where Shakespeare alternates between children, parents and surrogate parents (Friar and Nurse), here the focus on youth never wavers (Doc, Schrank and Krupke make a handful of appearances; Maria’s parents remain off screen), and the racial prejudice dividing the kids is a more convincing plot motor than the motiveless ‘ancient grudge’ pitting Capulets against Montagues.
 
@@ -120,6 +129,57 @@ Digital
 
 *Uncredited
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Rope**<br> 
+Wed 1 May 18:10 (+ intro by Bryony Dixon, BFI National Archive Curator); Fri 3 May 21:00; Tue 14 May 12:30; Sun 26 May 13:00<br>
+**Henry V**<br>
+Thu 2 May 14:40; Thu 9 May 20:15; Thu 30 May 14:30<br>
+**The Magic Flute** Trollflöjten<br>
+Fri 3 May 12:00; Fri 24 May 20:25; Tue 28 May 14:30<br>
+**Pandora’s Box** Die Büchse der Pandora<br>
+Sat 4 May 15:10; Fri 17 May 18:00; Sat 25 May 13:10; Fri 31 May 14:30<br>
+**West Side Story**<br>
+Sun 5 May 19:30; Thu 16 May 14:30<br>
+**Cabaret**<br>
+Mon 6 May 20:20; Sat 11 May 14:45; Tue 21 May 14:30<br>
+**A Streetcar Named Desire**<br>
+Tue 7 May 12:10; Sat 18 May 20:30; Fri 24 May 14:50; Sun 26 May 17:40<br>
+**Camille**<br>
+Wed 8 May 18:10 (+ intro); Sun 12 May 20:40; Mon 27 May 12:30<br>
+**His Girl Friday**<br>
+Fri 10 May 18:10; Sun 19 May 20:30; Thu 23 May 18:30; Wed 29 May 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**Beautiful Thing**<br> 
+Mon 13 May 20:40; Wed 22 May 18:20 (+ intro by Simon McCallum, BFI National Archive Curator); Thu 30 May 12:10<br>
+**Bluebeard’s Castle** Herzog Blaubarts Burg<br> 
+Wed 15 May 18:10 (+ intro by Alex Prideaux, Marketing and Events Manager – Our Screen Heritage); Fri 31 May 18:10<br>
+**Chi-Raq**<br>
+Mon 20 May 18:05; Thu 30 May 20:30<br> 
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMxODQzNjc1NV19
 -->
