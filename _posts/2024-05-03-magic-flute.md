@@ -41,8 +41,7 @@ _Assistant Art Directors_: Emilio Moliner,  Anna-Lena Hansen, Pascual Di Bianco,
 _Costumes_: Karin Erskine  
 _Make-up_: Bengt Ottekil, Britt Falkemo, Cecilia Drott  
 _Music_: Mozart  
-_Music Performed by_:  
-Sveriges Radios Symfoniorkester  
+_Music Performed by_:  Sveriges Radios Symfoniorkester  
 _Choir by_: Radiokören  
 _Music Director_: Eric Ericson  
 _Music Recording_: Helmut Mühle  
@@ -50,8 +49,7 @@ _Choreography_: Donya Feuer
 _Dialogue Recordist_: Peter Hennix  
 _Sound Mixer_: Bengt Törnkrantz
 
-_Cast:_
-
+**Cast**  
 Josef Köstlinger _(Tamino)_  
 Irma Urrila _(Pamina)_  
 Håkan HagegÅrd _(Papageno)_  
@@ -60,17 +58,15 @@ Birgit Nordin _(Queen of the Night)_
 Britt-Marie Aruhn_,_ Birgitta Smiding_,_ Kirsten Vaupel _(ladies)_  
 Ulrik Cold _(Sarastro)_  
 Ragnar Ulfung _(Monostatos)_  
-Gösta Prüzelius_,_ Ulf Johansson _(priests)_  
-Hans Johansson_,_ Jerker Arvidsson _(armed men)_  
-Urban Malmberg_,_ Ansgar Krook_,_ Erland von Heijne _(boys)_
-
+Gösta Prüzelius, Ulf Johansson _(priests)_  
+Hans Johansson, Jerker Arvidsson _(armed men)_  
+Urban Malmberg, Ansgar Krook, Erland von Heijne _(boys)_  
 Erik Saedén
 
-Sweden 1975
-
-135 mins
-
+Sweden 1975  
+135 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjcwODUwNl19
+eyJoaXN0b3J5IjpbMTk3MjYyNTAwNF19
 -->
