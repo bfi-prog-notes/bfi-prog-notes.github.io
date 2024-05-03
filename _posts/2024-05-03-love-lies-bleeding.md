@@ -92,26 +92,17 @@ A Lionsgate UK release
 **NEW RELEASES**<br>
 **Close Your Eyes** Cerrar los ojos<br>
 From Fri 12 Apr<br>
-
 **Love Lies Bleeding**<br>
-
 From Fri 3 May<br>
-
-**Made in England:  
-The Films of Powell and Pressburger**<br>
-
+**Made in England:  The Films of Powell and Pressburger**<br>
 From Fri 10 May<br>
-
 **Hoard**<br>
-
 From Fri 10 May
 
 **RE-RELEASES**<br>
-
 **Rome, Open City** Roma città aperta<br>
-
 From Fri 17 May<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTM1MDgxN119
+eyJoaXN0b3J5IjpbLTQ2MTIzNjA1NV19
 -->
