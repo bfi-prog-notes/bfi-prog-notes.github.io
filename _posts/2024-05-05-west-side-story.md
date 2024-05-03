@@ -73,8 +73,8 @@ _Choreography by:_ Jerome Robbins
 _Dance Assistants:_ Tommy Abbott, Margaret Banks, Howard Jeffrey, Tony Mordente  
 _Sound by:_ Murray Spivack, Fred Lau, Vinton Vernon  
 _Sound Editor:_ Gilbert D. Marchant  
-_Cast:_
 
+**Cast**  
 Natalie Wood _(Maria)_  
 Richard Beymer _(Tony)_  
 Russ Tamblyn _(Riff)_  
@@ -111,16 +111,15 @@ Suzie Kaye _(Rosalia)_
 Joanne Miya _(Francisca)_  
 John Astin _(Glad Hand)_ *  
 Penny Santon _(Madam Lucia)_ *  
-Marni Nixon _(Nathalie Wood’s singing voice)_ *
-
+Marni Nixon _(Nathalie Wood’s singing voice)_ *  
 Jimmy Bryant _(Richard Beymer’s singing voice)_ *  
-USA 1961©
 
-151 mins
-
+USA 1961©  
+151 mins  
 Digital
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTE1NjY2NV19
+eyJoaXN0b3J5IjpbMTMxODQzNjc1NV19
 -->
