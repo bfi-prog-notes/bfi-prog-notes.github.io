@@ -19,19 +19,14 @@ While one can trace an encyclopaedic range of cinematic references in _Love Lies
 
 The cast was keen to soak up all the influences. But what drew them was Glass’s own originality. ‘Few filmmakers are making movies as cinematic, lively, and stylised as Rose,’ says Kristen Stewart. ‘She makes movies that don't emulate other movies, even though you can see her inspirations. What she does comes from somewhere so truthful that the framework, architecture, and voice of the movie become distinctly hers. I think she wants to scare people and scare herself in a way that is not for titillating purposes, but really to make you turn around and look at yourself.’
 
-Adds Dave Franco, ‘This is a story where you truly can’t predict where it's going. The vibe is at once weird and scary and human and full of crazy family drama. And what I love about Rose is she doesn’t ever hold back. You realise anything can happen in this movie, which keeps you excited and on your toes every step of the way. And yet, even though things are very heightened, and the characters very flawed, I think a lot of people can relate to things they’re going through.’
+Adds Dave Franco, ‘This is a story where you truly can’t predict where it's going. The vibe is at once weird and scary and human and full of crazy family drama. And what I love about Rose is she doesn’t ever hold back. You realise anything can happen in this movie, which keeps you excited and on your toes every step of the way. And yet, even though things are very heightened, and the characters very flawed, I think a lot of people can relate to things they’re going through.’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**LOVE LIES BLEEDING**
-
+**LOVE LIES BLEEDING**  
 _Directed by_: Rose Glass  
-©: Crack in the Earth Rights LLC,  
-Channel Four Television Corporation  
-_an_ Escape Plan/Lobo Films _production_
-
+©: Crack in the Earth Rights LLC,  Channel Four Television Corporation  
+_an_ Escape Plan/Lobo Films _production_  
 _Developed in association with_: Film4  
 _Presented by_: A24, Film4  
 _Executive Producers_: Ollie Madden, Daniel Battsek, David Kimbangi, Susan Kirr  
@@ -42,8 +37,7 @@ _Post-production Supervisor_: Jeanette Haley
 _2nd Unit Director_: Peter Collister  
 _1st Assistant Director_: Susan Fiore, Scott Rorie  
 _Script Supervisor_: Anastasia Cummings  
-_Casting by_: Mary Vernieu,  
-Lindsay Graham Ahanonu  
+_Casting by_: Mary Vernieu,  Lindsay Graham Ahanonu  
 _Written by_: Rose Glass, Weronika Tofilska  
 _Director of Photography_: Ben Fordesman  
 _A Camera/Steadicam Operator_: Twojay Dhillon  
@@ -66,11 +60,9 @@ _Sound Mixer_: Rose Bladh
 _Re-recording Mixer_: Andrew Stirk  
 _Supervising Sound Editor_: Paul Davies  
 _Stunt Co-ordinator_: Derik Pritchard  
-_Digital Intermediate Provided by_:  
-Goldcrest Post Production
+_Digital Intermediate Provided by_:  Goldcrest Post Production
 
-_Cast:_
-
+**Cast**  
 Kristen Stewart _(Lou)_  
 Katy O’Brian _(Jackie)_  
 Jena Malone _(Beth)_  
@@ -92,38 +84,34 @@ Mikandrew _(Stoney Owen)_
 Hilary Fleming _(Sharon)_  
 Lontrell Anderson _(Vegas cop)_
 
-USA-UK 2023©
-
-104 mins
-
+USA-UK 2023©  
+104 mins  
 A Lionsgate UK release
+<br><br>
 
-<![endif]-->
+**NEW RELEASES**<br>
+**Close Your Eyes** Cerrar los ojos<br>
+From Fri 12 Apr<br>
 
-**NEW RELEASES**
+**Love Lies Bleeding**<br>
 
-**Close Your Eyes** Cerrar los ojos
-
-From Fri 12 Apr
-
-**Love Lies Bleeding**
-
-From Fri 3 May
+From Fri 3 May<br>
 
 **Made in England:  
-The Films of Powell and Pressburger**
+The Films of Powell and Pressburger**<br>
+
+From Fri 10 May<br>
+
+**Hoard**<br>
 
 From Fri 10 May
 
-**Hoard**
+**RE-RELEASES**<br>
 
-From Fri 10 May
+**Rome, Open City** Roma città aperta<br>
 
-**RE-RELEASES**
-
-**Rome, Open City** Roma città aperta
-
-From Fri 17 May
+From Fri 17 May<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDUwMTcyOV19
+eyJoaXN0b3J5IjpbLTQwNTM1MDgxN119
 -->
