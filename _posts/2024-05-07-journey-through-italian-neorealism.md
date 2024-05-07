@@ -2,9 +2,9 @@
 layout: post
 title: Journey through<br>Italian Neorealism
 published: true
-date: 2024-05-04
+date: 2024-05-07
 readtime: true
-categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
 tags: [Talk]
 metadata: 
 pdf: '2024-05-07-journey-through-italian-neorealism.pdf'
@@ -57,5 +57,5 @@ Cesare Zavattini, _Sequences from a Cinematic Life_, Englewood Cliffs, 1977
 
 Cesare Zavattini, _Neorealismo ecc._, Bompiani: Milano, 1979
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyNjAxMDQsMTg1NjA1OTY2OV19
+eyJoaXN0b3J5IjpbLTExNzQyOTkzNDIsMTg1NjA1OTY2OV19
 -->
