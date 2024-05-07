@@ -36,8 +36,7 @@ David Forgacs, _Rome Open City_, BFI Publishing 2000
 
 David Forgacs and Stephen Gundle, _Mass Culture and Italian Society from Fascism to the Cold War_, Indiana University Press, 2007
 
-Tag Gallagher, _The Adventures of Roberto Rossellini: His Life and Films_,  
-Da Capo Press, 1998
+Tag Gallagher, _The Adventures of Roberto Rossellini: His Life and Films_, Da Capo Press, 1998
 
 Stephen Gundle, _Fame Amid the Ruins: Italian Stardom in the Age of Neorealism,_ Berghahn, 2019
 
