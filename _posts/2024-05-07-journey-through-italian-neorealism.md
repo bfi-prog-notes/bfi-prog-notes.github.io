@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Journey through<br>Italian Neorealism
+published: true
+date: 2024-05-04
+readtime: true
+categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+tags: [Talk]
+metadata: 
+pdf: '2024-05-07-journey-through-italian-neorealism.pdf'
+---
 
 This wide-ranging exploration of the roots, context and legacy of Italian neorealism is the perfect starting point for our two-month long programme. Join season curator Giulia Saccogna together with film critic Christina Newland and academics Professor Richard Dyer and Professor Stephen Gundle for a richly illustrated conversation looking at some of the key figures behind the movement, the newly emerging portrayal of women in Italian cinema in the post-war era, and the stylistic elements and thematic preoccupations that made the movement so influential.
 
@@ -50,5 +57,5 @@ Cesare Zavattini, _Sequences from a Cinematic Life_, Englewood Cliffs, 1977
 
 Cesare Zavattini, _Neorealismo ecc._, Bompiani: Milano, 1979
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjA1OTY2OV19
+eyJoaXN0b3J5IjpbLTE2NzEyNjAxMDQsMTg1NjA1OTY2OV19
 -->
