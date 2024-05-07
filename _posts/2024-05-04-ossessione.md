@@ -4,7 +4,7 @@ title: Ossessione
 published: true
 date: 2024-05-04
 readtime: true
-categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
 tags: [Drama]
 metadata: 'Italy 1942, 141 mins<br> Director: Luchino Visconti'
 pdf: '2024-05-04-ossessione.pdf'
@@ -138,5 +138,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODg5OTE0M119
+eyJoaXN0b3J5IjpbMTQ4NzY2NDU1OCwtNTA4ODk5MTQzXX0=
 -->
