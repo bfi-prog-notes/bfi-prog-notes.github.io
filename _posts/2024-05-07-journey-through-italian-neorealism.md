@@ -56,6 +56,64 @@ Enrica Viganò, _Neorealismo: The New Image in Italy 1932-1960_, Prestel, 2018
 Cesare Zavattini, _Sequences from a Cinematic Life_, Englewood Cliffs, 1977
 
 Cesare Zavattini, _Neorealismo ecc._, Bompiani: Milano, 1979
+<br>
+**CHASING THE REAL: ITALIAN NEOREALISM**  
+**Ossessione**  
+Sat 4 May 20:15; Sun 12 May 17:50  
+**Paisà**  
+Mon 6 May 15:20; Fri 10 May 20:30; Sun 19 May 15:30; Mon 20 May 12:00; Wed 29 May 12:00  
+**Journey through Italian Neorealism**  
+Tue 7 May 18:10  
+**Four Steps in the Clouds** Quattro passi fra le nuvole  
+Tue 7 May 20:30 (+ intro by season curator Giulia Saccogna); Mon 13 May 18:20  
+**The Children Are Watching Us** I bambini ci guardano  
+Wed 8 May 20:45; Thu 16 May 18:20  
+**Shoeshine** Sciuscià  
+Tue 14 May 18:10 (+ intro by season curator Giulia Saccogna); Tue 21 May 20:45  
+**A Tragic Hunt (aka The Tragic Pursuit)** Caccia tragica  
+Wed 15 May 21:00; Sat 25 May 15:40  
+**The Mill on the Po** Il mulino del Po  
+Thu 16 May 20:40; Sat 25 May 18:20  
+**The Bandit** Il bandito  
+Fri 17 May 20:50; Sun 26 May 18:30  
+**Germany, Year Zero** Germania anno zero (aka Deutschland im Jahre Null)  
+Sun 19 May 18:20; Wed 22 May 12:30; Mon 27 May 15:00; Wed 29 May 20:40  
+**Bicycle Thieves** Ladri di biciclette  
+Sun 19 May 20:20; Mon 27 May 18:00  
+**Bitter Rice** Riso amaro  
+Wed 22 May 20:40; Thu 30 May 18:15  
+**La terra trema**  
+Sun 26 May 15:00; Fri 31 May 20:00  
+**Course: City Lit at the BFI Italian Neorealism – The Cinema of Everyday Life**  
+Wed 8 May – Wed 12 Jun 18:30-20:30  
+
+**With thanks to**  
+Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)<br>
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQyOTkzNDIsMTg1NjA1OTY2OV19
+eyJoaXN0b3J5IjpbLTQ2ODI5MTg0OSwxODU2MDU5NjY5XX0=
 -->
