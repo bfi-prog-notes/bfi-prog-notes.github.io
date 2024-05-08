@@ -6,8 +6,8 @@ date: 2024-05-08
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Drama]
-metadata: 'UK 1968, 111 mins<br> Director: Lindsay Anderson'
-pdf: '2024-05-06-if.pdf'
+metadata: 'USA-UK-Canada 1975, 131 mins<br> Director: Lindsay Anderson'
+pdf: '2024-05-08-in-celebration.pdf'
 ---
 
 David Storey’s play _In Celebration_ opened at the Royal Court Theatre in London on 22 April 1969, and earned rave reviews in its premiere engagement in the United States at the Arena Stage Theatre, Washington, DC. It is the story of three sons, educated above their class, who return to their home in a coal-mining town in the north of England to celebrate their parents’ 40th wedding anniversary. It’s a sharply etched, deeply compassionate portrait of a family reunion fatally flawed by the spectres of past guilt and present hypocrisy. Storey powerfully delves beneath the surface appearance of love and unity to reveal the diverse forces that have alienated the sons from the parents.
@@ -152,5 +152,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDgzMjQ1Ml19
+eyJoaXN0b3J5IjpbLTg0MTYyNjM0XX0=
 -->
