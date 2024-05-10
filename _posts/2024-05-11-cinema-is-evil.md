@@ -29,73 +29,50 @@ UK 1907
 
 **The Dead**  
 _Film-maker_: Stan Brakhage  
-_Production Company_:  The Film-Makers' Cooperative
-
-_With:_ Kenneth Anger
-
-USA 1960
-
+_Production Company_:  The Film-Makers' Cooperative  
+_With:_ Kenneth Anger  
+USA 1960  
 11 mins
 
-**Arena: Kenneth Anger’s Hollywood Babylon**
-
+**Arena: Kenneth Anger’s Hollywood Babylon**  
 _Director_: Nigel Finch  
 _Production Company_: BBC TV  
-_Executive Producer_: Anthony Wall
-
-_With:_
-
-Kenneth Anger
-
-Mike McShane_  
-(Fatty Arbuckle/the God of Hollywood)_  
+_Executive Producer_: Anthony Wall  
+_With:_  
+Kenneth Anger  
+Mike McShane _(Fatty Arbuckle/the God of Hollywood)_  
 Aaron Stafford _(the young Kenneth Anger)_  
 Trasey Vivat _(Lupe Velez)_  
 Sjaak Van-der-bent _(singer of ‘New Star in Heaven’)_  
-Marianne Faithfull
-
-UK 1991
-
+Marianne Faithfull  
+UK 1991  
 60 mins
 
-**Rabbit’s Moon**
-
+**Rabbit’s Moon**  
 _A film by_: Anger  
-_Production Company_: Puck Film Productions
-
-_Cast:_
-
+_Production Company_: Puck Film Productions  
+_Cast:_  
 Andre Soubeyran _(Pierrot)_  
 Claude Revenant _(Harlequin)_  
-Nadine Valence _(Columbine)_
-
-USA 1950
-
+Nadine Valence _(Columbine)_  
+USA 1950  
 16 mins
 
-**Fireworks**
-
-_A film by_ Kenneth Anger
-
-_Assistant Cameraman:_ Chester Kessler
-
-_Music:_ Ottorino Respighi
-
-_Cast:_
-
-Kenneth Anger _(the dreamer)_
-
-Bill Seltzer _(body builder/lover)_
-
-Gordon Gray _(body bearing sailor)_
-
-members of the US Navy _(crowd of sailors)_
-
-USA 1947
-
+**Fireworks**  
+_A film by_ Kenneth Anger  
+_Assistant Cameraman:_ Chester Kessler  
+_Music:_ Ottorino Respighi  
+_Cast:_  
+Kenneth Anger _(the dreamer)_  
+Bill Seltzer _(body builder/lover)_  
+Gordon Gray _(body bearing sailor)_  
+members of the US Navy _(crowd of sailors)_  
+USA 1947  
 14 mins
+<br>
 
 Total running time: 107 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4OTM4NDg1XX0=
+eyJoaXN0b3J5IjpbLTExNzkxMjAxMTNdfQ==
 -->
