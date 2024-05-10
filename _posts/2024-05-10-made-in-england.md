@@ -25,88 +25,46 @@ Scorsese has been thinking about _A Canterbury Tale_ (1944). I mention its extra
 
 **MADE IN ENGLAND  
 THE FILMS OF POWELL AND PRESSBURGER**<br>
-
 _Director:_ David Hinton<br>
-
-©: P & P Film Limited,  
-British Broadcasting Corporation<br>
-
+©: P & P Film Limited,  British Broadcasting Corporation<br>
 _Presented by:_ BBC Film, Screen Scotland<br>
-
 _A_ Ten Thousand 86, Ice Cream Films _production_<br>
-
 _In association with:_ Sikelia Productions, Altitude Film Sales, BFI National Archive, Cohen Media Group, ITV Studios Global Distribution, Park Circus Productions, Studiocanal, Turner Classic Movies<br>
-
-Made with the co-operation and assistance of the Estates of Michael Powell and  
-Emeric Pressburger<br>
-
-_Developed with the support of:_  
-Arts Alliance Productions Limited<br>
-
+Made with the co-operation and assistance of the Estates of Michael Powell and  Emeric Pressburger<br>
+_Developed with the support of:_  Arts Alliance Productions Limited<br>
 _Supported by:_ the Scottish Government and the National Lottery through Creative Scotland<br>
-
-_Executive Producers:_ Martin Scorsese,  
-Olivia Harrison, Thelma Schoonmaker, Will Clarke, Charles S. Cohen, Thomas Hoegh, Mark Thomas, Claudia Yusef, Eva Yates<br>
-
+_Executive Producers:_ Martin Scorsese,  Olivia Harrison, Thelma Schoonmaker, Will Clarke, Charles S. Cohen, Thomas Hoegh, Mark Thomas, Claudia Yusef, Eva Yates<br>
 _Produced by:_ Matthew Wells, Nick Varley<br>
-
 _Archive Producer:_ Sam Dwyer<br>
-
 _Associate Producer:_ Jamie Muir<br>
+_Line Producer:_ Penny Davies<br>
+_Line Producer (NY Crew):_ Mevlut Akkaya<br>
+_Production Manager:_ Nadja Lapcevic<br>
+_Production Coordinator:_ Celeste Carrigan<br>
+_Production Accounting:_ John Letham<br>
+_Post-production Supervisor:_ Lesley Weir<br>
+_Director of Photography (NY Crew):_  Ronan Killeen<br>
+_Edited by:_ Margarida Cartaxo,  Stuart Davidson<br>
+_Online Editor:_ David Leishman<br>
+_Additional Editing:_ Mike Trevett,  Matthew Wells<br>
+_Graphic Artist:_ Noriko Okaku<br>
+_Visual Effects:_ Serious FX<br>
+_Main Title Design:_ Jason Hillier<br>
+_Original Music:_ Adrian Johnston<br>
+_Music Supervisors:_ Oliver Jay,  Lisa McCaffery<br>
+_[Music] Recorded & Mixed by:_ Steve Parr<br>
+_Sound Recordists (NY Crew):_ Todd Maitland, Damian Rodriguez<br>
+_Re-recording Mixer:_ Daniel Taylor<br>
+_Consultant:_ Ian Christie<br>
+_Film Restoration Services:_ Janos Pilenyi, Daniel DeVincent, Mark Bonnici<br>
+_Presented by:_ Martin Scorsese<br>
 
-_Line Producer:_ Penny Davies
+UK-USA-France 2024©<br>
+133 mins<br>
+Digital<br>
 
-_Line Producer (NY Crew):_ Mevlut Akkaya
-
-_Production Manager:_ Nadja Lapcevic
-
-_Production Coordinator:_ Celeste Carrigan
-
-_Production Accounting:_ John Letham
-
-_Post-production Supervisor:_ Lesley Weir
-
-_Director of Photography (NY Crew):_  
-Ronan Killeen
-
-_Edited by:_ Margarida Cartaxo,  
-Stuart Davidson
-
-_Online Editor:_ David Leishman
-
-_Additional Editing:_ Mike Trevett,  
-Matthew Wells
-
-_Graphic Artist:_ Noriko Okaku
-
-_Visual Effects:_ Serious FX
-
-_Main Title Design:_ Jason Hillier
-
-_Original Music:_ Adrian Johnston
-
-_Music Supervisors:_ Oliver Jay,  
-Lisa McCaffery
-
-_[Music] Recorded & Mixed by:_ Steve Parr
-
-_Sound Recordists (NY Crew):_ Todd Maitland, Damian Rodriguez
-
-_Re-recording Mixer:_ Daniel Taylor
-
-_Consultant:_ Ian Christie
-
-_Film Restoration Services:_ Janos Pilenyi, Daniel DeVincent, Mark Bonnici
-
-_Presented by:_ Martin Scorsese
-
-UK-USA-France 2024©
-
-133 mins
-
-Digital
-
-An Altitude Film Distribution release
+An Altitude Film Distribution release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDE3MTEyMV19
+eyJoaXN0b3J5IjpbLTE3NzgyMzMyMTFdfQ==
 -->
