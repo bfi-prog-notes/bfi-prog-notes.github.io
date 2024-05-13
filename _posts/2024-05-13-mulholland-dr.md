@@ -119,6 +119,25 @@ France/USA 2001©
 Digital  
 <br>
 
+**MEMBER MONDAYS**  
+**La Règle du jeu** The Rules of the Game  
+Mon 13 May 17:50, 20:45  
+**Mulholland Dr.**  
+Mon 13 May 18:00, 20:00  
+**Tokyo Story** Tōkyō monogatari  
+Mon 20 May 18:00  
+**An Autumn Afternoon** Sanma no aji  
+Mon 20 May 20:45  
+**The Godfather**  
+Mon 27 May 15:30  
+**The Godfather Part II**  
+Mon 27 May 19:15  
+**Once Upon a Time in the West  C’era una volta il West**  
+Mon 3 Jun 17:30, 19:45  
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**  
+Mon 3 Jun 17:20, 20:35  
+<br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
@@ -142,5 +161,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODY5ODMwNl19
+eyJoaXN0b3J5IjpbLTEwODg3NTc3ODhdfQ==
 -->
