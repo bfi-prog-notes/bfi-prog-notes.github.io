@@ -18,72 +18,39 @@ The film’s opening scenes of the two children on horseback are powerfully icon
 Hollywood recognised the greatness of the film and gave it a Special Award Oscar (the predecessor of the foreign-language-film Oscar) for its being ‘proof to the world that the creative spirit can triumph over adversity’. Paradoxically, _Shoeshine_ was more successful abroad since Italy’s cinemas at the time were flooded with the huge backlog of US films boycotted by the Fascists since the late 1930s. Among conservative circles there were also cries of denunciation for the film’s depiction of such an embarrassing image of Italy’s ragged state. Indeed, the most remarkable feature of _Shoeshine_ is its hard-hitting honesty in describing a general state of crisis: even to the 21st-century spectator, the social frescos (the slightly surreal scenes in the jail interiors included) remain striking for the way in which they are warm-hearted and truthfully brutal at one and the same time.  
 **Guido Bonsaver, _Sight and Sound_, November 2006**  
 <br>
-<![endif]-->
 
-**SHOESHINE (SCIUSCIÀ)**
+**SHOESHINE (SCIUSCIÀ)**  
+_Director_: Vittorio De Sica  
+_Production Company_: Cinematografica Alfa  
+_Producer_: Paolo William Tamburella  
+_Production Manager_: Nino Ottavi  
+_Production Assistant_: Franco Serino  
+_Assistant Director_: Umberto Scarpelli  
+_2nd Assistant Directors_: Armando Tamburella, Argi Rovelli, Elmo De Sica  
+_Screenplay and Original Story_: Sergio Amidei, Adolfo Franci, Cesare Giulio Viola, Cesare Zavattini  
+_Director of Photography_: Anchise Brizzi  
+_Camera Operator_: Elio Paccara  
+_Editor_: Nicolò Lazzari  
+_Music_: Alessandro Cicognini  
+_Sound_: Tullio Parmeggiani  
 
-_Director_: Vittorio De Sica
-
-_Production Company_: Cinematografica Alfa
-
-_Producer_: Paolo William Tamburella
-
-_Production Manager_: Nino Ottavi
-
-_Production Assistant_: Franco Serino
-
-_Assistant Director_: Umberto Scarpelli
-
-_2nd Assistant Directors_: Armando Tamburella,
-
-Argi Rovelli, Elmo De Sica
-
-_Screenplay and Original Story_: Sergio Amidei, Adolfo Franci, Cesare Giulio Viola, Cesare Zavattini
-
-_Director of Photography_: Anchise Brizzi
-
-_Camera Operator_: Elio Paccara
-
-_Editor_: Nicolò Lazzari
-
-_Music_: Alessandro Cicognini
-
-_Sound_: Tullio Parmeggiani
-
-_Cast:_
-
-Franco Interlenghi _(Pasquale)_
-
-Rinaldo Smordoni _(Giuseppe)_
-
-Aniello Mele _(Raffaele)_
-
-Bruno Ortensi _(Arcangeli)_
-
-Emilio Cigoli _(Staffer)_
-
-Gino Saltamerenda _(Panza)_
-
-Nana Pedoni _(Nannarella)_
-
-Leo Garavaglia _(the commissioner)_
-
-Enrico De Silva _(Giorgio)_
-
-Antonio Lo Nigro _(Righetto)_
-
-Antonio D’amico _(the Sicilian)_
-
-Antonio Carlino _(the man from Abruzzo)_
-
-Francesco De Nicola _(Ciriola)_
-
-Pacifico Astrologo _(Vittorio)_
-
-Maria Campi _(the fortune-teller)_
-
-Giuseppe Spadaro _(Bonavino)_
-
+**Cast**  
+Franco Interlenghi _(Pasquale)_  
+Rinaldo Smordoni _(Giuseppe)_  
+Aniello Mele _(Raffaele)_  
+Bruno Ortensi _(Arcangeli)_  
+Emilio Cigoli _(Staffer)_  
+Gino Saltamerenda _(Panza)_  
+Nana Pedoni _(Nannarella)_  
+Leo Garavaglia _(the commissioner)_  
+Enrico De Silva _(Giorgio)_ 
+Antonio Lo Nigro _(Righetto)_  
+Antonio D’amico _(the Sicilian)_  
+Antonio Carlino _(the man from Abruzzo)_  
+Francesco De Nicola _(Ciriola)_  
+Pacifico Astrologo _(Vittorio)_  
+Maria Campi _(the fortune-teller)_  
+Giuseppe Spadaro _(Bonavino)_  
 Irene Smordoni _(Giuseppe’s mother)_  
 Antonio Nicotra _(Bartoli, the social worker)_  
 Claudio Ermelli _(the nurse)_  
@@ -105,5 +72,5 @@ Digital 4K (restoration)
 
 Restored in 4K in 2022 by The Film Foundation and Cineteca di Bologna in collaboration with Orium S.A. with funding provided by Hobson/Lucas Family Foundation at L’Immagine Ritrovata laboratory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzcyMDA1N119
+eyJoaXN0b3J5IjpbMTk2OTgyOTA2NF19
 -->
