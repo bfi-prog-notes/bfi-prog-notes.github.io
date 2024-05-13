@@ -1,13 +1,19 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Shoeshine
+published: true
+date: 2024-05-14
+readtime: true
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
+tags: [Drama]
+metadata: 'Italy 1946, 93 mins<br> Director: Vittorio De Sica'
+pdf: '2024-05-14-shoeshine.pdf'
+---
 
 _The screening of_ Shoeshine _on Tuesday 14 May will be introduced by season curator Giulia Saccogna._
 
-In the devastation of post-war Rome, two street kids shine shoes to escape starvation. Dreaming to buy a white horse of their own, they naively fall into petty criminality, ending up in a reformatory – a microcosm where their innocence and friendship crumbles. De Sica and Zavattini created a masterpiece of moving visual poetry – a work of painful beauty that owes much to Charles Chaplin and Jean Vigo.
-
-bfi.org.ukTop of Form
+In the devastation of post-war Rome, two street kids shine shoes to escape starvation. Dreaming to buy a white horse of their own, they naively fall into petty criminality, ending up in a reformatory – a microcosm where their innocence and friendship crumbles. De Sica and Zavattini created a masterpiece of moving visual poetry – a work of painful beauty that owes much to Charles Chaplin and Jean Vigo.  
+**bfi.org.uk**
 
 Vittorio De Sica’s _Shoeshine_ is one of the masterpieces of Italian neorealism. De Sica had learnt his trade as an actor, but his box-office hits of the interwar years were films that he was proud and dissatisfied with in equal measure. He began to direct in the early 1940s, and his previous acting experience helped him become an unrivalled coach of non-professional actors. The smooth performance of the two ‘shoeshine’ boys (‘sciuscià’ being the transliteration of the distorted Italian pronunciation of ‘shoeshine’) bears testament to this. Indeed, De Sica seemed to have a particular knack for training young actors. Children carried leading roles in his first serious film, _The Children Are Watching Us_ (_I bambini ci guardano_, 1944), and in the second masterpiece following _Sciuscià_, the legendary _Bicycle Thieves_ (_Ladri di_ biciclette, 1948).
 
@@ -131,5 +137,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTI4ODcwNV19
+eyJoaXN0b3J5IjpbNDU4MjkzMTg5XX0=
 -->
