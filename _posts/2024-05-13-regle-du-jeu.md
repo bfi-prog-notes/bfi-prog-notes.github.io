@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Mulholland Dr.
+published: true
+date: 2024-05-13
+readtime: true
+categories: ['MEMBER MONDAYS']
+tags: [Thriller]
+metadata: 'France/USA 2001, 147 mins<br> Director: David Lynch'
+pdf: '2024-05-13-mulhollans-dr.pdf'
+---
 
 ‘For us there was only one French director, and that was Jean Renoir’, said Claude Chabrol, while François Truffaut called Renoir ‘the greatest filmmaker in the world’. New Wave directors, as critics, had turned to Hollywood to elaborate their theories of authorship. But when it carne to practice, they followed in the footsteps of their mentor, André Bazin, in idolising Jean Renoir (while, in typical polemical fashion, rejecting practically every other French filmmaker).
 
@@ -27,84 +34,44 @@ This was a style developed partly in response to the theatrical tradition, which
 Renoir’s films of the ’30s dominated French cinema, not just because they were different from it, but because they summed it up and extended it, and, what’s more, extended it in ideologically sympathetic directions. Renoir’s populism became increasingly backward-looking and out-of-synch with French audiences after the war, but in the ’30s it was sharpened by the politics of the Popular Front, by anti-fascism and by pacifism. If Renoir is still the world’s idea of a great _auteur_, able to pursue his own preoccupations while addressing a popular audience, it is important to see that this was due to the conditions in which he worked. This is why Renoir was such a role model for the New Wave, but one they could not possibly replicate, because these conditions had forever vanished by the time they started to work.  
 **Ginette Vincendeau, _Sight and Sound_, December 1992**  
 <br>
-<![endif]-->
 
-**LA RÈGLE DU JEU (THE RULES OF THE GAME)**
+**LA RÈGLE DU JEU (THE RULES OF THE GAME)**  
+_Director:_ Jean Renoir  
+_Production Company:_ Nouvelle Edition Française  
+_Production Manager:_ Claude Renoir  
+_Unit Manager:_ Pillion  
+_Administrator:_ Camille François  
+_Assistant Directors:_ André Zwobada,Henri Cartier [i.e. Henri Cartier-Bresson]  
+_Scenario/Dialogue:_ Jean Renoir  
+_Screenplay Collaboration:_ Carl Koch  
+_Directors of Photography:_ Bachelet, Jacques Lemare, Alphen, Alain Renoir  
+_Stills Photography:_ Sam Levin  
+_Editors:_ Marguerite [Renoir], Mme. Huguet  
+_Art Directors:_ Lourié, Douy  
+_Music:_ Roger Desormières  
+_Sound:_ De Bretagne  
+_uncredited_  
+_Assistant Director:_ Carl Koch  
+_Script Girl:_ Dido Freire  
+_Gowns:_ Coco Chanel  
+_Musical Themes:_ Wolfgang Amadeus Mozart, Monsigny, Camille Saint-Saëns  
+_Music Arranger:_ Joseph Kosma  
+_Subtitles, Restoration:_ Lenny Borger  
 
-_Director:_ Jean Renoir
-
-_Production Company:_ Nouvelle Edition Française
-
-_Production Manager:_ Claude Renoir
-
-_Unit Manager:_ Pillion
-
-_Administrator:_ Camille François
-
-_Assistant Directors:_ André Zwobada,
-
-Henri Cartier [i.e. Henri Cartier-Bresson]
-
-_Scenario/Dialogue:_ Jean Renoir
-
-_Screenplay Collaboration:_ Carl Koch
-
-_Directors of Photography:_ Bachelet,
-
-Jacques Lemare, Alphen, Alain Renoir
-
-_Stills Photography:_ Sam Levin
-
-_Editors:_ Marguerite [Renoir], Mme. Huguet
-
-_Art Directors:_ Lourié, Douy
-
-_Music:_ Roger Desormières
-
-_Sound:_ De Bretagne
-
-_uncredited_
-
-_Assistant Director:_ Carl Koch
-
-_Script Girl:_ Dido Freire
-
-_Gowns:_ Coco Chanel
-
-_Musical Themes:_ Wolfgang Amadeus Mozart, Monsigny, Camille Saint-Saëns
-
-_Music Arranger:_ Joseph Kosma
-
-_Subtitles, Restoration:_ Lenny Borger
-
-_Cast:_
-
-Nora Gregor _(Christine de la Cheyniest)_
-
-Paulette Dubost _(Lisette, Christine’s chambermaid)_
-
-Mila Parély _(Geneviève de Marras)_
-
-Odette Talazac _(Charlotte de la Plante)_
-
-Claire Gérard _(Madame de La Bruyère)_
-
-Anne Mayen _(Jackie, Christine’s niece)_
-
-Lise Elina _(radio reporter)_
-
-Marcel Dalio _(Marquis Robert de La Cheyniest)_
-
-Julien Carette _(Marceau, the poacher)_
-
-Roland Toutain _(André Jurieux)_
-
-Gaston Modot _(Schumacher, the gamekeeper)_
-
-Jean Renoir _(Octave)_
-
-Pierre Magnier _(the general)_
-
+**Cast**   
+Nora Gregor _(Christine de la Cheyniest)_  
+Paulette Dubost _(Lisette, Christine’s chambermaid)_  
+Mila Parély _(Geneviève de Marras)_  
+Odette Talazac _(Charlotte de la Plante)_  
+Claire Gérard _(Madame de La Bruyère)_  
+Anne Mayen _(Jackie, Christine’s niece)_  
+Lise Elina _(radio reporter)_  
+Marcel Dalio _(Marquis Robert de La Cheyniest)_  
+Julien Carette _(Marceau, the poacher)_  
+Roland Toutain _(André Jurieux)_  
+Gaston Modot _(Schumacher, the gamekeeper)_  
+Jean Renoir _(Octave)_  
+Pierre Magnier _(the general)_  
 Eddy Debray _(Corneille, the majordomo)_  
 Pierre Nay _(Saint-Aubin)_  
 Richard Francoeur _(La Bruyère)_  
@@ -121,6 +88,50 @@ Jenny Hélia _(kitchen servant)_
 France 1939  
 106 mins  
 Digital  
+<br>
+<br>
+
+**MEMBER MONDAYS**  
+**La Règle du jeu** The Rules of the Game  
+Mon 13 May 17:50, 20:45  
+**Mulholland Dr.**  
+Mon 13 May 18:00, 20:00  
+**Tokyo Story** Tōkyō monogatari  
+Mon 20 May 18:00  
+**An Autumn Afternoon** Sanma no aji  
+Mon 20 May 20:45  
+**The Godfather**  
+Mon 27 May 15:30  
+**The Godfather Part II**  
+Mon 27 May 19:15  
+**Once Upon a Time in the West  C’era una volta il West**  
+Mon 3 Jun 17:30, 19:45  
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**  
+Mon 3 Jun 17:20, 20:35  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM0MTIzNDVdfQ==
+eyJoaXN0b3J5IjpbMTE3ODM0NzBdfQ==
 -->
