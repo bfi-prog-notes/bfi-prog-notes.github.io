@@ -21,8 +21,7 @@ Balfour’s popularity waned with the introduction of sound film yet although th
 Her last film was in 1945, after a hiatus of almost a decade. After a failed stage comeback in 1952, she attempted suicide, and was a recluse for the last 20 years of her life.  
 **Kelly Robinson and Ingrid Stigsdotter**
 
-**Long Fliv the King**
-
+**Long Fliv the King**  
 This short features the hilarious Charley Chase, with Oliver Hardy and Max Davidson. Another fine spoof of Ruritanian life.
 
 <![endif]-->
@@ -97,5 +96,5 @@ UK 1929
 With live musical accompaniment by  
 Stephen Horne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDE5MDU3OV19
+eyJoaXN0b3J5IjpbLTE3OTU3MzgxLC0zMDAxOTA1NzldfQ==
 -->
