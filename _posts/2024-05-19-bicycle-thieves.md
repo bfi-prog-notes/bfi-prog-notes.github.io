@@ -7,7 +7,7 @@ readtime: true
 categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
 tags: [Drama]
 metadata: 'Italy 1948, 90 mins<br> Director: Vittorio De Sica'
-pdf: '2024-05-19-bic.pdf'
+pdf: '2024-05-19-bicycle-thieves.pdf'
 ---
 
 **A contemporary review**  
@@ -28,7 +28,7 @@ _Bicycle Thieves_ is the true genre movie, and a superlative exercise in screen 
 De Sica’s lifetime of experience in the theatre and cinema as a leading man and comedian (which led him to abjure the professional actor) may account for his power to compel those flawless performances from his amateurs. But it is a painter’s instinct, probably inherited from his mother, which enriches his films with such comprehensive detail. His detached compassion, his sense of irony, his tolerant understanding, are the fruits of long study of his fellow men in difficult times. Anger does not show in his films, and anger is a concomitant of hope. Yet I do not find the conclusion of _Bicycle Thieves_ wholly pessimistic. Comradeship did to some extent sustain this man and doubtless, one feels, will do so again.
 
 With _Bicycle Thieves_, De Sica considers he has sufficiently exploited ‘realism’ for the moment. An artist who has found his true medium somewhat late in life, he possesses an unpredictable capacity for development. And in Cesare Zavattini he has found the scriptwriter who can play Prévert to his Carné. Their next film (the third of the trilogy which _Shoeshine_ started), will essay a new form – ‘irrealism’.  
-De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  De Sica believes in poor people.
+De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  De Sica believes in poor people.  
 **Richard Winnington, _Sight and Sound_, March 1950**  
 
 **Vittorio De Sica on ‘Bicycle Thieves’**  
@@ -105,6 +105,65 @@ Digital (4K restoration)
 Restored in 4K in 2018 by Cinecittà,  
 Cineteca di Bologna and Compass Film.  
 Courtesy of Cinecittà.  
+<br>
+
+**CHASING THE REAL: ITALIAN NEOREALISM**  
+**Ossessione**  
+Sat 4 May 20:15; Sun 12 May 17:50  
+**Paisà**  
+Mon 6 May 15:20; Fri 10 May 20:30; Sun 19 May 15:30; Mon 20 May 12:00; Wed 29 May 12:00  
+**Journey through Italian Neorealism**  
+Tue 7 May 18:10  
+**Four Steps in the Clouds** Quattro passi fra le nuvole  
+Tue 7 May 20:30 (+ intro by season curator Giulia Saccogna); Mon 13 May 18:20  
+**The Children Are Watching Us** I bambini ci guardano  
+Wed 8 May 20:45; Thu 16 May 18:20  
+**Shoeshine** Sciuscià  
+Tue 14 May 18:10 (+ intro by season curator Giulia Saccogna); Tue 21 May 20:45  
+**A Tragic Hunt (aka The Tragic Pursuit)** Caccia tragica  
+Wed 15 May 21:00; Sat 25 May 15:40  
+**The Mill on the Po** Il mulino del Po  
+Thu 16 May 20:40; Sat 25 May 18:20  
+**The Bandit** Il bandito  
+Fri 17 May 20:50; Sun 26 May 18:30  
+**Germany, Year Zero** Germania anno zero (aka Deutschland im Jahre Null)  
+Sun 19 May 18:20; Wed 22 May 12:30; Mon 27 May 15:00; Wed 29 May 20:40  
+**Bicycle Thieves** Ladri di biciclette  
+Sun 19 May 20:20; Mon 27 May 18:00  
+**Bitter Rice** Riso amaro  
+Wed 22 May 20:40; Thu 30 May 18:15  
+**La terra trema**  
+Sun 26 May 15:00; Fri 31 May 20:00  
+**Course: City Lit at the BFI Italian Neorealism – The Cinema of Everyday Life**  
+Wed 8 May – Wed 12 Jun 18:30-20:30  
+
+**With thanks to**  
+Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)<br>
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTMwODE3Ml19
+eyJoaXN0b3J5IjpbLTExOTU1NjI5MDddfQ==
 -->
