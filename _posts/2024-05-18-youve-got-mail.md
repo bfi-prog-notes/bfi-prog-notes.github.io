@@ -1,10 +1,20 @@
+---
+layout: post
+title: You've Got Mail
+published: true
+date: 2024-05-18
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Romance, Comedy]
+metadata: 'USA 1998, 119 mins<br> Director: Nora Ephron'
+pdf: '2024-05-18-youve-got-mail.pdf'
+---
 
 _You’ve Got Mail_ began with executive producer Julie Durk, who, after watching the classic film _The Shop around the Corner_, thought it would be a great movie to remake. She brought it to the attention of producer Lauren Shuler Donner, who optioned the rights from Turner Pictures, which owned the film.
 
 Nora Ephron and Delia Ephron, who have built an enviable reputation as both storytellers and filmmakers, were next approached about writing and directing the project. The Ephrons were longtime fans of _The Shop around the Corner_, and immediately embraced the idea of updating and remaking the story.
 
-It was Lauren Shuler Donner’s idea to set the film in the world of the Internet.  
-In the original film, James Stewart and Margaret Sullavan correspond by writing letters. Shuler Donner felt that the modern version of anonymous correspondence is the instantaneous ‘cyber post office’ of email.
+It was Lauren Shuler Donner’s idea to set the film in the world of the Internet. In the original film, James Stewart and Margaret Sullavan correspond by writing letters. Shuler Donner felt that the modern version of anonymous correspondence is the instantaneous ‘cyber post office’ of email.
 
 ‘The Internet affords you a great candour and intimacy,’ says Lauren Shuler Donner. ‘You can’t be embarrassed because you don’t know the person. I think that, being on the Internet, one may expose oneself further and faster in a relationship than one would normally in a face-to-face situation.’
 
@@ -155,6 +165,30 @@ USA 1998
 119 mins  
 Digital
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODQ1NjYwNzY5XX0=
 -->
