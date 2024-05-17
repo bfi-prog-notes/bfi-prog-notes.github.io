@@ -13,9 +13,9 @@ Though there are thorns to be found in this bright bougainvillaea of a film, its
 
 Naveriani’s use of bold colours and deep shadow also recalls late-period Aki Kaurismäki, whose autumnally titled _Fallen Leaves_, like _Blackbird Blackbird Blackberry_, premiered at Cannes in 2023. Both films are about a solitary shop worker who embarks on a relationship in middle age; both films share a certain sense of timelessness, with few signifiers of modernity; both situate their romances in a gentle but unmistakable social critique. In _Blackbird Blackbird Blackberry_, it’s not so much capitalism under the microscope as gender conventions. All Etero’s friends have settled down and procreated with their husbands; Etero’s apartness is conveyed as much by Naveriani’s careful blocking as by Chavleishvili’s subtly modulated performance. In one early scene, Etero is visited by domineering visions of her father and brother, who ensured, as long as they were alive, that she duly fulfilled her role as matriarch, her mother having died of ovarian cancer shortly after giving birth to Etero.
 
-The death has cast a long shadow over Etero’s life, leaving her riddled with misplaced guilt. When she notices some dark discharge – the colour of blackberries – in her underwear, she immediately fears the worst. But it’s characteristic of the film that this ominous turn of events sets up a delightful climactic twist. As a twittering blackbird appears on the soundtrack before the final cut to black, a line from McCartney-Lennon’s ‘Blackbird’ seems to fit Etero perfectly: ‘All your life, you were only waiting for this moment to arise.’
-
-Arjun Sajip, _Sight and Sound_, May 2024
+The death has cast a long shadow over Etero’s life, leaving her riddled with misplaced guilt. When she notices some dark discharge – the colour of blackberries – in her underwear, she immediately fears the worst. But it’s characteristic of the film that this ominous turn of events sets up a delightful climactic twist. As a twittering blackbird appears on the soundtrack before the final cut to black, a line from McCartney-Lennon’s ‘Blackbird’ seems to fit Etero perfectly: ‘All your life, you were only waiting for this moment to arise.’  
+**Arjun Sajip, _Sight and Sound_, May 2024**
+<br>
 
 **Elene Naveriani on ‘Blackbird Blackbird Blackberry’**
 
@@ -29,15 +29,12 @@ I mean, it’s a bit too flat to say that we are lacking representation of bodie
 
 _I’m curious about the use of colour in the film. You have these mauve-y purples to mirror the blackberries and the spot of blood on the sheets…_
 
-Of course the first inspiration was blackberries… For me, it always represents [Etero’s] interior world. I wanted the colours to be very defined and very expressive. In her life, she is very reserved, she doesn’t take a lot of initiatives. She always waits… But inside she’s very expressive. There is this full palette that she carries. And I wanted that on the walls where she lives or where she goes. The entire environment kind of enhances her expressionist character  
-and being.
+Of course the first inspiration was blackberries… For me, it always represents [Etero’s] interior world. I wanted the colours to be very defined and very expressive. In her life, she is very reserved, she doesn’t take a lot of initiatives. She always waits… But inside she’s very expressive. There is this full palette that she carries. And I wanted that on the walls where she lives or where she goes. The entire environment kind of enhances her expressionist character and being.
 
-Interview by Nathasha Orlando Kappler, _Sight and Sound_, May 2024
+**Interview by Nathasha Orlando Kappler, _Sight and Sound_, May 2024**
+<br><br>
 
-<![endif]-->
-
-**BLACKBIRD BLACKBIRD BLACKBERRY**
-
+**BLACKBIRD BLACKBIRD BLACKBERRY**  
 _Directed by_: Elene Naveriani  
 ©: Takes Film LLC  
 _Production Companies_: Alva Film, Takes Film, Totem Films  
@@ -57,14 +54,12 @@ _Special Effects Co-ordinator_: Sosa Gvasalia
 _Editing by_: Aurora Franco Vögeli  
 _Production Designer_: Teo Baramidze  
 _Costume Designer_: Nino Injia  
-_Hair and Make-up Designers_: Julia Nietlispach,  
-Eka Chikhradze  
+_Hair and Make-up Designers_: Julia Nietlispach,  Eka Chikhradze  
 _Sound Designer_: Philippe Ciompi  
 _Location Sound Mixer_: Marc von Stürler  
 _Stunt Co-ordinator_: David Khubua
 
-_Cast:_
-
+**Cast**  
 Eka Chavleishvili _(Etero Gelbakhiani, ‘Eto’)_  
 Temiko Chinchinadze _(Murman)_  
 Pikria Nikabadze _(Neno)_  
@@ -78,10 +73,8 @@ Rezi Karosanidze _(Etero’s brother)_
 Gocha Nemsitsveridze _(Etero’s father)_  
 Emzari Khachapuridze _(watermelon seller)_
 
-Switzerland-Georgia-France-Netherlands-Germany 2023©
-
-111 mins
-
+Switzerland-Georgia-France-Netherlands-Germany 2023©  
+111 mins  
 A New Wave release
 
 <![endif]-->
@@ -143,5 +136,5 @@ From Fri 28 Jun
 
 From Fri 5 Jul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTkzNDZdfQ==
+eyJoaXN0b3J5IjpbMTk3NTY3MDUwOV19
 -->
