@@ -76,65 +76,38 @@ Emzari Khachapuridze _(watermelon seller)_
 Switzerland-Georgia-France-Netherlands-Germany 2023©  
 111 mins  
 A New Wave release
+<br><br>
 
-<![endif]-->
+**NEW RELEASES**<br>
+**Love Lies Bleeding**<br>
+From Fri 3 May<br>
+**Made in England:  The Films of Powell and Pressburger**<br>
+From Fri 10 May<br>
+**Hoard**<br>
+From Fri 10 May<br>
+**Blackbird Blackbird Blackberry**<br>
+From Fri 17 May<br>
+**The Beast** La Bête<br>
+From Fri 7 Jun<br>
+**Àma Gloria**<br>
+From Fri 14 Jun<br>
+**Green Border** Zielona granica<br>
+From Fri 21 Jun<br>
+**Bye Bye Tiberias** Bye Bye Tibériade<br>
+From Fri 28 Jun + Q&A on Fri 28 Jun 18:00<br>
+**Sleep Jam**<br>
+From Fri 12 Jul<br>
+**About Dry Grasses** Kuru Otlar Üstüne<br>
+From Fri 26 Jul<br>
 
-**NEW RELEASES**
-
-**Love Lies Bleeding**
-
-From Fri 3 May
-
-**Made in England:  
-The Films of Powell and Pressburger**
-
-From Fri 10 May
-
-**Hoard**
-
-From Fri 10 May
-
-**Blackbird Blackbird Blackberry**
-
-From Fri 17 May
-
-**The Beast** La Bête
-
-From Fri 7 Jun
-
-**Àma Gloria**
-
-From Fri 14 Jun
-
-**Green Border** Zielona granica
-
-From Fri 21 Jun
-
-**Bye Bye Tiberias** Bye Bye Tibériade
-
-From Fri 28 Jun + Q&A on Fri 28 Jun 18:00
-
-**Sleep Jam**
-
-From Fri 12 Jul
-
-**About Dry Grasses** Kuru Otlar Üstüne
-
-From Fri 26 Jul
-
-**RE-RELEASES**
-
-**Rome, Open City** Roma città aperta
-
-From Fri 17 May
-
-**Network**
-
-From Fri 28 Jun
-
-**The Conversation**
-
-From Fri 5 Jul
+**RE-RELEASES**<br>
+**Rome, Open City** Roma città aperta<br>
+From Fri 17 May<br>
+**Network**<br>
+From Fri 28 Jun<br>
+**The Conversation**<br>
+From Fri 5 Jul<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTY3MDUwOV19
+eyJoaXN0b3J5IjpbMTU3MDEwODIzNl19
 -->
