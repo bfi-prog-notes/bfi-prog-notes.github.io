@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Germany, Year Zero
+published: true
+date: 2024-05-19
+readtime: true
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
+tags: [Drama]
+metadata: 'Italy/France/German Federal Republic 1948, 73 mins<br> Director: Roberto Rossellini'
+pdf: '2024-05-19-germany-year-zero.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -88,5 +98,5 @@ Digital (restoration)
 
 Restored in 2013 by Cineteca di Bologna and CSC- Cineteca Nazionale at L’Immagine Ritrovata laboratory, with the support of Cinecittà.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYzMTg1MTldfQ==
+eyJoaXN0b3J5IjpbMTQ2ODg0ODMyXX0=
 -->
