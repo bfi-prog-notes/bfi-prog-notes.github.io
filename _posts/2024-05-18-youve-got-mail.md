@@ -107,7 +107,7 @@ _Stunt Co-ordinators_: Jery Hewitt, Peter Bucossi
 _Consultant_: Pat Braun  
 _Animal Trainers_: Birds and Animals Unlimited, Animal Actors Inc
 
-_Cast**
+**Cast**  
 Tom Hanks _(Joe Fox)_  
 Meg Ryan _(Kathleen Kelly)_  
 Parker Posey _(Patricia Eden)_  
@@ -140,8 +140,7 @@ Chris Messina _(Fox salesperson)_
 Ronobir Lahiri _(man at Café Lalo)_  
 André Sogliuzzo _(waiter at Café Lalo)_  
 Peter A. Mian _(capeman at Starbucks)_  
-Richard Cohen, Enzo Angileri_  
-(Starbucks customers)_  
+Richard Cohen, Enzo Angileri _(Starbucks customers)_  
 Nick Brown _(juggler)_  
 Ann Fleuchaus _(Sarah Mancini)_  
 Neil Bonin, Bill McHugh _(party guests)_  
@@ -152,11 +151,10 @@ Nicole Bernadette _(florist)_
 Bonnie, Clovis _(Brinkley)_  
 Lucy _(dog in elevator)_
 
-USA 1998
-
-119 mins
-
+USA 1998  
+119 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDU5MTMyXX0=
+eyJoaXN0b3J5IjpbODQ1NjYwNzY5XX0=
 -->
