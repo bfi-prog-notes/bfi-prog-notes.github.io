@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Germany, Year Zero
+title: Germany Year Zero
 published: true
 date: 2024-05-19
 readtime: true
@@ -14,13 +14,13 @@ pdf: '2024-05-19-germany-year-zero.pdf'
 
 ‘The city was deserted, the grey of the sky seemed to run in the streets and, from the height of a man, you could look out over all the roofs; in order to find the streets under the ruins, they had cleared away and piled up the debris; in the cracks of the asphalt, grass had started to grow. Silence reigned, and each noise, in counterpoint to it, underlined it even more; the bittersweet odour of rotting organic material constituted a solid wall through which one had to pass; you floated over Berlin.’
 
-So wrote Roberto Rossellini for _Cahiers du Cinéma_ in 1955 of his first impressions of Berlin, eight years after he’d driven to the city in March 1947. He was there to begin production on what would become – following _Rome, Open City_ (1945) and _Paisà_ (1946) – the final part of his so-called war trilogy: _Germany, Year Zero_, a resolutely present-tense examination of the fallout from war. Despite a shift of national focus, _Germany, Year Zero_ – which follows a young boy through the wreckage of postwar Berlin – remained a profoundly personal work for a filmmaker still grieving the death of his own son, Romano.
+So wrote Roberto Rossellini for _Cahiers du Cinéma_ in 1955 of his first impressions of Berlin, eight years after he’d driven to the city in March 1947. He was there to begin production on what would become – following _Rome, Open City_ (1945) and _Paisà_ (1946) – the final part of his so-called war trilogy: _Germany Year Zero_, a resolutely present-tense examination of the fallout from war. Despite a shift of national focus, _Germany Year Zero_ – which follows a young boy through the wreckage of postwar Berlin – remained a profoundly personal work for a filmmaker still grieving the death of his own son, Romano.
 
 Rossellini’s intentions with the film are perhaps best summed up in the opening voiceover that accompanied the film’s American release:
 
 ‘This film was shot in Berlin in the summer of 1947. It is intended to be simply an objective, true-to-life picture of this enormous, half-destroyed city, in which three and a half million people are carrying on a frightful, desperate existence almost without realising it. They live in tragedy as if it were their natural element, but out of exhaustion, not through strength of mind or faith. This film is not an accusation against the German people, nor yet a defence of them. It is simply a presentation of the facts. But if anyone who has seen the story of Edmund Koehler comes to realise that something must be done, that German children must be taught to love life again, then the efforts of those who made this film will have been amply rewarded.’
 
-Of course, _Germany, Year Zero_ isn’t a documentary: the lines between realism and artifice are more explicitly pronounced than in either of the trilogy’s previous entries. One doesn’t need to know that interiors were shot in Rome – or that shooting was suspended while the German cast dieted after too much Italian food led to continuity errors – to be aware of the constructive elements of what we refer to as neorealism: the expressionism readily apparent in Rossellini’s style, the melodrama in his brother Renzo’s score.
+Of course, _Germany Year Zero_ isn’t a documentary: the lines between realism and artifice are more explicitly pronounced than in either of the trilogy’s previous entries. One doesn’t need to know that interiors were shot in Rome – or that shooting was suspended while the German cast dieted after too much Italian food led to continuity errors – to be aware of the constructive elements of what we refer to as neorealism: the expressionism readily apparent in Rossellini’s style, the melodrama in his brother Renzo’s score.
 
 Which isn’t for a moment to suggest any reduction in its importance as an historical document. Few films capture a specific time and place with such elemental force. Edmund’s long, silent wander through the rubble before the film’s devastating climax is justly celebrated, but the looming, skeletal remains of the city that towers over him throughout the film proves as potently symbolic of his isolation and fate as his gravedigging introduction.  
 **Matthew Thrift, bfi.org.uk 31 March 2024**  
@@ -157,5 +157,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgxMTUxMDVdfQ==
+eyJoaXN0b3J5IjpbMjM3MTczNzgzXX0=
 -->
