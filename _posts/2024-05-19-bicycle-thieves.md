@@ -32,8 +32,7 @@ De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal
 **Richard Winnington, _Sight and Sound_, March 1950**  
 
 **Vittorio De Sica on ‘Bicycle Thieves’**  
-To see is very useful to an artist. Most men do not want to see, because often the pain of others troubles them. We, on the contrary, want to see. Our one aim is  
-to see.
+To see is very useful to an artist. Most men do not want to see, because often the pain of others troubles them. We, on the contrary, want to see. Our one aim is to see.
 
 How many times the workman Antonio passed close to me: I met him in the street, at church, at the door of the cinema while he read the programme outside. I saw him several times with his son. In Italy men often go out with their sons. Children converse and argue with their fathers, become confidants, and very often become no longer children, but ‘little men’.
 
@@ -55,10 +54,8 @@ _Production Company_: Produzioni De Sica S.A.
 _Production Manager_: Umberto Scarpelli  
 _Production Inspector_: Nino Misiano  
 _Production Secretary_: Roberto Moretti  
-_Assistant Directors_: Gerardo Guerrieri,  
-Luisa Alessandri  
-_Screenplay_: Oreste Biancoli, Suso D’Amico,  
-Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
+_Assistant Directors_: Gerardo Guerrieri, Luisa Alessandri  
+_Screenplay_: Oreste Biancoli, Suso D’Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
 _Story_: Cesare Zavattini  
 _Based on the novel by_: Luigi Bartolini  
 _Director of Photography_: Carlo Montuori  
