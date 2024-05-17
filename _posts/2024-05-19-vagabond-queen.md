@@ -23,11 +23,9 @@ Her last film was in 1945, after a hiatus of almost a decade. After a failed sta
 
 **Long Fliv the King**  
 This short features the hilarious Charley Chase, with Oliver Hardy and Max Davidson. Another fine spoof of Ruritanian life.
+<br><br>
 
-<![endif]-->
-
-**LONG FLIV THE KING**
-
+**LONG FLIV THE KING**  
 _Directed by_: Leo McCarey  
 _Supervising Director_: F. Richard Jones  
 ©: Pathé Exchange  
@@ -37,64 +35,44 @@ _Photographed by_: Floyd Jackman
 _Edited by_: Richard Currier  
 _Titles by_: H.M. Walker
 
-_Cast:_
-
+**Cast**  
 Charley Chase  
 Martha Sleeper  
 Max Davidson  
 Oliver Hardy  
 Fred Malatesta
 
-USA 1926
-
-20 mins
-
+USA 1926  
+20 mins  
 Digital
+<br>
 
-**THE VAGABOND QUEEN**
+**THE VAGABOND QUEEN**<br>
+_Director:_ G.M. Bolvary<br>
+_Production Company:_ British International Pictures<br>
+_Scenario:_ Val Valentine<br>
+_Adaptation:_ Rex Taylor<br>
+_From an original story by:_ Douglas Furber<br>
+_Photography:_ Charles Rosher<br>
+_Assistant Photographer:_ Walter J. Harvey<br>
+_Editor:_ Emile De Ruelle<br>
+_Art Director:_ Hugh Gee<br>
 
-_Director:_ G.M. Bolvary
+**Cast**<br>
+Betty Balfour _(Sally/Princess Xonia)_<br>
+Glen Byam Shaw _(Jimmie)_<br>
+Ernest Thesiger _(Katoff)_<br>
+Charles Dormer _(Prince Adolphe)_<br>
+Harry Terry _(Winkleburg)_<br>
+Dino Galvani _(Ilmar)_<br>
+Ralph Leslie _(Nicholas)_<br>
 
-_Production Company:_ British International Pictures
+UK 1929<br>
+62 mins<br>
+35mm<br>
 
-_Scenario:_ Val Valentine
-
-_Adaptation:_ Rex Taylor
-
-_From an original story by:_ Douglas Furber
-
-_Photography:_ Charles Rosher
-
-_Assistant Photographer:_ Walter J. Harvey
-
-_Editor:_ Emile De Ruelle
-
-_Art Director:_ Hugh Gee
-
-_Cast:_
-
-Betty Balfour _(Sally/Princess Xonia)_
-
-Glen Byam Shaw _(Jimmie)_
-
-Ernest Thesiger _(Katoff)_
-
-Charles Dormer _(Prince Adolphe)_
-
-Harry Terry _(Winkleburg)_
-
-Dino Galvani _(Ilmar)_
-
-Ralph Leslie _(Nicholas)_
-
-UK 1929
-
-62 mins
-
-35mm
-
-With live musical accompaniment by  
-Stephen Horne
+With live musical accompaniment by  Stephen Horne<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3MzgxLC0zMDAxOTA1NzldfQ==
+eyJoaXN0b3J5IjpbLTEzNzkwMjE2NzIsLTMwMDE5MDU3OV19
 -->
