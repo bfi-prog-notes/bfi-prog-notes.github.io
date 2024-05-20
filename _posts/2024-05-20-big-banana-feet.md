@@ -1,3 +1,14 @@
+---
+layout: post
+title: Billy Connolly - Big Banana Feet
+published: true
+date: 2024-05-20
+readtime: true
+categories: ['EVENTS']
+tags: [Comedy, Documentary]
+metadata: 'UK 1977, 77 mins<br> Directors: Murray Grigor, Patrick Higson'
+pdf: '2024-05-20-big-banana-feet.pdf'
+---
 
 **Murray Grigor on ‘Big Banana Feet’**  
 Billy Connolly was already the talk of the town in the late 60s with his wry, outrageous re-enactments of the Crucifixion, complete with such heresies as Christ being arrested for carrying his cross the wrong way up a one-way street to the Glasgow Gallowgate. By1972 he was making waves in Edinburgh with ‘The Great Northern Welly Boot Show’ on the Festival Fringe. This cabaret-style extravaganza celebrated the building of welly boots, instead of shipbuilding on the Clyde. With the poet and playwright Tom Buchan, they created a brilliant fusion of badinage and song which included his sing-along homage to the welly boot. Although this show had its first try-out as part of Glasgow’s Mayfest the year before, the actor Kenny Ireland had the idea of bringing it to the Edinburgh Festival Fringe. His circle of friends included Bill Paterson, Alex Norton, Juliet Cadzow, Patrick Malahide, with Robin Levèvre as director. As a cooperative venture they took over the vacant Waverley Market. Scaffolding was hired to seat the audience around three sides of what became a thrust theatre stage. John Byrne painted gloriously imaginative sets and designed the costumes. The production was entirely self-funded on the basis that once the costs were covered everyone would receive the same share of the box office. But no one realised that opening the show at 7pm in August that the sun would still be streaming down from the skylights. In an extraordinarily courageous moment Billy offered to introduce the show at every performance. For the entire run of the Fringe, he kept the audience in fits of laughter for close on an hour, before the band struck up, the lights came on and the Great Northern Welly Boot Show began.
@@ -36,6 +47,30 @@ Digital
 
 Available on BFI Dual Format DVD and Blu-ray  from Monday 20 May
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc2NzU3ODI1NF19
 -->
