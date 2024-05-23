@@ -35,32 +35,23 @@ Shot at the Royal School for Deaf Children at Margate, this short film deals wit
 This short and unpretentious film achieves its object by the simplest possible means. There are no heroics or climactic structures of pathos; the children are always laughing and happy at lessons that seem more like games. The commentary (admirably spoken by Richard Burton) describes calmly the nature of the problems and the way they are tackled. But through all this is revealed a great warmth of affection and a sort of defeated indignation. The secret is perhaps that the people who appear in the film – the bright, tired teachers and the puppy-like children, struggling unconsciously towards comprehension – are treated, and emerge, as human beings and individuals – an attitude not always common in British documentary. This has been largely achieved by the remarkable intimacy with which the camera has caught the children at their lessons and in their social life together. In its narrow scope, _Thursday’s Children_ is possibly more effective than that other admirable film on the same subject, _Mandy_.  
 **_Monthly Film Bulletin_, October 1954**  
 <br>
-<![endif]-->
 
-**Idlers That Work**
-
+**IDLERS THAT WORK**  
 _Director_: Lindsay Anderson  
 _Production Company_: Richard O’Brien  
 _Sponsor_: Richard Sutcliffe  
 _Producer_: Richard O’Brien  
-_Unit Assistants_: Bill Longley, Geoff Oakes,
-
-Ernest Slinger, George Wilby  
+_Unit Assistants_: Bill Longley, Geoff Oakes, Ernest Slinger, George Wilby  
 _Continuity_: Lois Sutcliffe  
 _Cinematographer_: George Levy  
-_Music_: Ralph Vaughan Williams, Aaron Copland
-
+_Music_: Ralph Vaughan Williams, Aaron Copland  
 _With:_  
-Lindsay Anderson _(commentator)_
+Lindsay Anderson _(commentator)_  
+UK 1949  
+17 mins  
+35mm  
 
-UK 1949
-
-17 mins
-
-35mm
-
-**Three Installations**
-
+**THREE INSTALLATIONS**  
 _Directed by_: Lindsay Anderson  
 _Made by_: Sutcliffe Film Unit  
 _Presented by__:_ Richard Sutcliffe Ltd.  
@@ -75,58 +66,42 @@ _Laboratory Work_: George Humphries & Co.
 _Music (Piano)_: Alan Clare  
 _Music (Drums)_: Johnny Flanagan  
 _Orchestral Music from_: Copland, Gillis, Katchachurian  
-_Sound Recordist_: Charles Green
+_Sound Recordist_: Charles Green  
+UK 1952  
+24 mins  
+35mm  
 
-UK 1952
-
-24 mins
-
-35mm
-
-**£20 per Ton**
-
+**£20 per Ton**  
 _Director_: Lindsay Anderson  
 _Production Company_: Basic Films  
 _Sponsor_: National Industrial Fuel Efficiency Service  
 _Producer_: Leon Clore  
 _Production Manager_: John Fletcher  
-_Cinematographer_: Larry Pizer
+_Cinematographer_: Larry Pizer  
+UK 1955  
+5 mins  
+Digital  
 
-UK 1955
-
-5 mins
-
-Digital
-
-**Henry**
-
+**Henry**  
 _Director_: Lindsay Anderson _[uncredited]_  
 _A film by_: Basic Films  
 _End logo_: NSPCC  
 _Photography_: Walter Lassally _[uncredited]_  
-_Sound System_: Western Electric Recording
+_Sound System_: Western Electric Recording  
+UK 1955  
+5 mins  
+16mm  
 
-UK 1955
-
-5 mins
-
-16mm
-
-**Green and Pleasant Land**
-
+**Green and Pleasant Land**  
 _Director_: Lindsay Anderson  
-_Production Companies_: Western Electric,
-
-Basic Films  
+_Production Companies_: Western Electric, Basic Films  
 _Sponsor_: NSPCC  
 _Producer_: Leon Clore  
 _Script_: Lindsay Anderson  
-_Cinematographer_: Walter Lassally
-
-UK 1955
-
+_Cinematographer_: Walter Lassally  
+UK 1955  
 3 mins  
-16mm 
+16mm  
 
 **Thursday’s Children**  
 _Directed by_: Guy Brenton, Lindsay Anderson  
@@ -143,5 +118,6 @@ UK 1954
 22 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDY4MjQzLC0xNjQ5OTAzODY4XX0=
+eyJoaXN0b3J5IjpbLTE1MzMzNDk4NTYsLTE2NDk5MDM4NjhdfQ
+==
 -->
