@@ -1,7 +1,14 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: Never Apologize<br>A Personal Visit with Lindsa
+published: true
+date: 2024-05-23
+readtime: true
+categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+tags: [Short]
+metadata: 'Directors: Lindsay Anderson,  Karel Reisz, Tony Richardson'
+pdf: '2024-05-23-stand-up-stand-up.pdf'
+---
 No actor was more associated with Anderson than Malcolm McDowell, the ‘Mick Travis’ of the director’s great trilogy, and friend through thick and thin. In this filmed one-man stage performance, first performed at the 2004 Edinburgh Festival on the 10th anniversary of Anderson’s death, McDowell gives a tenderly personal, appropriately gossipy and anecdote-rich reflection on his mentor’s life and work.
 
 bfi.org.uk
@@ -13,44 +20,31 @@ McDowell is an easy and compelling raconteur, with tales to tell of his fraught 
 McDowell also reads from David Sherwin's memoirs of working with Anderson and from Anderson's own letters and diaries. These are the show stoppers, each one spontaneously applauded by the theatre audience. Whether writing a postcard, a letter or a diary entry, Anderson was incapable of not making literature. The title of the film acknowledges his firm principle: ‘Never apologise – it is a sign of weakness’. A lengthy letter, written to an estranged Alan Bates at the behest of friends who felt Lindsay owed him an apology, elegantly evades the necessity of doing any such thing. It is the sheer wickedness of the thing that captures the theatre audience. Filming _This Sporting Life_, Anderson agonises over working with Richard Harris, talented but terrible, and with whom he had fallen secretly but desperately in love. There is a superb essay on working with the angelic Lillian Gish and the diabolic Bette Davis on _The Whales of August_, and a moving account of a last meeting with his dying hero, John Ford. McDowell reads them beautifully, with authentic Anderson intonation; and he closes with a memory of the loss of Anderson himself that Anderson (his most merciless critic, naturally) would have approved for the absence of easy sentiment or 'acting'.  
 **David Robinson, _Sight and Sound_, December 2007**  
 <br>
-<![endif]-->
 
-**Never Apologize  
-A Personal Visit with Lindsay Anderson**
-
+**NEVER APOLOGIZE  A PERSONAL VISIT WITH LINDSAY ANDERSON**  
 _Directed by_: Mike Kaplan  
-_©/Presented by_: Travis Productions Inc.,
-
-Ltd. Circle Associates  
+_©/Presented by_: Travis Productions Inc., Ltd. Circle Associates  
 _Conceived by_: Malcolm McDowell  
 _Produced by_: Mike Kaplan, Malcolm McDowell  
 _Producer Performance Footage_: Peter Crane  
 _Post-production (KBC Productions)_: Kris Crookham  
 _Post-production (EZTV Media)_: Michael Masucci  
-_Part-based on the book by_: Davey Sherwin,
-
-Lindsay Anderson  
+_Part-based on the book by_: Davey Sherwin, Lindsay Anderson  
 _Camera_: Matt Walla, Jesse Hagy, John Paul Meyer, Christoph Faubert  
 _Lighting_: Brian Lofthaus  
 _Edited by_: Eric Foster, Kate Johnson  
 _Sound_: Larry McMillian  
 _Re-recording Mixer_: Jim Corbett  
 _Subtitles_: Claudine Mulard  
-_Special Thanks_: David Storey, Gavin Lambert,
+_Special Thanks_: David Storey, Gavin Lambert, Karl Magee  
+_Thank You_: Kathy Burke, Lauren Hutton, Kelley McDowell, Joan Tewkesbury, David Thomson, Lois Smith  
 
-Karl Magee  
-_Thank You_: Kathy Burke, Lauren Hutton,
-
-Kelley McDowell, Joan Tewkesbury,
-
-David Thomson, Lois Smith
-
-**With**
+**With**  
 Malcolm McDowell  
 
 UK 2007  
 111 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODUwMTU0OV19
+eyJoaXN0b3J5IjpbMTE4NDY0MjAyOV19
 -->
