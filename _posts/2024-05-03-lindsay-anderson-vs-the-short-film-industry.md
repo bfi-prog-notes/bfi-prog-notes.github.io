@@ -71,7 +71,7 @@ UK 1952
 24 mins  
 35mm  
 
-**£20 per Ton**  
+**£20 PER TON**  
 _Director_: Lindsay Anderson  
 _Production Company_: Basic Films  
 _Sponsor_: National Industrial Fuel Efficiency Service  
@@ -82,7 +82,7 @@ UK 1955
 5 mins  
 Digital  
 
-**Henry**  
+**HENRY**  
 _Director_: Lindsay Anderson _[uncredited]_  
 _A film by_: Basic Films  
 _End logo_: NSPCC  
@@ -92,7 +92,7 @@ UK 1955
 5 mins  
 16mm  
 
-**Green and Pleasant Land**  
+**GREEN AND PLEASANT LAND**  
 _Director_: Lindsay Anderson  
 _Production Companies_: Western Electric, Basic Films  
 _Sponsor_: NSPCC  
@@ -103,7 +103,7 @@ UK 1955
 3 mins  
 16mm  
 
-**Thursday’s Children**  
+**THURSDAY'S CHILDREN**  
 _Directed by_: Guy Brenton, Lindsay Anderson  
 _a_ Morse _production_  
 _Presented by_: World Wide Pictures  
@@ -118,6 +118,5 @@ UK 1954
 22 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMzNDk4NTYsLTE2NDk5MDM4NjhdfQ
-==
+eyJoaXN0b3J5IjpbLTYxNjAxMTI1MCwtMTY0OTkwMzg2OF19
 -->
