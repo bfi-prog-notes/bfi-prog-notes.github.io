@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Lindsay Anderson vs<br> 
-the Short Films Industry
+title: Lindsay Anderson vs<br>the Short Films Industry
 published: true
 date: 2024-05-23
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Documentary, Short]
-metadata:  Director: Lindsay Anderson'
-pdf: '2024-05-23-lindsay-anderson-vs-the-short-film-industry-.pdf'
+metadata:  'Director: Lindsay Anderson'
+pdf: '2024-05-23-lindsay-anderson-vs-the-short-films-industry.pdf'
 ---
 
 _+ intro by Patrick Russell, Senior Curator of Non-fiction, BFI National Archive_
