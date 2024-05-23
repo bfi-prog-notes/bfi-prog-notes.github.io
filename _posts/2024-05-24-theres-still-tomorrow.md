@@ -63,7 +63,7 @@ _Sound Effects_: Luca Anzellotti
 _Stunt Co-ordinator_: Paolo Antonini  
 _Historical Adviser_: Teresa Bertilotti
 
-_Cast**
+**Cast**  
 Paola Cortellesi _(Delia)_  
 Valerio Mastandrea _(Ivano)_  
 Romana Maggiora Vergano _(Marcella)_  
@@ -84,13 +84,12 @@ Gianmarco Filippini _(Franchino)_
 Barbara Chiesa _(Sister Ada)_  
 Gabriele Paoloca _(Peppe)_
 
-Italy 2023©
-
-118 mins
-
+Italy 2023©  
+118 mins  
 Digital
 
 A Vue International release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDIxODQyNF19
+eyJoaXN0b3J5IjpbLTExNjE3NDY3MTldfQ==
 -->
