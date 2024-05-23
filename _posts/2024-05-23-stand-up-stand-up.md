@@ -6,8 +6,8 @@ date: 2024-05-23
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Short]
-metadata:  Directors: Lindsay Anderson,  Karel Reisz, Tony Richardson'
-pdf: '2024-05-23-lindsay-anderson-vs-the-short-film-industry-.pdf'
+metadata: 'Directors: Lindsay Anderson,  Karel Reisz, Tony Richardson'
+pdf: '2024-05-23-stand-up-stand-up.pdf'
 ---
 
 **Momma Don’t Allow**  
@@ -110,7 +110,7 @@ _Production Assistance_: Lindsay Anderson, Karel Reisz, Allan Forbes, Kurt Lewen
 _Production Assistance [Producer]_: Derrick Knight _Post-production Assistance_: Christopher Brunel, Charles Cooper, Mary Beales  
 _Co-Editor_: Mary Beales
 
-**With**
+**With**  
 Richard Burton _(narrator)_  
 David Meeker _(on-screen participant)_ *  
 UK 1959  
