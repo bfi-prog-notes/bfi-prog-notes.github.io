@@ -6,9 +6,9 @@ published: true
 date: 2024-05-23
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
-tags: [D]
-metadata: 'USA-UK-Canada 1975, 131 mins<br> Director: Lindsay Anderson'
-pdf: '2024-05-09-in-celebration.pdf'
+tags: [Documentary, Short]
+metadata:  Director: Lindsay Anderson'
+pdf: '2024-05-23-lindsay-anderson-vs-the-short-film-industry-.pdf'
 ---
 
 _+ intro by Patrick Russell, Senior Curator of Non-fiction, BFI National Archive_
@@ -128,6 +128,8 @@ The Royal School for the Deaf _(with children from)_
 UK 1954  
 22 mins  
 35mm  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTI3NjYwNl19
+eyJoaXN0b3J5IjpbLTMyNDk1Njc1Nl19
 -->
