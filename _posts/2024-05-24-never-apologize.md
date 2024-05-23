@@ -6,7 +6,7 @@ date: 2024-05-23
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Short]
-metadata: 'Director: Lindsay Anderson,  Karel Reisz, Tony Richardson'
+metadata: 'Director: Mike Kaplan'
 pdf: '2024-05-24-never-apologize.pdf'
 ---
 No actor was more associated with Anderson than Malcolm McDowell, the ‘Mick Travis’ of the director’s great trilogy, and friend through thick and thin. In this filmed one-man stage performance, first performed at the 2004 Edinburgh Festival on the 10th anniversary of Anderson’s death, McDowell gives a tenderly personal, appropriately gossipy and anecdote-rich reflection on his mentor’s life and work.  
@@ -111,5 +111,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4ODM3NjAxXX0=
+eyJoaXN0b3J5IjpbLTE3MTU0ODE5MDVdfQ==
 -->
