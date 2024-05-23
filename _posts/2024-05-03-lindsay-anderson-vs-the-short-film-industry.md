@@ -21,7 +21,7 @@ _Three Installations_ is also drenched in raw optimism. Anderson seems to be enj
 Wintry snowfall in a factory yard contrasts with the furnaces burning within. This film follows the eye of the firm’s accountant as he traces waste and excess about the works. The concerns for fuel efficiency and reducing pollution are all about economy, even when the narration talks of coal heating up the atmosphere. Among the wastrels are the workers, who are shooed away from a warming stove.
 
 This early documentary by director Lindsay Anderson hints at his later work with its use of comedy and its glances at class division. Producer Leon Clore was a great supporter of film talent encouraging many young filmmakers en route to feature film success. The film’s sponsors meanwhile were a newly formed outfit advising energy users on ways to improve efficiency as the end of rationing, and a growing global market, provoked fuel crises.  
-**player.bfi.org.uk
+**player.bfi.org.uk**  
 
 **Henry**
 
@@ -39,5 +39,5 @@ This short and unpretentious film achieves its object by the simplest possible m
 **_Monthly Film Bulletin_, October 1954**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzM0OTMxNl19
+eyJoaXN0b3J5IjpbLTE2NDk5MDM4NjhdfQ==
 -->
