@@ -23,21 +23,18 @@ Wintry snowfall in a factory yard contrasts with the furnaces burning within. Th
 This early documentary by director Lindsay Anderson hints at his later work with its use of comedy and its glances at class division. Producer Leon Clore was a great supporter of film talent encouraging many young filmmakers en route to feature film success. The film’s sponsors meanwhile were a newly formed outfit advising energy users on ways to improve efficiency as the end of rationing, and a growing global market, provoked fuel crises.  
 **player.bfi.org.uk**  
 
-**Henry**
+**Henry**  
+One of four films Anderson wrote and directed for NSPCC, _Henry_ is the story of a small boy who runs away after his parents have quarrelled and wanders around the West End of London until cared for by the NSPCC.  
 
-One of four films Anderson wrote and directed for NSPCC, _Henry_ is the story of a small boy who runs away after his parents have quarrelled and wanders around the West End of London until cared for by the NSPCC.
+**Green and Pleasant Land**  
+An appeal on behalf of the NSPCC, _Green and Pleasant Land_ begins with a choir of children singing ‘Jerusalem’. It then features shots of the British landscape with narration about Britain’s pride in itself, including pride in its treatment of its children followed by stills of squalid living conditions, and neglected and injured children. It states the number of cases that the NSPCC deals with in a year and ends with an appeal for donations to the NSPCC.  
 
-**Green and Pleasant Land**
-
-An appeal on behalf of the NSPCC, _Green and Pleasant Land_ begins with a choir of children singing ‘Jerusalem’. It then features shots of the British landscape with narration about Britain’s pride in itself, including pride in its treatment of its children followed by stills of squalid living conditions, and neglected and injured children. It states the number of cases that the NSPCC deals with in a year and ends with an appeal for donations to the NSPCC.
-
-**Thursday’s Children**
-
+**Thursday’s Children**  
 Shot at the Royal School for Deaf Children at Margate, this short film deals with the problems of educating children who are born deaf or have become deaf before they have learned the meaning of language. The youngest must first be introduced to the idea of what a word is, taught to understand when words are spoken, and finally to use words himself. The second half of the film shows how children who have learned to speak use what they have learned to achieve contact with the world from which they have been cut off.
 
 This short and unpretentious film achieves its object by the simplest possible means. There are no heroics or climactic structures of pathos; the children are always laughing and happy at lessons that seem more like games. The commentary (admirably spoken by Richard Burton) describes calmly the nature of the problems and the way they are tackled. But through all this is revealed a great warmth of affection and a sort of defeated indignation. The secret is perhaps that the people who appear in the film – the bright, tired teachers and the puppy-like children, struggling unconsciously towards comprehension – are treated, and emerge, as human beings and individuals – an attitude not always common in British documentary. This has been largely achieved by the remarkable intimacy with which the camera has caught the children at their lessons and in their social life together. In its narrow scope, _Thursday’s Children_ is possibly more effective than that other admirable film on the same subject, _Mandy_.  
 **_Monthly Film Bulletin_, October 1954**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk5MDM4NjhdfQ==
+eyJoaXN0b3J5IjpbMTkyMDQyNTg3OCwtMTY0OTkwMzg2OF19
 -->
