@@ -2,10 +2,10 @@
 layout: post
 title: Never Apologize<br>A Personal Visit with Lindsay Anderson
 published: true
-date: 2024-05-23
+date: 2024-05-24
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
-tags: [Short]
+tags: [Documentary]
 metadata: 'Director: Mike Kaplan'
 pdf: '2024-05-24-never-apologize.pdf'
 ---
@@ -111,5 +111,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU0ODE5MDVdfQ==
+eyJoaXN0b3J5IjpbMTA1NTk3MjkyOV19
 -->
