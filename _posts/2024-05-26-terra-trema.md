@@ -16,8 +16,7 @@ Visconti originally went to Sicily for a few weeks with the idea of filming a sh
 
 Visconti experienced all kinds of difficulties, and was able to complete only the first of his three episodes – that of the sea – which he expanded into a whole film. This was shot entirely on location, in the little fishing village of Aci Trezza, from the beginning of November 1947 to the end of May 1948.
 
-The basis of the story is Giovanni Verga’s novel _I Malavoglia_ – and Visconti’s film remains surprisingly true to the letter of this original, however far it departs from it in spirit.  
-_I Malavoglia_ is a detailed and sombre study of the ruin of a family of fishermen, the disasters brought about by their own maladroit attempts to better their condition. ‘This sincere and dispassionate study’, as Verga described it in his preface, seems to have been an end in itself for the novelist. He gives the reader a picture of a certain kind of life, but he is not concerned with suggesting solutions to the problems he raises. Many of the characters and situations of the film, as well as some of the dialogue and some passages in the Italian commentary, come directly from the novel, whose action is also set in the village of Trezza. But in Visconti’s film all these elements serve another purpose. The artist is no longer content with the role of the objective, dispassionate observer: rather, he organises the facts of the situation for his own purpose, giving them their central place in his thesis.
+The basis of the story is Giovanni Verga’s novel _I Malavoglia_ – and Visconti’s film remains surprisingly true to the letter of this original, however far it departs from it in spirit. _I Malavoglia_ is a detailed and sombre study of the ruin of a family of fishermen, the disasters brought about by their own maladroit attempts to better their condition. ‘This sincere and dispassionate study’, as Verga described it in his preface, seems to have been an end in itself for the novelist. He gives the reader a picture of a certain kind of life, but he is not concerned with suggesting solutions to the problems he raises. Many of the characters and situations of the film, as well as some of the dialogue and some passages in the Italian commentary, come directly from the novel, whose action is also set in the village of Trezza. But in Visconti’s film all these elements serve another purpose. The artist is no longer content with the role of the objective, dispassionate observer: rather, he organises the facts of the situation for his own purpose, giving them their central place in his thesis.
 
 Three quarters of a century separate the characters of _I Malavoglia_ from the Valastro family of Visconti’s film, and the two works in themselves sum up a period of historical change. Fatalism has given way to a struggle whose end and means can now be clearly defined. The clearest example of this passage of time, from naturalism to neo-realism, can be found in the shift in the central character (in the novel it is the father, in the film the young nephew) and in the very different attitude he takes. Where Verga’s novel is fatalistic, the film shows the working of the economic machine, the techniques of exploitation. The dealers, the middle-men, as a result play a more sizeable part in Visconti’s film than in the novel. All the factors of the drama are immediately crystallised in this economic problem, which becomes the axis on which the whole film turns.
 
@@ -95,6 +94,65 @@ Italy 1948
 Digital  
 
 Courtesy of Cinecittà  
+<br>
+
+**CHASING THE REAL: ITALIAN NEOREALISM**  
+**Ossessione**  
+Sat 4 May 20:15; Sun 12 May 17:50  
+**Paisà**  
+Mon 6 May 15:20; Fri 10 May 20:30; Sun 19 May 15:30; Mon 20 May 12:00; Wed 29 May 12:00  
+**Journey through Italian Neorealism**  
+Tue 7 May 18:10  
+**Four Steps in the Clouds** Quattro passi fra le nuvole  
+Tue 7 May 20:30 (+ intro by season curator Giulia Saccogna); Mon 13 May 18:20  
+**The Children Are Watching Us** I bambini ci guardano  
+Wed 8 May 20:45; Thu 16 May 18:20  
+**Shoeshine** Sciuscià  
+Tue 14 May 18:10 (+ intro by season curator Giulia Saccogna); Tue 21 May 20:45  
+**A Tragic Hunt (aka The Tragic Pursuit)** Caccia tragica  
+Wed 15 May 21:00; Sat 25 May 15:40  
+**The Mill on the Po** Il mulino del Po  
+Thu 16 May 20:40; Sat 25 May 18:20  
+**The Bandit** Il bandito  
+Fri 17 May 20:50; Sun 26 May 18:30  
+**Germany, Year Zero** Germania anno zero (aka Deutschland im Jahre Null)  
+Sun 19 May 18:20; Wed 22 May 12:30; Mon 27 May 15:00; Wed 29 May 20:40  
+**Bicycle Thieves** Ladri di biciclette  
+Sun 19 May 20:20; Mon 27 May 18:00  
+**Bitter Rice** Riso amaro  
+Wed 22 May 20:40; Thu 30 May 18:15  
+**La terra trema**  
+Sun 26 May 15:00; Fri 31 May 20:00  
+**Course: City Lit at the BFI Italian Neorealism – The Cinema of Everyday Life**  
+Wed 8 May – Wed 12 Jun 18:30-20:30  
+
+**With thanks to**  
+Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)<br>
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NzY4NTM5XX0=
+eyJoaXN0b3J5IjpbMjc5NDQ5MzMyLDc2NDc2ODUzOV19
 -->
