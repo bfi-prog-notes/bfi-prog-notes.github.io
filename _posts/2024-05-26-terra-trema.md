@@ -123,9 +123,42 @@ Sun 19 May 20:20; Mon 27 May 18:00
 Wed 22 May 20:40; Thu 30 May 18:15  
 **La terra trema**  
 Sun 26 May 15:00; Fri 31 May 20:00  
-**Course: City Lit at the BFI Italian Neorealism – The Cinema of Everyday Life**  
-Wed 8 May – Wed 12 Jun 18:30-20:30  
 
+**Lights of Variety** Luci del varietà
+
+Sat 1 Jun 13:15; Mon 10 Jun 20:45; Thu 13 Jun 18:00; Thu 20 Jun 18:20
+
+**Stromboli** Stromboli, terra di Dio
+
+Sun 2 Jun 18:15; Mon 3 Jun 12:00; Wed 12 Jun 20:40; Sat 22 Jun 15:30
+
+**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11
+
+Tue 4 Jun 14:50; Fri 7 Jun 18:10; Sun 16 Jun 14:00; Mon 24 Jun 20:50
+
+**The Women of Italian Neorealism**
+
+Tue 4 Jun 18:10
+
+**Bellissima**
+
+Tue 4 Jun 20:35; Mon 10 Jun 18:10
+
+**Umberto D.**
+
+Wed 5 Jun 20:40; Sat 8 Jun 18:00; Wed 19 Jun 20:40; Sat 29 Jun 13:10
+
+**Journey to Italy** Viaggio in Italia
+
+Thu 6 Jun 12:15; Sun 9 Jun 13:00; Tue 11 Jun 11:30; Fri 21 Jun 20:50; Tue 25 Jun 18:15
+
+**The Machine That Kills Bad People** La macchina ammazzacattivi
+
+Tue 11 Jun 18:10; Sat 15 Jun 13:40; Wed 19 Jun 12:20; Thu 27 Jun 20:55
+
+**Miracle in Milan** Miracolo a Milano
+
+Thu 13 Jun 20:40; Sun 30 Jun 12:10
 **With thanks to**  
 Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
 <img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
@@ -154,5 +187,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NDQ5MzMyLDc2NDc2ODUzOV19
+eyJoaXN0b3J5IjpbMTE3MDY1MTc0Nyw3NjQ3Njg1MzldfQ==
 -->
