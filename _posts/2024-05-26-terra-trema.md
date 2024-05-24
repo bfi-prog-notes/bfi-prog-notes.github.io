@@ -6,8 +6,8 @@ date: 2024-05-26
 readtime: true
 categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
 tags: [Drama]
-metadata: 'Italy 1948,  mins<br> Director: Roberto Rossellini'
-pdf: '2024-05-19-germany-year-zero.pdf'
+metadata: 'Italy 1948, 160 mins<br> Director: Luchino Visconti'
+pdf: '2024-05-26-terra-trema.pdf'
 ---
 
 With _La terra trema_, Visconti developed the neorealist approach to a dramatic subject in its most extreme form: the players, the lines they speak, the places they live in, the whole social background and motivation, depart hardly at all from reality.
@@ -32,7 +32,69 @@ Finally, the problem of the playing is posed and resolved in the same line. Visc
 _La terra trema_’s claim to greatness finally lies in its wonderful integration of form and content. Its theme, the lesson that experience teaches ‘Ntoni, is grafted on to reality, and finds in reality its actual and historical justification. The form of the film is wholly directed towards the exaltation of man, of his pride and courage. The faces and everyday objects, for which Visconti finds so exact a place in the structure of his scenes, are there because of the value he attaches to them. The emotion that he so carefully restrains runs strongly beneath the surface of the action: it is only on leaving the cinema that we realise how deeply we have been moved. And the marvellous face of ‘Ntoni reflects the desire to live, and to live justly, that is the essential spirit of the film. He is one of those characters who illuminate the history of the cinema.
 
 With _Ossessione_, Visconti had shattered the traditions and customs of the Italian cinema, given it the violent jolt that turned it towards neo-realism. With _La terra trema_ he gave the neo-realist cinema its most finished and one of its most influential works.  
-**Alain Tanner, _Sight and Sound_, Spring 1957**
+**Alain Tanner, _Sight and Sound_, Spring 1957**  
+<br>
+
+**LA TERRA TREMA**  
+_Director:_ Luchino Visconti  
+_Production Company:_ Universalia  
+_Producer:_ Salvo D’Angelo  
+_Production Managers:_ Anna Davini, Renato Silvestri  
+_Unit Production Manager:_ Claudio Forges Davanzati  
+_Assistant Directors:_ Francesco Rosi, Franco Zeffirelli  
+_Screenplay and Dialogue:_ Luchino Visconti, Antonio Pietrangeli  
+_Story:_ Luchino Visconti  
+_Based on_ I Malavoglia _by:_ Giovanni Verga  
+_Director of Photography:_ G.R. Aldo  
+_Camera Operator:_ Gianni Di Venanzo  
+_Assistant Camera Operator:_ Aiace Parolin  
+_Key Grip:_ Nello Nutarelli  
+_Gaffer:_ Bruno Pasqualini  
+_Stills Photography:_ Paul Ronald  
+_Editor:_ Mario Serandrei  
+_Music Co-ordinated by:_ Luchino Visconti  
+_Music Co-ordinated and Directed by:_ Willy Ferrero  
+_Musical Consultant:_ Edoardo Micucci  
+_Sound Recording:_ Mario Ronchetti  
+_Sound:_ Vittorio Trentino, Ovidio Del Grande
+
+**Cast**  
+Maria Micale _(mother of the Vicari family)_  
+Sebastiano Valastro _(father of the Vicari family)_  
+Antonino Micale _(Vanni)_  
+Nelluccia Giammona _(Mara)_  
+Agnese Giammona _(Lucia)_  
+Salvatore Vicari _(Alfio)_  
+Giuseppe Vicari _(Piccola)_  
+Antonio Arcidiacono _(‘Ntoni)_  
+Giuseppe Arcidiacono _(Cola)_  
+Maria Vicari _(the blonde woman)_  
+Antonio Valastro _(Pandolla)_  
+Santo Valastro _(Santo)_  
+Lorenzo Valastro _(Lorenzo)_  
+Alfio Valastro _(Bandiera)_  
+Raimondo Valastro _(Raimondo)_  
+Rosario Galvagno _(Don Salvatore, the police marshal)_  
+Nicola Castorino _(Nicola)_  
+Rosa Costanzo _(Nedda)_  
+Rosa Catalano _(Rosa)_  
+Ignazio Maccarone _(Maccarone)_  
+Pasquale Pellegrino _(fisherman)_  
+Alfio Fichera _(Michele)_  
+Angelo Morabito _(customer in the bar)_  
+Venera Bonaccorso _(the laughing old lady)_  
+Francesco Valastro _(Afro)_  
+Salvatore Valastro _(the pawnbroker)_  
+Carmela Fichera _(the baroness)_  
+Giovanni Maiorana _(child)_  
+Giovanni Greco  
+Concettina Mirabella  
+
+Italy 1948  
+160 mins  
+Digital  
+
+Courtesy of Cinecittà  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcyMDY4NzNdfQ==
+eyJoaXN0b3J5IjpbNzY0NzY4NTM5XX0=
 -->
