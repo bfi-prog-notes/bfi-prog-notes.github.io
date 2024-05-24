@@ -63,10 +63,8 @@ _What was your relationship with the so-called Angry Young Men group?_
 I met John Osborne at Tony Richardson’s place. He was a charming man. After the success of the first Free Cinema screening it became evident that London was ready for something completely new. 
 **Interview with Lorenza Mazzetti by Christophe Dupin, _Sight and Sound_, March 2001**  
 <br>
-<![endif]-->
 
-**The Pleasure Garden**
-
+**THE PLEASURE GARDEN**  
 _Directed by_: James Broughton  
 _a_ Farallone Films _production_  
 _Presented by_: Flights of Fancy  
@@ -78,12 +76,10 @@ _Camera_: Walter Lassally
 _Assistant Editor_: Kermit Sheets *  
 _Music_: Stanley Bate  
 _Sound Editor_: Peter Price  
-_Production Facilities_: Basic Films,
+_Production Facilities_: Basic Films, Colonial Film Unit, British Film Institute  
+_Acknowledgments_: World Wide Pictures  
 
-Colonial Film Unit, British Film Institute  
-_Acknowledgments_: World Wide Pictures
-
-_Cast__:_  
+**Cast** 
 Thomas Goff _(Harpsichord player)_  
 Hattie Jacques _(Dr Mary Albion)_  
 Diana Maddox _(Bess)_  
@@ -102,23 +98,17 @@ Victoria Grayson _(Miss Greaves)_
 Mary Lee Settle _(Mme Paganini)_  
 Daphne Hunter _(girl in grass)_  
 Margaret Tate  
-Derek Rosen
+Derek Rosen  
 
-UK 1953
+UK 1953  
+38 mins  
+35mm  
 
-38 mins
-
-35mm
-
-**Together**
-
-_Directed by:_ Lorenza Mazzetti
-
-_In collaboration with:_ Denis Horne
-
-_Production Company:_ Harlequin Productions
-
-_Made with the support of:_British Film Institute Experimental Film Fund  
+**TOGETHER**  
+_Directed by:_ Lorenza Mazzetti  
+_In collaboration with:_ Denis Horne  
+_Production Company:_ Harlequin Productions  
+_Made with the support of:_ British Film Institute Experimental Film Fund  
 _Executive Producer:_ Denis Horne *  
 _Story and Scenario by:_ Denis Horne  
 _Photography:_ Hamid Hadari  
@@ -143,6 +133,8 @@ Digital 4K
 A BFI National Archive restoration  
 
 \* Uncredited
+<BR>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDE2MDU4XX0=
+eyJoaXN0b3J5IjpbLTEwNjEwMjc0NTNdfQ==
 -->
