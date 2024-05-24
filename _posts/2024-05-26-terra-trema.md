@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: La terra trema
+published: true
+date: 2024-05-26
+readtime: true
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
+tags: [Drama]
+metadata: 'Italy 1948,  mins<br> Director: Roberto Rossellini'
+pdf: '2024-05-19-germany-year-zero.pdf'
+---
 
 With _La terra trema_, Visconti developed the neorealist approach to a dramatic subject in its most extreme form: the players, the lines they speak, the places they live in, the whole social background and motivation, depart hardly at all from reality.
 
@@ -26,5 +34,5 @@ _La terra trema_’s claim to greatness finally lies in its wonderful integratio
 With _Ossessione_, Visconti had shattered the traditions and customs of the Italian cinema, given it the violent jolt that turned it towards neo-realism. With _La terra trema_ he gave the neo-realist cinema its most finished and one of its most influential works.  
 **Alain Tanner, _Sight and Sound_, Spring 1957**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODUwODczOV19
+eyJoaXN0b3J5IjpbLTEzMjcyMDY4NzNdfQ==
 -->
