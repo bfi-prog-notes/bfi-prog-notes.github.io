@@ -42,7 +42,7 @@ _How did you finish the film on your own?_
 
 After Denis left I started to cut the film in a cutting room owned by the BFI in the middle of the countryside. As I was experiencing many difficulties, Forman asked Lindsay Anderson to give me a hand. Lindsay saw the film, liked it and decided to help me to edit it and work on the soundtrack with John Fletcher. Danièle Paris came all the way from Rome to compose some of the music and we added a few traditional English songs. By then Lindsay had become a good friend.
 
-_Had you seen his_ Thursday’s Children _before he helped you to finish_ Together_?_
+_Had you seen his_ Thursday’s Children _before he helped you to finish_ Together _?_
 
 No I hadn’t. I didn’t even know who he was. He showed me a few issues of his film magazine _Sequence_ and then screened _O Dreamland_. He was a fascinating, tenderly rude and grumpy man. His enthusiasm made me fall in love with everything.
 
@@ -202,6 +202,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE3OTg4ODgsMTMwNjkzMjQ0LDU2MT
-EzODA1OF19
+eyJoaXN0b3J5IjpbNjI5NDUxODM2LDEzMDY5MzI0NCw1NjExMz
+gwNThdfQ==
 -->
