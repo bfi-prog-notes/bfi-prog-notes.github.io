@@ -5,9 +5,9 @@ published: true
 date: 2024-05-26
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
-tags: [Fantasy, Artist]
-metadata: 'Director: Mike Kaplan'
-pdf: '2024-05-24-never-apologize.pdf'
+tags: [Fantasy, Art, Experimental]
+metadata: 'Directors: James Broughton, Lorenza Mazzetti'
+pdf: '2024-05-26-anderson-and-others.pdf'
 ---
 
 **‘The Pleasure Garden’: contemporary reviews**  
@@ -30,7 +30,7 @@ _What was your first experience as a filmmaker?_
 
 I knew Slade’s film society had a small 16mm camera, some film and lights, so I decided to make a filmed version of Kafka’s _Metamorphosis_. As the college was full of very interesting characters, I asked one of my student friends to play Gregorio Samsa and two others to play his mother and sister. But I had no one to play Samsa’s boss until I met a fur dealer in the street. It was lucky he accepted the part because we had no money and he had to feed us more than once during the shoot. Then I edited the film in my bedroom, asked my friend Danièle Paris, an avant-garde composer, to contribute the music and had the film printed in a lab in Grosvenor Street, instructing them to charge the school. When William Coldstream received the bill, he told me, ‘My dear Lorenza, either you pay the bill or you go to jail. But since I don’t really want you to go to jail, I’ll let you organise a screening in the school and charge the students. If the screening’s successful enough to pay off your debts, then the film will be officially produced by the Slade. If it’s not, then the police will be waiting for you at the end.’ Eventually the film was so well received Coldstream introduced me to Denis Forman, the director of the BFI, who said he could help me make another film. The day after, we had tea together and I showed him a four-page synopsis of a film then titled _The Glass Marbles_.
 
-_How did the project become_ Together_?_
+_How did the project become_ Together _?_
 
 I had serious psychological problems because of my past, but as no one knew about it, the only way to express my anxiety was to translate it unconsciously into a film script. My film was about two deaf-mutes who lived in the East End and were completely excluded from the world around them. I’d projected my own feelings of being different on to these characters, who were constantly followed by a group of children who shouted things they couldn’t hear. As time went by the children became more and more daring until one of the deaf-mutes suddenly rebelled.
 
@@ -202,5 +202,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjkzMjQ0LDU2MTEzODA1OF19
+eyJoaXN0b3J5IjpbLTE3MTE3OTg4ODgsMTMwNjkzMjQ0LDU2MT
+EzODA1OF19
 -->
