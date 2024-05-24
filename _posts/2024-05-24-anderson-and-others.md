@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Never Apologize<br>A Personal Visit with Lindsay Anderson
+title: In Collaboration<br> Anderson and Others
 published: true
-date: 2024-05-24
+date: 2024-05-26
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Documentary]
@@ -202,5 +202,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMTM4MDU4XX0=
+eyJoaXN0b3J5IjpbLTE3MTY2NjYwOTYsNTYxMTM4MDU4XX0=
 -->
