@@ -1,14 +1,18 @@
+---
+layout: post
+title: Never Apologize<br>A Personal Visit with Lindsay Anderson
+published: true
+date: 2024-05-24
+readtime: true
+categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+tags: [Documentary]
+metadata: 'Director: Mike Kaplan'
+pdf: '2024-05-24-never-apologize.pdf'
+---
 
-
-
-<![endif]-->
-
-‘**The Pleasure Garden’: contemporary reviews**
-
-This light extravaganza by the Californian poet James Broughton, whose  
-16mm films (_Mothers’ Day_, _Loony Tom_, etc.) have been seen over here, was financed by private subscription and shot entirely on location in the Crystal Palace Gardens, a perfect setting. It is a highly personal mixture of lyricism, mime, whimsy and caprice; some may find it too tenuous, but those who like it will like it very much indeed. It has a freedom all too rare in the cinema, and it is all freshly, unassumingly imagined: a real, a genuine lark. Professional and non-professional actors blend homogeneously under the director’s eccentric guidance, Stanley Bate’s music is full of entirely appropriate gaiety and invention, and Walter Lassally’s photography is resourceful and attractively framed. _The Pleasure Garden_ won the Prix de Fantaisie Poetique at Cannes, 1954.
-
-_Monthly Film Bulletin_, November 1954
+**‘The Pleasure Garden’: contemporary reviews**  
+This light extravaganza by the Californian poet James Broughton, whose 16mm films (_Mothers’ Day_, _Loony Tom_, etc.) have been seen over here, was financed by private subscription and shot entirely on location in the Crystal Palace Gardens, a perfect setting. It is a highly personal mixture of lyricism, mime, whimsy and caprice; some may find it too tenuous, but those who like it will like it very much indeed. It has a freedom all too rare in the cinema, and it is all freshly, unassumingly imagined: a real, a genuine lark. Professional and non-professional actors blend homogeneously under the director’s eccentric guidance, Stanley Bate’s music is full of entirely appropriate gaiety and invention, and Walter Lassally’s photography is resourceful and attractively framed. _The Pleasure Garden_ won the Prix de Fantaisie Poetique at Cannes, 1954.  
+**_Monthly Film Bulletin_, November 1954**  
 
 He comes to London. He shows his films. He offers to make a film here, engages support, opens a subscription list, makes his film, and here it is.
 
@@ -16,12 +20,10 @@ The name of this prodigy is James Broughton. He’s that rare bird, a poet-cinea
 
 My delight that this piece should have arrived, and will in time take its place in repertoire, hasn’t, I hope, distracted me from the film itself. This is fresh as a daisy. As I’ve said, Broughton is a poet, a larky poet whose verses trip with an Elizabethan feeling and a modern vernacular. As the Elizabethan poet tended to compose his own music and to stage masques, so Broughton makes films. His larkiness finds there an added advantage: what the camera sees is so very literal to a poetic eye. In Chaplin, in René Clair, Buster Keaton, Jacques Tati we enjoy on a big scale the fruits of the poetic turned comic. Broughton is of their kind – his _Pleasure Garden_ has much in common with _Monsieur Hulot’s Holiday_ – except that he holds more strongly to feeling, makes short cuts they daren’t, sees and sings out of himself, and never dilutes a joke or a movement. _The Pleasure Garden_ thus combines, so far as we are concerned, the pleasures of Keystone with the love lyric. He takes a public garden (the Crystal Palace gardens, fallen into beautiful disrepair), and leads there the love-hungry young; they measure themselves against the statues, crash on bicycles into bushes, thaw in top-hats to an unusual music. The bandstand stages a chaste ballet, to the accompaniment of an intense female doublebass player, who at the end clasps her instrument and wanders off through the shrubbery. Of course there are funereal officials to put an end to all larks, and a Good (and fat) Fairy who, brushing away, crumbs as she comes out of a fish-and-chip shop, will wave her wand to some effect over those within and without the bounds of temptation.
 
-Does this all sound self-conscious fun? It is not. It springs like the lark, and mingles oddity, grace, satire, and laughter without a dead moment. If the fault of Broughton’s earlier pieces was that they were private, here he triumphs by being personal in a way we can all understand and enjoy. Cinemas would be gayer if he could be banged into as many programmes, before as many audiences, as possible.
+Does this all sound self-conscious fun? It is not. It springs like the lark, and mingles oddity, grace, satire, and laughter without a dead moment. If the fault of Broughton’s earlier pieces was that they were private, here he triumphs by being personal in a way we can all understand and enjoy. Cinemas would be gayer if he could be banged into as many programmes, before as many audiences, as possible.  
+**William Whitebait, _Sight and Sound_, January/March 1954**  
 
-William Whitebait, _Sight and Sound_, January/March 1954
-
-**Lorenza Mazzetti on ‘Together’**
-
+**Lorenza Mazzetti on ‘Together’**  
 Of the four original signatories to the Free Cinema manifesto, Lorenza Mazzetti has all but slipped from the pages of film history. Mazzetti was brought up by her aunt and uncle in Florence after her parents died when she was very young. Following a traumatic war – the SS killed her aunt and cousins; her uncle later committed suicide – she moved to London in the early 50s where she studied at the Slade School of Art. There she directed her first film – a short 16mm version of Kafka’s _Metamorphosis_ – and soon afterwards was given money by the BFI Experimental Film Fund (which backed many of the Free Cinema shorts) to make _Together_. Returning to Italy in 1959, she settled in Rome and directed a few television programmes for RAI. In 1961 she published a novel, _The Sky Falls_, based on her childhood (the memoir became a popular film in Italy last year). She lived in Rome [until her death in 2020], where she owned a puppet theatre.
 
 _What was your first experience as a filmmaker?_
@@ -135,6 +137,70 @@ A BFI National Archive restoration
 \* Uncredited
 <BR>
 
+**O DREAMLAND! LINDSAY ANDERSON’S DARK BRITISH CINEMA**  
+**This Sporting Life**  
+Wed 1 May 20:20; Wed 15 May 17:50; Thu 23 May 12:00  
+**Lindsay Anderson: Meet the Pioneer**  
+Thu 2 May 18:10  
+**No Film Can Be Too Personal**  
+Thu 2 May 20:20  
+**Home**  
+Sun 5 May 15:20  
+**The White Bus**  
+Sun 5 May 17:30  
+**If….**  
+Mon 6 May 17:50; Thu 16 May 20:30; Tue 21 May 18:10; Fri 24 May 12:10; Tue 28 May 20:45  
+**BFI Library Event: Outing Anderson**  
+Wed 8 May 20:00 BFI Reuben Library  
+**In Celebration**  
+Thu 9 May 20:25; Wed 22 May 18:00  
+**O Lucky Man!**  
+Sun 12 May 14:10; Sat 18 May 14:20; Mon 27 May 19:20  
+**Britannia Hospital**  
+Tue 14 May 20:35; Sat 25 May 18:00  
+**The Whales of August**  
+Thu 16 May 12:20; Sat 25 May 16:00; Fri 31 May 20:30  
+**The Old Crowd**  
+Thu 16 May 18:30  
+**Lindsay Anderson vs the Short Films Industry + intro by Patrick Russell, Senior Curator of Non-fiction, BFI National Archive**  
+Thu 23 May 18:20  
+**Stand Up! Stand Up!**  
+Thu 23 May 20:30  
+**Never Apologize**  
+Fri 24 May 17:50  
+**In Collaboration: Anderson and Others**  
+Sun 26 May 18:10  
+**Lindsay Anderson Experimenta Mixtape, curated by Stephen Sutcliffe**  
+Thu 30 May 18:10  
+
+**With thanks to**  
+The Lindsay Anderson Archive at the University of Stirling  
+
+**O Lucky Lindsay Anderson!**  
+4-week course from 7 May – 28 May, 2-4pm at City Lit, Keeley St. exploring the work and influence of visionary director, Lindsay Anderson, with course tutor John Wischmeyer. To book online **www.citylit.ac.uk/courses/o-lucky-lindsay-anderson** or call 020 3871 3111 and quote course code **HF364**
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEwMjc0NTNdfQ==
+eyJoaXN0b3J5IjpbNTYxMTM4MDU4XX0=
 -->
