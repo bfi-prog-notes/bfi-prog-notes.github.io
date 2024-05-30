@@ -17,7 +17,7 @@ Long fascinated with Anderson’s place in British film and television, and prai
 **William Fowler** is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films and co-founded BFI Flipside. His projects have included _Queer Pagan Punk: Derek Jarman_, the largest ever UK retrospective of Jarman’s films; _This Is Now: Film and Video After Punk_ which toured internationally in collaboration with artist moving image agency LUX and included over twenty restorations; and most recently the restoration of films by Lorenza Mazzetti which in January played at MoMA, New York. In 2023, he co-curated the Raven Row gallery show _People Make Television,_ a major retrospective on open-access community TV. His co-authored book  
 _The Bodies Beneath: The Flipside of British Film and Television_ is available from Strange Attractor Press.  
 
-**Lindsay Anderson Experimenta Mixtape Curated by Stephen Sutcliffe includes extracts from the following:**
+**Lindsay Anderson Experimenta Mixtape Curated by Stephen Sutcliffe includes extracts from the following:**  
 
 (Lindsay Anderson) _Chariots of Fire_, Hugh Hudson, 1981
 
@@ -107,6 +107,36 @@ Thu 30 May 18:10
 Fri 31 May 18:30  
 **The Whales of August**  
 Fri 31 May 20:30  
+
+**With thanks to**  
+The Lindsay Anderson Archive at the University of Stirling  
+
+
+**O Lucky Lindsay Anderson!**  
+4-week course from 7 May – 28 May, 2-4pm at City Lit, Keeley St. exploring the work and influence of visionary director, Lindsay Anderson, with course tutor John Wischmeyer. To book online **www.citylit.ac.uk/courses/o-lucky-lindsay-anderson** or call 020 3871 3111 and quote course code **HF364**
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTg1OTQ1MF19
+eyJoaXN0b3J5IjpbODAyODEzMTE1XX0=
 -->
