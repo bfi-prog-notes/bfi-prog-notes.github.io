@@ -1,12 +1,12 @@
 ---
 layout: post
-title: In Collaboration<br> Anderson and Others
+title: Lindsay Anderson<br>Experimenta Mixtape<br> Curated by Stephen Sutcliffe
 published: true
-date: 2024-05-26
+date: 2024-05-30
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
-tags: [Fantasy, Art, Experimental]
-metadata: 'Directors: James Broughton, Lorenza Mazzetti'
+tags: 
+metadata: 
 pdf: '2024-05-26-anderson-and-others.pdf'
 ---
 
@@ -202,5 +202,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NDUxODM2XX0=
+eyJoaXN0b3J5IjpbNTMyNTk4MTM5XX0=
 -->
