@@ -131,40 +131,23 @@ Albert Hall _(Chief Phillips)_
 
 Sam Bottoms _(Lance B. Johnson)_
 
-Larry Fishburne _(‘Clean’)_
-
-Dennis Hopper _(photo journalist)_
-
-G.D. Spradlin _(General Corman)_
-
-Harrison Ford _(Colonel Lucas)_
-
-Jerry Ziesmer _(civilian)_
-
-Scott Glenn _(Captain Richard Colby)_
-
-Bo Byers _(first MP sergeant)_
-
-James Keane _(Kilgore’s gunner)_
-
-Kerry Rossall _(Mike from San Diego)_
-
-Ron McQueen _(injured soldier)_
-
-Tom Mason _(supply sergeant)_
-
-Cynthia Wood _(Playmate of the year)_
-
-Colleen Camp, Linda Carpenter _(Playmates)_
-
-Jack Thibeau _(soldier in trench)_
-
-Glenn Walken _(Lt Carlsen)_
-
-George Cantero _(soldier with suitcase)_
-
-Damien Leake _(machine gunner)_
-
+Larry Fishburne _(‘Clean’)_  
+Dennis Hopper _(photo journalist)_  
+G.D. Spradlin _(General Corman)_  
+Harrison Ford _(Colonel Lucas)_  
+Jerry Ziesmer _(civilian)_  
+Scott Glenn _(Captain Richard Colby)_  
+Bo Byers _(first MP sergeant)_  
+James Keane _(Kilgore’s gunner)_  
+Kerry Rossall _(Mike from San Diego)_  
+Ron McQueen _(injured soldier)_  
+Tom Mason _(supply sergeant)_  
+Cynthia Wood _(Playmate of the year)_  
+Colleen Camp, Linda Carpenter _(Playmates)_  
+Jack Thibeau _(soldier in trench)_  
+Glenn Walken _(Lt Carlsen)_  
+George Cantero _(soldier with suitcase)_  
+Damien Leake _(machine gunner)_  
 Herb Rice _(Roach)_  
 William Upton _(spotter)_  
 Larry Carney _(second MP sergeant)_  
@@ -176,23 +159,16 @@ Hattie James _(voice of ‘Clean’s mother)_
 Jerry Ross _(Johnny from Malibu)_  
 Dick White _(helicopter pilot)_  
 the Ifugao people of Banaue Philippine Islands _(Montagnard tribesmen)_  
-Vittorio Storaro _(TV cameraman)_ *  
+Vittorio Storaro _(TV cameraman)_ *
 Dean Tavoularis _(TV crew member)_ *  
-R. Lee Ermey _(helicopter pilot)_ *
-
-_French Plantation Section  
-_Christian Marquand _(Hubert DeMarais)_
-
-Aurore Clément _(Roxanne Sarrault)_
-
-Michel Pitton _(Philippe DeMarais)_
-
-Frank Villard _(Gaston DeMarais)_
-
-David Olivier _(Christian DeMarais)_
-
-Chrystel Le Pelletier _(Claudine)_
-
+R. Lee Ermey _(helicopter pilot)_ *  
+_French Plantation Section_  
+Christian Marquand _(Hubert DeMarais)_  
+Aurore Clément _(Roxanne Sarrault)_  
+Michel Pitton _(Philippe DeMarais)_  
+Frank Villard _(Gaston DeMarais)_  
+David Olivier _(Christian DeMarais)_  
+Chrystel Le Pelletier _(Claudine)_  
 Robert Julian _(the tutor)_  
 Yvon LeSeaux _(Sergeant LeFevre)_  
 Roman Coppola _(Francis DeMarais)_  
@@ -206,5 +182,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU3NTc3MTldfQ==
+eyJoaXN0b3J5IjpbLTk2MDc4OTgxOV19
 -->
