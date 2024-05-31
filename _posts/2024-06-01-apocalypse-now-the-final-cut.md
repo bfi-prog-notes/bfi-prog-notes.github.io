@@ -108,7 +108,7 @@ Hattie James _(voice of ‘Clean’s mother)_
 Jerry Ross _(Johnny from Malibu)_  
 Dick White _(helicopter pilot)_  
 the Ifugao people of Banaue Philippine Islands _(Montagnard tribesmen)_  
-Vittorio Storaro _(TV cameraman)_ *
+Vittorio Storaro _(TV cameraman)_ *  
 Dean Tavoularis _(TV crew member)_ *  
 R. Lee Ermey _(helicopter pilot)_ *  
 _French Plantation Section_  
