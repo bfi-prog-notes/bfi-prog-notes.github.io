@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller]
 metadata: 'France/Italy 1953, 153 mins<br> Director: Henri-Georges Clouzot'
-pdf: '2024-06-01-general.pdf'
+pdf: '2024-06-01-wages-of-fear.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
