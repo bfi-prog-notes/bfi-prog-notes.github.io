@@ -17,69 +17,41 @@ He does this by way of the logic of the ‘encounter,’ which, Deleuze suggests
 <br><br>
 
 **STROMBOLI (STROMBOLI, TERRA DI DIO)**<br>
-
 _Director:_ Roberto Rossellini<br>
-
-_Production Companies:_ Berit Film,  
-RKO Radio Pictures<br>
-
+_Production Companies:_ Berit Film,  RKO Radio Pictures<br>
 _Production Managers:_ Enrico Donati, Ed Killy, Harold Lewis, Luigi Giacosi<br>
-
 _Associate Director:_ Mario Tarchetti<br>
-
 _Assistant Director:_ Marcello Caracciolo di Laurino<br>
-
 _Screenplay:_ Sergio Amidei, Gian Paolo Callegari<br>
-
 _English Dialogue:_ Renzo Cesana, Art Cohn<br>
-
 _Story:_ Roberto Rossellini<br>
-
 _Director of Photography:_ Otello Martelli<br>
-
 _Camera Operator:_ Luciano Trasatti<br>
-
 _Camera Assistants:_ Roberto Gerardi, Aiace Parolin<br>
-
 _Editor:_ Jolanda Benvenuti<br>
-
 _US Version Editor:_ Roland Gross<br>
-
 _Music:_ Renzo Rossellini<br>
-
 _Conductor:_ C. Bakaleinikoff<br>
-
 _Sound:_ Eraldo Giordani, Terry Kellum<br>
 
 _uncredited_<br>
-
 _Producers:_ Roberto Rossellini, Ingrid Bergman<br>
-
 _Screenplay:_ Felix Morlion<br>
-
 _Story:_ Sergio Amidei<br>
-
 _RKO Version Editor:_ Alfred Werker
 
-_Cast:_<br>
-
+**Cast**<br>
 Ingrid Bergman _(Karin Bjorsen)_<br>
-
 Mario Vitale _(Antonio Mastrostefano)_<br>
-
 Renzo Cesana _(priest)_<br>
-
 Mario Sponza _(lighthouse keeper)_<br>
-
 Roberto Onorati _(child)_<br>
-
 the inhabitants of Stromboli
 
-Italy-USA 1950
-
-100 mins
-
-Digital
+Italy-USA 1950<br>
+100 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTg2ODYyNV19
+eyJoaXN0b3J5IjpbLTQ4OTY1MjQzXX0=
 -->
