@@ -1,7 +1,14 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: Apocalypse Now<br> Final Cut
+published: true
+date: 2024-06-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, War]
+metadata: 'USA 1979, 151 mins<br> Directors: Robert Wise, Jerome Robbins'
+pdf: '2024-05-05-west-side-story.pdf'
+---
 In the year of its 40th anniversary, Francis Ford Coppola’s acid-drenched odyssey to the dark heart of the Vietnam war is returning to the big screen, in what has been billed _Apocalypse Now: Final Cut_. First unveiled at this year’s Tribeca Film Festival, Coppola has revisited his most tumescent, complex masterpiece in pursuit of an apparently ‘definitive’ version. Standing at three hours, some 30 minutes longer than the original 1979 cut, it includes several additional, divergent details, from a botched live appearance by a group of playboy models at a US outpost; to a woozy adventure on a French plantation shortly before the film’s final act, in which Captain Willard (Martin Sheen) completes his journey up the Nung River in pursuit of the man whose command he has been dispatched to terminate, Colonel Kurtz (Marlon Brando).
 
 This is an exercise that Coppola has engaged in before, of course. In 2001, the director revisited _Apocalypse Now_ to create what would be billed _Redux_, adding 53 minutes to the original film. _Final Cut_, by contrast, contains nothing new, Coppola instead having culled a few of _Redux_’s additional scenes to create a cut somewhere in-between the previous two. How, then, is this new version more definitive? Coppola himself reflects that when _Apocalypse Now_ screened at Cannes in 1979, it was effectively unfinished, with financial pressure and a desire to end the by-now-rampant speculation around the troubled production (many suspected that it would never be finished) driving him to finally deliver the two hour, 20-minute cut that so divided audiences, Palme d’Or or not.
@@ -180,6 +187,29 @@ Thu 18 Jul 20:45; Sun 28 Jul 12:00
 Mon 22 Jul 12:20; Wed 24 Jul 18:10 (+ intro by Arike Oke, Executive Director of Knowledge, Learning and Collections); Sat 27 Jul 20:45  
 **F for Fake**  
 Mon 22 Jul 18:20; Wed 24 Jul 12:40; Fri 26 Jul 20:50
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTk5NDIxXX0=
+eyJoaXN0b3J5IjpbNjE4MDcyMjY1XX0=
 -->
