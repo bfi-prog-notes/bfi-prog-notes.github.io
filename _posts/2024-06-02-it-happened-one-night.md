@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Badlands
+title: It Happened One Night
 published: true
-date: 2024-06-01
+date: 2024-06-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Crime]
-metadata: 'USA 1934, 1mins<br> Director: Terrence Malick'
-pdf: '2024-06-01-badlands.pdf'
+tags: [Comedy]
+metadata: 'USA 1934, 105 mins<br> Director: Frank Capra'
+pdf: '2024-06-02-it-happened-one-night.pdf'
 ---
 
-A runaway socialite clashes with a blunt, down-on-his luck reporter when they are required to pose as a married couple. Colbert and Gable ooze star power as they bicker and flirt their way through an unlikely road trip. The genesis of countless tropes and gags that came to define the genre, this stands as one the great romantic comedies, built on sparkling chemistry and buckets of charm.
-
-Ruby McGuigan, bfi.org.uk
+A runaway socialite clashes with a blunt, down-on-his luck reporter when they are required to pose as a married couple. Colbert and Gable ooze star power as they bicker and flirt their way through an unlikely road trip. The genesis of countless tropes and gags that came to define the genre, this stands as one the great romantic comedies, built on sparkling chemistry and buckets of charm.  
+**Ruby McGuigan, bfi.org.uk**  
 
 In 1932 Frank Capra predicted to _Variety_ that ‘someone is going to evolve a great film out of the Depression’ – and promptly created several himself. From the viewpoint of our own rapidly deepening Great Recession, his famously scrappy little 1934 screwball ‘bus picture’ _It Happened One Night_, which dunks runaway heiress Ellie Andrews (Claudette Colbert) and unemployed reporter Peter Warne (Clark Gable) into America’s everyday hardships, signals an interesting development in that evolution. Though it addresses the Depression indirectly compared to the wealth sharing of Capra’s later  
 _Mr Deeds Goes to Town_ (1936) or the head-on engagement of _American Madness_ (1932) and _Meet John Doe_ (1941), it crackles with the sound of a society on thin ice, both economically and socially, and of male and female roles stretched to breaking point.
@@ -112,5 +111,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTg1MDkxNl19
+eyJoaXN0b3J5IjpbLTY5NDAyNTc5OF19
 -->
