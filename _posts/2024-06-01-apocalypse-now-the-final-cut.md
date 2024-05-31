@@ -94,43 +94,24 @@ _E.V.I. Soloist Guitarist:_ Randy Hansen
 _Percussion Based Score:_ Mickey Hart
 
 _Music Performed by:_ The Rhythm Devils,  
-Jordan Amarantha, Greg Errico, Zakir Hussain,  
-Billy Kreutzmann, Phil Lesh, Jim Loveless
-
-_Playmate Show Choreography:_ John Calvert
-
+Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless  
+_Playmate Show Choreography:_ John Calvert  
 _Sound Montage/Design:_ Walter Murch
-
-_Production Recordists:_ Nathan Boxer,  
-Jack Jacobsen
-
-_Re-recordists:_ Walter Murch, Mark Berger,  
-Richard Beggs, Dale Strumpell, Thomas Scott
-
-_Sound Editors:_ Leslie Hodgson, Les Wiggins,  
-Pat Jackson, Jay Miracle
-
-_Creative Consultant:_ Dennis Jakob
-
+_Production Recordists:_ Nathan Boxer,  Jack Jacobsen  
+_Re-recordists:_ Walter Murch, Mark Berger, Richard Beggs, Dale Strumpell, Thomas Scott  
+_Sound Editors:_ Leslie Hodgson, Les Wiggins, Pat Jackson, Jay Miracle  
+_Creative Consultant:_ Dennis Jakob  
 _Military Advisers:_ Dick White, Fred Rexer Jr,  
-Paul Gregory, Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan
+Paul Gregory, Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan  
+_Stunt Co-ordinator:_ Terry J. Leonard  
 
-_Stunt Co-ordinator:_ Terry J. Leonard
-
-_Cast:_
-
-Marlon Brando _(Colonel Walter E. Kurtz)_
-
-Robert Duvall _(Lt Colonel Bill Kilgore)_
-
-Martin Sheen _(Captain Benjamin L. Willard)_
-
-Frederic Forrest _(‘Chef’ Hicks)_
-
-Albert Hall _(Chief Phillips)_
-
-Sam Bottoms _(Lance B. Johnson)_
-
+**Cast**  
+Marlon Brando _(Colonel Walter E. Kurtz)_  
+Robert Duvall _(Lt Colonel Bill Kilgore)_  
+Martin Sheen _(Captain Benjamin L. Willard)_  
+Frederic Forrest _(‘Chef’ Hicks)_  
+Albert Hall _(Chief Phillips)_  
+Sam Bottoms _(Lance B. Johnson)_  
 Larry Fishburne _(‘Clean’)_  
 Dennis Hopper _(photo journalist)_  
 G.D. Spradlin _(General Corman)_  
@@ -182,5 +163,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDc4OTgxOV19
+eyJoaXN0b3J5IjpbLTg5NTY5MDUyM119
 -->
