@@ -29,15 +29,11 @@ In 1953 _The Wages of Fear_ established Clouzot’s international reputation and
 Montand said that Clouzot originally cast Pablo Picasso in the role of truck driver Jo, eventually played by Charles Vanel: ‘Clouzot wanted an old guy who looked so tough that young people would never question his machismo. Picasso was perfect for that, and he agreed to play it – until he read the script and found he had to show cowardice. “Picasso cannot be a coward!” he told Clouzot.’ Of course, Picasso was fully occupied playing the role of Picasso, which he did to perfection for Clouzot in the documentary _Le Mystère Picasso_ (1956).  
 **Paul Ryan, _Sight and Sound_, September 2003**  
 <br>
-<![endif]-->
 
-**THE WAGES OF FEAR (LE SALAIRE DE LA PEUR)**
-
+**THE WAGES OF FEAR (LE SALAIRE DE LA PEUR)**  
 _Director:_ Henri-Georges Clouzot  
 _Production Companies:_ Compagnie Industrielle et Commerciale Cinématographique, Filmsonor (Paris), Véra Films, Fono Roma  
-_Executive Producers:_ Raymond Borderie,
-
-Henri-Georges Clouzot  
+_Executive Producers:_ Raymond Borderie, Henri-Georges Clouzot  
 _Producer:_ Georges Lourau *  
 _Production Manager:_ Louis Wipf  
 _Unit Production Managers:_ H. Jaquillard, L. Lippens  
@@ -55,15 +51,14 @@ _Assistant Camera Operators:_ Dicop, Florent, Pater
 _Stills Photography:_ Lucienne Chevert, J. Clouzot  
 _Editors:_ Henri Rust, Madeleine Gug, E. Muse  
 _Art Director:_ René Renoux  
-_Assistant Art Directors:_ Pierre Tyberghien,  
-M. Desage  
+_Assistant Art Directors:_ Pierre Tyberghien, M. Desage  
 _Costumes:_ Suzy Berton *  
 _Make-up:_ G. Bouban  
 _Music:_ Georges Auric  
 _Sound:_ William Robert Sivel  
 _Sound Assistants:_ Arthur van der Merren, P. Zann  
-_Cast:_
 
+**Cast**  
 Yves Montand _(Mario)_  
 Charles Vanel _(Jo)_  
 Peter Van Eyck _(Bimba)_  
@@ -72,7 +67,7 @@ Miss Darling
 Luis de Lima _(Bernardo)_  
 Jo Dest _(Smerloff)_  
 Dario Moreno _(Hernandez)_  
-Faustini
+Faustini  
 Seguna  
 William Tubbs _(O’Brien)_  
 Véra Clouzot _(Linda)_  
@@ -90,5 +85,5 @@ Digital
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzgyMjQyOF19
+eyJoaXN0b3J5IjpbMTY3NjA0NTExNV19
 -->
