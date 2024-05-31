@@ -23,78 +23,40 @@ When it comes to this new _Apocalypse_ _Now_ perhaps what impresses most is its 
 <br>
 <![endif]-->
 
-**Apocalypse Now: Final Cut**
-
-_Director:_ Francis Ford Coppola
-
-_Production Company:_ Omni Zoetrope
-
-_Producer:_ Francis Coppola
-
-_Co-produced by:_ Fred Roos,  
-Gray Frederickson, Tom Sternberg
-
-_Associate Producer:_ Mona Skager
-
-_Location Co-ordinator:_ Jack English
-
-_Post-production Co-ordinators:_  
-Doug Claybourne, Barbara Marks
-
-_Assistant Director:_ Jerry Ziesmer
-
-_Script Supervisors:_ Raymond Quiroz, Nancy Tonery
-
-_Casting:_ Terry Liebling, Vic Ramos
-
-_Screenplay:_ John Milius, Francis Coppola
-
-_Based on the novel by:_ Joseph Conrad *
-
-_Narration [Written] by:_ Michael Herr
-
-_Director of Photography:_ Vittorio Storaro
-
-_2nd Unit Director of Photography:_  
-Stephen H. Burum
-
-_Aerial Cameraman:_ David Butler
-
-_Camera Operator:_ Enrico Umetelli
-
-_Special Effects Co-ordinators:_ Joseph Lombardi, A.D. Flowers
-
-_Special Effects:_ Special Effects Unlimited
-
-_Supervising Editor:_ Richard Marks
-
-_Editors:_ Walter Murch, Gerald B. Greenberg,  
-Lisa Fruchtman
-
-_Additional Editors:_ Blackie Malkin, Evan Lottman
-
-_Associate Editor:_ George Berndt
-
-_Production Designer:_ Dean Tavoularis
-
-_Art Director:_ Angelo Graham
-
-_Costume Supervisor:_ Charles E. James
-
-_Make-up:_ Jack Young, Fred C. Blau Jr
-
-_Titles:_ Wayne Fitzgerald
-
-_Music:_ Carmine Coppola, Francis Ford Coppola
-
-_Master Synthesist:_ Patrick Gleeson
-
-_E.V.I. Soloist Guitarist:_ Randy Hansen
-
-_Percussion Based Score:_ Mickey Hart
-
-_Music Performed by:_ The Rhythm Devils,  
-Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless  
+**APOCALYPSE NOW: FINAL CUT**  
+_Director:_ Francis Ford Coppola  
+_Production Company:_ Omni Zoetrope  
+_Producer:_ Francis Coppola  
+_Co-produced by:_ Fred Roos, Gray Frederickson, Tom Sternberg  
+_Associate Producer:_ Mona Skager  
+_Location Co-ordinator:_ Jack English  
+_Post-production Co-ordinators:_ Doug Claybourne, Barbara Marks  
+_Assistant Director:_ Jerry Ziesmer  
+_Script Supervisors:_ Raymond Quiroz, Nancy Tonery  
+_Casting:_ Terry Liebling, Vic Ramos  
+_Screenplay:_ John Milius, Francis Coppola  
+_Based on the novel by:_ Joseph Conrad *  
+_Narration [Written] by:_ Michael Herr  
+_Director of Photography:_ Vittorio Storaro  
+_2nd Unit Director of Photography:_ Stephen H. Burum  
+_Aerial Cameraman:_ David Butler  
+_Camera Operator:_ Enrico Umetelli  
+_Special Effects Co-ordinators:_ Joseph Lombardi, A.D. Flowers  
+_Special Effects:_ Special Effects Unlimited  
+_Supervising Editor:_ Richard Marks  
+_Editors:_ Walter Murch, Gerald B. Greenberg, Lisa Fruchtman  
+_Additional Editors:_ Blackie Malkin, Evan Lottman  
+_Associate Editor:_ George Berndt  
+_Production Designer:_ Dean Tavoularis  
+_Art Director:_ Angelo Graham  
+_Costume Supervisor:_ Charles E. James  
+_Make-up:_ Jack Young, Fred C. Blau Jr  
+_Titles:_ Wayne Fitzgerald  
+_Music:_ Carmine Coppola, Francis Ford Coppola  
+_Master Synthesist:_ Patrick Gleeson  
+_E.V.I. Soloist Guitarist:_ Randy Hansen  
+_Percussion Based Score:_ Mickey Hart  
+_Music Performed by:_ The Rhythm Devils, Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless  
 _Playmate Show Choreography:_ John Calvert  
 _Sound Montage/Design:_ Walter Murch
 _Production Recordists:_ Nathan Boxer,  Jack Jacobsen  
@@ -163,5 +125,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTY5MDUyM119
+eyJoaXN0b3J5IjpbMjA0MzU0OTY5N119
 -->
