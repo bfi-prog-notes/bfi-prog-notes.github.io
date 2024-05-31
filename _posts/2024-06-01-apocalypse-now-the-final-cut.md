@@ -21,7 +21,6 @@ The post-_Easy_ _Rider_ era of American cinema to which _Apocalypse_ _Now_ belon
 When it comes to this new _Apocalypse_ _Now_ perhaps what impresses most is its vitality and boldness, some 40 years later. Led by the extraordinary richness of image and sound in this new, restored version (extracted from the original negative), it remains a staggering visual and aural journey, a trip into America’s heart of darkness that feels as relevant to the addled mania of Trump as it does to the Vietnam War. Technology has now opened up a universe of palettes to explore when a film is being remastered. Michael Mann – one of the most worthwhile filmmakers in regularly offering fascinating new versions of his films, while also being openly dismissive of ever revisiting _The_ _Keep_ (1983), his most legendarily constrained, compromised work – has often commented on how restoration lets a film exist as much in the present as the past, allowing for a kind of formal rebirth. Seeing this new _Apocalypse_ _Now_ on the biggest of screens at Il Cinema Ritrovato in Bologna earlier this year was a truly extraordinary experience, and it feels like a film that’s returned newly alive to us, somehow even more confident in its hallucinatory, kaleidoscopic strangeness than ever before. That is the cut that truly matters.  
 **Andrew Simpson, bfi.org.uk, 13 August 2019**  
 <br>
-<![endif]-->
 
 **APOCALYPSE NOW: FINAL CUT**  
 _Director:_ Francis Ford Coppola  
@@ -123,7 +122,109 @@ USA 1979©
 182 mins  
 Digital 4K  
 
-\* Uncredited
+\* Uncredited  
+<BR>
+<![endif]-->
+
+**BIG SCREEN CLASSICS**
+
+**Apocalypse Now: The Final Cut**
+
+Sat 1 Jun 15:00; Sat 8 Jun 19:40; Sat 15 Jun 19:40; Sun 23 Jun 19:20
+
+**The Wages of Fear** Le Salaire de la peur
+
+Sat 1 Jun 17:40; Tue 11 Jun 20:15; Wed 19 Jun 14:20; Sun 30 Jun 14:40
+
+**The General + Cops**
+
+Sat 1 Jun 18:40; Wed 12 Jun 12:10
+
+**Cléo from 5 to 7** Cléo de 5 à 7
+
+Sat 1 Jun 20:50; Wed 5 Jun 18:10 (+ intro programmer Jelena Milosavljevic); Fri 14 Jun 20:50; Fri 21 Jun 12:10
+
+**It Happened One Night**
+
+Sun 2 Jun 13:00; Mon 17 Jun 12:10; Tue 25 Jun 20:30
+
+**Badlands**
+
+Sun 2 Jun 20:45; Mon 10 Jun 12:20; Wed 26 Jun 18:15 (+ intro by Ruby McGuigan, BFI Programme and Acquisitions)
+
+**Sullivan’s Travels**
+
+Mon 3 Jun 18:10; Mon 10 Jun 20:50; Fri 14 Jun 14:45; Mon 24 Jun 12:10
+
+**North by Northwest**
+
+Mon 3 Jun 20:20; Thu 6 Jun 14:30; Tue 18 Jun 14:30
+
+**Easy Rider**
+
+Tue 4 Jun 12:40; Fri 7 Jun 21:00; Sun 16 Jun 20:35; Sat 22 Jun 13:20
+
+**The Searchers**
+
+Tue 4 Jun 20:30; Thu 20 Jun 12:10; Sat 29 Jun 15:20
+
+**Where Is the Friend’s House?** Khaneh-je Doost Kojast
+
+Wed 5 Jun 12:45; Sat 8 Jun 15:40; Wed 19 Jun 18:15 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 26 Jun 21:00
+
+**Alice in the Cities** Alice in den Städten
+
+Sun 9 Jun 20:20; Thu 13 Jun 12:00; Fri 28 Jun 12:20
+
+**Gun Crazy**
+
+Wed 12 Jun 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Mon 24 Jun 20:30; Thu 27 Jun 12:20
+
+**Wild Strawberries** Smultronstället
+
+Mon 1 Jul 11:50; Tue 9 Jul 20:50; Sun 21 Jul 14:20; Tue 30 Jul 18:20
+
+**Point Blank**
+
+Tue 2 Jul 12:20; Wed 17 Jul 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Jul 18:30
+
+**Pierrot le fou**
+
+Tue 2 Jul 18:10; Fri 12 Jul 20:40; Mon 15 Jul 12:10; Mon 29 Jul 20:45
+
+**Taxi Driver**
+
+Wed 3 Jul 17:50 (+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television); Sat 13 Jul 18:00; Tue 16 Jul 12:15; Tue 23 Jul 12:20
+
+**The Passenger** Professione: reporter
+
+Thu 4 Jul 20:40; Sat 6 Jul 12:00; Mon 15 Jul 18:10; Fri 19 Jul 12:20
+
+**Au hasard Balthazar**
+
+Fri 5 Jul 12:20; Wed 10 Jul 12:20; Fri 19 Jul 20:45; Wed 31 Jul 18:10 (+ intro)
+
+**The English Patient**
+
+Sat 6 Jul 17:15; Sun 21 Jul 19:20
+
+**The Discreet Charm of the Bourgeoisie** Le Charme discret de la bourgeoisie
+
+Sun 7 Jul 17:10; Thu 11 Jul 12:20; Sat 20 Jul 16:10
+
+**Theorem** Teorema
+
+Mon 8 Jul 12:20; Wed 10 Jul 18:15 (+ intro); Wed 17 Jul 12:30; Sun 28 Jul 20:30  
+**Gloria**  
+Sat 13 Jul 13:10; Tue 16 Jul 20:35; Sat 20 Jul 13:30; Tue 30 Jul 20:30  
+**Unforgiven**  
+Sun 14 Jul 19:50; Tue 23 Jul 20:30; Thu 25 Jul 14:40  
+**Bitter Victory**  
+Thu 18 Jul 20:45; Sun 28 Jul 12:00  
+**Daughters of the Dust**  
+Mon 22 Jul 12:20; Wed 24 Jul 18:10 (+ intro by Arike Oke, Executive Director of Knowledge, Learning and Collections); Sat 27 Jul 20:45  
+**F for Fake**  
+Mon 22 Jul 18:20; Wed 24 Jul 12:40; Fri 26 Jul 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzU0OTY5N119
+eyJoaXN0b3J5IjpbLTM5MTQ3MzM0NF19
 -->
