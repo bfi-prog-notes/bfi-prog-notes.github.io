@@ -6,7 +6,7 @@ date: 2024-06-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller]
-metadata: 'USA 1926, 79 mins<br> Directors: Eddie Cline, Buster Keaton'
+metadata: 'France/Italy 1953, 153 mins<br> Director: Henri-Georges Clouzot'
 pdf: '2024-06-01-general.pdf'
 ---
 
@@ -171,5 +171,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg3NDcxMjddfQ==
+eyJoaXN0b3J5IjpbLTIxNDE2MTEwOTFdfQ==
 -->
