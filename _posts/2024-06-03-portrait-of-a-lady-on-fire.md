@@ -27,8 +27,7 @@ This was my first film with Claire Mathon. I have always worked with female DPs.
 
 _Even though it’s a spoiler, I have to ask about the ending, because, after the slow-burn of the romance up to that point, it opens up such a flood of emotions. Could you explain how you arrived at the moment Marianne goes to the gallery and sees a portrait of Héloïse with the secret ‘page 28’ reference – the page in the book where Héloïse had asked Marianne to draw herself._
 
-It took me a long time to figure out. I wanted Marianne to see Héloïse in a painting and that there would be a secret within the painting. But what kind of secret? The obvious one in art history is the open door of a birdcage. When a birdcage is open or closed in a painting it tells us about the girl’s virginity. When there are animals, it’s sexual metaphors. If I were to submit to a convention like this, it would have worked pretty well and people with that knowledge would have enjoyed the little wink. But that’s the thing. You want to find something new and think of something that’s going to really belong to  
-the film.
+It took me a long time to figure out. I wanted Marianne to see Héloïse in a painting and that there would be a secret within the painting. But what kind of secret? The obvious one in art history is the open door of a birdcage. When a birdcage is open or closed in a painting it tells us about the girl’s virginity. When there are animals, it’s sexual metaphors. If I were to submit to a convention like this, it would have worked pretty well and people with that knowledge would have enjoyed the little wink. But that’s the thing. You want to find something new and think of something that’s going to really belong to the film.
 
 And so this book idea finally came up. And suddenly I knew it was the right idea because there’s several elements to it. The fact that there will be a finger in the book, and that this will be sexy. The fact that a number is a common language: everybody will get it, even those who don’t speak French. And there’s the mystery also because this number didn’t mean anything before the film, but it will suddenly: it’s that language that you now speak and a world you become part of. It belongs to the film but will live beyond the film. I want people to get ‘page 28’ tattoos. I wonder if anyone will hide notes at that page. I know that now when I want to hide something in a book, I’ll put it on page 28.
 
@@ -107,5 +106,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTQ1MTI0OF19
+eyJoaXN0b3J5IjpbLTE0NjAyNzA5NzRdfQ==
 -->
