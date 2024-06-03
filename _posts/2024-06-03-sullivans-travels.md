@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sullivan's Travel
+title: Sullivan's Travels
 published: true
 date: 2024-06-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Comedy]
-metadata: 'USA 1941, 90 mins<br> Director: Preston'
-pdf: '2024-06-02-it-happened-one-night.pdf'
+metadata: 'USA 1941, 90 mins<br> Director: Preston Sturges'
+pdf: '2024-06-03-sullivans-travels.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -172,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzY0ODY2OV19
+eyJoaXN0b3J5IjpbLTE5MTc0ODQ3MDZdfQ==
 -->
