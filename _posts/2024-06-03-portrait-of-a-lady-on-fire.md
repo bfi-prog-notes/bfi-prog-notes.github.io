@@ -4,10 +4,10 @@ title: Portrait of a Lady on Fire
 published: true
 date: 2024-06-03
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Thriller]
+categories: ['MEMBER MONDAYS']
+tags: [Drama, Period]
 metadata: 'France 2019, 122 mins<br> Director: Céline Sciamma'
-pdf: '2024-06-03-north-by-northwest.pdf'
+pdf: '2024-06-03-portrait-of-a-lady-on-fire.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -17,17 +17,13 @@ The eruption of Céline Sciamma’s _Portrait of a Lady on Fire_ at 30th place, 
 _Portrait of a Lady on Fire_ brought Sciamma’s work and status to another level. Her first costume film, set on a remote Breton island in the late 18th century, charts in a series of exquisite tableaux the intense passion between two women, a painter, Marianne (Noémie Merlant), and her model Héloïse (Adèle Haenel). Héloïse is to be married against her will to a rich man on the strength of the portrait. After initial resistance on both women’s parts, the painting becomes the conductor for their love for each other.
 
 In _Portrait_, Sciamma fights patriarchal oppression first of all by creating a utopian, if temporary, all-women’s world. More fundamentally, the relationship between the two women develops as one of reciprocity and equality. The film thus rejects a hierarchical vision of desire and in the process updates the relationship between artist and model and the fetishised figure of the ‘muse’. _Portrait_’s egalitarian ethos evidently echoes Sciamma’s own commitment – among other things she is deeply involved in the Collectif 50/50, which fights for gender equality in the French film industry. But the film resonated with the ambient culture in other ways. When it came out in France in the autumn of 2019, _Portrait_ appeared as the perfect illustration of the female gaze, a concept newly ‘discovered’ in a country that was still coming to terms, only slowly, with the aftermath of the #MeToo movement, about which both Sciamma and Haenel (formerly a couple) spoke out in various contexts.  
-_Portrait of a Lady on Fire_ demonstrates Sciamma’s ability to make a timelessly beautiful film that also crystallises the gender politics of her era.
+_Portrait of a Lady on Fire_ demonstrates Sciamma’s ability to make a timelessly beautiful film that also crystallises the gender politics of her era.  
+**Ginette Vincendeau, _Sight and Sound_, Winter 2022-23**  
 
-Ginette Vincendeau, _Sight and Sound_, Winter 2022-23
-
-**Céline Sciamma on ‘Portrait of a Lady on Fire’**
-
+**Céline Sciamma on ‘Portrait of a Lady on Fire’**  
 _This is a film all about the female gaze. How important was it for you to have a female director of photography, in this case, Claire Mathon?_
 
-This was my first film with Claire Mathon. I have always worked with female DPs. I know nothing else. It’s more a question for the actors as they’ve worked on different sets. Cinema has a strong hierarchy. And that’s the same even on my sets. I’m in charge; I get to create the world I want to live in for two months. You have power. The question is: what are you going to do with that power? I’m not saying there’s no hierarchy on my sets, but I tried to create a more horizontal way of working that is very collaborative. The film is all about that.  
-It’s all about how there is no muse. The model and the artist are co-creators.  
-I find it strange that people want to work differently. We should be asking this question to male directors. They seem to enjoy their own company very much.
+This was my first film with Claire Mathon. I have always worked with female DPs. I know nothing else. It’s more a question for the actors as they’ve worked on different sets. Cinema has a strong hierarchy. And that’s the same even on my sets. I’m in charge; I get to create the world I want to live in for two months. You have power. The question is: what are you going to do with that power? I’m not saying there’s no hierarchy on my sets, but I tried to create a more horizontal way of working that is very collaborative. The film is all about that. It’s all about how there is no muse. The model and the artist are co-creators. I find it strange that people want to work differently. We should be asking this question to male directors. They seem to enjoy their own company very much.
 
 _Even though it’s a spoiler, I have to ask about the ending, because, after the slow-burn of the romance up to that point, it opens up such a flood of emotions. Could you explain how you arrived at the moment Marianne goes to the gallery and sees a portrait of Héloïse with the secret ‘page 28’ reference – the page in the book where Héloïse had asked Marianne to draw herself._
 
@@ -86,6 +82,30 @@ Clément Bouyssou _(boatman)_
 France 2019  
 122 mins  
 Digital  
+<br>
+<br>
+**SIGHT AND SOUND**
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM4MTE1MTBdfQ==
+eyJoaXN0b3J5IjpbLTg0NTQ1MTI0OF19
 -->
