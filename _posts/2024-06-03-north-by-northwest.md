@@ -9,6 +9,7 @@ tags: [Comedy]
 metadata: 'USA 1934, 105 mins<br> Director: Frank Capra'
 pdf: '2024-06-02-it-happened-one-night.pdf'
 ---
+
 **SPOILER WARNING** The following notes give away some of the plot.
 
 ‘Brilliant performances by Cary Grant, Eva Marie Saint, James Mason and Martin Landau, stunning set pieces, a riveting mistaken identity tale and a beautiful soundtrack – this is an absolute classic that always feels fresh and exciting.’ – Lucy Bolton
@@ -18,8 +19,7 @@ pdf: '2024-06-02-it-happened-one-night.pdf'
 ‘Cary Grant is at his urbane best in a tale that effortlessly blends menace with romance and sly humour.’ – James Healy  
 **_Sight and Sound_, Winter 2022-23**  
 
-**A contemporary review**
-
+**A contemporary review**  
 Critics who like to see Alfred Hitchcock’s films as so many cryptograms to be puzzled over for hidden symbols are going to have a hard time with _North by Northwest_. This is the purest piece of entertainment filmmaking we have had from him in some years; it is also, which does not inevitably follow, the most purely entertaining. After the strains of wrongful arrest, or the elaborate identity-puzzle of _Vertigo_, there is something spacious and assured about this return to a world of gigantic spy rings ruled by silkily mannered art collectors, of secret plans (what secrets? – it never matters) taken out of the country by chartered aircraft, of transcontinental chases in express trains and bewildering midnight meetings in darkened airports.
 
 The script, by Ernest Lehman, is apparently a screen original, itself a change in these days when Hollywood regards an adaptation from something or other as part of a film’s pedigree. But Mr Lehman, one feels, was working under orders. Almost 20 years ago, Hitchcock staged a final chase around the Statue of Liberty; this time, he has chosen a formidably grotesque national monument – Mount Rushmore, where the features of America’s dead presidents have been hugely hacked out of a cliff-side. Longer ago still, in _The 39 Steps_, the spy chief, training his revolver on Hannay, was interrupted when his wife calmly called him to lunch; here, again, interrogation is interrupted by a summons to the dinner table. And so on. Hitchcock’s ability to repeat himself has always been infinite.
@@ -33,8 +33,7 @@ _North by Northwest_’s most effective sequence, however, takes place in a sett
 Casually, he points out a crop-dusting plane, operating where there are no crops growing. He boards the bus… and in seconds the aircraft is swooping on Cary Grant, pursuing him with a rattle of gunfire, chasing him through the growing corn. In the contrast between the slow, silent build-up, the long shots of the prairie, the isolation of the waiting figure, and the sudden, definitive  
 burst of violence, we are safely in the hands of the most authoritative of precision experts.
 
-Not all of _North by Northwest_ is as good as this. The film is ridiculously long (two and a quarter hours), and inevitably there are passages, mostly those involving the equivocal heroine, in which the action drags and no adequate substitute is offered. Motivation, here, scarcely counts: even the situation of the girl involved with, and herself spying on, the enemy agent is brushed aside. Hitchcock explored this one, up to a point, in _Notorious_; here he merely  
-states it.
+Not all of _North by Northwest_ is as good as this. The film is ridiculously long (two and a quarter hours), and inevitably there are passages, mostly those involving the equivocal heroine, in which the action drags and no adequate substitute is offered. Motivation, here, scarcely counts: even the situation of the girl involved with, and herself spying on, the enemy agent is brushed aside. Hitchcock explored this one, up to a point, in _Notorious_; here he merely states it.
 
 An advantage of these paper-thin characters, though, is that they can be used for humour, which would be redundant if the film even pretended to take its adventures at more than their face value. The advertising man, for instance, takes his mother, acidly argumentative and missing her bridge party, along with him on a detective expedition. A car chase, beginning with careful tension, ends in a ludicrous three car bumper-to-bumper pile-up.
 
@@ -137,5 +136,5 @@ Digital 4K
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTY4NDY0N119
+eyJoaXN0b3J5IjpbMjAwNTk5NzU0OV19
 -->
