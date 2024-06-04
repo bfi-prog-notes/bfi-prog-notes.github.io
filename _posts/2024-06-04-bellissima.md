@@ -16,106 +16,58 @@ Bernard Shaw once made an observation to the effect that extreme happiness produ
 <br><br>
 
 **BELLISSIMA**<br>
-
 _Director:_ Luchino Visconti<br>
-
 _Production Company:_ Film Bellissima<br>
-
 _Producer:_ Salvo D’Angelo<br>
-
 _Production Supervisor:_ Orlando Orsini<br>
-
-_Production Managers:_ Paolo Moffa,  
-Vittorio Musy Glori<br>
-
+_Production Managers:_ Paolo Moffa,  Vittorio Musy Glori<br>
 _Production Secretary:_ Spartaco Conversi<br>
-
-_Assistant Directors:_ Francesco Rosi,  
-Franco Zeffirelli<br>
-
+_Assistant Directors:_ Francesco Rosi,  Franco Zeffirelli<br>
 _Script Supervisor:_ Rinaldo Ricci<br>
-
-_Screenplay:_ Suso Cecchi D’Amico,  
-Francesco Rosi, Luchino Visconti<br>
-
+_Screenplay:_ Suso Cecchi D’Amico,  Francesco Rosi, Luchino Visconti<br>
 _Story by:_ Cesare Zavattini<br>
-
 _Director of Photography:_ Piero Portalupi<br>
-
-_Camera Operators:_ Oberdan Trojani,  
-Idelmo Simonelli<br>
-
+_Camera Operators:_ Oberdan Trojani,  Idelmo Simonelli<br>
 _Stills Photography:_ Paul Ronald<br>
-
 _Editor:_ Mario Serandrei<br>
-
 _Assistant Editor:_ Liliana Mancini<br>
-
 _Art Director:_ Gianni Polidori<br>
-
 _Costumes:_ Piero Tosi<br>
-
 _Make-up:_ Alberto De Rossi<br>
-
-_Music Composed and Conducted by:_  
-Franco Mannino<br>
-
+_Music Composed and Conducted by:_  Franco Mannino<br>
 _Music based on theme ‘L’elisir d’amore’ by:_ Gaetano Donizetti<br>
-
 _Sound:_ Ovidio Del Grande<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Anna Magnani _(Maddalena Cecconi)_<br>
-
 Walter Chiari _(Alberto Annovazzi)_<br>
-
 Tina Apicella _(Maria Cecconi)_<br>
-
 Gastone Renzelli _(Spartaco Cecconi)_<br>
-
 Alessandro Blasetti _(himself, film director)_<br>
-
 Tecla Scarano _(the acting teacher)_<br>
-
 Lola Braccini _(the photographer’s wife)_<br>
-
 Arturo Bragaglia _(the photographer)_<br>
-
 Nora Ricci _(the ironing lady)_<br>
-
 Gisella Monaldi _(the porter)_<br>
-
-Linda Sini _(Mimmetta)_
-
-Liliana Mancini _(Iris)_
-
-Teresa Battaggi _(the snobbish mother)_
-
-Pietro Fumelli
-
-Sonia Marinelli
-
-Anna Nighel
-
-Guido Martufi
-
-Michele Di Giulio
-
-Lina Rossoni
-
-Lilly Marchi
-
-Luciano Caruso
-
+Linda Sini _(Mimmetta)_<br>
+Liliana Mancini _(Iris)_<br>
+Teresa Battaggi _(the snobbish mother)_<br>
+Pietro Fumelli<br>
+Sonia Marinelli<br>
+Anna Nighel<br>
+Guido Martufi<br>
+Michele Di Giulio<br>
+Lina Rossoni<br>
+Lilly Marchi<br>
+Luciano Caruso<br>
 Vittorio Musy Glori, Mario Chiari, George Taparelli, Luigi Filippo D’Amico, Corrado Mantoni _themselves)_  
-Italy 1951
 
-114 mins
-
+Italy 1951<br>
+114 mins<br>
 Digital 4K (restoration)
 
-Restored in 4K in 2023 by CSC – Cineteca Nazionale in collaboration with Compass Film at the Studio Cine S.r.l. laboratory
+Restored in 4K in 2023 by CSC – Cineteca Nazionale in collaboration with Compass Film at the Studio Cine S.r.l. laboratory<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY5MTg0NjddfQ==
+eyJoaXN0b3J5IjpbMTA3MzYwMDQxN119
 -->
