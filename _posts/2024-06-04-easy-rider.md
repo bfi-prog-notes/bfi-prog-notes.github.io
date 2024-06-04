@@ -19,68 +19,35 @@ In capturing this turmoil, _Easy Rider_ reverses the premise of most Westerns. T
 _Easy Rider_ remains a landmark in low-budget independent filmmaking. Of all the criticisms levelled at _Easy Rider_, the glibbest and least supportable is that it has dated. The film works not simply as a vivid snapshot of the late 60s, but as a prophecy of the cynicism and exhaustion of the decades to come. The episodic narrative manages to encompass an eclectic range of the decade’s cultural ferment. The communes, the interest in Eastern religions, the heightened awareness of civil rights, the biker and hippie subcultures, sexual liberation, the widespread experimentation with drugs, the romance of hitchhiking, the ever-shifting colours and styles of fashion, and the relevance and immediacy of rock music are all economically woven into an ostensibly artless storyline. The same narrative is strong enough to show how many of these ideas and movements would eventually fail or run aground in the 70s, and become consumed by their polar opposites in the 80s and 90s. _Easy_ _Rider_ is a film about the contradictions of the American pioneering spirit and the sheer waste and destruction that lies behind so much of the ambition underpinning the American Dream. _Easy Rider_’s visual splendour does not obscure its tragic argument: the idealism of the 60s, like the money in Wyatt’s gas tank, was too easily acquired and taken for granted, until it was squandered and violently destroyed.  
 **Extracted from _Easy Rider_ by Lee Hill (BFI Modern Classics, 1996)Reproduced by kind permission of Bloomsbury Publishing. © Lee Hill**  
 <br>
-<![endif]-->
 
-**Easy Rider**
-
-_Directed by_: Dennis Hopper
-
-_©_: Raybert Productions
-
-_Presented by_: Pando Company
-
-_Presented in association with_:
-
-Raybert Productions
-
-_Executive Producer_: Bert Schneider
-
-_Produced by_: Peter Fonda
-
-_Associate Producer_: William L. Hayward
-
-_Production Manager_: Paul Lewis
-
-_Location Manager_: Tony Vorno
-
-_Post Production_: Marilyn Schlossberg
-
-_1st Assistant Director_: Paul Lewis
-
-_2nd Assistant Director_: Len Marsal
-
-_Script Supervisor_: Joyce King
-
-_Written by_: Peter Fonda, Dennis Hopper,
-
-Terry Southern
-
-_Director of Photography_: László Kovács
-
-_Additional Photography_: Barry Feinstein *
-
-_Assistant Cameraman_: Peter Heiser Jr
-
-_Gaffer_: Richmond Aguilar
-
-_Electrician_: Foster Denker
-
-_Best Boy_: Mel Maxwell
-
-_Generator_: Guy Badger
-
-_Key Grip_: Thomas Ramsey
-
-_Still Man_: Peter Sorel
-
-_Special Effects_: Steve Karkus
-
-_Film Editor_: Donn Cambern
-
-_Assistant Editor_: Stanley Siegel
-
-_Art Director_: Jerry Kay
-
+**EASY RIDER**
+_Directed by_: Dennis Hopper  
+_©_: Raybert Productions  
+_Presented by_: Pando Company  
+_Presented in association with_: Raybert Productions  
+_Executive Producer_: Bert Schneider  
+_Produced by_: Peter Fonda  
+_Associate Producer_: William L. Hayward  
+_Production Manager_: Paul Lewis  
+_Location Manager_: Tony Vorno  
+_Post Production_: Marilyn Schlossberg  
+_1st Assistant Director_: Paul Lewis  
+_2nd Assistant Director_: Len Marsal  
+_Script Supervisor_: Joyce King  
+_Written by_: Peter Fonda, Dennis Hopper, Terry Southern  
+_Director of Photography_: László Kovács  
+_Additional Photography_: Barry Feinstein *  
+_Assistant Cameraman_: Peter Heiser Jr  
+_Gaffer_: Richmond Aguilar  
+_Electrician_: Foster Denker  
+_Best Boy_: Mel Maxwell  
+_Generator_: Guy Badger  
+_Key Grip_: Thomas Ramsey  
+_Still Man_: Peter Sorel  
+_Special Effects_: Steve Karkus  
+_Film Editor_: Donn Cambern  
+_Assistant Editor_: Stanley Siegel  
+_Art Director_: Jerry Kay  
 _Prop Master_: Robert O’Neil  
 _Make-up_: Virgil Frye  
 _Titles_: CineFX  
@@ -130,5 +97,5 @@ Digital 4K
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDc2MjldfQ==
+eyJoaXN0b3J5IjpbLTE2ODE1MDk5MzRdfQ==
 -->
