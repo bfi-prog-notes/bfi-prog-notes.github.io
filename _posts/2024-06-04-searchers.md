@@ -84,6 +84,7 @@ USA 1956
 119 mins  
 Digital  
 <br>
+
 **BIG SCREEN CLASSICS**  
 **Apocalypse Now: The Final Cut**  
 Sat 1 Jun 15:00; Sat 8 Jun 19:40; Sat 15 Jun 19:40; Sun 23 Jun 19:20  
@@ -163,6 +164,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTg2Njc2MCw4NDIzMDIxMzUsLTE0Nz
-IyODg2OTAsLTkyOTE2NDM5Nl19
+eyJoaXN0b3J5IjpbLTIwNzU5MDg1ODIsMTAxNTg2Njc2MCw4ND
+IzMDIxMzUsLTE0NzIyODg2OTAsLTkyOTE2NDM5Nl19
 -->
