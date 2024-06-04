@@ -5,9 +5,9 @@ published: true
 date: 2024-06-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Comedy]
+tags: [Drama, Road Movie]
 metadata: 'USA 1969, 95 mins<br> Director: Dennis Hopper'
-pdf: '2024-06-0-sullivans-travels.pdf'
+pdf: '2024-06-04-easy-rider.pdf'
 ---
 
 _Easy Rider_’s impact was made possible by a bold synthesis of the disparate styles, moods and practices with which 60s pop culture was awash. The acting paid homage to the Actors Studio and the groundbreaking experiments of John Cassavetes’ _Shadows_ (1959) and Shirley Clarke’s _The Cool World_ (1963). The self-conscious use of the camera, especially the jump-cuts and zooms, also displayed the influence of the work of the various European new waves then flooding American art houses and film societies – the British Free Cinema, the French _nouvelle_ _vague_, the Italian neo-realists from Antonioni to Fellini, and the Czech New Wave. The editing built on the frenetic cutting of Richard Lester and mid-60s television advertising, and the _cinéma_ _vérité_ of  
@@ -185,5 +185,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk0NzgyMThdfQ==
+eyJoaXN0b3J5IjpbMTMwMzE5NTkzNl19
 -->
