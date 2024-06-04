@@ -25,7 +25,8 @@ _The Searchers_ did violence to that ‘simple, sure, affirmative’ heroic visi
 
 The film is not in fact an aberration, but a crystallisation of the fears, obsessions and contradictions which had been boiling up under the surface of Ford’s work since his return from World War II. Godard hints at this in his delightful comment: ‘Mystery and fascination of this American cinema... How can I hate John Wayne upholding Goldwater and yet love him tenderly when abruptly he takes Natalie Wood into his arms in the last reel of _The Searchers_ ?’ Ethan is both hero and anti-hero, a man radically estranged from his society and yet driven to act in its name. His strengths and failings, like the promise and danger of the land around him, are inextricable. _The Searchers_ is, on the surface, a highly romantic subject – a knightly quest – but the knight’s motives are impure, and as the search progresses, Ford begins to undercut his morality.  
 **Joseph McBride and Michael Wilmington, _Sight and Sound_, Autumn 1971**  
+<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjE0MTA5Nl19
+eyJoaXN0b3J5IjpbLTkyOTE2NDM5Nl19
 -->
