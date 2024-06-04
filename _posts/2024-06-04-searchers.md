@@ -26,7 +26,106 @@ _The Searchers_ did violence to that ‘simple, sure, affirmative’ heroic visi
 The film is not in fact an aberration, but a crystallisation of the fears, obsessions and contradictions which had been boiling up under the surface of Ford’s work since his return from World War II. Godard hints at this in his delightful comment: ‘Mystery and fascination of this American cinema... How can I hate John Wayne upholding Goldwater and yet love him tenderly when abruptly he takes Natalie Wood into his arms in the last reel of _The Searchers_ ?’ Ethan is both hero and anti-hero, a man radically estranged from his society and yet driven to act in its name. His strengths and failings, like the promise and danger of the land around him, are inextricable. _The Searchers_ is, on the surface, a highly romantic subject – a knightly quest – but the knight’s motives are impure, and as the search progresses, Ford begins to undercut his morality.  
 **Joseph McBride and Michael Wilmington, _Sight and Sound_, Autumn 1971**  
 <br>
+<![endif]-->
 
+**The Searchers**
+
+_Directed by_: John Ford
+
+_Production Company_:
+
+C.V. Whitney Pictures Company
+
+_Presented by_: Warner Bros.
+
+_Executive Producer_: Merian C. Cooper
+
+_Associate Producer_: Patrick Ford
+
+_Production Supervisor_: Lowell J. Farrell
+
+_Assistant Director_: Wingate Smith
+
+_Script Supervisor_: Robert Gary
+
+_Screenplay by_: Frank S. Nugent
+
+_From the novel by_: Alan Lemay
+
+_Photographed by_: Winton C. Hoch
+
+_2nd Unit Photography_: Alfred Gilks
+
+_Technicolor Colour Consultant_: James Gooch
+
+_Special Effects_: George Brown
+
+_Film Editor_: Jack Murray
+
+_Art Directors_: Frank Hotaling, James Basevi
+
+_Set Decorator_: Victor Gangelin
+
+_Properties_: Dudley Holmes
+
+_Men’s Wardrobe_: Frank Beetson
+
+_Women’s Wardrobe_: Ann Peck
+
+_Make-up_: Web Overlander
+
+_Hairdresser_: Fae Smith
+
+_Music by_: Max Steiner
+
+_Orchestrations_: Murray Cutter
+
+_Sound_: Hugh McDowell, Howard Wilson
+
+_Wranglers_: Glen Holly, Robert Reeves,
+
+Desmond Lane, Logan Morris, Ellsworth Vierelle
+
+_Cast:_
+
+John Wayne _(Ethan Edwards)_
+
+Jeffrey Hunter _(Martin Pawley)_
+
+Vera Miles _(Laurie Jorgensen)_
+
+Ward Bond _(Rev Captain Samuel Johnson Clayton)_
+
+Natalie Wood _(Debbie Edwards)_
+
+John Qualen _(Lars Jorgensen)_
+
+Olive Carey _(Mrs Jorgensen)_
+
+Henry Brandon _(Chief Scar/Cicatriz)_
+
+Ken Curtis _(Charlie McCorry)_
+
+Harry Carey Jr _(Brad Jorgensen)_
+
+Antonio Moreno
+
+_(Emilio Gabriel Fernandez y Figueroa)_
+
+Hank Worden _(Mose Harper)_
+
+Beulah Archuletta
+
+_(Look/Wild Goose Flying in the Night Sky)_ 
+Walter Coy _(Aaron Edwards)_  
+Dorothy Jordan _(Martha Edwards)_  
+Pippa Scott _(Lucy Edwards)_  
+Pat Wayne _(Lieutenant Greenhill)_  
+Lana Wood _(Debbie as a child)_  
+
+USA 1956  
+119 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTE2NDM5Nl19
+eyJoaXN0b3J5IjpbLTEyMDI1Njk4NTIsLTkyOTE2NDM5Nl19
 -->
