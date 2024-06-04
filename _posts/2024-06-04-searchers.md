@@ -82,41 +82,22 @@ _Orchestrations_: Murray Cutter
 
 _Sound_: Hugh McDowell, Howard Wilson
 
-_Wranglers_: Glen Holly, Robert Reeves,
+_Wranglers_: Glen Holly, Robert Reeves, Desmond Lane, Logan Morris, Ellsworth Vierelle  
 
-Desmond Lane, Logan Morris, Ellsworth Vierelle
-
-_Cast:_
-
-John Wayne _(Ethan Edwards)_
-
-Jeffrey Hunter _(Martin Pawley)_
-
-Vera Miles _(Laurie Jorgensen)_
-
-Ward Bond _(Rev Captain Samuel Johnson Clayton)_
-
-Natalie Wood _(Debbie Edwards)_
-
-John Qualen _(Lars Jorgensen)_
-
-Olive Carey _(Mrs Jorgensen)_
-
-Henry Brandon _(Chief Scar/Cicatriz)_
-
-Ken Curtis _(Charlie McCorry)_
-
-Harry Carey Jr _(Brad Jorgensen)_
-
-Antonio Moreno
-
-_(Emilio Gabriel Fernandez y Figueroa)_
-
-Hank Worden _(Mose Harper)_
-
-Beulah Archuletta
-
-_(Look/Wild Goose Flying in the Night Sky)_ 
+**Cast**  
+John Wayne _(Ethan Edwards)_  
+Jeffrey Hunter _(Martin Pawley)_  
+Vera Miles _(Laurie Jorgensen)_  
+Ward Bond _(Rev Captain Samuel Johnson Clayton)_  
+Natalie Wood _(Debbie Edwards)_  
+John Qualen _(Lars Jorgensen)_  
+Olive Carey _(Mrs Jorgensen)_  
+Henry Brandon _(Chief Scar/Cicatriz)_  
+Ken Curtis _(Charlie McCorry)_  
+Harry Carey Jr _(Brad Jorgensen)_  
+Antonio Moreno _(Emilio Gabriel Fernandez y Figueroa)_  
+Hank Worden _(Mose Harper)_  
+Beulah Archuletta _(Look/Wild Goose Flying in the Night Sky)_  
 Walter Coy _(Aaron Edwards)_  
 Dorothy Jordan _(Martha Edwards)_  
 Pippa Scott _(Lucy Edwards)_  
@@ -127,5 +108,5 @@ USA 1956
 119 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1Njk4NTIsLTkyOTE2NDM5Nl19
+eyJoaXN0b3J5IjpbLTE0NzIyODg2OTAsLTkyOTE2NDM5Nl19
 -->
