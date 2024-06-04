@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Searchers
+published: true
+date: 2024-06-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Western]
+metadata: 'USA 1956, 119 mins<br> Director: John Ford'
+pdf: '2024-06-04-searchers.pdf'
+---
 
 Cinema’s poet of the Wild West, John Ford already had countless westerns (among over 100 films) under his belt before reteaming with regular star John Wayne for this disturbing story of racism, obsession and revenge.
 
@@ -79,6 +86,6 @@ USA 1956
 119 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMzAyMTM1LC0xNDcyMjg4NjkwLC05Mj
-kxNjQzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ4MjQ2MTAsODQyMzAyMTM1LC0xND
+cyMjg4NjkwLC05MjkxNjQzOTZdfQ==
 -->
