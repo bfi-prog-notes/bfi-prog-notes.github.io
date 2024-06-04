@@ -5,13 +5,12 @@ published: true
 date: 2024-06-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Road Movie]
+tags: [Drama]
 metadata: 'USA 1969, 95 mins<br> Director: Dennis Hopper'
 pdf: '2024-06-04-easy-rider.pdf'
 ---
 
-_Easy Rider_’s impact was made possible by a bold synthesis of the disparate styles, moods and practices with which 60s pop culture was awash. The acting paid homage to the Actors Studio and the groundbreaking experiments of John Cassavetes’ _Shadows_ (1959) and Shirley Clarke’s _The Cool World_ (1963). The self-conscious use of the camera, especially the jump-cuts and zooms, also displayed the influence of the work of the various European new waves then flooding American art houses and film societies – the British Free Cinema, the French _nouvelle_ _vague_, the Italian neo-realists from Antonioni to Fellini, and the Czech New Wave. The editing built on the frenetic cutting of Richard Lester and mid-60s television advertising, and the _cinéma_ _vérité_ of  
-D. A. Pennebaker and Richard Leacock. The underground films of Jonas Mekas, Stan Brakhage, Andy Warhol and others suggested seemingly infinite possibilities of cinematic expression, some of which _Easy Rider_ exploited and developed. The film’s use of songs by Jimi Hendrix, The Band and other groups reflected the growing importance of rock music as a sophisticated complement to film narrative. Dennis Hopper’s and Peter Fonda’s ‘apprenticeship’ on Roger Corman’s B-Grade youth pics accounted for _Easy Rider_’s budget and scale.
+_Easy Rider_’s impact was made possible by a bold synthesis of the disparate styles, moods and practices with which 60s pop culture was awash. The acting paid homage to the Actors Studio and the groundbreaking experiments of John Cassavetes’ _Shadows_ (1959) and Shirley Clarke’s _The Cool World_ (1963). The self-conscious use of the camera, especially the jump-cuts and zooms, also displayed the influence of the work of the various European new waves then flooding American art houses and film societies – the British Free Cinema, the French _nouvelle_ _vague_, the Italian neo-realists from Antonioni to Fellini, and the Czech New Wave. The editing built on the frenetic cutting of Richard Lester and mid-60s television advertising, and the _cinéma_ _vérité_ of D. A. Pennebaker and Richard Leacock. The underground films of Jonas Mekas, Stan Brakhage, Andy Warhol and others suggested seemingly infinite possibilities of cinematic expression, some of which _Easy Rider_ exploited and developed. The film’s use of songs by Jimi Hendrix, The Band and other groups reflected the growing importance of rock music as a sophisticated complement to film narrative. Dennis Hopper’s and Peter Fonda’s ‘apprenticeship’ on Roger Corman’s B-Grade youth pics accounted for _Easy Rider_’s budget and scale.
 
 Together with his collaborators, Peter Fonda turned _Easy Rider_ into something more than a modernised Western. _Easy Rider_ is an ‘Eastern’ which reverses, questions and rejects the expansionist impulses many Americans held sacred prior to the 60s. As Wyatt and Billy drive in- country away from Los Angeles, California, the end of the frontier becomes, to use William Burroughs’ great phrase, the end of the human line. The idyll of ‘the big score’ proves as transitory and misleading as the golden dreams that derail the characters of the novels of Theodore Dreiser and F. Scott Fitzgerald. In spite of occasional lapses into obscurity, _Easy Rider_ sustains its tragic vision of roads that eventually turn in on themselves or come to early and abrupt termination.
 
@@ -185,5 +184,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzE5NTkzNl19
+eyJoaXN0b3J5IjpbLTcxNjExMTEzNF19
 -->
