@@ -26,7 +26,7 @@ _Easy Rider_ remains a landmark in low-budget independent filmmaking. Of all the
 **Extracted from _Easy Rider_ by Lee Hill (BFI Modern Classics, 1996)Reproduced by kind permission of Bloomsbury Publishing. © Lee Hill**  
 <br>
 
-**EASY RIDER**
+**EASY RIDER**  
 _Directed by_: Dennis Hopper  
 _©_: Raybert Productions  
 _Presented by_: Pando Company  
@@ -184,5 +184,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjExMTEzNF19
+eyJoaXN0b3J5IjpbLTUwMTE3NzgyMl19
 -->
