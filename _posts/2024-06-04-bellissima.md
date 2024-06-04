@@ -1,3 +1,14 @@
+---
+layout: post
+title: Bellissima
+published: true
+date: 2024-06-04
+readtime: true
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
+tags: [Drama]
+metadata: 'Italy 1951, 114 mins<br> Director: Luchino Visconti'
+pdf: '2024-06-04-bellissima.pdf'
+---
 
 It is unfortunate that _Bellissima_ is not better known outside Italy, as it is a film which, in addition to its merits as an antidote to _La terra trema_, confounds a number of stereotypes that have been built up round Visconti’s work and artistic personality. It is, in a vulgar sense, the most obviously ‘Italian’ of all his films, with extremely rapid dialogues which are difficult to translate and a _fortiori_ almost impossible to subtitle without totally losing the flavour of the original. But it is the most subtle and elusive thing of all, the element of self-criticism and irony at the expense of its own ‘Italian’ quality, which has most effectively prevented it from being assimilated and appreciated by foreign audiences. For at its highest level it is a denial of all stereotypes, about Visconti, about Italian films in general, about neo-realism, and even about that sacred monster, Anna Magnani, who is the star of the film.
 
@@ -68,6 +79,81 @@ Digital 4K (restoration)
 
 Restored in 4K in 2023 by CSC – Cineteca Nazionale in collaboration with Compass Film at the Studio Cine S.r.l. laboratory<br>
 <br><br>
+
+**CHASING THE REAL: ITALIAN NEOREALISM**  
+**Ossessione**  
+Sat 4 May 20:15; Sun 12 May 17:50  
+**Paisà**  
+Mon 6 May 15:20; Fri 10 May 20:30; Sun 19 May 15:30; Mon 20 May 12:00; Wed 29 May 12:00  
+**Journey through Italian Neorealism**  
+Tue 7 May 18:10  
+**Four Steps in the Clouds** Quattro passi fra le nuvole  
+Tue 7 May 20:30 (+ intro by season curator Giulia Saccogna); Mon 13 May 18:20  
+**The Children Are Watching Us** I bambini ci guardano  
+Wed 8 May 20:45; Thu 16 May 18:20  
+**Shoeshine** Sciuscià  
+Tue 14 May 18:10 (+ intro by season curator Giulia Saccogna); Tue 21 May 20:45  
+**A Tragic Hunt (aka The Tragic Pursuit)** Caccia tragica  
+Wed 15 May 21:00; Sat 25 May 15:40  
+**The Mill on the Po** Il mulino del Po  
+Thu 16 May 20:40; Sat 25 May 18:20  
+**The Bandit** Il bandito  
+Fri 17 May 20:50; Sun 26 May 18:30  
+**Germany, Year Zero** Germania anno zero (aka Deutschland im Jahre Null)  
+Sun 19 May 18:20; Wed 22 May 12:30; Mon 27 May 15:00; Wed 29 May 20:40  
+**Bicycle Thieves** Ladri di biciclette  
+Sun 19 May 20:20; Mon 27 May 18:00  
+**Bitter Rice** Riso amaro  
+Wed 22 May 20:40; Thu 30 May 18:15  
+**La terra trema**  
+Sun 26 May 15:00; Fri 31 May 20:00  
+**Lights of Variety** Luci del varietà  
+Sat 1 Jun 13:15; Mon 10 Jun 20:45; Thu 13 Jun 18:00; Thu 20 Jun 18:20  
+**Stromboli** Stromboli, terra di Dio  
+Sun 2 Jun 18:15; Mon 3 Jun 12:00; Wed 12 Jun 20:40; Sat 22 Jun 15:30  
+**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11  
+Tue 4 Jun 14:50; Fri 7 Jun 18:10; Sun 16 Jun 14:00; Mon 24 Jun 20:50  
+**The Women of Italian Neorealism**  
+Tue 4 Jun 18:10  
+**Bellissima**  
+Tue 4 Jun 20:35; Mon 10 Jun 18:10  
+**Umberto D.**  
+Wed 5 Jun 20:40; Sat 8 Jun 18:00; Wed 19 Jun 20:40; Sat 29 Jun 13:10  
+**Journey to Italy** Viaggio in Italia  
+Thu 6 Jun 12:15; Sun 9 Jun 13:00; Tue 11 Jun 11:30; Fri 21 Jun 20:50; Tue 25 Jun 18:15  
+**The Machine That Kills Bad People** La macchina ammazzacattivi  
+Tue 11 Jun 18:10; Sat 15 Jun 13:40; Wed 19 Jun 12:20; Thu 27 Jun 20:55  
+**Miracle in Milan** Miracolo a Milano  
+Thu 13 Jun 20:40; Sun 30 Jun 12:10  
+
+**With thanks to**  
+Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)<br>
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA3MzYwMDQxN119
 -->
