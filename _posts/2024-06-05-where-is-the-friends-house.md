@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Iran 1989, 84 mins<br> Director:  Abbas Kiarostami'
-pdf: '2024-06-05-searchers.pdf'
+pdf: '2024-06-05-where-is-the-friends-house.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -79,6 +79,6 @@ Digital
 
 Introduced by Geoff Andrew, Programmer-at-Large (Wed 19 June only)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1NjE2NzMsMTg3MTczMDMzMiw0OD
-gwMzczMTNdfQ==
+eyJoaXN0b3J5IjpbMTc4Mzk1MTMzNCwtMTYwODU2MTY3MywxOD
+cxNzMwMzMyLDQ4ODAzNzMxM119
 -->
