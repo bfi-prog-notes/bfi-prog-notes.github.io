@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Alice in the Cities
+published: true
+date: 2024-06-07
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Germany 1974, 112 mins<br> Director: Wim Wenders'
+pdf: '2024-06-04-searchers.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -24,36 +32,18 @@ The point is beautifully made in the scene where Alice suddenly turns up after e
 Suddenly his return to Munich, effected with simple though circuitous logic by the intervention of Alice’s magic, no longer seems a matter of such desperate urgency. Philip’s earlier error lies in his dependence on objective correlatives, ‘in his assumption that the dreary American landscapes of motels, highways, neon signs and deserted beaches that he photographs (or for that matter the Amsterdam he ignores as a tourist attraction, and the Germany he is too familiar with really to see) necessarily reflect either his attitude to them or the life that is absent from them and that he assumes to be arid and meaningless. Sitting in the train at the end, he reads without comment a newspaper containing an account of the death of John Ford, and the camera lifts to reveal a bleak, open landscape with the train rolling past far below like one of Ford’s wagon trains. It could be a celebration or lament; or it could be nothing at all, just a landscape through which the train happens to be passing.  
 **Tom Milne, _Monthly Film Bulletin_, October 1975**
 <br>
-<![endif]-->
 
-**ALICE IN THE CITIES**
 
-**(ALICE IN DEN STÄDTEN)**
-
-_Director:_ Wim Wenders
-
-©: Westdeutscher Rundfunk, Pifda
-
-_Production Company:_
-
-Produktion 1 im Filmverlag der Autoren
-
-_Producer:_ Joachim v. Mengershausen
-
-_Production Managers:_ Peter Genée,
-
-Veit von Fürstenberg
-
-_Unit Production Manager:_
-
-Chris A. Holenia
-
-_Location Manager:_ Ben Wett
-
-_Technician:_ Honorat Stangl
-
-_Assistant Director:_ Mickey Kley
-
+**ALICE IN THE CITIES (ALICE IN DEN STÄDTEN)**  
+_Director:_ Wim Wenders  
+©: Westdeutscher Rundfunk, Pifda  
+_Production Company:_ Produktion 1 im Filmverlag der Autoren  
+_Producer:_ Joachim v. Mengershausen  
+_Production Managers:_ Peter Genée, Veit von Fürstenberg  
+_Unit Production Manager:_ Chris A. Holenia  
+_Location Manager:_ Ben Wett  
+_Technician:_ Honorat Stangl  
+_Assistant Director:_ Mickey Kley  
 _Screenplay:_ Wim Wenders  
 _Script Collaborator:_ Veit von Fürstenberg  
 _Directors of Photography:_ Robby Müller, Martin Schäfer  
@@ -79,5 +69,5 @@ Germany 1974©
 112 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyOTEyODQ4XX0=
+eyJoaXN0b3J5IjpbLTE0NzA5ODE1MzddfQ==
 -->
