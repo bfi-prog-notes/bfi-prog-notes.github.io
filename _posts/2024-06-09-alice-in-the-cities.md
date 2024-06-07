@@ -68,6 +68,87 @@ Mirko
 Germany 1974©  
 112 mins  
 Digital  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**Apocalypse Now: The Final Cut**  
+Sat 1 Jun 15:00; Sat 8 Jun 19:40; Sat 15 Jun 19:40; Sun 23 Jun 19:20  
+**The Wages of Fear** Le Salaire de la peur  
+Sat 1 Jun 17:40; Tue 11 Jun 20:15; Wed 19 Jun 14:20; Sun 30 Jun 14:40  
+**The General + Cops**  
+Sat 1 Jun 18:40; Wed 12 Jun 12:10  
+**Cléo from 5 to 7** Cléo de 5 à 7  
+Sat 1 Jun 20:50; Wed 5 Jun 18:10 (+ intro programmer Jelena Milosavljevic); Fri 14 Jun 20:50; Fri 21 Jun 12:10  
+**It Happened One Night**  
+Sun 2 Jun 13:00; Mon 17 Jun 12:10; Tue 25 Jun 20:30  
+**Badlands**  
+Sun 2 Jun 20:45; Mon 10 Jun 12:20; Wed 26 Jun 18:15 (+ intro by Ruby McGuigan, BFI Programme and Acquisitions)  
+**Sullivan’s Travels**  
+Mon 3 Jun 18:10; Mon 10 Jun 20:50; Fri 14 Jun 14:45; Mon 24 Jun 12:10  
+**North by Northwest**  
+Mon 3 Jun 20:20; Thu 6 Jun 14:30; Tue 18 Jun 14:30  
+**Easy Rider**  
+Tue 4 Jun 12:40; Fri 7 Jun 21:00; Sun 16 Jun 20:35; Sat 22 Jun 13:20  
+**The Searchers**  
+Tue 4 Jun 20:30; Thu 20 Jun 12:10; Sat 29 Jun 15:20  
+**Where Is the Friend’s House?** Khaneh-je Doost Kojast  
+Wed 5 Jun 12:45; Sat 8 Jun 15:40; Wed 19 Jun 18:15 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 26 Jun 21:00  
+**Alice in the Cities** Alice in den Städten  
+Sun 9 Jun 20:20; Thu 13 Jun 12:00; Fri 28 Jun 12:20  
+**Gun Crazy**  
+Wed 12 Jun 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Mon 24 Jun 20:30; Thu 27 Jun 12:20  
+**Wild Strawberries** Smultronstället  
+Mon 1 Jul 11:50; Tue 9 Jul 20:50; Sun 21 Jul 14:20; Tue 30 Jul 18:20  
+**Point Blank**  
+Tue 2 Jul 12:20; Wed 17 Jul 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Jul 18:30  
+**Pierrot le fou**  
+Tue 2 Jul 18:10; Fri 12 Jul 20:40; Mon 15 Jul 12:10; Mon 29 Jul 20:45  
+**Taxi Driver**  
+Wed 3 Jul 17:50 (+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television); Sat 13 Jul 18:00; Tue 16 Jul 12:15; Tue 23 Jul 12:20  
+**The Passenger** Professione: reporter  
+Thu 4 Jul 20:40; Sat 6 Jul 12:00; Mon 15 Jul 18:10; Fri 19 Jul 12:20  
+**Au hasard Balthazar**  
+Fri 5 Jul 12:20; Wed 10 Jul 12:20; Fri 19 Jul 20:45; Wed 31 Jul 18:10 (+ intro)  
+**The English Patient**  
+Sat 6 Jul 17:15; Sun 21 Jul 19:20  
+**The Discreet Charm of the Bourgeoisie** Le Charme discret de la bourgeoisie  
+Sun 7 Jul 17:10; Thu 11 Jul 12:20; Sat 20 Jul 16:10  
+**Theorem** Teorema  
+Mon 8 Jul 12:20; Wed 10 Jul 18:15 (+ intro); Wed 17 Jul 12:30; Sun 28 Jul 20:30  
+**Gloria**  
+Sat 13 Jul 13:10; Tue 16 Jul 20:35; Sat 20 Jul 13:30; Tue 30 Jul 20:30  
+**Unforgiven**  
+Sun 14 Jul 19:50; Tue 23 Jul 20:30; Thu 25 Jul 14:40  
+**Bitter Victory**  
+Thu 18 Jul 20:45; Sun 28 Jul 12:00  
+**Daughters of the Dust**  
+Mon 22 Jul 12:20; Wed 24 Jul 18:10 (+ intro by Arike Oke, Executive Director of Knowledge, Learning and Collections); Sat 27 Jul 20:45  
+**F for Fake**  
+Mon 22 Jul 18:20; Wed 24 Jul 12:40; Fri 26 Jul 20:50
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY4NTg2NTJdfQ==
+eyJoaXN0b3J5IjpbLTkxNDY4MzgyNl19
 -->
