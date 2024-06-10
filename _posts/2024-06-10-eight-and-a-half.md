@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Life of Pi
+published: true
+date: 2024-06-10
+readtime: true
+categories: ['MEMBER MONDAYS']
+tags: [Drama, Action, Adventure]
+metadata: 'USA 2012, 127 mins<br> Director: Ang Lee'
+pdf: '2024-06-02-life-of-pi.pdf'
+---
 
 Back in the 1960s heyday of the pre-video art-house sector, two filmmakers stood as defining poles of the foreign-language art movie – Ingmar Bergman and Federico Fellini. Their qualities complemented and contrasted with each other’s perfectly: Bergman Nordic, serious, austere, locked in a grim struggle with the grey spectre of the Lutheran deity; Fellini exuberant, Mediterranean, expansive, forever poking fun at the wilder excesses of Catholicism. (Although, by strange coincidence, each ended one of his best-known films – _The Seventh Seal_ and _8½_ respectively – with the same image, albeit to startlingly different effect: a chain of people dancing along with hands interlinked.) Neither director now enjoys the critical status he did 40 years ago. But while Bergman remains a respected figure, even if his films are relatively rarely shown these days, Fellini has suffered a crueller fate, widely dismissed as sentimental, overblown and self-indulgent, a filmmaker snared by his own intellectual and aesthetic pretensions.
 
@@ -131,5 +139,5 @@ Italy/France 1963
 138 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDU2MTg1NF19
+eyJoaXN0b3J5IjpbLTIwODk0Mzk1NDZdfQ==
 -->
