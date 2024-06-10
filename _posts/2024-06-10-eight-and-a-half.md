@@ -7,7 +7,7 @@ readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Drama]
 metadata: 'Italy/France 1963, 138 mins<br> Director: Federico Fellini'
-pdf: '2024-06-10-e.pdf'
+pdf: '2024-06-10-eight-and-a-half.pdf'
 ---
 
 Back in the 1960s heyday of the pre-video art-house sector, two filmmakers stood as defining poles of the foreign-language art movie – Ingmar Bergman and Federico Fellini. Their qualities complemented and contrasted with each other’s perfectly: Bergman Nordic, serious, austere, locked in a grim struggle with the grey spectre of the Lutheran deity; Fellini exuberant, Mediterranean, expansive, forever poking fun at the wilder excesses of Catholicism. (Although, by strange coincidence, each ended one of his best-known films – _The Seventh Seal_ and _8½_ respectively – with the same image, albeit to startlingly different effect: a chain of people dancing along with hands interlinked.) Neither director now enjoys the critical status he did 40 years ago. But while Bergman remains a respected figure, even if his films are relatively rarely shown these days, Fellini has suffered a crueller fate, widely dismissed as sentimental, overblown and self-indulgent, a filmmaker snared by his own intellectual and aesthetic pretensions.
@@ -138,6 +138,30 @@ John Francis Lane
 Italy/France 1963  
 138 mins  
 Digital  
+<br>
+<br>
+**SIGHT AND SOUND**
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzExNjU5ODldfQ==
+eyJoaXN0b3J5IjpbLTE4ODEyMDI5MzZdfQ==
 -->
