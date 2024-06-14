@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Melvyn Bragg<br>Broadcasting the Arts
+published: true
+date: 2024-06-16
+readtime: true
+categories: ['EVENTS']
+tags: [Talk]
+metadata: 
+pdf: '2024-06-16-melvyn-bragg-in-conversation.pdf'
+---
 
 Over the course of an incredible 60-year broadcasting career, Melvyn Bragg has unfailingly championed the arts on television. More than this, he has revolutionised the way the arts are presented and perceived on the small screen, harnessing the power of ITV to reach a wider and more diverse audience. In treating popular culture with the same weight and attention as more established artistic practices, he has broken down barriers and provided immense insight into all spheres of the arts for a wide and highly appreciative audience. Illustrated with clips from across a unique career, this interview with Lord Bragg celebrates his enormous influence and rich legacy.
 
@@ -16,5 +24,5 @@ He is an Honorary Fellow of the Royal Society and of The British Academy. He was
 
 Award winning journalist and broadcaster **Samira Ahmed** presents _Front Row_ on Radio 4 and _Newswatch_ on BBC1. She was named British Broadcasting Press Guild audio presenter of the year in 2020. Her acclaimed three-part BBC4 documentary series _Art of Persia_ (2020) was one of the first major Western TV series to be filmed in Iran for 40 years. She was previously a news anchor and correspondent for Channel 4 News, where she won the Stonewall Broadcast of the Year award, and for BBC News, where she covered the OJ Simpson case while LA Correspondent. In April 2023 Samira made headlines around the world after uncovering the earliest complete concert recording of the Beatles in Britain, at Stowe School in 1963. Her many documentaries explore the intersection of popular culture, science, politics, and social change. They include Radio 4’s _Disgusted, Mary Whitehouse_, for which she spent months studying the diaries of the famous morality campaigner. Samira is a trustee of the Centre for Women’s Justice, Humanists UK and on the advisory board of the National Science and Media Museum in Bradford and national Blue Plaques panel for Historic England. She is an honorary fellow of St Edmund Hall, University of Oxford.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDAxMTE3Nl19
+eyJoaXN0b3J5IjpbMjAwMzU0Nzc0MiwxMjkwMDExMTc2XX0=
 -->
