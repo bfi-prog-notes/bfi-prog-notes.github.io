@@ -43,59 +43,38 @@ _What can stories about children tell us about love or jealousy or pain that sto
 There’s something about the sincerity of feelings – something you can’t fight against. You’re very humble when you see a child playing the main character.
 
 **Interview by Annabel Bai Jackson, _Sight and Sound_, June 2024**
+<br><br>
 
+**ÀMA GLORIA**<br>
+_Director:_ Marie Amachoukeli<br>
+_Production Company:_ Lilies Films<br>
+_Executive Producer:_ Bénédicte Couvreur<br>
+_Casting France:_ Christel Baras<br>
+_Casting Cape Verde:_ Solange de Castro Fernandes<br>
+_Screenplay:_ Marie Amachoukeli<br>
+_Director of Photography:_ Inès Tabarin<br>
+_Editor:_ Suzana Pedro<br>
+_Animation:_ Marie Amachoukeli,  Pierre-Emmanuel Lyet<br>
+_Music:_ Fanny Martin<br>
+_Sound:_ Yolande Decarsin, Fanny Martin,  Daniel Sobrino<br>
 
-**ÀMA GLORIA**
+**Cast**<br>
+Louise Mauroy-Panzani _(Cléo)_<br>
+Ilça Moreno Zego _(Gloria)_<br>
+Abnara Gomes Varela _(Fernanda)_<br>
+Fredy Gomes Tavares _(César)_<br>
+Arnaud Rebotini _(Arnaud)_<br>
+Domingos Borges Almeida _(Joachim)_<br>
 
-_Director:_ Marie Amachoukeli
-
-_Production Company:_ Lilies Films
-
-_Executive Producer:_ Bénédicte Couvreur
-
-_Casting France:_ Christel Baras
-
-_Casting Cape Verde:_ Solange de Castro Fernandes
-
-_Screenplay:_ Marie Amachoukeli
-
-_Director of Photography:_ Inès Tabarin
-
-_Editor:_ Suzana Pedro
-
-_Animation:_ Marie Amachoukeli,  
-Pierre-Emmanuel Lyet
-
-_Music:_ Fanny Martin
-
-_Sound:_ Yolande Decarsin, Fanny Martin,  
-Daniel Sobrino
-
-_Cast:_
-
-Louise Mauroy-Panzani _(Cléo)_
-
-Ilça Moreno Zego _(Gloria)_
-
-Abnara Gomes Varela _(Fernanda)_
-
-Fredy Gomes Tavares _(César)_
-
-Arnaud Rebotini _(Arnaud)_
-
-Domingos Borges Almeida _(Joachim)_
-
-France 2023
-
-84 mins
-
+France 2023<br>
+84 mins<br>
 Digital
 
 A BFI release
 
-Presented in partnership with  
-Counterpoints Arts  
-**refugeeweek.org.uk**
+Presented in partnership with  Counterpoints Arts  
+**refugeeweek.org.uk**<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzODQ1MzEwXX0=
+eyJoaXN0b3J5IjpbLTIxMjE3Nzc3NzZdfQ==
 -->
