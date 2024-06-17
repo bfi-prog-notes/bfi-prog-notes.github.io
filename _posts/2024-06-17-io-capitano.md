@@ -17,7 +17,7 @@ Senegalese youngsters Seydou and Moussa, keen to pursue a music career, leave Da
 Matteo Garrone’s powerful drama was thoroughly researched, using first-hand accounts of the journey to map out the youngsters’ plight. The heart of the film is Seydou Sarr’s extraordinary performance, aided in no small part by breathtaking cinematography, moments of magical realism and a compassion that gives voice to the voiceless.  
 **bfi.org.uk**  
 
-Along with the many unscrupulous people _Io_ _Capitano_’s young hero Seydou (Seydou Sarr) and his friend Moussa (Moustapha Fall) meet during their travels from their hometown in Senegal to an uncertain fate on the edge of Europe, there are more surreal figures as well – such as, in one of the film’s signature images, a woman who floats in mid-air. Elements of dream, myth and fantasy continually intrude on what might otherwise seem like a hard-nosed portrayal of the ordeals faced by migrants on their journeys across Africa and into the treacherous waters beyond the continent’s northern coast.
+Along with the many unscrupulous people _Io Capitano_’s young hero Seydou (Seydou Sarr) and his friend Moussa (Moustapha Fall) meet during their travels from their hometown in Senegal to an uncertain fate on the edge of Europe, there are more surreal figures as well – such as, in one of the film’s signature images, a woman who floats in mid-air. Elements of dream, myth and fantasy continually intrude on what might otherwise seem like a hard-nosed portrayal of the ordeals faced by migrants on their journeys across Africa and into the treacherous waters beyond the continent’s northern coast.
 
 In part, this slippage is indicative of its protagonist’s youthful perspective. Part of a lively, happy household, Seydou is presented as an upbeat but naïve teenager, who’s all too susceptible to his buddy’s big talk about the more exciting life that awaits the duo in Europe, a mirage promoted by the media images they consume on their phones. They’re motivated not by deprivation, but by a lust for adventure, a distinction that the film emphasises with its references to the questing heroes of Homer.
 
@@ -96,5 +96,5 @@ Digital
 
 In association with African Odysseys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzc0MjI3XX0=
+eyJoaXN0b3J5IjpbLTIzOTY3NzI5NV19
 -->
