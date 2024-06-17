@@ -24,23 +24,15 @@ Various observers have objected that the picture is ‘lifeless’; that the cha
 On the charge of lifelessness I can only say that in my opinion there are two main kinds of life in art, not just one. The warmer, richer kind comes, invariably, from the kind of artist who works from far inside himself and his creatures. For the other kind, we can thank the good observer. Brackett and Wilder apparently have little if any gift for working from inside, but they are first rate observers, and their films are full of that kind of life. It is true, I think, that they fail to make much of the powerful tragic possibilities which are inherent in their story; they don’t even explore much of the deep anguish and pathos which are still more richly inherent, though they often reveal it, quickly and brilliantly. But this does not seem to me a shameful kind of failure, if indeed it is proper to call it a failure at all: they are simply not the men for such a job, nor was this the kind of job they were trying to do. But they are beautifully equipped to do the cold, exact, adroit, sardonic job they have done; and artists who, consciously or unconsciously, learn to be true to their limitations as well as to their gifts, deserve a kind of gratitude and respect they much too seldom get.  
 **James Agee, _Sight and Sound_, November 1950**  
 <br>
-<![endif]-->
 
-**Sunset Blvd.**
-
+**SUNSET BLVD.**  
 _Directed by:_ Billy Wilder  
-_©/Production Company:_
-
-Paramount Pictures  
+_©/Production Company:_ Paramount Pictures  
 _Produced by:_ Charles Brackett  
 _Assistant Director:_ C.C. Coleman Jr  
-_Screenplay:_ Charles Brackett, Billy Wilder,
-
-D.M. Marshman Jr  
+_Screenplay:_ Charles Brackett, Billy Wilder, D.M. Marshman Jr  
 _Director of Photography:_ John F. Seitz  
-_Special Photographic Effects:_
-
-Gordon Jennings  
+_Special Photographic Effects:_ Gordon Jennings  
 _Process Photography:_ Farciot Edouart  
 _Editorial Supervision:_ Doane Harrison  
 _Edited by:_ Arthur Schmidt  
@@ -49,12 +41,8 @@ _Set Decorations:_ Sam Comer, Ray Moyer
 _Costumes:_ Edith Head  
 _Make-up Supervision:_ Wally Westmore  
 _Music Score by:_ Franz Waxman  
-_Sound Recording by:_ Harry Lindgren,
-
-John Cope
-
-_uncredited_
-
+_Sound Recording by:_ Harry Lindgren, John Cope  
+_uncredited_  
 _Production Manager:_ Hugh Brown  
 _2nd Assistant Director:_ Gerd Oswald  
 _Script Clerk:_ Lupe Hall  
@@ -70,10 +58,9 @@ _Wardrobe:_ Ed Fitzharris, Hazel Hegarty
 _Make-up Artists:_ Frank Thayer, Carl Silvera  
 _Hairdressers:_ Nellie Manley, Vera Tomei  
 _Technical Adviser:_ Norris Stensland  
-_Dialogue Coach:_ A. Ronald Lubin
+_Dialogue Coach:_ A. Ronald Lubin  
 
-_Cast:_
-
+**Cast**  
 William Holden _(Joe C. Gillis)_  
 Gloria Swanson _(Norma Desmond)_  
 Erich von Stroheim _(Max von Mayerling)_  
@@ -87,13 +74,11 @@ Buster Keaton _(himself)_
 Anna Q. Nilsson _(herself)_  
 H.B. Warner _(himself)_  
 Franklyn Farnum _(undertaker/courtier)_  
-Ray Evans _(himself)_
-
+Ray Evans _(himself)_  
 Jay Livingston _(himself)_  
 Larry Blake _(1st finance man)_  
-Charles Dayton _(2nd finance man)_
-
-_uncredited_
+Charles Dayton _(2nd finance man)_  
+_uncredited_  
 Roy Thompson _(Rudy, shoeshine boy)_  
 Ruth Clifford _(Sheldrake’s secretary)_  
 Peter Drynan _(tailor)_  
@@ -132,6 +117,30 @@ USA 1950©
 
 Digital 4K  
 <br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg4NjM5ODldfQ==
+eyJoaXN0b3J5IjpbMTY4ODg1NzYzM119
 -->
