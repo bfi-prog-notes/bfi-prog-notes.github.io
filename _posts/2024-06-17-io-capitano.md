@@ -4,10 +4,10 @@ title: Io Capitano
 published: true
 date: 2024-06-17
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['REFUGEE WEEK']
 tags:  [Drama, Crime, Thriller]
-metadata: 'USA 1995, 101 mins<br> Director: Carl Franklin'
-pdf: '2024-03-01-devil-in-a-blue-dress.pdf'
+metadata: 'Italy-Belgium-France 2023, 121 mins<br> Director: Matteo Garrone'
+pdf: '2024-06-17-devil-in-a-blue-dress.pdf'
 ---
 
 
@@ -97,5 +97,5 @@ Digital
 
 In association with African Odysseys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc0NDExNDZdfQ==
+eyJoaXN0b3J5IjpbMTAzMjMzMzIxNF19
 -->
