@@ -6,8 +6,8 @@ date: 2024-06-17
 readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Drama]
-metadata: 'USA 1950, 99 mins<br> Director: François Truffaut'
-pdf: '2024-06-11-400-blows.pdf'
+metadata: 'USA 1950, 110 mins<br> Director: BIlly Wilder'
+pdf: '2024-06-17-sunset-boulevard.pdf'
 ---
 
 **Gloria Swanson on ‘Sunset Blvd.’**  
@@ -148,5 +148,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA5MjcyNjFdfQ==
+eyJoaXN0b3J5IjpbMTU1NTc0MTk5MV19
 -->
