@@ -6,8 +6,8 @@ date: 2024-06-18
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
 tags: [Thriller]
-metadata: 'UK 1938, 76 mins<br> Director: BIlly Wilder'
-pdf: '2024-06-17-sunset-boulevard.pdf'
+metadata: 'UK 1938, 76 mins<br> Director:  Al Parker'
+pdf: '2024-06-18-sunset-boulevard.pdf'
 ---
 
 _Introduced by Josephine Botting, BFI National Archive Curator_
@@ -70,5 +70,5 @@ A BFI National Archive Print
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTk2Nzc5N119
+eyJoaXN0b3J5IjpbNjk1NjYzMjkxXX0=
 -->
