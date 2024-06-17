@@ -7,9 +7,8 @@ readtime: true
 categories: ['REFUGEE WEEK']
 tags:  [Drama, Crime, Thriller]
 metadata: 'Italy-Belgium-France 2023, 121 mins<br> Director: Matteo Garrone'
-pdf: '2024-06-17-devil-in-a-blue-dress.pdf'
+pdf: '2024-06-17-io-capitano.pdf'
 ---
-
 
 _+ intro and discussion_
 
@@ -97,5 +96,5 @@ Digital
 
 In association with African Odysseys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjMzMzIxNF19
+eyJoaXN0b3J5IjpbMjk4NzQ2MTgzXX0=
 -->
