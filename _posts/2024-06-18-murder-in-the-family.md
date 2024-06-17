@@ -5,9 +5,9 @@ published: true
 date: 2024-06-18
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
-tags: [Thriller]
+tags: [Thriller, Drama]
 metadata: 'UK 1938, 76 mins<br> Director:  Al Parker'
-pdf: '2024-06-18-sunset-boulevard.pdf'
+pdf: '2024-06-18-murder-in-the-family.pdf'
 ---
 
 _Introduced by Josephine Botting, BFI National Archive Curator_
@@ -21,7 +21,7 @@ The slender plot of this Fox-British quota film, based on a 1936 crime novel, is
 Dramatic murder story. Aunt Octavia is an extremely wealthy, and equally unpleasant old lady, and when she visits her half-brother, Stephen Osborne, and finds him and his family in despair because he has lost his job, she refuses help. Reproached for this, she redrafts her will, leaving money intended for Stephen to charity, and £1,000 a year to her maid, Miss Mimms…
 
 The film moves slowly and is of the stage-play kind, but good acting keeps up the interest. Barry Jones is convincing as Stephen Osborne; Jessica Tandy is good as the fiery Ann, and Evelyn Ankers is charming as Dorothy. The two children, Peter and Marjorie, are excellent.  
-**_Monthly Film Bulletin_, February 1938**
+**_Monthly Film Bulletin_, February 1938**  
 
 **Quota quickies**  
 In June 1937, the Association of Cine-Technicians calculated that, of the 640 production companies registered over the previous twelve years, only 3 per cent had films in production, and at least 85 per cent would never make another picture. Even before the new Films Act became law, exhibitors were expressing fears that there would be a grave shortage of what had become their ‘bread and butter’ picture as far as programming was concerned.
@@ -70,5 +70,5 @@ A BFI National Archive Print
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NjYzMjkxXX0=
+eyJoaXN0b3J5IjpbMTQ5MzcwNzAxMSw2OTU2NjMyOTFdfQ==
 -->
