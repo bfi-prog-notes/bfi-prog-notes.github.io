@@ -5,12 +5,12 @@ published: true
 date: 2024-06-17
 readtime: true
 categories: ['REFUGEE WEEK']
-tags:  [Drama, Crime, Thriller]
+tags:  [Drama]
 metadata: 'Italy-Belgium-France 2023, 121 mins<br> Director: Matteo Garrone'
 pdf: '2024-06-17-io-capitano.pdf'
 ---
 
-_+ intro and discussion_
+_+ intro and discussion_  
 
 Senegalese youngsters Seydou and Moussa, keen to pursue a music career, leave Dakar for Europe. Their journey takes them across a vast expanse of desert, where they encounter vicious bandits and brutal authorities, then face the perils of a dangerous Mediterranean crossing.
 
@@ -96,5 +96,5 @@ Digital
 
 In association with African Odysseys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NzQ2MTgzXX0=
+eyJoaXN0b3J5IjpbOTQyMzc0MjI3XX0=
 -->
