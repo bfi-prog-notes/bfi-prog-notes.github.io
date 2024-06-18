@@ -7,7 +7,7 @@ readtime: true
 categories: ['TV PREVIEW']
 tags: [ Drama]
 metadata: 'UK 2024, 130 mins<br> Director:  Ben Palmer'
-pdf: '2024-06-18-murder-in-the-family.pdf'
+pdf: '2024-06-18-douglas-is-cancelled.pdf'
 ---
 
 _+ Q&A with cast Hugh Bonneville and Karen Gillan, writer Steven Moffat, executive producer Sue Vertue and director/executive producer Ben Palmer_
@@ -33,6 +33,31 @@ Gillan has previously starred in some of Hollywood’s biggest franchises includ
 **Sue Vertue** is CEO and executive producer at Hartswood Films. She began her career at Tiger Aspect in 1991 with _Mr Bean_. She went on to produce Emmy award winner _The Vicar of Dibley_ and _Gimme Gimme Gimme_. Her credits for Hartswood include four series of the Emmy, RTS and BAFTA winning international smash hit series _Sherlock_, starring Benedict Cumberbatch and Martin Freeman, comedies include four series of _Coupling_ and more recent dramas – _Inside Man_ for BBC/Netflix, starring David Tennant and Stanley Tucci, _The Time Travellers Wife_ for HBO and this year has finished executive producing 3 series of _The Devil’s Hour_, written by Tom Moran, starring Peter Capaldi and Jessica Raine for Amazon.
 
 **Ben Palmer** has directed many successful UK comedy series over the years including C4’s _The Inbetweeners_ – winning awards from BAFTA, The National Television Awards, Broadcast, British Comedy Awards, and also the Rose d’Or. In 2011, Ben’s first feature, _The Inbetweeners Movie_ set a record for the biggest opening weekend for a comedy film in the UK and won ‘Best Comedy Film’ at the Empire Movie Awards in 2012. The film’s success confirmed Ben as one of the most in-demand comedy directors in the UK. His second feature _Man Up_ with Simon Pegg and Lake Bell also received critical acclaim, was a hit at the 2015 Tribeca Film Festival and won Best Comedy Film at the 2016 National Film Awards. Most recently Ben helmed the opening 2 seasons of FX’s _Breeders_ starring Martin Freeman and Daisy Haggard as well as Apple TV’s mad-cap, heightened action comedy _The Completely Made-Up Adventures of Dick Turpin_ starring Noel Fielding and Hugh Bonneville.
+<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzEyMzUwNF19
+eyJoaXN0b3J5IjpbNTA3NzY5MzA5XX0=
 -->
