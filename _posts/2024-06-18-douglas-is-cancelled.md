@@ -4,9 +4,9 @@ title: Douglas Is Cancelled
 published: true
 date: 2024-06-18
 readtime: true
-categories: ['PROJECTING THE ARCHIVE']
-tags: [Thriller, Drama]
-metadata: 'UK 1938, 76 mins<br> Director:  Al Parker'
+categories: ['TV PREVIEW']
+tags: [ Drama]
+metadata: 'UK 2024, 130 mins<br> Director:  Ben Palmer'
 pdf: '2024-06-18-murder-in-the-family.pdf'
 ---
 
@@ -14,8 +14,7 @@ _+ Q&A with cast Hugh Bonneville and Karen Gillan, writer Steven Moffat, executi
 
 Written by globally renowned screenwriter Steven Moffat (_Doctor Who_, _Sherlock_), _Douglas Is Cancelled_ introduces us to middle-aged current affairs news anchor Douglas Bellowes. Behind the scenes, Douglas needs constant reassurance from his younger, tech-savvy, social-media-aware co-anchor, Madeline. A national treasure, he can seemingly do no wrong, until he makes an ill-advised joke at his cousin’s wedding. During the on-going digital storm, Douglas’s alleged indiscretion is blown out of all proportion and he struggles to escape the controversy. In this chaotic and increasingly unmanageable situation, can Douglas count on the support of his agent and colleagues?
 
-**Hugh**  **Bonneville**’s film credits include _Notting Hill_, _Iris_, _The Monuments Men_,  
-_I Came By_, two _Downton Abbey_ and three Paddington movies. _Paddington in Peru_ opens in UK cinemas in November 2024 and the third _Downton Abbey_ film is currently in production.
+**Hugh**  **Bonneville**’s film credits include _Notting Hill_, _Iris_, _The Monuments Men_, _I Came By_, two _Downton Abbey_ and three Paddington movies. _Paddington in Peru_ opens in UK cinemas in November 2024 and the third _Downton Abbey_ film is currently in production.
 
 His television roles include Ian Fletcher in the BAFTA-winning _Twenty Twelve_ and _W1A_ (BBC) and Robert Crawley in ITV’s global hit, _Downton Abbey_, for which he received nominations for a Golden Globe and for two Emmys. The cast won three SAG Awards for Outstanding Ensemble in a Drama Series. Hugh recently completed filming the second series of _The Gold_, a six-part BBC drama about the 1983 Brink’s-Mat bullion robbery. He plays Jonathan Wilde in Apple TV’s, _The Completely Made-Up Adventures of Dick Turpin._
 
@@ -35,5 +34,5 @@ Gillan has previously starred in some of Hollywood’s biggest franchises includ
 
 **Ben Palmer** has directed many successful UK comedy series over the years including C4’s _The Inbetweeners_ – winning awards from BAFTA, The National Television Awards, Broadcast, British Comedy Awards, and also the Rose d’Or. In 2011, Ben’s first feature, _The Inbetweeners Movie_ set a record for the biggest opening weekend for a comedy film in the UK and won ‘Best Comedy Film’ at the Empire Movie Awards in 2012. The film’s success confirmed Ben as one of the most in-demand comedy directors in the UK. His second feature _Man Up_ with Simon Pegg and Lake Bell also received critical acclaim, was a hit at the 2015 Tribeca Film Festival and won Best Comedy Film at the 2016 National Film Awards. Most recently Ben helmed the opening 2 seasons of FX’s _Breeders_ starring Martin Freeman and Daisy Haggard as well as Apple TV’s mad-cap, heightened action comedy _The Completely Made-Up Adventures of Dick Turpin_ starring Noel Fielding and Hugh Bonneville.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDczMzA1NDhdfQ==
+eyJoaXN0b3J5IjpbMTQxMzEyMzUwNF19
 -->
