@@ -5,7 +5,7 @@ published: true
 date: 2024-06-18
 readtime: true
 categories: ['TV PREVIEW']
-tags: [ Drama]
+tags: [Comedy, Drama]
 metadata: 'UK 2024, 130 mins<br> Director:  Ben Palmer'
 pdf: '2024-06-18-douglas-is-cancelled.pdf'
 ---
@@ -59,5 +59,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NzY5MzA5XX0=
+eyJoaXN0b3J5IjpbLTU3MTQ0OTkxMl19
 -->
