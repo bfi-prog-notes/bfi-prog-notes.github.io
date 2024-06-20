@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Epic of Everest
+published: true
+date: 2024-06-23
+readtime: true
+categories: ['CENTENARY SCREENING']
+tags: [Documentary]
+metadata: 'UK 1924, 87 mins<br> Director:  Captain John Noel'
+pdf: '2024-06-23-epic-of-everest.pdf'
+---
 
 _Introduced by Dr Jan Faull_
 
@@ -93,5 +100,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzA4ODA1XX0=
+eyJoaXN0b3J5IjpbLTc4MjczNTM3OF19
 -->
