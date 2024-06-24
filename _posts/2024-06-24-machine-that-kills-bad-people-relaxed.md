@@ -21,25 +21,16 @@ The screening and discussion are hosted by film critic and writer Lillian Crawfo
 
 **The Machine That Kills Bad People (La macchina ammazzacattivi)**
 
-_Director__:_ Robert Rossellini_Production Company:_ Tevere Film  
-_Producers__:_ Roberto Rossellini,
+_Director_: Roberto Rossellini  
+_Production Company:_ Tevere Film  
+_Producers_: Roberto Rossellini, Rudolphe Solmsen  
+_Screenplay_: Sergio Amidei, Giancarlo Vigorelli, Franco Brusati, Liana Ferri  
 
-Rudolphe Solmsen
-
-_Screenplay__:_ Sergio Amidei,
-
-Giancarlo Vigorelli, Franco Brusati,
-
-Liana Ferri
-
-_Cast:_
-
-Gennaro Pisano _(Celestino Esposito)_
-
-Giovanni Amato _(devil-saint)_
-
+**Cast**  
+Gennaro Pisano _(Celestino Esposito)_  
+Giovanni Amato _(devil-saint)_  
 Marilyn Buferd _(young American girl)_  
-Bill _Tubbs (her father)_  
+Bill  Tubbs _(her father)_  
 Helen Tubbs _(her mother)_  
 Joe Falletta _(Joe)_  
 
@@ -101,5 +92,5 @@ eyJoaXN0b3J5IjpbODYyNDkwNTIzXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTgzNzI4Ml19
+eyJoaXN0b3J5IjpbLTQ2ODQ2MDk0N119
 -->
