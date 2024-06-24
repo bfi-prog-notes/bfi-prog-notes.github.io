@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Machine That Kills Bad People
@@ -89,28 +88,17 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <BR>
 
 
-**CHASING THE REAL: ITALIAN NEOREALISM**
-
-**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11
-
-Mon 24 Jun 20:50
-
-**Journey to Italy** Viaggio in Italia
-
-Tue 25 Jun 18:15
-
-**The Machine That Kills Bad People  
-**La macchina ammazzacattivi
-
-Thu 27 Jun 20:55
-
-**Umberto D.**
-
-Sat 29 Jun 13:10
-
-**Miracle in Milan** Miracolo a Milano
-
-Sun 30 Jun 12:10
+**CHASING THE REAL: ITALIAN NEOREALISM**  
+**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11  
+Mon 24 Jun 20:50  
+**Journey to Italy** Viaggio in Italia  
+Tue 25 Jun 18:15  
+**The Machine That Kills Bad People**  La macchina ammazzacattivi  
+Thu 27 Jun 20:55  
+**Umberto D.**  
+Sat 29 Jun 13:10  
+**Miracle in Milan** Miracolo a Milano  
+Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY1ODgxMDIsLTQ2ODQ2MDk0N119
+eyJoaXN0b3J5IjpbMjEwNzA0MDQ0MiwtNDY4NDYwOTQ3XX0=
 -->
