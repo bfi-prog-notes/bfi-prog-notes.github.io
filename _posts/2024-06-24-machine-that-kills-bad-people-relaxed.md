@@ -13,14 +13,14 @@ pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
 
 <img style="float: left;" src="/img/mtkbp.png"><br><br><br><br><br><br><br><br><br>
 
-Originally produced for television, Ingmar Bergman’s rendering of Mozart’s beloved opera is a cinematic spectacle. The film blurs the boundaries of theatre, between audience and stage, as Tamino ventures with his fantastical instrument to rescue Pamina and vanquish the Queen of the Night. Join us after the screening to reflect on the nature of performativity, escapism, and neurodivergence.
 
-The screening and discussion are hosted by film critic and writer Lillian Crawford.
+Rossellini’s beguiling neorealist comedy proposes a sharp satire on human behaviour. Engaging us in people-watching from the start, he creates a detailed and authentic portrait of life in a small fishing village. When a photographer discovers that his camera has special powers, he also learns that with power comes responsibility. Join us after the screening to reflect upon the film through a neurodivergent lens.
+
+The post screening discussion will be hosted by campaigner and creative Leo Capella.
 <br><br>
-<![endif]-->
 
-**The Machine That Kills Bad People (La macchina ammazzacattivi)**
 
+**THE MACHINE THAT KILLS BAD PEOPLE (LA MACCHINA AMMAZZACATTIVI)**  
 _Director_: Roberto Rossellini  
 _Production Company:_ Tevere Film  
 _Producers_: Roberto Rossellini, Rudolphe Solmsen  
@@ -47,8 +47,6 @@ Digital
 
 
 **The next relaxed screenings are:**<br> 
-**THE MACHINE THAT KILLS BAD PEOPLE** + intro and discussion<br>
-Monday 24 June 2024 18:35 NFT3
 
 **ERASERHEAD** + intro and discussion<br>
 Monday 29 July 2024 18:10 NFT3
@@ -87,10 +85,32 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • We understand you may make some noise.
 
 • Please ask us if you need help.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyNDkwNTIzXX0=
--->
 
+<BR>
+
+
+**CHASING THE REAL: ITALIAN NEOREALISM**
+
+**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11
+
+Mon 24 Jun 20:50
+
+**Journey to Italy** Viaggio in Italia
+
+Tue 25 Jun 18:15
+
+**The Machine That Kills Bad People  
+**La macchina ammazzacattivi
+
+Thu 27 Jun 20:55
+
+**Umberto D.**
+
+Sat 29 Jun 13:10
+
+**Miracle in Milan** Miracolo a Milano
+
+Sun 30 Jun 12:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDYzNTAxMywtNDY4NDYwOTQ3XX0=
+eyJoaXN0b3J5IjpbLTEzMjY1ODgxMDIsLTQ2ODQ2MDk0N119
 -->
