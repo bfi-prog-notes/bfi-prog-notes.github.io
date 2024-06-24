@@ -7,11 +7,11 @@ date: 2024-06-24
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy, Fantasy]
-metadata: 'Sweden 1975, 135 mins<br> Director: Ingmar Bergman'
-pdf: '2024-05-20-magic-flute-relaxed.pdf'
+metadata: 'Italy 1948-52, 85 mins<br> Director: Roberto Rossellini'
+pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
 ---
 
-<img style="float: left;" src="/img/magic-flute-02.jpeg"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/mtkbp.png"><br><br><br><br><br><br><br><br><br>
 
 Originally produced for television, Ingmar Bergman’s rendering of Mozart’s beloved opera is a cinematic spectacle. The film blurs the boundaries of theatre, between audience and stage, as Tamino ventures with his fantastical instrument to rescue Pamina and vanquish the Queen of the Night. Join us after the screening to reflect on the nature of performativity, escapism, and neurodivergence.
 
@@ -92,5 +92,5 @@ eyJoaXN0b3J5IjpbODYyNDkwNTIzXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODQ2MDk0N119
+eyJoaXN0b3J5IjpbLTk4NDYzNTAxMywtNDY4NDYwOTQ3XX0=
 -->
