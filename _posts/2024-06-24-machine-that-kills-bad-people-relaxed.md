@@ -1,12 +1,12 @@
 
 ---
 layout: post
-title: The Machine 
+title: The Machine That Kills Bad People
 published: true
-date: 2024-05-20
+date: 2024-06-24
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Music, Fantasy]
+tags: [Comedy, Fantasy]
 metadata: 'Sweden 1975, 135 mins<br> Director: Ingmar Bergman'
 pdf: '2024-05-20-magic-flute-relaxed.pdf'
 ---
@@ -17,23 +17,35 @@ Originally produced for television, Ingmar Bergman’s rendering of Mozart’s b
 
 The screening and discussion are hosted by film critic and writer Lillian Crawford.
 <br><br>
+<![endif]-->
 
-**THE MAGIC FLUTE (TROLLFLÖJTEN)**<br>
-_Director:_ Ingmar Bergman<br>
-_Production Company:_ Sveriges Radio TV2<br>
-_Producer_: Måns Reuterswärd<br>
-_Screenplay:_ Ingmar Bergman
+**The Machine That Kills Bad People (La macchina ammazzacattivi)**
 
-**Cast**  
-Josef Köstlinger _(Tamino)_<br>
-Irma Urrila _(Pamina)_<br>
-Håkan Hagegård _(Papageno)_<br>
-Elisabeth Eriksson _(Papagena)_<br>
-Birgit Nordin _(Queen of the Night)_<br>
+_Director__:_ Robert Rossellini_Production Company:_ Tevere Film  
+_Producers__:_ Roberto Rossellini,
 
-Sweden 1975<br>
-135 mins<br>
-<br>
+Rudolphe Solmsen
+
+_Screenplay__:_ Sergio Amidei,
+
+Giancarlo Vigorelli, Franco Brusati,
+
+Liana Ferri
+
+_Cast:_
+
+Gennaro Pisano _(Celestino Esposito)_
+
+Giovanni Amato _(devil-saint)_
+
+Marilyn Buferd _(young American girl)_  
+Bill _Tubbs (her father)_  
+Helen Tubbs _(her mother)_  
+Joe Falletta _(Joe)_  
+
+Italy 1948-52  
+85 mins  
+Digital  
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -89,5 +101,5 @@ eyJoaXN0b3J5IjpbODYyNDkwNTIzXX0=
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5MDM2NDFdfQ==
+eyJoaXN0b3J5IjpbMTA4MTgzNzI4Ml19
 -->
