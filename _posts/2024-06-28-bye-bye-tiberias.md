@@ -44,18 +44,17 @@ _Sound Recordists_: Ludovic Escalier, Lina Soualem
 _Sound Mixers_: Julie Tribout, Benoît Biral  
 _Sound Editor_: Gervaise Demeure
 
-With**
+**With**  
 Hiam Abbass
 
-France-Palestine-Belgium-Qatar 2023
-
-82 mins
-
+France-Palestine-Belgium-Qatar 2023  
+82 mins  
 Digital
 
 A TAPE Collective release
 
 The screening on Fri 28 Jun 18:00 will be followed by a Q&A with co-writer Nadine Naous
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMzQzOTMxXX0=
+eyJoaXN0b3J5IjpbLTk5NDIxNTIyN119
 -->
