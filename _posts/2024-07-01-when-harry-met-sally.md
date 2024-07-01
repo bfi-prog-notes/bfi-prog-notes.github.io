@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Singin' in the Rain
+title: When Harry Met Sally
 published: true
 date: 2024-07-01
 readtime: true
 categories: ['MEMBER MONDAYS']
-tags: [Musical, Comedy]
-metadata: 'USA 1951, 103 mins<br> Directors: Gene Kelly, Stanley Donen'
+tags: [Comedy, Romance]
+metadata: 'USA 1989, 95 mins<br> Directors: Rob Reiner'
 pdf: '2024-07-01-singin-in-the-rain.pdf'
 ---
 
@@ -31,16 +31,12 @@ Fifth, _When Harry Met Sally…_ is funny, with not only a great written script 
 Seventh and finally, the film has been influential, not only in establishing that the romcom could be profitable at the box office, but that the genre, although one of the very oldest in cinema, could continue to evolve and renew itself.  
 **Extract from _When Harry Met Sally…_ by Tamar Jeffers McDonald (BFI Film Classics; BFI/Palgrave, 2015) Reproduced by kind permission of Bloomsbury Publishing. ©Tamar Jeffers McDonald**  
 <br>
-<![endif]-->
 
-**WHEN HARRY MET SALLY…**
-
-_Director_: Rob Reiner
-
+**WHEN HARRY MET SALLY…**  
+_Director_: Rob Reiner  
 ©: Castle Rock Entertainment  
 Castle Rock Entertainment _in association with_ Nelson Entertainment _present  
-a_ Columbia Pictures _release_
-
+a_ Columbia Pictures _release_  
 _Producers_: Rob Reiner, Andrew Scheinman  
 _Co-producers_: Jeffrey Stott, Steve Nicolaides  
 _Associate Producer_: Nora Ephron  
@@ -52,8 +48,7 @@ _1st Assistant Director_: Aaron Barsky
 _2nd Assistant Director_: Michael Waxman  
 _Script Supervisor_: Kerry Lyn McKissick  
 _Casting_: Jane Jenkins, Janet Hirshenson  
-_Casting Associates_: Michael Hirshenson,  
-Robin Allan  
+_Casting Associates_: Michael Hirshenson, Robin Allan  
 _Written by_: Nora Ephron  
 _Director of Photography_: Barry Sonnenfeld  
 _Camera Operator_: M. Todd Henry  
@@ -108,5 +103,5 @@ USA 1989©
 95 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTI4NzExMl19
+eyJoaXN0b3J5IjpbMTI2MDU5OTAxNV19
 -->
