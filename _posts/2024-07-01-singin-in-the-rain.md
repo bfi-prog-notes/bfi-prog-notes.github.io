@@ -76,7 +76,7 @@ _Costumes:_ Elaine Davis Owen
 _Vocal Arrangements:_ Roger Edens  
 _Assistants to Choreographers:_ Carol Haney,  Jeanne Coyne  
 
-_Cast:_  
+**Cast**   
 Gene Kelly _(Don Lockwood)_  
 Donald O’Connor _(Cosmo Brown)_  
 Debbie Reynolds _(Kathy Selden)_  
