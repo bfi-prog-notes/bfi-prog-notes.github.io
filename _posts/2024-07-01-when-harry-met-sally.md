@@ -30,6 +30,83 @@ Fifth, _When Harry Met Sally…_ is funny, with not only a great written script 
 
 Seventh and finally, the film has been influential, not only in establishing that the romcom could be profitable at the box office, but that the genre, although one of the very oldest in cinema, could continue to evolve and renew itself.  
 **Extract from _When Harry Met Sally…_ by Tamar Jeffers McDonald (BFI Film Classics; BFI/Palgrave, 2015) Reproduced by kind permission of Bloomsbury Publishing. ©Tamar Jeffers McDonald**  
+<br>
+<![endif]-->
+
+**WHEN HARRY MET SALLY…**
+
+_Director_: Rob Reiner
+
+©: Castle Rock Entertainment  
+Castle Rock Entertainment _in association with_ Nelson Entertainment _present  
+a_ Columbia Pictures _release_
+
+_Producers_: Rob Reiner, Andrew Scheinman  
+_Co-producers_: Jeffrey Stott, Steve Nicolaides  
+_Associate Producer_: Nora Ephron  
+_Unit Manager_: Mark A. Baker  
+_Production Manager_: Steve Nicolaides  
+_Production Co-ordinators_: Linda Allan, Jane Raab, Meng Hwei-Chu  
+_Location Managers_: Donna Bloom, Don Garrison  
+_1st Assistant Director_: Aaron Barsky  
+_2nd Assistant Director_: Michael Waxman  
+_Script Supervisor_: Kerry Lyn McKissick  
+_Casting_: Jane Jenkins, Janet Hirshenson  
+_Casting Associates_: Michael Hirshenson,  
+Robin Allan  
+_Written by_: Nora Ephron  
+_Director of Photography_: Barry Sonnenfeld  
+_Camera Operator_: M. Todd Henry  
+_Assistant Camera_: Angelo Di Giacomo, Brian Armstrong, Christopher Duskin,  
+Thomas Miligan  
+_Video_: Video Image, Greg McMurry  
+_Editor_: Robert Leighton  
+_Production Designer_: Jane Musky  
+_Art Department Co-ordinator_: Harold Thrasher  
+_Set Decorators_: George R. Nelson, Sabrina Wright-Basile  
+_Scenic Artist_: Billy Puzo  
+_Property Masters_: David L. Glazer, Dick Tice  
+_Costume Designer_: Gloria Gresham  
+_Costume Supervisor_: Jennifer L. Parsons  
+_Make-up (Meg Ryan)_: Stephen Abrums, Joseph A. Campayno  
+_Make-up (Billy Crystal)_: Ken Chase, Peter Montagna  
+_Hairstyling_: Barbara Lorenz, William A. Farley  
+_Titles/Opticals_: Pacific Title  
+_Special Music Performances/Arrangements_: Harry Connick Jr  
+_Orchestrations_: Marc Shaiman, Tom Sharp  
+_Music Supervisor_: Scott Stambler  
+_Sound Mixer_: Robert Eber  
+_Re-recording Mixers_: Terry Porter, Mel Metcalfe, David J. Hudson  
+_Supervising Sound Editors_: Charles L. Campbell, Louis L. Edemann  
+
+**Cast**  
+Billy Crystal _(Harry Burns)_  
+Meg Ryan _(Sally Albright)_  
+Carrie Fisher _(Marie)_  
+Bruno Kirby _(Jess)_  
+Steven Ford _(Joe)_  
+Lisa Jane Persky _(Alice)_  
+Michelle Nicastro _(Amanda Rees)_  
+Gretchen F. Palmer _(stewardess)_  
+Robert Alan Beuth _(man on aisle)_  
+David Burdick _(9 year-old boy)_  
+Joe Viviani _(judge)_  
+Harley Kozak _(Helen Hillson)_  
+Joseph Hunt _(waiter at wedding)_  
+Kevin Rooney _(Ira Stone)_  
+Franc Luz _(Julian)_  
+Tracy Reiner _(Emily)_  
+Kyle T. Heffner _(Gary)_  
+Kimberley Lamarque _(waitress)_  
+Stacey Katzin _(hostess)_  
+Estelle Reiner _(older woman customer)_  
+John Arceri _(Christmas tree salesman)_  
+Peter Day _(joke teller at wedding)_  
+Kuno Sponholz, Connie Sawyer, Charles Dugan, Katherine Squire, Al Christy, Frances Chaney, Bernie Hern, Rose Wright, Aldo Rossi, Dona Hardy, Peter Pan, Jane Chung _(documentary couples)_  
+
+USA 1989©  
+95 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTEwNjM5MV19
+eyJoaXN0b3J5IjpbMjAwOTI4NzExMl19
 -->
