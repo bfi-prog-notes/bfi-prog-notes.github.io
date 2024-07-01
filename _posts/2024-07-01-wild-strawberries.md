@@ -5,9 +5,9 @@ published: true
 date: 2024-07-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Film Noir, Crime]
-metadata: 'USA 1949, 87 mins<br> Director: Joseph H. Lewis'
-pdf: '2024-06-12-gun-crazy.pdf'
+tags: [Drama]
+metadata: 'Sweden 1957, 91 mins<br> Director: Ingmar Bergman'
+pdf: '2024-07-01-wild-strawberries.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -83,7 +83,9 @@ Sweden 1957
 91 mins  
 Digital  
 
-* Uncredited
+\* Uncredited
+
+B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzk1ODNdfQ==
+eyJoaXN0b3J5IjpbOTA3NTA1ODk5XX0=
 -->
