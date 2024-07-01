@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Singin' in the Rain
+published: true
+date: 2024-07-01
+readtime: true
+categories: ['MEMBER MONDAYS']
+tags: [Musical, Comedy]
+metadata: 'USA 1951, 103 mins<br> Directors: Gene Kelly, Stanley Donen'
+pdf: '2024-06-17-sunset-boulevard.pdf'
+---
 
 It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.
 
@@ -121,6 +128,5 @@ USA 1951©
 103 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc4NjEyODMsLTE1ODE0MDQyMzZdfQ
-==
+eyJoaXN0b3J5IjpbNDU0MjQ0MTQ3LC0xNTgxNDA0MjM2XX0=
 -->
