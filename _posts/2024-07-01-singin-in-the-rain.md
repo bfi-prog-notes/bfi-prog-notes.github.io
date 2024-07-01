@@ -11,7 +11,7 @@ pdf: '2024-07-01-singin-in-the-rain.pdf'
 ---
 
 It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.  
-**Heather Osborn, bfi.org.uk
+**Heather Osborn, bfi.org.uk**  
 
 The most enduring of the four MGM collaborations between Gene Kelly and his director and co-choreographer Stanley Donen, _Singin’ in the Rain_ rises ten places [in 2022’s _Sight and Sound_ poll] from 20th in 2012 to land in the top ten again. The film’s ascent almost feels like a given, due to the effervescence that may be its defining characteristic and the scarcity of that quality in our trying times.
 
@@ -20,9 +20,8 @@ Yet, typically for anything that seems so effortless, Kelly and Donen’s achiev
 None of that suffering is discernible on screen, which is one of the many delightful ironies about Hollywood’s most deeply cherished movie about the making of a Hollywood movie. Pulling back the curtain to show yet more dazzling drapery, Comden and Green celebrate an earlier era of Tinseltown chancers and hustlers with a tale of a production caught between the silent and sound eras. Kelly’s plucky hoofer and stuntman-turned-star Don Lockwood leads the charge to retrofit a swashbuckler picture named  
 _The Duelling Cavalier_ to take advantage of the new vogue for sound, with his new sweetie Kathy (Reynolds) being his best means of disguising the squawky voice of his leading lady Lina (a hilarious Jean Hagen).
 
-There are several movies besides Don’s latest somehow contained within the text of _Singin’ in the Rain_ (including, if we are to believe the deliciously meta billboard in the final shot, _Singin’ in the Rain_). Cheekily purporting to reveal its own means of production while still delivering one unabashedly theatrical showstopper after another, Kelly and Donen’s masterwork anticipates the brassy postmodernism of _Moulin Rouge!_ (2001). But like such fellow homage-payers as _The Artist_ (2011) and _La La Land_ (2016), Baz Luhrmann’s rendition feels meagre compared to the original and its seemingly inexhaustible bounty of ingenuity, bravado and sheer unabashed joy.
-
-Jason Anderson, _Sight and Sound_, Winter 2022-23
+There are several movies besides Don’s latest somehow contained within the text of _Singin’ in the Rain_ (including, if we are to believe the deliciously meta billboard in the final shot, _Singin’ in the Rain_). Cheekily purporting to reveal its own means of production while still delivering one unabashedly theatrical showstopper after another, Kelly and Donen’s masterwork anticipates the brassy postmodernism of _Moulin Rouge!_ (2001). But like such fellow homage-payers as _The Artist_ (2011) and _La La Land_ (2016), Baz Luhrmann’s rendition feels meagre compared to the original and its seemingly inexhaustible bounty of ingenuity, bravado and sheer unabashed joy.  
+**Jason Anderson, _Sight and Sound_, Winter 2022-23**  
 
 Gene Kelly’s very best dances are the ones he does by himself, for at heart he is a solitary figure, unable or unwilling to let go of the idea that he is a tough guy you don’t want to mess with.
 
@@ -126,6 +125,31 @@ Ray Teal _(employee)_
 USA 1951©  
 103 mins  
 Digital  
+<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjA0MDAzLC0xNTgxNDA0MjM2XX0=
+eyJoaXN0b3J5IjpbLTk0MzYyNjU4OCwtMTU4MTQwNDIzNl19
 -->
