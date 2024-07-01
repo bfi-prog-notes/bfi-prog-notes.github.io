@@ -37,21 +37,13 @@ The overall structure is based on a wonderful and simple idea: the end of the si
 There are some films that have magic, either in their sheer entertainment value and bravura, or from something darker, as with Laughton’s _The Night of the Hunter_ or Hitchcock’s _Psycho_. _Singin’ in the Rain_ has an immense magic, and I think the title number is one of cinema’s great moments, as good as anything by Eisenstein, and a lot more entertaining.  
 **Terence Davies talking to Nick James, _Sight and Sound,_ September 2002**  
 <br>
-<![endif]-->
 
-**Singin’ in the Rain**
-
-_Directed by:_ Gene Kelly, Stanley Donen
-
-©_:_ Loew’s Incorporated
-
-_Production Company:_ Metro-Goldwyn-Mayer
-
-_Produced by:_ Arthur Freed
-
-_Story and Screen Play by:_ Adolph Green,  
-Betty Comden
-
+**SINGIN' IN THE RAIN**  
+_Directed by:_ Gene Kelly, Stanley Donen  
+_©_: Loew’s Incorporated  
+_Production Company:_ Metro-Goldwyn-Mayer  
+_Produced by:_ Arthur Freed  
+_Story and Screen Play by:_ Adolph Green, Betty Comden  
 _Suggested by the song by:_ Arthur Freed, Nacio Herb Brown  
 _Director of Photography:_ Harold Rosson  
 _Technicolor Colour Consultants:_ Henri Jaffa, James Gooch  
@@ -129,5 +121,6 @@ USA 1951©
 103 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODgwNTAzMiwtMTU4MTQwNDIzNl19
+eyJoaXN0b3J5IjpbLTIxMTc4NjEyODMsLTE1ODE0MDQyMzZdfQ
+==
 -->
