@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Wild Strawberries
+published: true
+date: 2024-07-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Film Noir, Crime]
+metadata: 'USA 1949, 87 mins<br> Director: Joseph H. Lewis'
+pdf: '2024-06-12-gun-crazy.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -21,10 +29,8 @@ But what does Borg really see in that final shot? The sight we are presented wit
 The screen fades from his memory-scape to the contented man in bed, having faced his demons on the road and now ready for sleep. It’s Bergman’s most emotional ending; seeing a youthful vision of home through the older eyes of experience. One feeds into the other, a bright and brilliant light shining through the dusty murk of a pessimist’s prism. The hollowness and meaninglessness he had perceived in his life was only an illusion caused by the timidity of not looking directly back. Fear over who we once were will always crop up from time to time. Bergman ends on the reaction to this realisation, arguably the whole drive of the film captured in one moment. There is no naivety in regarding such warm memories from the days when wild strawberries grew freely in the garden, just an awareness that the best of days and the worst of days sat side by side and always will: ‘Today, tomorrow, forever.’  
 **Adam Scovell, _Sight and Sound_, February 2018**  
 <br>
-<![endif]-->
 
-**WILD STRAWBERRIES (SMULTRONSTÄLLET)**
-
+**WILD STRAWBERRIES (SMULTRONSTÄLLET)**  
 _Director:_ Ingmar Bergman  
 _Production Company:_ Svensk Filmindustri  
 _Producer:_ Carl Anders Dymling *  
@@ -43,31 +49,22 @@ _Wigs:_ Nils Nittel, Firma Carl M. Lundh
 _Music:_ Erik Nordgren  
 _Musical Direction:_ E. Eckert-Lundin *  
 _Sound:_ Aaby Wedin  
-_Assistant Sound:_ Lennart Wallin *
+_Assistant Sound:_ Lennart Wallin *  
 
-_Cast:_
-
+**Cast**  
 Victor Sjöström _(Professor Isak Borg)_  
-Bibi Andersson
-
-_(Sara, hitchhiker/Sara, Isak’s cousin)_  
+Bibi Andersson _(Sara, hitchhiker/Sara, Isak’s cousin)_  
 Ingrid Thulin _(Marianne Borg, Evald’s wife)_  
 Gunnar Björnstrand _(Dr Evald Borg)_  
 Jullan Kindahl _(Miss Agda, Isak’s housekeeper)_  
-Folke Sundquist
-
-_(Anders, hitchhiking theology student)_  
-Björn Bjelvenstam
-
-_(Viktor, hitchhiking medical student)_  
+Folke Sundquist _(Anders, hitchhiking theology student)_  
+Björn Bjelvenstam _(Viktor, hitchhiking medical student)_  
 Naima Wifstrand _(Borg’s mother)_  
 Gunnel Broström _(Berit Alman)_  
 Gertrud Fridh _(Karin, Isak’s wife)_  
 Sif Ruud _(Aunt Olga)_  
 Gunnar Sjöberg _(Sten Alman, an engineer)_  
-Max von Sydow
-
-_(Henrik Åkerman, petrol station owner)_  
+Max von Sydow _(Henrik Åkerman, petrol station owner)_  
 Åke Fridell _(Karin’s lover)_  
 Yngve Nordwall _(Uncle Aron)_  
 Per Sjöstrand _(Sigfrid, Isak’s elder brother)_  
@@ -76,9 +73,7 @@ Gunnel Lindblom _(Charlotta, Isak’s elder sister)_
 Maud Hansson _(Angelica, Isak’s younger sister)_  
 Ann-Mari Wiman _(Eva Åkerman, Henrik’s wife)_  
 Eva Norée _(Anna, Isak’s sister)_  
-Lena Bergman, Monica Ehrling
-
-_(Kristina/Brigitta, Isak’s twin sisters)_  
+Lena Bergman, Monica Ehrling _(Kristina/Brigitta, Isak’s twin sisters)_  
 Per Skogsberg _(Hagbart, the eldest Borg brother)_ *  
 Göran Lundquist _(Benjamin, Isak’s younger brother)_ *  
 Profesor Helge Wulff _(public orator in Lund Cathedral)_ *  
@@ -90,5 +85,5 @@ Digital
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjg0NzcxMl19
+eyJoaXN0b3J5IjpbLTY2Mzk1ODNdfQ==
 -->
