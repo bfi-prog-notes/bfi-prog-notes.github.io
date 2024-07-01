@@ -52,59 +52,31 @@ _Produced by:_ Arthur Freed
 _Story and Screen Play by:_ Adolph Green,  
 Betty Comden
 
-_Suggested by the song by:_ Arthur Freed,  
-Nacio Herb Brown
+_Suggested by the song by:_ Arthur Freed, Nacio Herb Brown  
+_Director of Photography:_ Harold Rosson  
+_Technicolor Colour Consultants:_ Henri Jaffa, James Gooch  
+_Special Effects:_ Warren Newcombe, Irving G. Ries  
+_Editor:_ Adrienne Fazan  
+_Art Directors:_ Cedric Gibbons, Randall Duell  
+_Set Decorations:_ Edwin B. Willis, Jacque Mapes  
+_Costumes Designed by:_ Walter Plunkett  
+_Make-up Created by:_ William Tuttle  
+_Hair Styles Designed by:_ Sydney Guilaroff  
+_Songs: Lyrics by:_ Arthur Freed  
+_Songs: Music by:_ Nacio Herb Brown  
+_Musical Direction:_ Lennie Hayton  
+_Orchestrations by:_ Conrad Salinger  
+_Vocal Arrangements by:_ Jeff Alexander  
+_Orchestrations by:_ Wally Heglin, Skip Martin  
+_Musical Numbers Staged/Directed by:_  Gene Kelly, Stanley Donen  
+_Recording Supervisor:_ Douglas Shearer  
 
-_Director of Photography:_ Harold Rosson
-
-_Technicolor Colour Consultants:_ Henri Jaffa,
-
-James Gooch
-
-_Special Effects:_ Warren Newcombe, Irving G. Ries
-
-_Editor:_ Adrienne Fazan
-
-_Art Directors:_ Cedric Gibbons, Randall Duell
-
-_Set Decorations:_ Edwin B. Willis, Jacque Mapes
-
-_Costumes Designed by:_ Walter Plunkett
-
-_Make-up Created by:_ William Tuttle
-
-_Hair Styles Designed by:_ Sydney Guilaroff
-
-_Songs: Lyrics by:_ Arthur Freed
-
-_Songs: Music by:_ Nacio Herb Brown
-
-_Musical Direction:_ Lennie Hayton
-
-_Orchestrations by:_ Conrad Salinger
-
-_Vocal Arrangements by:_ Jeff Alexander
-
-_Orchestrations by:_ Wally Heglin, Skip Martin
-
-_Musical Numbers Staged/Directed by:_  
-Gene Kelly, Stanley Donen
-
-_Recording Supervisor:_ Douglas Shearer
-
-_uncredited_
-
-_Associate Producer:_ Roger Edens
-
-_Director of Photography, Pre-production:_  
-John Alton
-
-_Camera Operator:_ Frank Phillips
-
-_Costumes:_ Elaine Davis Owen
-
-_Vocal Arrangements:_ Roger Edens
-
+_uncredited_  
+_Associate Producer:_ Roger Edens   
+_Director of Photography, Pre-production:_  John Alton  
+_Camera Operator:_ Frank Phillips  
+_Costumes:_ Elaine Davis Owen  
+_Vocal Arrangements:_ Roger Edens  
 _Assistants to Choreographers:_ Carol Haney,  Jeanne Coyne  
 
 _Cast:_  
@@ -157,6 +129,5 @@ USA 1951©
 103 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI3Nzk1MzIsLTE1ODE0MDQyMzZdfQ
-==
+eyJoaXN0b3J5IjpbMTA5ODgwNTAzMiwtMTU4MTQwNDIzNl19
 -->
