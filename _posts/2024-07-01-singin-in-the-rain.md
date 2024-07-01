@@ -105,69 +105,37 @@ _Costumes:_ Elaine Davis Owen
 
 _Vocal Arrangements:_ Roger Edens
 
-_Assistants to Choreographers:_ Carol Haney,  
-Jeanne Coyne
+_Assistants to Choreographers:_ Carol Haney,  Jeanne Coyne  
 
-_Cast:_
+_Cast:_  
+Gene Kelly _(Don Lockwood)_  
+Donald O’Connor _(Cosmo Brown)_  
+Debbie Reynolds _(Kathy Selden)_  
+Jean Hagen _(Lina Lamont)_  
+Millard Mitchell _(R.F. Simpson)_  
+Cyd Charisse _(dancer in ballet)_  
+Douglas Fowley _(Roscoe Dexter)_  
+Rita Moreno _(Zelda Zanders)_  
 
-Gene Kelly _(Don Lockwood)_
-
-Donald O’Connor _(Cosmo Brown)_
-
-Debbie Reynolds _(Kathy Selden)_
-
-Jean Hagen _(Lina Lamont)_
-
-Millard Mitchell _(R.F. Simpson)_
-
-Cyd Charisse _(dancer in ballet)_
-
-Douglas Fowley _(Roscoe Dexter)_
-
-Rita Moreno _(Zelda Zanders)_
-
-_uncredited_
-
-Madge Blake _(Dora Bailey)_
-
-King Donovan _(Rod)_
-
-Kathleen Freeman
-
-_(Phoebe Dinsmore, diction coach)_
-
-Bobby Watson _(diction coach)_
-
-Tommy Farrell _(Sid Phillips, assistant director)_
-
-Jimmy Thompson
-
-_(male lead in ‘Beautiful Girl’ number)_
-
-Dan Foster _(assistant director)_
-
-Margaret Bert _(wardrobe woman)_
-
-Mae Clarke _(hairdresser)_
-
-Judy Landon _(Olga Mara)_
-
-John Dodsworth _(Baron de la Bouvet de la Toulon)_
-
-Stuart Holmes _(J.C. Spendrill III)_
-
-Dennis Ross _(Don as a boy)_
-
-Bill Lewin _(Bert, villain in western)_
-
-Richard Emory _(Phil, cowboy hero)_
-
-Julius Tannen _(man demonstrating talking pictures)_
-
-Dawn Addams _(Teresa, lady-in-waiting)_
-
-Elaine Stewart _(2nd lady-in-waiting)_
-
+_uncredited_  
+Madge Blake _(Dora Bailey)_  
+King Donovan _(Rod)_  
+Kathleen Freeman _(Phoebe Dinsmore, diction coach)_  
+Bobby Watson _(diction coach)_  
+Tommy Farrell _(Sid Phillips, assistant director)_  
+Jimmy Thompson _(male lead in ‘Beautiful Girl’ number)_  
+Dan Foster _(assistant director)_  
+Margaret Bert _(wardrobe woman)_  
+Mae Clarke _(hairdresser)_  
+Judy Landon _(Olga Mara)_  
+John Dodsworth _(Baron de la Bouvet de la Toulon)_  
+Stuart Holmes _(J.C. Spendrill III)_  
+Dennis Ross _(Don as a boy)_  
+Bill Lewin _(Bert, villain in western)_  
+Richard Emory _(Phil, cowboy hero)_  
+Julius Tannen _(man demonstrating talking pictures)_  
+Dawn Addams _(Teresa, lady-in-waiting)_  
+Elaine Stewart _(2nd lady-in-waiting)_  
 Carl Milletaire _(villain in ‘The Duelling Cavalier’)_  
 Ben Strombach _(pilot in flying film)_  
 Tommy Walker _(footballer in film sequence)_  
@@ -189,5 +157,6 @@ USA 1951©
 103 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE0MDQyMzZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTI3Nzk1MzIsLTE1ODE0MDQyMzZdfQ
+==
 -->
