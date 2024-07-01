@@ -36,6 +36,158 @@ The overall structure is based on a wonderful and simple idea: the end of the si
 
 There are some films that have magic, either in their sheer entertainment value and bravura, or from something darker, as with Laughton’s _The Night of the Hunter_ or Hitchcock’s _Psycho_. _Singin’ in the Rain_ has an immense magic, and I think the title number is one of cinema’s great moments, as good as anything by Eisenstein, and a lot more entertaining.  
 **Terence Davies talking to Nick James, _Sight and Sound,_ September 2002**  
+<br>
+<![endif]-->
+
+**Singin’ in the Rain**
+
+_Directed by:_ Gene Kelly, Stanley Donen
+
+©_:_ Loew’s Incorporated
+
+_Production Company:_ Metro-Goldwyn-Mayer
+
+_Produced by:_ Arthur Freed
+
+_Story and Screen Play by:_ Adolph Green,  
+Betty Comden
+
+_Suggested by the song by:_ Arthur Freed,  
+Nacio Herb Brown
+
+_Director of Photography:_ Harold Rosson
+
+_Technicolor Colour Consultants:_ Henri Jaffa,
+
+James Gooch
+
+_Special Effects:_ Warren Newcombe, Irving G. Ries
+
+_Editor:_ Adrienne Fazan
+
+_Art Directors:_ Cedric Gibbons, Randall Duell
+
+_Set Decorations:_ Edwin B. Willis, Jacque Mapes
+
+_Costumes Designed by:_ Walter Plunkett
+
+_Make-up Created by:_ William Tuttle
+
+_Hair Styles Designed by:_ Sydney Guilaroff
+
+_Songs: Lyrics by:_ Arthur Freed
+
+_Songs: Music by:_ Nacio Herb Brown
+
+_Musical Direction:_ Lennie Hayton
+
+_Orchestrations by:_ Conrad Salinger
+
+_Vocal Arrangements by:_ Jeff Alexander
+
+_Orchestrations by:_ Wally Heglin, Skip Martin
+
+_Musical Numbers Staged/Directed by:_  
+Gene Kelly, Stanley Donen
+
+_Recording Supervisor:_ Douglas Shearer
+
+_uncredited_
+
+_Associate Producer:_ Roger Edens
+
+_Director of Photography, Pre-production:_  
+John Alton
+
+_Camera Operator:_ Frank Phillips
+
+_Costumes:_ Elaine Davis Owen
+
+_Vocal Arrangements:_ Roger Edens
+
+_Assistants to Choreographers:_ Carol Haney,  
+Jeanne Coyne
+
+_Cast:_
+
+Gene Kelly _(Don Lockwood)_
+
+Donald O’Connor _(Cosmo Brown)_
+
+Debbie Reynolds _(Kathy Selden)_
+
+Jean Hagen _(Lina Lamont)_
+
+Millard Mitchell _(R.F. Simpson)_
+
+Cyd Charisse _(dancer in ballet)_
+
+Douglas Fowley _(Roscoe Dexter)_
+
+Rita Moreno _(Zelda Zanders)_
+
+_uncredited_
+
+Madge Blake _(Dora Bailey)_
+
+King Donovan _(Rod)_
+
+Kathleen Freeman
+
+_(Phoebe Dinsmore, diction coach)_
+
+Bobby Watson _(diction coach)_
+
+Tommy Farrell _(Sid Phillips, assistant director)_
+
+Jimmy Thompson
+
+_(male lead in ‘Beautiful Girl’ number)_
+
+Dan Foster _(assistant director)_
+
+Margaret Bert _(wardrobe woman)_
+
+Mae Clarke _(hairdresser)_
+
+Judy Landon _(Olga Mara)_
+
+John Dodsworth _(Baron de la Bouvet de la Toulon)_
+
+Stuart Holmes _(J.C. Spendrill III)_
+
+Dennis Ross _(Don as a boy)_
+
+Bill Lewin _(Bert, villain in western)_
+
+Richard Emory _(Phil, cowboy hero)_
+
+Julius Tannen _(man demonstrating talking pictures)_
+
+Dawn Addams _(Teresa, lady-in-waiting)_
+
+Elaine Stewart _(2nd lady-in-waiting)_
+
+Carl Milletaire _(villain in ‘The Duelling Cavalier’)_  
+Ben Strombach _(pilot in flying film)_  
+Tommy Walker _(footballer in film sequence)_  
+Jac George _(orchestra leader)_  
+Wilson Wood _(Rudy Vallee impersonator)_  
+Brick Sullivan _(cop in title number)_  
+Snub Pollard _(recipient of umbrella, title number)_  
+Paul Maxey _(sceptical party guest)_  
+Dorothy Patrick, William Lester, Joi Lansing _(spectators)_  
+Charles Evans _(irritated spectator)_  
+Dave Sharpe, Russ Saunders _(fencers)_  
+Patricia Denise, Jeanne Coyne, Joyce Horne _(dancers)_  
+Bill Chatham, Ernie Flatt, Don Hulbert, Robert Dayo _(male dancing quartet)_  
+David Kasday _(kid)_  
+Robert B. Williams _(traffic cop)_  
+Ray Teal _(employee)_  
+
+USA 1951©  
+103 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMjE1MTkxXX0=
+eyJoaXN0b3J5IjpbLTE1ODE0MDQyMzZdfQ==
 -->
