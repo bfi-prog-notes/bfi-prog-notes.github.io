@@ -7,12 +7,11 @@ readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Musical, Comedy]
 metadata: 'USA 1951, 103 mins<br> Directors: Gene Kelly, Stanley Donen'
-pdf: '2024-06-17-sunset-boulevard.pdf'
+pdf: '2024-07-01-singin-in-the-rain.pdf'
 ---
 
-It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.
-
-Heather Osborn, bfi.org.uk
+It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.  
+**Heather Osborn, bfi.org.uk
 
 The most enduring of the four MGM collaborations between Gene Kelly and his director and co-choreographer Stanley Donen, _Singin’ in the Rain_ rises ten places [in 2022’s _Sight and Sound_ poll] from 20th in 2012 to land in the top ten again. The film’s ascent almost feels like a given, due to the effervescence that may be its defining characteristic and the scarcity of that quality in our trying times.
 
@@ -128,5 +127,5 @@ USA 1951©
 103 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MjQ0MTQ3LC0xNTgxNDA0MjM2XX0=
+eyJoaXN0b3J5IjpbMTc5NjA0MDAzLC0xNTgxNDA0MjM2XX0=
 -->
