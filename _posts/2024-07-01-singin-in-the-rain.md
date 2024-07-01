@@ -32,10 +32,10 @@ My sisters loved American musicals and from that point on I did too. Obviously t
 
 Was there a point later on when I was able to look at _Singin’ in the Rain_ more analytically? Yes and no. There’s one level at which I can appreciate the way it’s been put together, particularly the writing and the performances, but it’s also very difficult not to be seduced by it, because if you love something and it’s had a profound effect on you, it’s very hard to be objective. For the film’s fiftieth anniversary I did a radio programme in which we analysed Gene Kelly’s famous dance sequence. But even when you see that perhaps Kelly overdoes the smile a bit, you say, ‘Oh, I’ll forgive this because it’s so perfect.’
 
-The overall structure is based on a wonderful and simple idea: the end of the silent era, the beginning of sound. Basically Adolph Breen and Betty Cornden were told by Arthur Freed, ‘Here are the songs I wrote [with Nacio Herb Brown] and I want to put them in a film’, and this is what they came up with. Jean Hagen saying, ‘Why, I make more money than Calvin Coolidge put together’ –it’s a joy from beginning to end.
+The overall structure is based on a wonderful and simple idea: the end of the silent era, the beginning of sound. Basically Adolph Breen and Betty Cornden were told by Arthur Freed, ‘Here are the songs I wrote [with Nacio Herb Brown] and I want to put them in a film’, and this is what they came up with. Jean Hagen saying, ‘Why, I make more money than Calvin Coolidge put together’ – it’s a joy from beginning to end.
 
 There are some films that have magic, either in their sheer entertainment value and bravura, or from something darker, as with Laughton’s _The Night of the Hunter_ or Hitchcock’s _Psycho_. _Singin’ in the Rain_ has an immense magic, and I think the title number is one of cinema’s great moments, as good as anything by Eisenstein, and a lot more entertaining.  
 **Terence Davies talking to Nick James, _Sight and Sound,_ September 2002**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI0ODc2M119
+eyJoaXN0b3J5IjpbOTUyMjE1MTkxXX0=
 -->
