@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Pierrot le fou
+published: true
+date: 2024-07-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1965, 110 mins<br> Director: Jean-Luc Godard'
+pdf: '2024-07-02-pierrot-le-fou.pdf'
+---
 
 It would be as hard to remake _Pierrot le fou_ as it would be to forget it. Somehow its rueful lovers have to be reconciled to changed times. The film is 44 years old now [at time of writing], which is older than the two central characters whose remains drift away in the sea and the sun. Many things have gone with those two – the Vietnam War, that particular type of sports car, the possibility of an audience that will understand when Ferdinand (Jean-Paul Belmondo) starts to do a Michel Simon imitation. But the last time I looked, the south of France was still there and it was still possible for escaping souls to go south ‘like spirits through a mirror’. If you drive your car into the ocean on an impulse today, there may spring up the brief arc of rainbow that crowned the spray in the summer of 1965. But is it the same rainbow?
 
@@ -27,7 +35,102 @@ So I still find it a great film, and a warning signal that romance and romantici
 Yes of course the rest is ‘interesting’ and valuable. But in the years 1960 to 1965 (very competitive years, let us admit), Godard was without equal at vamping old story forms with the bittersweet tone of the best pop music of the era. To this day, _Vivre sa vie_ and _Pierrot le fou_ find their form, their cutting and their way of seeing in the regret with which a horribly bright, learned noirist is drawn into the _plein soleil_ of summer cinema. This is why Godard always wore dark glasses – against the sun.  
 **David Thomson, _Sight and Sound_, May 2009**  
 <br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA2MzMzNjksODAzNzk4NjM1LDczMD
-k5ODExNl19
--->
+**PIERROT LE FOU**  
+_Director:_ Jean-Luc Godard  
+_Produced by:_ Rome-Paris Films, Paris,Société Nelle de Cinéma et Cinematografica S.p.A.  
+_Presented by:_ Société Nouvelle de Cinématographie, René Pignères, Gérard Beytout  
+_Photography by:_ Raoul Coutard  
+_Editing by:_ Françoise Colin  
+_Colour by:_ Eastmancolor  
+_Filmed in:_ Techniscope  
+_Laboratory:_ LTC  
+_Music by:_ Antoine Duhamel  
+_Sound:_ René Levert, Antoine Bonfanti  
+
+_uncredited_  
+_Production Companies:_ Productions Georges de Beauregard (Paris), Dino De Laurentiis Cinematografica (Rome)
+_Producer:_ Georges de Beauregard  
+_Production Manager:_ René Demoulin  
+_Assistant Directors:_ Philippe Fourastie, Jean-Pierre Léaud  
+_Written by:_ Jean-Luc Godard  
+_Based on the novel Obsession by:_ Lionel White  
+_Camera Operator:_ Georges Liron  
+_Art Director:_ Pierre Guffroy  
+
+**Cast**  
+Jean-Paul Belmondo _(Ferdinand Griffon)_  
+Anna Karina _(Marianne Renoir)_  
+
+_uncredited_  
+Dirk Sanders _(Frank, Marianne’s brother)_  
+Raymond Devos _(man on the pier)_  
+Graziella Galvani _(Ferdinand’s wife)_  
+Roger Dutoit, Hans Meyer _(gangsters)_  
+Jimmy Karoubi _(the dwarf)_  
+Christa Nell _(Madame Staquet)_  
+Pascal Aubier _(2nd brother)_  
+Pierre Hanin _(3rd brother)_  
+Princess Aicha Abidir _(herself)_  
+Samuel Fuller _(himself)_  
+Alexis Poliakoff _(sailor)_  
+László Szabó _(political exile from Santo Domingo)_  
+Jean-Pierre Léaud _(young man in cinema)_  
+
+France/Italy 1965  
+110 mins  
+Digital  
+<br>
+<br>
+**BIG SCREEN CLASSICS**   
+**Wild Strawberries** Smultronstället  
+Mon 1 Jul 11:50; Tue 9 Jul 20:50; Sun 21 Jul 14:20; Tue 30 Jul 18:20  
+**Point Blank**  
+Tue 2 Jul 12:20; Wed 17 Jul 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Jul 18:30  
+**Pierrot le fou**  
+Tue 2 Jul 18:10; Fri 12 Jul 20:40; Mon 15 Jul 12:10; Mon 29 Jul 20:45  
+**Taxi Driver**  
+Wed 3 Jul 17:50 (+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television); Sat 13 Jul 18:00; Tue 16 Jul 12:15; Tue 23 Jul 12:20  
+**The Passenger** Professione: reporter  
+Thu 4 Jul 20:40; Sat 6 Jul 12:00; Mon 15 Jul 18:10; Fri 19 Jul 12:20  
+**Au hasard Balthazar**  
+Fri 5 Jul 12:20; Wed 10 Jul 12:20; Fri 19 Jul 20:45; Wed 31 Jul 18:10 (+ intro)  
+**The English Patient**  
+Sat 6 Jul 17:15; Sun 21 Jul 19:20  
+**The Discreet Charm of the Bourgeoisie** Le Charme discret de la bourgeoisie  
+Sun 7 Jul 17:10; Thu 11 Jul 12:20; Sat 20 Jul 16:10  
+**Theorem** Teorema  
+Mon 8 Jul 12:20; Wed 10 Jul 18:15 (+ intro); Wed 17 Jul 12:30; Sun 28 Jul 20:30  
+**Gloria**  
+Sat 13 Jul 13:10; Tue 16 Jul 20:35; Sat 20 Jul 13:30; Tue 30 Jul 20:30  
+**Unforgiven**  
+Sun 14 Jul 19:50; Tue 23 Jul 20:30; Thu 25 Jul 14:40  
+**Bitter Victory**  
+Thu 18 Jul 20:45; Sun 28 Jul 12:00  
+**Daughters of the Dust**  
+Mon 22 Jul 12:20; Wed 24 Jul 18:10 (+ intro by Arike Oke, Executive Director of Knowledge, Learning and Collections); Sat 27 Jul 20:45  
+**F for Fake**  
+Mon 22 Jul 18:20; Wed 24 Jul 12:40; Fri 26 Jul 20:50
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
