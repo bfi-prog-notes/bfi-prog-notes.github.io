@@ -1,16 +1,24 @@
-
+---
+layout: post
+title: The Lighthouse
+published: true
+date: 2024-07-04
+readtime: true
+categories: ['RESTORED']
+tags: [Drama]
+metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
+pdf: '2024-07-03-taxi-driver.pdf'
+---
 
 
 _+ intro by Giulia Saccogna, Programme & Research Coordinator_
 
 Set on the fringes of an unspecified war, Lena returns home to an attractive and traditional mountain village in the Caucasus in an attempt to persuade her grandparents to leave. While the film deliberately avoids any specific reference to place, the fact that screenwriter Shavgulidze and director Saakyan come, respectively, from Abkhazia and Armenia, gives a clear indication of the film’s inspiration.
 
-This is a film that is, above all, a poetic reflection on memory and loss. A slow and languorous narrative focuses on a sense of place; of a world that remains in the imagination no matter how often one leaves or attempts to leave. The sense of leave-taking and return remain constant elements in a film that provides an unusual and lasting testimony. Reminiscent of some of the great films to have come from the Caucasus, its wider references are made apparent through the casting of Georgian actress Sofico Chiaurelli, who appeared in Paradzhanov’s _The Colour of Pomegranates_ and Armenian Sos Sarkisyan, who was in Tarkovsky’s _Solaris_.
+This is a film that is, above all, a poetic reflection on memory and loss. A slow and languorous narrative focuses on a sense of place; of a world that remains in the imagination no matter how often one leaves or attempts to leave. The sense of leave-taking and return remain constant elements in a film that provides an unusual and lasting testimony. Reminiscent of some of the great films to have come from the Caucasus, its wider references are made apparent through the casting of Georgian actress Sofico Chiaurelli, who appeared in Paradzhanov’s _The Colour of Pomegranates_ and Armenian Sos Sarkisyan, who was in Tarkovsky’s _Solaris_.  
+**Peter Hames, BFI 51st London Film Festival catalogue**  
 
-Peter Hames, BFI 51st London Film Festival catalogue
-
-**Maria Saakyan on ‘The Lighthouse’**
-
+**Maria Saakyan on ‘The Lighthouse’**  
 The Lighthouse _has a very interesting mixture of fiction with real events footage. The opening and closing scenes in particular, where did you find them?_
 
 The final footage is a real documentary, which I found in an archive. It portrays pieces from different wars, Chechnya, Abhasia, Armenia and they all look so similar, which is why we wanted to make the film about general Caucasus.
@@ -56,29 +64,18 @@ _The film is quite short, 78 minutes…_
 I cut a lot of scenes out as they just didn’t work and I had much more material than that but somehow it was too much of it.  
 **Interview by Kamila Kuc, bfi.org.uk/lff, 1 November 2007**  
 <br>
-**THE LIGHTHOUSE (MAYAK)**
+**THE LIGHTHOUSE (MAYAK)**  
+_Director:_ Maria Saakyan  
+_Production Company:_ Andreyevsky Flag Film Company  
+_Producer:_ Anton Melnik  
+_Screenplay:_ Ghivi Shavgulidze  
+_Director of Photography:_ Maksim Drozdov  
+_Editor:_ Maria Saakyan  
+_Art Director:_ Ivana Krchadinac  
+_Music:_ Kimmo Pohjonen  
 
-_Director:_ Maria Saakyan
-
-_Production Company:_
-
-Andreyevsky Flag Film Company
-
-_Producer:_ Anton Melnik
-
-_Screenplay:_ Ghivi Shavgulidze
-
-_Director of Photography:_ Maksim Drozdov
-
-_Editor:_ Maria Saakyan
-
-_Art Director:_ Ivana Krchadinac
-
-_Music:_ Kimmo Pohjonen
-
-_Cast:_
-
-Anna Kapaleva _(Lena)_ 
+**Cast**  
+Anna Kapaleva _(Lena)_  
 Sofico Chiaurelli _(Kasjana)_  
 Sos Sarkisyan _(grandfather)_  
 Olga Jakovleva _(grandmother)_  
@@ -96,5 +93,5 @@ Digital (restoration)
 
 Courtesy of Second Run  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mzg3ODU4Ml19
+eyJoaXN0b3J5IjpbLTExMzE2MzU1NjVdfQ==
 -->
