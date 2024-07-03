@@ -103,46 +103,28 @@ _Re-recording Supervisor:_ Tex Rudloff
 
 _Re-recording Mixers:_ Dick Alexander, Vern Poore
 
-_Cast:_
+**Cast**  
+Robert De Niro _(Travis Bickle)_  
+Jodie Foster _(Iris)_  
+Albert Brooks _(Tom)_  
+Harvey Keitel _(Sport)_  
+Leonard Harris _(Charles Palantine)_  
+Peter Boyle _(Wizard)_  
+Cybill Shepherd _(Betsy)_  
+Diahnne Abbot _(concession girl)_  
+Frank Adu _(angry black man)_  
+Vic Argo _(Melio)_  
+Gino Ardito _(policeman at rally)_  
+Garth Avery _(Iris’s friend)_  
+Norman Matlock _(Charlie T.)_  
+Steven Prince _(Andy, gun salesman)_  
+Martin Scorsese _(passenger watching silhouette)_  
 
-Robert De Niro _(Travis Bickle)_
-
-Jodie Foster _(Iris)_
-
-Albert Brooks _(Tom)_
-
-Harvey Keitel _(Sport)_
-
-Leonard Harris _(Charles Palantine)_
-
-Peter Boyle _(Wizard)_
-
-Cybill Shepherd _(Betsy)_
-
-Diahnne Abbot _(concession girl)_
-
-Frank Adu _(angry black man)_
-
-Vic Argo _(Melio)_
-
-Gino Ardito _(policeman at rally)_
-
-Garth Avery _(Iris’s friend)_
-
-Norman Matlock _(Charlie T.)_
-
-Steven Prince _(Andy, gun salesman)_
-
-Martin Scorsese _(passenger watching silhouette)_
-
-USA 1976©
-
-114 mins
-
-Digital 4K
-
+USA 1976©  
+114 mins  
+Digital 4K  
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzU0NTg3M119
+eyJoaXN0b3J5IjpbMTI1MDAzMjUwMV19
 -->
