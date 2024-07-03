@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pierrot le fou
+title: Taxi Driver
 published: true
-date: 2024-07-02
+date: 2024-07-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'France 1965, 110 mins<br> Director: Jean-Luc Godard'
-pdf: '2024-07-02-pierrot-le-fou.pdf'
+metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
+pdf: '2024-07-03-pierrot-le-fou.pdf'
 ---
 
 _+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television (Wednesday 3 July only)_
@@ -33,30 +33,18 @@ In case there’s anyone who doesn’t know, _Taxi Driver_ describes one stiflin
 The seemingly desultory narrative is rigorously divided into three acts. In the first, Travis’s rage is diffuse; he rides around in his cab, more a witness than a man of action. In the second, he finds a mission and an object for his rage. (‘One day, indistinguishable from the next, a long, continuous chain. And then, suddenly – there is change,’ he writes in his diary.) In the third, he puts his homicidal fantasies into action, taking aim at one father figure (the presidential candidate) and, when that attempt fails, turning his gun on another (Iris’s pimp Sport, played by Harvey Keitel). The carnage that ends _Taxi Driver_ is devastating, but it’s also voluptuous – as voluptuous as anything in American movies – and all the more so because of the sense of repression that pervades the film until this moment. The entire film has been built so that this eruption of violence would seem both inevitable and more horrific than anything we might have imagined.  
 **Extracted from _Taxi Driver_ by Amy Taubin (BFI Film Classics, 2nd edition, 2012). Reproduced by kind permission of Bloomsbury Publishing. ©Amy Taubin**  
 <br>
-**Taxi Driver**
-
-_Directed by:_ Martin Scorsese
-
-©: Columbia Pictures Industries, Inc.
-
-_a_ Bill/Phillips, Italo-Judeo _production_
-
-_Presented by:_ Columbia Pictures
-
-_Produced by:_ Michael Phillips, Julia Phillips
-
-_Associate Producer:_ Phillip M. Goldfarb
-
-_Creative Consultant:_ Sandra Weintraub
-
-_Assistant Director:_ Peter R. Scoppa
-
-_Script Supervisor:_ Kay Chapin
-
-_Casting:_ Juliet Taylor
-
-_Atmosphere Casting:_ Sylvia Faye
-
+**TAXI DRIVER**  
+_Directed by:_ Martin Scorsese  
+©: Columbia Pictures Industries, Inc.  
+_a_ Bill/Phillips, Italo-Judeo _production_  
+_Presented by:_ Columbia Pictures  
+_Produced by:_ Michael Phillips, Julia Phillips  
+_Associate Producer:_ Phillip M. Goldfarb  
+_Creative Consultant:_ Sandra Weintraub  
+_Assistant Director:_ Peter R. Scoppa  
+_Script Supervisor:_ Kay Chapin  
+_Casting:_ Juliet Taylor  
+_Atmosphere Casting:_ Sylvia Faye  
 _Written by:_ Paul Schrader  
 _Director of Photography:_ Michael Chapman  
 _2nd Unit Camera:_ Michael Zingale  
@@ -70,12 +58,9 @@ _Visual Consultant:_ David Nichols
 _Art Director:_ Charles Rosen  
 _Costume Designer:_ Ruth Morley  
 _Special Make-up:_ Dick Smith  
-_Make-up:_ Irving Buchman
-
-_Hairdresser:_ Mona Orr
-
-_Title Design:_ Dan Perri
-
+_Make-up:_ Irving Buchman  
+_Hairdresser:_ Mona Orr  
+_Title Design:_ Dan Perri  
 _Optical Effects & Colour Prints by:_ M.G.M.  
 _Music by:_ Bernard Herrmann  
 _Music Arrangers/Conductors:_ Dave Blume, Bernard Herrmann *  
@@ -106,5 +91,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE1MDY1ODEsMTI1MDAzMjUwMV19
+eyJoaXN0b3J5IjpbMTk3OTkxNjEwOSwxMjUwMDMyNTAxXX0=
 -->
