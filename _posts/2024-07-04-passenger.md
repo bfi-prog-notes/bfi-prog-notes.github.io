@@ -37,62 +37,33 @@ If the beginning of the movie is unforgettable, so is the ending: a seven-minute
 **THE PASSENGER (PROFESSIONE: REPORTER)**
 
 _Director:_ Michelangelo Antonioni
+_©/Production Company:_ Compagnia Cinematografica Champion  
+_Production Companies:_ Films Concordia (Paris), C.I.P.I. Cinematografica  
+_Presented by:_ Metro-Goldwyn-Mayer  
+_Executive Producer:_ Alessandro von Normann  
+_Producer:_ Carlo Ponti  
+_Production Manager:_ Ennio Onorati  
+_Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_ Leonard Gmür _(Germany)_  
+_Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico; Hercules Bellville _(England);_ Federico Canudas _(Spain);_ Ina Stritsche _(Germany)_  
+ _Continuity:_ Lisa Bellini  
+_Screenplay:_ Mark Peploe, Peter Wollen, Michelangelo Antonioni  
+_From a story by:_ Mark Peploe  
+_Director of Photography:_ Luciano Tovoli  
+_Camera Operator:_ Cesare Allione  
+_Assistant Camera:_ Michele Picciaredda, Franco Frazzi, Roberto Lombardi Dallamano  
+_Editors:_ Franco Arcalli, Michelangelo Antonioni  
+_Art Director:_ Piero Poletto  
+_Set Decorator:_ Osvaldo Desideri  
+_Costumes:_ Louise Stjernsward  
+_Make-up:_ Franco Freda  
+_Hairdresser:_ Adalgisa Favella  
+_Guitar Solo:_ Mario Jalenti  
+_Music Consultant:_ Ivan Vandor  
+_Sound Recording:_ Cyril Collick  
+_Sound Mixer:_ Fausto Ancillai  
+_Sound Editor:_ Franca Silvi  
 
-_©/Production Company:  
-_Compagnia Cinematografica Champion
-
-_Production Companies:_ Films Concordia (Paris),
-
-C.I.P.I. Cinematografica
-
-_Presented by:_ Metro-Goldwyn-Mayer
-
-_Executive Producer:_ Alessandro von Normann
-
-_Producer:_ Carlo Ponti
-
-_Production Manager:_ Ennio Onorati
-
-_Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_ Leonard Gmür _(Germany)_
-
-_Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico; Hercules Bellville _(England);_ Federico Canudas _(Spain);_ Ina Stritsche _(Germany)_
-
-_Continuity:_ Lisa Bellini
-
-_Screenplay:_ Mark Peploe, Peter Wollen, Michelangelo Antonioni
-
-_From a story by:_ Mark Peploe
-
-_Director of Photography:_ Luciano Tovoli
-
-_Camera Operator:_ Cesare Allione
-
-_Assistant Camera:_ Michele Picciaredda,  
-Franco Frazzi, Roberto Lombardi Dallamano
-
-_Editors:_ Franco Arcalli, Michelangelo Antonioni
-
-_Art Director:_ Piero Poletto
-
-_Set Decorator:_ Osvaldo Desideri
-
-_Costumes:_ Louise Stjernsward
-
-_Make-up:_ Franco Freda
-
-_Hairdresser:_ Adalgisa Favella
-
-_Guitar Solo:_ Mario Jalenti
-
-_Music Consultant:_ Ivan Vandor
-
-_Sound Recording:_ Cyril Collick
-
-_Sound Mixer:_ Fausto Ancillai
-
-_Sound Editor:_ Franca Silvi
-
-_Cast
+**Cast**  
 Jack Nicholson _(David Locke)_  
 Maria Schneider _(the girl)_  
 Jenny Runacre _(Rachel Locke)_  
@@ -110,5 +81,5 @@ Italy-France-Spain-USA 1974©
 126 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDAzNzMxN119
+eyJoaXN0b3J5IjpbMTQ0MTczMTU4XX0=
 -->
