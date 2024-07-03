@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Charme discret de la bourgeoisie
+title: Le Charme discret<br> de la bourgeoisie
 published: true
 date: 2024-07-07
 readtime: true
