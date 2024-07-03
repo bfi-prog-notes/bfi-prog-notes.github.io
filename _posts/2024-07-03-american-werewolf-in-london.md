@@ -39,121 +39,60 @@ Landis is understandably aggrieved by the sudden presence on the screen of full 
 Landis is full of praise for Rick Baker’s special effects wizardry (and indeed the metamorphosis is a remarkable piece of engineering) and for the British crew who made the film. But he insists that making movies today is no different from what it was in the heyday of the studio system. ‘Although individual people like Cedric Gibbons and Hans Dreier might have vanished from the huge studio art departments, the organisation and infrastructure has survived. In Hollywood, whatever you might need for a scene, from a 1961 lilac Studebaker to a trained animal, it’s there the next morning ready for work. The city authorities are very co-operative for location work. In England the situation is different. We had to be extremely persistent to shoot in Piccadilly Circus, where you literally have to rely on the goodwill of the bobby on the beat, and even things like trained animals are difficult to get. You end up using one of the crew’s pets and waste hours until it barks on cue. There is a myth, though, that you can achieve better special effects in Britain than you can in Hollywood. The truth is that you can get them cheaper in Britain, which is why _Star Wars_ and _Superman_ were based here.’  
 **Adrian Turner, _Sight and Sound_, Winter 1981-82**  
 <br>
-**AN AMERICAN WEREWOLF IN LONDON**
-
-_Directed by_: John Landis
-
-_©_: American Werewolf Inc
-
-_Production Company_: Lycanthrope Films Limited
-
-_Presented by_: PolyGram Pictures
-
-_Executive Producers_: Peter Guber, Jon Peters
-
-_Produced by_: George Folsey Jr
-
-_Production Manager_: Joyce Herlihy
-
-_Financial Administrator_: Sam Williams
-
-_Location Manager_: Ray Freeborn
-
-_Production Assistant_: Jennie Raglan
-
-_1st Assistant Director_: David Tringham
-
-_2nd Assistant Director_: Mike Murray
-
-_3rd Assistant Director_: Russell Lodge
-
-_Continuity_: Pamela Mann
-
-_Casting_: Debbie McWilliams
-
-_NY Casting_: Dee Dee Wehle
-
-_LA Casting_: Michael Chinich
-
-_Written by_: John Landis
-
-_Director of Photography_: Robert Paynter
-
-_Camera Operator_: David Garfath
-
-_Steadicam Operators_: Robin McDonald,
-
-Malcolm McIntosh
-
-_Focus_: Jeff Paynter
-
-_Clapper/Loader_: Michael Anderson
-
-_Gaffer_: Maurice Gillett
-
-_Grip_: Dennis Fraser
-
-_Stills_: Barry Peake
-
-_Special Effects_: Effects Associates Ltd.
-
-_Edited by_: Malcolm Campbell
-
-_Associate Editor_: Simon Battersby
-
-_Assistant Editors_: Steve Maguire, Clive Hartley, Anna Ksiezopolska
-
-_Art Director_: Leslie Dilley
-
-_Set Dresser_: Simon Wakefield
-
-_Prop Buyer_: Sidney Palmer
-
-_Property Master_: Dave Jordan
-
-_Construction Manager_: Len Furey
-
-_Costumes Designed by_: Deborah Nadoolman
-
-_Wardrobe Master_: Ian Hickinbotham
-
-_Men’s Wardrobe_: Keith Morton
-
-_Women’s Wardrobe_: Sue Wain
-
-_Make-up_: Robin Grantham, Beryl Lerman
-
-_Special Make-Up Effects Designed and Created by_: Rick Baker
-
-_Special Make-up Effects Crew_: Elaine Baker,
-
-Doug Beswick, Kevin Brennan, Tom Hester,
-
-Steve Johnson, Sean McEnrow, Joe Ross,
-
-Bill Sturgeon
-
-_Hairdresser_: Barry Richardson
-
-_Opticals & Titles_: Camera Effects
-
-_Original Music by_: Elmer Bernstein
-
-_Music Played by_: The Royal Philharmonic Orchestra
-
-_Conducted by_: Elmer Bernstein
-
-_Music Editor_: Michael Clifford
-
-_Sound Mixer_: Ivan Sharrock
-
-_Sound Assistant_: Don Banks
-
-_Boom Operator_: Ken Weston
-
-_Dubbing Mixer_: Gerry Humphreys
-
-_Sound Editors_: John Poyner, Don Sharpe 
+**AN AMERICAN WEREWOLF IN LONDON**  
+_Directed by_: John Landis  
+_©_: American Werewolf Inc  
+_Production Company_: Lycanthrope Films Limited  
+_Presented by_: PolyGram Pictures  
+_Executive Producers_: Peter Guber, Jon Peters  
+_Produced by_: George Folsey Jr  
+_Production Manager_: Joyce Herlihy  
+_Financial Administrator_: Sam Williams  
+_Location Manager_: Ray Freeborn  
+_Production Assistant_: Jennie Raglan  
+_1st Assistant Director_: David Tringham  
+_2nd Assistant Director_: Mike Murray  
+_3rd Assistant Director_: Russell Lodge  
+_Continuity_: Pamela Mann  
+_Casting_: Debbie McWilliams  
+_NY Casting_: Dee Dee Wehle  
+_LA Casting_: Michael Chinich  
+_Written by_: John Landis  
+_Director of Photography_: Robert Paynter  
+_Camera Operator_: David Garfath  
+_Steadicam Operators_: Robin McDonald, Malcolm McIntosh  
+_Focus_: Jeff Paynter  
+_Clapper/Loader_: Michael Anderson  
+_Gaffer_: Maurice Gillett  
+_Grip_: Dennis Fraser  
+_Stills_: Barry Peake  
+_Special Effects_: Effects Associates Ltd.  
+_Edited by_: Malcolm Campbell  
+_Associate Editor_: Simon Battersby  
+_Assistant Editors_: Steve Maguire, Clive Hartley, Anna Ksiezopolska  
+_Art Director_: Leslie Dilley  
+_Set Dresser_: Simon Wakefield  
+_Prop Buyer_: Sidney Palmer  
+_Property Master_: Dave Jordan  
+_Construction Manager_: Len Furey  
+_Costumes Designed by_: Deborah Nadoolman  
+_Wardrobe Master_: Ian Hickinbotham  
+_Men’s Wardrobe_: Keith Morton  
+_Women’s Wardrobe_: Sue Wain  
+_Make-up_: Robin Grantham, Beryl Lerman  
+_Special Make-Up Effects Designed and Created by_: Rick Baker  
+_Special Make-up Effects Crew_: Elaine Baker, Doug Beswick, Kevin Brennan, Tom Hester, Steve Johnson, Sean McEnrow, Joe Ross, Bill Sturgeon  
+_Hairdresser_: Barry Richardson  
+_Opticals & Titles_: Camera Effects  
+_Original Music by_: Elmer Bernstein  
+_Music Played by_: The Royal Philharmonic Orchestra  
+_Conducted by_: Elmer Bernstein  
+_Music Editor_: Michael Clifford  
+_Sound Mixer_: Ivan Sharrock  
+_Sound Assistant_: Don Banks  
+_Boom Operator_: Ken Weston  
+_Dubbing Mixer_: Gerry Humphreys  
+_Sound Editors_: John Poyner, Don Sharpe  
 _Foley_: Tony Lenny  
 _Stunt Gaffer_: Alf Joint  
 _Action Vehicle Co-ordinator_: Dave Bickers  
@@ -217,5 +156,5 @@ USA/UK 1981©
 97 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU0NTQwNzhdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc1ODkyMThdfQ==
 -->
