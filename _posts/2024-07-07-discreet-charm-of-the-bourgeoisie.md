@@ -85,80 +85,44 @@ _Assistant Decorator:_ Albert Rajau
 
 _Furniture:_ Knoll
 
-_Chairs:_ Steiner
+_Chairs:_ Steiner  
+_Furniture:_ Neff-Dami  
+_Table Decoration:_ Snaidero  
+_Gold/Silver:_ Christofle  
+_Properties:_ François Sune  
+_Costumes:_ Jacqueline Guyot  
+_Assisted by:_ Olympe Watelle  
+_D. Seyrig’s Wardrobe by:_ Jean Patou  
+_Furs:_ Henri Stern  
+_Make-up:_ Odette Berroyer, Fernande Hugi  
+_Hairstyles:_ Lorca  
+_Titles:_ CTR  
+_Laboratory:_ GTC  
+_Music Edited by:_ Galaxie Musique  
+_Sound Recording:_ Guy Villette  
+_Assisted by:_ Daniel Brisseau  
+_Sound Mixing:_ Jacques Carrère  
+_Assisted by:_ Claude Villand  
+_Sound Re-recording:_ J. Porel  
+_Sound Effects:_ Luis Buñuel  
+_Studio/Auditorium:_ Paris Studios Billancourt  
 
-_Furniture:_ Neff-Dami
-
-_Table Decoration:_ Snaidero
-
-_Gold/Silver:_ Christofle
-
-_Properties:_ François Sune
-
-_Costumes:_ Jacqueline Guyot
-
-_Assisted by:_ Olympe Watelle
-
-_D. Seyrig’s Wardrobe by:_ Jean Patou
-
-_Furs:_ Henri Stern
-
-_Make-up:_ Odette Berroyer, Fernande Hugi
-
-_Hairstyles:_ Lorca
-
-_Titles:_ CTR
-
-_Laboratory:_ GTC
-
-_Music Edited by:_ Galaxie Musique
-
-_Sound Recording:_ Guy Villette
-
-_Assisted by:_ Daniel Brisseau
-
-_Sound Mixing:_ Jacques Carrère
-
-_Assisted by:_ Claude Villand
-
-_Sound Re-recording:_ J. Porel
-
-_Sound Effects:_ Luis Buñuel
-
-_Studio/Auditorium:_ Paris Studios Billancourt
-
-_Cast:_
-
-Fernando Rey _(Rafael de Acosta, the ambassador)_
-
-Paul Frankeur _(François Thévenot)_
-
-Delphine Seyrig _(Simone Thévenot)_
-
-Bulle Ogier _(Florence)_
-
-Stéphane Audran _(Alice Sénéchal)_
-
-Jean-Pierre Cassel _(Henri Sénéchal, businessman)_
-
-Julien Bertheau _(Monsieur Dufour, bishop)_
-
-Miléna Vukotic _(Inés, Sénéchal’s maid)_
-
-Maria Gabriella Maione _(terrorist girl)_
-
-Claude Piéplu _(colonel)_
-
-Muni _(peasant woman)_
-
-Pierre Maguelon _(chief of police)_
-
-François Maistre _(Superintendent Deplus)_
-
-Michel Piccoli _(home secretary)_
-
-Ellen Bahl
-
+**Cast**  
+Fernando Rey _(Rafael de Acosta, the ambassador)_  
+Paul Frankeur _(François Thévenot)_  
+Delphine Seyrig _(Simone Thévenot)_  
+Bulle Ogier _(Florence)_  
+Stéphane Audran _(Alice Sénéchal)_  
+Jean-Pierre Cassel _(Henri Sénéchal, businessman)_  
+Julien Bertheau _(Monsieur Dufour, bishop)_  
+Miléna Vukotic _(Inés, Sénéchal’s maid)_  
+Maria Gabriella Maione _(terrorist girl)_  
+Claude Piéplu _(colonel)_  
+Muni _(peasant woman)_  
+Pierre Maguelon _(chief of police)_  
+François Maistre _(Superintendent Deplus)_  
+Michel Piccoli _(home secretary)_  
+Ellen Bahl  
 Christian Baltauss  
 Olivier Bauchet  
 Robert Benoît  
@@ -185,5 +149,5 @@ France-Italy-Spain 1972©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODg2OTA0MV19
+eyJoaXN0b3J5IjpbMTAzNjM5NDQ0OV19
 -->
