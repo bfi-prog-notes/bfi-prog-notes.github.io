@@ -6,8 +6,8 @@ date: 2024-07-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Comedy]
-metadata: 'France/Sweden 1966, 95 mins<br> Director: Robert Bresson'
-pdf: '2024-07-05-au-hasard-balthazar.pdf'
+metadata: 'France-Italy-Spain 1972, 101 mins<br> Director: Luis Buñuel'
+pdf: '2024-07-07-charme-discret-de-la-bourgeoisie.pdf'
 ---
 
 **A contemporary review**  
@@ -174,5 +174,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTQzMDU3N119
+eyJoaXN0b3J5IjpbLTE3OTQyNzVdfQ==
 -->
