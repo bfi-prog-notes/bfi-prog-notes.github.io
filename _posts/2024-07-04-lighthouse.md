@@ -30,7 +30,7 @@ _This scene is amazing. This couple is dancing to the sound of shooting, which w
 
 This was a present from Artavazd Peleshian. This fragment appears in one of his films, which he made out of found footage. And then he gave it to me.
 
-_This is your debut feature and you made a short film before,_ Farewell_. How did you come to make films?_
+_This is your debut feature and you made a short film before,_ Farewell. _How did you come to make films?_
 
 You know about my short film, that’s great! I finished VGIK [Russian Film Institute in Moscow] and graduated in 2003 with that film. Then I decided to make a feature but I actually prefer _Farewell_ to _The Lighthouse_…
 
@@ -86,11 +86,29 @@ Armenia/Russia 2007
 78 mins  
 Digital (restoration)  
 
-  
 
 2K restoration within the framework of the Hamo Bek-Nazarov Project, approved by the film’s cinematographer Maksim Drozdov, with support from Kino Klassika and Fixafilm.  
 
 Courtesy of Second Run  
+<br>
+
+**REGULAR PROGRAMME**
+
+  
+
+**Restored: The Lighthouse** Mayak **+ intro by Giulia Saccogna, Programme & Research Coordinator**
+
+Thu 4 Jul 18:20
+
+**Silent Cinema: The Light of Asia + intro by Cary Rajinder Sawhney, Director of London Indian Film Festival**
+
+Sun 7 Jul 15:10
+**Projecting the Archive: Action for Slander + intro by Josephine Botting, BFI National Archive Curator**  
+Tue 23 Jul 18:15  
+**Experimenta: Snakeskin + intro by by Hyun Jin Cho, BFI London Film Festival programmer**  
+Thu 25 Jul 18:20  
+**Relaxed Screenings: Eraserhead** + intro and discussion  
+Mon 29 Jul 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NTczNzYwXX0=
+eyJoaXN0b3J5IjpbLTIwODY3MjE2MDBdfQ==
 -->
