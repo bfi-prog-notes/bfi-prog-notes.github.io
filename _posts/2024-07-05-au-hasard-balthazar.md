@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: The Passenger
+published: true
+date: 2024-07-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy-France-Spain-USA 1974, 126 mins<br> Director: Michelangelo Antonioni'
+pdf: '2024-07-04-passenger.pdf'
+---
 
 _+ intro by Lou Thomas, BFI Digital Production Editor and film critic (Wednesday 31 July only)_
 
@@ -139,5 +148,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODUwNzQzOF19
+eyJoaXN0b3J5IjpbLTEzMTc1Nzk4MDZdfQ==
 -->
