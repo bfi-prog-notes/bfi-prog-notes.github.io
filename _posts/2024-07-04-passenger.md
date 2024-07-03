@@ -19,8 +19,7 @@ As so often with Antonioni, it’s a film that poses far more questions than it 
 It’s a premise that could play out as farce or melodrama (cf Robert Hamer’s  
 _The Scapegoat_, 1958; or Rainer Werner Fassbinder’s _Despair_, 1978). But with Antonioni we’re in for something cooler and more dispassionate, with his trademark narrative reticence and his camera that always observes, often at a distance, but never identifies with any of the characters.
 
-_The Passenger_ was Antonioni’s third English language film for MGM, after  
-_Blow-Up_ (1967) and _Zabriskie Point_ (1970). _Zabriskie Point_ in particular has dated, but this one not at all. It includes the first screenwriting credit of film theorist and director Peter Wollen, probably best-known for his 1969 book  
+_The Passenger_ was Antonioni’s third English language film for MGM, after _Blow-Up_ (1967) and _Zabriskie Point_ (1970). _Zabriskie Point_ in particular has dated, but this one not at all. It includes the first screenwriting credit of film theorist and director Peter Wollen, probably best-known for his 1969 book  
 _Signs and Meaning in the Cinema_. Aptly enough, _The Passenger_ is full of signs and meanings, though just what the signs mean isn’t always so clear.
 
 Jack Nicholson called _The Passenger_ ‘the biggest adventure in filming that I ever had in my life’. This was around the time he was making _The Last Detail_ (1973) and _One Flew over the Cuckoo’s Nest_ (1975), but here he gives a downbeat, almost subdued portrayal – far from what we think of as a typical grinning ‘Jack the Lad’ performance. ‘To Antonioni,’ he observed, ‘actors are moving space.’
@@ -144,5 +143,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjA1OTkwNl19
+eyJoaXN0b3J5IjpbNjY2MTQ0ODcwLC00MjIwNTk5MDZdfQ==
 -->
