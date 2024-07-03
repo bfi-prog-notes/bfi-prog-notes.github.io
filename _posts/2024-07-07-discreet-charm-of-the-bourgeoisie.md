@@ -159,37 +159,22 @@ Michel Piccoli _(home secretary)_
 
 Ellen Bahl
 
-Christian Baltauss
-
-Olivier Bauchet
-
-Robert Benoît
-
-Anne-Marie Deschott
-
-Michel Dhermay
-
-Georges Douking _(the dying gardener)_
-
-Jean Degrave
-
-Sébastien Floche
-
-François Guilloteau
-
-Claude Jaeger
-
-Jean-Claude Jarry
-
-Pierre Lary
-
-Robert Le Béal _(tailor)_
-
-Alix Mahieux
-
-Bernard Musson _(manservant)_
-
-Maxence Mailfort  _(the sergeant who recounts his dream)_  
+Christian Baltauss  
+Olivier Bauchet  
+Robert Benoît  
+Anne-Marie Deschott  
+Michel Dhermay  
+Georges Douking _(the dying gardener)_  
+Jean Degrave  
+Sébastien Floche  
+François Guilloteau  
+Claude Jaeger  
+Jean-Claude Jarry  
+Pierre Lary  
+Robert Le Béal _(tailor)_  
+Alix Mahieux  
+Bernard Musson _(manservant)_  
+Maxence Mailfort _(the sergeant who recounts his dream)_  
 Robert Party  
 Jean Revel  
 Jacques Rispal  
@@ -200,5 +185,5 @@ France-Italy-Spain 1972©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUxNDg1NTFdfQ==
+eyJoaXN0b3J5IjpbLTUzODg2OTA0MV19
 -->
