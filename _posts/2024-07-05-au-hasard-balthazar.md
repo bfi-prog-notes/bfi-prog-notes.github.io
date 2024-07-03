@@ -27,6 +27,68 @@ Already Bresson has introduced the main themes from his concerto for donkey and 
 In a cinema still struggling to find expression, Bresson’s work soars like the spire of a cathedral. Yielding nothing, accepting no compromise, he makes his own grace – and his own isolation. After _Balthazar_, we know that only Bresson can make us sense the ineffable, see the invisible, touch the intangible.  
 **Gilles Jacob, _Sight and Sound_, Winter 1966-67**  
 <br>
+**AU HASARD BALTHAZAR**
+
+_Director:_ Robert Bresson  
+_Production Companies:_ Parc Film, Argos-Films, Athos-Films, Svensk Filmindustri,
+
+Svenska Filminstitutet  
+_Associate Producer:_ Mag Bodard  
+_Production Manager:_ Philippe Dussart  
+_Assistant Production Managers:_ Michel Choquet, René Pascal  
+_Location Manager:_ Maurice Jumeau  
+_Assistant Directors:_ Jacques Kebadian,
+
+Sven Frostenson, Claude Miller  
+_Script Supervisor:_ Geneviève Cortier  
+_Screenplay:_ Robert Bresson  
+_Director of Photography:_ Ghislain Cloquet  
+_Camera Operator:_ Jean Chiabaut  
+_Assistant Operator:_ Emmanuel Machuel  
+_Supervising Editor:_ Raymond Lamy  
+_Editor:_ Geneviève Billo  
+_Art Director:_ Pierre Charbonnier  
+_Set Decorator:_ Dominique Ribeyrolles  
+_Props:_ Jean Catala  
+_Dresser:_ Guy Renault  
+Sonate No 20 _by_ _Franz Schubert performed on piano by:_ Jean-Joël Barbier  
+_Jazz/Songs:_ Jean Wiener  
+_Sound Engineers:_ Antoine Archimbaud, Jacques Carrère  
+
+**Cast**  
+Anne Wiazemsky _(Marie)_  
+Walter Green _(Jacques)_  
+François Lafarge _(Gérard)_  
+Jean-Claude Guilbert _(Arnold)_  
+Philippe Asselin _(schoolteacher)_  
+Pierre Klossowsky _(the miser)_  
+Nathalie Joyaut _(Marie’s mother)_  
+Marie-Claire Frémont _(the baker’s wife)_  
+Jean-Joël Barbier _(le doyen)_  
+Guy Renault  
+Jean Rémignard _(the notary)_  
+Guy Bréjac _(the vet)_  
+Mylène Weyergans _(the nurse)_  
+Jacques Sorbets _(police captain)_  
+François Sullerot _(the baker)_  
+Henri Fraisse  
+Gilles Sandier  
+Dominique Moune  
+Tord Paag _(Louis)_  
+René Bazart  
+Pascale Savornin  
+Isabelle Petit  
+Roger Fjellstrom _(Gérard’s friend)_  
+Isabelle de Winter  
+Sven Frostenson _(Gérard’s friend)_  
+José Ruiz Pernias  
+Rémy Brozeck _(Marcel)_ *  
+
+France/Sweden 1966  
+95 mins  
+Digital 4K  
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODgzMzIwXX0=
+eyJoaXN0b3J5IjpbNjA1NTc3NTE4XX0=
 -->
