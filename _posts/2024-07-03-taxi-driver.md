@@ -7,16 +7,15 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
-pdf: '2024-07-03-taxi-driver'
+pdf: '2024-07-03-taxi-driver.pdf'
 ---
 
 _+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television (Wednesday 3 July only)_
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-New York in the 1970s as seen through the rabid eyes of disillusioned Vietnam veteran Travis Bickle (De Niro), working nights as a taxi-driver and increasingly determined to clear the streets of the moral turpitude he believes is overtaking the city. Scorsese’s film is a deeply unsettling foray into a poisoned mind, reflected both in Michael Chapman’s infernal imagery and in Bernard Herrmann’s expressive score.
-
-bfi.org.uk
+New York in the 1970s as seen through the rabid eyes of disillusioned Vietnam veteran Travis Bickle (De Niro), working nights as a taxi-driver and increasingly determined to clear the streets of the moral turpitude he believes is overtaking the city. Scorsese’s film is a deeply unsettling foray into a poisoned mind, reflected both in Michael Chapman’s infernal imagery and in Bernard Herrmann’s expressive score.  
+**bfi.org.uk**  
 
 Perhaps the place to begin is with John Hinckley III, the man who, in 1981, tried to kill President Ronald Reagan so that, as the defence explained at his trial, ‘he could effect a mystical union with Jodie Foster’, the actress who played a preteen prostitute in Martin Scorsese’s _Taxi Driver_ and who, at the time of Hinckley’s assassination attempt, was a freshman at Yale University. Hinckley’s action assured _Taxi Driver_ a privileged position in cultural history, making it the only film to inspire directly a presidential assassination attempt. That the assassination failed is only fitting, since _Taxi Driver_ is a film steeped in failure – the US failure in Vietnam, the failure of the 1960s counterculture and, most unnerving, at least to 49 per cent of the population, the failure of masculinity as a set of behavioural codes on which to mould a life.
 
@@ -91,6 +90,6 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA3NzI5MzQsLTkzNzUxMDM4NiwxMj
-UwMDMyNTAxXX0=
+eyJoaXN0b3J5IjpbMTk5ODU1NDE1NiwtOTM3NTEwMzg2LDEyNT
+AwMzI1MDFdfQ==
 -->
