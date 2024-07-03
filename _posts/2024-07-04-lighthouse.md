@@ -6,10 +6,9 @@ date: 2024-07-04
 readtime: true
 categories: ['RESTORED']
 tags: [Drama]
-metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
-pdf: '2024-07-03-taxi-driver.pdf'
+metadata: 'Armenia/Russia 2007, 78 mins<br> Director: Maria Saakyan'
+pdf: '2024-07-04-lighthouse.pdf'
 ---
-
 
 _+ intro by Giulia Saccogna, Programme & Research Coordinator_
 
@@ -93,5 +92,5 @@ Digital (restoration)
 
 Courtesy of Second Run  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE2MzU1NjVdfQ==
+eyJoaXN0b3J5IjpbODE5NTczNzYwXX0=
 -->
