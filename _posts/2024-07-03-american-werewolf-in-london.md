@@ -19,9 +19,8 @@ Sophomore humour appeals, if at all, simply because it is sophomoric; thus, ther
 
 Landis ends _An American Werewolf in London_ with a title card congratulating the Prince and Princess of Wales on their marriage; and hovering above the preceding action is a feeling that it is taking place in a cinematic country of the imagination not far removed from tourist Britain. Trafalgar Square, Tower Bridge, the Zoo and Piccadilly Circus are all used, and all perceptibly draw attention to themselves. What is refreshing, however, about the film’s ambience is that these British clichés are neither extended nor dwelt on. The Eros cinema in Piccadilly where the climactic transformation occurs is showing an authentic (though specially made) piece of homegrown tat titled _See You Next Wednesday_; the pub on the moors, filled with catatonic locals, has a sort of four-square reality, despite the pentangle scratched on the wall flanked by two immense prop-shop candles; the hospital employs an Indian porter, who is inevitably parodied but not, thankfully, in the usual oh-by-golly fashion. It takes perhaps a percipient outsider to bring off such a cockeyed view of Britain’s national monuments. Nurse Jenny Agutter is also something of a surprise, sustaining herself through the watches of the night (in what might have been a tiresome literary plant, but isn’t) with Mark Twain, and displaying both pity and love for the luckless David which just hints, intriguingly, at a deeper tragedy.
 
-John Landis’ other achievement is to have successfully grafted on elements from his previous work. The young Americans are straight out of _Animal House_’s Faber College, at heart sublimely self-concerned and enthusiastically naive. Entering the Slaughtered Lamb, East Procter’s pub, they settle for a pot of tea when coldly informed that there isn’t anything to eat and cocoa isn’t served. Furthermore, this open quality – David Naughton first made his mark extolling a soft drink in an American TV advertisement – is carefully integrated with the plot. Jack returns ashen, with half his neck missing (at each appearance his putrefaction has advanced), and addresses David in his customary sing-song voice as if nothing really untoward had occurred: his death is a misfortune of the same order as his scuppered chances of bedding the girl he has been pursuing. The film is enhanced by uniformly careful casting in the secondary roles (John Woodvine as Hirsch, and Brian Glover as the chief stone-waller in the Slaughtered Lamb), and no one is allowed to run away with his tempting part. Mention must also be made of Rick Baker’s werewolf make-up (recently seen to great effect in _The Howling_): hair sprouts, hands elongate, claws shoot forth, and a backbone metamorphoses with the sort of effortless expertise that makes one, quite properly, forget the artistry.
-
-John Pym, _Monthly Film Bulletin_, November 1981
+John Landis’ other achievement is to have successfully grafted on elements from his previous work. The young Americans are straight out of _Animal House_’s Faber College, at heart sublimely self-concerned and enthusiastically naive. Entering the Slaughtered Lamb, East Procter’s pub, they settle for a pot of tea when coldly informed that there isn’t anything to eat and cocoa isn’t served. Furthermore, this open quality – David Naughton first made his mark extolling a soft drink in an American TV advertisement – is carefully integrated with the plot. Jack returns ashen, with half his neck missing (at each appearance his putrefaction has advanced), and addresses David in his customary sing-song voice as if nothing really untoward had occurred: his death is a misfortune of the same order as his scuppered chances of bedding the girl he has been pursuing. The film is enhanced by uniformly careful casting in the secondary roles (John Woodvine as Hirsch, and Brian Glover as the chief stone-waller in the Slaughtered Lamb), and no one is allowed to run away with his tempting part. Mention must also be made of Rick Baker’s werewolf make-up (recently seen to great effect in _The Howling_): hair sprouts, hands elongate, claws shoot forth, and a backbone metamorphoses with the sort of effortless expertise that makes one, quite properly, forget the artistry.  
+**John Pym, _Monthly Film Bulletin_, November 1981**  
 
 A meeting or a lunch or a phone conversation with John Landis is an effective way of appreciating how self-confidence in Hollywood inevitably leads to success. Landis sports an old Beatle-style haircut and a thick beard and fires rapid, well-formed sentences at his interviewers, invariably before the question has been fully articulated. But Landis, who had to wait eleven years to make  
 _An American Werewolf in London_, doesn’t strike one as an impatient man; he’s simply buoyed up with enthusiasm and it makes one wonder if a box-office catastrophe might prove too unsettling.
@@ -153,6 +152,30 @@ John Altman, Keith Hodiak, John Owens, Roger Rowland _(assorted police)_
 USA/UK 1981©  
 97 mins  
 Digital  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc4Mjc1NF19
+eyJoaXN0b3J5IjpbNjYxNjg5MDkzXX0=
 -->
