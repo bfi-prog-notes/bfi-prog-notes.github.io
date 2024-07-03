@@ -1,15 +1,14 @@
 ---
 layout: post
-title: _Le Charme discret de la bourgeoisie
+title: Le Charme discret de la bourgeoisie
 published: true
 date: 2024-07-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
+tags: [Comedy]
 metadata: 'France/Sweden 1966, 95 mins<br> Director: Robert Bresson'
 pdf: '2024-07-05-au-hasard-balthazar.pdf'
 ---
-
 
 **A contemporary review**  
 If _Le Charme discret de la bourgeoisie_ registers as the funniest Buñuel film since _L’Age d’or_, probably the most relaxed and controlled film he has ever made, and arguably the first contemporary, global masterpiece to have come from France in the Seventies, this is chiefly because he has arrived at a form that covers his full range, permits him to say anything – a form that literally and figuratively lets him get away with murder. One cannot exactly call his new work a bolt from the blue. But its remarkable achievement is to weld together an assortment of his favourite themes, images and parlour tricks into a discourse that is essentially new. Luring us into the deceptive charms of narrative as well as those of his characters, he undermines the stability of both attractions by turning interruption into the basis of his art, keeping us aloft on the sheer exuberance of his amusement.
@@ -27,6 +26,179 @@ Undoubtedly a great deal of credit for the dialogue of _Le Charme discret_ shoul
 A few years ago, Godard remarked of _Belle de Jour_ that Buñuel seemed to be playing the cinema the way Bach played the organ. The happy news of _Le Charme discret_ is that while most of the serious French cinema at present – Godard included – seems to be hard at work performing painful duties, the Old Master is still playing – effortlessly, freely, without fluffing a note.  
 **Jonathan Rosenbaum, _Sight and Sound_, Winter 1972/3**  
 <br>
+**THE DISCREET CHARM OF THE BOURGEOISIE**
+
+**(LE CHARME DISCRET DE LA BOURGEOISIE)**
+
+_Director:_ Luis Buñuel
+
+©_/Production:_ Greenwich Film Production
+
+_Uncredited Production Companies:_  
+Dean Film, Jet Films, Madrid
+
+_Presented by/A film produced by:_ Serge Silberman
+
+_Accounting Administrator:_ Jacqueline Oblin
+
+_Production Manager:_ Ully Pickard
+
+_Unit Production Manager:_ Jean Lara
+
+_Assisted by:_ Jean-Jacques Schpoliansky
+
+_Location Manager:_ Pierre Lefait
+
+_Assisted by:_ Jean Revel
+
+_Administrator:_ Jacqueline Dudilleux
+
+_Production Secretary:_ Marie-Jane Ruel
+
+_Assistant Directors:_ Pierre Lary, Arnie Gelbart
+
+_Script Girl:_ Suzanne Durrenberger
+
+_Scenario:_ Luis Buñuel
+
+_With the collaboration of:_ Jean-Claude Carrière
+
+_Director of Photography:_ Edmond Richard
+
+_Camera Operator:_ Bernard Noisette
+
+_Camera Assistants:_ André Clément, Alain Herpe
+
+_Key Grip:_ René Menuset
+
+_Gaffer:_ Marcel Policard
+
+_Stills Photography:_ Yves Manciet
+
+_Editor:_ Hélène Plemiannikov
+
+_Assisted by:_ Gina Pignier
+
+_Art Director:_ Pierre Guffroy
+
+_Assistant Decorator:_ Albert Rajau
+
+_Furniture:_ Knoll
+
+_Chairs:_ Steiner
+
+_Furniture:_ Neff-Dami
+
+_Table Decoration:_ Snaidero
+
+_Gold/Silver:_ Christofle
+
+_Properties:_ François Sune
+
+_Costumes:_ Jacqueline Guyot
+
+_Assisted by:_ Olympe Watelle
+
+_D. Seyrig’s Wardrobe by:_ Jean Patou
+
+_Furs:_ Henri Stern
+
+_Make-up:_ Odette Berroyer, Fernande Hugi
+
+_Hairstyles:_ Lorca
+
+_Titles:_ CTR
+
+_Laboratory:_ GTC
+
+_Music Edited by:_ Galaxie Musique
+
+_Sound Recording:_ Guy Villette
+
+_Assisted by:_ Daniel Brisseau
+
+_Sound Mixing:_ Jacques Carrère
+
+_Assisted by:_ Claude Villand
+
+_Sound Re-recording:_ J. Porel
+
+_Sound Effects:_ Luis Buñuel
+
+_Studio/Auditorium:_ Paris Studios Billancourt
+
+_Cast:_
+
+Fernando Rey _(Rafael de Acosta, the ambassador)_
+
+Paul Frankeur _(François Thévenot)_
+
+Delphine Seyrig _(Simone Thévenot)_
+
+Bulle Ogier _(Florence)_
+
+Stéphane Audran _(Alice Sénéchal)_
+
+Jean-Pierre Cassel _(Henri Sénéchal, businessman)_
+
+Julien Bertheau _(Monsieur Dufour, bishop)_
+
+Miléna Vukotic _(Inés, Sénéchal’s maid)_
+
+Maria Gabriella Maione _(terrorist girl)_
+
+Claude Piéplu _(colonel)_
+
+Muni _(peasant woman)_
+
+Pierre Maguelon _(chief of police)_
+
+François Maistre _(Superintendent Deplus)_
+
+Michel Piccoli _(home secretary)_
+
+Ellen Bahl
+
+Christian Baltauss
+
+Olivier Bauchet
+
+Robert Benoît
+
+Anne-Marie Deschott
+
+Michel Dhermay
+
+Georges Douking _(the dying gardener)_
+
+Jean Degrave
+
+Sébastien Floche
+
+François Guilloteau
+
+Claude Jaeger
+
+Jean-Claude Jarry
+
+Pierre Lary
+
+Robert Le Béal _(tailor)_
+
+Alix Mahieux
+
+Bernard Musson _(manservant)_
+
+Maxence Mailfort  _(the sergeant who recounts his dream)_  
+Robert Party  
+Jean Revel  
+Jacques Rispal  
+Amparo Soler-Leal  
+Diane Vernon  
+
+France-Italy-Spain 1972©  
+101 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA3MzUwMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjUxNDg1NTFdfQ==
 -->
