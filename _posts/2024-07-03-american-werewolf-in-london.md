@@ -153,103 +153,55 @@ _Boom Operator_: Ken Weston
 
 _Dubbing Mixer_: Gerry Humphreys
 
-_Sound Editors_: John Poyner, Don Sharpe
+_Sound Editors_: John Poyner, Don Sharpe 
+_Foley_: Tony Lenny  
+_Stunt Gaffer_: Alf Joint  
+_Action Vehicle Co-ordinator_: Dave Bickers  
+_For_: Jim O’Rourke  
 
-_Foley_: Tony Lenny
-
-_Stunt Gaffer_: Alf Joint
-
-_Action Vehicle Co-ordinator_: Dave Bickers
-
-_For_: Jim O’Rourke
-
-_Cast:_
-
-David Naughton _(David Kessler)_
-
-Jenny Agutter _(Nurse Alex Price)_
-
-Griffin Dunne _(Jack Goodman)_
-
-John Woodvine _(Doctor J.S. Hirsch)_
-
-Brian Glover _(chess player)_
-
-Lila Kaye _(barmaid)_
-
-David Schofield _(dart player)_
-
-Paul Kember _(Sergeant McManus)_
-
-Frank Oz _(Mr Collins, US Embassy official)_
-
-Don McKillop _(Inspector Villiers)_
-
-Joe Belcher _(truck driver)_
-
-Rik Mayall _(2nd chess player)_
-
-Sean Baker _(2nd dart player)_
-
-Paddy Ryan _(1st werewolf)_
-
-Anne-Marie Davies _(Nurse Susan Gallagher)_
-
-Colin Fernandes _(Benjamin, little boy)_
-
-Albert Moses _(hospital porter)_
-
-Kermit the Frog _(himself)_
-
-Miss Piggy _(herself)_
-
-Michele Brisigotti _(Rachel Kessler)_
-
-Mark Fisher _(Max Kessler)_
-
-Gordon Sterne _(Mr Kessler)_
-
-Paula Jacobs _(Mrs Kessler)_
-
-Claudine Bowyer_,_ Johanna Crayden
-
-_(creepy little girls)_
-
-Nina Carter _(Naughty Nina)_
-
-Geoffrey Burridge _(Harry Berman)_
-
-Brenda Cavendish _(Judith Browns)_
-
-Christopher Scoular _(Sean)_
-
-Mary Tempest _(Sean’s wife)_
-
-Cynthia Powell _(Sister Hobbs)_
-
-Sydney Bromley _(Alf)_
-
-Frank Singuineau _(Ted)_
-
-Will Leighton _(Joseph)_
-
-Michael Carter _(Gerald Bringsley)_
-
-Elizabeth Bradley _(woman in zoo)_
-
-Rufus Deakin _(little boy with balloons)_
-
-Vic Armstrong _(bus driver)_
-
-Lesley Ward _(little boy’s mother)_
-
-George Hilsdon _(newsvendor)_
-
-Gerry Lewis _(man in bus queue)_
-
-Dennis Fraser _(2nd man in bus queue)_
-
-Alan Ford _(taxi driver)_
+**Cast**  
+David Naughton _(David Kessler)_  
+Jenny Agutter _(Nurse Alex Price)_  
+Griffin Dunne _(Jack Goodman)_  
+John Woodvine _(Doctor J.S. Hirsch)_  
+Brian Glover _(chess player)_  
+Lila Kaye _(barmaid)_  
+David Schofield _(dart player)_  
+Paul Kember _(Sergeant McManus)_  
+Frank Oz _(Mr Collins, US Embassy official)_  
+Don McKillop _(Inspector Villiers)_  
+Joe Belcher _(truck driver)_  
+Rik Mayall _(2nd chess player)_  
+Sean Baker _(2nd dart player)_  
+Paddy Ryan _(1st werewolf)_  
+Anne-Marie Davies _(Nurse Susan Gallagher)_  
+Colin Fernandes _(Benjamin, little boy)_  
+Albert Moses _(hospital porter)_  
+Kermit the Frog _(himself)_  
+Miss Piggy _(herself)_  
+Michele Brisigotti _(Rachel Kessler)_  
+Mark Fisher _(Max Kessler)_  
+Gordon Sterne _(Mr Kessler)_  
+Paula Jacobs _(Mrs Kessler)_  
+Claudine Bowyer, Johanna Crayden _(creepy little girls)_  
+Nina Carter _(Naughty Nina)_  
+Geoffrey Burridge _(Harry Berman)_  
+Brenda Cavendish _(Judith Browns)_  
+Christopher Scoular _(Sean)_  
+Mary Tempest _(Sean’s wife)_  
+Cynthia Powell _(Sister Hobbs)_  
+Sydney Bromley _(Alf)_  
+Frank Singuineau _(Ted)_  
+Will Leighton _(Joseph)_  
+Michael Carter _(Gerald Bringsley)_  
+Elizabeth Bradley _(woman in zoo)_  
+Rufus Deakin _(little boy with balloons)_  
+Vic Armstrong _(bus driver)_  
+Lesley Ward _(little boy’s mother)_  
+George Hilsdon _(newsvendor)_  
+Gerry Lewis _(man in bus queue)_  
+Dennis Fraser _(2nd man in bus queue)_  
+Alan Ford _(taxi driver)_  
 Peter Ellis _(bobby in Trafalgar Square)_  
 Denise Stephens _(girl in Trafalgar Square)_  
 Christine Hargreaves _(ticket lady)_  
@@ -265,5 +217,5 @@ USA/UK 1981©
 97 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODY4MDk2Ml19
+eyJoaXN0b3J5IjpbLTEwMDU0NTQwNzhdfQ==
 -->
