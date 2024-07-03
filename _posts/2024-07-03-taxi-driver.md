@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
-pdf: '2024-07-03-taxi-le-fou.pdf'
+pdf: '2024-07-03-taxi-driver'
 ---
 
 _+ intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television (Wednesday 3 July only)_
@@ -91,5 +91,6 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzUxMDM4NiwxMjUwMDMyNTAxXX0=
+eyJoaXN0b3J5IjpbLTE4NjA3NzI5MzQsLTkzNzUxMDM4NiwxMj
+UwMDMyNTAxXX0=
 -->
