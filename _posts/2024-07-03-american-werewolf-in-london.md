@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Pierrot le fou
+title: An American Werewolf in London
 published: true
-date: 2024-07-02
+date: 2024-07-03
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
-metadata: 'France 1965, 110 mins<br> Director: Jean-Luc Godard'
-pdf: '2024-07-02-pierrot-le-fou.pdf'
+categories: ['EVENTS']
+tags: [Horror]
+metadata: 'USA/UK 1981, 97 mins<br> Director: John Landis'
+pdf: '2024-07-03-american-werewolf-in-london.pdf'
 ---
 
-
-_+ intro by Griffin Dunne_
-
+_+ intro by Griffin Dunne_  
 As they make their way across the Yorkshire Moors, two backpacking US students are attacked by a ferocious creature. Only one of them survives and on arriving in London he realises that he has become cursed. John Landis’s classic film redefined the very idea of comedy horror – with much of the humour coming from Griffin Dunne’s hilarious performance – and features Rick Baker’s groundbreaking make-up effects.  
 **bfi.org.uk**  
 
@@ -156,5 +154,5 @@ USA/UK 1981©
 97 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc1ODkyMThdfQ==
+eyJoaXN0b3J5IjpbLTEzNjc4Mjc1NF19
 -->
