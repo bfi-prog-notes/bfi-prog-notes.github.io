@@ -94,6 +94,7 @@ Digital 4K
 
 \* Uncredited
 <br>
+
 **BIG SCREEN CLASSICS**   
 **Wild Strawberries** Smultronstället  
 Mon 1 Jul 11:50; Tue 9 Jul 20:50; Sun 21 Jul 14:20; Tue 30 Jul 18:20  
