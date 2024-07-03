@@ -26,65 +26,35 @@ Undoubtedly a great deal of credit for the dialogue of _Le Charme discret_ shoul
 A few years ago, Godard remarked of _Belle de Jour_ that Buñuel seemed to be playing the cinema the way Bach played the organ. The happy news of _Le Charme discret_ is that while most of the serious French cinema at present – Godard included – seems to be hard at work performing painful duties, the Old Master is still playing – effortlessly, freely, without fluffing a note.  
 **Jonathan Rosenbaum, _Sight and Sound_, Winter 1972/3**  
 <br>
-**THE DISCREET CHARM OF THE BOURGEOISIE**
-
-**(LE CHARME DISCRET DE LA BOURGEOISIE)**
-
-_Director:_ Luis Buñuel
-
-©_/Production:_ Greenwich Film Production
-
-_Uncredited Production Companies:_  
-Dean Film, Jet Films, Madrid
-
-_Presented by/A film produced by:_ Serge Silberman
-
-_Accounting Administrator:_ Jacqueline Oblin
-
-_Production Manager:_ Ully Pickard
-
-_Unit Production Manager:_ Jean Lara
-
-_Assisted by:_ Jean-Jacques Schpoliansky
-
-_Location Manager:_ Pierre Lefait
-
-_Assisted by:_ Jean Revel
-
-_Administrator:_ Jacqueline Dudilleux
-
-_Production Secretary:_ Marie-Jane Ruel
-
-_Assistant Directors:_ Pierre Lary, Arnie Gelbart
-
-_Script Girl:_ Suzanne Durrenberger
-
-_Scenario:_ Luis Buñuel
-
-_With the collaboration of:_ Jean-Claude Carrière
-
-_Director of Photography:_ Edmond Richard
-
-_Camera Operator:_ Bernard Noisette
-
-_Camera Assistants:_ André Clément, Alain Herpe
-
-_Key Grip:_ René Menuset
-
-_Gaffer:_ Marcel Policard
-
-_Stills Photography:_ Yves Manciet
-
-_Editor:_ Hélène Plemiannikov
-
-_Assisted by:_ Gina Pignier
-
-_Art Director:_ Pierre Guffroy
-
-_Assistant Decorator:_ Albert Rajau
-
-_Furniture:_ Knoll
-
+**THE DISCREET CHARM OF THE BOURGEOISIE**  
+**(LE CHARME DISCRET DE LA BOURGEOISIE)**  
+_Director:_ Luis Buñuel  
+©_/Production:_ Greenwich Film Production  
+_Uncredited Production Companies:_ Dean Film, Jet Films, Madrid  
+_Presented by/A film produced by:_ Serge Silberman  
+_Accounting Administrator:_ Jacqueline Oblin  
+_Production Manager:_ Ully Pickard  
+_Unit Production Manager:_ Jean Lara  
+_Assisted by:_ Jean-Jacques Schpoliansky  
+_Location Manager:_ Pierre Lefait  
+_Assisted by:_ Jean Revel  
+_Administrator:_ Jacqueline Dudilleux  
+_Production Secretary:_ Marie-Jane Ruel  
+_Assistant Directors:_ Pierre Lary, Arnie Gelbart  
+_Script Girl:_ Suzanne Durrenberger  
+_Scenario:_ Luis Buñuel  
+_With the collaboration of:_ Jean-Claude Carrière  
+_Director of Photography:_ Edmond Richard  
+_Camera Operator:_ Bernard Noisette  
+_Camera Assistants:_ André Clément, Alain Herpe  
+_Key Grip:_ René Menuset  
+_Gaffer:_ Marcel Policard  
+_Stills Photography:_ Yves Manciet  
+_Editor:_ Hélène Plemiannikov  
+_Assisted by:_ Gina Pignier  
+_Art Director:_ Pierre Guffroy  
+_Assistant Decorator:_ Albert Rajau  
+_Furniture:_ Knoll  
 _Chairs:_ Steiner  
 _Furniture:_ Neff-Dami  
 _Table Decoration:_ Snaidero  
@@ -149,5 +119,5 @@ France-Italy-Spain 1972©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjM5NDQ0OV19
+eyJoaXN0b3J5IjpbMTgwODE5NTM4OV19
 -->
