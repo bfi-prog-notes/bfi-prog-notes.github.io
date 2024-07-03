@@ -57,51 +57,31 @@ _Casting:_ Juliet Taylor
 
 _Atmosphere Casting:_ Sylvia Faye
 
-_Written by:_ Paul Schrader
-
-_Director of Photography:_ Michael Chapman
-
-_2nd Unit Camera:_ Michael Zingale
-
-_Camera Operator:_ Fred Schuler
-
-_Assistant Cameramen:_ Alec Hirschfeld,  
-Bill Johnson, Ron Zarilla
-
-_Special Photography:_ Steve Shapiro
-
-_Special Effects:_ Tony Parmelee
-
-_Supervising Film Editor:_ Marcia Lucas
-
-_Editors:_ Tom Rolf, Melvin Shapiro
-
-_Visual Consultant:_ David Nichols
-
-_Art Director:_ Charles Rosen
-
-_Costume Designer:_ Ruth Morley
-
-_Special Make-up:_ Dick Smith
-
+_Written by:_ Paul Schrader  
+_Director of Photography:_ Michael Chapman  
+_2nd Unit Camera:_ Michael Zingale  
+_Camera Operator:_ Fred Schuler  
+_Assistant Cameramen:_ Alec Hirschfeld, Bill Johnson, Ron Zarilla  
+_Special Photography:_ Steve Shapiro  
+_Special Effects:_ Tony Parmelee  
+_Supervising Film Editor:_ Marcia Lucas  
+_Editors:_ Tom Rolf, Melvin Shapiro  
+_Visual Consultant:_ David Nichols  
+_Art Director:_ Charles Rosen  
+_Costume Designer:_ Ruth Morley  
+_Special Make-up:_ Dick Smith  
 _Make-up:_ Irving Buchman
 
 _Hairdresser:_ Mona Orr
 
 _Title Design:_ Dan Perri
 
-_Optical Effects & Colour Prints by:_ M.G.M.
-
-_Music by:_ Bernard Herrmann
-
-_Music Arrangers/Conductors:_ Dave Blume,  
-Bernard Herrmann *
-
-_Conductor:_ Jack Hayes *
-
-_Re-recording Supervisor:_ Tex Rudloff
-
-_Re-recording Mixers:_ Dick Alexander, Vern Poore
+_Optical Effects & Colour Prints by:_ M.G.M.  
+_Music by:_ Bernard Herrmann  
+_Music Arrangers/Conductors:_ Dave Blume, Bernard Herrmann *  
+_Conductor:_ Jack Hayes *  
+_Re-recording Supervisor:_ Tex Rudloff  
+_Re-recording Mixers:_ Dick Alexander, Vern Poore  
 
 **Cast**  
 Robert De Niro _(Travis Bickle)_  
@@ -126,5 +106,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDAzMjUwMV19
+eyJoaXN0b3J5IjpbLTIwNTE1MDY1ODEsMTI1MDAzMjUwMV19
 -->
