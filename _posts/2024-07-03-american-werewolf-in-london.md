@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Pierrot le fou
+published: true
+date: 2024-07-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1965, 110 mins<br> Director: Jean-Luc Godard'
+pdf: '2024-07-02-pierrot-le-fou.pdf'
+---
 
 
 _+ intro by Griffin Dunne_
@@ -30,5 +40,5 @@ Landis is full of praise for Rick Baker’s special effects wizardry (and indeed
 **Adrian Turner, _Sight and Sound_, Winter 1981-82**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyOTcxMzI0XX0=
+eyJoaXN0b3J5IjpbNzc0Mjg4MzA1XX0=
 -->
