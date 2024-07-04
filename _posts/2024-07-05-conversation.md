@@ -74,18 +74,16 @@ Gio Coppola _(boy leaving confessional)_ *
 Richard Hackman _(confessional priest/bodyguard)_ *  
 Al Nalbandian _(1st salesman at convention)_ *
 
-USA 1974©
-
-114 mins
-
+USA 1974©  
+114 mins  
 Digital 4K
 
-* Uncredited
+*Uncredited
 
 A Studiocanal release
 
-The screening on Wed 10 July 18:20 features a Q&A with film editor and sound designer  
-Walter Murch
+The screening on Wed 10 July 18:20 features a Q&A with film editor and sound designer  Walter Murch
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEwNDM1ODhdfQ==
+eyJoaXN0b3J5IjpbNDg2MzE3NzIwXX0=
 -->
