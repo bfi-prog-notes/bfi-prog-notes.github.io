@@ -89,13 +89,13 @@ Elizabeth Deering _(Angela)_
 Jackie Peters _(Tina)_  
 Elsie Ames _(principal)_  
 N.J. Cassavetes _(Adolph)_  
-USA 1974©
 
-155 mins
-
+USA 1974©  
+155 mins  
 35mm
 
 35mm restored print courtesy of the UCLA Film & Television Archive. Restoration funding provided by The Film Foundation and GUCCI
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDE3MjYyN119
+eyJoaXN0b3J5IjpbMjExOTkxNTk0M119
 -->
