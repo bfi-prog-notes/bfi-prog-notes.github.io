@@ -1,6 +1,16 @@
+---
+layout: post
+title: A Woman under the Influence
+published: true
+date: 2024-07-07
+readtime: true
+categories: ['DISCOMFORT MOVIES']
+tags: [Drama]
+metadata: 'USA 1974, 155 mins<br> Director: John Cassavetes'
+pdf: '2024-07-07-woman-under-the-influence.pdf'
+---
 
-John Cassavetes had complete disdain for the idea of cinema as escapism.  
-He didn’t believe in making films that went down easily, or that reassured with their familiar tropes and happy endings. Scenes went on for durations that could test an audience’s patience. His movies did not have plots in a conventional sense, instead letting their characters – who were prickly and complicated and sometimes hard to like – drive the action. As he said to Ray Carney in _Cassavetes on Cassavetes_: ‘There’s nothing I despise more than being entertained.’
+John Cassavetes had complete disdain for the idea of cinema as escapism.  He didn’t believe in making films that went down easily, or that reassured with their familiar tropes and happy endings. Scenes went on for durations that could test an audience’s patience. His movies did not have plots in a conventional sense, instead letting their characters – who were prickly and complicated and sometimes hard to like – drive the action. As he said to Ray Carney in _Cassavetes on Cassavetes_: ‘There’s nothing I despise more than being entertained.’
 
 All too aware that the way he saw the world and the function of cinema was diametrically opposed to the vision of mainstream Hollywood (‘I like films as an art, and they like films as a profit’), Cassavetes spent his career fiercely trying to build and maintain his independence. Though he worked for big studios throughout his whole professional life, mainly as an actor but also as a director on _Too Late Blues_ (1961), _A Child Is Waiting_ (1963), _Gloria_ (1980) and _Big Trouble_ (1986), Cassavetes remains best known for the films he produced under his own steam. He worked for studios to earn the money he needed to make movies his way.
 
@@ -96,6 +106,61 @@ USA 1974©
 
 35mm restored print courtesy of the UCLA Film & Television Archive. Restoration funding provided by The Film Foundation and GUCCI
 <br><br>
+
+**DISCOMFORT MOVIES**<br>
+**Eraserhead**<br>
+Mon 1 Jul 20:40 (+ extended intro to the season by curator Kimberley Sheehan); Sun 14 Jul 17:50; Sat 27 Jul 20:50<br>
+**The Lost Weekend**<br>
+Sat 6 Jul 15:10; Sun 21 Jul 17:45; Mon 29 Jul 20:40<br>
+**Requiem for a Dream**<br>
+Sat 6 Jul 20:45; Fri 19 Jul 18:20<br>
+**A Woman under the Influence**<br>
+Sun 7 Jul 19:30; Sun 28 Jul 17:20<br>
+**Bug**<br>
+Mon 8 Jul 18:15; Thu 25 Jul 20:50<br>
+**They Shoot Horses, Don’t They?**<br>
+Tue 9 Jul 18:10; Mon 22 Jul 20:35<br>
+**Threads**<br>
+Thu 11 Jul 18:15; Sun 21 Jul 15:15<br>
+**Possession**<br>
+Mon 15 Jul 18:00<br>
+**Funny Games**<br>
+Mon 15 Jul 20:45; Sat 27 Jul 14:15<br>
+**Climax + Strasbourg 1518**<br>
+Tue 16 Jul 18:10; Sun 28 Jul 20:20<br>
+**Crash + Titane**<br>
+Sat 20 Jul 18:15, 18:30<br>
+**Audition** Ôdishon<br>
+Wed 24 Jul 20:45; Wed 31 Jul 18:15<br>
+**Skinamarink**<br>
+Sun 28 Jul 14:20; Wed 31 Jul 20:45<br>
+**Relaxed Screening: Eraserhead + intro and discussion**<br>
+Mon 29 Jul 18:10<br>
+
+<br><br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExOTkxNTk0M119
 -->
