@@ -1,3 +1,14 @@
+---
+layout: post
+title: Bled Number One
+published: true
+date: 2024-07-07
+readtime: true
+categories: ['TIGRITUDES<br>A PAN-AFRICAN FILM CYCLE 1956-2024']
+tags: [Drama]
+metadata: 'France-Algeria 2006, 102 mins<br> Director: Rabah Ameur-Zaïmeche'
+pdf: '2024-07-07-bled-number-one.pdf'
+---
 
 **Rabah Ameur-Zaïmeche on ‘Bled Number One’**
 
@@ -61,6 +72,61 @@ France-Algeria 2006
 
 With the kind support of the  Institut français du Royaume-Uni
 <br><br>
+
+**TIGRITUDES: A PAN-AFRICAN FILM CYCLE 1956-2024**<br>
+**Bled Number One**<br>
+Sun 7 Jul 17:45; Tue 23 Jul 20:40<br>
+**Shirley Adams + Firstborn** Eersgeborene<br>
+Mon 8 Jul 20:40; Wed 17 Jul 18:00 + discussion<br>
+**Original Voices**<br>
+Wed 10 Jul 20:50; Sat 27 Jul 12:10<br>
+**Coming Forth By Day** Al-khoroug lel-nahar<br>
+Fri 12 Jul 18:20<br>
+**African Odysseys Presents: Night of the Kings** La Nuit des rois **+ intro & panel discussion on the role of griot with Tony Warner of African Odysseys and Black History Walks**<br>
+Sat 13 Jul 14:00<br>
+**Bezness**<br>
+Sat 13 Jul 20:30<br> 
+**Félicité**<br> 
+Sun 14 Jul 14:40; Thu 18 Jul 18:00 (+ intro with author and presenter Kevin Le Gendre)<br>
+**Bye Bye Africa**<br> 
+Wed 17 Jul 21:00<br>
+**Faya Dayi**<br> 
+Fri 26 Jul 18:15; Wed 31 Jul 20:35<br>
+
+**With thanks to**   
+Saison Africa 2020, Institut français, Keith Shiri 
+For more information, go to **tigritudes.com**
+
+Other films from the Tigritudes cycle can be seen at Tate Modern and The Garden Cinema
+
+Some titles will also be available on BFI Player<br>
+**player.bfi.org.uk**
+<br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4MDY2ODMzMDZdfQ==
 -->
