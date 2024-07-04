@@ -43,7 +43,31 @@ _Orchestral Arrangements_: Hugo Friedhofer
 _Sound by_: C.A. Riggs  
 
 **Cast**  
-Errol Flynn _(Robin Hood of Loxley)_Olivia de Havilland _(Maid Marian)_Basil Rathbone _(Sir Guy of Gisbourne)_
+Errol Flynn _(Robin Hood of Loxley)_
+Olivia de Havilland _(Maid Marian)_
+Basil Rathbone _(Sir Guy of Gisbourne)_  
+Claude Rains _(Prince John)_  
+Patric Knowles _(Will Scarlett)_  
+Eugene Pallette _(Friar Tuck)_  
+Alan Hale _(Little John)_  
+Melville Cooper _(High Sheriff of Nottingham)_  
+Ian Hunter _(King Richard the Lionheart)_  
+Una O’Connor _(Bess, Marian’s maid)_  
+Herbert Mundin _(Much-the-Miller’s son)_  
+Montagu Love _(Bishop of the Black Canons)_  
+Leonard Willey _(Sir Essex)_  
+Robert Noble _(Sir Ralfe)_  
+Kenneth Hunter _(Sir Mortimer)_  
+Robert Warwick _(Sir Geoffrey)_  
+Colin Kenny _(Sir Baldwin)_  
+Lester Matthews _(Sir Ivor)_  
+Harry Cording _(Dickon Malbete)_  
+Howard Hill _(captain of archers)_  
+Ivan F. Simpson _(Prim, owner of Kent Road Tavern)_  
+
+USA 1938©  
+102 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzODk3MzY1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjgzNDEwMTQwLDczMDk5ODExNl19
 -->
