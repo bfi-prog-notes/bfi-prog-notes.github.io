@@ -6,8 +6,8 @@ date: 2024-07-07
 readtime: true
 categories: ['BFI FAMILIES']
 tags: [Adventure]
-metadata: 'USA 2023, 95 mins<br> Directors: Chris Buck, Fawn Veerasunthorn'
-pdf: '2024-06-09-wish.pdf'
+metadata: 'USA 1938, 102 mins<br> Directors: Michael Curtiz, William Keighley'
+pdf: '2024-07-07-advent.pdf'
 ---
 <img style="float: left;" src="/img/RH.png"><br><br><br>
 
@@ -90,5 +90,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA5MjkwOTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODI5MTkxNTAwLDczMDk5ODExNl19
 -->
