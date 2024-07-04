@@ -123,14 +123,10 @@ Scott Bader, Jim Centofanti, Scott Chait, Daniel Clarin, Ben Cohen, Eric Cohen, 
 Hubert Selby Jr _(laughing guard)_  
 Liana Pai _(angelic nurse)_
 
-USA 2000©
-
-102 mins
-
+USA 2000©  
+102 mins  
 Digital
-
-**Content warning:** Contains strong violence,  
-drug use and distressing scenes
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTE5NzI4Nl19
+eyJoaXN0b3J5IjpbMTgwNDU3NTY0MF19
 -->
