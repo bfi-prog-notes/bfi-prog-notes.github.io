@@ -1,7 +1,49 @@
+---
+layout: post
+title: The Adventures of Robin Hood
+published: true
+date: 2024-07-07
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Adventure]
+metadata: 'USA 2023, 95 mins<br> Directors: Chris Buck, Fawn Veerasunthorn'
+pdf: '2024-06-09-wish.pdf'
+---
+<img style="float: left;" src="/img/wish2.png"><br><br><br>
 
+**What’s it about?**  
+Sir Robin of Locksley becomes an outcast after standing-up to the corrupt rule of Prince John. He takes refuge in Sherwood Forest, where he joins forces with a group of outlaws intent on defeating John and bringing peace to the land. Michael Curtiz’s beloved Hollywood classic offers a defining cinematic version of the Robin Hood tale. Made over 85 years ago, this action-packed adventure remains a colourful, swashbuckling joy.
 
+**The making of ‘The Adventures of Robin Hood’**
 
-> Written with [StackEdit](https://stackedit.io/).
+There have been countless ﬁlms made about Robin Hood, but this is the one that most people think of when the name ‘Robin Hood’ is mentioned. When Warner Brothers planned and produced it in the thirties, they put in everything possible to make it a success, but they could never have foreseen how long that success would last. One of the aims behind this production was to create something even better than the 1922 Robin Hood ﬁlm made by Douglas Fairbanks, which was in its time the most expensive ﬁlm ever made – and also one of the most popular. Warners, however, believed that they could eclipse it because they had two secret weapons that Fairbanks, though he made his only 16 years earlier, did not have. One was colour, the other sound.
+
+There had been a sort of semi-Technicolor, based on red and green only, available for the previous ten years, but  _The Adventures of Robin Hood_  was one of the ﬁrst feature ﬁlms to be made in the full Technicolor system, which incorporated blue as well. To make good use of this new resource, the designers strove to ﬁnd or create settings worthy of it. The banqueting halls, the green woodland, the towering castles, the brilliant uniforms, the shining armour – all these things were deliberately chosen because they looked good in Technicolor. For audiences in 1938, the ﬂaming scarlets, vivid blues, startling yellows and strong greens were something they had never seen on screen before. Equal attention was paid to the soundtrack. Erich Korngold’s music, which won an Oscar, incorporates variations on some old English songs, and encompasses moments of tenderness, scenes of broad comedy, rousing fanfares and music for battle. Non-musical sounds were likewise chosen and created with care. They included the whizz of arrows and the clash of blade on blade.
+
+Much of this whizzing and clashing comes from Errol Flynn, who now seems absolutely right for the part. It therefore seems strange, looking back, to discover that he was not Warners’ ﬁrst choice to play Robin. Since they were spending so much money on the ﬁlm they wanted a top name – which Flynn was not – in the starring role, and initially they intended that Robin should be played by James Cagney, even though he was known to the public mainly for gangster roles. Gradually Warners realised that Australian-born Flynn had several advantages over Cagney: Flynn had the right accent for the part, the right age (he was 29), the right physique, and the right skills (he could fence). Errol Flynn fought many duels in many ﬁlms, but the longest and most spectacular remains his ﬁnal encounter with Guy of Gisbourne in  _The Adventures of Robin Hood_.  
+**Terry Staples**  
+<br>
+**The Adventures of Robin Hood**
+
+_Directed by_: Michael Curtiz, William Keighley  
+_©/Production Company_: Warner Bros.  
+_In Charge of Production_: Jack L. Warner  
+_Dialogue Director_: Irving Rapper  
+_Original Screen Play by_: Norman Reilly Raine, Seton I. Miller  
+_Photography by_: Tony Gaudio, Sol Polito  
+_Technicolor Photography_: W. Howard Greene  
+_Technicolor Colour Director_: Natalie Kalmus  
+_Film Editor_: Ralph Dawson  
+_Art Director_: Carl Jules Weyl  
+_Costumes by_: Milo Anderson  
+_Make-up Artist_: Perc Westmore  
+_Music by_: Erich Korngold  
+_Musical Director_: Leo F. Forbstein  
+_Orchestral Arrangements_: Hugo Friedhofer  
+_Sound by_: C.A. Riggs  
+
+**Cast**  
+Errol Flynn _(Robin Hood of Loxley)_Olivia de Havilland _(Maid Marian)_Basil Rathbone _(Sir Guy of Gisbourne)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjUzODk3MzY1LDczMDk5ODExNl19
 -->
