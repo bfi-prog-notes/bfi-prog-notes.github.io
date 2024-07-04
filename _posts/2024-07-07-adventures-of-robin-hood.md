@@ -7,7 +7,7 @@ readtime: true
 categories: ['BFI FAMILIES']
 tags: [Adventure]
 metadata: 'USA 1938, 102 mins<br> Directors: Michael Curtiz, William Keighley'
-pdf: '2024-07-07-advent.pdf'
+pdf: '2024-07-07-adventures-of-robin-hood.pdf'
 ---
 <img style="float: left;" src="/img/RH.png"><br><br><br>
 
@@ -90,5 +90,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MTkxNTAwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNjkzMjI2NTcsNzMwOTk4MTE2XX0=
 -->
