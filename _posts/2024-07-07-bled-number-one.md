@@ -36,40 +36,31 @@ Yes. Everything seems much bigger. Thankfully, humanity doesn’t yet derive fro
 **Interview by Claire Vassé, production notes**
 <br><br>
 
-**BLED NUMBER ONE (AKA BACK HOME)**  
+**BLED NUMBER ONE (aka BACK HOME)**  
 _Director_: Rabah Ameur-Zaïmeche  
-_Production Companies_: Sarrazink Productions,  
-Les Films du Losange (Paris)  
-_Executive Producers_: Carole Solive,  
-Lotfi Bouchouchi  
-_Producers_: Rabah Ameur-Zaïmeche,  
-Margaret Ménégoz  
-_Screenplay_: Rabah Ameur-Zaïmeche,  
-Louise Thermes  
-_Directors of Photography_: Lionel Sautier,  
-Hakim Si Ahmed, Olivier Smittarello  
+_Production Companies_: Sarrazink Productions,  Les Films du Losange (Paris)  
+_Executive Producers_: Carole Solive,  Lotfi Bouchouchi  
+_Producers_: Rabah Ameur-Zaïmeche,  Margaret Ménégoz  
+_Screenplay_: Rabah Ameur-Zaïmeche,  Louise Thermes  
+_Directors of Photography_: Lionel Sautier,  Hakim Si Ahmed, Olivier Smittarello  
 _Editors_: Nicolas Bancilhon, Nikolas Javelle  
 _Costumes_: Sabrina Cheniti  
 _Music_: Rodolphe Burger  
-_Sound_: Timothée Alazraki, Bruno Auzet,  
-Mohamed Naman
+_Sound_: Timothée Alazraki, Bruno Auzet,  Mohamed Naman
 
-_Cast:_
-
+**Cast**  
 Rabah Ameur-Zaïmeche _(Kamel)_  
 Meriem Serbah _(Louisa)_  
 Abel Jafri _(Bouzid)_  
 Farida Ouchadi _(Loubna)_  
 Ramzy Bedia _(Ahmed)_
 
-France-Algeria 2006
-
-102 mins
-
+France-Algeria 2006  
+102 mins  
 35mm
 
-With the kind support of the  
-Institut français du Royaume-Uni
+With the kind support of the  Institut français du Royaume-Uni
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNTE2NTYyXX0=
+eyJoaXN0b3J5IjpbLTE4MDY2ODMzMDZdfQ==
 -->
