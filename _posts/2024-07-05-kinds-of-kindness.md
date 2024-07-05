@@ -68,78 +68,33 @@ Ireland-UK-USA 2024
 164 mins  
 Digital  
 
-
 Searchlight Pictures release
+<br>
 
-  
-
-  
-
-  
-
-  
-
-  
-
-**NEW RELEASES**
-
-  
-
-**Àma Gloria**
-
-From Fri 14 Jun
-
-**Green Border** Zielona granica
-
-From Fri 21 Jun
-
-**Bye Bye Tiberias** Bye Bye Tibériade
-
-From Fri 28 Jun + Q&A on Fri 28 Jun 18:00
-
-**Kinds of Kindness**
-
-From 5 July
-
-**Sleep** Jam
-
-From Fri 12 Jul
-
-**About Dry Grasses** Kuru Otlar Üstüne
-
-From Fri 26 Jul
-
-**Sky Peals**
-
-From 9 August
-
-**Kneecap**
-
+**NEW RELEASES**  
+**Bye Bye Tiberias** Bye Bye Tibériade  
+From Fri 28 Jun + Q&A on Fri 28 Jun 18:00  
+**Kinds of Kindness** 
+From 5 July  
+**Sleep** Jam  
+From Fri 12 Jul  
+**About Dry Grasses** Kuru Otlar Üstüne  
+From Fri 26 Jul  
+**Sky Peals**  
+From 9 August  
+**Kneecap**  
 From 23 August
+<br>
 
-  
-
-  
-
-**RE-RELEASES**
-
-  
-
-**Network**
-
-From Fri 28 Jun
-
-**The Conversation**
-
-From Fri 5 Jul
-
-Alma’s Rainbow
-
-From 2 August
-
-**Werckmeister Harmonies** Werckmeister Harmoniak
-
+**RE-RELEASES**  
+**Network**  
+From Fri 28 Jun  
+**The Conversation**  
+From Fri 5 Jul  
+**Alma’s Rainbow**  
+From 2 August  
+**Werckmeister Harmonies** Werckmeister Harmoniak  
 From 2 August
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5OTk0OTUzXX0=
+eyJoaXN0b3J5IjpbMTYxNTQyNTcyN119
 -->
