@@ -6,8 +6,8 @@ date: 2024-07-05
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
-metadata: 'France-Italy-Spain 1972, 101 mins<br> Director: Luis Buñuel'
-pdf: '2024-07-07-charme-discret-de-la-bourgeoisie.pdf'
+metadata: 'Ireland-UK-USA 2024, 164 mins<br> Director: Yorgos Lanthimos'
+pdf: '2024-07-05-chkinds-of-kindness.pdf'
 ---
 
 In Yorgos Lanthimos’s comic epic fantasy _Poor Things_ (2023), Emma Stone was electrifying as a Frankensteinian creature, Bella Baxter – a deceased pregnant woman, reanimated with the transplanted brain of her foetus. From a laboratory to a world voyage and peril, then back again to practise medicine, Bella’s rapid development defied biological expectations and societal norms. In the Greek director’s new science-fiction triptych, _Kinds of Kindness_ (2024), the women Stone plays are far darker scientific and social experiments: never quite in charge of their destinies, driven by the yearnings of others. Indeed, in this deadpan, disquieting film, the demands for manifestations of love and selflessness take on frighteningly narcissistic and abusive proportions.
@@ -40,6 +40,138 @@ Mamoudou Athie, who plays Will, Neil, and the morgue nurse, agrees with this, st
 Willem Dafoe, who plays Raymond, George and Omi, summarizes how Lanthimos subverts classic themes and transposes them onto a different dynamic. ‘Yorgos takes the dynamics of a sentimental relationship, like a marriage, and puts them onto a business relationship with two men. It lets us see the social conventions that we have grown to accept in a different context,’ he explains. ‘It gives an objectivity and a distance that really makes you see things in a different light. You can see the ironies and the blindness. Sometimes we accept certain conventions because they are handed down to us from society.’  
 **Production notes**  
 <br>
+**KINDS OF KINDNESS**
+
+_Directed by:_ Yorgos Lanthimos
+
+_Presented by:_ Searchlight Pictures
+
+_In association with:_ Film4,
+
+TSG Entertainment
+
+_An_ Element Pictures _production_
+
+_Produced by:_  Ed Guiney, Andrew Lowe, Yorgos Lanthimos, Kasia Malipan
+
+_Casting Director:_ Dixie Chassay
+
+_Written by:_ Yorgos Lanthimos,
+
+Efthimis Filippou
+
+_Director of Photography:_ Robbie Ryan
+
+_Edited by:_ Yorgos Mavropsaridis
+
+_Production Designer:_ Anthony Gasparro
+
+_Costume Designer:_ Jennifer Johnson
+
+_Make-up Department Head:_ Jennifer Serio
+
+_Music by:_ Jerskin Fendrix
+
+_Cast:_
+
+Emma Stone _(Rita, Liz, Emily)_
+
+Jesse Plemons _(Robert, Daniel, Andrew)_
+
+Willem Dafoe _(Raymond, George, Omi)_
+
+Margaret Qualley
+
+_(Vivian, Martha, twins Ruth and Rebecca)_
+
+Hong Chau _(Sarah, Sharon, Aka)_
+
+Joe Alwyn _(Collectibles Appraiser Man 1, Jerry, Joseph)_
+
+Mamoudou Athie  
+_(Will, Neil, Morgue Nurse)_
+
+Hunter Schafer _(Anna)_
+
+Ireland-UK-USA 2024
+
+164 mins
+
+Digital
+
+  
+
+Searchlight Pictures release
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**NEW RELEASES**
+
+  
+
+**Àma Gloria**
+
+From Fri 14 Jun
+
+**Green Border** Zielona granica
+
+From Fri 21 Jun
+
+**Bye Bye Tiberias** Bye Bye Tibériade
+
+From Fri 28 Jun + Q&A on Fri 28 Jun 18:00
+
+**Kinds of Kindness**
+
+From 5 July
+
+**Sleep** Jam
+
+From Fri 12 Jul
+
+**About Dry Grasses** Kuru Otlar Üstüne
+
+From Fri 26 Jul
+
+**Sky Peals**
+
+From 9 August
+
+**Kneecap**
+
+From 23 August
+
+  
+
+  
+
+**RE-RELEASES**
+
+  
+
+**Network**
+
+From Fri 28 Jun
+
+**The Conversation**
+
+From Fri 5 Jul
+
+Alma’s Rainbow
+
+From 2 August
+
+**Werckmeister Harmonies** Werckmeister Harmoniak
+
+From 2 August
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzAwMzM5MF19
+eyJoaXN0b3J5IjpbLTM1NjQ2MjMxOV19
 -->
