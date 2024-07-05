@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'Ireland-UK-USA 2024, 164 mins<br> Director: Yorgos Lanthimos'
-pdf: '2024-07-05-chkinds-of-kindness.pdf'
+pdf: '2024-07-05-kinds-of-kindness.pdf'
 ---
 
 In Yorgos Lanthimos’s comic epic fantasy _Poor Things_ (2023), Emma Stone was electrifying as a Frankensteinian creature, Bella Baxter – a deceased pregnant woman, reanimated with the transplanted brain of her foetus. From a laboratory to a world voyage and peril, then back again to practise medicine, Bella’s rapid development defied biological expectations and societal norms. In the Greek director’s new science-fiction triptych, _Kinds of Kindness_ (2024), the women Stone plays are far darker scientific and social experiments: never quite in charge of their destinies, driven by the yearnings of others. Indeed, in this deadpan, disquieting film, the demands for manifestations of love and selflessness take on frighteningly narcissistic and abusive proportions.
