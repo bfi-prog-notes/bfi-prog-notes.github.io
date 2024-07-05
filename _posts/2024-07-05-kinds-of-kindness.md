@@ -40,66 +40,34 @@ Mamoudou Athie, who plays Will, Neil, and the morgue nurse, agrees with this, st
 Willem Dafoe, who plays Raymond, George and Omi, summarizes how Lanthimos subverts classic themes and transposes them onto a different dynamic. ‘Yorgos takes the dynamics of a sentimental relationship, like a marriage, and puts them onto a business relationship with two men. It lets us see the social conventions that we have grown to accept in a different context,’ he explains. ‘It gives an objectivity and a distance that really makes you see things in a different light. You can see the ironies and the blindness. Sometimes we accept certain conventions because they are handed down to us from society.’  
 **Production notes**  
 <br>
-**KINDS OF KINDNESS**
+**KINDS OF KINDNESS**  
+_Directed by:_ Yorgos Lanthimos  
+_Presented by:_ Searchlight Pictures  
+_In association with:_ Film4, TSG Entertainment  
+_An_ Element Pictures _production_  
+_Produced by:_  Ed Guiney, Andrew Lowe, Yorgos Lanthimos, Kasia Malipan  
+_Casting Director:_ Dixie Chassay  
+_Written by:_ Yorgos Lanthimos, Efthimis Filippou  
+_Director of Photography:_ Robbie Ryan  
+_Edited by:_ Yorgos Mavropsaridis  
+_Production Designer:_ Anthony Gasparro  
+_Costume Designer:_ Jennifer Johnson  
+_Make-up Department Head:_ Jennifer Serio  
+_Music by:_ Jerskin Fendrix  
 
-_Directed by:_ Yorgos Lanthimos
+**Cast**  
+Emma Stone _(Rita, Liz, Emily)_  
+Jesse Plemons _(Robert, Daniel, Andrew)_  
+Willem Dafoe _(Raymond, George, Omi)_  
+Margaret Qualley _(Vivian, Martha, twins Ruth and Rebecca)_  
+Hong Chau _(Sarah, Sharon, Aka)_  
+Joe Alwyn _(collectibles appraiser man 1, Jerry, Joseph)_  
+Mamoudou Athie _(Will, Neil, morgue nurse)_  
+Hunter Schafer _(Anna)_  
+Ireland-UK-USA 2024  
+164 mins  
+Digital  
 
-_Presented by:_ Searchlight Pictures
-
-_In association with:_ Film4,
-
-TSG Entertainment
-
-_An_ Element Pictures _production_
-
-_Produced by:_  Ed Guiney, Andrew Lowe, Yorgos Lanthimos, Kasia Malipan
-
-_Casting Director:_ Dixie Chassay
-
-_Written by:_ Yorgos Lanthimos,
-
-Efthimis Filippou
-
-_Director of Photography:_ Robbie Ryan
-
-_Edited by:_ Yorgos Mavropsaridis
-
-_Production Designer:_ Anthony Gasparro
-
-_Costume Designer:_ Jennifer Johnson
-
-_Make-up Department Head:_ Jennifer Serio
-
-_Music by:_ Jerskin Fendrix
-
-_Cast:_
-
-Emma Stone _(Rita, Liz, Emily)_
-
-Jesse Plemons _(Robert, Daniel, Andrew)_
-
-Willem Dafoe _(Raymond, George, Omi)_
-
-Margaret Qualley
-
-_(Vivian, Martha, twins Ruth and Rebecca)_
-
-Hong Chau _(Sarah, Sharon, Aka)_
-
-Joe Alwyn _(Collectibles Appraiser Man 1, Jerry, Joseph)_
-
-Mamoudou Athie  
-_(Will, Neil, Morgue Nurse)_
-
-Hunter Schafer _(Anna)_
-
-Ireland-UK-USA 2024
-
-164 mins
-
-Digital
-
-  
 
 Searchlight Pictures release
 
@@ -173,5 +141,5 @@ From 2 August
 
 From 2 August
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQ2MjMxOV19
+eyJoaXN0b3J5IjpbOTg5OTk0OTUzXX0=
 -->
