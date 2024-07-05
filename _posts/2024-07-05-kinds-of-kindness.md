@@ -5,7 +5,7 @@ published: true
 date: 2024-07-05
 readtime: true
 categories: ['NEW RELEASES']
-tags: [Drama, ]
+tags: [Drama]
 metadata: 'France-Italy-Spain 1972, 101 mins<br> Director: Luis Buñuel'
 pdf: '2024-07-07-charme-discret-de-la-bourgeoisie.pdf'
 ---
@@ -41,5 +41,5 @@ Willem Dafoe, who plays Raymond, George and Omi, summarizes how Lanthimos subver
 **Production notes**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODIyOTc0Nl19
+eyJoaXN0b3J5IjpbLTkzNzAwMzM5MF19
 -->
