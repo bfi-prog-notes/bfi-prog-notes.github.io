@@ -94,7 +94,8 @@ From Fri 5 Jul
 **Alma’s Rainbow**  
 From 2 August  
 **Werckmeister Harmonies** Werckmeister Harmoniak  
-From 2 August
+From 2 August  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTQyNTcyN119
+eyJoaXN0b3J5IjpbMzIxNTcxNjUsMTYxNTQyNTcyN119
 -->
