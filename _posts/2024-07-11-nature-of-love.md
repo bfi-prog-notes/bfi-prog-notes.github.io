@@ -59,18 +59,14 @@ _Key Make-up Artist_: Adriana Verbert
 _Key Hair Stylists_: Ann Lou Landry, Colette Martel  
 _Titles_: La Brigade du Titre, Mathieu Decarli  
 _Music/Original Music Composed and Conducted by_: Emile Sornin  
-_Piano/Organ/Harpsichord/Celesta/Drums_:
-
-Emile Sornin  
+_Piano/Organ/Harpsichord/Celesta/Drums_: Emile Sornin  
 _Music Recording_: Dragisa Stojanov  
-_Sound_: François Grenon, Julien Roig,
-
-Olivier Guillaume  
+_Sound_: François Grenon, Julien Roig, Olivier Guillaume  
 _Sound Mixer_: Jonas Orantin  
 _Dialogue Editor_: Simon Poupard  
-_Stunt Co-ordinator_: Sébastien Rouleau
+_Stunt Co-ordinator_: Sébastien Rouleau  
 
-_Cast:_  
+**Cast**  
 Magalie Lépine-Blondeau _(Sophia)_  
 Pierre-Yves Cardinal _(Sylvain)_  
 Francis-William Rhéaume _(Xavier)_  
@@ -103,5 +99,6 @@ Canada-France 2023
 Digital  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQyMDMzMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0ODMxMTU0MiwtMzY1NDIwMzMwLDczMD
+k5ODExNl19
 -->
