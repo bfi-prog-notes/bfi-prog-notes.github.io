@@ -6,8 +6,8 @@ date: 2024-07-11
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
 tags: [Comedy, Romance]
-metadata: 'Japan 1961, 111 mins<br> Director: Akira Kurosawa'
-pdf: '2024-07-08-yojimbo.pdf'
+metadata: 'Canada-France 2023, 111 mins<br> Director: Monia Chokri'
+pdf: '2024-07-11-nature-of-love.pdf'
 ---
 
 Philosophy professor Sophia has been living with her partner Xavier for ten years. Their relationship is intellectually stimulating; however, when she meets rugged carpenter Sylvain, an intense physical chemistry erupts.
@@ -98,7 +98,6 @@ Canada-France 2023
 111 mins  
 Digital  
 <br>
-<br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -123,6 +122,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA4NDc5OTksLTM2NTQyMDMzMCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjA3NjQ5MDEsLTE2MTA4NDc5OTksLT
+M2NTQyMDMzMCw3MzA5OTgxMTZdfQ==
 -->
