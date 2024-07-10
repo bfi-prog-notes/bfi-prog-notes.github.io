@@ -1,10 +1,19 @@
-
+---
+layout: post
+title: The Nature of Love
+published: true
+date: 2024-07-11
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Comedy, Romance]
+metadata: 'Japan 1961, 111 mins<br> Director: Akira Kurosawa'
+pdf: '2024-07-08-yojimbo.pdf'
+---
 
 Philosophy professor Sophia has been living with her partner Xavier for ten years. Their relationship is intellectually stimulating; however, when she meets rugged carpenter Sylvain, an intense physical chemistry erupts.
 
-Monia Chokri’s fun romantic comedy is an extremely sexy watch – packed with laughs and some razor-sharp truths about desire, social class and co-dependency.
-
-bfi.org.uk
+Monia Chokri’s fun romantic comedy is an extremely sexy watch – packed with laughs and some razor-sharp truths about desire, social class and co-dependency.  
+**bfi.org.uk**  
 
 ‘Humans destroy to create new things,’ observes Sophia idly at a Montreal dinner party. It’s the faintest batsqueak of warning to the audience that this sweet-natured fortyish lecturer on the philosophy of love, snug in a pleasant, passionless marriage, will find herself sideswiped by a _coup de foudre_. Monia Chokri’s spiky tale has all the elements of a twinkly Netflix romcom, as Sophia (Magalie Lépine-Blondeau) falls hard and fast for Sylvain (Pierre-Yves Cardinal), the rugged, beer-swilling contractor renovating her rural lake cabin. But from them she’s fashioned a sharp, sensuous comedy, puzzling over the clash between love and class identity to stitch Sophia and Sylvain’s torrid affair into a pointed social satire.
 
@@ -15,31 +24,22 @@ Tonally, the film rides a fine if occasionally unsteady line, between celebratin
 The results are comic, poignant and overworked, but underpinned by fine, increasingly uneasy lead performances. Cardinal’s openhearted Sylvain is far from a cartoon hick, but Lépine-Blondeau injects into her infatuation just the right amount of growing irritation at his uncouthness. Chokri’s readiness to explore love’s endless uncertainties makes for a fresh, thoughtful take, but one ultimately unsure where to land its ruminative romance.  
 **Kate Stables, _Sight and Sound_, www.bfi.org.uk/sight-and-sound, 1 July 2024**  
 <br>
-**THE NATURE OF LOVE**
-
-**(SIMPLE COMME SYLVAIN)**
-
+**THE NATURE OF LOVE (SIMPLE COMME SYLVAIN)**  
 _Directed by_: Monia Chokri  
 _©_: 9472-3558 Québec Inc., MK Productions  
 _Production Company_: Metafilms, MK2 Films  
 _Presented by_: Metafilms  
 _In co-production with_: MK Productions  
-_In association with_: Memento Distribution,
-
-MK2 Films  
+_In association with_: Memento Distribution, MK2 Films  
 _Executive Producer_: Philippe Lombart  
 _Produced by_: Sylvain Corbeil, Nancy Grant, Nathanaël Karmitz  
-_Producers_: Nancy Grant, Sylvain Corbeil,
-
-Nathanaël Karmitz, Elisha Karmitz  
+_Producers_: Nancy Grant, Sylvain Corbeil, Nathanaël Karmitz, Elisha Karmitz  
 _Associate Producer_: Marie-Claire Lalonde  
 _Production Manager Canada_: Marie-Claire Lalonde  
 _Production Manager France_: Pascal Metge  
 _Production Accountant_: Mélanie Bouchard  
 _Post-production Supervisor France_: Mélanie Karlin  
-_Post-production Supervisor Canada_:
-
-Pierre Thériault  
+_Post-production Supervisor Canada_: Pierre Thériault  
 _1st Assistant Director_: Cédrick Kluyskens  
 _Script Supervisor_: Nathalie Paquette  
 _Casting Director_: Annie St-Pierre  
@@ -98,7 +98,31 @@ Canada-France 2023
 111 mins  
 Digital  
 <br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMxMTU0MiwtMzY1NDIwMzMwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2MTA4NDc5OTksLTM2NTQyMDMzMCw3Mz
+A5OTgxMTZdfQ==
 -->
