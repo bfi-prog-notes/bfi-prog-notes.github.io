@@ -39,12 +39,9 @@ _Do you think_ Unforgiven _will finally get you the respect you deserve?_
 ‘Deserve has got nothing to do with it’. Ha-ha. There’s always a line in a film that’s applicable. It’s like the line in _White Hunter, Black Heart_, where he says they’ll name a special Academy Award after me and all the wrong guys will win it.  
 **Interview by Peter Keogh, _Sight and Sound_, October 1992**  
 <br>
-**Unforgiven**
-
-_Directed by:_ Clint Eastwood
-
-_©/Author:_ Warner Bros, Inc.
-
+**Unforgiven**  
+_Directed by:_ Clint Eastwood  
+_©/Author:_ Warner Bros, Inc.  
 _Production Company:_ Malpaso Company
 
 _Presented by/Distributed by:_ Warner Bros.
@@ -55,112 +52,51 @@ _Produced by:_ Clint Eastwood
 
 _Associate Producer:_ Julian Ludwig
 
-_Production Associates:_ Matt Palmer,
-
-John Lind
-
-_Production Auditor:_ Michael Maurer
-
-_Production Accountants:_ Lynn Elston,
-
-Jeffrey Kloss
-
-_Production Co-ordinator:_ Penny Gibbs
-
-_Sonora Unit Production Co-ordinator:_ Carol Trost
-
-_Production Manager:_ Bob Gray
-
-_Sonora Unit Production Manager:_
-
-David Valdes
-
-_Unit Manager:_ Lynne Bespflug
-
-_Location Manager:_ Rino Pace
-
-_1st Assistant Director:_ Scott Maitland
-
-_2nd Assistant Director:_ Bill Bannerman
-
-_Script Supervisor:_ Lloyd Nelson
-
-_Casting by:_ Phyllis Huffman
-
-_Screenplay:_ David Webb Peoples
-
-_Director of Photography:_ Jack N. Green
-
-_A Camera Operator:_ Stephen St. John
-
-_B Camera Operator:_ Roger Vernon
-
-_Key Grip:_ Charles Saldana
-
-_Still Photographer:_ Bob Akester
-
-_Co-ordinator Special Effects:_ John Frazier
-
-_Edited by:_ Joel Cox
-
-_Production Designed by:_ Henry Bumstead
-
-_Art Directors:_ Rick Roberts, Adrian Gorton
-
-_Set Designer:_ James J. Murakami
-
-_Set Decorator:_ Janice Blackie-Goodine
-
-_Property Master:_ Edward Aiona
-
-_Construction Co-ordinator:_ Jan Kobylka
-
-_Wardrobe Department Head:_ Glenn Wright
-
-_Men’s Wardrobe Supervisor:_
-
-Carla Hetland
-
-_Women’s Wardrobe Supervisor:_
-
-Joanne Hansen
-
-_Head Make-up Artist:_ Mike Hancock
-
-_Assistant Make-up Artist:_ Stan Edmonds
-
-_Head Hairstylist:_ Iloe Flewelling
-
-_Titles and Opticals by:_ Pacific Title
-
-_Colour Timer:_ Phil Downey
-
-_Negative Cutter:_ Donah Bassett
-
-_Music Score by:_ Lennie Niehaus
-
-_Music Editor:_ Donald Harris
-
-_Scoring Mixer:_ Bobby Fernandez
-
-_Sound Mixer:_ Rob Young
-
-_Boom Operator:_ Kelly Zombor
-
-_Re-recording Mixers:_ Les Fresholtz,
-
-Vern Poore, Dick Alexander
-
-_Supervising Sound Editors:_
-
-Alan Robert Murray, Walter Newman
-
-_Supervising Dialogue Editor:_
-
-Karen Spangenberg
-
-_Dedicated to:_ Sergio, Don
-
+_Production Associates:_ Matt Palmer, John Lind  
+_Production Auditor:_ Michael Maurer  
+_Production Accountants:_ Lynn Elston, Jeffrey Kloss  
+_Production Co-ordinator:_ Penny Gibbs  
+_Sonora Unit Production Co-ordinator:_ Carol Trost  
+_Production Manager:_ Bob Gray  
+_Sonora Unit Production Manager:_ David Valdes  
+_Unit Manager:_ Lynne Bespflug  
+_Location Manager:_ Rino Pace  
+_1st Assistant Director:_ Scott Maitland  
+_2nd Assistant Director:_ Bill Bannerman  
+_Script Supervisor:_ Lloyd Nelson  
+_Casting by:_ Phyllis Huffman  
+_Screenplay:_ David Webb Peoples  
+_Director of Photography:_ Jack N. Green  
+_A Camera Operator:_ Stephen St. John  
+_B Camera Operator:_ Roger Vernon  
+_Key Grip:_ Charles Saldana  
+_Still Photographer:_ Bob Akester  
+_Co-ordinator Special Effects:_ John Frazier  
+_Edited by:_ Joel Cox  
+_Production Designed by:_ Henry Bumstead  
+_Art Directors:_ Rick Roberts, Adrian Gorton  
+_Set Designer:_ James J. Murakami  
+_Set Decorator:_ Janice Blackie-Goodine  
+_Property Master:_ Edward Aiona  
+_Construction Co-ordinator:_ Jan Kobylka  
+_Wardrobe Department Head:_ Glenn Wright  
+_Men’s Wardrobe Supervisor:_ Carla Hetland  
+_Women’s Wardrobe Supervisor:_ Joanne Hansen  
+_Head Make-up Artist:_ Mike Hancock  
+_Assistant Make-up Artist:_ Stan Edmonds  
+_Head Hairstylist:_ Iloe Flewelling  
+_Titles and Opticals by:_ Pacific Title  
+_Colour Timer:_ Phil Downey  
+_Negative Cutter:_ Donah Bassett  
+_Music Score by:_ Lennie Niehaus  
+_Music Editor:_ Donald Harris  
+_Scoring Mixer:_ Bobby Fernandez  
+_Sound Mixer:_ Rob Young  
+_Boom Operator:_ Kelly Zombor  
+_Re-recording Mixers:_ Les Fresholtz, Vern Poore, Dick Alexander  
+_Supervising Sound Editors:_ Alan Robert Murray, Walter Newman  
+_Supervising Dialogue Editor:_ Karen Spangenberg  
+_Dedicated to:_ Sergio, Don  
 _Head Wrangler:_ John Scott  
 _Unit Publicist:_ Marco Barla  
 
@@ -212,5 +148,5 @@ USA 1992©
 130 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyOTkxMjM4XX0=
+eyJoaXN0b3J5IjpbNzgyMjc4NjU4XX0=
 -->
