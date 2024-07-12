@@ -1,3 +1,15 @@
+---
+layout: post
+title: Kung Fu Panda 4
+published: true
+date: 2024-07-14
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Animation, Children, Adventure]
+metadata: 'USA 2024, 94 mins<br> Director: Mike Mitchell'
+pdf: '2024-06-09-wish.pdf'
+---
+<img style="float: left;" src="/img/wish2.png"><br><br><br>
 
 
 
@@ -38,5 +50,5 @@ USA 2024
 94 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MDUzNF19
+eyJoaXN0b3J5IjpbMTI3MDQ0NDQ4Ml19
 -->
