@@ -12,33 +12,31 @@ After three death-defying adventures defeating world-class villains with his unm
 So, Po’s going to need some help. He finds it (kinda?) in the form of crafty, quick-witted thief Zhen (Golden Globe winner Awkwafina), a corsac fox who really gets under Po’s fur but whose skills will prove invaluable. In their quest to protect the Valley of Peace from Chameleon’s reptilian claws, this comedic odd-couple duo will have to work together. In the process, Po will discover that heroes can be found in the most unexpected places.  
 **Production notes**  
 <br>
-**Kung Fu Panda 4**
+**KUNG FU PANDA 4**  
+_Directed by:_ Mike Mitchell  
+_Production Company:_ DreamWorks  
+_Co-Director:_ Stephanie Ma Stine  
+_Executive Producer:_ Mike Mitchell  
+_Produced by:_ Rebecca Huntley  
+_Co-Producers:_ Steven Schweickart, Jonathan Aibel, Glenn Berger  
+_Written by:_ Jonathan Aibel, Glenn Berger, Darren Lemke  
+_Head of Cinematography/Layout:_ Joshua Gunther  
+_Production Designer:_ Paul Duncan  
+_Music Composed by:_ Hans Zimmer, Steve Mazzaro  
 
-_Directed by:_ Mike Mitchell
+**Voice Cast**  
+Jack Black  _(Po)_  
+Awkwafina  _(Zhen)_  
+Viola Davis  _(Chemeleon)_  
+Dustin Hoffman  _(Shifu)_  
+Bryan Cranston  _(Li)_  
+James Hong  _(Mr Ping)_  
+Ian McShane  _(Tai Lung)_  
+Ke Huy Quan  _(Han)_  
 
-_Production Company:_ DreamWorks
-
-_Co-Director:_ Stephanie Ma Stine
-
-_Executive Producer:_ Mike Mitchell
-
-_Produced by:_ Rebecca Huntley
-
-_Co-Producers:_ Steven Schweickart,
-
-Jonathan Aibel, Glenn Berger
-
-_Written by:_ Jonathan Aibel, Glenn Berger,
-
-Darren Lemke
-
-_Head of Cinematography/Layout:_ Joshua Gunther
-
-_Production Designer:_ Paul Duncan
-
-_Music Composed by:_ Hans Zimmer,
-
-Steve Mazzaro
+USA 2024  
+94 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTQwMzUwN119
+eyJoaXN0b3J5IjpbNTI5MDUzNF19
 -->
