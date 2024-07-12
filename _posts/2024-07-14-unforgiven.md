@@ -161,75 +161,44 @@ Karen Spangenberg
 
 _Dedicated to:_ Sergio, Don
 
-_Head Wrangler:_ John Scott
+_Head Wrangler:_ John Scott  
+_Unit Publicist:_ Marco Barla  
 
-_Unit Publicist:_ Marco Barla
-
-_Cast:_
-
-Clint Eastwood _(Bill Munny)_
-
-Gene Hackman _(Little Bill Daggett)_
-
-Morgan Freeman _(Ned Logan)_
-
-Richard Harris _(English Bob)_
-
-Jaimz Woolvett _(The ‘Schofield Kid’)_
-
-Saul Rubinek _(W.W. Beauchamp)_
-
-Frances Fisher _(Strawberry Alice)_
-
-Anna Thomson _(Delilah Fitzgerald)_
-
-David Mucci _(Quick Mike)_
-
-Rob Campbell _(Davey Bunting)_
-
-Anthony James _(Skinny Dubois)_
-
-Tara Dawn Frederick _(Little Sue)_
-
-Beverley Elliott _(Silky)_
-
-Liisa Repo-Martell _(Faith)_
-
-Josie Smith _(Crow Creek Kate)_
-
-Shane Meier _(Will Munny)_
-
-Aline Levasseur _(Penny Munny)_
-
-Cherrilene Cardinal _(Sally Two Trees)_
-
-Robert Koons _(Crocker)_
-
-Ron White _(Clyde Ledbetter)_
-
+**Cast**  
+Clint Eastwood _(Bill Munny)_  
+Gene Hackman _(Little Bill Daggett)_  
+Morgan Freeman _(Ned Logan)_  
+Richard Harris _(English Bob)_  
+Jaimz Woolvett _(The ‘Schofield Kid’)_  
+Saul Rubinek _(W.W. Beauchamp)_  
+Frances Fisher _(Strawberry Alice)_  
+Anna Thomson _(Delilah Fitzgerald)_  
+David Mucci _(Quick Mike)_  
+Rob Campbell _(Davey Bunting)_  
+Anthony James _(Skinny Dubois)_  
+Tara Dawn Frederick _(Little Sue)_  
+Beverley Elliott _(Silky)_  
+Liisa Repo-Martell _(Faith)_  
+Josie Smith _(Crow Creek Kate)_  
+Shane Meier _(Will Munny)_  
+Aline Levasseur _(Penny Munny)_  
+Cherrilene Cardinal _(Sally Two Trees)_  
+Robert Koons _(Crocker)_  
+Ron White _(Clyde Ledbetter)_  
 Mina E. Mina _(Muddy Chandler)_  
 Henry Kope _(German Joe Schultz)_  
 Jeremy Ratchford _(Deputy Andy Russell)_  
 John Pyper-Ferguson _(Charley Hecker)_  
 Jefferson Mappin _(Fatty Rossiter)_
-Walter Marsh _(barber)_
-
-Garner Butler _(Eggs Anderson)_
-
-Larry Reese _(Tom Luckinbill)_
-
-Blair Haynes _(Paddy McGee)_
-
-Frank C. Turner _(Fuzzy)_
-
-Sam Karas _(Thirsty Thurston)_
-
-Lochlyn Munro _(Texas Slim)_
-
-Ben Cardinal _(Johnny Foley)_
-
-Philip Hayes _(Lippy MacGregor)_
-
+Walter Marsh _(barber)_  
+Garner Butler _(Eggs Anderson)_  
+Larry Reese _(Tom Luckinbill)_  
+Blair Haynes _(Paddy McGee)_  
+Frank C. Turner _(Fuzzy)_  
+Sam Karas _(Thirsty Thurston)_  
+Lochlyn Munro _(Texas Slim)_  
+Ben Cardinal _(Johnny Foley)_  
+Philip Hayes _(Lippy MacGregor)_  
 Michael Charrois _(Wiggens)_  
 Bill Davidson _(Buck Barthol)_  
 Paul McLean _(train person 1)_  
@@ -243,5 +212,5 @@ USA 1992©
 130 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTY0Mzg2OF19
+eyJoaXN0b3J5IjpbMjcyOTkxMjM4XX0=
 -->
