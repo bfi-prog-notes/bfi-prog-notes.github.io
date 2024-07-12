@@ -1,7 +1,17 @@
+---
+layout: post
+title: Unforgiven
+published: true
+date: 2024-07-14
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama,Crime]
+metadata: 'USA 1980, 121 mins<br> Director: John Cassavetes'
+pdf: '2024-07-13-gloria.pdf'
+---
 
 
-**A contemporary review**
-
+**A contemporary review**  
 When _High Plains Drifter_ was released in 1972, Malpaso issued a press still which showed Clint Eastwood standing next to two gravestones: the inscriptions on them read ‘Donald Siegel’ and ‘Sergio Leone’. Similarly, _Unforgiven_ ends with the words ‘Dedicated to Sergio and Don’, both of whom have died since Eastwood’s last Western, _Pale Rider_ (1985). At first sight, _Unforgiven_ seems a very fitting arrivederci to Eastwood-the-director’s two great mentors: like the Man with No Name, Bill Munny becomes a singleminded bounty hunter, his rival for the reward being a frock-coated ‘specialist’ with a leather bag full of weaponry (like Colonel Mortimer in _For a Few Dollars More_); but he also proves susceptible to the influence of women, and like the hero of _The Beguiled_ recovers from his wounds with help from a sisterhood of unmarried women.
 
 These similarities and the dedication aside, however, _Unforgiven_ owes much more to Eastwood’s own Westerns as a director since the early ’70s. William Munny (William Bonney meets the cash nexus?) is a hog farmer who travels the vengeance trail from Kansas to Wyoming, picking up a family of ‘misfits’ in the process – a black farmer married to a Native American, a short-sighted kid with growing pains, a victimised young prostitute called Delilah – and learns to confront his own past along the way. That’s the first half of _Unforgiven_, and it closely resembles _The Outlaw Josey Wales_; then, when Munny reaches his destination, he is transformed by circumstances into a superhuman avenger who steps out of a thunderstorm to shoot down five people before riding off into the wilderness. That’s the last reel, school of _High Plains Drifter_.
@@ -13,12 +23,10 @@ At this stage in the story, Eastwood seems almost like a minor character, a team
 
 Unusually, _Unforgiven_ is also punctuated with direct visual and verbal references to past Hollywood Westerns. Big Whiskey, with its snow-capped mountains in the background and its main street a sea of mud, is just like the town in _Shane_. There are Rooster Cogburn-style gags, Munny’s two children are called Will and Penny, and the final section of the film mirrors Wellman’s _The Ox-Bow Incident_ (one of Eastwood’s favourite films). Yet although the script is by David Webb Peoples (of _Blade Runner_ fame), _Unforgiven_ goes against the grain of recent Westerns (_Silverado_, _Young Guns_) by eschewing irony and hipness and fashionable post-modernism. The references seem to be there to anchor Eastwood’s odyssey within a hallowed tradition, rather than to show off about the hollowness of that tradition.
 
-In the end, there’s more of ‘Don’ than ‘Sergio’ in _Unforgiven_, a Western that tries hard to show that its heroic (rather than anti-heroic) protagonist is, as he puts it, ‘just a fella now; I ain’t no different than anyone else no more’. It resembles _The Shootist_, where the story of the lead actor’s career and the film story became inseparable, and where an actor who had become ‘out of time’ managed to find a way of making contact with a contemporary audience by putting his own career into a fresh context. In interview, Eastwood has responded with no more than monosyllabic incomprehension to the suggestion that he is now in the unusual position of carrying an entire cinematic genre on his shoulders. _Unforgiven_ comes across as a much more interesting reply, and his best Western – the most distinguished film he has appeared in and directed – since _The Outlaw Josey Wales_.
+In the end, there’s more of ‘Don’ than ‘Sergio’ in _Unforgiven_, a Western that tries hard to show that its heroic (rather than anti-heroic) protagonist is, as he puts it, ‘just a fella now; I ain’t no different than anyone else no more’. It resembles _The Shootist_, where the story of the lead actor’s career and the film story became inseparable, and where an actor who had become ‘out of time’ managed to find a way of making contact with a contemporary audience by putting his own career into a fresh context. In interview, Eastwood has responded with no more than monosyllabic incomprehension to the suggestion that he is now in the unusual position of carrying an entire cinematic genre on his shoulders. _Unforgiven_ comes across as a much more interesting reply, and his best Western – the most distinguished film he has appeared in and directed – since _The Outlaw Josey Wales_.  
+**Christopher Frayling, _Sight and Sound_, October 1992**  
 
-Christopher Frayling, _Sight and Sound_, October 1992
-
-**Clint Eastwood talks to Peter Keogh about the Western**
-
+**Clint Eastwood talks to Peter Keogh about the Western**  
 _Were you worried about making a film in a genre that’s been declared dead?_
 
 The Western has been pronounced dead so many times for so many years; I imagine it will be pronounced dead another twenty times before the century is over. I remember when I did _A Fistful of Dollars_ before the picture was completed there were pronouncements that the. Western was dead. Then a little article in _Variety_ said the Western is dead, but there’s this little film from Italy called _Per un pugno di dollari_ that’s doing well. Well, I didn’t think too much about it because that wasn’t the title of the film I made. Later there was another thing about _Per un pugno di dollari_ with Clint Eastwood, and I thought, ‘Wait a second! What am I doing in this?’ So then I realised that they’d changed the title. The film progressed through Europe and did well. That was another case of the Western being declared dead.
@@ -30,7 +38,7 @@ Those were fun pictures, but they were stylised and operatic and the story didn�
 The first Western I did in the US after the European Westerns was _Hang ‘em High_. I’d been offered at that time a much larger Western, _Mackenna’s Gold_. But I wanted to do _Hang ‘em High_ because it discussed the pros and cons of capital punishment.  
 I was looking to explore new things I didn’t want to get mired down in the Man with No Name character.
 
-Unforgiven_, like_ Pale Rider_,_ High Plains Drifter _and_ The Outlaw Josey Wales_, features a hero who is a mythic, Biblical figure of retribution. What’s the reason for this fascination?_
+Unforgiven _, like_ Pale Rider, High Plains Drifter _and_ The Outlaw Josey Wales _, features a hero who is a mythic, Biblical figure of retribution. What’s the reason for this fascination?_
 
 I’ve always been interested in mythical characters – though the Jehovah-like avenger of _Pale Rider_ is quite different from Munny. Munny has a lot of demons: when he gets ill, he visits hell in hallucinations that realise a lot of feelings – including the memory of his wife who straightened out his life for a period of time. He’s constantly trying to talk himself into thinking he’s worthy. He and Little Bill are very much alike, but Little Bill has the advantage of acting in the name of the law.
 
@@ -39,19 +47,14 @@ _Do you think_ Unforgiven _will finally get you the respect you deserve?_
 ‘Deserve has got nothing to do with it’. Ha-ha. There’s always a line in a film that’s applicable. It’s like the line in _White Hunter, Black Heart_, where he says they’ll name a special Academy Award after me and all the wrong guys will win it.  
 **Interview by Peter Keogh, _Sight and Sound_, October 1992**  
 <br>
-**Unforgiven**  
+**UNFORGIVEN**  
 _Directed by:_ Clint Eastwood  
 _©/Author:_ Warner Bros, Inc.  
-_Production Company:_ Malpaso Company
-
-_Presented by/Distributed by:_ Warner Bros.
-
-_Executive Producer:_ David Valdes
-
-_Produced by:_ Clint Eastwood
-
-_Associate Producer:_ Julian Ludwig
-
+_Production Company:_ Malpaso Company  
+_Presented by/Distributed by:_ Warner Bros.  
+_Executive Producer:_ David Valdes  
+_Produced by:_ Clint Eastwood  
+_Associate Producer:_ Julian Ludwig  
 _Production Associates:_ Matt Palmer, John Lind  
 _Production Auditor:_ Michael Maurer  
 _Production Accountants:_ Lynn Elston, Jeffrey Kloss  
@@ -148,5 +151,5 @@ USA 1992©
 130 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMjc4NjU4XX0=
+eyJoaXN0b3J5IjpbLTM4MDUyMzkwNV19
 -->
