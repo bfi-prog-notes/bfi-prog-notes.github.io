@@ -57,11 +57,10 @@ Anzian Marcel _(‘Lame de Rasoir’)_
 Laetitia Ky _(queen)_  
 Denis Lavant _(‘Silence’)_
 
-Ivory Coast-France-Canada-Senegal-Italy 2020©
-
-93 mins
-
+Ivory Coast-France-Canada-Senegal-Italy 2020©  
+93 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjY5MDE5MF19
+eyJoaXN0b3J5IjpbMTQwMjI1MzIwOF19
 -->
