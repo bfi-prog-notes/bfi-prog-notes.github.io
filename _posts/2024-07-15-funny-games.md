@@ -67,36 +67,25 @@ _Special Effects/Stunts:_ Mac Steinmeier,  Danny Bellens, Willy Neuner<br>
 _Animals:_ Animal Action<br>
 _Dog Trainer:_ April Morley<br>
 
-Cast**<br>
+**Cast**<br>
 Susanne Lothar _(Anna Schober)_<br>
-
 Ulrich Mühe _(Georg Schober)_<br>
-
 Arno Frisch _(Paul)_<br>
-
 Frank Giering _(Peter)_<br>
-
 Stefan Clapczynski _(Georg ‘Schorschi’ Schober)_<br>
-
 Doris Kunstmann _(Gerda)_<br>
-
 Christoph Bantzer _(Fred Berlinger)_<br>
-
 Wolfgang Glück _(Robert)_<br>
-
 Susanne Meneghel _(Gerda’s sister)_<br>
-
 Monika Zallinger _(Eva Berlinger)_<br>
 
 Austria 1997©<br>
-
 109 mins<br>
-
 35mm
 <br><br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ3NDIwODZdfQ==
+eyJoaXN0b3J5IjpbMTA0MTEyMjE4OF19
 -->
