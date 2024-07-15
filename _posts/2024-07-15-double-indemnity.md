@@ -6,8 +6,8 @@ date: 2024-07-15
 readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Drama, Film Noir]
-metadata: 'Japan 1950, 88 mins<br> Director: Akira Kurosawa'
-pdf: '2024-07-08-rashomon.pdf'
+metadata: 'USA 1944, 107 mins<br> Director: Billy Wilder'
+pdf: '2024-07-15-double-indemnity.pdf'
 ---
 
 
@@ -100,6 +100,6 @@ USA 1944©
 107 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NzEwNDU5LDIwMjA2NTQwOTEsMTUyND
+eyJoaXN0b3J5IjpbNDA1MDU0MDE5LDIwMjA2NTQwOTEsMTUyND
 AwNzE5N119
 -->
