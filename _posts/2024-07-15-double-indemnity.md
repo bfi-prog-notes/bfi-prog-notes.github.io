@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Double Indemnity
+published: true
+date: 2024-07-15
+readtime: true
+categories: ['MEMBER MONDAYS']
+tags: [Drama, Film Noir]
+metadata: 'Japan 1950, 88 mins<br> Director: Akira Kurosawa'
+pdf: '2024-07-08-rashomon.pdf'
+---
 
 
 ‘It has all the characteristics of the classic forties film as I respond to it. It’s in black and white, it has fast badinage, it’s very witty, a story from the classic age. It has Edward G. Robinson, and Barbara Stanwyck and Fred MacMurray and the tough voice-over. It has brilliantly written dialogue, and the perfect score by Miklos Rosza. It’s Billy Wilder’s best movie... practically anybody’s best movie.’  (Woody Allen)
@@ -20,12 +30,9 @@ Dialogue and imagery (and, yes, performance – the actors Allen mentions were n
 Carefully constructed with, seemingly, a thorough knowledge of the insurance background, this plot sustains suspense and plausibility throughout. Its main brake is the obtrusive use of the flash-back technique. For the rest the narrative is clearly and smoothly set out, with some sensitive use of camera and lighting. MacMurray’s early characterisation of the insurance salesman is his most thorough work to date. Edward G. Robinson also contributes mightily by getting right inside the part of the insurance company’s claims investigator; and director Wilder has shown how much more effective a Robinson role can be if the long, overemphasised close-ups are eliminated. Barbara Stanwyck does her best with an unconvincing part.  
 **Monthly Film Bulletin, August 1944**  
 <br>
-**Double Indemnity**
-
-_Director:_ Billy Wilder
-
-_©/Production Company:_ Paramount Pictures
-
+**DOUBLE INDEMNITY**  
+_Director:_ Billy Wilder  
+_©/Production Company:_ Paramount Pictures  
 _Screenplay:_ Billy Wilder, Raymond Chandler  
 _Based on the novel by:_ James M. Cain  
 _Director of Photography:_ John F. Seitz  
@@ -33,11 +40,9 @@ _2nd Camera:_ Otto Pierce, Harlow Stengel
 _Process Photography:_ Farciot Edouart  
 _Editorial Supervision:_ Doane Harrison  
 _Art Directors:_ Hans Dreier, Hal Pereira  
-_Set Decorator:_ Bertram Granger 
-_Costumes:_ Edith Head
-
-_Wardrobe:_ Neva Bourne, Bill Rabb
-
+_Set Decorator:_ Bertram Granger  
+_Costumes:_ Edith Head  
+_Wardrobe:_ Neva Bourne, Bill Rabb  
 _Make-up Artist:_ Wally Westmore  
 _Music Score:_ Miklós Rózsa  
 _Symphony in D Minor by:_ César Franck  
@@ -95,6 +100,6 @@ USA 1944©
 107 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUwNTE4MzcsMjAyMDY1NDA5MSwxNT
-I0MDA3MTk3XX0=
+eyJoaXN0b3J5IjpbMjU3NzEwNDU5LDIwMjA2NTQwOTEsMTUyND
+AwNzE5N119
 -->
