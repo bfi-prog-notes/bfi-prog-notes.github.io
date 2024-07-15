@@ -37,93 +37,66 @@ _Why are the characters in_ Funny Games _all so bourgeois and the youths polite 
 
 Because I didn’t want the violence to be explicable in sociological terms and the youths to be written off as ‘other’, as happens with American films. When the film came out I collected seven different newspaper articles from seven different countries describing similar cases: boys from _bourgeois_ homes, not deprived or drug-addicted, but who just wanted to see what it would be like. In a sense, too, the film is a critique of the _bourgeois_ milieu. The fact that this family can’t escape is due to the way they’ve tried to insulate themselves from the world with their money, they’ve locked themselves in.
 
-Richard Falcon, _Sight and Sound_, May 1998
+**Richard Falcon, _Sight and Sound_, May 1998**
+<br><br>
 
-<![endif]-->
+**FUNNY GAMES**<br>
+_Director:_ Michael Haneke<br>
+_Production Company:_ Wega-Film<br>
+_Supported by:_ Österreichisches Filminstitut, Österreichischer Rundfunk, Wiener Filmförderungsfonds, Land Österreich<br>
+_Executive Producer:_ Veit Heiduschka<br>
+_Producer:_ Veit Heiduschka<br>
+_Production Manager:_ Werner Reitmeier<br>
+_Unit Production Managers:_ Alfred Strobl,  Phillip Kaiser<br>
+_Post-production:_ Michael Katz, Ulrike Lässer<br>
+_Production Administrator:_ Helga Fuchs<br>
+_Assistant Director:_ Hanus Polak Jr<br>
+_Script Supervisors:_ Katharina Biró, Jessica Hausner<br>
+_Screenplay:_ Michael Haneke<br>
+_Director of Photography:_ Jürgen Jürges<br>
+_Special Effects/Make-up:_ Waldemar Pokromski<br>
+_Editor:_ Andreas Prochaska<br>
+_Art Director:_ Christoph Kanter<br>
+_Costumes:_ Lisy Christl<br>
+_Wardrobe:_ Katharina Nikl<br>
+_Music:_ Georg Friedrich Händel, Pietro Mascagni, W.A. Mozart, John Zorn<br>
+_Sound:_ Walter Amann<br>
+_Mixer:_ Hannes Eder<br>
+_Sound Editor:_ Bernhard Bamberger<br>
+_Special Effects/Stunts:_ Mac Steinmeier,  Danny Bellens, Willy Neuner<br>
+_Animals:_ Animal Action<br>
+_Dog Trainer:_ April Morley<br>
 
-**FUNNY GAMES**
+Cast**<br>
+Susanne Lothar _(Anna Schober)_<br>
 
-_Director:_ Michael Haneke
+Ulrich Mühe _(Georg Schober)_<br>
 
-_Production Company:_ Wega-Film
+Arno Frisch _(Paul)_<br>
 
-_Supported by:_ Österreichisches Filminstitut, Österreichischer Rundfunk, Wiener Filmförderungsfonds, Land Österreich
+Frank Giering _(Peter)_<br>
 
-_Executive Producer:_ Veit Heiduschka
+Stefan Clapczynski _(Georg ‘Schorschi’ Schober)_<br>
 
-_Producer:_ Veit Heiduschka
+Doris Kunstmann _(Gerda)_<br>
 
-_Production Manager:_ Werner Reitmeier
+Christoph Bantzer _(Fred Berlinger)_<br>
 
-_Unit Production Managers:_ Alfred Strobl,  
-Phillip Kaiser
+Wolfgang Glück _(Robert)_<br>
 
-_Post-production:_ Michael Katz, Ulrike Lässer
+Susanne Meneghel _(Gerda’s sister)_<br>
 
-_Production Administrator:_ Helga Fuchs
+Monika Zallinger _(Eva Berlinger)_<br>
 
-_Assistant Director:_ Hanus Polak Jr
+Austria 1997©<br>
 
-_Script Supervisors:_ Katharina Biró, Jessica Hausner
-
-_Screenplay:_ Michael Haneke
-
-_Director of Photography:_ Jürgen Jürges
-
-_Special Effects/Make-up:_ Waldemar Pokromski
-
-_Editor:_ Andreas Prochaska
-
-_Art Director:_ Christoph Kanter
-
-_Costumes:_ Lisy Christl
-
-_Wardrobe:_ Katharina Nikl
-
-_Music:_ Georg Friedrich Händel, Pietro Mascagni, W.A. Mozart, John Zorn
-
-_Sound:_ Walter Amann
-
-_Mixer:_ Hannes Eder
-
-_Sound Editor:_ Bernhard Bamberger
-
-_Special Effects/Stunts:_ Mac Steinmeier,  
-Danny Bellens, Willy Neuner
-
-_Animals:_ Animal Action
-
-_Dog Trainer:_ April Morley
-
-_Cast:_
-
-Susanne Lothar _(Anna Schober)_
-
-Ulrich Mühe _(Georg Schober)_
-
-Arno Frisch _(Paul)_
-
-Frank Giering _(Peter)_
-
-Stefan Clapczynski _(Georg ‘Schorschi’ Schober)_
-
-Doris Kunstmann _(Gerda)_
-
-Christoph Bantzer _(Fred Berlinger)_
-
-Wolfgang Glück _(Robert)_
-
-Susanne Meneghel _(Gerda’s sister)_
-
-Monika Zallinger _(Eva Berlinger)_
-
-Austria 1997©
-
-109 mins
+109 mins<br>
 
 35mm
+<br><br>
 
-**Content warning:** Contains scenes of torture, violence and implied animal harm
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEwMzk2MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NzQ3NDIwODZdfQ==
 -->
