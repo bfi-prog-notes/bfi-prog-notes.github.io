@@ -20,6 +20,7 @@ Dialogue and imagery (and, yes, performance – the actors Allen mentions were n
 Carefully constructed with, seemingly, a thorough knowledge of the insurance background, this plot sustains suspense and plausibility throughout. Its main brake is the obtrusive use of the flash-back technique. For the rest the narrative is clearly and smoothly set out, with some sensitive use of camera and lighting. MacMurray’s early characterisation of the insurance salesman is his most thorough work to date. Edward G. Robinson also contributes mightily by getting right inside the part of the insurance company’s claims investigator; and director Wilder has shown how much more effective a Robinson role can be if the long, overemphasised close-ups are eliminated. Barbara Stanwyck does her best with an unconvincing part.  
 **Monthly Film Bulletin, August 1944**  
 <br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDAwNzE5N119
+eyJoaXN0b3J5IjpbMjAyMDY1NDA5MSwxNTI0MDA3MTk3XX0=
 -->
