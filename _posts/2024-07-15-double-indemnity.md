@@ -26,103 +26,57 @@ _Director:_ Billy Wilder
 
 _©/Production Company:_ Paramount Pictures
 
-_Screenplay:_ Billy Wilder, Raymond Chandler
-
-_Based on the novel by:_ James M. Cain
-
-_Director of Photography:_ John F. Seitz
-
-_2nd Camera:_ Otto Pierce, Harlow Stengel
-
-_Process Photography:_ Farciot Edouart
-
-_Editorial Supervision:_ Doane Harrison
-
-_Art Directors:_ Hans Dreier, Hal Pereira
-
-_Set Decorator:_ Bertram Granger
-
+_Screenplay:_ Billy Wilder, Raymond Chandler  
+_Based on the novel by:_ James M. Cain  
+_Director of Photography:_ John F. Seitz  
+_2nd Camera:_ Otto Pierce, Harlow Stengel  
+_Process Photography:_ Farciot Edouart  
+_Editorial Supervision:_ Doane Harrison  
+_Art Directors:_ Hans Dreier, Hal Pereira  
+_Set Decorator:_ Bertram Granger 
 _Costumes:_ Edith Head
 
 _Wardrobe:_ Neva Bourne, Bill Rabb
 
-_Make-up Artist:_ Wally Westmore
+_Make-up Artist:_ Wally Westmore  
+_Music Score:_ Miklós Rózsa  
+_Symphony in D Minor by:_ César Franck  
+_Sound Recording:_ Stanley Cooley, Walter Oberst  
 
-_Music Score:_ Miklós Rózsa
-
-_Symphony in D Minor by:_ César Franck
-
-_Sound Recording:_ Stanley Cooley, Walter Oberst
-
+_uncredited_  
+_Executive Producer:_ B.G. De Sylva  
+_Producer:_ Joseph Sistrom  
+_Production Manager:_ Hugh Brown  
+_Assistant Production Manager:_ Al Trosin  
+_Dialogue Director:_ John Gage  
+_Assistant Director:_ C.C. Coleman  
+_2nd Assistant Director:_ Bill Sheehan  
+_Screenplay Clerk:_ Nancy Lee  
+_Casting:_ Harvey Clermont  
+_Grip:_ Walter McLeod  
+_Microphone Grip:_ Bill Pillar  
+_Electrician:_ Chet Stafford  
+_Cableman:_ Jack Duffy  
+_Stills:_ Ed Henderson  
+_Assistant Cutter:_ Lee Hall  
+_Props:_ Jack De Golconda, James Cottrell  
+_Make-up:_ Bob Ewing  
+_Hair:_ Hollis Barnes  
+_Stand-in for Barbara Stanwyck:_ Dorothy Staten  
+_Publicity:_ John Woolfenden  
   
 
-_uncredited_
-
-_Executive Producer:_ B.G. De Sylva
-
-_Producer:_ Joseph Sistrom
-
-_Production Manager:_ Hugh Brown
-
-_Assistant Production Manager:_ Al Trosin
-
-_Dialogue Director:_ John Gage
-
-_Assistant Director:_ C.C. Coleman
-
-_2nd Assistant Director:_ Bill Sheehan
-
-_Screenplay Clerk:_ Nancy Lee
-
-_Casting:_ Harvey Clermont
-
-_Grip:_ Walter McLeod
-
-_Microphone Grip:_ Bill Pillar
-
-_Electrician:_ Chet Stafford
-
-_Cableman:_ Jack Duffy
-
-_Stills:_ Ed Henderson
-
-_Assistant Cutter:_ Lee Hall
-
-_Props:_ Jack De Golconda, James Cottrell
-
-_Make-up:_ Bob Ewing
-
-_Hair:_ Hollis Barnes
-
-_Stand-in for Barbara Stanwyck:_ Dorothy Staten
-
-_Publicity:_ John Woolfenden
-
-  
-
-_Cast:_
-
-Fred MacMurray _(Walter Neff)_
-
-Barbara Stanwyck _(Phyllis Dietrichson)_
-
-Edward G. Robinson _(Barton Keyes)_
-
-Porter Hall _(Mr Jackson)_
-
-Jean Heather _(Lola Dietrichson)_
-
-Tom Powers _(Mr Dietrichson)_
-
-Byron Barr _(Nino Zachette)_
-
-Richard Gaines _(Mr Norton)_
-
-Fortunio Bonanova _(Sam Gorlopis)_
-
-John Philliber _(Joe Peters)_
-
-  
+**Cast**  
+Fred MacMurray _(Walter Neff)_  
+Barbara Stanwyck _(Phyllis Dietrichson)_  
+Edward G. Robinson _(Barton Keyes)_  
+Porter Hall _(Mr Jackson)_  
+Jean Heather _(Lola Dietrichson)_  
+Tom Powers _(Mr Dietrichson)_  
+Byron Barr _(Nino Zachette)_  
+Richard Gaines _(Mr Norton)_  
+Fortunio Bonanova _(Sam Gorlopis)_  
+John Philliber _(Joe Peters)_  
 
 _uncredited_  
 Bess Flowers _(secretary)_  
@@ -141,6 +95,6 @@ USA 1944©
 107 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU5MDk0NjksMjAyMDY1NDA5MSwxNT
+eyJoaXN0b3J5IjpbLTIxNDUwNTE4MzcsMjAyMDY1NDA5MSwxNT
 I0MDA3MTk3XX0=
 -->
