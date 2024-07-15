@@ -10,7 +10,6 @@ metadata: 'USA 1944, 107 mins<br> Director: Billy Wilder'
 pdf: '2024-07-15-double-indemnity.pdf'
 ---
 
-
 ‘It has all the characteristics of the classic forties film as I respond to it. It’s in black and white, it has fast badinage, it’s very witty, a story from the classic age. It has Edward G. Robinson, and Barbara Stanwyck and Fred MacMurray and the tough voice-over. It has brilliantly written dialogue, and the perfect score by Miklos Rosza. It’s Billy Wilder’s best movie... practically anybody’s best movie.’  (Woody Allen)
 
 Agreed. With amendments. Extensive ones. For Double Indemnity acts as a kind of purgative, at once bringing out the worst in us while making us feel so much the better for it. As such it contains more devious felicities than memory, however fond, can summon up in the course of a casual conversation. It has, as well, more dark virtues than we may be able to pick up as – warmed, relaxed, our critical faculties disarmed by the nostalgic impulse – we revisit it via home video or late-night television. It is, in fact, a movie that not only withstands rigorous scrutiny, but actually improves the more closely we study it, the more we know about the circumstances of its creation.
@@ -28,7 +27,7 @@ Dialogue and imagery (and, yes, performance – the actors Allen mentions were n
 
 **A contemporary review**  
 Carefully constructed with, seemingly, a thorough knowledge of the insurance background, this plot sustains suspense and plausibility throughout. Its main brake is the obtrusive use of the flash-back technique. For the rest the narrative is clearly and smoothly set out, with some sensitive use of camera and lighting. MacMurray’s early characterisation of the insurance salesman is his most thorough work to date. Edward G. Robinson also contributes mightily by getting right inside the part of the insurance company’s claims investigator; and director Wilder has shown how much more effective a Robinson role can be if the long, overemphasised close-ups are eliminated. Barbara Stanwyck does her best with an unconvincing part.  
-**Monthly Film Bulletin, August 1944**  
+**_Monthly Film Bulletin_, August 1944**  
 <br>
 **DOUBLE INDEMNITY**  
 _Director:_ Billy Wilder  
@@ -99,7 +98,31 @@ Miriam Franklin _(Keyes’ secretary)_
 USA 1944©  
 107 mins  
 Digital  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MDU0MDE5LDIwMjA2NTQwOTEsMTUyND
-AwNzE5N119
+eyJoaXN0b3J5IjpbLTY1MTM0Mzg3OCw0MDUwNTQwMTksMjAyMD
+Y1NDA5MSwxNTI0MDA3MTk3XX0=
 -->
