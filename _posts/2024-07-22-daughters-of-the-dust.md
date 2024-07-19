@@ -18,9 +18,8 @@ Through a union of African diasporic storytelling techniques, visually arresting
 
 The film, which recently celebrated its 30th anniversary, remains an enduring symphony that sings, reframes and reignites a Black girl’s song.
 
-By refusing a Eurocentric understanding of African-American identity, Dash’s seminal work challenges us all to believe in cinema’s creation – and viewing – as an act of communal healing. With this cinematic heirloom leading the way, may we all continue to.
-
-Maya S. Cade, _Sight and Sound_, Winter 2022-23
+By refusing a Eurocentric understanding of African-American identity, Dash’s seminal work challenges us all to believe in cinema’s creation – and viewing – as an act of communal healing. With this cinematic heirloom leading the way, may we all continue to.  
+**Maya S. Cade, _Sight and Sound_, Winter 2022-23**  
 
 As a sequel to Julie Dash’s _Daughters of the Dust_ was never made, we never knew what became of the Peazant girls after they crossed over to the mainland from the Sea Islands of South Carolina. That is, until Beyoncé’s visual album _Lemonade_ dropped in 2016 and seemed to pick up the story of its gorgeously garbed Black women as they struggled to find their way in the New World. Thanks to _Lemonade’s_ distinct homage, Dash’s pioneering movie was rediscovered by a new generation and has now been restored and rereleased in time for its 25th anniversary.
 
@@ -54,8 +53,7 @@ _A_ Kino International _release_
 _Executive Producer_: Lindsay Law  
 _Producers_: Julie Dash, Arthur Jafa  
 _Line Producer_: Steven Jones  
-_Associate Producers_: Pamm R. Jackson,  
-Floyd Webb, Bernard Nicholas  
+_Associate Producers_: Pamm R. Jackson, Floyd Webb, Bernard Nicholas  
 _Production Co-ordinator_: Teresa Yarbrough  
 _Production Controller_: Kathy Richter  
 _Location Manager_: Eric Mofford  
@@ -91,14 +89,12 @@ _Original Music by_: John Barnes
 _African Percussions/Vocals_: Jesus Pedro Orta, Menge Hernandez, Francis Awe, Bill Summers, Elo  
 _Eastern Percussionists_: Manoocheher Sadeghi, Ashhad Khan  
 _Vocalists_: Rosa Parrilla, Valentina Soares, Abiola, Dianne Richburg, Felicidad, Yvette Bostic, Radhaz, Hanif Noor Mohammed, Allen Fovary III, Micki Butler  
-_African Percussions/Vocals Co-ordinated by_:  
-Bill Summers  
+_African Percussions/Vocals Co-ordinated by_: Bill Summers  
 _Music Recorded at_: Off Melrose Studio  
 _Music Mixer/Engineer_: Jack Rouben  
 _Sound Recordist_: Veda Campbell  
 _Boom Operator_: Chris Sibert  
-_Re-recording Mixers_: Jeremy Hoenack,  
-Robert Manahan, Melissa Sherwood Hofmann  
+_Re-recording Mixers_: Jeremy Hoenack, Robert Manahan, Melissa Sherwood Hofmann  
 _Re-recorded by_: Sound Trax  
 _Supervising Sound Editor_: Michael Payne  
 _Dialogue Editors_: Ingeborg Larson, Melissa Peabody  
