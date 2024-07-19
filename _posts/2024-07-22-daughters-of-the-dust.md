@@ -32,7 +32,114 @@ Despite its critical and box-office success, another feature along the lines of 
 Twenty-five years on, _Daughters of the Dust_ still feels remarkable. Its rich cinematic language breaks open formal storytelling, allowing a distinct, possibly ancient, voice to emerge that changes the possibilities of cinema for Black female filmmakers and viewers.  
 **Gaylene Gould, _Sight and Sound_, June 2017**  
 <br>
+**DAUGHTERS OF THE DUST**  
+_Directed by_: Julie Dash  
+_©/Production Company_: Geechee Girls Productions  
+_In association with_: American Playhouse, WMG Pictures  
+_With financial assistance from_: Public Broadcasting Service,  
+Corporation for Public Broadcasting, National Endowment for the Arts, Chubb Group of Insurance Companies  
+_Presented by_: American Playhouse  
+_A_ Kino International _release_  
+_Executive Producer_: Lindsay Law  
+_Producers_: Julie Dash, Arthur Jafa  
+_Line Producer_: Steven Jones  
+_Associate Producers_: Pamm R. Jackson,  
+Floyd Webb, Bernard Nicholas  
+_Production Co-ordinator_: Teresa Yarbrough  
+_Production Controller_: Kathy Richter  
+_Location Manager_: Eric Mofford  
+_Post-production Supervisor_: Amy Carey  
+_1st Assistant Directors_: C.C. Barnes, Nandi Bowe  
+_2nd Assistant Director_: Miller Tobin  
+_Casting_: Len Hunt  
+_Written by_: Julie Dash  
+_Director of Photography_: Arthur Jafa  
+_Camera Operators_: Arthur Jafa, N’jia Kai  
+_1st Assistant Camera_: William Hudson  
+_Additional 1st Assistant Camera_: Robin Melhuish  
+_2nd Assistant Camera_: Tommy Burns  
+_Gaffer_: Alex Vlacos  
+_Key Grip_: Kevin Hamm  
+_Special Effects_: Willard Stephens  
+_Editors_: Amy Carey, Joseph Burton  
+_Production Designer_: Kerry Marshall  
+_Art Director_: Michael Kelly Williams  
+_Set Dresser_: Ricardo Butler  
+_Prop Master_: Peter Knowlton  
+_Construction Foreman_: Umar Abdurrahamn  
+_Costume Designer_: Arline Burks  
+_Set Costumer_: Tiffany Taylor  
+_Make-up Supervisor_: Rose Chatterton  
+_Assistant Make-up_: Bryan A. Seabrook  
+_Hairstylist_: Pamela Ferrell  
+_Titles/Opticals_: Atlanta Films Effects, John E. Allen  
+_Dailies_: DuArt Film Laboratories  
+_Negative Conforming_: J.G. Films Inc  
+_Laboratory_: John E. Allen  
+_Original Music by_: John Barnes  
+_African Percussions/Vocals_: Jesus Pedro Orta, Menge Hernandez, Francis Awe, Bill Summers, Elo  
+_Eastern Percussionists_: Manoocheher Sadeghi, Ashhad Khan  
+_Vocalists_: Rosa Parrilla, Valentina Soares, Abiola, Dianne Richburg, Felicidad, Yvette Bostic, Radhaz, Hanif Noor Mohammed, Allen Fovary III, Micki Butler  
+_African Percussions/Vocals Co-ordinated by_:  
+Bill Summers  
+_Music Recorded at_: Off Melrose Studio  
+_Music Mixer/Engineer_: Jack Rouben  
+_Sound Recordist_: Veda Campbell  
+_Boom Operator_: Chris Sibert  
+_Re-recording Mixers_: Jeremy Hoenack,  
+Robert Manahan, Melissa Sherwood Hofmann  
+_Re-recorded by_: Sound Trax  
+_Supervising Sound Editor_: Michael Payne  
+_Dialogue Editors_: Ingeborg Larson, Melissa Peabody  
+_Sound Effects Editors_: Doug Blush, Ray Greene, Sabrina Stephenson, Jeff Schiro, Joseph Zappala  
+_Walla Group_: Holiday Marble, Sparkle Duncan, Teddy Gross, Guadalupe Jones, Rudy Costa, Agusta Stone, Charles Burnett, Geraldine Dunston  
+_ADR Voices_: Afemo Omiliani, Taira Miller  
+_ADR Editor_: Kris Campbell  
+_Gullah Language Consultant_: Ronald Daise  
 
+**Cast**  
+Adisa Anderson _(Eli Peazant)_  
+Barbara-O _(Yellow Mary Peazant)_  
+Cheryl Lynn Bruce _(Viola Peazant)_  
+Cora Lee Day _(Nana Peazant)_  
+Geraldine Dunston _(Viola’s mother)_  
+Vertamae Grosvenor _(hairbraider)_  
+Tommy Hicks _(Mr Snead)_  
+Kaycee Moore _(Haagar Peazant)_  
+Eartha D. Robinson _(Myown Peazant)_  
+Alva Rogers _(Eula Peazant)_  
+Cornell Royal _(Daddy Mac Peazant)_  
+Catherine Tarver _(woman with baby)_  
+Bahni Turpin _(Iona Peazant)_  
+Kai-Lynn Warren _(the unborn child)_  
+Trula Hoosier _(Trula)_  
+Umar Abdurrahamn _(Bilal Muhammed)_  
+Malik Farrakhan _(newlywed man)_  
+Sherry Jackson _(older cousin)_  
+Rev Ervin Green _(baptist minister)_  
+Marcus Humphrey, Bernard Wilson _(boatmen)_  
+Althea Lang _(newlywed woman)_  
+Jasmine Lee, Dalisia Robinson _(Peazant babies)_  
+Willie Faulkner, Joe Taylor, Frank Brown, Rueben Fripp _(Peazant men)_  
+Derrick Coaxum, Neil Howard _(Peazant boys)_  
+Jared Warren, Zenovia Green, Taira Miller, Tiffanye Hills _(Peazant children)_  
+Jamar Freeman _(Pete)_  
+Detrell Freeman _(re-Pete)_  
+Vivian Dawson, Inez Griffin _(rice huskers)_  
+M. Cochise Anderson _(St Julien Lastchild)_  
+Darrel Cook, Julius Cook _(moss gatherers)_  
+Benjamin Gillens _(minister’s assistant)_  
+Ronald Daise _(processional man)_  
+Marie Smalls _(woman being baptised)_  
+Lonnie Moon, DeWitt Parker, Emma Robinson, Taylor Thompson, Virginia Green, Maceo Griffin, Archie Thomas, Raymond Paige, Ervena Faulkner, J.R. Wilson, Wilhemina Wilson _(baptismal processional)_  
+Tarell Brown, Shanna Parker, Belle White, Stanley White, Maxine Royalle, Georgia Wiggins, Carolyn Garris, Ella Powell, Bernice Jenkins, Lillian Johnson, Jackie Parker _(indigo plantation)_  
+Shanna Johnson _(young Nana Peazant)_  
+Leroy Simmons Jr _(young Daddy Mac Peazant)_  
+Leroy Simmons _(Shad Peazant)_  
+
+USA 1991©  
+112 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzQ4NzI2MF19
+eyJoaXN0b3J5IjpbLTE5NTI5Mjc0MjhdfQ==
 -->
