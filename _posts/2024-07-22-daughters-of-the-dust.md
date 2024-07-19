@@ -6,8 +6,8 @@ date: 2024-07-22
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA 1980, 121 mins<br> Director: John Cassavetes'
-pdf: '2024-07-13-gloria.pdf'
+metadata: 'USA 1991, 112 mins<br> Director: Julie Dash'
+pdf: '2024-07-22-daughters-of-the-dust.pdf'
 ---
 
 The ascension of Julie Dash’s _Daughters of the Dust_ to recognition as one of the greatest films of all time hardly comes as a surprise to Black women moviegoers, who championed the film from its earliest screenings and fiercely defended it against wilful misunderstandings in the decades that followed. Black women, in whose image the 1991 feature was directly created, saw then what is now widely understood: Dash’s visionary visual marriage between Afrocentric aesthetics and the rich emotional depth of Black womanhood is a cinematic triumph.
@@ -207,5 +207,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTI4OTY2OF19
+eyJoaXN0b3J5IjpbNzM0MjUxMjIwXX0=
 -->
