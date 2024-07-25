@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Horror]
 metadata: 'USA 2024, 100 mins<br> Director: Jane Schoenbrun'
-pdf: '2024-07-26-crossing.pdf'
+pdf: '2024-07-26-i-saw-the-tv-glow.pdf'
 ---
 
 Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show – a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.
@@ -144,5 +144,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTc0OTI4OF19
+eyJoaXN0b3J5IjpbMjEzMzQ3Mjc5MF19
 -->
