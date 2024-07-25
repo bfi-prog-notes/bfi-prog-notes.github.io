@@ -28,8 +28,7 @@ This could all describe various parts of life, such as being an adolescent or be
 <br>
 <![endif]-->
 
-**I Saw the TV Glow**
-
+**I SAW THE TV GLOW**    
 _Directed by_: Jane Schoenbrun  
 _©_: Pink Opaque Rights LLC  
 _A_ Fruit Tree _production_  
@@ -37,13 +36,9 @@ _A_ Smudge Films _production_
 _A_ Hypnic Jerk _production_  
 _Presented by_: A24  
 _Executive Producers_: Kevin Kelly, Taylor Shung  
-_Produced by_: Sam Intili, Sarah Winshall,
-
-Emma Stone, Dave McCary, Ali Herting  
+_Produced by_: Sam Intili, Sarah Winshall, Emma Stone, Dave McCary, Ali Herting  
 _Associate Producer_: Jennifer DiLullo  
-_Casting by_: Abby Harri, Geraldine Baron,
-
-Salome Oggenfuss  
+_Casting by_: Abby Harri, Geraldine Baron, Salome Oggenfuss  
 _Written by_: Jane Schoenbrun  
 _Director of Photography_: Eric K. Yue  
 _Visual Effects Provided by_: The-Artery  
@@ -56,29 +51,23 @@ _Make-up Designer/Make-up Department Head_: Aaron Worman
 _Mr Sprinkley - Special Effects Make-up - Special Effects Make-up Design by_: Spectral Motion  
 _Mr Melancoly - Special Effects Make-up - Special Effects Make-up Lead_ : Ashley Thomas  
 _Marco & Polo - Special Effects Make-up - Special Effects Make-up Designer/Owen’s Chest - Special Effects Makeup - Special Effects Make-up Designer_:s Izzi Galindo, Manny Lemus  
-_Hair Department Heads_: Derrick Kollock,
-
-Daniel Cerone  
+_Hair Department Heads_: Derrick Kollock, Daniel Cerone  
 _Original Music by_: Alex G  
 _[Production] Sound Mixer_: Dan Bricker  
 _Re-recording Mixer_: Dan Timmons  
-_Supervising Sound Editor_: Tim Korn
+_Supervising Sound Editor_: Tim Korn  
 
-_Cast:_  
+**Cast**  
 Justice Smith _(Owen)_  
 Brigette Lundy-Paine _(Maddy)_  
 Helena Howard _(Isabel)_  
 Lindsey Jordan _(Tara)_  
 Conner O’Malley _(Dave)_  
-Emma Portner
-
-_(Mr Meloncholy/Marco/Amanda/evil clown)_  
+Emma Portner _(Mr Meloncholy/Marco/Amanda/evil clown)_  
 Ian Foreman _(young Owen)_  
 Fred Durst _(Frank)_  
 Danielle Deadwyler _(Brenda)_  
-Sloppy Jane (ft. Phoebe Bridgers)
-
-_(special musical guest)_  
+Sloppy Jane (ft. Phoebe Bridgers) _(special musical guest)_  
 King Woman _(special musical guest)_  
 Madaline Riley _(Polo)_  
 Amber Benson _(Johnny Link’s mom)_  
@@ -88,15 +77,13 @@ Danny Tamberelli _(neighbour 2)_
 Timothy Allan _(Lance)_  
 Tyler Dean Flores _(Cade)_  
 Elizabeth Scopel _(drive-thru kid)_  
-Marilyn Bandiero _(Brenda’s friend)_
+Marilyn Bandiero _(Brenda’s friend)_  
 
-USA 2024
+USA 2024  
+100 mins  
+Digital 4K  
 
-100 mins
-
-Digital 4K
-
-A Park Circus release
+A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTEyNjI4NV19
+eyJoaXN0b3J5IjpbLTgxMzc1NDU5MV19
 -->
