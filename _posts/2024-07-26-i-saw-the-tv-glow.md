@@ -5,9 +5,9 @@ published: true
 date: 2024-07-26
 readtime: true
 categories: ['NEW RELEASES']
-tags: [Drama]
-metadata: 'USA 2024, 100 mins<br> Director: Levan Akin'
-pdf: '2024-07-19-crossing.pdf'
+tags: [Horror]
+metadata: 'USA 2024, 100 mins<br> Director: Jane Schoenbrun'
+pdf: '2024-07-26-crossing.pdf'
 ---
 
 Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show – a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.
@@ -32,7 +32,6 @@ Notwithstanding its initial genre-based toeholds, _I Saw the TV Glow_ is no more
 This could all describe various parts of life, such as being an adolescent or becoming politically radicalised. Especially salient here, though, is the resonance with trans experience (Schoenbrun is nonbinary). What if this given reality is wrong in ways that might be unsurvivable if left unconfronted? The TV tells you ‘it can’t hurt you if you don’t think about it’, but is that true? Owen and Maddy both read as queer and seemingly buried alive by their upbringings, aware of the possibility that a better reality might exist if one rouses the courage to kill off the fatally familiar in favour of the tantalisingly unknown. Live burial is the atavistically alarming motif that forms the potential portal between the world the characters grew up in and the world of _The Pink Opaque_ – just as, for many trans people, being buried alive can serve as a metaphor for the given life they have to move beyond in order to reach a selfhood that feels viable. But denial is strong and norms can be fatal. ‘This isn’t the midnight realm,’ Owen says when Maddy proposes such a transition. ‘It’s just the suburbs.’ But maybe reality is bigger than that binary allows.  
 **Ben Walters,  _Sight and Sound_, bfi.org.uk/sight-and-sound, 22 July 2024**  
 <br>
-
 
 **I SAW THE TV GLOW**    
 _Directed by_: Jane Schoenbrun  
@@ -90,6 +89,60 @@ USA 2024
 Digital 4K  
 
 A Park Circus release  
+<br>
+**NEW RELEASES**  
+**Bye Bye Tiberias** Bye Bye Tibériade  
+From Fri 28 Jun + Q&A on Fri 28 Jun 18:00  
+**Kinds of Kindness**  
+From 5 July  
+**Sleep** Jam  
+From Fri 12 Jul  
+**Crossing**  
+From Fri 19 Jul  
+**About Dry Grasses** Kuru Otlar Üstüne  
+From Fri 26 Jul  
+**Sky Peals**  
+From 9 August  
+**Kneecap**  
+From 23 August  
+
+ <br>
+ 
+**RE-RELEASES**  
+**Network**  
+From Fri 28 Jun  
+**The Conversation**  
+From Fri 5 Jul  
+**Bushman**  
+From Fri 12 Jul  
+**Alma’s Rainbow**  
+From 2 August  
+**Werckmeister Harmonies** Werckmeister Harmoniak  
+From 2 August  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MjI4NzMyXX0=
+eyJoaXN0b3J5IjpbMTMxOTc0OTI4OF19
 -->
