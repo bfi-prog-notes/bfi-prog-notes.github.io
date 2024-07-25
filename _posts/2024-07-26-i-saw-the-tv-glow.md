@@ -1,12 +1,9 @@
 
 
-<![endif]-->
-
 Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show – a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.
 
-Written and directed by Jane Schoenbrun (who deeply unsettled us with their startling 2021 mood piece _We’re All Going to the World’s Fair_) _I Saw the TV Glow_ is an eerily nostalgic and mesmerising horror enveloping a powerful portrait of identity, queerness and media consumption.
-
-Kimberley Sheehan, Film and Events Programmer, bfi.org.uk
+Written and directed by Jane Schoenbrun (who deeply unsettled us with their startling 2021 mood piece _We’re All Going to the World’s Fair_) _I Saw the TV Glow_ is an eerily nostalgic and mesmerising horror enveloping a powerful portrait of identity, queerness and media consumption.  
+**Kimberley Sheehan, Film and Events Programmer, bfi.org.uk**  
 
 ‘It seems like you’re always somewhere else lately,’ muses the mother of Owen (Justice Smith), a frustrated teenager in an ordinarily stifling American suburb in the late 1990s. The fraught question of elsewhere, its threats and promises, permeates _I Saw the TV Glow_, as it permeated director Jane Schoenbrun’s previous feature _We’re All Going to the World’s Fair_ (2021) and as it permeated the 1990s TV shows from which this new film takes inspiration.
 
@@ -16,8 +13,7 @@ The notion of ‘going inside the video’ was central to _We’re All Going to 
 
 Something comparable emerges in _I Saw the TV Glow_, but from what initially seems like a more generically familiar set-up. As disaffected Gen X teenagers, smothered, introverted Owen and neglected, eye-rolling Maddy come across as versions of types we know from any number of movies and shows, backed up by mordant early tongue-in-cheek guffaws (they attend Void High School – geddit?). The film plays with the now-quaint textures of pre-digital viewing culture, such as the soft bulge of a cathode-ray TV screen or the flutter of a well-thumbed printed episode guide. Remember the good fortune of having a friend tape a show for you from its single airing and passing you the physical cassette, complete with handwritten notes or doodles (the era’s closest analogue to on-demand viewing)? Or the anxiety of watching something verboten with one finger on the VCR’s eject button?
 
-Great attention has also gone into realising the saturated colours and analogue textures of the show within the movie, _The Pink Opaque_. It centres on two teenage girls who join forces to battle a clandestine supernatural threat, manifested by various monsters of the week inspired by mundane things (ice cream, clowns, the moon) and orchestrated by a series-spanning ‘big bad’ known as Mr Melancholy. _Twin Peaks_ (1990-91) looms large here, alongside other zeitgeist-grabbing ’90s shows such as _Buffy the Vampire Slayer_ (1997-2003) and _The X-Files_ (1993-2002): shows in which unorthodox leads confront uncanny threats and hidden realities (here, ‘the midnight realm’) whose irruption reveals the everyday world as a skimpy gauze stretching over unimaginable otherness. As in _Twin Peaks_, some of the jeopardy shown in  
-_The Pink Opaque_ is truly nightmarish, and like David Lynch, Schoenbrun offers musical interludes (including from Phoebe Bridgers) as expressionistic vehicles for yearning.
+Great attention has also gone into realising the saturated colours and analogue textures of the show within the movie, _The Pink Opaque_. It centres on two teenage girls who join forces to battle a clandestine supernatural threat, manifested by various monsters of the week inspired by mundane things (ice cream, clowns, the moon) and orchestrated by a series-spanning ‘big bad’ known as Mr Melancholy. _Twin Peaks_ (1990-91) looms large here, alongside other zeitgeist-grabbing ’90s shows such as _Buffy the Vampire Slayer_ (1997-2003) and _The X-Files_ (1993-2002): shows in which unorthodox leads confront uncanny threats and hidden realities (here, ‘the midnight realm’) whose irruption reveals the everyday world as a skimpy gauze stretching over unimaginable otherness. As in _Twin Peaks_, some of the jeopardy shown in _The Pink Opaque_ is truly nightmarish, and like David Lynch, Schoenbrun offers musical interludes (including from Phoebe Bridgers) as expressionistic vehicles for yearning.
 
 Small-screen predecessors like _Buffy_ and _The X-Files_ – and, for that matter, the unthreatening pastiche of _Stranger Things_ (2016-) – place a premium on camaraderie, collaboration and, ultimately, love. But _I Saw the TV Glow_ is unlike them in its approach to friendship and affective relations. In Schoenbrun’s films, it’s probably more than any one character can manage to get through the reality-quake of daily experience, let alone forge meaningful reciprocal bonds with anyone else flailing through the world.
 
@@ -26,7 +22,7 @@ Notwithstanding its initial genre-based toeholds, _I Saw the TV Glow_ is no more
 This could all describe various parts of life, such as being an adolescent or becoming politically radicalised. Especially salient here, though, is the resonance with trans experience (Schoenbrun is nonbinary). What if this given reality is wrong in ways that might be unsurvivable if left unconfronted? The TV tells you ‘it can’t hurt you if you don’t think about it’, but is that true? Owen and Maddy both read as queer and seemingly buried alive by their upbringings, aware of the possibility that a better reality might exist if one rouses the courage to kill off the fatally familiar in favour of the tantalisingly unknown. Live burial is the atavistically alarming motif that forms the potential portal between the world the characters grew up in and the world of _The Pink Opaque_ – just as, for many trans people, being buried alive can serve as a metaphor for the given life they have to move beyond in order to reach a selfhood that feels viable. But denial is strong and norms can be fatal. ‘This isn’t the midnight realm,’ Owen says when Maddy proposes such a transition. ‘It’s just the suburbs.’ But maybe reality is bigger than that binary allows.  
 **Ben Walters,  _Sight and Sound_, bfi.org.uk/sight-and-sound, 22 July 2024**  
 <br>
-<![endif]-->
+
 
 **I SAW THE TV GLOW**    
 _Directed by_: Jane Schoenbrun  
@@ -85,5 +81,5 @@ Digital 4K
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzc1NDU5MV19
+eyJoaXN0b3J5IjpbLTEwOTA1OTk1MzFdfQ==
 -->
