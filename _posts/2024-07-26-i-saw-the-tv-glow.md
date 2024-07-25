@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: I Saw the TV Glow
+published: true
+date: 2024-07-26
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'USA 2024, 100 mins<br> Director: Levan Akin'
+pdf: '2024-07-19-crossing.pdf'
+---
 
 Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show – a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.
 
@@ -81,5 +91,5 @@ Digital 4K
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA1OTk1MzFdfQ==
+eyJoaXN0b3J5IjpbOTQ2MjI4NzMyXX0=
 -->
