@@ -6,8 +6,8 @@ date: 2024-07-29
 readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Drama, Film Noir]
-metadata: 'USA 1982, 129 mins<br> Director: Sidney Lumet'
-pdf: '2024-07-22-verdict.pdf'
+metadata: 'USA 1950, 94 mins<br> Director: Nicholas Ray'
+pdf: '2024-07-29-in-a-lonely-place.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -105,5 +105,5 @@ USA 1950©
 94 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg5MzI4MTBdfQ==
+eyJoaXN0b3J5IjpbLTcwOTgzODkyMywtMTc2ODkzMjgxMF19
 -->
