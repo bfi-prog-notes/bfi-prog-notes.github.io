@@ -1,3 +1,14 @@
+---
+layout: post
+title: About Dry Grasses
+published: true
+date: 2024-07-26
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Horror]
+metadata: 'Turkey-France-Germany-Sweden-Qatar 2023, 197 mins<br> Director: Nuri Bilge Ceylan'
+pdf: '2024-07-26-about-dry-grasses.pdf'
+---
 
 The latest work from the Turkish auteur behind _Once upon a Time in Anatolia_ and _Winter Sleep_ is an arresting, character-driven study of loneliness and self-interest. Samet, an art teacher assigned to a small school in Eastern Anatolia, is weary of his remote surroundings and tedious village life, and longs to be reposted to his native Istanbul. He finds distraction in his favourite student and protégée Sevim, who receives special attention from him. However, this leads to an accusation of inappropriate behaviour. As the arrogant and nihilistic Samet unravels when faced with the charges, Ceylan delves into the man’s self-absorption and bitterness. A philosophical and novelistic drama, set against the striking and beautifully framed landscapes of Anatolia, _About Dry Grasses_ once again features Ceylan’s signature verbal sparring between characters. A magnificent Merve Dizdar, who plays a fellow teacher tackling existential questions with Samet, took home the Best Actress prize from Cannes for her captivating performance.  
 **Kimberley Sheehan, Film and Events Programmer**
@@ -64,6 +75,30 @@ Digital
 
 A Picturehouse Entertainment release
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTIzNTQzNzIzXX0=
 -->
