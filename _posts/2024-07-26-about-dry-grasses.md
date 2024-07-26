@@ -30,10 +30,8 @@ _an_ NBC Film, Memento Productıon, Komplizen Film _production_
 _Executive Producer_: Mediha Didem Türemen  
 _Assistant Director_: Yildiz Asanboga  
 _Casting_: Pinar Gök  
-_Script Writers_: Akin Aksu, Ebru Ceylan,  
-Nuri Bilge Ceylan  
-_Directors of Photography_: Cevahir Şahin,  
-Kürşat Üresin  
+_Script Writers_: Akin Aksu, Ebru Ceylan,  Nuri Bilge Ceylan  
+_Directors of Photography_: Cevahir Şahin,  Kürşat Üresin  
 _Visual Effects by_: Mojo FX  
 _Editors_: Oğuz Atabaş, Nuri Bilge Ceylan  
 _Production Designer_: Meral Aktan  
@@ -46,8 +44,7 @@ _Sound Engineer_: Fatih Aydoğdu
 _Re-recording Mixer_: Jean-Pierre Laforce  
 _Sound Editor_: Clément Laforce
 
-_Cast:_
-
+**Cast**  
 Deniz Celiloğlu _(Samet)_  
 Merve Dizdar _(Nuray)_  
 Musab Ekici _(Kenan)_  
@@ -61,13 +58,12 @@ Cengiz Bozkurt _(Nail)_
 S.Emrah Özdemir _(sergeant)_  
 Elif Ürse _(Assistant Principal Saime)_
 
-Turkey-France-Germany-Sweden-Qatar 2023©
-
-197 mins
-
+Turkey-France-Germany-Sweden-Qatar 2023©  
+197 mins  
 Digital
 
 A Picturehouse Entertainment release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDM4MDYwOV19
+eyJoaXN0b3J5IjpbOTIzNTQzNzIzXX0=
 -->
