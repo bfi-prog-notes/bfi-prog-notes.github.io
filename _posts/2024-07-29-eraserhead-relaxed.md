@@ -6,11 +6,11 @@ date: 2024-07-29
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Fantasy]
-metadata: 'USA 1976, 89 mins<br> Director: Roberto Rossellini'
-pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
+metadata: 'USA 1976, 89 mins<br> Director: David Lynch'
+pdf: '2024-07-29-eraserhead-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/mtkbp.png"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/eraserhead.png"><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -22,14 +22,10 @@ The post screening discussion will be led by filmmaker Georgia Kumari Bradburn o
 
 
 
-**ERASERHEAD**
-
-_Director:_ David Lynch
-
-_Produced with the co-operation of:_
-
-AFI Center for Advanced Film Studies  
-_Produced by: David Lynch_  
+**ERASERHEAD**  
+_Director:_ David Lynch  
+_Produced with the co-operation of:_ AFI Center for Advanced Film Studies  
+_Produced by:_ David Lynch  
 _Screenplay:_ David Lynch  
 
 **Cast**  
@@ -105,5 +101,5 @@ Sat 29 Jun 13:10
 **Miracle in Milan** Miracolo a Milano  
 Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjIyOTQwN119
+eyJoaXN0b3J5IjpbLTE1ODQyMzA1ODldfQ==
 -->
