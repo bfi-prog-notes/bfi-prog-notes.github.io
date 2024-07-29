@@ -2,11 +2,11 @@
 layout: post
 title: Eraserhead
 published: true
-date: 2024-07-2
+date: 2024-07-29
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Comedy, Fantasy]
-metadata: 'Italy 1948-52, 85 mins<br> Director: Roberto Rossellini'
+tags: [Fantasy]
+metadata: 'USA -52, 85 mins<br> Director: Roberto Rossellini'
 pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
 ---
 
@@ -100,5 +100,5 @@ Sat 29 Jun 13:10
 **Miracle in Milan** Miracolo a Milano  
 Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMDE5MzU3XX0=
+eyJoaXN0b3J5IjpbMTQ2Nzg5ODcyMV19
 -->
