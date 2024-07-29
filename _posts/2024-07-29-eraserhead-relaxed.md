@@ -44,6 +44,7 @@ Digital
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
+<br>
 
 
 **The next relaxed screening is:** <br>
@@ -51,12 +52,11 @@ Digital
 **+ intro and discussion**  
 **Monday 19 August 2024 18:45 NFT3**  
 
- 
+ <br>
 
   
 
-**DISCOMFORT MOVIES**  
-
+**DISCOMFORT MOVIES**    
 **The Lost Weekend**  
 Mon 29 Jul 20:40  
 **Audition** Ôdishon  
@@ -100,18 +100,6 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 <BR>
 
-
-**CHASING THE REAL: ITALIAN NEOREALISM**  
-**Rome 11:00 (aka Rome 11 O’Clock)** Roma ore 11  
-Mon 24 Jun 20:50  
-**Journey to Italy** Viaggio in Italia  
-Tue 25 Jun 18:15  
-**The Machine That Kills Bad People**  La macchina ammazzacattivi  
-Thu 27 Jun 20:55  
-**Umberto D.**  
-Sat 29 Jun 13:10  
-**Miracle in Milan** Miracolo a Milano  
-Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM5MDkwNTZdfQ==
+eyJoaXN0b3J5IjpbLTExMTEzMTM1MzhdfQ==
 -->
