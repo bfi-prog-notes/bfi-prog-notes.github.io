@@ -46,11 +46,23 @@ Digital
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
 
-**The next relaxed screenings are:**<br> 
+**The next relaxed screening is:** <br>
+**KOYAANISQATSI**  
+**+ intro and discussion**  
+**Monday 19 August 2024 18:45 NFT3**  
 
-**ERASERHEAD** + intro and discussion<br>
-Monday 29 July 2024 18:10 NFT3
-<br><br>
+ 
+
+  
+
+**DISCOMFORT MOVIES**  
+
+**The Lost Weekend**  
+Mon 29 Jul 20:40  
+**Audition** Ôdishon  
+Wed 31 Jul 18:15  
+**Skinamarink**  
+Wed 31 Jul 20:45  
 
 
 **Find out more at**
@@ -101,5 +113,5 @@ Sat 29 Jun 13:10
 **Miracle in Milan** Miracolo a Milano  
 Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQyMzA1ODldfQ==
+eyJoaXN0b3J5IjpbLTExMDM5MDkwNTZdfQ==
 -->
