@@ -6,35 +6,40 @@ date: 2024-07-29
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Fantasy]
-metadata: 'USA -52, 85 mins<br> Director: Roberto Rossellini'
+metadata: 'USA 1976, 89 mins<br> Director: Roberto Rossellini'
 pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
 ---
 
 <img style="float: left;" src="/img/mtkbp.png"><br><br><br><br><br><br><br><br><br>
 
 
-Rossellini’s beguiling neorealist comedy proposes a sharp satire on human behaviour. Engaging us in people-watching from the start, he creates a detailed and authentic portrait of life in a small fishing village. When a photographer discovers that his camera has special powers, he also learns that with power comes responsibility. Join us after the screening to reflect upon the film through a neurodivergent lens.
 
-The post screening discussion will be hosted by campaigner and creative Leo Capella.
-<br><br>
+**Content warning:** Contains strong gore and disturbing surreal imagery.
+
+David Lynch’s debut feature takes us into the heart of a bleak industrial wasteland, exploring the grotesque underbelly of modern life and the nuclear family through body horror and surrealism. The film expertly crafts a sense of unease that is enhanced by Lynch and Alan Splet’s chilling sound design. Join us after the screening to reflect upon the film through a neurodivergent lens.
+
+The post screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.<br><br>
 
 
-**THE MACHINE THAT KILLS BAD PEOPLE (LA MACCHINA AMMAZZACATTIVI)**  
-_Director_: Roberto Rossellini  
-_Production Company:_ Tevere Film  
-_Producers_: Roberto Rossellini, Rudolphe Solmsen  
-_Screenplay_: Sergio Amidei, Giancarlo Vigorelli, Franco Brusati, Liana Ferri  
+
+**ERASERHEAD**
+
+_Director:_ David Lynch
+
+_Produced with the co-operation of:_
+
+AFI Center for Advanced Film Studies  
+_Produced by: David Lynch_  
+_Screenplay:_ David Lynch  
 
 **Cast**  
-Gennaro Pisano _(Celestino Esposito)_  
-Giovanni Amato _(devil-saint)_  
-Marilyn Buferd _(young American girl)_  
-Bill  Tubbs _(her father)_  
-Helen Tubbs _(her mother)_  
-Joe Falletta _(Joe)_  
+John Nance _(Henry Spencer)_  
+Charlotte Stewart _(Mary X)_  
+Allen Joseph _(Bill X)_  
+Jeanne Bates _(Mrs X, Mary’s mother)_  
 
-Italy 1948-52  
-85 mins  
+USA 1976©  
+89 mins  
 Digital  
 
 
@@ -100,5 +105,5 @@ Sat 29 Jun 13:10
 **Miracle in Milan** Miracolo a Milano  
 Sun 30 Jun 12:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Nzg5ODcyMV19
+eyJoaXN0b3J5IjpbLTI0NjIyOTQwN119
 -->
