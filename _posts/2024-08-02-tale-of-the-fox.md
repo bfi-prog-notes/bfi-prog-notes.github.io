@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Tale of the Fox
+published: true
+date: 2024-08-02
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
+tags: [Animation, Adventure, Comedy]
+metadata: 'USA 2009, 86 mins<br> Director: Wes Anderson'
+pdf: '2024-08-01-fantastic-mr-fox.pdf'
+---
 
 
 _Please note that the few sentences in French in the short film_ The Mascot _are not subtitled, but you’ll find a translation below._
@@ -69,7 +79,61 @@ How many do you want my little lady?
 
 Little scraps, come here to present yourself to your Majesty…
 
-Abandon all hope, ye who enter!
+Abandon all hope, ye who enter!  
+<br>
+**THE MASCOT (FÉTICHE 33-12)**
+
+_Director_: Ladislaw Starewicz  
+_Production Company_: Gelmafilm  
+_Script_: Ladislaw Starewicz, Irina Starewicz  
+_Music_: Edouard Flament
+
+France 1933
+
+37 mins
+
+Digital (restoration)
+
+  
+
+Copyright collection Martin-Starewicz
+
+  
+
+**THE TALE OF THE FOX (LE ROMAN DE RENARD)**
+
+_Director_: Ladislaw Starewicz, Irène Starewicz  
+_Production Company_: Ladislaw Starewicz  
+_Producer_: Louis Nalpas, Roger Richebé  
+_Screenplay_: Ladislaw Starewicz, Irène Starewicz  
+_Adaptation_: Roger Richebé  
+_Dialogue_: Jean Nohain, Antoinette Nordmann  
+_Based on ‘Die reineke Fuchs’ by_: Johann Wolfgang von Goethe  
+_Director of Photography_: Ladislaw Starewicz  
+_Animator_: Ladislaw Starewicz, Irène Starewicz  
+_Editor_: Laura Séjourné  
+_Production Designer_: Ladislaw Starewicz  
+_Music_: Vincent Scotto  
+_Music Director_: Raymond Legrand
+
+_Voice Cast:
+Claude Dauphin _(Monkey)_  
+Romain Bouquet _(Fox)_  
+Sylvain Itkine _(Wolf)_  
+Léon Larive _(Bear)_  
+Robert Seller _(Cock)_  
+Edy Debray _(Badger)_  
+Nicolas Amato _(Cat)_  
+Suzy Dornac _(Fox Cub)_  
+Raine _(Lion)_  
+Pons _(Donkey)_  
+Sylvia Bataille _(Rabbit)_  
+
+France 1937  
+63 mins  
+Digital (restoration)  
+
+Copyright collection Martin-Starewicz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAyNzUxODFdfQ==
+eyJoaXN0b3J5IjpbLTY4NjI4MzAzOV19
 -->
