@@ -78,113 +78,60 @@ Tim Burton
 _Director of Photography_: Pete Kozachik  
 _Camera Operators_: Jo Carson,
 
-Pat Sweeney, Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson,
-
-Dave Hanks, Selwyn Eddy III  
+Pat Sweeney, Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson,Dave Hanks, Selwyn Eddy III  
 _Visual Effects Supervisor_: Pete Kozachik  
-_Digital Effects Provided by_:
-
-Walt Disney Feature Animation  
-_Model Shop Supervisor_:
-
-Mitch Romanauski  
+_Digital Effects Provided by_: Walt Disney Feature Animation  
+_Model Shop Supervisor_: Mitch Romanauski  
 _Animation Supervisor_: Eric Leighton  
 _Mold Maker Supervisor_: John A. Reed III  
-_Character Fabricator Supervisor_:
-
-Bonita De Carlo  
-_Additional Character Design_: David Cutler,
-
-Barry Jackson, Jorgen Klubein  
+_Character Fabricator Supervisor_: Bonita De Carlo  
+_Additional Character Design_: David Cutler, Barry Jackson, Jorgen Klubein  
 _Editor_: Stan Webb  
 _Associate Editor_: Edie Ichioka  
 _Visual Consultant_: Rick Heinrichs  
 _Artistic Co-ordinator_: Allison Abbate  
 _Art Director_: Deane Taylor  
-_Set Designer/Dressing Supervisor_:
-
-Gregg Olsson  
+_Set Designer/Dressing Supervisor_: Gregg Olsson  
 _Storyboard Supervisor_: Joe Ranft  
-_Set Construction Supervisor_:
-
-Lee Bo Henry  
+_Set Construction Supervisor_: Lee Bo Henry  
 _Titles_: Buena Vista Optical  
 _Additional Optical Effects_: Harry Walton, Image FX, Michael Hinton, Interformat  
 _Colour Timer_: Dale E. Grahn  
 _Music/Lyrics/Original Score_: Danny Elfman  
 _Song Conductor_: Chris Boardman  
 _Score Conductor_: J.A.C. Redford  
-_Original Dialogue Recording_:
-
-Samuel Lehmer  
-_Re-recording Mixers_: Terry Porter,
-
-Shawn Murphy, Greg P. Russell  
-_Dubbing Recordists_: Tim Webb,
-
-Tony Araki  
-_Supervising Sound Editors_:
-
-Richard L. Anderson, John Pospisil  
+_Original Dialogue Recording_: Samuel Lehmer  
+_Re-recording Mixers_: Terry Porter, Shawn Murphy, Greg P. Russell  
+_Dubbing Recordists_: Tim Webb, Tony Araki  
+_Supervising Sound Editors_: Richard L. Anderson, John Pospisil  
 _Sound Editing_: Weddington Productions  
 _Dialogue Editors_: Mary Andrews, Joe Dorn  
-_Sound Effects Editors_: Michael Chock,
+_Sound Effects Editors_: Michael Chock, James Christopher  
 
-James Christopher
-
-_Voice Cast:_
-
-Danny Elfman _(Jack Skellington singing)_
-
-Chris Sarandon
-
-_(Jack Skellington speaking)_
-
-Catherine O’Hara _(Sally)_
-
-William Hickey _(Evil Scientist)_
-
-Glenn Shadix _(mayor)_
-
-Paul Reubens _(Lock)_
-
-Catherine O’Hara _(Shock)_
-
-Danny Elfman
-
-_(Barrel/Clown with the Tear Away Face)_
-
-Ken Page _(Oogie Boogie)_
-
-Ed Ivory _(Santa)_
-
-Susan McBride _(Big Witch, W.W.D.)_
-
-Debi Durst
-
-_(corpse kid/corpse mom/small witch)_
-
-Gregory Proops
-
-_(harlequin demon/devil/sax player)_
-
-Kerry Katz _(man under stairs/vampire/corpse dad)_
-
-Randy Crenshaw _(Mr Hyde/behemoth/vampire)_
-
-Sherwood Ball _(mummy/vampire)_
-
-Carmen Twillie
-
-_(undersea gal/man under stairs)_
-
-Glenn Walters _(wolfman)_
-
-Mia Brown, L. Peter Callender, Ann Fraser, Jennifer Levey, Jesse McClurg,John Morris, Robert Olague, Bobbi Page, Elena Praskin, Trampas Warman, Judy Durand, Doris Hess, Daamen Krall, Christina MacGregor, David McCharen, Gary Raff, David Randolph, Gary Schwartz (_additional voices)_  
+**Voice Cast**  
+Danny Elfman _(Jack Skellington singing)_  
+Chris Sarandon _(Jack Skellington speaking)_  
+Catherine O’Hara _(Sally)_  
+William Hickey _(Evil Scientist)_  
+Glenn Shadix _(mayor)_  
+Paul Reubens _(Lock)_  
+Catherine O’Hara _(Shock)_  
+Danny Elfman _(Barrel/Clown with the Tear Away Face)_  
+Ken Page _(Oogie Boogie)_  
+Ed Ivory _(Santa)_  
+Susan McBride _(Big Witch, W.W.D.)_  
+Debi Durst _(corpse kid/corpse mom/small witch)_  
+Gregory Proops _(harlequin demon/devil/sax player)_  
+Kerry Katz _(man under stairs/vampire/corpse dad)_  
+Randy Crenshaw _(Mr Hyde/behemoth/vampire)_  
+Sherwood Ball _(mummy/vampire)_  
+Carmen Twillie _(undersea gal/man under stairs)_  
+Glenn Walters _(wolfman)_  
+Mia Brown, L. Peter Callender, Ann Fraser, Jennifer Levey, Jesse McClurg, John Morris, Robert Olague, Bobbi Page, Elena Praskin, Trampas Warman, Judy Durand, Doris Hess, Daamen Krall, Christina MacGregor, David McCharen, Gary Raff, David Randolph, Gary Schwartz (_additional voices)_  
 
 USA 1993©  
 76 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk4NjEwMDJdfQ==
+eyJoaXN0b3J5IjpbLTExODAzNTc2MzBdfQ==
 -->
