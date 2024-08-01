@@ -6,7 +6,7 @@ date: 2024-08-02
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Animation, Adventure, Comedy]
-metadata: 'USA 2009, 86 mins<br> Director: Wes Anderson'
+metadata: 'USA 2009, 86 mins<br> Directors: Ladislaw Starewicz, Irène Starewicz'
 pdf: '2024-08-01-fantastic-mr-fox.pdf'
 ---
 
@@ -74,8 +74,7 @@ France 1933
 Digital (restoration)  
 
 Copyright collection Martin-Starewicz
-
-  
+<br>
 
 **THE TALE OF THE FOX (LE ROMAN DE RENARD)**  
 _Directors_: Ladislaw Starewicz, Irène Starewicz  
@@ -111,5 +110,5 @@ Digital (restoration)
 
 Copyright collection Martin-Starewicz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDA0Mzg5OV19
+eyJoaXN0b3J5IjpbMTc1NzkxODM1NiwtNDg0MDQzODk5XX0=
 -->
