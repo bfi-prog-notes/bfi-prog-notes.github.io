@@ -94,7 +94,7 @@ _Foley Mixer:_ Phillip Barrett
 _Foley Editor:_ Simon Chase  
 _Production Consultants:_ Poster Pictures  
 
-**Voice Cast**
+**Voice Cast**  
 Johnny Depp _(Victor Van Dort)_  
 Helena Bonham Carter _(Corpse Bride)_  
 Emily Watson _(Victoria Everglot)_  
