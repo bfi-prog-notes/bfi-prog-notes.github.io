@@ -5,7 +5,7 @@ published: true
 date: 2024-08-02
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
-tags: [Animation, Adventure]
+tags: [Animation, Fantasy]
 metadata: 'France 1937, 63 mins<br> Directors: Ladislaw Starewicz, Irène Starewicz'
 pdf: '2024-08-01-fantastic-mr-fox.pdf'
 ---
@@ -110,5 +110,5 @@ Digital (restoration)
 
 Copyright collection Martin-Starewicz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU4OTUyNTcsLTQ4NDA0Mzg5OV19
+eyJoaXN0b3J5IjpbLTE1NTI3ODUyMTksLTQ4NDA0Mzg5OV19
 -->
