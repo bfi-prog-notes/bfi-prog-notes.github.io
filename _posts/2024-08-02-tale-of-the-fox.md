@@ -10,7 +10,6 @@ metadata: 'USA 2009, 86 mins<br> Director: Wes Anderson'
 pdf: '2024-08-01-fantastic-mr-fox.pdf'
 ---
 
-
 _Please note that the few sentences in French in the short film_ The Mascot _are not subtitled, but you’ll find a translation below._
 
 A crafty fox that keeps tricking people becomes the source of much irritation for a town’s populace. He is arrested but tries to outwit those who want to hold him accountable for his actions. Based on medieval fables, pioneering animator Ladislaw Starewicz collaborated with his daughter Irène on this influential early work, which makes great use of his intricately designed puppets to tell a story rich in dark and dazzling leaps of the imagination.  
@@ -79,7 +78,7 @@ Copyright collection Martin-Starewicz
   
 
 **THE TALE OF THE FOX (LE ROMAN DE RENARD)**  
-_Director_: Ladislaw Starewicz, Irène Starewicz  
+_Directors_: Ladislaw Starewicz, Irène Starewicz  
 _Production Company_: Ladislaw Starewicz  
 _Producer_: Louis Nalpas, Roger Richebé  
 _Screenplay_: Ladislaw Starewicz, Irène Starewicz  
@@ -112,5 +111,5 @@ Digital (restoration)
 
 Copyright collection Martin-Starewicz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwODA3NzI4XX0=
+eyJoaXN0b3J5IjpbLTQ4NDA0Mzg5OV19
 -->
