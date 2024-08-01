@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Tim Burton’s Corpse Bride
+published: true
+date: 2024-08-03
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
+tags: [Animation, Comedy, Drama]
+metadata: 'USA 2012, 87 mins<br> Director: Tim Burton'
+pdf: '2024-08-03-frankenweenie.pdf'
+---
 
 
 In the twelve years since _The Nightmare before Christmas_, which was directed by Henry Selick but conceived by Tim Burton, stop-motion animation has become almost an endangered technique. The makers of new versions of _King Kong_ and _The Magic Roundabout_, properties associated with ‘traditional’ dimensional animation, used CGI to bring their creatures to life. But now Burton has returned to frame-by-frame puppet manipulation with _Corpse Bride_, co-directed by Mike Johnson. Perhaps because he began his career (with the 1983 short _Vincent_) as an animator in the tradition of Ray Harryhausen (who gets a name-check in this as a make of piano), Burton retains a powerful affection for the technique and deems CGI (which he has used often) as just a tool.
@@ -107,5 +117,5 @@ UK/USA 2005©
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDg2MzAzNV19
+eyJoaXN0b3J5IjpbMTM1NjM1OTcxXX0=
 -->
