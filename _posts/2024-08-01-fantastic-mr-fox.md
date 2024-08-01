@@ -26,102 +26,45 @@ For all its poise and finish, from Mr Fox’s sartorial choices to the Rothko-re
 
 **FANTASTIC MR FOX**  
 _Directed by:_ Wes Anderson  
-_©:_ Twentieth Century-Fox Film Corporation,
-
-Indian Paintbrush, Monarchy Enterprises S.a.r.l.
-
-_an_ American Empirical _picture_
-
-_Presented by:_
-
-Twentieth Century-Fox Film Corporation
-
-_In association with:_ Indian Paintbrush,
-
-Regency Enterprises
-
-_Executive Producers:_ Steven Rales, Arnon Milchan
-
-_Produced by:_ Allison Abbate, Scott Rudin,
-
-Wes Anderson, Jeremy Dawson
-
-_Co-producer:_ Molly Cooper
-
-_Line Producer:_ Simon Quinn
-
-_Production Manager:_ Charlotte Owen
-
-_Production Supervisor:_ Fred De Bradeny
-
-_Production Co-ordinator:_ Jules Collings
-
-_Accountant:_ Jeffrey Broom
-
-_Post-production Supervisor:_ Jeannine Berger
-
-_Production Consultant:_ Susan Blanchard
-
-_1st Assistant Director:_ Kev Harwood
-
-_2nd Assistant Directors:_ Ben Barrowman,
-
-Dan Pascall
-
-_Continuity:_ Claire Watson
-
-_Written for the screen by:_ Wes Anderson,
-
-Noah Baumbach
-
-_Based on the book by:_ Roald Dahl
-
-_Lead Storyboard Artist Story Department:_
-
-Christian De Vita
-
-_Story Co-ordinator:_ Zoe Radford
-
+_©:_ Twentieth Century-Fox Film Corporation, Indian Paintbrush, Monarchy Enterprises S.a.r.l.  
+_an_ American Empirical _picture_  
+_Presented by:_ Twentieth Century-Fox Film Corporation  
+_In association with:_ Indian Paintbrush, Regency Enterprises  
+_Executive Producers:_ Steven Rales, Arnon Milchan  
+_Produced by:_ Allison Abbate, Scott Rudin, Wes Anderson, Jeremy Dawson  
+_Co-producer:_ Molly Cooper  
+_Line Producer:_ Simon Quinn  
+_Production Manager:_ Charlotte Owen  
+_Production Supervisor:_ Fred De Bradeny  
+_Production Co-ordinator:_ Jules Collings  
+_Accountant:_ Jeffrey Broom  
+_Post-production Supervisor:_ Jeannine Berger  
+_Production Consultant:_ Susan Blanchard  
+_1st Assistant Director:_ Kev Harwood  
+_2nd Assistant Directors:_ Ben Barrowman, Dan Pascall  
+_Continuity:_ Claire Watson  
+_Written for the screen by:_ Wes Anderson, Noah Baumbach  
+_Based on the book by:_ Roald Dahl  
+_Lead Storyboard Artist Story Department:_ Christian De Vita  
+_Story Co-ordinator:_ Zoe Radford  
 _Director of Photography:_ Tristan Oliver
-
-_Practical Lighting Specialist:_ Gary Welch
-
-_Lighting Camera:_ Toby Howell, Graham Pettit, James Lewis, Jeremy Hogg
-
-_Gaffer:_ Toby Farrar
-
-_Visual Effects Supervisor:_ Tim Ledbury
-
-_Compositing Supervisor:_ Rupert Davies
-
-_Visual Effects Producer:_ Liz Chan
-
-_CG Supervisor:_ Nic Birmingham
-
-_Visual Effects Editor:_ Daryl Jordan
-
-_Additional Visual Effects by:_ LipSync Post
-
-_Animation Director:_ Mark Gustafson
-
-_Animation Supervisor:_ Mark Waring
-
-_Key Animators:_ Jason Stalman, Kim Keukeleire, Dan Alderson, Brian Hansen, Brad Schiff,
-
-Anthony Farquhar-Smith, Andy Biddle, Will Hodge, Chuck Duke, Jens Gulliksen, Tobias Fouracre, Payton Curtis, Malcolm Lamont, Jeff Riley,
-
-Pete Dodd, Chris Tichbourne, Trey Thomas
-
-_2D Animator:_ Ray Lewis
-
-_Motion Control Supervisor:_ Andy Bowman
-
-_Head Motion Control Operator:_ Bobby Logan
-
-_Motion Control Operator:_ Christophe Leignel
-
-_Supervising Editor:_ Andrew Weisblum
-
+_Practical Lighting Specialist:_ Gary Welch  
+_Lighting Camera:_ Toby Howell, Graham Pettit, James Lewis, Jeremy Hogg  
+_Gaffer:_ Toby Farrar  
+_Visual Effects Supervisor:_ Tim Ledbury  
+_Compositing Supervisor:_ Rupert Davies  
+_Visual Effects Producer:_ Liz Chan  
+_CG Supervisor:_ Nic Birmingham  
+_Visual Effects Editor:_ Daryl Jordan  
+_Additional Visual Effects by:_ LipSync Post  
+_Animation Director:_ Mark Gustafson  
+_Animation Supervisor:_ Mark Waring  
+_Key Animators:_ Jason Stalman, Kim Keukeleire, Dan Alderson, Brian Hansen, Brad Schiff, Anthony Farquhar-Smith, Andy Biddle, Will Hodge, Chuck Duke, Jens Gulliksen, Tobias Fouracre, Payton Curtis, Malcolm Lamont, Jeff Riley, Pete Dodd, Chris Tichbourne, Trey Thomas  
+_2D Animator:_ Ray Lewis  
+_Motion Control Supervisor:_ Andy Bowman  
+_Head Motion Control Operator:_ Bobby Logan  
+_Motion Control Operator:_ Christophe Leignel  
+_Supervising Editor:_ Andrew Weisblum  
 _Editors:_ Ralph Foster, Stephen Perkins
 
 _Editorial Co-ordinator:_ Zoe Radford
@@ -294,5 +237,5 @@ USA 2009
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzUwMzc2MF19
+eyJoaXN0b3J5IjpbLTgyOTM2NzUxMF19
 -->
