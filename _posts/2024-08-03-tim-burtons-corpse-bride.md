@@ -116,106 +116,40 @@ _Art Department (Graphic Designer):_ Paul McBride
 
 _Character Colourist Art Department:_ Annie Elvin
 
-_Visual Development Artists:_ Simón Varela,
-
-Sean Mathiesen, Luc Desmarchelier
-
-_Animation Supervisor:_ Anthony Scott
-
-_Animators:_ Phil Dale, Brian Demoskoff,
-
-Drew Lightfoot, Charlotte Worsaae, Pete Dodd,
-
-Jo Chalkley, Mark Waring, Anthony Farquhar-Smith, Malcolm Lamont, Chris Stenner, Brad Schiff, Tim Watts, Jason Stalman, Brian Hansen,
-
-Matt Palmer, Chris Tichborne, Tim Allen,
-
-Tobias Fouracre, Trey Thomas, Jens Jonathan Gulliksen, Antony Elworthy, Mike Cottee,
-
-Stefano Cassini, Chris Tootell
-
-_2D Animators:_ Michael Schlingmann,
-
-Joris van Hulzen
-
-_Puppets Made by:_ MacKinnon & Saunders,
-
-Ian MacKinnon, Peter Saunders
-
-_Puppet Fabrication Supervisor:_ Graham G. Maiden
-
-_Puppet Co-ordinator:_ Libby Watson
-
-_Puppet Modeller (On-set Puppet Fabrication):_
-
-Fiona Barty, Richard Blakey, Deborah Cook,
-
-Nigel Cornford, Georgie Everard, Michele Gelormini, Jonathan Grimshaw, Maggie Haden,
-
-Janet Knechtel, Thalia Lane, Andy Lee,
-
-Lara Lodato, Shannon O’Neill, Richard Pickersgill, Caroline Wallace, Adam Wright
-
-_Puppet Wrangler:_ Dan Pascall
-
-_Junior Puppet Wrangler:_ Trevor Poulsum
-
-_On-set Puppet Fabrication (Armatures):_
-
-Merrick Cheney
-
-_Edited by:_ Jonathan Lucas, Chris Lebenzon
-
-_Production Designed by:_ Alex McDowell
-
-_Art Director:_ Nelson Lowry
-
-_Draughtsmen:_ Poppy Luard, Hannah Moseley
-
-_Digital Grade Supervisor:_ Begoña López
-
-_Colourist (Moving Picture Company):_ Max Horton
-
-_Score/Songs by:_ Danny Elfman
-
-_Score Conducted by:_ Nick Ingman
-
-_Supervising Orchestrator:_ Steve Bartek
-
-_Orchestrations:_ Edgardo Simone, David Slonaker
-
-_Supervising Music Programmer:_ Marc Mann
-
-_Score Programmer:_ Jake Jackson
-
-_Score/Songs Produced by:_ Danny Elfman
-
-_Music Editors:_ Michael Higham, Shie Rozow
-
-_Score Recorded/Mixed by:_ Dennis Sands
-
-_Sound Designers:_ Martin Cantwell,
-
-Steve Boeddeker
-
-_Production Mixers:_ Sandy Buchanan,
-
-Paul Langwade, Rupert Coulson
-
-_Re-recording Mixers:_ Michael Semanick,
-
-Mike Prestwood Smith, Chris Burdon
-
-_Supervising Sound Editor:_ Eddy Joseph
-
-_Dialogue Editors:_ Tony Currie, Colin Ritchie
-
-_Foley Supervisor:_ Harry Barnes
-
-_Foley Artists:_ Paul Hanks, Ian Waggot
-
-_Foley Mixer:_ Phillip Barrett
-
+_Visual Development Artists:_ Simón Varela, Sean Mathiesen, Luc Desmarchelier  
+_Animation Supervisor:_ Anthony Scott  
+_Animators:_ Phil Dale, Brian Demoskoff, Drew Lightfoot, Charlotte Worsaae, Pete Dodd, Jo Chalkley, Mark Waring, Anthony Farquhar-Smith, Malcolm Lamont, Chris Stenner, Brad Schiff, Tim Watts, Jason Stalman, Brian Hansen, Matt Palmer, Chris Tichborne, Tim Allen, Tobias Fouracre, Trey Thomas, Jens Jonathan Gulliksen, Antony Elworthy, Mike Cottee, Stefano Cassini, Chris Tootell  
+_2D Animators:_ Michael Schlingmann, Joris van Hulzen 
+_Puppets Made by:_ MacKinnon & Saunders, Ian MacKinnon, Peter Saunders  
+_Puppet Fabrication Supervisor:_ Graham G. Maiden  
+_Puppet Co-ordinator:_ Libby Watson  
+_Puppet Modeller (On-set Puppet Fabrication):_ Fiona Barty, Richard Blakey, Deborah Cook, Nigel Cornford, Georgie Everard, Michele Gelormini, Jonathan Grimshaw, Maggie Haden, Janet Knechtel, Thalia Lane, Andy Lee, Lara Lodato, Shannon O’Neill, Richard Pickersgill, Caroline Wallace, Adam Wright  
+_Puppet Wrangler:_ Dan Pascall  
+_Junior Puppet Wrangler:_ Trevor Poulsum  
+_On-set Puppet Fabrication (Armatures):_ Merrick Cheney  
+_Edited by:_ Jonathan Lucas, Chris Lebenzon  
+_Production Designed by:_ Alex McDowell  
+_Art Director:_ Nelson Lowry  
+_Draughtsmen:_ Poppy Luard, Hannah Moseley  
+_Digital Grade Supervisor:_ Begoña López  
+_Colourist (Moving Picture Company):_ Max Horton  
+_Score/Songs by:_ Danny Elfman  
+_Score Conducted by:_ Nick Ingman  
+_Supervising Orchestrator:_ Steve Bartek  
+_Orchestrations:_ Edgardo Simone, David Slonaker  
+_Supervising Music Programmer:_ Marc Mann  
+_Score Programmer:_ Jake Jackson  
+_Score/Songs Produced by:_ Danny Elfman  
+_Music Editors:_ Michael Higham, Shie Rozow  
+_Score Recorded/Mixed by:_ Dennis Sands  
+_Sound Designers:_ Martin Cantwell, Steve Boeddeker  
+_Production Mixers:_ Sandy Buchanan, Paul Langwade, Rupert Coulson  
+_Re-recording Mixers:_ Michael Semanick, Mike Prestwood Smith, Chris Burdon  
+_Supervising Sound Editor:_ Eddy Joseph  
+_Dialogue Editors:_ Tony Currie, Colin Ritchie  
+_Foley Supervisor:_ Harry Barnes  
+_Foley Artists:_ Paul Hanks, Ian Waggot  
+_Foley Mixer:_ Phillip Barrett  
 _Foley Editor:_ Simon Chase  
 _Production Consultants:_ Poster Pictures  
 
@@ -241,5 +175,5 @@ UK/USA 2005©
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDExNjk1XX0=
+eyJoaXN0b3J5IjpbMTg1OTA3NDU4NV19
 -->
