@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Fantastic Mr Fox
+published: true
+date: 2024-08-01
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
+tags: [Animation,]
+metadata: 'USA 1950, 94 mins<br> Director: Nicholas Ray'
+pdf: '2024-07-29-in-a-lonely-place.pdf'
+---
 
 The hero of Wes Anderson’s animated film _Fantastic Mr Fox_ gazes into his wife’s eyes. ‘I’m just dying to tell you the truth about myself,’ he says, apologising for the trouble he’s caused. ‘I’m a wild animal.’ That this ‘wild animal’ tends to dress in an immaculately tailored double-breasted tan corduroy suit and shares the suave delivery of George Clooney will be no surprise to fans of Anderson’s work, in which an immaculately tailored deadpan tone is often used to depict the playfully ludicrous.
 
@@ -142,7 +152,7 @@ USA 2009
 86 mins  
 Digital  
 <BR>
-**STOP MOTION: CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN** 
+**STOP MOTION: CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN**  
 **Fantastic Mr Fox**  
 Thu 1 Aug 12:30; Fri 2 Aug 20:30; Sun 25 Aug 16:15  
 **The Tale of the Fox** Le Roman de Renard  
@@ -195,5 +205,5 @@ Opens Mon 12 Aug
 
 Thanks to Jez Stewart, BFI National Archive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDI1MDkyNl19
+eyJoaXN0b3J5IjpbNTE3NDQ1MTY2XX0=
 -->
