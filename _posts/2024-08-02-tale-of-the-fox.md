@@ -1,0 +1,75 @@
+
+
+
+_Please note that the few sentences in French in the short film_ The Mascot _are not subtitled, but you’ll find a translation below._
+
+A crafty fox that keeps tricking people becomes the source of much irritation for a town’s populace. He is arrested but tries to outwit those who want to hold him accountable for his actions. Based on medieval fables, pioneering animator Ladislaw Starewicz collaborated with his daughter Irène on this influential early work, which makes great use of his intricately designed puppets to tell a story rich in dark and dazzling leaps of the imagination.  
+**bfi.org.uk**  
+
+A legend among animation fans, the work of Wladyslaw Starewicz (or Starevitch in the French spelling) is more often heard of than seen. Although more material has wandered in from the archival wilderness lately, for the most part his reputation has been built on the slender but sturdy edifice of short films like _The Cameraman’s Revenge_ and _Frogland_. In the former, a traditional comic melodrama, similar to those made by Biograph in the 1910s, is enacted by a cast composed entirely of animated insects, while the latter concerns a political coup in an amphibian community.
+
+Starewicz’s career in animation grew out of his interests in photography and entomology. Along with technical precision and dark satirical humour, his films exhibit a scientist’s passion for observing intricate details. This delight is especially evident in _The Tale of the Fox_, his only feature, where for all their anthropomorphic gestures, the naturalism of the animals’ movements closely mimics that of their real counterparts. Starewicz puts one in mind of another entomologist whose own biography parallels his in many ways – Vladimir Nabokov, who once wrote, ‘I discovered in nature the non-utilitarian delights that I sought in art. Both were a form of magic, both were a game of intricate enchantment and deception.’
+
+Deception is very much at the heart of _The Tale of the Fox_. If the film were made today, its star, a confidence-fox who is rewarded for his deviousness, would raise an outcry for setting a bad example to children. So too would some of the film’s saltier jokes, like a flirtatious hen being described in the subtitles as a ‘cockteaser’. Compared with current animation techniques, the film might seem charming but a little primitive. In fact, considering that it is primarily the work of one man with a few assistants, it is an astounding example of cinematic prestidigitation. The battle scene is an achievement on the level of staging _Ben Hur_ in a show box. As in _Frogland_, there seems to be subtle political allegory afoot about the ineffectuality of government, but the screenplay – by Starewicz and his daughter Irène touches on this only delicately.
+
+Finally getting its British premiere 50 years after it was made, _The Tale of the Fox_ is mandatory viewing for anyone interested in animation or early cinema, or simply looking for animal stories as different from Disney’s recent _Homeward Bound: The Incredible Journey_ as a film could possibly be. It supports Charles Ford’s 1958 claim that ‘Wladyslaw Starewicz is one of those cinemagicians whose name deserves to stand in film history beside those of Méliès, Emile Cohl and Disney.’  
+**Leslie Felperin Sharman, _Sight and Sound_, January 1994**  
+
+Russian animation pioneer Starewicz was an entomologist who discovered an affinity for animation while goading into battle a pair of stag beetles overly soothed by the warm lights of his tabletop studio. After establishing his name with the delightfully buggy short _The Cameraman’s Revenge_ (1912), he experimented in live-action fantasy until his love for animals prevailed. Made a decade after the Russian revolution forced his relocation to France, _Le Roman de Renard_ became the grand showcase for his uncanny ability to create fully articulated animal puppets distinguishable from taxidermy only by their abundance of character, pathos and vitality. Based on a Goethe fable, the film chronicles the comic revenge strategies of the wily fox whose food-stealing pranks are thwarted by the Lion King’s ruling that all his subjects must adjust to a vegetarian diet because ‘love [between the animals] must prevail.’ Featuring a hundred or so mischievous, weirdly grizzled, wildly unDisneylike characters – whose naturalistic breathing and convincingly blurred movement are decades ahead of any other technique in this field until the advent of CGI – the entire 63-minute film was animated by Starewicz and his daughter Irène over an 18-month period. It was intended to be the first animated feature produced with sound, but difficulties with the soundtrack held up its release for nearly a decade. The work of an outstanding artist, yes, but also a film that could only have been made by a great scientist and naturalist.  
+**Tim Lucas, _Sight and Sound_, August 2007**  
+
+**The Mascot**  
+From the rolling credits:
+
+In 1933 Ladislas and Irène Starewitch produced and directed a film of approximately 1000 meters initially entitled _L.S. 18_.
+
+Under pressure from the distributors the length was greatly reduced, the film became _Fétiche Mascotte_, approximately 600 meters, distributed from 1934, first episode of a series.
+
+In 1954 L. Starewitch designed _Gueule de bois_ using footage from _L.S. 18_ not retained in _Fétiche Mascotte_.
+
+Recently we undertook the reconstruction of the original film based on the several copies of _Fétiche Mascotte_ distributed in the UK and USA, the negative of _Gueule de bois_ and the outtakes preserved in the archives of L. and I. Starewitch.
+
+In 2012 _L.S. 18_ regained its length and its 1933 editing, hence the title of _Fétiche 33-12_ presented for the first time to the public in the version initially designed by Ladislas and Irène Starewitch.  
+<br>
+  
+
+**Translation of the missing subtitles**
+
+Musical, singing and spoken.
+
+Living actors and puppets.
+
+Story simply human and sentimental
+
+With some mysterious visions,
+
+Those that can be created by the feverish fantasy of a sick child.
+
+Ladislas Starewitch, 1933
+
+Mummy, I am thirsty
+
+It’s too much, I am suffocating
+
+Mum, is an orange very good?
+
+Yes my darling.
+
+I want one.
+
+When I grow up I’ll buy an orange for you and for me…
+
+…and for Fétiche too.
+
+Buy my beautiful oranges, see these beautiful blood oranges, guaranteed no seeds!
+
+Buy my beautiful oranges for 25 cents. Strength and health for 25 cents!
+
+How many do you want my little lady?
+
+Little scraps, come here to present yourself to your Majesty…
+
+Abandon all hope, ye who enter!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNzAyNzUxODFdfQ==
+-->
