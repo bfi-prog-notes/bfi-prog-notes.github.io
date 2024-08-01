@@ -5,9 +5,9 @@ published: true
 date: 2024-08-03
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
-tags: [Animation, Adventure, Comedy]
-metadata: 'USA 2009, 86 mins<br> Director: Wes Anderson'
-pdf: '2024-08-01-fantastic-mr-fox.pdf'
+tags: [Animation, Comedy, Drama]
+metadata: 'USA 2012, 87 mins<br> Director: Tim Burton'
+pdf: '2024-08-03-frankenweenie.pdf'
 ---
 
 From concept to filming, the making of _Frankenweenie_ was a labour of love, involving a huge crew of artisans, animators, prop makers, puppet makers, designers and artists. Over the years it took to make _Frankenweenie_, Tim Burton was hands-on in every step of the process and the final result reflects his signature creativity and vision.
@@ -191,5 +191,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDE0MzA0LDE4MzMxNzE2MTRdfQ==
+eyJoaXN0b3J5IjpbLTY0ODU2NjE0MCwxODMzMTcxNjE0XX0=
 -->
