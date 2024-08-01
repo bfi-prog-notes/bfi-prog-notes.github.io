@@ -7,7 +7,7 @@ readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Animation, Fantasy]
 metadata: 'France 1937, 63 mins<br> Directors: Ladislaw Starewicz, Irène Starewicz'
-pdf: '2024-08-01-fantastic-mr-fox.pdf'
+pdf: '2024-08-02-tale-of-the-fox.pdf'
 ---
 
 _Please note that the few sentences in French in the short film_ The Mascot _are not subtitled, but you’ll find a translation below._
