@@ -65,112 +65,47 @@ _Motion Control Supervisor:_ Andy Bowman
 _Head Motion Control Operator:_ Bobby Logan  
 _Motion Control Operator:_ Christophe Leignel  
 _Supervising Editor:_ Andrew Weisblum  
-_Editors:_ Ralph Foster, Stephen Perkins
-
-_Editorial Co-ordinator:_ Zoe Radford
-
-_Production Designer:_ Nelson Lowry
-
-_Design Consultant:_ Alex McDowell
-
-_Art Director:_ Francesca Maxwell
-
-_Lead Character Designer:_ Felicie Haymoz
-
-_Character Designers:_ Victor Georgiev, Huy Vu
-
-_Art Department Supervisor:_ Roddy MacDonald
-
-_Art Department Co-ordinator:_ Mark Woollard
-
-_Environment Designers:_ Chris Appelhans,
-
-Alan Case, Turlo Griffin, Todd van Hulzen,
-
-Andy Roper
-
-_Mrs Fox’s Paintings by:_ Turlo Griffin
-
-_Puppets Fabricated by:_ MacKinnon & Saunders
-
-_Puppet Fabrication Supervisor:_ Andy Gent
-
-_Puppet/Art Department Co-ordinator:_
-
-Melissa Rogers
-
-_Puppet Wrangler:_ Richard Lake
-
-_Titles by:_ Look! Effects Inc
-
-_Music Composed/Conducted by:_
-
-Alexandre Desplat
-
-_Music Performed by:_ Traffic Quintet
-
-(Dominique Lemonnier, Christophe Morin,
-
-Philippe Noharet, Anne Vilette, Estelle Vilotte)
-
-_Mandolin Soloist:_ Alison Stephens
-
-_Celeste Soloist:_ Dave Arch
-
-_Banjo/Ukulele/Guitar/Mandolin Soloist:_
-
-John Parricelli
-
-_Guitar Soloist:_ Mitch Dalton
-
-_Guitars/Banjo/Mandolin Soloist:_ Nigel Woodhouse
-
-_Jew’s Harp/Spoons Soloist:_ Paul Clarvis
-
-_Toy Percussions Soloist:_ Paul Clarvis
-
-_Trumpet/Piccolo Trumpet Soloist:_ Maurice Murphy
-
-_Piccolo, Recorder Soloist:_ Helen Keen
-
-_Keyboard Percussions Soloist:_ Frank Ricotti
-
-_Drum Kit Soloist:_ Ralph Salmins
-
-_Timpani Soloist:_ Tristan Fry
-
-_Recorder Soloists:_ Piers Adams, Jill Kemp,
-
-Annabel Knight
-
-_Double Bass Soloist:_ Chris Laurence
-
-_Boy’s Choir:_ The London Oratory School Schola
-
-_Choirmaster:_ Lee Ward
-
-_Solo Boy Vocalist:_ Felix Wareing
-
-_Location Sound Recordists:_ Noah Timan,
-
-Stuart Wilson
-
-_Re-recording Mixers:_ Sven Taits, Steve Browell
-
-_Re-recording Engineers:_ Paul Jarvis, Mike King,
-
-Jeff Dalmaine, Joe Maher
-
-_Supervising Sound Editors:_ David Evans,
-
-Jacob Ribicoff
-
-_Sound Effects Editors:_ Andy Kennedy,
-
-Stefan Henrix, Steve Browell, Brian Emrich
-
+_Editors:_ Ralph Foster, Stephen Perkins  
+_Editorial Co-ordinator:_ Zoe Radford  
+_Production Designer:_ Nelson Lowry  
+_Design Consultant:_ Alex McDowell  
+_Art Director:_ Francesca Maxwell  
+_Lead Character Designer:_ Felicie Haymoz  
+_Character Designers:_ Victor Georgiev, Huy Vu  
+_Art Department Supervisor:_ Roddy MacDonald  
+_Art Department Co-ordinator:_ Mark Woollard  
+_Environment Designers:_ Chris Appelhans, Alan Case, Turlo Griffin, Todd van Hulzen, Andy Roper  
+_Mrs Fox’s Paintings by:_ Turlo Griffin  
+_Puppets Fabricated by:_ MacKinnon & Saunders  
+_Puppet Fabrication Supervisor:_ Andy Gent  
+_Puppet/Art Department Co-ordinator:_ Melissa Rogers  
+_Puppet Wrangler:_ Richard Lake  
+_Titles by:_ Look! Effects Inc  
+_Music Composed/Conducted by:_ Alexandre Desplat  
+_Music Performed by:_ Traffic Quintet (Dominique Lemonnier, Christophe Morin, Philippe Noharet, Anne Vilette, Estelle Vilotte)  
+_Mandolin Soloist:_ Alison Stephens  
+_Celeste Soloist:_ Dave Arch  
+_Banjo/Ukulele/Guitar/Mandolin Soloist:_ John Parricelli  
+_Guitar Soloist:_ Mitch Dalton  
+_Guitars/Banjo/Mandolin Soloist:_ Nigel Woodhouse  
+_Jew’s Harp/Spoons Soloist:_ Paul Clarvis  
+_Toy Percussions Soloist:_ Paul Clarvis  
+_Trumpet/Piccolo Trumpet Soloist:_ Maurice Murphy  
+_Piccolo, Recorder Soloist:_ Helen Keen  
+_Keyboard Percussions Soloist:_ Frank Ricotti  
+_Drum Kit Soloist:_ Ralph Salmins  
+_Timpani Soloist:_ Tristan Fry  
+_Recorder Soloists:_ Piers Adams, Jill Kemp, Annabel Knight  
+_Double Bass Soloist:_ Chris Laurence  
+_Boy’s Choir:_ The London Oratory School Schola  
+_Choirmaster:_ Lee Ward  
+_Solo Boy Vocalist:_ Felix Wareing  
+_Location Sound Recordists:_ Noah Timan, Stuart Wilson  
+_Re-recording Mixers:_ Sven Taits, Steve Browell  
+_Re-recording Engineers:_ Paul Jarvis, Mike King, Jeff Dalmaine, Joe Maher  
+_Supervising Sound Editors:_ David Evans, Jacob Ribicoff  
+_Sound Effects Editors:_ Andy Kennedy, Stefan Henrix, Steve Browell, Brian Emrich  
 _Voice cast:_
-
 George Clooney _(Mr Fox)_
 
 Meryl Streep _(Mrs Felicity Fox)_
@@ -237,5 +172,5 @@ USA 2009
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTM2NzUxMF19
+eyJoaXN0b3J5IjpbODQ3MTU0NjEwXX0=
 -->
