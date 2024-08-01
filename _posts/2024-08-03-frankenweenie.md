@@ -2,7 +2,7 @@
 layout: post
 title: Frankenweenie
 published: true
-date: 2024-08-01
+date: 2024-08-03
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Animation, Adventure, Comedy]
@@ -191,5 +191,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzE3MTYxNF19
+eyJoaXN0b3J5IjpbMTI5MDE0MzA0LDE4MzMxNzE2MTRdfQ==
 -->
