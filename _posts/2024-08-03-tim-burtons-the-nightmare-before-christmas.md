@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Tim Burton’s Corpse Bride
+title: Tim Burton’s The Nightmare before Christmas
 published: true
 date: 2024-08-03
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Animation, Comedy, Drama]
-metadata: 'UK/USA 2005, 77 mins<br> Directors: Mike Johnson, Tim Burton'
-pdf: '2024-08-03-tim-burtons-corpse-bride.pdf'
+metadata: 'UK/USA 2005, 77 mins<br> Director: Henry Selick'
+pdf: '2024-08-03-tim-burtons-the-nightmare-before-christmas.pdf'
 ---
 
 **Director Henry Selick on ‘Tim Burton’s The Nightmare before Christmas’**
@@ -213,5 +213,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMDU4MDEzXX0=
+eyJoaXN0b3J5IjpbLTk5Nzg1NTg2XX0=
 -->
