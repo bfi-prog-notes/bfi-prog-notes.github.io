@@ -29,7 +29,7 @@ Russian animation pioneer Starewicz was an entomologist who discovered an affini
 **Tim Lucas, _Sight and Sound_, August 2007**  
 
 **The Mascot**  
-From the rolling credits:
+From the rolling credits:  
 
 In 1933 Ladislas and Irène Starewitch produced and directed a film of approximately 1000 meters initially entitled _L.S. 18_.
 
@@ -43,65 +43,42 @@ In 2012 _L.S. 18_ regained its length and its 1933 editing, hence the title of _
 <br>
   
 
-**Translation of the missing subtitles**
+**Translation of the missing subtitles**  
+Musical, singing and spoken.  
+Living actors and puppets.  
+Story simply human and sentimental  
+With some mysterious visions,  
+Those that can be created by the feverish fantasy of a sick child.  
+Ladislas Starewitch, 1933  
 
-Musical, singing and spoken.
-
-Living actors and puppets.
-
-Story simply human and sentimental
-
-With some mysterious visions,
-
-Those that can be created by the feverish fantasy of a sick child.
-
-Ladislas Starewitch, 1933
-
-Mummy, I am thirsty
-
-It’s too much, I am suffocating
-
-Mum, is an orange very good?
-
-Yes my darling.
-
-I want one.
-
-When I grow up I’ll buy an orange for you and for me…
-
-…and for Fétiche too.
-
-Buy my beautiful oranges, see these beautiful blood oranges, guaranteed no seeds!
-
-Buy my beautiful oranges for 25 cents. Strength and health for 25 cents!
-
-How many do you want my little lady?
-
-Little scraps, come here to present yourself to your Majesty…
-
-Abandon all hope, ye who enter!  
+Mummy, I am thirsty  
+It’s too much, I am suffocating  
+Mum, is an orange very good?  
+Yes my darling.  
+I want one.  
+When I grow up I’ll buy an orange for you and for me…  
+…and for Fétiche too.  
+Buy my beautiful oranges, see these beautiful blood oranges, guaranteed no seeds!  
+Buy my beautiful oranges for 25 cents. Strength and health for 25 cents!  
+How many do you want my little lady?  
+Little scraps, come here to present yourself to your Majesty…  
+Abandon all hope, ye who enter!    
 <br>
-**THE MASCOT (FÉTICHE 33-12)**
-
+**THE MASCOT (FÉTICHE 33-12)**  
 _Director_: Ladislaw Starewicz  
 _Production Company_: Gelmafilm  
 _Script_: Ladislaw Starewicz, Irina Starewicz  
-_Music_: Edouard Flament
+_Music_: Edouard Flament  
 
-France 1933
-
-37 mins
-
-Digital (restoration)
-
-  
+France 1933  
+37 mins  
+Digital (restoration)  
 
 Copyright collection Martin-Starewicz
 
   
 
-**THE TALE OF THE FOX (LE ROMAN DE RENARD)**
-
+**THE TALE OF THE FOX (LE ROMAN DE RENARD)**  
 _Director_: Ladislaw Starewicz, Irène Starewicz  
 _Production Company_: Ladislaw Starewicz  
 _Producer_: Louis Nalpas, Roger Richebé  
@@ -114,9 +91,9 @@ _Animator_: Ladislaw Starewicz, Irène Starewicz
 _Editor_: Laura Séjourné  
 _Production Designer_: Ladislaw Starewicz  
 _Music_: Vincent Scotto  
-_Music Director_: Raymond Legrand
+_Music Director_: Raymond Legrand  
 
-_Voice Cast:
+**Voice Cast**  
 Claude Dauphin _(Monkey)_  
 Romain Bouquet _(Fox)_  
 Sylvain Itkine _(Wolf)_  
@@ -135,5 +112,5 @@ Digital (restoration)
 
 Copyright collection Martin-Starewicz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjI4MzAzOV19
+eyJoaXN0b3J5IjpbNjQwODA3NzI4XX0=
 -->
