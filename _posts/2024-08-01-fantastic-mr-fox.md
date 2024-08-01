@@ -105,72 +105,42 @@ _Re-recording Mixers:_ Sven Taits, Steve Browell
 _Re-recording Engineers:_ Paul Jarvis, Mike King, Jeff Dalmaine, Joe Maher  
 _Supervising Sound Editors:_ David Evans, Jacob Ribicoff  
 _Sound Effects Editors:_ Andy Kennedy, Stefan Henrix, Steve Browell, Brian Emrich  
-_Voice cast:_
-George Clooney _(Mr Fox)_
 
-Meryl Streep _(Mrs Felicity Fox)_
+**Voice cast**
+George Clooney _(Mr Fox)_  
+Meryl Streep _(Mrs Felicity Fox)_  
+Jason Schwartzman _(Ash)_  
+Bill Murray _(badger)_  
+Wally Wolodarsky _(Kylie)_  
+Eric Anderson _(Kristofferson)_  
+Michael Gambon _(Franklin Bean)_  
+Willem Dafoe _(rat)_  
+Owen Wilson _(Coach Skip)_  
+Jarvis Cocker _(Petey performing ‘Petey’s Song’)_  
+Wes Anderson _(weasel)_  
+Karen Duffy _(Linda Otter)_  
+Robin Hurlstone _(Walter Boggis)_  
+Hugo Guinness _(Nathan Bunce)_  
+Helen McCrory _(Mrs Bean)_  
+Roman Coppola _(squirrel contractor)_  
+Juman Malouf _(Agnes)_  
+Jeremy Dawson _(beaver’s son)_  
+Garth Jennings _(Bean’s son)_  
+Brian Cox _(Action 12 reporter)_  
+Tristan Oliver _(explosives man)_  
+James Hamilton _(mole)_  
+Steven Rales _(beaver)_  
+Rob Hersov _(pilot)_  
+Jennifer Furches _(Dr Badger)_  
+Allison Abbate _(rabbit’s ex-girlfriend)_  
+Molly Cooper _(rabbit girl)_  
+Adrien Brody _(field mouse)_  
+Mario Batali _(rabbit)_  
+Martin Ballard _(fire chief)_  
 
-Jason Schwartzman _(Ash)_
-
-Bill Murray _(badger)_
-
-Wally Wolodarsky _(Kylie)_
-
-Eric Anderson _(Kristofferson)_
-
-Michael Gambon _(Franklin Bean)_
-
-Willem Dafoe _(rat)_
-
-Owen Wilson _(Coach Skip)_
-
-Jarvis Cocker _(Petey performing ‘Petey’s Song’)_
-
-Wes Anderson _(weasel)_
-
-Karen Duffy _(Linda Otter)_
-
-Robin Hurlstone _(Walter Boggis)_
-
-Hugo Guinness _(Nathan Bunce)_
-
-Helen McCrory _(Mrs Bean)_
-
-Roman Coppola _(squirrel contractor)_
-
-Juman Malouf _(Agnes)_
-
-Jeremy Dawson _(beaver’s son)_
-
-Garth Jennings _(Bean’s son)_
-
-Brian Cox _(Action 12 reporter)_
-
-Tristan Oliver _(explosives man)_
-
-James Hamilton _(mole)_
-
-Steven Rales _(beaver)_
-
-Rob Hersov _(pilot)_
-
-Jennifer Furches _(Dr Badger)_
-
-Allison Abbate _(rabbit’s ex-girlfriend)_
-
-Molly Cooper _(rabbit girl)_
-
-Adrien Brody _(field mouse)_
-
-Mario Batali _(rabbit)_
-
-Martin Ballard _(fire chief)_
-
-USA 2009
-
-86 mins
-
-Digital
+USA 2009  
+86 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MTU0NjEwXX0=
+eyJoaXN0b3J5IjpbOTg5MjM1Mzk0XX0=
 -->
