@@ -14,112 +14,44 @@ As Burton has been saying since _Beetle Juice_ (1988), the dead have more fun �
 As with Pee-Wee Herman and Willy Wonka, Burton projects the image of someone too conscious of the not always admirably childish aspects of his nature to get on all that well with real children. _Nightmare_ did manage to become some sort of holiday classic, but _Corpse Bride_ might be a more fragile prospect. Could its title contain two more unappetising words for a young audience? Kids who chuckle at gruesome gags about decay might find the ‘bride’ bit most difficult to swallow. But it’s played with utmost sincerity. Like _Beetle Juice_, this has an interrupted wedding at its climax, with the dead freak not going through with entrapment of the living partner. Unusually, the Burton stand-in, voiced by Johnny Depp, represents normality, and the woman, albeit played by Mrs Burton, is the defiant and flamboyant outsider who must step aside to allow for a restoration of balance.  
 **Kim Newman, _Sight and Sound_, November 2005**  
 <br>
-**TIM BURTON’S CORPSE BRIDE**
-
-_Directed by:_ Mike Johnson, Tim Burton
-
-_©/Production Company:_
-
-Patalex II Productions Limited
-
-_Production Companies:_ Tim Burton Productions, Laika Entertainment
-
-_Presented by:_ Warner Bros. Pictures
-
-_Executive Producers:_ Jeffrey Auerbach, Joe Ranft
-
-_Produced by:_ Tim Burton, Allison Abbate
-
-_Associate Producers:_ Tracy Shaw, Derek Frey
-
-_Production Accountant:_ Jeffrey Broom
-
-_Production Co-ordinators:_ Victoria Bugs Hartley, Fleur Jago
-
-_Production Co-ordinator US:_ Sarah Faley,
-
-Dale A. Smith
-
-_Animation Co-ordinator:_ Portia Wilson
-
-_Production Manager:_ Harry Linden
-
-_Post-production Supervisor:_ Jessie Thiele
-
-_Post-production Co-ordinator:_ Katie Reynolds
-
-_1st Assistant Director:_ Ezra J. Sumner
-
-_Casting:_ Michelle Guish
-
-_Casting Associate:_ Gaby Kester
-
-_Screenplay:_ John August, Caroline Thompson, Pamela Pettler
-
-_Original Characters Created by:_ Tim Burton,
-
-Carlos Grangel
-
-_Head of Story:_ Jeffrey Lynch
-
-_Storyboard Artists:_ Chris Butler, Patrick Collins,
-
-Dean Roberts, Sharon Smith, David Stoten,
-
-Tim Watts
-
-_Additional Storyboard Artists:_ Alex Hillkurtz, Andreas Von Andrian, Alberto Mielgo,
-
-Brendan Houghton, Mike Cachuela, Matt Jones, Kaz
-
-_Character Designers:_ Jordi Grangel, Carles Burges, Huy Vu
-
-_Director of Photography:_ Pete Kozachik
-
-_Lighting Cameramen:_ Melissa Byers, Jamie Daniels, Stuart Galloway, Malcolm Hadley, Simon Jacobs, James Lewis, Simon Paul, Graham Pettit,
-
-Peter Sorg, Mark Stewart
-
-_Chief Lighting Technician:_ Clive Scott
-
-_Visual Effects Editor:_ William Campbell
-
-_Visual Effects Supervisor:_ Pete Kozachik
-
-_Visual Effects Consultant:_ Chris Watts
-
-_Visual Effects by:_ Moving Picture Company
-
-_Art Department (Modellers):_ Andy Baker,
-
-James Barr, Stevie Bettles, Alice Bird,
-
-Mick Chippington, Mark Cordory,
-
-Charles Fletcher, Mike Gould,
-
-Andrew Howard Green, Mark Gunning,
-
-Nicola Hatch, Chris Hepple, Valma Hiblen,
-
-Penny Howarth, Barry Jones, Oliver Jones,
-
-Clare Kinross, Amy Mabire, Ian MacCabe,
-
-Thecla Mallinson, Martin Mattingley, Cathy Maze, Steve McClure, Cormac McKee, Angela Pang, Wendy Payne, Gavin Richards, Steven Riley,
-
-Will Sumpter, Hilary Utting, Sarah Wells,
-
-Terry Whitehouse, Dan Wright
-
-_Art Department (Graphic Designer):_ Paul McBride
-
-_Character Colourist Art Department:_ Annie Elvin
-
+**TIM BURTON’S CORPSE BRIDE**  
+_Directed by:_ Mike Johnson, Tim Burton  
+_©/Production Company:_ Patalex II Productions Limited  
+_Production Companies:_ Tim Burton Productions, Laika Entertainment  
+_Presented by:_ Warner Bros. Pictures  
+_Executive Producers:_ Jeffrey Auerbach, Joe Ranft  
+_Produced by:_ Tim Burton, Allison Abbate  
+_Associate Producers:_ Tracy Shaw, Derek Frey  
+_Production Accountant:_ Jeffrey Broom  
+_Production Co-ordinators:_ Victoria Bugs Hartley, Fleur Jago  
+_Production Co-ordinator US:_ Sarah Faley, Dale A. Smith  
+_Animation Co-ordinator:_ Portia Wilson  
+_Production Manager:_ Harry Linden  
+_Post-production Supervisor:_ Jessie Thiele  
+_Post-production Co-ordinator:_ Katie Reynolds  
+_1st Assistant Director:_ Ezra J. Sumner  
+_Casting:_ Michelle Guish  
+_Casting Associate:_ Gaby Kester  
+_Screenplay:_ John August, Caroline Thompson, Pamela Pettler  
+_Original Characters Created by:_ Tim Burton, Carlos Grangel  
+_Head of Story:_ Jeffrey Lynch  
+_Storyboard Artists:_ Chris Butler, Patrick Collins, Dean Roberts, Sharon Smith, David Stoten, Tim Watts  
+_Additional Storyboard Artists:_ Alex Hillkurtz, Andreas Von Andrian, Alberto Mielgo, Brendan Houghton, Mike Cachuela, Matt Jones, Kaz  
+_Character Designers:_ Jordi Grangel, Carles Burges, Huy Vu  
+_Director of Photography:_ Pete Kozachik  
+_Lighting Cameramen:_ Melissa Byers, Jamie Daniels, Stuart Galloway, Malcolm Hadley, Simon Jacobs, James Lewis, Simon Paul, Graham Pettit, Peter Sorg, Mark Stewart  
+_Chief Lighting Technician:_ Clive Scott  
+_Visual Effects Editor:_ William Campbell  
+_Visual Effects Supervisor:_ Pete Kozachik  
+_Visual Effects Consultant:_ Chris Watts  
+_Visual Effects by:_ Moving Picture Company  
+_Art Department (Modellers):_ Andy Baker, James Barr, Stevie Bettles, Alice Bird, Mick Chippington, Mark Cordory, Charles Fletcher, Mike Gould, Andrew Howard Green, Mark Gunning, Nicola Hatch, Chris Hepple, Valma Hiblen, Penny Howarth, Barry Jones, Oliver Jones, Clare Kinross, Amy Mabire, Ian MacCabe, Thecla Mallinson, Martin Mattingley, Cathy Maze, Steve McClure, Cormac McKee, Angela Pang, Wendy Payne, Gavin Richards, Steven Riley, Will Sumpter, Hilary Utting, Sarah Wells, Terry Whitehouse, Dan Wright  
+_Art Department (Graphic Designer):_ Paul McBride  
+_Character Colourist Art Department:_ Annie Elvin  
 _Visual Development Artists:_ Simón Varela, Sean Mathiesen, Luc Desmarchelier  
 _Animation Supervisor:_ Anthony Scott  
 _Animators:_ Phil Dale, Brian Demoskoff, Drew Lightfoot, Charlotte Worsaae, Pete Dodd, Jo Chalkley, Mark Waring, Anthony Farquhar-Smith, Malcolm Lamont, Chris Stenner, Brad Schiff, Tim Watts, Jason Stalman, Brian Hansen, Matt Palmer, Chris Tichborne, Tim Allen, Tobias Fouracre, Trey Thomas, Jens Jonathan Gulliksen, Antony Elworthy, Mike Cottee, Stefano Cassini, Chris Tootell  
-_2D Animators:_ Michael Schlingmann, Joris van Hulzen 
+_2D Animators:_ Michael Schlingmann, Joris van Hulzen  
 _Puppets Made by:_ MacKinnon & Saunders, Ian MacKinnon, Peter Saunders  
 _Puppet Fabrication Supervisor:_ Graham G. Maiden  
 _Puppet Co-ordinator:_ Libby Watson  
@@ -175,5 +107,5 @@ UK/USA 2005©
 77 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTA3NDU4NV19
+eyJoaXN0b3J5IjpbLTMwMDg2MzAzNV19
 -->
