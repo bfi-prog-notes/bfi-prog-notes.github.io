@@ -141,6 +141,59 @@ Martin Ballard _(fire chief)_
 USA 2009  
 86 mins  
 Digital  
+<BR>
+**STOP MOTION: CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN** 
+**Fantastic Mr Fox**  
+Thu 1 Aug 12:30; Fri 2 Aug 20:30; Sun 25 Aug 16:15  
+**The Tale of the Fox** Le Roman de Renard  
+Fri 2 Aug 18:15; Tue 13 Aug 20:30  
+**Tim Burton’s The Nightmare Before Christmas**  
+Sat 3 Aug 14:00; Thu 29 Aug 20:50  
+**Tim Burton’s Corpse Bride**  
+Sat 3 Aug 15:50; Sun 25 Aug 14:30 BFI IMAX; Fri 30 Aug 18:20  
+**Frankenweenie**  
+Sat 3 Aug 18:00; Sun 11 Aug 14:30 BFI IMAX; Fri 30 Aug 20:30  
+**Jason and the Argonauts**  
+Sun 4 Aug 12:10 (+ intro by Alan Friswell, conserver and restorer of Ray Harryhausen’s models); Wed 14 Aug 18:00  
+**The Golden Voyage of Sinbad**  
+Sun 4 Aug 14:50 (+ intro by Alan Friswell, conserver and restorer of Ray Harryhausen’s models); Wed 14 Aug 20:30  
+**Chicken Run**  
+Sun 4 Aug 13:00; Sat 24 Aug 11:40  
+**The Emperor’s Nightingale** Císaruv slavík  
+Sun 4 Aug 20:30; Tue 13 Aug 18:20  
+**ParaNorman**  
+Mon 5 Aug 12:20; Thu 15 Aug 12:10; Wed 28 Aug 12:20  
+**The Boxtrolls**  
+Tue 6 Aug 12:20; Mon 12 Aug 14:10; Sat 17 Aug 12:00  
+**Journey to the Beginning of Time** Cesta do praveku  
+Tue 6 Aug 20:30; Thu 22 Aug 18:30  
+**Isle of Dogs**  
+Wed 7 Aug 12:10; Sat 10 Aug 20:30; Sun 25 Aug 18:30  
+**Kubo and the Two Strings**  
+Thu 8 Aug 12:20; Sat 10 Aug 18:15 (+ Q&A with Travis Knight, director and President & CEO of LAIKA); Fri 30 Aug 12:20  
+**Missing Link**  
+Fri 9 Aug 12:30; Mon 26 Aug 15:20  
+**Coraline**  
+Fri 16 Aug 12:30; Sat 17 Aug 15:30; Wed 21 Aug 12:15; Thu 22 Aug 14:20  
+**Stop-Motion Shorts Scene – BFI Backed** + Q&A  
+Fri 16 Aug 18:10  
+**Funday: Stop-Motion Children’s Favourites**  
+Sun 18 Aug 12:20  
+**Stopmotion + Q&A with director Robert Morgan**  
+Wed 21 Aug 20:40  
+**Aardman Shorts**  
+Sat 24 Aug 14:30  
+**Guillermo del Toro’s Pinocchio**  
+Tue 27 Aug 20:40  
+
+  
+
+**LAIKA: Frame x Frame**  
+Embark on a journey behind the scenes of LAIKA, one of the world’s foremost pioneers in stop-motion animation. This immersive new exhibition will transport you into the boundary-pushing art and science behind every one of the nearly one million meticulously constructed frames that bring each of LAIKA’s five groundbreaking feature films to life.  
+Opens Mon 12 Aug  
+<BR>
+
+Thanks to Jez Stewart, BFI National Archive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MjM1Mzk0XX0=
+eyJoaXN0b3J5IjpbMTU5MDI1MDkyNl19
 -->
