@@ -45,23 +45,19 @@ Isaiah Washington _(Miles)_
 Jennifer Copeland _(Babs)_  
 Keyonn Sheppard _(Pepper)_  
 Roger Pickering _(Sea Breeze)_  
-Sydney Best _(William B. Underdo III)_
-
-Sandra Daley _(Cynthia)_
-
-LaVora Perry _(Nzingha)_
-
+Sydney Best _(William B. Underdo III)_  
+Sandra Daley _(Cynthia)_  
+LaVora Perry _(Nzingha)_  
 Ayoka Chenzira _(nun)_
 
-USA 1993
-
-89 mins
-
+USA 1993  
+89 mins  
 Digital
 
 A TAPE Collective release
 
 Part of TAPE Collective’s SNAPSHOT programme, which explores and celebrates the multi-faceted experiences of Black Girlhood
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODc1NzgwNl19
+eyJoaXN0b3J5IjpbLTcyMzQ2Nzk4Nl19
 -->
