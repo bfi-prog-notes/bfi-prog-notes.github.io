@@ -28,19 +28,14 @@ _Producer (Von Vietinghoff Filmproduktion)_:  Joachim von Vietinghoff
 _Producer (13 Production)_: Paul Saadoun  
 _Associate Producers_: Ralph Cotta, Béla Tarr  
 _Production Team_: Gábor Koncz Csövi,  Gábor Téni, Lajos Gerhardt  
-_Collaborators_: Nathalie Amoreux, Csaba Bagossy, Csaba Banckhardt, Tamás Bánki, György Berghoffer, József Buczkó, Kornél Csima, Csaba Csuti, József Dene, Peter Doherty, István Erdei, Csaba Eröss, David Evans, István Faragó, Sue Ellen Foy, Károly Gaál, Éva Gáldi, Mária Havasi, Istvánné Hegedüs, Sándor Kállay, Béla Kálmán, András Kassai, Magdi Kondorosi, Ottó Korencsy, Ágnes Kökönyei, Tamás Krausz, Dr Anita Kricsfalvi, Elöd Kürtös, Ferenc Laczkó, Ottó Lázár, Attila Martonosi, Sándor Mátrai, Zsigmond Molcsán, István Ösz, Zsuzsa Pellei, Iván Pohárnok, Judit Poprádi, Judit Propper, Tibor Putnoki, Erzsébet Rácz, István Sánta, Júlia Schüler, György Simon, László Sudár, Sándor Szabó, Péter Szekeres, Miklós Szemes, András Szeredás, Mihály Szula, Marius Tabacu, Rudolf Takács, Gyöngyi Takácsné Salgó, András Tóth, József Trombitás, Tamás Uglik, Gábor Ugron, József Varjú, Orsolya Vercz,  
-Ferenc Ziaja  
-_Assistant Directors_: Sebestyén Kodolányi,  
-Jeroen Frantzen, Roland Vranik  
+_Collaborators_: Nathalie Amoreux, Csaba Bagossy, Csaba Banckhardt, Tamás Bánki, György Berghoffer, József Buczkó, Kornél Csima, Csaba Csuti, József Dene, Peter Doherty, István Erdei, Csaba Eröss, David Evans, István Faragó, Sue Ellen Foy, Károly Gaál, Éva Gáldi, Mária Havasi, Istvánné Hegedüs, Sándor Kállay, Béla Kálmán, András Kassai, Magdi Kondorosi, Ottó Korencsy, Ágnes Kökönyei, Tamás Krausz, Dr Anita Kricsfalvi, Elöd Kürtös, Ferenc Laczkó, Ottó Lázár, Attila Martonosi, Sándor Mátrai, Zsigmond Molcsán, István Ösz, Zsuzsa Pellei, Iván Pohárnok, Judit Poprádi, Judit Propper, Tibor Putnoki, Erzsébet Rácz, István Sánta, Júlia Schüler, György Simon, László Sudár, Sándor Szabó, Péter Szekeres, Miklós Szemes, András Szeredás, Mihály Szula, Marius Tabacu, Rudolf Takács, Gyöngyi Takácsné Salgó, András Tóth, József Trombitás, Tamás Uglik, Gábor Ugron, József Varjú, Orsolya Vercz,  Ferenc Ziaja  
+_Assistant Directors_: Sebestyén Kodolányi,  Jeroen Frantzen, Roland Vranik  
 _Screenplay_: László Krasznahorkai, Béla Tarr  
-_Collaborators on Dialogue_: György Fehér,  
-Péter Dobai, Gyuri Dósa Kiss, Lars Rudolph  
+_Collaborators on Dialogue_: György Fehér,  Péter Dobai, Gyuri Dósa Kiss, Lars Rudolph  
 _Based on the novel by_: László Krasznahorkai  
-_Photographed by_: Gábor Medvigy, Jörg Widmer, Patrick de Ranter, Rob Tregenza, Emil Novák,  
-Erwin Lanzensberger, Miklós Gurbán  
+_Photographed by_: Gábor Medvigy, Jörg Widmer, Patrick de Ranter, Rob Tregenza, Emil Novák,  Erwin Lanzensberger, Miklós Gurbán  
 _Lighting_: Miklós Hajdú  
-_Camera Assistants_: István Decsi,  
-Géza Pásztor, Tibor Oláh  
+_Camera Assistants_: István Decsi,  Géza Pásztor, Tibor Oláh  
 _Grip_: János Tóth  
 _Technicians_: Zoltán Pataki, László Mong  
 _Whale Maquette_: Iván Pohárnok  
@@ -51,14 +46,13 @@ _Set Dressers_: Sándor Katona, Béla Zsolt Tóth
 _Sculptors_: Éva Karczag, András Rose  
 _Costumes_: János Breckl  
 _Music_: Mihály Víg  
-_Sound_: György Kovács_  
-Boom Operator_: László Szentmihályi Györffy  
+_Sound_: György Kovács  
+_Boom Operator_: László Szentmihályi Györffy  
 _Sound Editor_: Brigitta Kajdácsi  
 _Stunts_: Tamás Wichmann  
 _Whale Specialist_: Emese Kazár
 
-_Cast:_
-
+**Cast**  
 Lars Rudolph _(János Valuska)_  
 Peter Fitz _(György Eszter)_  
 Hanna Schygulla _(Tünde Eszter)_  
@@ -89,7 +83,7 @@ Béla Máriáss _(Mr Mádai)_
 Mátyás Dráfi _(man in fur-cap)_  
 József Ropog _(man beside the man in fur-cap)_  
 Sándor Bese _(The Prince)_  
-Erika Horineczky  Béla Nagy_,_ Lajos Bulucs_,_ Ferenc Gazdag_,_ Gyula Herpai_,_ Tibor Komáromi_,_ Géza Kósa_,_ József Szántó_,_ Miklós Vaszlavik,  János Váradi_,_ Ágnes Kamondy_,_ Péter Magyar_,_ Dóra Kováts_,_ Gábor Werner  
+Erika Horineczky  Béla Nagy,_ Lajos Bulucs_,_ Ferenc Gazdag_,_ Gyula Herpai_,_ Tibor Komáromi_,_ Géza Kósa_,_ József Szántó_,_ Miklós Vaszlavik,  János Váradi_,_ Ágnes Kamondy_,_ Péter Magyar_,_ Dóra Kováts_,_ Gábor Werner  
 Tamás Bolba _(voice of János Valuska)_  
 Péter Haumann _(voice of György Eszter)_  
 Marianna Moór _(voice of Tünde Eszter)_  
@@ -103,5 +97,5 @@ Digital 4K
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ5MjQ0MzRdfQ==
+eyJoaXN0b3J5IjpbMTczNzY2NDg1MV19
 -->
