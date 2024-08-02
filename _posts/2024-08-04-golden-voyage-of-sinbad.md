@@ -6,7 +6,7 @@ date: 2024-08-04
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Animation, Adventure]
-metadata: 'UK/USA 2005, 77 mins<br> Director: Henry Selick'
+metadata: 'USA 1973, 105 mins<br> Director: Henry Selick'
 pdf: '2024-08-03-tim-burtons-the-nightmare-before-christmas.pdf'
 ---
 
@@ -73,12 +73,12 @@ John D. Garfield _(Abdul)_
 Aldo Sambrell _(Omar)_  
 Robert Shaw _(creature)_ *  
 
-US 1973©  
+USA 1973©  
 105 mins  
 Digital  
 
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0NTE2OTI4XX0=
+eyJoaXN0b3J5IjpbLTEwMzE2MzA4MDksNDA0NTE2OTI4XX0=
 -->
