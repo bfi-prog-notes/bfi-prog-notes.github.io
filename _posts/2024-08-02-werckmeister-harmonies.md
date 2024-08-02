@@ -83,19 +83,18 @@ Béla Máriáss _(Mr Mádai)_
 Mátyás Dráfi _(man in fur-cap)_  
 József Ropog _(man beside the man in fur-cap)_  
 Sándor Bese _(The Prince)_  
-Erika Horineczky  Béla Nagy,_ Lajos Bulucs_,_ Ferenc Gazdag_,_ Gyula Herpai_,_ Tibor Komáromi_,_ Géza Kósa_,_ József Szántó_,_ Miklós Vaszlavik,  János Váradi_,_ Ágnes Kamondy_,_ Péter Magyar_,_ Dóra Kováts_,_ Gábor Werner  
+Erika Horineczky, Béla Nagy, Lajos Bulucs, Ferenc Gazdag, Gyula Herpai, Tibor Komáromi, Géza Kósa, József Szántó, Miklós Vaszlavik,  János Váradi, Ágnes Kamondy, Péter Magyar, Dóra Kováts, Gábor Werner  
 Tamás Bolba _(voice of János Valuska)_  
 Péter Haumann _(voice of György Eszter)_  
 Marianna Moór _(voice of Tünde Eszter)_  
 Attila Kaszás _(voice of The Prince)_
 
-Hungary-Germany-France-Switzerland-Italy 2000©
-
-145 mins
-
+Hungary-Germany-France-Switzerland-Italy 2000©  
+145 mins  
 Digital 4K
 
 A Curzon release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzY2NDg1MV19
+eyJoaXN0b3J5IjpbLTE3ODEzNTAyMzhdfQ==
 -->
