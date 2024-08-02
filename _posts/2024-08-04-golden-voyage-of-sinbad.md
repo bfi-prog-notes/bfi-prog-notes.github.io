@@ -1,12 +1,22 @@
+---
+layout: post
+title: The Golden Voyage of Sinbad
+published: true
+date: 2024-08-04
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
+tags: [Animation, Adventure]
+metadata: 'UK/USA 2005, 77 mins<br> Director: Henry Selick'
+pdf: '2024-08-03-tim-burtons-the-nightmare-before-christmas.pdf'
+---
 
 
 _+ intro by Alan Friswell, the conserver and restorer of Ray Harryhausen’s models (Sunday 4 August only)_
 
 When Sinbad and his crew find a piece of golden tablet carried by a tiny winged creature, they are soon pitted against the dark magic of Koura, a formidable sorcerer. The tablet, when complete, forms a map that leads to unimaginable treasures.
 
-The sword-wielding, six-armed Kali, a gryphon and a centaur are just some of the Harryhausen creations that these foolhardy souls meet on their thrilling adventure.
-
-bfi.org.uk
+The sword-wielding, six-armed Kali, a gryphon and a centaur are just some of the Harryhausen creations that these foolhardy souls meet on their thrilling adventure.  
+**bfi.org.uk**  
 
 In a sense, this Sinbad ﬁlm began many years ago, when an American teenager was taken by his mother to see a ﬁlm that had just been released. All she knew in advance was that it was about a gorilla, and since her son liked gorillas, she was certain that he would enjoy it.
 
@@ -70,5 +80,5 @@ Digital
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzk0MjI3Ml19
+eyJoaXN0b3J5IjpbNDA0NTE2OTI4XX0=
 -->
