@@ -5,11 +5,10 @@ published: true
 date: 2024-08-04
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
-tags: [Animation, Adventure]
-metadata: 'USA 1973, 105 mins<br> Director: Henry Selick'
-pdf: '2024-08-03-tim-burtons-the-nightmare-before-christmas.pdf'
+tags: [Adventure, Fantasy]
+metadata: 'USA 1973, 105 mins<br> Director: Gordon Hessler'
+pdf: '2024-08-04-tim-burtons-the-nightmare-before-christmas.pdf'
 ---
-
 
 _+ intro by Alan Friswell, the conserver and restorer of Ray Harryhausen’s models (Sunday 4 August only)_
 
@@ -80,5 +79,5 @@ Digital
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2MzA4MDksNDA0NTE2OTI4XX0=
+eyJoaXN0b3J5IjpbMTczNjIyODEyOCw0MDQ1MTY5MjhdfQ==
 -->
