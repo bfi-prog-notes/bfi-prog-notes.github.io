@@ -6,7 +6,7 @@ date: 2024-08-05
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Adventure, Horror]
-metadata: 'USA 2012, 93 mins<br> DirectorS: Sam Fell, Chris Butler'
+metadata: 'USA 2012, 93 mins<br> Directors: Sam Fell, Chris Butler'
 pdf: '2024-08-05-paranorman.pdf'
 ---
 
@@ -154,5 +154,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjMwOTkzMV19
+eyJoaXN0b3J5IjpbMjAxMDc0NjEyMywxMDY2MzA5OTMxXX0=
 -->
