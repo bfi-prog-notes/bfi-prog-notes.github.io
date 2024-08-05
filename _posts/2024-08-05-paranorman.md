@@ -36,6 +36,45 @@ He considers most children’s movie-making in the streaming, multi-screen era t
 If you go back to traditional folk and fairytales, and their purpose in the socialisation of children, part of it was to present something that was frightening. Sometimes we move away from that in order to make things safer. I don’t want to get into didactic filmmaking, but I do think part of a kids’ movie is imparting some kind of emotional truth which is a lesson. It needn’t be as on the nose as a moral, but it should make a child think about who they are and what they’re doing.’  
 **Chris Butler talking to Isabel Stevens, _Sight and Sound_, April 2024**  
 <br>
+**PARANORMAN**  
+_Directors_: Sam Fell, Chris Butler  
+_©_: Inc. Laika  
+_a_ LAIKA _production_  
+_A_ Focus Features _presentation/A_ Focus Features _release_  
+_Produced by_: Arianne Sutner, Travis Knight  
+_1st Assistant Directors_: Dan Pascall, Ime Etuk  
+_Casting by_: Allison Jones  
+_Written by_: Chris Butler  
+_Director of Photography_: Tristan Oliver  
+_Visual Effects Supervisor_: Brian van't Hul  
+_Lead Animators_: Travis Knight, Jeff Riley, Payton Curtis  
+_Edited by_: Christopher Murrie  
+_Production Designer_: Nelson Lowry  
+_Art Directors_: Francesca Berlingieri Maxwell, Phil Brotherton  
+_Director, End Credits Sequence_: Aaron Sorenson  
+_Music_: Jon Brion  
+_Music Conducted by_: Jon Brion  
+_Re-recording Mixers_: Tom Myers, Juan Peralta, Stephen Urata  
+_Supervising Sound Editor_: Ronald Eng  
+
+**Voice Cast**  
+Kodi Smit-McPhee _(Norman Babcock)_  
+Tucker Albrizzi _(Neil)_  
+Anna Kendrick _(Courtney)_  
+Casey Affleck _(Mitch)_  
+Christopher Mintz-Plasse _(Alvin)_  
+Leslie Mann _(Sandra Babcock)_  
+Jeff Garlin _(Perry Babcock)_  
+Elaine Stritch _(Grandma)_  
+Bernard Hill _(The Judge)_  
+Jodelle Ferland _(Aggie)_  
+Tempestt Bledsoe _(Sheriff Hooper)_  
+Alex Borstein _(Mrs Henscher)_  
+John Goodman _(Mr Prenderghast)_  
+
+USA 2012©  
+93 mins  
+Digital 4K (2D)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDAwNjIwNl19
+eyJoaXN0b3J5IjpbLTIwOTY3NTA5MzFdfQ==
 -->
