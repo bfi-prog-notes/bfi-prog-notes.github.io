@@ -51,7 +51,7 @@ _Music Director_: Robert Gray
 _Sound_: Al Gramaglia  
 _Technical Adviser_: Albert Tompkins
 
-**Cast**
+**Cast**  
 John Heffernan _(Gaunt, the stranger)_  
 Barry Collins _(Jesse, the black boy)_  
 Orville Steward _(Link, the farmer)_  
@@ -59,10 +59,8 @@ Stewart Heller _(Ted, the farmer’s son)_
 Ethel Ayler _(Marie, the servant girl)_  
 Nathaniel White _(Cal, the policeman)_
 
-USA 1961
-
-76 mins
-
+USA 1961  
+76 mins  
 Digital 4K (restoration)
 
 An Arbelos release
@@ -70,6 +68,7 @@ An Arbelos release
 Restored in 4K by the UCLA Film & Television Archive and Lightbox Film Center, University of the Arts from the 35mm original picture and track negatives, and the original ¼ in. stereo master recording of Lejaren Hiller’s score.Laboratory services by illuminate Hollywood, Corpus Fluxus, Audio Mechanics.
 
 Special thanks to the British Film Institute, Swedish Film Institute, Sousa Archives and University of Illinois Library, Jesse Pires, Sam Kass. Fundings provided by Ron and Suzanne Naples.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzI0NzUxN119
+eyJoaXN0b3J5IjpbMTYxMTI4Nzg0N119
 -->
