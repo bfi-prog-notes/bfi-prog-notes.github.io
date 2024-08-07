@@ -5,8 +5,8 @@ published: true
 date: 2024-08-07
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
-tags: [Adventure, Action]
-metadata: 'USA 2012, 93 mins<br> Director: Wes Anderson'
+tags: [Adventure, Action, Animation]
+metadata: 'USA/Germany 2018, 101 mins<br> Director: Wes Anderson'
 pdf: '2024-08-05-paranorman.pdf'
 ---
 
@@ -107,5 +107,5 @@ USA/Germany 2018©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjU0MTg5M119
+eyJoaXN0b3J5IjpbLTIwMDc2MDkwNjFdfQ==
 -->
