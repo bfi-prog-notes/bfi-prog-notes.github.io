@@ -8,9 +8,8 @@ _Isle of Dogs_ – set in a near-future Japan, where the mayor of Megasaki has o
 
 Like Guy Maddin (_The Forbidden Room_) and Anna Biller (_The Love Witch_), Anderson often looks to an eclectic variety of film sources, making collages out of unlikely bits and pieces of popular and high culture. Here, the dominant influence is Japanese cinema, with explicit nods to Kurosawa (music stings and _bushido_ cool from _Seven Samurai_ and echoes of the rubbish-dump community of _Dodes’ka-den_) and the science-fiction films of Honda Ishiro (with the space-suited boy pilot and steel-frilled mecha-dogs). But in having dogs as most of the main (and anglophone) characters, Anderson can’t avoid evoking _Lady and the Tramp_ (1955) and _One Hundred and One Dalmatians_ (1960), albeit with the analogues of show dog Lady and street dog Tramp – voiced by Scarlett Johansson and Bryan Cranston – conducting themselves like the mysterious, slightly fey outlaws of Seijun Suzuki’s films. A supporting pack of wry, chatty cast-off dogs (voiced by Anderson regulars Murray, Ed Norton, Bob Balaban and Jeff Goldblum) come across as canine versions of the crews of mostly merry misfits of _The Royal Tenenbaums_ (2001) and _The Life Aquatic_.
 
-Like many Anderson films, _Isle of Dogs_ has a non-linear story, an omniscient narrator (Courtney B. Vance), onscreen chapter headings and an array of distancing devices – all the Japanese characters speak mostly in unsubtitled Japanese, but translators and translation devices pop up to keep the audience up to date – which theoretically draw attention to the packaging rather than the contents. However, this is such a labour of love, drawing so much from its creator’s enthusiasm for all manner of things – not least, of course, dogs – that it avoids disappearing inside its magnificent artifice. A speech that Cranston’s stray Chief gives about literally biting the hand that fed him when he muffed a chance at a good home is among the most perfectly written, staged and played scenes in recent cinema – it would be a surefire Oscar clip if awards had categories that could encompass achievements in this byway of cinema, where great acting is as much down to the hands of animators as the dialogue delivery. The trick of absurdist comedy is often to know when to take an element (here emotional, but elsewhere in the film political) so seriously that it hits home without even abandoning a fundamental ridiculousness – which turns out to be a profound reaction to the state of the real world.
-
-Kim Newman, _Sight and Sound_, April 2018
+Like many Anderson films, _Isle of Dogs_ has a non-linear story, an omniscient narrator (Courtney B. Vance), onscreen chapter headings and an array of distancing devices – all the Japanese characters speak mostly in unsubtitled Japanese, but translators and translation devices pop up to keep the audience up to date – which theoretically draw attention to the packaging rather than the contents. However, this is such a labour of love, drawing so much from its creator’s enthusiasm for all manner of things – not least, of course, dogs – that it avoids disappearing inside its magnificent artifice. A speech that Cranston’s stray Chief gives about literally biting the hand that fed him when he muffed a chance at a good home is among the most perfectly written, staged and played scenes in recent cinema – it would be a surefire Oscar clip if awards had categories that could encompass achievements in this byway of cinema, where great acting is as much down to the hands of animators as the dialogue delivery. The trick of absurdist comedy is often to know when to take an element (here emotional, but elsewhere in the film political) so seriously that it hits home without even abandoning a fundamental ridiculousness – which turns out to be a profound reaction to the state of the real world.  
+**Kim Newman, _Sight and Sound_, April 2018**  
 
 With its semi-fictional Japanese setting, its construction out of comic book-like chapters and its intercut themes of nature, heroism, technology, rescue and honour, perhaps it was only natural that the film would also reverberate with echoes of Japanese pop culture and some of Japan’s greatest film directors, from Yasujiro Ozu to Kurosawa to Seijun Suzuki, as well as the Japanese monster films of the 50s and 60s, with their climactic disasters. ‘We think of it as referring to a whole range of Japanese filmmakers and Japanese culture, but Kurosawa is the main movie influence,’ says Wes Anderson.
 
@@ -23,22 +22,16 @@ Recalls animatic editor Edward Bursch: ‘The first thing I received on this fil
 For all the Japanese (and other) influences one might joyfully trace in the film, the world it conjures is decidedly like no other. Says the film’s titles designer Erica Dorn, who grew up in Japan, of how it all comes together: ‘The world of _Isle of Dogs_ is kind of an alternative reality. It looks and feels like Japan, but it’s a slightly dreamier version, a slightly more Wes Anderson version. That is the beauty of setting the film in a made-up city, in a made-up time: you get a certain amount of artistic license. The blending of old and new is very common in Japan. There are scenes in the film that are very minimalist and _wabi-sabi_; but then you switch over to the city, which is maximalist and very intense. So, there’s that feeling of Japan but it’s all filtered through Wes’s own way of seeing.’  
 **Production notes**  
 <br>
-**ISLE OF DOGS**
-
+**ISLE OF DOGS**  
 _Directed by_: Wes Anderson  
 ©: IOD Distribution LLC,  
 Twentieth Century Fox Film Corporation  
 _An_ American Empirical _picture_  
 _In association with_: Studio Babelsberg Film  
 _Supported by_: FFA – Filmförderungsanstalt, MBB – Medienboard Berlin-Brandenburg  
-_Presented by_: Fox Searchlight Pictures,  
-Indian Paintbrush  
-_Executive Producers_: Christopher Fisser,
-
-Henning Molfenter, Charlie Woebcken  
-_Produced by_: Wes Anderson, Scott Rudin,
-
-Steven Rales, Jeremy Dawson  
+_Presented by_: Fox Searchlight Pictures, Indian Paintbrush  
+_Executive Producers_: Christopher Fisser, Henning Molfenter, Charlie Woebcken  
+_Produced by_: Wes Anderson, Scott Rudin, Steven Rales, Jeremy Dawson  
 _Co-producer_: Octavia Peissel  
 _Production Supervisor_: Angela Poschet  
 _Production Co-ordinator_: Karen Rodrigues  
@@ -47,32 +40,22 @@ _Production Accountant_: Fry Martin
 _Post-production Supervisor_: Gisela Evert  
 _1st Assistant Director_: James Emmott  
 _2nd Assistant Director_: Mark Lacey  
-_3rd Assistant Directors_: Emily Stevens,
-
-Francesca Alberigi, Alan Halls, Alex Moffat,
-
-Daniel Parslow  
+_3rd Assistant Directors_: Emily Stevens, Francesca Alberigi, Alan Halls, Alex Moffat, Daniel Parslow  
 _Script Supervisor_: J. Caitlin Ringness  
 _Casting by_: Douglas Aibel, Kunichi Nomura  
 _Screenplay by_: Wes Anderson  
-_Story by_: Wes Anderson, Roman Coppola,
-
-Jason Schwartzman, Kunichi Nomura  
+_Story by_: Wes Anderson, Roman Coppola, Jason Schwartzman, Kunichi Nomura  
 _Director of Photography_: Tristan Oliver  
 _Head Camera Operator_: Mark Swaffield  
-_Unit Stills Photographers_: Ray Lewis,  
-Valerie Sadoun  
+_Unit Stills Photographers_: Ray Lewis, Valerie Sadoun  
 _Visual Effects Supervisor_: Lev Kolobov  
 _Senior Visual Effects Supervisor_: Tim Ledbury  
 _Animation Director_: Mark Waring  
 _Animation Supervisor_: Tobias Fouracre  
-_Hand-drawn Animation and Design by_:  
-Gwenn Germain  
+_Hand-drawn Animation and Design by_: Gwenn Germain  
 _Supervising Editor_: Andrew Weisblum  
 _Editors_: Ralph Foster, Edward Bursch  
-_Production Designers_: Adam Stockhausen,
-
-Paul Harrod  
+_Production Designers_: Adam Stockhausen, Paul Harrod  
 _Graphic Designer_: Annie Atkins  
 _Nutmeg Costume Design by_: Juman Malouf  
 _Head of Puppets Department_: Andy Gent, Likaon  
@@ -82,17 +65,13 @@ _Original Music by_: Alexandre Desplat
 _Conductor_: Conrad Pope  
 _Orchestrator_: Conrad Pope  
 _Music Supervisor_: Randall Poster  
-_Re-recording Mixers_: Wayne Lemmer,  
-Chris Scarabosio  
-_Supervising Sound Editors_: Wayne Lemmer,
-
-Chris Scarabosio  
+_Re-recording Mixers_: Wayne Lemmer, Chris Scarabosio  
+_Supervising Sound Editors_: Wayne Lemmer, Chris Scarabosio  
 _Digital Intermediate by_: Molinare TV & Film  
 _Special Thanks_: Brian De Palma  
-_Filmed at_: 3 Mills Studio
+_Filmed at_: 3 Mills Studio  
 
-_Voice Cast:_
-
+**Voice Cast**  
 Bryan Cranston _(Chief)_  
 Koyu Rankin _(Atari Kobayashi)_  
 Edward Norton _(Rex)_  
@@ -114,12 +93,11 @@ Mari Natsuki _(Auntie)_
 Fisher Stevens _(Scrap)_  
 Murakami Nijiro _(Editor Hiroshi)_  
 Liev Schreiber _(Spots)_  
-Courtney B. Vance _(the narrator)_
+Courtney B. Vance _(the narrator)_  
 
-USA/Germany 2018©
-
-101 mins 
-Digital
+USA/Germany 2018©  
+101 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODIzMzQzNV19
+eyJoaXN0b3J5IjpbMTA0MTY0NjIzXX0=
 -->
