@@ -23,7 +23,103 @@ Recalls animatic editor Edward Bursch: ‘The first thing I received on this fil
 For all the Japanese (and other) influences one might joyfully trace in the film, the world it conjures is decidedly like no other. Says the film’s titles designer Erica Dorn, who grew up in Japan, of how it all comes together: ‘The world of _Isle of Dogs_ is kind of an alternative reality. It looks and feels like Japan, but it’s a slightly dreamier version, a slightly more Wes Anderson version. That is the beauty of setting the film in a made-up city, in a made-up time: you get a certain amount of artistic license. The blending of old and new is very common in Japan. There are scenes in the film that are very minimalist and _wabi-sabi_; but then you switch over to the city, which is maximalist and very intense. So, there’s that feeling of Japan but it’s all filtered through Wes’s own way of seeing.’  
 **Production notes**  
 <br>
+**ISLE OF DOGS**
 
+_Directed by_: Wes Anderson  
+©: IOD Distribution LLC,  
+Twentieth Century Fox Film Corporation  
+_An_ American Empirical _picture_  
+_In association with_: Studio Babelsberg Film  
+_Supported by_: FFA – Filmförderungsanstalt, MBB – Medienboard Berlin-Brandenburg  
+_Presented by_: Fox Searchlight Pictures,  
+Indian Paintbrush  
+_Executive Producers_: Christopher Fisser,
+
+Henning Molfenter, Charlie Woebcken  
+_Produced by_: Wes Anderson, Scott Rudin,
+
+Steven Rales, Jeremy Dawson  
+_Co-producer_: Octavia Peissel  
+_Production Supervisor_: Angela Poschet  
+_Production Co-ordinator_: Karen Rodrigues  
+_Financial Controller_: Nuala Alen-Buckley  
+_Production Accountant_: Fry Martin  
+_Post-production Supervisor_: Gisela Evert  
+_1st Assistant Director_: James Emmott  
+_2nd Assistant Director_: Mark Lacey  
+_3rd Assistant Directors_: Emily Stevens,
+
+Francesca Alberigi, Alan Halls, Alex Moffat,
+
+Daniel Parslow  
+_Script Supervisor_: J. Caitlin Ringness  
+_Casting by_: Douglas Aibel, Kunichi Nomura  
+_Screenplay by_: Wes Anderson  
+_Story by_: Wes Anderson, Roman Coppola,
+
+Jason Schwartzman, Kunichi Nomura  
+_Director of Photography_: Tristan Oliver  
+_Head Camera Operator_: Mark Swaffield  
+_Unit Stills Photographers_: Ray Lewis,  
+Valerie Sadoun  
+_Visual Effects Supervisor_: Lev Kolobov  
+_Senior Visual Effects Supervisor_: Tim Ledbury  
+_Animation Director_: Mark Waring  
+_Animation Supervisor_: Tobias Fouracre  
+_Hand-drawn Animation and Design by_:  
+Gwenn Germain  
+_Supervising Editor_: Andrew Weisblum  
+_Editors_: Ralph Foster, Edward Bursch  
+_Production Designers_: Adam Stockhausen,
+
+Paul Harrod  
+_Graphic Designer_: Annie Atkins  
+_Nutmeg Costume Design by_: Juman Malouf  
+_Head of Puppets Department_: Andy Gent, Likaon  
+_Titles by_: Erica Dorn  
+_Digital Intermediate Colourist_: Asa Shoul  
+_Original Music by_: Alexandre Desplat  
+_Conductor_: Conrad Pope  
+_Orchestrator_: Conrad Pope  
+_Music Supervisor_: Randall Poster  
+_Re-recording Mixers_: Wayne Lemmer,  
+Chris Scarabosio  
+_Supervising Sound Editors_: Wayne Lemmer,
+
+Chris Scarabosio  
+_Digital Intermediate by_: Molinare TV & Film  
+_Special Thanks_: Brian De Palma  
+_Filmed at_: 3 Mills Studio
+
+_Voice Cast:_
+
+Bryan Cranston _(Chief)_  
+Koyu Rankin _(Atari Kobayashi)_  
+Edward Norton _(Rex)_  
+Bob Balaban _(King)_  
+Bill Murray _(Boss)_  
+Jeff Goldblum _(Duke)_  
+Kunichi Nomura _(Mayor Kobayashi)_  
+Akira Takayama _(major domo)_  
+Greta Gerwig _(Tracy Walker)_  
+Frances McDormand _(Interpreter Nelson)_  
+Akira Ito _(Professor Watanabe)_  
+Scarlett Johansson _(Nutmeg)_  
+Harvey Keitel _(Gondo)_  
+F. Murray Abraham _(Jupiter)_  
+Yoko Ono _(Assistant-Scientist Yoko-Ono)_  
+Tilda Swinton _(Oracle)_  
+Ken Watanabe _(head surgeon)_  
+Mari Natsuki _(Auntie)_  
+Fisher Stevens _(Scrap)_  
+Murakami Nijiro _(Editor Hiroshi)_  
+Liev Schreiber _(Spots)_  
+Courtney B. Vance _(the narrator)_
+
+USA/Germany 2018©
+
+101 mins 
+Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzI1MTE1NV19
+eyJoaXN0b3J5IjpbMTM0ODIzMzQzNV19
 -->
