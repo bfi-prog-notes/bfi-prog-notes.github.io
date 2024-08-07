@@ -1,8 +1,16 @@
+---
+layout: post
+title: Isle of Dogs
+published: true
+date: 2024-08-07
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
+tags: [Adventure, Action]
+metadata: 'USA 2012, 93 mins<br> Director: Wes Anderson'
+pdf: '2024-08-05-paranorman.pdf'
+---
 
-
-
-Many auteur directors create films that seem to exist in pocket universes as self-contained, circumscribed and minutely thought-through as the virtual-reality environment of a computer game or the fantasy setting of a paperback trilogy. Wes Anderson’s early films _Bottle Rocket_ (1996) and _Rushmore_ (1998) took place in more or less the real world, but concerned fantasists who tried to make their imaginings concrete (or at least papier-mâché) reality. Since then, he has voyaged deeper into the universes created for each of his films and found avatars in visionaries and explorers like Max Fischer (Jason Schwartzman), the schoolboy theatrical impresario of _Rushmore_, and Steve Zissou (Bill Murray), the Jacques Cousteau figure in _The Life Aquatic with Steve Zissou_. _Moonrise Kingdom_ (2012) was set on an imaginary island and came – like every fantasy trilogy since Tolkien – with an invented map. _The Grand Budapest Hotel_ (2014), a Russian doll of shaggy-dog stories, embedded human eccentrics in an imaginary institution (and country) visited over decades. Anderson’s secondary worlds aren’t permanent idylls but places in the throes of sometimes cataclysmic change. With _Fantastic Mr Fox_ (2009), Anderson’s earlier venture into stop-motion animation (and his only film based on a pre-existing source), the director was at last able to control all the variables – in this mode, every single throwaway prop has to be made  
-from scratch.
+Many auteur directors create films that seem to exist in pocket universes as self-contained, circumscribed and minutely thought-through as the virtual-reality environment of a computer game or the fantasy setting of a paperback trilogy. Wes Anderson’s early films _Bottle Rocket_ (1996) and _Rushmore_ (1998) took place in more or less the real world, but concerned fantasists who tried to make their imaginings concrete (or at least papier-mâché) reality. Since then, he has voyaged deeper into the universes created for each of his films and found avatars in visionaries and explorers like Max Fischer (Jason Schwartzman), the schoolboy theatrical impresario of _Rushmore_, and Steve Zissou (Bill Murray), the Jacques Cousteau figure in _The Life Aquatic with Steve Zissou_. _Moonrise Kingdom_ (2012) was set on an imaginary island and came – like every fantasy trilogy since Tolkien – with an invented map. _The Grand Budapest Hotel_ (2014), a Russian doll of shaggy-dog stories, embedded human eccentrics in an imaginary institution (and country) visited over decades. Anderson’s secondary worlds aren’t permanent idylls but places in the throes of sometimes cataclysmic change. With _Fantastic Mr Fox_ (2009), Anderson’s earlier venture into stop-motion animation (and his only film based on a pre-existing source), the director was at last able to control all the variables – in this mode, every single throwaway prop has to be made from scratch.
 
 _Isle of Dogs_ – set in a near-future Japan, where the mayor of Megasaki has ordered that all the city’s dogs be exiled to an offshore refuse dump – shows the influence of everyone in the field from Jan Svankmajer to Nick Park, and makes extensive use of a quirk discovered by Willis H. O’Brien on _King Kong_ (1933) – that the animators’ fingers cause furry puppets to ripple in a manner approximating a constant light breeze. Even more than most of Anderson’s films, _Isle of Dogs_ will attract repeat viewings because it is so densely packed with sly visual gags and quietly hilarious minor characters (such as Tilda Swinton’s Oracle Dog, whose mystic reputation is down to quoting TV news headlines as if they were prophecies) that a single watch won’t pick up half the prizes. Many one-off images are startlingly beautiful, yet oddly melancholy, often finding fascinating things to see in literal detritus – the aftermath of a plane crash on a sea of waste paper, with the wreck at the centre of a burned circle… or the clouds of dust kicked up whenever animals or humans need to have an old-fashioned cartoon-style mêlée.
 
@@ -99,5 +107,5 @@ USA/Germany 2018©
 101 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTY0NjIzXX0=
+eyJoaXN0b3J5IjpbLTc3NjU0MTg5M119
 -->
