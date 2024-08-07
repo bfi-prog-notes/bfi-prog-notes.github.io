@@ -7,7 +7,7 @@ readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
 tags: [Adventure, Action, Animation]
 metadata: 'USA/Germany 2018, 101 mins<br> Director: Wes Anderson'
-pdf: '2024-08-05-paranorman.pdf'
+pdf: '2024-08-07-isle-of-dogs.pdf'
 ---
 
 Many auteur directors create films that seem to exist in pocket universes as self-contained, circumscribed and minutely thought-through as the virtual-reality environment of a computer game or the fantasy setting of a paperback trilogy. Wes Anderson’s early films _Bottle Rocket_ (1996) and _Rushmore_ (1998) took place in more or less the real world, but concerned fantasists who tried to make their imaginings concrete (or at least papier-mâché) reality. Since then, he has voyaged deeper into the universes created for each of his films and found avatars in visionaries and explorers like Max Fischer (Jason Schwartzman), the schoolboy theatrical impresario of _Rushmore_, and Steve Zissou (Bill Murray), the Jacques Cousteau figure in _The Life Aquatic with Steve Zissou_. _Moonrise Kingdom_ (2012) was set on an imaginary island and came – like every fantasy trilogy since Tolkien – with an invented map. _The Grand Budapest Hotel_ (2014), a Russian doll of shaggy-dog stories, embedded human eccentrics in an imaginary institution (and country) visited over decades. Anderson’s secondary worlds aren’t permanent idylls but places in the throes of sometimes cataclysmic change. With _Fantastic Mr Fox_ (2009), Anderson’s earlier venture into stop-motion animation (and his only film based on a pre-existing source), the director was at last able to control all the variables – in this mode, every single throwaway prop has to be made from scratch.
@@ -106,6 +106,84 @@ Courtney B. Vance _(the narrator)_
 USA/Germany 2018©  
 101 mins  
 Digital  
+<BR>
+**STOP MOTION: CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN**  
+**Fantastic Mr Fox**  
+Thu 1 Aug 12:30; Fri 2 Aug 20:30; Sun 25 Aug 16:15  
+**The Tale of the Fox** Le Roman de Renard  
+Fri 2 Aug 18:15; Tue 13 Aug 20:30  
+**Tim Burton’s The Nightmare Before Christmas**  
+Sat 3 Aug 14:00; Thu 29 Aug 20:50  
+**Tim Burton’s Corpse Bride**  
+Sat 3 Aug 15:50; Sun 25 Aug 14:30 BFI IMAX; Fri 30 Aug 18:20  
+**Frankenweenie**  
+Sat 3 Aug 18:00; Sun 11 Aug 14:30 BFI IMAX; Fri 30 Aug 20:30  
+**Jason and the Argonauts**  
+Sun 4 Aug 12:10 (+ intro by Alan Friswell, conserver and restorer of Ray Harryhausen’s models); Wed 14 Aug 18:00  
+**The Golden Voyage of Sinbad**  
+Sun 4 Aug 14:50 (+ intro by Alan Friswell, conserver and restorer of Ray Harryhausen’s models); Wed 14 Aug 20:30  
+**Chicken Run**  
+Sun 4 Aug 13:00; Sat 24 Aug 11:40  
+**The Emperor’s Nightingale** Císaruv slavík  
+Sun 4 Aug 20:30; Tue 13 Aug 18:20  
+**ParaNorman**  
+Mon 5 Aug 12:20; Thu 15 Aug 12:10; Wed 28 Aug 12:20  
+**The Boxtrolls**  
+Tue 6 Aug 12:20; Mon 12 Aug 14:10; Sat 17 Aug 12:00  
+**Journey to the Beginning of Time** Cesta do praveku  
+Tue 6 Aug 20:30; Thu 22 Aug 18:30  
+**Isle of Dogs**  
+Wed 7 Aug 12:10; Sat 10 Aug 20:30; Sun 25 Aug 18:30  
+**Kubo and the Two Strings**  
+Thu 8 Aug 12:20; Sat 10 Aug 18:15 (+ Q&A with Travis Knight, director and President & CEO of LAIKA); Fri 30 Aug 12:20  
+**Missing Link**  
+Fri 9 Aug 12:30; Mon 26 Aug 15:20  
+**Coraline**  
+Fri 16 Aug 12:30; Sat 17 Aug 15:30; Wed 21 Aug 12:15; Thu 22 Aug 14:20  
+**Stop-Motion Shorts Scene – BFI Backed** + Q&A  
+Fri 16 Aug 18:10  
+**Funday: Stop-Motion Children’s Favourites**  
+Sun 18 Aug 12:20  
+**Stopmotion + Q&A with director Robert Morgan**  
+Wed 21 Aug 20:40  
+**Aardman Shorts**  
+Sat 24 Aug 14:30  
+**Guillermo del Toro’s Pinocchio**  
+Tue 27 Aug 20:40  
+
+  
+
+**LAIKA: Frame x Frame**  
+Embark on a journey behind the scenes of LAIKA, one of the world’s foremost pioneers in stop-motion animation. This immersive new exhibition will transport you into the boundary-pushing art and science behind every one of the nearly one million meticulously constructed frames that bring each of LAIKA’s five groundbreaking feature films to life.  
+Opens Mon 12 Aug  
+<BR>
+
+Thanks to Jez Stewart, BFI National Archive
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2MDkwNjFdfQ==
+eyJoaXN0b3J5IjpbLTEwODg5MDUwNDRdfQ==
 -->
