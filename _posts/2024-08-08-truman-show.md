@@ -6,14 +6,14 @@ date: 2024-08-08
 readtime: true
 categories: ['SHIFTING LAYERS<br> THE FILM SCORES OF PHILIP GLASS']
 tags: [Drama, Sci-Fi]
-metadata: 'USA 1998, 89 mins<br> Director: Godfrey Reggio'
+metadata: 'USA 1998, 103 mins<br> Director: Peter Weir'
 pdf: '2024-08-08-naqoyqatsi.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
 Truman Burbank lives an unassuming small-town life, unaware that every movement in his life is anything but ordinary. His wife, his friends, the people on the streets he walks on everyday know something that is secret to Truman, and his quest to understand what is happening to him may affect the lives of people around the world. Burkhard Dallwitz composed the bulk of the score to Peter Weir’s brilliant film, but Glass contributed two key new pieces, alongside the use of tracks from _Mishima_. The composer even makes a brief cameo in one scene, playing a piano.  
-bfi.org.uk
+**bfi.org.uk**  
 
 Film critics and preview audiences occasionally experience something extraordinary: they get to see a ﬁlm absolutely cold, before it is written about, discussed, excerpted and trailered into ubiquity, before their friends feel unable to keep themselves from re-narrating the best bits. I feel extremely lucky to have walked into a preview of _The Truman Show_ several months ago completely ignorant of its story. By now, most inquisitive ﬁlmgoers will already know the central conceit: Truman Burbank, to all appearances a 30-year-old insurance salesman in a superﬁcially happy marriage, is unaware that he’s also the star of a TV show. Consequently, they will be robbed of the aesthetic bliss of seeing, like Truman himself, the trick revealed piece by piece.
 
@@ -27,8 +27,7 @@ What makes Carrey’s self-regarding, class-clown persona so useful to the ﬁlm
 
 This is nothing new. Solipsism is one of the deﬁning tropes of literary modernism, threading through Joyce’s _Ulysses_ and most of Nabokov’s work, Borges’ ﬁction and almost every book by Philip K. Dick. But cinema and television have appropriated the theme with problematic results. In a book, the reader is always aware that a single authorial presence is playing puppetmaster; writing itself is a solipsistic process. Film’s collaborative nature tugs it into the social realm. What is more, it seldom comfortably accommodates purely subjective viewpoints. We gradually come to realise that these weird shots of Truman in the beginning are the cameras’ views of him, but who is ﬁlming Christof in his observatory? What being watches Sylvia watching Truman inside her ﬂat?
 
-Still, _The Truman Show_ is a moving exploration of creation-anxiety, of the fear and hope that in a post-Darwinian world the only beings with real power are distant public ﬁgures and malevolent unknown forces ringfencing our capacity for free will. Solipsism haunts us because it’s both a comfort and a terror to think that someone, something has laid all this on for us, but in ﬁction like  
-_The Truman Show_ characters get to make the last moves. I won’t give it away here, but the conclusion of the ﬁlm is both satisfying and chillingly ambiguous: Truman and the viewers get to decide – to paraphrase the series’ tagline blazoned on buttons and T-shirts worn by the show’s viewers – how it’s going to end.  
+Still, _The Truman Show_ is a moving exploration of creation-anxiety, of the fear and hope that in a post-Darwinian world the only beings with real power are distant public ﬁgures and malevolent unknown forces ringfencing our capacity for free will. Solipsism haunts us because it’s both a comfort and a terror to think that someone, something has laid all this on for us, but in ﬁction like _The Truman Show_ characters get to make the last moves. I won’t give it away here, but the conclusion of the ﬁlm is both satisfying and chillingly ambiguous: Truman and the viewers get to decide – to paraphrase the series’ tagline blazoned on buttons and T-shirts worn by the show’s viewers – how it’s going to end.  
 **Leslie Felperin, _Sight and Sound_, October 1998**  
 <br>
 
@@ -69,9 +68,7 @@ _Set Designers_: Thomas Minton, Odin R. Oldenburg
 _Property Master_: Douglas Harlocker  
 _Costume Designer_: Marilyn Matthews  
 _Jim Carrey's Costumer_: Robert Mata  
-_Make-up Artist Supervisors_: Ron Berkeley,
-
-Brad Wilder  
+_Make-up Artist Supervisors_: Ron Berkeley, Brad Wilder  
 _Jim Carrey's Make-up Artist_: Sheryl Ptak  
 _Hairstylist Supervisors_: Bette Iverson, Hazel Catmull  
 _Jim Carrey's Hairstylist_: Anne Morgan  
@@ -219,5 +216,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTM3MzU3OV19
+eyJoaXN0b3J5IjpbMTY4NDk1OTI0Nl19
 -->
