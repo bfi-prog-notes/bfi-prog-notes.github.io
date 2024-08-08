@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: The Truman SHow
+published: true
+date: 2024-08-08
+readtime: true
+categories: ['SHIFTING LAYERS<br> THE FILM SCORES OF PHILIP GLASS']
+tags: [Drama, Sci-Fi]
+metadata: 'USA 1998, 89 mins<br> Director: Godfrey Reggio'
+pdf: '2024-08-08-naqoyqatsi.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Truman Burbank lives an unassuming small-town life, unaware that every movement in his life is anything but ordinary. His wife, his friends, the people on the streets he walks on everyday know something that is secret to Truman, and his quest to understand what is happening to him may affect the lives of people around the world. Burkhard Dallwitz composed the bulk of the score to Peter Weir’s brilliant film, but Glass contributed two key new pieces, alongside the use of tracks from _Mishima_. The composer even makes a brief cameo in one scene, playing a piano.
-
+Truman Burbank lives an unassuming small-town life, unaware that every movement in his life is anything but ordinary. His wife, his friends, the people on the streets he walks on everyday know something that is secret to Truman, and his quest to understand what is happening to him may affect the lives of people around the world. Burkhard Dallwitz composed the bulk of the score to Peter Weir’s brilliant film, but Glass contributed two key new pieces, alongside the use of tracks from _Mishima_. The composer even makes a brief cameo in one scene, playing a piano.  
 bfi.org.uk
 
 Film critics and preview audiences occasionally experience something extraordinary: they get to see a ﬁlm absolutely cold, before it is written about, discussed, excerpted and trailered into ubiquity, before their friends feel unable to keep themselves from re-narrating the best bits. I feel extremely lucky to have walked into a preview of _The Truman Show_ several months ago completely ignorant of its story. By now, most inquisitive ﬁlmgoers will already know the central conceit: Truman Burbank, to all appearances a 30-year-old insurance salesman in a superﬁcially happy marriage, is unaware that he’s also the star of a TV show. Consequently, they will be robbed of the aesthetic bliss of seeing, like Truman himself, the trick revealed piece by piece.
@@ -210,5 +219,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTQ0MzU1NF19
+eyJoaXN0b3J5IjpbMTIzMTM3MzU3OV19
 -->
