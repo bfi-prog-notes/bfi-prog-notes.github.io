@@ -2,19 +2,18 @@
 layout: post
 title: Naqoyqatsi
 published: true
-date: 2024-08-05
+date: 2024-08-08
 readtime: true
 categories: ['SHIFTING LAYERS<br> THE FILM SCORES OF PHILIP GLASS']
-tags: [Drama, Biopic]
-metadata: 'USA 1997, 134 mins<br> Director: Martin Scorsese'
-pdf: '2024-08-05-naqoyqatsi.pdf'
+tags: [Documentary]
+metadata: 'USA 2002, 89 mins<br> Director: Godfrey Reggio'
+pdf: '2024-08-08-naqoyqatsi.pdf'
 ---
 
 The final part of Reggio and Glass’s visually rich symphonic trilogy concludes with a title that translates from the Hopi language as ‘life as war’. It depicts an interconnected world where nature has been dominated, even overrun, by technology. Reggio employs digital techniques to manipulate everyday images in order to chronicle the way our society is changing. Renowned cellist Yo-Yo Ma’s performance is the centrepiece of Glass’s score, bringing spirituality and humanity to an increasingly cold and technologised environment.  
 **bfi.org.uk**  
 
-**Godfrey Reggio on his ‘Qatsi’ trilogy**
-
+**Godfrey Reggio on his ‘Qatsi’ trilogy**  
 Godfrey Reggio, now 62, made his directorial debut at the age of 43 after a career as a social worker in and around his native Santa Fe, New Mexico. Titled _Koyaanisqatsi_, from the Hopi Indian word meaning ‘life out of balance’, the film was a dazzling kaleidoscope of images and sound driven by a pulsing, churchlike score composed by Philip Glass. Helped into distribution by the likes of George Lucas and Francis Ford Coppola, _Koyaanisqatsi_ became a major arthouse hit that much to Reggio’s bemusement gave birth to a whole generation of New Age-style conglomerate commercials. _Powaqqatsi_ (‘life in transformation’), which examined the cultures of the southern hemisphere, followed in 1988. Reggio premiered the final instalment of the trilogy, _Naqoyqatsi_ (‘life as war’), at last year’s Venice film festival.
 
 _What inspired you to make_ Koyaanisqatsi _?_
@@ -94,8 +93,72 @@ Yo-Yo Ma
 USA 2002  
 89 mins  
 35mm  
+<br>
+**SHIFTING LAYERS: THE FILM SCORES OF PHILIP GLASS**  
+**Koyaanisqatsi**  
+Tue 6 Aug 18:20; Sat 24 Aug 12:50; Mon 26 Aug 11:30 BFI IMAX  
+**Powaqqatsi**  
+Wed 7 Aug 20:40; Sat 24 Aug 15:20  
+**Naqoyqatsi**  
+Thu 8 Aug 18:20; Sat 24 Aug 18:00  
+**The Truman Show**  
+Thu 8 Aug 20:30; Sat 10 Aug 18:30  
+**The Illusionist**  
+Fri 9 Aug 20:30; Thu 29 Aug 18:10  
+**UK Premiere: A Place Called Music + Q&A with director Enrique M. Rizo**  
+Sun 11 Aug 15:15  
+**The Hours**  
+Sun 11 Aug 18:00; Mon 26 Aug 17:30  
+**The Philip Glass Effect**  
+Wed 14 Aug 18:10  
+**Mishima: A Life in Four Chapters**  
+Wed 14 Aug 20:20  
+**Dracula (Philip Glass Special Edition)**  
+Thu 15 Aug 18:10  
+**Visitors + UK Premiere: Once Within a Time**  
+Thu 15 Aug 20:10; Tue 27 Aug 17:50  
+**Notes on a Scandal**  
+Fri 16 Aug 18:30; Thu 29 Aug 20:40  
+**Jane**  
+Sat 17 Aug 20:40; Sat 31 Aug 15:10  
+**Kundun**  
+Sun 18 Aug 18:00  
+**The Thin Blue Line**  
+Mon 19 Aug 18:10  
+**The Fog of War: Eleven Lessons from the Life of Robert S. McNamara**  
+Mon 19 Aug 20:30; Mon 26 Aug 20:10  
+**Candyman**  
+Fri 23 Aug 18:20  
+**Joseph Conrad’s The Secret Agent**  
+Fri 23 Aug 20:40  
+  
 
+**With thanks to**  
+Richard Guerin, Director of Orange Mountain Music  
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MDU3Mjg5LC01ODkwMjI3OTcsNzMwOT
+eyJoaXN0b3J5IjpbLTcxMjQ0NjQxLC01ODkwMjI3OTcsNzMwOT
 k4MTE2XX0=
 -->
