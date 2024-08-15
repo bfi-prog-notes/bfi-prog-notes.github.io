@@ -1,8 +1,14 @@
-
-
-
-
-<![endif]-->
+---
+layout: post
+title: Sátántangó
+published: true
+date: 2024-08-17
+readtime: true
+categories: ['WILL HEAVEN FALL UPON US? <br>A BÉLA TARR RETROSPECTIVE']
+tags: [Drama]
+metadata: 'Hungary/Germany/Switzerland 1994, 439 mins<br> Director: Henry Selick'
+pdf: '2024-08-11-coraline.pdf'
+---
 
 Béla Tarr is not a man for small talk. When our Zoom call connects, I begin by thanking him for his time and telling him I was pleased to have this opportunity – to which he replies that I shouldn’t be too polite, but simply tell him what I want. The smile on his face betrays a cheerful mood, even as his words suggest we get straight down to business. So we do.
 
@@ -95,5 +101,5 @@ Hungary/Germany/Switzerland 1994
 Digital 4K (restoration)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTk0ODc5OV19
+eyJoaXN0b3J5IjpbLTEwNjcwNjUzNTldfQ==
 -->
