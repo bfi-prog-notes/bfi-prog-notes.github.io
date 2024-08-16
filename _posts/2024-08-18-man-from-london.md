@@ -4,7 +4,7 @@ title: The Man from London
 published: true
 date: 2024-08-18
 readtime: true
-categories: ['WILL HEAVEN FALL UPON US? <br>A BÉLA TARR RETROSPECTIVE']
+categories: ['WILL HEAVEN FALL UPON US <br>A BÉLA TARR RETROSPECTIVE']
 tags: [Drama]
 metadata: 'Hungary-France-Germany 2007, 139 mins<br> Director: Béla Tarr'
 pdf: '2024-08-18-man-from-london.pdf'
