@@ -7,9 +7,8 @@ readtime: true
 categories: ['WILL HEAVEN FALL UPON US? <br>A BÉLA TARR RETROSPECTIVE']
 tags: [Drama]
 metadata: 'Hungary-France-Germany 2007, 139 mins<br> Director: Béla Tarr'
-pdf: '2024-08-17-satantango.pdf'
+pdf: '2024-08-18-man-from-london.pdf'
 ---
-
 
 The extinction of the aesthetically and intellectually rigorous European art film has been predicted for so long (in the early 1980s, a _Sight and Sound_ columnist called for the creation of a Society for the Protection of the Art Movie) that the mere fact of Hungarian auteur Béla Tarr continuing to direct films without making the smallest concession to popular fashion is a cause for celebration.
 
@@ -146,5 +145,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDAxNDA4XX0=
+eyJoaXN0b3J5IjpbLTE4NzY0MzI2MDMsMjA4NDAxNDA4XX0=
 -->
