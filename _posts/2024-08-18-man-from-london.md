@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Man from London
+published: true
+date: 2024-08-18
+readtime: true
+categories: ['WILL HEAVEN FALL UPON US? <br>A BÉLA TARR RETROSPECTIVE']
+tags: [Drama]
+metadata: 'Hungary-France-Germany 2007, 139 mins<br> Director: Béla Tarr'
+pdf: '2024-08-17-satantango.pdf'
+---
 
 
 The extinction of the aesthetically and intellectually rigorous European art film has been predicted for so long (in the early 1980s, a _Sight and Sound_ columnist called for the creation of a Society for the Protection of the Art Movie) that the mere fact of Hungarian auteur Béla Tarr continuing to direct films without making the smallest concession to popular fashion is a cause for celebration.
@@ -24,29 +34,20 @@ There are fewer ‘Tarr trudges’ than usual, though a suggestive shot sees Mal
 Stretches of _The Man from London_ may hint that Tarr is caught in a similar creative impasse (the film is closer to the territory of _Damnation_ than its immediate predecessors), but the peculiar pleasures of his cinema are still to the fore. Chief among them is the silvery black-and-white cinematography by fellow director (and former Tarr student) Fred Kelemen, whose virtuosity in lighting, movement, and composition is breathtaking, recalling the great noir specialist John Alton while remaining absolutely true to Tarr’s vision.  
 **Michael Brooke, _Sight and Sound_, January 2009**  
 <br>
-**THE MAN FROM LONDON (A LONDONI FÉRFI)**
-
+**THE MAN FROM LONDON (A LONDONI FÉRFI)**  
 _Directed by_: Béla Tarr  
 _Co-director_: Ágnes Hranitzky  
 _©_: T.T. Filmmühely, 13 Production, Cinéma Soleil, Von Vietinghoff Filmproduktion, Black Forest Films  
 _Presented by_: T.T. Filmmühely, 13 Production, Cinéma Soleil, Von Vietinghoff Filmproduktion, Black Forest Films  
 _World Sales_: Fortissimo Film Sales  
 _Supported by_: Magyar Mozgókép Közalapítvány, Oktatási és Kulturális Minisztérium, CNC - Centre national de la cinématographie, Arte France Cinéma, ZDF-Arte, Canal+, Eurimages Conseil de l'Europe, CinéCinéma, Nemzeti Kulturális Alap, MBB – Medienboard Berlin-Brandenburg, Magyar Mozgókép Kft, Collectivité Territoriale de Corse, Duna Televizió, Szerencsejáték Co., Fondation MonteCinemaVerità, ERSTE Bank  
-_Executive Producers_: Juliusz Kossakowski,
-
-Wouter Barendrecht, Michael J. Werner,
-
-T. Janos Hevesi, Lajos Szakácsi  
+_Executive Producers_: Juliusz Kossakowski, Wouter Barendrecht, Michael J. Werner, T. Janos Hevesi, Lajos Szakácsi  
 _Producer (T.T. Filmmühely)_: Gábor Téni  
 _Producer (13 Production)_: Paul Saadoun  
 _Producer (Cinéma Soleil)_: Miriam Zachar  
-_Producer (Von Vietinghoff Filmproduktion)_:
-
-Joachim von Vietinghoff  
+_Producer (Von Vietinghoff Filmproduktion)_: Joachim von Vietinghoff  
 _Producer (Black Forest Films)_: Christoph Hahnheiser  
-_Line Producers_: Gábor Téni, Pierre Pancrazi,
-
-Jean-Claude Marchant  
+_Line Producers_: Gábor Téni, Pierre Pancrazi, Jean-Claude Marchant  
 _Associate Producer_: Béla Tarr  
 _For Arte France Cinéma_: Michel Reilhac  
 _For ZDF/ARTE_: Meinolf Zurhorst  
@@ -100,6 +101,50 @@ Róbert Garai _(Jacques Pilippi)_
 Hungary-France-Germany 2007  
 139 mins  
 35mm  
+<br>
+**WILL HEAVEN FALL UPON US? A BÉLA TARR RETROSPECTIVE**  
+**Sátántangó**  
+Sat 17 Aug 13:30; Sat 24 Aug 23:00 BFI IMAX  
+**The Man from London** A Londoni férfi  
+Sun 18 Aug 18:00; Wed 21 Aug 20:15  
+**Damnation** Kárhozat  
+Sat Thu 22 Aug 20:40  
+**The Outsider** Szabadgyalog  
+Fri 23 Aug 20:35  
+**The Turin Horse** A torinói ló  
+Sat 24 Aug 19:50; Sat 31 Aug 17:20  
+**Autumn Almanac (aka Almanac of Fall)** Öszi almanac  
+25 Aug 15:45  
+
+  
+
+**With thanks to**  
+Charlotte Saluard and Jamie Mendonça at Curzon Film  
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTg3ODUwMl19
+eyJoaXN0b3J5IjpbMjA4NDAxNDA4XX0=
 -->
