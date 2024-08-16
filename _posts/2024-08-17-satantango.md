@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Satantango
+title: Sátántangó
 published: true
 date: 2024-08-17
 readtime: true
-categories: ['WILL HEAVEN FALL UPON US <br>A BELA TARR RETROSPECTIVE']
+categories: ['WILL HEAVEN FALL UPON US <br>A BÉLA TARR RETROSPECTIVE']
 tags: [Drama]
-metadata: 'Hungary/Germany/Switzerland 1994, 439 mins<br> Director: Bela Tarr'
+metadata: 'Hungary/Germany/Switzerland 1994, 439 mins<br> Director: Béla Tarr'
 pdf: '2024-08-17-satantango.pdf'
 ---
 
