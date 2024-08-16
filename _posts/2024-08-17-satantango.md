@@ -99,6 +99,25 @@ Katalin Krizsánné Kovács
 Hungary/Germany/Switzerland 1994  
 439 mins + intervals  
 Digital 4K (restoration)  
+<br>
+**WILL HEAVEN FALL UPON US? A BÉLA TARR RETROSPECTIVE**  
+**Sátántangó**  
+Sat 17 Aug 13:30; Sat 24 Aug 23:00 BFI IMAX  
+**The Man from London** A Londoni férfi  
+Sun 18 Aug 18:00; Wed 21 Aug 20:15  
+**Damnation** Kárhozat  
+Sat Thu 22 Aug 20:40  
+**The Outsider** Szabadgyalog  
+Fri 23 Aug 20:35  
+**The Turin Horse** A torinói ló  
+Sat 24 Aug 19:50; Sat 31 Aug 17:20  
+**Autumn Almanac (aka Almanac of Fall)** Öszi almanac  
+25 Aug 15:45  
+
+  
+
+**With thanks to**  
+Charlotte Saluard and Jamie Mendonça at Curzon Film  
 
 <br>
 
@@ -125,5 +144,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5Njg1OTgxXX0=
+eyJoaXN0b3J5IjpbMTM0MzI0NzA0Nyw5MDk2ODU5ODFdfQ==
 -->
