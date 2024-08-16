@@ -58,9 +58,7 @@ We knew that making _Sátántangó_ would be a hard job. It was, absolutely, but
 
 **SATANTANGO (SÁTÁNTANGÓ)**  
 _Director:_ Béla Tarr  
-_Production Companies:_ MIT,  
-Von Vietinghoff Filmproduktion, Vega Film,  
-Magyar Televízió, Télévision Suisse Romande  
+_Production Companies:_ MIT, Von Vietinghoff Filmproduktion, Vega Film, Magyar Televízió, Télévision Suisse Romande  
 _Producers:_ György Fehér, Joachim von Vietinghoff, Ruth Waldburger  
 _Screenplay:_ László Krasznahorkai, Béla Tarr  
 _Based on the Novel by:_ László Krasznahorkai  
