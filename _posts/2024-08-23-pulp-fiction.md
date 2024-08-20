@@ -92,8 +92,8 @@ _Transportation Co-ordinator:_ Derek Raser
 _Stunt Co-ordinator:_ Ken Lesco  
 _Stunt Players:_ Matt Avila, Cameron, Chris Doyle, Marcia Holley, Terry Jackson, Melvin Jones, Hubie Kerns Jr, Scott McElroy, Dennis ‘Danger’ Madalone  
 _Unit Publicist:_ Deborah Wuliger  
-_Cast:_
 
+**Cast**  
 John Travolta _(Vincent Vega)_  
 Samuel L. Jackson _(Jules Winnfield)_  
 Uma Thurman _(Mia Wallace)_  
@@ -143,13 +143,13 @@ Linda Kaye _(shot lady)_
 Alexis Arquette _(fourth man)_  
 Venessia Valentino _(Bonnie [role deleted])_  
 Lawrence Bender _(long hair yuppie-scum)_  
-USA 1994©
 
-154 mins
-
+USA 1994©  
+154 mins  
 Digital 4K
 
 A Paramount Pictures release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzE1MDA1XX0=
+eyJoaXN0b3J5IjpbLTE0NjM3MzU1MjNdfQ==
 -->
