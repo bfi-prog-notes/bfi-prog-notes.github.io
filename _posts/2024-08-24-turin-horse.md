@@ -71,7 +71,7 @@ János Derzsi _(Ohlsdorfer)_
 Mihály Komos _(Bernhard, neighbour)_  
 Ricsi _(horse)_  
 
-Hungary/France/Switzerland/Germany 2011
+Hungary/France/Switzerland/Germany 2011  
 155 mins  
 Digital  
 <br>
