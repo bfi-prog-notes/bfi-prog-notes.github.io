@@ -1,6 +1,5 @@
 
-**A contemporary review**
-
+**A contemporary review**  
 The inevitable question confronting any artist of stature as the twilight years close in: will the inspiration fade away; and if so when? And concomitantly: should I call time, and if so when? Some directors have of course produced great work near or right up to the end; others, arguably a larger cohort, have ploughed on (are ploughing on) regardless of – perhaps blissfully unaware of – pronounced creative decline. Manoel de Oliveira, who wrote and directed bewitching films in his 104th year, seems like some magnificent but bewildering freak of nature.
 
 Despite being only a little more than half Oliveira’s age, the Hungarian Béla Tarr, another monumental figure in the history of cinema, has nevertheless decided that _The Turin Horse_ will be his final film, and that after eight features – including the seven-and-a-half-hour _Sátántangó_, his undisputed pinnacle – he feels he’s now said everything he has to say. _The Turin Horse_ in fact opens with another creative terminus that colours everything after it: a spoken prologue over a black screen relating the apocryphal tale of Friedrich Nietzsche’s encounter with a horse being beaten by its owner on a Turin street in 1889, leading to a negative epiphany that instigated a breakdown and the end of his writing career.
@@ -13,12 +12,10 @@ As with all Tarr’s later, allegorically inclined films, it’s open to multipl
 
 Another tendency when directors sign off for good: the rush to declare the last film a masterpiece; and so it’s proved here. After two viewings, and despite having long been a fanatical Tarr acolyte, it’s difficult to concur. Some magic seems to have definitively gone, as it had in the previous film _The Man from London_ (2007). There are very very few images or scenes here reverberating with that mysterious, mesmerising charge and intensity that Tarr and his collaborators could seemingly summon at will in his greatest films. The misery can feel laid on a bit too heavyhandedly at times, and the repetitions – of musical motifs, but principally the characters’ routines – produce only a wearying sense of diminishing returns.
 
-And yet, and yet… let’s face it, it’s still head and shoulders above almost everything else out there, with one saving grace in particular: a shared apprehension of rupture, closure – the sense of an ending – that brings Tarr into much closer alignment with his characters and their plight than he’s arguably ever been before, making this his most direct and overtly compassionate film.
+And yet, and yet… let’s face it, it’s still head and shoulders above almost everything else out there, with one saving grace in particular: a shared apprehension of rupture, closure – the sense of an ending – that brings Tarr into much closer alignment with his characters and their plight than he’s arguably ever been before, making this his most direct and overtly compassionate film.  
+**Kieron Corless, _Sight and Sound_, June 2012**  
 
-Kieron Corless, _Sight and Sound_, June 2012
-
-**Béla Tarr on ‘The Turin Horse’**
-
+**Béla Tarr on ‘The Turin Horse’**  
 _Was the Nietzsche story the origin of_ The Turin Horse_?_
 
 I’ll tell you the truth. In 1985, Lászlá [Krasznahorkai] gave a reading in a theatre in Hungary. At the end he read the text which is now the prologue of this movie, and the last question of course is, ‘What happened to the horse?’ We were sitting and thinking how we could do something with this question – because everyone knows the Nietzsche story, and everyone’s listening to it for Nietzsche, but nobody listens for the horse. I was always curious: what could happen to the horse?
@@ -49,31 +46,23 @@ _Executive Producers:_ Werc Werk Works, Elizabeth G. Redleaf, Christine K. Walke
 _Produced by:_ Gábor Téni, Marie-Pierre Macia, Juliette Lepoutre, Ruth Waldburger, Martin Hagemann  
 _Line Producer:_ Gábor Téni  
 _Written by:_ László Kraznahorkai, Béla Tarr  
-_Director of Photography: Fred Kelemen
-_Editor: Ágnes Hranitzky_
+_Director of Photography:_ Fred Kelemen  
+_Editor:_ Ágnes Hranitzky  
+_Art Director:_ Sándor Kállay  
+_Costumes:_ János Breckl  
+_Music:_ Mihály Víg  
+_Sound Mixer:_ Gábor Erdélyi Jr
 
-_Art Director: Sándor Kállay_
-
-_Costumes: János Breckl_
-
-_Music: Mihály Víg_
-
-_Sound Mixer: Gábor Erdélyi Jr_
-
-_Cast:_
-
-_Mihály Ráday_
-
-_Erika Bók (Ohlsdorfer’s daughter)_
-
-_János Derzsi (Ohlsdorfer)_
-
-_Mihály Komos (Bernhard, neighbour)_
-_Ricsi (horse)_  
+**Cast** 
+Mihály Ráday  
+Erika Bók _(Ohlsdorfer’s daughter)_  
+János Derzsi _(Ohlsdorfer)_  
+Mihály Komos _(Bernhard, neighbour)_  
+Ricsi _(horse)_  
 
 Hungary/France/Switzerland/Germany 2011
 155 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyOTIwMjA0XX0=
+eyJoaXN0b3J5IjpbNDkyNzQ3ODc1XX0=
 -->
