@@ -40,34 +40,16 @@ _It feels as if you’re taking all your cinema and boiling it down, purifying i
 Like a good spirit, you have to boil it and in the end, you have the real essence. This is the essence. This is the essence of my life and my films, and that’s all.  
 **Béla Tarr interviewed by Jonathan Romney, _Sight and Sound_, June 2012**  
 <br>
-**THE TURIN HORSE (A TORINÓI LÓ)**
-
-_Director: Béla Tarr_
-
-_Co-director: Ágnes Hranitzky_
-
-_©: T.T. Filmmühely, MPM Film, Vega Film,_
-
-_zero fiction film_
-
-_Production Companies: T.T. Filmmühely,_
-
-_MPM Film, Vega Film, zero fiction film_
-
-_Executive Producers: Werc Werk Works,_
-
-_Elizabeth G. Redleaf, Christine K. Walker_
-
-_Produced by: Gábor Téni, Marie-Pierre Macia, Juliette Lepoutre, Ruth Waldburger,_
-
-_Martin Hagemann_
-
-_Line Producer: Gábor Téni_
-
-_Written by: László Kraznahorkai, Béla Tarr_
-
-_Director of Photography: Fred Kelemen_
-
+**THE TURIN HORSE (A TORINÓI LÓ)**  
+_Director:_ Béla Tarr  
+_Co-director:_ Ágnes Hranitzky  
+_©:_ T.T. Filmmühely, MPM Film, Vega Film, zero fiction film  
+_Production Companies:_ T.T. Filmmühely, MPM Film, Vega Film, zero fiction film  
+_Executive Producers:_ Werc Werk Works, Elizabeth G. Redleaf, Christine K. Walker  
+_Produced by:_ Gábor Téni, Marie-Pierre Macia, Juliette Lepoutre, Ruth Waldburger, Martin Hagemann  
+_Line Producer:_ Gábor Téni  
+_Written by:_ László Kraznahorkai, Béla Tarr  
+_Director of Photography: Fred Kelemen
 _Editor: Ágnes Hranitzky_
 
 _Art Director: Sándor Kállay_
@@ -93,5 +75,5 @@ Hungary/France/Switzerland/Germany 2011
 155 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDI1OTE3MV19
+eyJoaXN0b3J5IjpbNDgyOTIwMjA0XX0=
 -->
