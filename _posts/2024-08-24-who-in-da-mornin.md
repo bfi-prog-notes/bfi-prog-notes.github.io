@@ -5,11 +5,10 @@ published: true
 date: 2024-08-24
 readtime: true
 categories: ['AFRICAN ODYSSEYS']
-tags: [Drama]
-metadata: 'Hungary/France/Switzerland/Germany 2011, 155 mins<br> Director: Béla Tarr'
-pdf: '2024-08-24-turin-horse.pdf'
+tags: [Documentary]
+metadata: 'Bahamas 2023, 68 mins<br> Directors: Jonathan Isaac Jackson, Philip Williamson'
+pdf: '2024-08-24-who-in-da-mornin.pdf'
 ---
-
 
 _We are delighted that the director of_ Who in da Mornin _, Jonathan Isaac Jackson, will introduce this screening and attend a Q&A._
 
@@ -17,12 +16,10 @@ _We are also very pleased to announce that Mario Gousse will join the discussion
 
 _We will also welcome as chair, Cecil Gutzmore, educator and activist._
 
-**Who in da Mornin**
-
+**Who in da Mornin**  
 A lovingly created portrait of the annual Bahamian Junkanoo festival – a masque and music tribute to the warrior king of the West African Ahanta, who resisted colonialism. The film is also a celebration of the enduring spirit of new world African people.
 
-**Sugar Cane Malice**
-
+**Sugar Cane Malice**  
 Zapata, who is also an artist and architect, delivers a rigorous portrait of the plight of Haitian migrant workers in the Dominican Republic, who work on one of the largest US-owned plantations in the world.
 
 **Jonathan Isaac Jackson** is a New Orleanian filmmaker and Managing Partner at The Colored Section. His first feature documentary, _Big Chief, Black Hawk_, was nominated for Best Documentary by American Black Film Festival (2021) and the Black Reel Awards (2022), and was named the top Hollywood South film of 2021 by nola.com before being acquired by American Documentary and WORLD Channel in 2022. His second feature documentary _Who In Da Mornin_ was produced and shot in The Bahamas and has screened in the US, throughout the Caribbean, and in Europe.
@@ -74,5 +71,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDMwMjYxMF19
+eyJoaXN0b3J5IjpbMjAzODEzOTQyM119
 -->
