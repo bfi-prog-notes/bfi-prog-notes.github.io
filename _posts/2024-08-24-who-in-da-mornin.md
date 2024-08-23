@@ -40,8 +40,6 @@ Bahamas 2023
 68 mins  
 Digital  
 
-  
-
 **SUGAR CANE MALICE (MAL DE CAÑA)**  
 _Director:_ Juan A. Zapata  
 Dominican Republic-Spain 2021  
@@ -71,5 +69,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODEzOTQyM119
+eyJoaXN0b3J5IjpbODcwMDQ3MjkxXX0=
 -->
