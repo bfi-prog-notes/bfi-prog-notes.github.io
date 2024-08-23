@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Turin Horse
+published: true
+date: 2024-08-24
+readtime: true
+categories: ['WILL HEAVEN FALL UPON US <br>A BÉLA TARR RETROSPECTIVE']
+tags: [Drama]
+metadata: 'Hungary/France/Switzerland/Germany 2011, 155 mins<br> Director: Béla Tarr'
+pdf: '2024-08-24-turin-horse.pdf'
+---
 
 **A contemporary review**  
 The inevitable question confronting any artist of stature as the twilight years close in: will the inspiration fade away; and if so when? And concomitantly: should I call time, and if so when? Some directors have of course produced great work near or right up to the end; others, arguably a larger cohort, have ploughed on (are ploughing on) regardless of – perhaps blissfully unaware of – pronounced creative decline. Manoel de Oliveira, who wrote and directed bewitching films in his 104th year, seems like some magnificent but bewildering freak of nature.
@@ -16,7 +27,7 @@ And yet, and yet… let’s face it, it’s still head and shoulders above almos
 **Kieron Corless, _Sight and Sound_, June 2012**  
 
 **Béla Tarr on ‘The Turin Horse’**  
-_Was the Nietzsche story the origin of_ The Turin Horse_?_
+_Was the Nietzsche story the origin of_ The Turin Horse _?_
 
 I’ll tell you the truth. In 1985, Lászlá [Krasznahorkai] gave a reading in a theatre in Hungary. At the end he read the text which is now the prologue of this movie, and the last question of course is, ‘What happened to the horse?’ We were sitting and thinking how we could do something with this question – because everyone knows the Nietzsche story, and everyone’s listening to it for Nietzsche, but nobody listens for the horse. I was always curious: what could happen to the horse?
 
@@ -24,7 +35,7 @@ _I got the impression that the film is not really about the horse but about Niet
 
 Not only Nietzsche’s silence – the silence of everybody. These people have a daily life. I wanted to show how it’s difficult to be – how being is so hard, and so simple.
 
-_The locations look very similar to the landscapes of_ Sátántangó_. Was it shot in the same part of Hungary?_
+_The locations look very similar to the landscapes of_ Sátántangó _. Was it shot in the same part of Hungary?_
 
 No, _Sátántangó_ was shot on the plain, the lowland. Here there are some hills and a small valley. I found just the valley with this lonely tree and I thought, ‘I need a house here.’ We built the house – it’s real stone and wood. Everything is real, including the oven. But it’s not that strong, because we knew we only needed it for one year. Afterwards, everything started collapsing.
 
@@ -64,5 +75,5 @@ Hungary/France/Switzerland/Germany 2011
 155 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNzQ3ODc1XX0=
+eyJoaXN0b3J5IjpbLTMwMDAxNzM3Ml19
 -->
