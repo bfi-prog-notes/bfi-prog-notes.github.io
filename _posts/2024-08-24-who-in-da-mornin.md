@@ -1,3 +1,14 @@
+---
+layout: post
+title: Who in da Mornin
+published: true
+date: 2024-08-24
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Drama]
+metadata: 'Hungary/France/Switzerland/Germany 2011, 155 mins<br> Director: Béla Tarr'
+pdf: '2024-08-24-turin-horse.pdf'
+---
 
 
 _We are delighted that the director of_ Who in da Mornin _, Jonathan Isaac Jackson, will introduce this screening and attend a Q&A._
@@ -26,26 +37,17 @@ He is the founder of the Jan Jak Desalin Imperial Institute, in Ayiti.
 
 **Cecil Gutzmore**, a former researcher and lecturer at the University of the West Indies, has published many essays related to the Afro-American diaspora and in particular about the political processes that have negatively influenced the Black community in England.
 <br>
-**Who in da Mornin**
-
-_Directors:_ Jonathan Isaac Jackson,
-
-Philip Williamson
-
-Bahamas 2023
-
-68 mins
-
-Digital
+**WHO IN DA MORNIN**  
+_Directors:_ Jonathan Isaac Jackson, Philip Williamson  
+Bahamas 2023  
+68 mins  
+Digital  
 
   
 
-**Sugar Cane Malice (Mal de caña)**
-
-_Director:_ Juan A. Zapata
-
-Dominican Republic-Spain 2021
-
+**SUGAR CANE MALICE (MAL DE CAÑA)**  
+_Director:_ Juan A. Zapata  
+Dominican Republic-Spain 2021  
 76 mins  
 Digital  
 <br>
@@ -72,5 +74,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDczODk4OTRdfQ==
+eyJoaXN0b3J5IjpbMTk1MDMwMjYxMF19
 -->
