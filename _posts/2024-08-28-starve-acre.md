@@ -106,6 +106,29 @@ Digital
 
 Courtesy of BFI Distribution
 <br>
+**ROOTS, RITUALS AND PHANTASMAGORIA**  
+**Created by Daniel Kokotajlo, director of Starve Acre**  
+
+**Dead of Night**  
+Mon 2 Sep 20:40; Sat 14 Sep 12:30  
+**Against the Crowd: Murrain (+ intro by novelist Andrew Michael Hurley) + Omnibus: Whistle and I’ll Come to You**  
+Sat 7 Sep 18:20  
+**Little Otik** Otesánek  
+Wed 4 Sep 20:15 (+ intro by musician and _Starve Acre_ composer Matthew Herbert); Sat 21 Sep 17:45  
+**Play for Today: Robin Redbreast**  
+Mon 9 Sep 18:30  
+**Don’t Look Now**  
+Tue 10 Sep 20:45; Thu 26 Sep 20:50; Sun 29 Sep 18:10  
+**A Ghost Story for Christmas: A Warning to the Curious + Beasts: Baby**  
+Fri 13 Sep 18:15  
+**Eraserhead**  
+Fri 13 Sep 20:45; Tue 1 Oct 21:00; Mon 7 Oct 18:10  
+**Screenplay: White Lady (+ intro by filmmaker and season curator Daniel Kokotajlo) + Children of the Stones (episode 1)**  
+Mon 16 Sep 20:40  
+**The Shout**  
+Wed 18 Sep 18:10 (+ Q&A with filmmakers Daniel Kokotajlo and Mark Jenkin); Sat 21 Sep 15:00; Wed 2 Oct 20:50  
+**The Hunger**  
+Thu 19 Sep 20:35; Sun 6 Oct 18:10  
 <br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -131,5 +154,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mzc0OTA4NF19
+eyJoaXN0b3J5IjpbMTQ0Mzk4ODg1MV19
 -->
