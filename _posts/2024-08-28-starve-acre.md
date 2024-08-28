@@ -1,10 +1,9 @@
 
 
 
-_+ Q&A with director Daniel Kokotajlo and actors Morfydd Clark and  
-Robert Emms_
+_+ Q&A with director Daniel Kokotajlo and actors Morfydd Clark and Robert Emms_
 
-**Daniel Kokotajlo on ‘Starve Acre’**
+**Daniel Kokotajlo on ‘Starve Acre’**  
 
 _What first drew you to Andrew Michael Hurley’s novella?_
 
@@ -14,7 +13,7 @@ _How did you find the process of adapting the novella for screen?_
 
 The process wasn’t dissimilar to writing original material. I took the elements that I felt were visual and dramatic in Andrew’s novel (much like how I would with any story or idea) and found ways to make them work in a feature length format. I had the opportunity to expand and alter some of the story and characters to connect them to themes that I felt were relevant for how the script was evolving.
 
-_How did the process of writing and directing_ Starve Acre _feel different to your first feature,_ Apostasy_?_
+_How did the process of writing and directing_ Starve Acre _feel different to your first feature,_ Apostasy _?_
 
 The writing process was similar – lots of talking to myself, going on long walks and cold showers. Directing was more of a challenge on _Starve Acre_ because of all the additional elements. Shooting on location in a remote environment prone to hostile climatic conditions was hard enough… then throw in several animals, complicated puppetry, child actors, a covid outbreak that shut us down, and you’re getting close to what felt like our own little _Burden of Dreams_.
 
@@ -36,7 +35,67 @@ I first saw this film as an ode to the hare and what it represents to us in myth
 a child?  
 **Production notes**  
 <br>
+**STARVE ACRE**  
+_Directed by_: Daniel Kokotajlo  
+©: House Starve Acre Limited, Acre Films LLC, British Broadcasting Corporation, The British Film Institute  
+_A_ House _production_
+_Presented by_: Access Entertainment, BBC Film, BFI  
+_Executive Producers_: Harry Dixon, Derrin Schlesinger, Len Blavatnik, Danny Cohen, Eva Yates, Rose Garnett, Lizzie Francke,  
+Alison Thompson, Mark Gooder  
+_Produced by_: Tessa Ross, Juliette Howell, Emma Duffy  
+_Co-producer_: Ross Williams  
+_Production Manager_: Rob Yeomans  
+_Location Manager_: Mike Higson  
+_Post-production Co-ordinator_: Tarek Geddawy  
+_1st Assistant Directors_: Christiaan Faberij de Jonge, Ursula Haworth  
+_Script Supervisor_: Jemima Thomas  
+_Casting Director_: Shaheen Baig  
+_Written by_: Daniel Kokotajlo  
+_Based on the book by_: Andrew Michael Hurley  
+_Director of Photography_: Adam Scarth  
+_VFX Producer_: Joe Carhart  
+_Visual Effects by_: Atomic Arts, Ghost VFX,  Thank You Mam  
+_Assitional Visual Effects by_: Bad Studio  
+_SFX Supervisor_: Rob Rowley  
+_Animatronic Designer_: Matt MacMurray  
+_Editor_: Brenna Rangott  
+_Production Designer_: Francesca Massariol  
+_Supervising Art Director_: Katherine Black  
+_Costume Designer_: Emma Fryer  
+_Hair and Make-up Supervisor_: Joanne Tudda  
+_Hair and Make-up Designer_: Lisa Parkinson  
+_Creature Effects Supervisor_: Sharna Rothwell  
+_Creature Design and Creation_: Millennium FX  
+_Main and End Titles Designed by_:  The Morrison Studio  
+_Music by_: Matthew Herbert  
+_Music Performed by_:  The London Contemporary Orchestra  
+_Sound Designer_: Steve Fanagan  
+_Production Sound Mixer_: Tarn Willers  
+_Re-recording Mixer_: Ben Baird  
+_Stunt Co-ordinators_: Gordon Seed, Gary Kane, Dean Forster  
 
+**Cast**  
+Matt Smith _(Richard)_  
+Morfydd Clark _(Juliette)_  
+Erin Richards _(Harrie)_  
+Robert Emms _(Steven)_  
+Sean Gilder _(Gordon)_  
+Melanie Kilburn _(Mrs Forde)_  
+Arthur Shaw _(Owen)_  
+Robert Goodale _(Medhurst)_  
+Roger Barclay _(Dr Monk)_  
+Matilda Firth _(younger Burnsall sister)_  
+Daisy Exley _(older Burnsall sister)_  
+Rocco Haynes _(football boy)_  
+Niall Costigan _(cricket player)_  
+Tess Hodgson-Sakamoto _(female student)_  
+Derek the dog _(Corey played by)_  
+
+UK 2023  
+98 mins  
+Digital  
+
+Courtesy of BFI Distribution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjAxMjg1Nl19
+eyJoaXN0b3J5IjpbOTU4OTYyNzg2XX0=
 -->
