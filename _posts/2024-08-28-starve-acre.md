@@ -104,10 +104,11 @@ UK 2023
 98 mins  
 Digital  
 
-Courtesy of BFI Distribution
+Courtesy of BFI Distribution  
 <br>
-**ROOTS, RITUALS AND PHANTASMAGORIA**  
-**Created by Daniel Kokotajlo, director of Starve Acre**  
+
+**ROOTS, RITUALS AND PHANTASMAGORIA  
+Created by Daniel Kokotajlo, director of Starve Acre**  
 
 **Dead of Night**  
 Mon 2 Sep 20:40; Sat 14 Sep 12:30  
