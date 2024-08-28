@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Starve Acre
+published: true
+date: 2024-08-28
+readtime: true
+categories: ['PREVIEW']
+tags: [Musical, Comedy]
+metadata: 'UK-Ireland-France 2024, 105 mins<br> Director: Rich Peppiatt'
+pdf: '2024-08-23-kneecap.pdf'
+---
 
 
 _+ Q&A with director Daniel Kokotajlo and actors Morfydd Clark and Robert Emms_
@@ -97,5 +107,5 @@ Digital
 
 Courtesy of BFI Distribution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4OTYyNzg2XX0=
+eyJoaXN0b3J5IjpbMTQ3MzgwMDA0NV19
 -->
