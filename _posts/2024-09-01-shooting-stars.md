@@ -95,22 +95,15 @@ Mon 23 Sep 18:20<br>
 **The Pumpkin Eater**<br>
 Fri 27 Sep 18:00; Sun 6 Oct 15:00<br>
 **Dr. Jekyll and Sister Hyde**<br>
-
-Sat 28 Sep 18:10; Thu 3 Oct 18:15 + intro by  
-Sam Clemens, son of Brian Clemens<br>
-
+Sat 28 Sep 18:10; Thu 3 Oct 18:15 + intro by  Sam Clemens, son of Brian Clemens<br>
 **The Legend of Hell House**<br>
-
 Sat 28 Sep 20:40; Mon 7 Oct 18:20<br>
-
 **Guns at Batasi**<br>
-
 Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
 
 **With thanks to**<br>
-
 Martin Scorsese and Edgar Wright<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDIxMTE4M119
+eyJoaXN0b3J5IjpbLTEyNjc4MjE0MTFdfQ==
 -->
