@@ -83,61 +83,35 @@ Sat 7 Sep 12:10; Sat 21 Sep 12:00<br>
 Sat 7 Sep 18:40; Sun 22 Sep 15:00<br>
 **Anomalisa**<br>
 Sat 7 Sep 20:40; Wed 2 Oct 18:30<br>
-
 **King Kong**<br>
-
 Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead; Mon 16 Sep 2045<br>
-
 **Mighty Joe Young**<br>
-
 Sun 8 Sep 15:45; Wed 18 Sep 20:55<br>
-
 **Mary and Max**<br>
-
 Wed 11 Sep 18:00; Wed 25 Sep 20:35<br>
-
 **ParaNorman**<br>
-
 Sat 14 Sep 12:20<br>
-
 **Marcel the Shell with Shoes On**<br>
-
 Sat 14 Sep 15:40; Sun 6 Oct 12:20<br>
-
 **My Life as a Courgette** Ma vie de Courgette + **Manipulation**<br>
-
 Sun 15 Sep 12:20; Tue 8 Oct 18:40<br>
-
 **Library Talk: A Study in Stop Motion**<br>
-
 Mon 16 Sep 18:30<br>
-
 **Stop-Motion Masters + Q&A with Barry Purves, Suzie Templeton and Osbert Parker**<br>
-
 Fri 20 Sep 18:10<br>
-
 **Chuck Steel: Night of the Trampires + Q&A with director Mike Mort**<br>
-
 Fri 20 Sep 20:30<br>
-
 **The Boxtrolls**<br>
-
 Sun 22 Sep 12:00<br>
-
 **Kubo and the Two Strings**<br>
-
 Sat 28 Sep 11:40<br>
-
 **Wendell and Wild**<br>
-
 Sun 29 Sep 15:10; Mon 7 Oct 20:40<br>
-
 **Missing Link**<br>
-
 Sat 5 Oct 12:00<br>
 
 Thanks to Jez Stewart, BFI National Archive<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTEwNDc3MV19
+eyJoaXN0b3J5IjpbMTAxMjAyMTM0M119
 -->
