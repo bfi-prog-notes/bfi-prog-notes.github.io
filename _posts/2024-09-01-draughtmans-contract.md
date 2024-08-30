@@ -19,17 +19,14 @@ The costumes by Sue Blane surprised and delighted me, so many layers, cuffs, tai
 
 When we had finally finished filming in the Groombridge Kent fields we wanted to start again. I wrote a sequel called ‘The Hedgecutters’ about trimming boundaries. Since the draughtsman was too blinded, damaged and too dead to be resuscitated, the follow-up hero was to become his overdressed effete servant primed to die with cut extremities. But it didn’t work. For a start the title was too mundane and too artisanal. It was winter and the vegetation was becoming leafless. The next film titled _A Zed and Two Noughts_ was calling. Leaving a film behind is always painful.
 
-It was truly an idyllic experience to film in unusually persistent English summer weather that only collapsed when the weather finally broke when the characters appropriately began to complain in 1694 about the arrival of storms. It was another delightful appropriate reference of the film being determinedly self-reflexive, a persuasive reason and excuse for me evermore to insist that when you were watching a Greenaway film you were only watching a film and should never ever possibly consider that you were doing anything else.
-
-Peter Greenaway, Summer 2022 (extracted from _The Draughtsman’s Contract_ BFI Blu-ray booklet)
+It was truly an idyllic experience to film in unusually persistent English summer weather that only collapsed when the weather finally broke when the characters appropriately began to complain in 1694 about the arrival of storms. It was another delightful appropriate reference of the film being determinedly self-reflexive, a persuasive reason and excuse for me evermore to insist that when you were watching a Greenaway film you were only watching a film and should never ever possibly consider that you were doing anything else.  
+**Peter Greenaway, Summer 2022 (extracted from _The Draughtsman’s Contract_ BFI Blu-ray booklet)**  
 
 There is probably a greater jump between _The Draughtsman’s Contract_ and my last film than on any previous occasion. The jump often seems irreconcilable since I’m beginning to concern myself with much more conventional modes. But then I think that there’s a lot of similarity with what went before. And I shall certainly cut this film very much with past considerations in mind. There are very strong visual associations with _Vertical Features Remake_. This concern with the draughtsman seeking out particular characteristics of a landscape and pursuing them in an almost minimalist way. And the way the film is structured to keep going back to the same landscapes at different times of the day, to see how the light has made shapes, forms, verticals, how they’ve changed and what new significance they have at different times of the day.
 
-My prime interests are the landscape, the ideas involved in the sheer interplay of plot, the symmetry, and those concerns characteristic of the whole sub-text of gardening; also the games that can be played with the dialogue, its content and the forms it takes. It’s a very literary film, the dialogue has been very carefully worked out for puns and conceits. The whole thing is an elaborate charade, a conceit, which the 17th century enjoyed doing, witness Restoration Tragedy. One of the characteristics of my filmmaking is a whole series of stories, anecdotes, apocrypha which all come together and create a  
-total world.
+My prime interests are the landscape, the ideas involved in the sheer interplay of plot, the symmetry, and those concerns characteristic of the whole sub-text of gardening; also the games that can be played with the dialogue, its content and the forms it takes. It’s a very literary film, the dialogue has been very carefully worked out for puns and conceits. The whole thing is an elaborate charade, a conceit, which the 17th century enjoyed doing, witness Restoration Tragedy. One of the characteristics of my filmmaking is a whole series of stories, anecdotes, apocrypha which all come together and create a total world.
 
-Unfortunately, we didn’t have enough rehearsal time. What I wanted to do was to make sure we all knew the text very well before we started filming. The other thing I suggested was doing very, very long takes. We were going to let the actors get themselves in the dramatic situation and let the whole thing evolve.  
-I wasn’t going to make an over-edited movie. So, that was another reason why we chose to use people with a very considerable theatrical background. Because of the rhythm of the dialogue, I would have preferred to take a more cerebral approach and to stand back more from the action. I found that in moments of high physical drama, like the various killings, the dialogue had to operate on a different sort of scale. I couldn’t get that distancing effect which I’d hoped for.
+Unfortunately, we didn’t have enough rehearsal time. What I wanted to do was to make sure we all knew the text very well before we started filming. The other thing I suggested was doing very, very long takes. We were going to let the actors get themselves in the dramatic situation and let the whole thing evolve. I wasn’t going to make an over-edited movie. So, that was another reason why we chose to use people with a very considerable theatrical background. Because of the rhythm of the dialogue, I would have preferred to take a more cerebral approach and to stand back more from the action. I found that in moments of high physical drama, like the various killings, the dialogue had to operate on a different sort of scale. I couldn’t get that distancing effect which I’d hoped for.
 
 The convention of the long take – some are eight minutes long – has occasionally resulted in highly literary verbiage. This gratifies and excites me, but whether it will gratify and excite a much larger and more ‘public’ audience I don’t know. I’m also worried about the film’s length. It’s very long and I must get it down to a semi-commercial length, about 110 minutes [Greenaway’s original cut was four hours long]. There’s a lot of material which, due to pressures and exigencies, has gone missing about the details of the gardens. There are numerous pressures on the film partly because of extended budgets, commercial concerns, and so on.
 
@@ -126,6 +123,57 @@ Harry Van Engel, George Miller _(servants)_
 UK 1982©  
 107 mins  
 Digital 4K  
+<br>
+**BIG SCREEN CLASSICS**
+
+  
+
+**The Draughtsman’s Contract**
+
+Sun 1 Sep 18:40; Tue 10 Sep 20:30
+
+**The Piano**
+
+Mon 2 Sep 18:10; Wed 4 Sep 18:00 + intro by Rosie Taylor, Curator, BFI National Archive; Sat 5 Oct 15:45
+
+**Les Demoiselles de Rochefort** The Young Ladies of Rochefort
+
+Tue 3 Sep 20:30; Sun 15 Sep 12:10; Wed 25 Sep 18:05
+
+**Rear Window**
+
+Wed 4 Sep 20:45; Sat 7 Sep 12:20; Mon 16 Sep 14:30; Thu 19 Sep 20:45; Wed 2 Oct 18:00 + intro by film and talks programmer & writer Nadia M. Oliva
+
+**Do the Right Thing**
+
+Thu 5 Sep 18:00; Fri 20 Sep 20:40
+
+**12 Angry Men**
+
+Fri 6 Sep 20:45; Sat 21 Sep 12:30; Sun 29 Sep 12:30
+
+**Le Trou** The Hole
+
+Sat 7 Sep 15:15; Mon 9 Sep 18:00; Sat 5 Oct 20:30  
+**Rio Bravo**  
+Sun 8 Sep 17:45; Sat 28 Sep 14:50  
+**UK Premiere of restoration: The Exterminating Angel** El angel exterminador  
+Tue 10 Sep 18:20; Wed 25 Sep 18:10 + intro; Tue 8 Oct 20:50  
+**The Miracle Worker**  
+Wed 11 Sep 18:10 + intro by Clare Baines, BFI Inclusion Partner and Founder, Crip Club; Mon 23 Sep 14:30; Fri 27 Sep 18:15; Tue 1 Oct 20:50  
+**Hunger**  
+Thu 12 Sep 20:30; Thu 26 Sep 20:40  
+**Black Narcissus**  
+Fri 13 Sep 14:30; Sun 22 Sep 11:45  
+**Barton Fink**  
+Sat 14 Sep 20:45; Thu 3 Oct 20:45  
+**King of the Hill**  
+Tue 17 Sep 20:45; Fri 4 Oct 18:10  
+**The Servant**  
+Wed 18 Sep 18:15 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Wed 25 Sep 20:45; Sun 6 Oct 12:30  
+**The Incredible Shrinking Man**  
+Tue 24 Sep 20:40; Mon 7 Oct 18:40  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQxNDc1Nl19
+eyJoaXN0b3J5IjpbLTQ0MDA3MjQ1XX0=
 -->
