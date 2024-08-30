@@ -35,7 +35,7 @@ I would like to think that the characters – not just Neville but also Talmann 
 All the strength of image and plot and feeling in _The Draughtsman’s Contract_ is pretty universal. It just happens to be put in this particular format. I want to make a good movie which has got punch, visual excitement and cerebral entertainment.  
 **Peter Greenaway, _Monthly Film Bulletin_, November 1982**  
 <br>
-**THE DRAUGHTSMAN’S CONTRACT**
+**THE DRAUGHTSMAN’S CONTRACT**  
 _Directed by_: Peter Greenaway  
 ©: Peter Greenaway  
 _a_ British Film Institute _production_  
