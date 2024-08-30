@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Old Dark House
+published: true
+date: 2024-08-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Horror, Comedy]
+metadata: 'UK, 72 mins<br> Director: James Whale'
+pdf: '2024-08-05-old-dark-house.pdf'
+---
 
 
 **Peter Greenaway on ‘The Draughtsman’s Contract’**
@@ -32,6 +42,94 @@ I would like to think that the characters – not just Neville but also Talmann 
 All the strength of image and plot and feeling in _The Draughtsman’s Contract_ is pretty universal. It just happens to be put in this particular format. I want to make a good movie which has got punch, visual excitement and cerebral entertainment.  
 **Peter Greenaway, _Monthly Film Bulletin_, November 1982**  
 <br>
+**THE DRAUGHTSMAN’S CONTRACT**
+_Directed by_: Peter Greenaway  
+©: Peter Greenaway  
+_a_ British Film Institute _production_  
+_In association with_:  
+Channel Four Television Company  
+_Producer_: David Payne  
+_Head of Production_: Peter Sainsbury  
+_Production Assistant_: Marie Meyrick  
+_Production Officer_: Peter Broughan  
+_Production Secretary_: Fiona Latto  
+_Assistant Director_: Andy Powell  
+_Casting_: Lucy Boulting  
+_Written by_: Peter Greenaway  
+_Lighting Cameraman_: Curtis Clark  
+_Rostrum Camera_: Hugh Gordon  
+_Camera Assistant_: Luke Cardiff  
+_Gaffer_: Steve Blake  
+_Assistant [Gaffer]_: Paul Woods  
+_Grip_: Simon Archer  
+_Stills_: Simon Archer, James Merrell  
+_Editor_: John Wilson  
+_Assistant Editor_: John Taylor  
+_Art Director_: Bob Ringwood  
+_Design Assistants_: Jane Hamilton, Digby Howard  
+_Calligraphy_: Kenneth Breese  
+_Props_: Michael Hunter, Tommy Raeburn  
+_Construction Manager_: Charlie Simmons  
+_Carpenter_: Bob Coleman  
+_Painter_: Alan Brown  
+_Rigger_: Gordon Wright  
+_Costume Designer_: Sue Blane  
+_Costume Design Co-ordinator_: David Perry  
+_Costumes Made by_: Colin MacNeil  
+_Assistants_: Ellen Cairns, Caroline Bayliss  
+_Hat Makers_: Michael Jones, Linda Eke  
+_Wardrobe_: Anthony Williams, Sue Langridge  
+_Make-up_: Lois Burwell  
+_Assistant_: Christine Allsopp  
+_Wigs Created by_: Peter Owen  
+_Wig and Hair_: Peter King  
+_Stylist_: Robbie Gardner  
+_Titles_: Hugh Gordon  
+_Laboratory Supervisor_: Len Brown  
+_Lighting_: Lee Electric (Lighting)  
+_Laboratory_: Kay Film Laboratories  
+_Music Composed by_: Michael Nyman  
+_Musicians_: Alexander Balanescu, John Harle, Elisabeth Perry, Steve Saunders, Keith Thompson, Stina Wilson, Ben Grove, David White, Malcolm Bennett, Edward Pillinger, Ian Mitchell, Michael Nyman  
+_Counter-tenor_: Chris Royle  
+_Music Producer_: David Cunningham  
+_Music Recording_: Studio 80  
+_Music Engineer_: Martin Rex  
+_Sound_: Godfrey Kirby  
+_Sound Assistants_: Clive Osborne, Bob Doyle  
+_Sound-mix_: Cinelingual Studios Ltd  
+_Dubbing Mixer_: Tony Anscombe  
+_Dubbing Editor_: Doctor Lion  
+_ADR_: Lionel Strutt  
+_ADR Studios_: Mayflower Studio London  
+_Drivers_: Gillian Strachan, Safi Farrah, Rupert Christie, Michael Coulson  
+
+**Cast**  
+Anthony Higgins _(Mr Neville)_  
+Janet Suzman _(Mrs Herbert)_  
+Anne Louise Lambert _(Sarah Talmann)_  
+Neil Cunningham _(Thomas Noyes)_  
+Hugh Fraser _(Louis Talmann)_  
+Dave Hill _(Mr Herbert)_  
+David Gant _(Mr Seymour)_  
+David Meyer, Tony Meyer _(The Poulencs)_  
+Nicholas Amer _(Mr Parkes)_  
+Suzan Crowley _(Mrs Pierpoint)_  
+Lynda Marchal _(Mrs Clement)_  
+Michael Feast _(the statue)_  
+Alastair Cummings _(Philip)_  
+Steve Ubels _(Mr van Hoyten)_  
+Ben Kirby _(Augustus)_  
+Sylvia Rotter _(governess)_  
+Kate Doherty _(maid)_  
+Joss Buckley _(Mr Porringer)_  
+Mike Carter _(Mr Clarke)_  
+Vivienne Chandler _(laundress)_  
+Geoffrey Larder _(Mr Hammond)_  
+Harry Van Engel, George Miller _(servants)_  
+
+UK 1982©  
+107 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDI0MjA1M119
+eyJoaXN0b3J5IjpbLTI5MzMxMzgxMV19
 -->
