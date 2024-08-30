@@ -52,106 +52,65 @@ UK 1928
 101 mins  
 Digital
 
-* Uncredited
+*Uncredited
 
 With John Altman score (Mon 9 Sep). With live piano accompaniment by Neil Brand (Sun 1 Sep)
+<br><br>
 
-<![endif]-->
-
-**MARTIN SCORSESE SELECTS HIDDEN GEMS OF**
-
-**BRITISH CINEMA**
-
-**Shooting Stars**
-
-Sun 1 Sep 11:30; Mon 9 Sep 20:40
-
-**Brief Ecstasy**
-
-Tue 3 Sep 18:30; Wed 11 Sep 20:35
-
-**The Man in Grey**
-
-Fri 6 Sep 18:10; Tue 17 Sep 20:40
-
-**This Happy Breed**
-
-Fri 6 Sep 20:40; Tue 24 Sep 18:00
-
-**The Seventh Veil**
-
-Sat 7 Sep 15:10; Wed 25 Sep 20:40
-
-**Green for Danger**
-
-Sun 8 Sep 15:40; Thu 26 Sep 20:55
-
-**It Always Rains on Sunday**
-
-Sun 8 Sep 18:10; Fri 27 Sep 20:50
-
-**Hue and Cry**
-
-Sat 14 Sep 20:30; Mon 30 Sep 18:15 (+ intro by Josephine Botting, Curator, BFI National Archive)
-
-**Uncle Silas**
-
-Sat 14 Sep 18:20
-
-**Terence Fisher Double Bill:  
-To the Public Danger + Stolen Face**
-
-Sun 15 Sep 18:10; Tue 1 Oct 20:30
-
-**Mandy**
-
-Mon 16 Sep 18:35; Sat 28 Sep 12:20
-
-**Yield to the Night**
-
-Fri 20 Sep 18:00; Sat 28 Sep 15:10
-
-**The Flesh and the Fiends**
-
-Sat 21 Sep 14:50; Wed 2 Oct 20:40
-
-**The Damned**
-
-Sat 21 Sep 20:40; Fri 4 Oct 18:30
-
-**Station Six Sahara**
-
-Sun 22 Sep 12:30; Sat 5 Oct 16:00
-
-**The Mind Benders**
-
-Sun 22 Sep 18:00; Wed 2 Oct 18:20
-
-**Went the Day Well?** + intro by James Bell,  
-Senior Curator, BFI National Archive
-
-Mon 23 Sep 18:20
-
-**The Pumpkin Eater**
-
-Fri 27 Sep 18:00; Sun 6 Oct 15:00
-
-**Dr. Jekyll and Sister Hyde**
+**MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA**<br>
+**Shooting Stars**<br>
+Sun 1 Sep 11:30; Mon 9 Sep 20:40<br>
+**Brief Ecstasy**<br>
+Tue 3 Sep 18:30; Wed 11 Sep 20:35<br>
+**The Man in Grey**<br>
+Fri 6 Sep 18:10; Tue 17 Sep 20:40<br>
+**This Happy Breed**<br>
+Fri 6 Sep 20:40; Tue 24 Sep 18:00<br>
+**The Seventh Veil**<br>
+Sat 7 Sep 15:10; Wed 25 Sep 20:40<br>
+**Green for Danger**<br>
+Sun 8 Sep 15:40; Thu 26 Sep 20:55<br>
+**It Always Rains on Sunday**<br>
+Sun 8 Sep 18:10; Fri 27 Sep 20:50<br>
+**Hue and Cry**<br>
+Sat 14 Sep 20:30; Mon 30 Sep 18:15 (+ intro by Josephine Botting, Curator, BFI National Archive)<br>
+**Uncle Silas**<br>
+Sat 14 Sep 18:20<br>
+**Terence Fisher Double Bill:  To the Public Danger + Stolen Face**<br>
+Sun 15 Sep 18:10; Tue 1 Oct 20:30<br>
+**Mandy**<br>
+Mon 16 Sep 18:35; Sat 28 Sep 12:20<br>
+**Yield to the Night**<br>
+Fri 20 Sep 18:00; Sat 28 Sep 15:10<br>
+**The Flesh and the Fiends**<br>
+Sat 21 Sep 14:50; Wed 2 Oct 20:40<br>
+**The Damned**<br>
+Sat 21 Sep 20:40; Fri 4 Oct 18:30<br>
+**Station Six Sahara**<br>
+Sun 22 Sep 12:30; Sat 5 Oct 16:00<br>
+**The Mind Benders**<br>
+Sun 22 Sep 18:00; Wed 2 Oct 18:20<br>
+**Went the Day Well?** + intro by James Bell,  Senior Curator, BFI National Archive<br>
+Mon 23 Sep 18:20<br>
+**The Pumpkin Eater**<br>
+Fri 27 Sep 18:00; Sun 6 Oct 15:00<br>
+**Dr. Jekyll and Sister Hyde**<br>
 
 Sat 28 Sep 18:10; Thu 3 Oct 18:15 + intro by  
-Sam Clemens, son of Brian Clemens
+Sam Clemens, son of Brian Clemens<br>
 
-**The Legend of Hell House**
+**The Legend of Hell House**<br>
 
-Sat 28 Sep 20:40; Mon 7 Oct 18:20
+Sat 28 Sep 20:40; Mon 7 Oct 18:20<br>
 
-**Guns at Batasi**
+**Guns at Batasi**<br>
 
-Sun 29 Sep 18:20; Sat 5 Oct 18:20
+Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
 
-**With thanks to**
+**With thanks to**<br>
 
-Martin Scorsese and Edgar Wright
+Martin Scorsese and Edgar Wright<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTkyOTM0Ml19
+eyJoaXN0b3J5IjpbMTk2MDIxMTE4M119
 -->
