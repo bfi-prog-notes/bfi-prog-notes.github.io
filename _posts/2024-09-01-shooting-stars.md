@@ -1,3 +1,14 @@
+---
+layout: post
+title: Shooting Stars
+published: true
+date: 2024-09-01
+readtime: true
+categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
+tags: [Drama, Silent]
+metadata: 'UK 1928, 101 mins<br> Directors: A.V. Bramble, Anthony Asquith'
+pdf: '2024-09-01-shooting-stars.pdf'
+---
 
 ‘Not until _Peeping Tom_ (1960) over 30 years later did a British film so knowingly and so effectively turn its own camera on itself. It is a young man’s film, the first effort of someone representative of a new creative spirit in British film, and displays as much of the excitement of what the medium can do that characterises such notable debuts as _Citizen Kane_ (Orson Welles, 1941),  _À bout de souffle_ (Jean-Luc Godard, 1960) and _Reservoir Dogs_ (Quentin Tarantino, 1992). If it is a lesser artistic work than such notable films, it nevertheless achieves the same goal of giving us the filmmaker’s eyes and looking at films as though for the first time.’ – Luke McKernan in Brian McFarlane, _The Cinema of Britain and Ireland_ (2005)
 
@@ -104,6 +115,30 @@ Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
 **With thanks to**<br>
 Martin Scorsese and Edgar Wright<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNjc4MjE0MTFdfQ==
 -->
