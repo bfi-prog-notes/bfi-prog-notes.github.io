@@ -61,102 +61,83 @@ Paul Bisciglia
 France 1970  
 82 mins  
 Digital
-
-
-<![endif]-->
+<br><br>
 
 **STOP MOTION:  
-CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN**
+CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN**<br>
+**Dougal and the Blue Cat** Pollux et le chat bleu<br>
+Sun 1 Sep 12:10; Sun 15 Sep 15:20<br>
+**Alice**<br>
+Wed 4 Sep 18:10; Sat 21 Sep 15:10<br>
+**Little Otik**<br>
+Wed 4 Sep 20:15 + intro by musician and Starve Acre composer Matthew Herbert; Sat 21 Sep 17:45<br>
+**21 Years of dwarf studios**<br>
+Sun 6 Oct 15:30<br>
+**Coraline**<br>
+Sun 8 Sep 12:00<br>
+**King Kong**<br>
+Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead<br>
+**James and the Giant Peach**<br>
+Sat 7 Sep 12:10; Sat 21 Sep 12:00<br>
+**The Pied Piper** Krysarˇ<br>
+Sat 7 Sep 18:40; Sun 22 Sep 15:00<br>
+**Anomalisa**<br>
+Sat 7 Sep 20:40; Wed 2 Oct 18:30<br>
 
-**Dougal and the Blue Cat** Pollux et le chat bleu
+**King Kong**<br>
 
-Sun 1 Sep 12:10; Sun 15 Sep 15:20
+Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead; Mon 16 Sep 2045<br>
 
-**Alice**
+**Mighty Joe Young**<br>
 
-Wed 4 Sep 18:10; Sat 21 Sep 15:10
+Sun 8 Sep 15:45; Wed 18 Sep 20:55<br>
 
-**Little Otik**
+**Mary and Max**<br>
 
-Wed 4 Sep 20:15 + intro by musician and Starve Acre composer Matthew Herbert; Sat 21 Sep 17:45
+Wed 11 Sep 18:00; Wed 25 Sep 20:35<br>
 
-**21 Years of dwarf studios**
+**ParaNorman**<br>
 
-Sun 6 Oct 15:30
+Sat 14 Sep 12:20<br>
 
-**Coraline**
+**Marcel the Shell with Shoes On**<br>
 
-Sun 8 Sep 12:00
+Sat 14 Sep 15:40; Sun 6 Oct 12:20<br>
 
-**King Kong**
+**My Life as a Courgette** Ma vie de Courgette + **Manipulation**<br>
 
-Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead
+Sun 15 Sep 12:20; Tue 8 Oct 18:40<br>
 
-**James and the Giant Peach**
+**Library Talk: A Study in Stop Motion**<br>
 
-Sat 7 Sep 12:10; Sat 21 Sep 12:00
+Mon 16 Sep 18:30<br>
 
-**The Pied** Piper Krysarˇ
+**Stop-Motion Masters + Q&A with Barry Purves, Suzie Templeton and Osbert Parker**<br>
 
-Sat 7 Sep 18:40; Sun 22 Sep 15:00
+Fri 20 Sep 18:10<br>
 
-**Anomalisa**
+**Chuck Steel: Night of the Trampires + Q&A with director Mike Mort**<br>
 
-Sat 7 Sep 20:40; Wed 2 Oct 18:30
+Fri 20 Sep 20:30<br>
 
-**King Kong**
+**The Boxtrolls**<br>
 
-Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead; Mon 16 Sep 2045
+Sun 22 Sep 12:00<br>
 
-**Mighty Joe Young**
+**Kubo and the Two Strings**<br>
 
-Sun 8 Sep 15:45; Wed 18 Sep 20:55
+Sat 28 Sep 11:40<br>
 
-**Mary and Max**
+**Wendell and Wild**<br>
 
-Wed 11 Sep 18:00; Wed 25 Sep 20:35
+Sun 29 Sep 15:10; Mon 7 Oct 20:40<br>
 
-**ParaNorman**
+**Missing Link**<br>
 
-Sat 14 Sep 12:20
+Sat 5 Oct 12:00<br>
 
-**Marcel the Shell with Shoes On**
-
-Sat 14 Sep 15:40; Sun 6 Oct 12:20
-
-**My Life as a Courgette** Ma vie de Courgette + **Manipulation**
-
-Sun 15 Sep 12:20; Tue 8 Oct 18:40
-
-**Library Talk: A Study in Stop Motion**
-
-Mon 16 Sep 18:30
-
-**Stop-Motion Masters + Q&A with Barry Purves, Suzie Templeton and Osbert Parker**
-
-Fri 20 Sep 18:10
-
-**Chuck Steel: Night of the Trampires + Q&A with director Mike Mort**
-
-Fri 20 Sep 20:30
-
-**The Boxtrolls**
-
-Sun 22 Sep 12:00
-
-**Kubo and the Two Strings**
-
-Sat 28 Sep 11:40
-
-**Wendell and Wild**
-
-Sun 29 Sep 15:10; Mon 7 Oct 20:40
-
-**Missing Link**
-
-Sat 5 Oct 12:00
-
-Thanks to Jez Stewart, BFI National Archive
+Thanks to Jez Stewart, BFI National Archive<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTYxNTUxMl19
+eyJoaXN0b3J5IjpbMTI4NTEwNDc3MV19
 -->
