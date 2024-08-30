@@ -1,20 +1,19 @@
 ---
 layout: post
-title: The Old Dark House
+title:  The Draughtsman’s Contract
 published: true
 date: 2024-08-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Horror, Comedy]
-metadata: 'UK, 72 mins<br> Director: James Whale'
-pdf: '2024-08-05-old-dark-house.pdf'
+tags: [Drama, Period]
+metadata: 'UK 1982, 107 mins<br> Director: Peter Greenaway'
+pdf: '2024-09-01-draughtmans-contract.pdf'
 ---
 
 
 **Peter Greenaway on ‘The Draughtsman’s Contract’**
 
-_The Draughtsman’s Contract_. A film that is 40 years old. Made in 1982 about events in 1694. Elaborate, stylised, enjoyable, spiteful and mysterious, a film in black, white and green. With sheep. Eminently enigmatic. Always associated with frames, so much so indeed that a framing device of the late 1600s is on hand to remind you that what is outside the frame is strictly irrelevant.  
-The French newspapers described Peter Greenaway as a cinematic dandy and the English, once they had passed their enthusiasm for being outside their comfort zone, slowly warmed to it. Shot on 16mm blown up to 35mm for cinema release, it surprised the art-cinema circuit and irritated some English cinematic luminaries to declare that filming in England was no longer tenable if such films were going to be made there henceforth.
+_The Draughtsman’s Contract_. A film that is 40 years old. Made in 1982 about events in 1694. Elaborate, stylised, enjoyable, spiteful and mysterious, a film in black, white and green. With sheep. Eminently enigmatic. Always associated with frames, so much so indeed that a framing device of the late 1600s is on hand to remind you that what is outside the frame is strictly irrelevant. The French newspapers described Peter Greenaway as a cinematic dandy and the English, once they had passed their enthusiasm for being outside their comfort zone, slowly warmed to it. Shot on 16mm blown up to 35mm for cinema release, it surprised the art-cinema circuit and irritated some English cinematic luminaries to declare that filming in England was no longer tenable if such films were going to be made there henceforth.
 
 I am delighted at its re-mastering. I remember it being made on a somewhat unorthodox filming procedure – being shot on super-16mm and enlarged to 35mm for cinema release. I was concerned that it should be seen as an English landscape film situated around a somewhat arcane proposition of ‘draw what you see and not what you know’. Your eyes must be solely your guide. I never expected it to be as successful on the art-cinema circuit. It’s a story about a ‘frame-up’ both in metaphor and for real, and the film frame is unremittingly ubiquitous with the appearance of that late 17th-century framing device to remind you of the tyranny of the film frame. The French especially enjoyed it though a French newspaper said I was a cinematic dandy and the English newspapers, at first, until they settled on a more relaxed approach were appalled at its literary, theatrical, and visual pretensions.
 
@@ -131,5 +130,5 @@ UK 1982©
 107 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzMxMzgxMV19
+eyJoaXN0b3J5IjpbLTExMjkzNTIxNjVdfQ==
 -->
