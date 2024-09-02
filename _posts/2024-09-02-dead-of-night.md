@@ -2,14 +2,13 @@
 layout: post
 title: Dead of Night
 published: true
-date: 2024-09-01
+date: 2024-09-02
 readtime: true
-categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
-tags: [Drama, Silent]
+categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
+tags: [Horror]
 metadata: 'UK 1945, 103 mins<br> Directors: Alberto Cavalcanti, Charles Crichton, Basil Dearden, Robert Hamer'
-pdf: '2024-09-01-shooting-stars.pdf'
+pdf: '2024-09-02-dead-of-night.pdf'
 ---
-
 
 Horror films or stories of the supernatural were little attempted in British cinema prior to the days of Hammer in the 1950s. There are the exceptions of course, such as _The Ghoul_ (1933) and _Dark Eyes of London_ (1939), but the field was, by and large, left open to Hollywood, and Universal Studios in particular. The fact that ‘H’ (for horror) films were banned by the British censor during the war years did not help matters. In 1944, Ealing encountered some success with the film _The_ _Halfway House_, not a horror film per se, but a story with supernatural elements in which a group of disparate people gathered at a remote inn gradually realise that the innkeeper and his daughter are ghosts. The success of this film served as an encouragement to Michael Balcon to produce something along similar lines. Thus was _Dead of Night_ born.
 
@@ -151,6 +150,31 @@ Mon 16 Sep 20:40
 Wed 18 Sep 18:10 + Q&A with filmmakers Daniel Kokotajlo and Mark Jenkin; Sat 21 Sep 15:00; Wed 2 Oct 20:50  
 **The Hunger**  
 Thu 19 Sep 20:35; Sun 6 Oct 18:10  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MTY2MTA1XX0=
+eyJoaXN0b3J5IjpbMzQ5OTIyNTVdfQ==
 -->
