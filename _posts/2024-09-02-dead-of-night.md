@@ -26,103 +26,54 @@ The popularity and influence of this film lives on, and as a portmanteau film it
 
 _Directors:_ Peter Dobing, George Theaker
 
-UK 1970.
+UK 1970
+6 mins  
+Digital  
 
-6 mins
-
-Digital
-
-  
-
-**Dead of Night**
-
-_Directed by [2/4]:_ [Alberto] Cavalcanti
-
-_Directed by [5]:_ Charles Crichton
-
-_Directed by [1/6]:_ Basil Dearden
-
-_Directed by [3]:_ Robert Hamer
-
-_©:_ Ealing Studios
-
-_Presented by:_ Ealing Studios
-
-_Made and Recorded at:_ Ealing Studios
-
-_Produced by:_ Michael Balcon
-
-_Associate Producers:_ Sidney Cole, John Croydon
-
-_Unit Manager:_ Ronald Brantford
-
-_Production Supervisor:_ Hal Mason
-
-_Screen Play:_ John Baines, Angus MacPhail
-
-_Additional Dialogue by:_ T.E.B. Clarke
-
-_Based on original stories by [5]:_ H.G. Wells
-
-_Based on original stories by [3/4]:_ John Baines
-
-_Based on original stories by [1/6]:_ E.F. Benson
-
-_Based original stories by [2]:_ Angus MacPhail
-
-_Lighting:_ Stan Pavey, Douglas Slocombe
-
-_Camera Operators:_ Jack Parker, H. Julius
-
-_Special Effects:_ C. Richardson, L. Banes
-
-_Editor:_ Charles Hasse
-
-_Art Director:_ Michael Relph
-
-_Dresses:_ Bianca Mosca, Marion Horn
-
-_Make-up:_ Tom Shenton
-
-_Music Composed by:_ Georges Auric
-
-_Played by:_ The London Philharmonic Orchestra
-
-_Conducted by:_ Ernest Irving
-
-_Sound Supervisor:_ Eric Williams
-
-_Recordists:_ Len Page, A.E. Rudolph
-
-  
-
-_uncredited_
-
-_Assistant Directors:_ Billy Russell, Rowland Douglas
-
-_2nd Assistant Director:_ Norman Hipwell
-
-_3rd Assistant Directors:_ Claude Hudson, P. Potter
-
-_Continuity:_ Elaine Schreyeck, Gwen Bartle
-
-_Assistant Continuity:_ M. Hamilton
-
-_Focus Pullers:_ Michael Shepherd, Gerry Turpin
-
-_Clapper Loaders:_ Gerry Levy, John Winbolt
-
-_Stills:_ Roy Gough
-
-_Assembly Cutter:_ Leslie Allen
-
-_Assistant Editor:_ Daphne Heathcote
-
-_2nd Assistant Editors:_ F. Thomson, E. Leverett, Seth Holt
-
-_Assistant Art Director:_ Jim Morahan
-
-_Draughtsmen:_ Heather Armitage, Len Wills
+**DEAD OF NIGHT**  
+_Directed by [2/4]:_ [Alberto] Cavalcanti  
+_Directed by [5]:_ Charles Crichton  
+_Directed by [1/6]:_ Basil Dearden  
+_Directed by [3]:_ Robert Hamer  
+_©:_ Ealing Studios  
+_Presented by:_ Ealing Studios  
+_Made and Recorded at:_ Ealing Studios  
+_Produced by:_ Michael Balcon  
+_Associate Producers:_ Sidney Cole, John Croydon  
+_Unit Manager:_ Ronald Brantford  
+_Production Supervisor:_ Hal Mason  
+_Screen Play:_ John Baines, Angus MacPhail  
+_Additional Dialogue by:_ T.E.B. Clarke  
+_Based on original stories by [5]:_ H.G. Wells  
+_Based on original stories by [3/4]:_ John Baines  
+_Based on original stories by [1/6]:_ E.F. Benson  
+_Based original stories by [2]:_ Angus MacPhail  
+_Lighting:_ Stan Pavey, Douglas Slocombe  
+_Camera Operators:_ Jack Parker, H. Julius  
+_Special Effects:_ C. Richardson, L. Banes  
+_Editor:_ Charles Hasse  
+_Art Director:_ Michael Relph  
+_Dresses:_ Bianca Mosca, Marion Horn  
+_Make-up:_ Tom Shenton  
+_Music Composed by:_ Georges Auric  
+_Played by:_ The London Philharmonic Orchestra  
+_Conducted by:_ Ernest Irving  
+_Sound Supervisor:_ Eric Williams  
+_Recordists:_ Len Page, A.E. Rudolph  
+_uncredited_  
+_Assistant Directors:_ Billy Russell, Rowland Douglas  
+_2nd Assistant Director:_ Norman Hipwell  
+_3rd Assistant Directors:_ Claude Hudson, P. Potter  
+_Continuity:_ Elaine Schreyeck, Gwen Bartle  
+_Assistant Continuity:_ M. Hamilton  
+_Focus Pullers:_ Michael Shepherd, Gerry Turpin  
+_Clapper Loaders:_ Gerry Levy, John Winbolt  
+_Stills:_ Roy Gough  
+_Assembly Cutter:_ Leslie Allen  
+_Assistant Editor:_ Daphne Heathcote  
+_2nd Assistant Editors:_ F. Thomson, E. Leverett, Seth Holt  
+_Assistant Art Director:_ Jim Morahan  
+_Draughtsmen:_ Heather Armitage, Len Wills 
 _Boom Operators:_ N. Boulatoff, Tom Otter  
 _Dubbing Editor:_ Mary Habberfield  
 
@@ -193,5 +144,5 @@ Wed 18 Sep 18:10 + Q&A with filmmakers Daniel Kokotajlo and Mark Jenkin; Sat 21 
 **The Hunger**  
 Thu 19 Sep 20:35; Sun 6 Oct 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMjUyODgwXX0=
+eyJoaXN0b3J5IjpbOTcxOTc2MzQ4XX0=
 -->
