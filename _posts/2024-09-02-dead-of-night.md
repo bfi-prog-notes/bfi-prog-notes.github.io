@@ -123,95 +123,50 @@ _2nd Assistant Editors:_ F. Thomson, E. Leverett, Seth Holt
 _Assistant Art Director:_ Jim Morahan
 
 _Draughtsmen:_ Heather Armitage, Len Wills
+_Boom Operators:_ N. Boulatoff, Tom Otter  
+_Dubbing Editor:_ Mary Habberfield  
 
-_Boom Operators:_ N. Boulatoff, Tom Otter
+**Cast**  
+The Hearse Driver  
+Mervyn Johns _(Walter Craig)_  
+Anthony Baird _(Hugh Grainger)_  
+Robert Wyndham _(Dr Albury)_  
+Judy Kelly _(Joyce Grainger)_  
+Miles Malleson _(hearse driver)_    
 
-_Dubbing Editor:_ Mary Habberfield
+**The Christmas Story**  
+Sally Ann Howes _(Sally O’Hara)_  
+Michael Allan _(Jimmy Watson)_  
 
-_Cast:_
+**The Haunted Mirror**  
+Googie Withers _(Joan Cortland)_  
+Ralph Michael _(Peter Cortland)_  
+Esmé Percy _(Mr Rutherford, antique dealer)_  
 
-The Hearse Driver
+**The Ventriloquist’s Dummy**  
+Frederick Valk _(Dr Van Straaten)_  
+Allan Jeayes _(Maurice Olcott)_  
+Michael Redgrave _(Maxwell Frere)_  
+Elisabeth Welch _(Beulah)_  
+Hartley Power _(Sylvester Kee)_  
+Magda Kun _(Mitzi)_  
+Garry Marsh _(Harry Parker)_  
 
-Mervyn Johns _(Walter Craig)_
+**The Golfing Story**  
+Basil Radford _(George Parratt)_  
+Naunton Wayne _(Larry Potter)_  
+Peggy Bryan _(Mary Lee)_  
 
-Anthony Baird _(Hugh Grainger)_
+**The Linking Story**  
+Roland Culver _(Eliot Foley)_  
+Mary Merrall _(Mrs Foley)_  
+Barbara Leake _(Mrs O’Hara)_  
+Renée Gadd _(Mrs Craig)_  
+_uncredited_  
+Peter Jones _(Fred the barman)_  
+Barry Ford  
 
-Robert Wyndham _(Dr Albury)_
-
-Judy Kelly _(Joyce Grainger)_
-
-Miles Malleson _(hearse driver)_
-
-  
-
-**The Christmas Story**
-
-Sally Ann Howes _(Sally O’Hara)_
-
-Michael Allan _(Jimmy Watson)_
-
-  
-
-**The Haunted Mirror**
-
-Googie Withers _(Joan Cortland)_
-
-Ralph Michael _(Peter Cortland)_
-
-Esmé Percy _(Mr Rutherford, antique dealer)_
-
-  
-
-**The Ventriloquist’s Dummy**
-
-Frederick Valk _(Dr Van Straaten)_
-
-Allan Jeayes _(Maurice Olcott)_
-
-Michael Redgrave _(Maxwell Frere)_
-
-Elisabeth Welch _(Beulah)_
-
-Hartley Power _(Sylvester Kee)_
-
-Magda Kun _(Mitzi)_
-
-Garry Marsh _(Harry Parker)_
-
-  
-
-**The Golfing Story**
-
-Basil Radford _(George Parratt)_
-
-Naunton Wayne _(Larry Potter)_
-
-Peggy Bryan _(Mary Lee)_
-
-  
-
-**The Linking Story**
-
-Roland Culver _(Eliot Foley)_
-
-Mary Merrall _(Mrs Foley)_
-
-Barbara Leake _(Mrs O’Hara)_
-
-Renée Gadd _(Mrs Craig)_
-
-  
-
-_uncredited_
-
-Peter Jones _(Fred the barman)_
-
-Barry Ford
-
-  
-
-UK 1945_©_
-
+UK 1945©  
 102 mins  
 Digital  
 <br>
@@ -238,5 +193,5 @@ Wed 18 Sep 18:10 + Q&A with filmmakers Daniel Kokotajlo and Mark Jenkin; Sat 21 
 **The Hunger**  
 Thu 19 Sep 20:35; Sun 6 Oct 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MDkyNjhdfQ==
+eyJoaXN0b3J5IjpbNjQzMjUyODgwXX0=
 -->
