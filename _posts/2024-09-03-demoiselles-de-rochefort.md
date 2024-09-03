@@ -6,8 +6,8 @@ date: 2024-09-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Musical, Romance]
-metadata: 'France, 121 mins<br> Director: Jane Campion'
-pdf: '2024-09-02-piano.pdf'
+metadata: 'France 1967, 126 mins<br> Director: Jacques Demy'
+pdf: '2024-09-03-demoiselles-de-rochefort.pdf'
 ---
 
 _The screening on Wednesday 2 October will be introduced by film and talks programmer and writer Nadia M. Oliva._
@@ -161,6 +161,64 @@ Jackie Wa
 France 1967  
 126 mins  
 35mm  
+<br>
+**BIG SCREEN CLASSICS**  
+**The Draughtsman’s Contract**  
+Sun 1 Sep 18:40; Tue 10 Sep 20:30  
+**The Piano**  
+Mon 2 Sep 18:10; Wed 4 Sep 18:00 + intro by Rosie Taylor, Curator, BFI National Archive; Sat 5 Oct 15:45  
+**Les Demoiselles de Rochefort** The Young Ladies of Rochefort  
+Tue 3 Sep 20:30; Sun 15 Sep 12:10; Wed 25 Sep 18:05  
+**Rear Window**  
+Wed 4 Sep 20:45; Sat 7 Sep 12:20; Mon 16 Sep 14:30; Thu 19 Sep 20:45; Wed 2 Oct 18:00 + intro by film and talks programmer & writer Nadia M. Oliva  
+**Do the Right Thing**  
+Thu 5 Sep 18:00; Fri 20 Sep 20:40  
+**12 Angry Men**  
+Fri 6 Sep 20:45; Sat 21 Sep 12:30; Sun 29 Sep 12:30  
+**Le Trou** The Hole  
+Sat 7 Sep 15:15; Mon 9 Sep 18:00; Sat 5 Oct 20:30  
+**Rio Bravo**  
+Sun 8 Sep 17:45; Sat 28 Sep 14:50  
+**UK Premiere of restoration: The Exterminating Angel** El angel exterminador  
+Tue 10 Sep 18:20; Wed 25 Sep 18:10 + intro; Tue 8 Oct 20:50  
+**The Miracle Worker**  
+Wed 11 Sep 18:10 + intro by Clare Baines, BFI Inclusion Partner and Founder, Crip Club; Mon 23 Sep 14:30; Fri 27 Sep 18:15; Tue 1 Oct 20:50  
+**Hunger**  
+Thu 12 Sep 20:30; Thu 26 Sep 20:40  
+**Black Narcissus**  
+Fri 13 Sep 14:30; Sun 22 Sep 11:45  
+**Barton Fink**  
+Sat 14 Sep 20:45; Thu 3 Oct 20:45  
+**King of the Hill**  
+Tue 17 Sep 20:45; Fri 4 Oct 18:10  
+**The Servant**  
+Wed 18 Sep 18:15 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Wed 25 Sep 20:45; Sun 6 Oct 12:30  
+**The Incredible Shrinking Man**  
+Tue 24 Sep 20:40; Mon 7 Oct 18:40  
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDY2MTMxNSwtMTU4ODc1ODQ3NV19
+eyJoaXN0b3J5IjpbMTA5MjU4MzQ0OCwtMTU4ODc1ODQ3NV19
 -->
