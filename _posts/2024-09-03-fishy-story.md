@@ -10,97 +10,77 @@ There are several parallels with Tsui Hark’s classic _Shanghai Blues_ – the 
 **Derek Elley, BFI London Film Festival 1990**
 <br><br>
 
-**A FISHY STORY (BAT TUET MAAT DIK YAN)** 
+**A FISHY STORY (BAT TUET MAAT DIK YAN)**  
 _Director_: Anthony Chan  
-_Production Companies_: Bo Ho Films,  
-Mobile Film Productions  
+_Production Companies_: Bo Ho Films,  Mobile Film Productions  
 _Producer_: Leonard Ho  
-_Screenplay_: Anthony Chan, Eddie Fong
-
-_Director of Photography:_ Peter Pau
-
-_Art Director:_ William Szeto
-
+_Screenplay_: Anthony Chan, Eddie Fong<br>
+_Director of Photography:_ Peter Pau<br>
+_Art Director:_ William Szeto<br>
 _Sound Recordist:_ Chu Yan Chan
 
-_Cast:_
-
+**Cast**<br>
 Kenny Bee _(Kung)_  
 Maggie Cheung _(Huang)_  
 Josephine Koo _(Mrs Ku)_  
 Anthony Chan _(Paul Chen)_  
 Carrie Ng  
-Season Ma
-
-Chung Lam
-
+Season Ma<br>
+Chung Lam<br>
 Sin Hung Tam
 
-Hong Kong 1989
-
-100 mins
-
+Hong Kong 1989<br>
+100 mins<br>
 Digital
+<br><br>
 
-<![endif]-->
+**MAGGIE CHEUNG: FILMS OF ROMANCE, MELANCHOLY AND MAGIC**<br>
+**As Tears Go By** Wong Gok kaa moon<br>
+Sun 1 Sep 12:00; Sat 28 Sep 20:30; Sat 5 Oct 12:30<br>
+**Days of Being Wild** Ah Fei ching chuen<br>
+Mon 2 Sep 20:50; Fri 27 Sep 18:20; Mon 7 Oct 20:50<br>
+**In the Mood for Maggie**<br>
+Tue 3 Sep 18:15<br>
+**A Fishy Story** Bat tuet maat dik yan<br>
+Tue 3 Sep 20:35; Sun 22 Sep 18:10<br>
+**Song of the Exile** Haak tou chau han<br>
+Sat 7 Sep 20:50; Sun 29 Sep 12:40<br>
+**Irma Vep**<br>
 
-**MAGGIE CHEUNG: FILMS OF ROMANCE, MELANCHOLY AND MAGIC**
+Mon 9 Sep 20:30; Wed 18 Sep 20:50; Sat 5 Oct 20:50<br>
 
-**As Tears Go By** Wong Gok kaa moon
+**Farewell China** Oi joi bit heung dik gwai jit<br>
 
-Sun 1 Sep 12:00; Sat 28 Sep 20:30; Sat 5 Oct 12:30
+Wed 11 Sep 20:45; Mon 23 Sep 18:00<br>
 
-**Days of Being Wild** Ah Fei ching chuen
+**Green Snake** Ching se<br>
 
-Mon 2 Sep 20:50; Fri 27 Sep 18:20; Mon 7 Oct 20:50
+Thu 12 Sep 20:45; Sat 28 Sep 18:20<br>
 
-**In the Mood for Maggie**
+**The Heroic Trio** Dung fong saam hap<br>
 
-Tue 3 Sep 18:15
+Sat 14 Sep 18:35; Fri 4 Oct 20:50<br>
 
-**A Fishy Story** Bat tuet maat dik yan
+**The Actress (aka Center Stage)** Ruan Ling-Yu<br>
 
-Tue 3 Sep 20:35; Sun 22 Sep 18:10
+Sun 15 Sep 18:00; Sat 21 Sep 20:10<br>
 
-**Song of the Exile** Haak tou chau han
+**In the Mood for Love** Fa yeung nin wah<br>
 
-Sat 7 Sep 20:50; Sun 29 Sep 12:40
+Thu 19 Sep 18:10 + intro and discussion; Tue 8 Oct 18:30; Fri 27 Sep 20:45; Sat 5 Oct 18:15<br>
 
-**Irma Vep**
+**Comrades: Almost a Love Story** Tian Mi Mi<br>
 
-Mon 9 Sep 20:30; Wed 18 Sep 20:50; Sat 5 Oct 20:50
+Sat 21 Sep 17:30; Mon 30 Sep 20:35<br>
 
-**Farewell China** Oi joi bit heung dik gwai jit
+**Hero** Ying xiong<br>
 
-Wed 11 Sep 20:45; Mon 23 Sep 18:00
+Mon 23 Sep 20:30; Sun 6 Oct 18:00<br>
 
-**Green Snake** Ching se
+**Clean**<br>
 
-Thu 12 Sep 20:45; Sat 28 Sep 18:20
-
-**The Heroic Trio** Dung fong saam hap
-
-Sat 14 Sep 18:35; Fri 4 Oct 20:50
-
-**The Actress (aka Center Stage)** Ruan Ling-Yu
-
-Sun 15 Sep 18:00; Sat 21 Sep 20:10
-
-**In the Mood for Love** Fa yeung nin wah
-
-Thu 19 Sep 18:10 + intro and discussion; Tue 8 Oct 18:30; Fri 27 Sep 20:45; Sat 5 Oct 18:15
-
-**Comrades: Almost a Love Story** Tian Mi Mi
-
-Sat 21 Sep 17:30; Mon 30 Sep 20:35
-
-**Hero** Ying xiong
-
-Mon 23 Sep 20:30; Sun 6 Oct 18:00
-
-**Clean**
-
-Thu 3 Oct 18:00; Tue 8 Oct 20:45
+Thu 3 Oct 18:00; Tue 8 Oct 20:45<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDAwOTM1XX0=
+eyJoaXN0b3J5IjpbLTE5MTgzNzE0MDRdfQ==
 -->
