@@ -14,8 +14,7 @@ _The screening on Wednesday 2 October will be introduced by film and talks progr
 
 With a plot of pure Shakespearean farce, witty dialogue and lyrics by Demy, and a magnificent jazz score by the late, great Michel Legrand,  _Les Demoiselles de Rochefort_ is an effervescent celebration of life that is sure to captivate and uplift.
 
-As the follow-up to his all-sung musical drama _The Umbrellas of Cherbourg_ (1964), Jacques Demy created something even bigger and brasher –  
-_Les Demoiselles de Rochefort_, a slightly tongue-in-cheek tribute to the classic Hollywood musicals of Vincente Minnelli, Stanley Donen and Jerome Robbins. Shot entirely in the Atlantic port-city of the title – repainted for the occasion in DayGlo colours, and with Rochefort’s expansive Place Colbert co-opted as a giant sound-stage – _Demoiselles_ bounces with irrepressible vitality from the get-go. The presence in the cast of Gene Kelly and George Chakiris (_West Side Story_) underlines the Hollywood link.
+As the follow-up to his all-sung musical drama _The Umbrellas of Cherbourg_ (1964), Jacques Demy created something even bigger and brasher – _Les Demoiselles de Rochefort_, a slightly tongue-in-cheek tribute to the classic Hollywood musicals of Vincente Minnelli, Stanley Donen and Jerome Robbins. Shot entirely in the Atlantic port-city of the title – repainted for the occasion in DayGlo colours, and with Rochefort’s expansive Place Colbert co-opted as a giant sound-stage – _Demoiselles_ bounces with irrepressible vitality from the get-go. The presence in the cast of Gene Kelly and George Chakiris (_West Side Story_) underlines the Hollywood link.
 
 The plot is minimal – twin sisters dream of escaping to Paris, a carnival breezes into town, three sets of lovers are kept apart by contrivances until the final reel – but Demy misses no opportunity for explosions of song and dance on every corner. Unlike its predecessor, the film does include spoken dialogue, although one dinner-party scene plays out in rhymed couplets. Both song and dance are seamlessly integrated into the action; a character will walk along the street and be whirled by successive anonymous passers-by into brief dance routines.
 
@@ -220,5 +219,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjU4MzQ0OCwtMTU4ODc1ODQ3NV19
+eyJoaXN0b3J5IjpbLTExOTY4MzQ0ODYsLTE1ODg3NTg0NzVdfQ
+==
 -->
