@@ -1,9 +1,18 @@
-
+---
+layout: post
+title:  Les Demoiselles de Rochefort
+published: true
+date: 2024-09-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Musical, Romance]
+metadata: 'France, 121 mins<br> Director: Jane Campion'
+pdf: '2024-09-02-piano.pdf'
+---
 
 _The screening on Wednesday 2 October will be introduced by film and talks programmer and writer Nadia M. Oliva._
 
-With a plot of pure Shakespearean farce, witty dialogue and lyrics by Demy, and a magnificent jazz score by the late, great Michel Legrand,  
-_Les Demoiselles de Rochefort_ is an effervescent celebration of life that is sure to captivate and uplift.
+With a plot of pure Shakespearean farce, witty dialogue and lyrics by Demy, and a magnificent jazz score by the late, great Michel Legrand,  _Les Demoiselles de Rochefort_ is an effervescent celebration of life that is sure to captivate and uplift.
 
 As the follow-up to his all-sung musical drama _The Umbrellas of Cherbourg_ (1964), Jacques Demy created something even bigger and brasher –  
 _Les Demoiselles de Rochefort_, a slightly tongue-in-cheek tribute to the classic Hollywood musicals of Vincente Minnelli, Stanley Donen and Jerome Robbins. Shot entirely in the Atlantic port-city of the title – repainted for the occasion in DayGlo colours, and with Rochefort’s expansive Place Colbert co-opted as a giant sound-stage – _Demoiselles_ bounces with irrepressible vitality from the get-go. The presence in the cast of Gene Kelly and George Chakiris (_West Side Story_) underlines the Hollywood link.
@@ -153,5 +162,5 @@ France 1967
 126 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg3NTg0NzVdfQ==
+eyJoaXN0b3J5IjpbMTA3MDY2MTMxNSwtMTU4ODc1ODQ3NV19
 -->
