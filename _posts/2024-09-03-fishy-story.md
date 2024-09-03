@@ -46,41 +46,24 @@ Tue 3 Sep 20:35; Sun 22 Sep 18:10<br>
 **Song of the Exile** Haak tou chau han<br>
 Sat 7 Sep 20:50; Sun 29 Sep 12:40<br>
 **Irma Vep**<br>
-
 Mon 9 Sep 20:30; Wed 18 Sep 20:50; Sat 5 Oct 20:50<br>
-
 **Farewell China** Oi joi bit heung dik gwai jit<br>
-
 Wed 11 Sep 20:45; Mon 23 Sep 18:00<br>
-
 **Green Snake** Ching se<br>
-
 Thu 12 Sep 20:45; Sat 28 Sep 18:20<br>
-
 **The Heroic Trio** Dung fong saam hap<br>
-
 Sat 14 Sep 18:35; Fri 4 Oct 20:50<br>
-
 **The Actress (aka Center Stage)** Ruan Ling-Yu<br>
-
 Sun 15 Sep 18:00; Sat 21 Sep 20:10<br>
-
 **In the Mood for Love** Fa yeung nin wah<br>
-
 Thu 19 Sep 18:10 + intro and discussion; Tue 8 Oct 18:30; Fri 27 Sep 20:45; Sat 5 Oct 18:15<br>
-
 **Comrades: Almost a Love Story** Tian Mi Mi<br>
-
 Sat 21 Sep 17:30; Mon 30 Sep 20:35<br>
-
 **Hero** Ying xiong<br>
-
 Mon 23 Sep 20:30; Sun 6 Oct 18:00<br>
-
 **Clean**<br>
-
 Thu 3 Oct 18:00; Tue 8 Oct 20:45<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzNzE0MDRdfQ==
+eyJoaXN0b3J5IjpbLTg0NDc0ODY1NF19
 -->
