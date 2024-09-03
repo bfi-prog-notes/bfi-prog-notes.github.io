@@ -27,6 +27,177 @@ Whatever this dubbed version may indicate, Demy is still capable of prodigious a
 **Carey Harrison, _Monthly Film Bulletin_, August 1967**  
 
 (NOTE: This review was written before the distributors decided to let London see the French version as well as the dubbed one.)
+<br>
+
+**LES DEMOISELLES DE ROCHEFORT**
+
+**(THE YOUNG GIRLS OF ROCHEFORT)**
+
+_Director:_ Jacques Demy  
+_Production Companies:_ Parc Film, Madeleine Films  
+_Executive Producer:_ Mag Bodard  
+_Producer:_ Gilbert de Goldschmidt  
+_Production Accountant:_ Jean-Marc Garrouste  
+_Production Manager:_ Philippe Dussart  
+_Unit Managers:_ Michel Choquet, René Pascal  
+_Location Unit Manager:_ Charles Chieusse  
+_2nd Unit Director:_ Charles Chieusse  
+_1st Assistant Director:_ Michel Romanoff  
+_Director’s Assistants:_ Alain Franchet,
+
+Jacques Barratier, Claude Miler, Bernard Gilson  
+_Script Girl:_ Annie Maurel  
+_Original Story and Screenplay:_ Jacques Demy  
+_English Adaptation:_ Julian More  
+_Director of Photography:_ Ghislain Cloquet  
+_Camera Assistants:_ Emmanuel Machuel,
+
+Jean-Paul Lemaître  
+_Key Grip:_ Bernard Largemains  
+_Chief Electrician:_ Pierre Cornier  
+_Stills Photography:_ Hélène Jeanbrau  
+_Special Effects:_ Louis Seurat  
+_Editor:_ Jean Hamon  
+_Assistant Editor:_ Claudio Ventura  
+_Set Designer:_ Bernard Evein  
+_Assistant Set Design:_ Georges Glon, Claude Pignot  
+_Set Dresser:_ Louis Seuret  
+_Tapestry by:_ Roger Fresca, Josette Jover  
+_Properties:_ Angelo Rizzi, Joseph Gerhard  
+_Costumes:_ Jacqueline Moreau,
+
+Marie-Claude Fouquet  
+_Robes:_ Jean-Marie Armand  
+_Hats:_ Jean Barthet  
+_Dressers:_ Odette Le Barbenchon, Laurence Clairval, Christiane Fageol  
+_Make-up:_ Aïda Carange, Janine Jarreau,
+
+Luc Durand, Christiane Sauvage  
+_Hairdressers:_ Carita, Edina Habib  
+_Music Written and Directed by:_ Michel Legrand  
+_Lyrics:_ Jacques Demy  
+_English Lyrics:_ Julian More, W. Earl Brown  
+_Choreography:_ Norman Maen  
+_Assistant Choreographers:_ Pamela Hart,
+
+Maureen Bright  
+_Sound:_ Jacques Maumont  
+_Boom Operator:_ Jean Gaudelet  
+_Cast:_
+
+Catherine Deneuve _(Delphine Garnier)_  
+Françoise Dorléac _(Solange Garnier)_  
+George Chakiris _(Etienne)_  
+Grover Dale _(Bill)_  
+Danielle Darrieux _(Yvonne)_  
+Michel Piccoli _(Simon Guillotine)_  
+Gene Kelly _(Andy Miller)_  
+Jacques Perrin _(Maxence)_  
+Jacques Riberolles _(Guillaume Lancien)_  
+Henri Crémieux _(Dutrouz)_  
+Patrick Jeantet _(Boubou)_  
+Geneviève Thénier _(Josette)_  
+Pamela Hart _(Judith)_  
+Leslie North _(Esther)_  
+René Bazart _(Pépé)_  
+Dorothée Blanck _(a passer-by)_  
+Agnès Varda _(a nun)_  
+Daniel Mocquay _(a sailor)_
+
+  
+
+_the singing voices_  
+Anne Germain _(Delphine)_  
+Claude Parent _(Solange)_  
+Romuald _(Etienne)_  
+José Bartel _(Bill)_  
+Donald Burke _(Andy)_  
+Jacques Revaux _(Maxence)_  
+Georges Blaness _(Simon)_  
+Claudine Meunier _(Esther)_  
+Christiane Legrand _(Judith)_  
+Jean Stout _(Guillaume)_  
+Olivier Bonnet _(Boubou)_  
+Alice Gerald _(Josette)_
+
+  
+
+_the dancers_  
+Peter Ardran
+
+Sarah Butler
+
+Jane Darling
+
+Lindsay Dolan  
+Keith Drummond
+
+Taira Fernando
+
+Johnny Greenland
+
+David Hepburn  
+Alix Kirsta
+
+Tony Manning
+
+Connel Miles
+
+Nicky Temperton  
+Wendy Barry
+
+Ann Chapman
+
+Tudor Davies
+
+John MacDonald  
+Maureen Evans
+
+Sarah Flemington
+
+Leo Guerard
+
+Bob Howe  
+Jerry Manley
+
+Tom Merrifield
+
+Albin Pahernik
+
+Barrie Wilkinson  
+Maureen Willsher
+
+  
+
+_the singers_  
+Sue Allen
+
+George E. Becker
+
+W. Earl Brown
+
+Ronald D. Hicklin  
+Frank Allen Howren
+
+Thomas D. Kenny
+
+Judith E. Lawler
+
+Bill Lee  
+Diana K. Lee
+
+Gilda Maiken  
+Gene Merlino  
+Joseph A. Pryor  
+Ronald T. Reeve  
+Sally Stevens  
+Sara Jane Sallman  
+Robert Tebow  
+Jackie Wa  
+
+France 1967  
+126 mins  
+35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMDQ1NTUwXX0=
+eyJoaXN0b3J5IjpbMzA5OTAxNjY1XX0=
 -->
