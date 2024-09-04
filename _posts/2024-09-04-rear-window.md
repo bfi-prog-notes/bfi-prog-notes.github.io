@@ -21,6 +21,112 @@ The problem is how to relate this imaginary, impossible ‘us’ to what is goin
 In order to make sense of the moment, and the film as a whole, it is clearly necessary to think the question of voyeurism through these sexually defined characters and our relation to their images. This rather than turning the issue outwards into general analogies between the action of the film and the act of watching films, while ruminating over the moral issues involved.  
 **Steve Jenkins, _Monthly Film Bulletin_, February 1984**  
 <br>
+**REAR WINDOW**
+
+_Directed by_: Alfred Hitchcock
+
+©: Patron Inc.
+
+_a_ Paramount _release_
+
+_Assistant Director_: Herbert Coleman
+
+_Screenplay by_: John Michael Hayes
+
+_Based on the short story by_: Cornell Woolrich
+
+_Director of Photography_: Robert Burks
+
+_Technicolor Colour Consultant_: Richard Mueller
+
+_Special Photographic Effects_: John P. Fulton
+
+_Edited by_: George Tomasini
+
+_Art Direction_: Hal Pereira,  
+Joseph MacMillan Johnson
+
+_Set Decoration_: Sam Comer, Ray Moyer
+
+_Costumes_: Edith Head
+
+_Make-up Supervision_: Wally Westmore
+
+_Music Score by_: Franz Waxman
+
+_Sound Recording by_: Harry Lindgren, John Cope
+
+_Sound System_: Western Electric Recording
+
+_Technical Adviser_: Bob Landry
+
+  
+
+_uncredited_
+
+_Producer_: Alfred Hitchcock
+
+_Production Manager_: C.O. Erickson
+
+_Camera Operator_: William Schurr
+
+_Camera Assistant_: Leonard South
+
+_Special Cinematography_: Irmin Roberts
+
+_Stunt Detectives_: Fred Graham, Eddie Parker
+
+  
+
+_Cast:_
+
+James Stewart _(L.B. ‘Jeff’ Jefferies)_
+
+Grace Kelly _(Lisa Carol Fremont)_
+
+Wendell Corey _(Detective Thomas J. Doyle)_
+
+Thelma Ritter _(Stella)_
+
+Raymond Burr _(Lars Thorwald)_
+
+Judith Evelyn _(Miss Lonely Hearts)_
+
+Ross Bagdasarian _(song writer)_
+
+Georgine Darcy _(Miss Torso)_
+
+Sara Berner _(woman on fire escape)_
+
+Frank Cady _(man on fire escape)_
+
+Jesslyn Fax _(sculptress)_
+
+Rand Harper _(Harry, honeymooner)_
+
+Irene Winston _(Mrs Anna Thorwald)_
+
+Havis Davenport _(honeymooner)_  
+_uncredited_ 
+Alan Lee _(landlord)_  
+Ralph Smiley _(Carl, the waiter)_  
+Alfred Hitchcock _(man winding clock at song writer’s)_  
+Jack Stoney _(iceman)_  
+Marla English, Kathryn Grant _(party girls)_  
+Jerry Antes _(dancer)_  
+Barbara Bailey _(choreographer)_  
+Len Hendry,  Mike Mahoney _(policemen)_  
+Anthony Warde _(detective)_  
+Bennie Bartlett _(Stanley, Miss Torso’s friend)_  
+Bess Flowers _(woman with poodle)_  
+Harry Landers _(young man)_  
+Dick Simmons, James A. Cornell, Nick Borgani _(men)_  
+Jenni Paris, Sue Casey _(sunbathers)_  
+Iphigenie Castiglioni _(bird woman)_  
+
+USA 1954©  
+114 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQxODY3NDFdfQ==
+eyJoaXN0b3J5IjpbMTEwMTI3ODE5OF19
 -->
