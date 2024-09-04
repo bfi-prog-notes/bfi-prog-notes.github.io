@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Les Demoiselles de Rochefort
+title:  Little Otík
 published: true
-date: 2024-09-03
+date: 2024-09-04
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Musical, Romance]
-metadata: 'France 1967, 126 mins<br> Director: Jacques Demy'
-pdf: '2024-09-03-demoiselles-de-rochefort.pdf'
+metadata: 'Czech Republic/UK/Japan 2000, 131 mins<br> Director: Jan Svankmajer'
+pdf: '2024-09-04-little-otik.pdf'
 ---
 
 
@@ -151,5 +151,5 @@ Czech Republic/UK/Japan 2000©
 131 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI4NjQwODZdfQ==
+eyJoaXN0b3J5IjpbNzUxMDgyNDk2XX0=
 -->
