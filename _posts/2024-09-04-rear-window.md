@@ -21,62 +21,34 @@ The problem is how to relate this imaginary, impossible ‘us’ to what is goin
 In order to make sense of the moment, and the film as a whole, it is clearly necessary to think the question of voyeurism through these sexually defined characters and our relation to their images. This rather than turning the issue outwards into general analogies between the action of the film and the act of watching films, while ruminating over the moral issues involved.  
 **Steve Jenkins, _Monthly Film Bulletin_, February 1984**  
 <br>
-**REAR WINDOW**
-
-_Directed by_: Alfred Hitchcock
-
-©: Patron Inc.
-
-_a_ Paramount _release_
-
-_Assistant Director_: Herbert Coleman
-
-_Screenplay by_: John Michael Hayes
-
-_Based on the short story by_: Cornell Woolrich
-
-_Director of Photography_: Robert Burks
-
-_Technicolor Colour Consultant_: Richard Mueller
-
-_Special Photographic Effects_: John P. Fulton
-
-_Edited by_: George Tomasini
-
-_Art Direction_: Hal Pereira,  
-Joseph MacMillan Johnson
-
-_Set Decoration_: Sam Comer, Ray Moyer
-
-_Costumes_: Edith Head
-
-_Make-up Supervision_: Wally Westmore
-
-_Music Score by_: Franz Waxman
-
-_Sound Recording by_: Harry Lindgren, John Cope
-
-_Sound System_: Western Electric Recording
-
-_Technical Adviser_: Bob Landry
-
-  
-
-_uncredited_
-
-_Producer_: Alfred Hitchcock
-
-_Production Manager_: C.O. Erickson
-
-_Camera Operator_: William Schurr
-
-_Camera Assistant_: Leonard South
-
-_Special Cinematography_: Irmin Roberts
-
+**REAR WINDOW**  
+_Directed by_: Alfred Hitchcock  
+©: Patron Inc.  
+_a_ Paramount _release_  
+_Assistant Director_: Herbert Coleman  
+_Screenplay by_: John Michael Hayes  
+_Based on the short story by_: Cornell Woolrich  
+_Director of Photography_: Robert Burks  
+_Technicolor Colour Consultant_: Richard Mueller  
+_Special Photographic Effects_: John P. Fulton  
+_Edited by_: George Tomasini  
+_Art Direction_: Hal Pereira, Joseph MacMillan Johnson  
+_Set Decoration_: Sam Comer, Ray Moyer  
+_Costumes_: Edith Head  
+_Make-up Supervision_: Wally Westmore  
+_Music Score by_: Franz Waxman  
+_Sound Recording by_: Harry Lindgren, John Cope  
+_Sound System_: Western Electric Recording  
+_Technical Adviser_: Bob Landry  
+_uncredited_  
+_Producer_: Alfred Hitchcock  
+_Production Manager_: C.O. Erickson  
+_Camera Operator_: William Schurr  
+_Camera Assistant_: Leonard South  
+_Special Cinematography_: Irmin Roberts  
 _Stunt Detectives_: Fred Graham, Eddie Parker  
 
-_Cast:_  
+**Cast**   
 James Stewart _(L.B. ‘Jeff’ Jefferies)_  
 Grace Kelly _(Lisa Carol Fremont)_  
 Wendell Corey _(Detective Thomas J. Doyle)_  
@@ -112,5 +84,5 @@ USA 1954©
 114 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg3NjQzOThdfQ==
+eyJoaXN0b3J5IjpbMjE0MzgzNjA1Nl19
 -->
