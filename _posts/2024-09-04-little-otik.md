@@ -5,11 +5,10 @@ published: true
 date: 2024-09-04
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
-tags: [Musical, Romance]
+tags: [Fantasy]
 metadata: 'Czech Republic/UK/Japan 2000, 131 mins<br> Director: Jan Svankmajer'
 pdf: '2024-09-04-little-otik.pdf'
 ---
-
 
 _+ intro by musician and_ Starve Acre _composer Matthew Herbert (Wednesday 4 September only)_
 
@@ -151,5 +150,5 @@ Czech Republic/UK/Japan 2000©
 131 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMDgyNDk2XX0=
+eyJoaXN0b3J5IjpbLTExNTU4NzQ1NTddfQ==
 -->
