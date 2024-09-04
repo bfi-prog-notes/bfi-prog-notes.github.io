@@ -114,92 +114,46 @@ _Assistant Editors:_ Daniel Bird, Jitka Frimlová,
 
 Adela Spaljová
 
-_Artistic Direction:_ Eva Svankmajerová,
+_Artistic Direction:_ Eva Svankmajerová, Jan Svankmajer  
+_Assistant Art Director:_ Vaclav Svankmajer  
+_Set Dresser:_ Karel Vanásek  
+_Propmen:_ Karel Jilek, Karel Cihlar  
+_Set Construction Foreman:_ Tomás Kalous  
+_Set Construction:_ Roman Dergam, Jirí Placata, Jan Skala, Martin Fiser  
+_Costumes/Props/Set Design:_ Jan Svankmajer  
+_Costumes:_ Katerina Rudova, Miroslava Gailová, Katerina Stejskalová  
+_Latex Casts:_ Jirí Sram  
+_Wardrobe:_ Katerina Rudova  
+_Make-up:_ Alena Sedova, Bozena Doslá  
+_Image Colour Correction:_ Vladimir Altman  
+_Optical Effects:_ Pavel Kryml, Ivan Haták  
+_Sound:_ Ivo Spalj  
+_Sound Assistants:_ Robert Dufek, Matej Kratochvil, Igor Pokorny, Radovan Horak  
+_Additional Sound Services:_ Jaroslav Sodomka, Alena Durlinová, Vaclav Hanousek  
+_Sound Mix:_ Ivo Spalj, Pavel Spatny  
+_Sound Mix Assistant:_ Pavel Stverák  
+_Sound Effects:_ Jitka Zvirocká, Olga Cechová, Zdenek Dusek, Maria Novotná, Karel Süssmilch  
+_Animal Training:_ Fauna Film Praha, Ota Bares, David Schmidt  
 
-Jan Svankmajer
-
-_Assistant Art Director:_ Vaclav Svankmajer
-
-_Set Dresser:_ Karel Vanásek
-
-_Propmen:_ Karel Jilek, Karel Cihlar
-
-_Set Construction Foreman:_ Tomás Kalous
-
-_Set Construction:_ Roman Dergam, Jirí Placata,
-
-Jan Skala, Martin Fiser
-
-_Costumes/Props/Set Design:_ Jan Svankmajer
-
-_Costumes:_ Katerina Rudova, Miroslava Gailová, Katerina Stejskalová
-
-_Latex Casts:_ Jirí Sram
-
-_Wardrobe:_ Katerina Rudova
-
-_Make-up:_ Alena Sedova, Bozena Doslá
-
-_Image Colour Correction:_ Vladimir Altman
-
-_Optical Effects:_ Pavel Kryml, Ivan Haták
-
-_Sound:_ Ivo Spalj
-
-_Sound Assistants:_ Robert Dufek,
-
-Matej Kratochvil, Igor Pokorny, Radovan Horak
-
-_Additional Sound Services:_ Jaroslav Sodomka, Alena Durlinová, Vaclav Hanousek
-
-_Sound Mix:_ Ivo Spalj, Pavel Spatny
-
-_Sound Mix Assistant:_ Pavel Stverák
-
-_Sound Effects:_ Jitka Zvirocká, Olga Cechová, Zdenek Dusek, Maria Novotná,
-
-Karel Süssmilch
-
-_Animal Training:_ Fauna Film Praha, Ota Bares, David Schmidt
-
-_Cast:_
-
-Veronika Zilková _(Bozena Horáková)_
-
-Jan Hartl _(Karel Horák)_
-
-Jaroslava Kretschmerová _(Mrs Stádlerová)_
-
-Pavel Novy _(Frantisek Stádler)_
-
-Kristina Adamcová _(Alzbetka)_
-
-Dagmar Stríbrná _(Mrs Správcová, the caretaker)_
-
-Zdenek Kozák _(Mr Zlábek)_
-
-Gustav Vondrácek _(Mládek, the postman)_
-
-Arnost Goldflam _(gynaecologist)_
-
-Jitka Smutná _(Bulánková, the social worker)_
-
-Jirí Lábus _(policeman at station)_
-
-Radek Holub _(young postman)_
-
-Jan Jirán _(Karluv, co-worker in office)_
-
-Zdenek Palusga _(uniformed policeman)_
-
-Frantisek Polata _(plainclothes policeman 1)_
-
-Vaclav Jezek _(plainclothes policeman 2)_
-
-Mikes _(the cat)_
-
-Josef Cahill
-
+**Cast**  
+Veronika Zilková _(Bozena Horáková)_  
+Jan Hartl _(Karel Horák)_  
+Jaroslava Kretschmerová _(Mrs Stádlerová)_  
+Pavel Novy _(Frantisek Stádler)_  
+Kristina Adamcová _(Alzbetka)_  
+Dagmar Stríbrná _(Mrs Správcová, the caretaker)_  
+Zdenek Kozák _(Mr Zlábek)_  
+Gustav Vondrácek _(Mládek, the postman)_  
+Arnost Goldflam _(gynaecologist)_  
+Jitka Smutná _(Bulánková, the social worker)_  
+Jirí Lábus _(policeman at station)_  
+Radek Holub _(young postman)_  
+Jan Jirán _(Karluv, co-worker in office)_  
+Zdenek Palusga _(uniformed policeman)_  
+Frantisek Polata _(plainclothes policeman 1)_  
+Vaclav Jezek _(plainclothes policeman 2)_  
+Mikes _(the cat)_  
+Josef Cahill  
 Marie Maresová  
 Anna Wetlinská  
 Vojtech Bernatsky  
@@ -231,5 +185,5 @@ Czech Republic/UK/Japan 2000©
 131 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTI1NDU5XX0=
+eyJoaXN0b3J5IjpbLTEyOTE4NDEyOTNdfQ==
 -->
