@@ -50,70 +50,33 @@ _©/In association with:_ Barrandov Biografia, FilmFour
 
 _In co-production with:_ Illuminations Films
 
-_With financial contributions from:_
-
-State Fund of the Czech Republic,
-
-Czech Literary Fund Foundation,
-
-Ren Corporation Ltd, Cesky K Ltd
-
-_Producer:_ Jaromír Kallista
-
-_Co-production:_ Keith Griffiths
-
-_Production Accountant:_ Zdena Cerna
-
-_Production Manager:_ Vera Ferdová
-
-_UK Production Manager:_ Pinky Ghundale
-
-_Studio Manager:_ Tomás Kalous
-
-_Production Assistant:_ Miroslav Jirkovsky
-
-_Assistant Directors:_ Martin Kublák, Tijn Po
-
-_Script Supervisor:_ Shimon Shemtov
-
-_Screenplay and Story:_ Jan Svankmajer
-
-_Director of Photography:_ Juraj Galvánek
-
-_Additional Photography:_ Jan Ruzicka
-
-_Assistant Cameraman:_ Peter Necas
-
-_Grips:_ Joseph Cernusak, Miroslav Zika
-
-_Chief Lighting Technician:_ Jirí Curin
-
-_Lighting Technicians:_ Ladislav Marek,
-
-Zdenek Cermak, Zdenek Vodvárka
-
-_Stills Photography:_ Boris Baromykin
-
-_Computer Special Effects:_ Martin Stejskal
-
-_Animation:_ Bedrich Glaser, Martin Kublák
-
-_Animated Film/Costumes:_ Eva Svankmajerová
-
-_Animation Storyboard Artist:_ Vaclav Svankmajer
-
-_Animation Colourists:_ Eliska Schmidtová,
-
-Joseph Cahill
-
-_Puppets/Props:_ Joseph Cahill, Martin Kublák, Shimon Shemtov, Daniel Bird
-
-_Film Editing:_ Marie Zemanová
-
-_Assistant Editors:_ Daniel Bird, Jitka Frimlová,
-
-Adela Spaljová
-
+_With financial contributions from:_ State Fund of the Czech Republic,  
+Czech Literary Fund Foundation, Ren Corporation Ltd, Cesky K Ltd  
+_Producer:_ Jaromír Kallista  
+_Co-production:_ Keith Griffiths  
+_Production Accountant:_ Zdena Cerna  
+_Production Manager:_ Vera Ferdová  
+_UK Production Manager:_ Pinky Ghundale  
+_Studio Manager:_ Tomás Kalous  
+_Production Assistant:_ Miroslav Jirkovsky  
+_Assistant Directors:_ Martin Kublák, Tijn Po  
+_Script Supervisor:_ Shimon Shemtov  
+_Screenplay and Story:_ Jan Svankmajer  
+_Director of Photography:_ Juraj Galvánek  
+_Additional Photography:_ Jan Ruzicka  
+_Assistant Cameraman:_ Peter Necas  
+_Grips:_ Joseph Cernusak, Miroslav Zika  
+_Chief Lighting Technician:_ Jirí Curin  
+_Lighting Technicians:_ Ladislav Marek, Zdenek Cermak, Zdenek Vodvárka  
+_Stills Photography:_ Boris Baromykin  
+_Computer Special Effects:_ Martin Stejskal  
+_Animation:_ Bedrich Glaser, Martin Kublák  
+_Animated Film/Costumes:_ Eva Svankmajerová  
+_Animation Storyboard Artist:_ Vaclav Svankmajer  
+_Animation Colourists:_ Eliska Schmidtová, Joseph Cahill  
+_Puppets/Props:_ Joseph Cahill, Martin Kublák, Shimon Shemtov, Daniel Bird  
+_Film Editing:_ Marie Zemanová  
+_Assistant Editors:_ Daniel Bird, Jitka Frimlová, Adela Spaljová  
 _Artistic Direction:_ Eva Svankmajerová, Jan Svankmajer  
 _Assistant Art Director:_ Vaclav Svankmajer  
 _Set Dresser:_ Karel Vanásek  
@@ -185,5 +148,5 @@ Czech Republic/UK/Japan 2000©
 131 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE4NDEyOTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDY3NjMyMzldfQ==
 -->
