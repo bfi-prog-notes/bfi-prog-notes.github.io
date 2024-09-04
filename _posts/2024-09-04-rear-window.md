@@ -74,38 +74,22 @@ _Camera Assistant_: Leonard South
 
 _Special Cinematography_: Irmin Roberts
 
-_Stunt Detectives_: Fred Graham, Eddie Parker
+_Stunt Detectives_: Fred Graham, Eddie Parker  
 
-  
-
-_Cast:_
-
-James Stewart _(L.B. ‘Jeff’ Jefferies)_
-
-Grace Kelly _(Lisa Carol Fremont)_
-
-Wendell Corey _(Detective Thomas J. Doyle)_
-
-Thelma Ritter _(Stella)_
-
-Raymond Burr _(Lars Thorwald)_
-
-Judith Evelyn _(Miss Lonely Hearts)_
-
-Ross Bagdasarian _(song writer)_
-
-Georgine Darcy _(Miss Torso)_
-
-Sara Berner _(woman on fire escape)_
-
-Frank Cady _(man on fire escape)_
-
-Jesslyn Fax _(sculptress)_
-
-Rand Harper _(Harry, honeymooner)_
-
-Irene Winston _(Mrs Anna Thorwald)_
-
+_Cast:_  
+James Stewart _(L.B. ‘Jeff’ Jefferies)_  
+Grace Kelly _(Lisa Carol Fremont)_  
+Wendell Corey _(Detective Thomas J. Doyle)_  
+Thelma Ritter _(Stella)_  
+Raymond Burr _(Lars Thorwald)_  
+Judith Evelyn _(Miss Lonely Hearts)_  
+Ross Bagdasarian _(song writer)_  
+Georgine Darcy _(Miss Torso)_  
+Sara Berner _(woman on fire escape)_  
+Frank Cady _(man on fire escape)_  
+Jesslyn Fax _(sculptress)_  
+Rand Harper _(Harry, honeymooner)_  
+Irene Winston _(Mrs Anna Thorwald)_  
 Havis Davenport _(honeymooner)_  
 _uncredited_ 
 Alan Lee _(landlord)_  
@@ -128,5 +112,5 @@ USA 1954©
 114 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTI3ODE5OF19
+eyJoaXN0b3J5IjpbLTE3NTg3NjQzOThdfQ==
 -->
