@@ -1,10 +1,19 @@
-
+---
+layout: post
+title:  Les Demoiselles de Rochefort
+published: true
+date: 2024-09-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Musical, Romance]
+metadata: 'France 1967, 126 mins<br> Director: Jacques Demy'
+pdf: '2024-09-03-demoiselles-de-rochefort.pdf'
+---
 
 
 _+ intro by musician and_ Starve Acre _composer Matthew Herbert (Wednesday 4 September only)_
 
-**Jan Svankmajer on ‘Little Otík’**
-
+**Jan Svankmajer on ‘Little Otík’**  
 Little Otík _is based on a folk tale best known from the version by K.J. Erben. What attracted you to the subject?_
 
 In the early ’70s Eva [Svankmajerová] was looking for a ‘drastic’ fairytale that she could make into an animated short film. _Otesánek_ was her final choice; she had illustrated the story earlier for a children’s book. She asked me to help her with the script, and suddenly I realised what a great subject I was handling. That it was, in effect, a topical version of the Faust myth: a rebellion against nature and the tragic dimension of that rebellion. In short, I stole the story from Eva and subsequently integrated her original idea into the final shape of my script.
@@ -17,7 +26,7 @@ _Most of your features combine puppets with live actors, and the central charact
 
 _Little Otík_ differs from my previous films mainly by being a version of a traditionally constructed story with normal dialogue. That’s not the case with _Alice_ or _Faust_, and certainly not with _Conspirators of Pleasure_. In this sense _Little Otík_ is the most conventional of my films. In its subject matter, though, it’s quite close to _Faust_ and, in showing the omnipotence of desire, to _Conspirators of Pleasure_. This is only another angle on the subjects that obsess me, not a new departure in my work.
 
-_In many folk tales a child is threatened by an ogre or wild beast. In_ Little Otík_, by contrast, the child has become an ogre. What was the intention behind this reversal?_
+_In many folk tales a child is threatened by an ogre or wild beast. In_ Little Otík _, by contrast, the child has become an ogre. What was the intention behind this reversal?_
 
 I do not work with intentions. Pursuing intentions leads to making films as theses. That has nothing to do with freedom of the imagination. It’s common knowledge that the subconscious components of our mind are just as meaningful as the conscious. So my preference is for _post facto_ interpretation rather than intention. In _Little Otík_ the child devours its ‘parents’. Otík is the product of their desire, their rebellion against nature. This is not a child in the real sense of the word, but the materialisation of desire, of rebellion. That’s the tragic dimension of the human destiny – it’s impossible to live without rebelling against the human lot.
 
@@ -40,18 +49,12 @@ _You once described Walt Disney as one of the leading destroyers of European cul
 Disney is among the greatest makers of ‘art for children’. I have always held that no special art for children simply exists, and what passes for it embodies either the birch (discipline) or lucre (profit). ‘Art for children’ is dangerous in that it participates either in the taming of the child’s soul or the bringing up of consumers of mass culture. I am afraid a child reared on current Disney produce will find it difficult to get used to more sophisticated kinds of art and will assume his/her place in the ranks of viewers of idiotic television serials. That doesn’t mean that works with imaginative value may not occasionally crop up in consumer culture – for instance, _King Kong_. But I fear their number is dwindling.  
 **Peter Hames, _Sight and Sound_, October 2001**  
 <br>
-**LITTLE OTÍK (OTESÁNEK)**
-
-_Director:_ Jan Svankmajer
-
-_©/Production Company:_ Athanor
-
-_©/In association with:_ Barrandov Biografia, FilmFour
-
-_In co-production with:_ Illuminations Films
-
-_With financial contributions from:_ State Fund of the Czech Republic,  
-Czech Literary Fund Foundation, Ren Corporation Ltd, Cesky K Ltd  
+**LITTLE OTÍK (OTESÁNEK)**  
+_Director:_ Jan Svankmajer  
+_©/Production Company:_ Athanor  
+_©/In association with:_ Barrandov Biografia, FilmFour  
+_In co-production with:_ Illuminations Films  
+_With financial contributions from:_ State Fund of the Czech Republic, Czech Literary Fund Foundation, Ren Corporation Ltd, Cesky K Ltd  
 _Producer:_ Jaromír Kallista  
 _Co-production:_ Keith Griffiths  
 _Production Accountant:_ Zdena Cerna  
@@ -148,5 +151,5 @@ Czech Republic/UK/Japan 2000©
 131 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY3NjMyMzldfQ==
+eyJoaXN0b3J5IjpbLTEzNTI4NjQwODZdfQ==
 -->
