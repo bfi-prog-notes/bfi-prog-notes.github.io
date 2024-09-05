@@ -112,7 +112,6 @@ USA 1989©
 120 mins  
 Digital 4K  
 <br>
-<br
 
 **BIG SCREEN CLASSICS**  
 **The Draughtsman’s Contract**  
@@ -172,5 +171,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjI3OTAzMl19
+eyJoaXN0b3J5IjpbLTQ5NjkzOThdfQ==
 -->
