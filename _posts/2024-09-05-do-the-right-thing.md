@@ -6,8 +6,8 @@ date: 2024-09-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA 1954, 114 mins<br> Director: Alfred Hitchcock'
-pdf: '2024-09-04-rear-window.pdf'
+metadata: 'USA 1989, 120 mins<br> Director: Spike Lee'
+pdf: '2024-09-05-do-the-right-thing.pdf'
 ---
 
 During the hottest day of the year, Mookie (Lee) travels around his predominantly black Brooklyn neighbourhood making deliveries for the local pizzeria run by Italian American Sal (Aiello). As the temperature rises, so do the simmering racial tensions in the community. Expertly crafted, exploding with his distinctive visual style and humour, Spike Lee’s cinematic sucker-punch is a landmark of American cinema that remains just as powerful and profoundly relevant as the day it debuted.  
@@ -20,8 +20,7 @@ Despite an Oscar nomination for Best Original Screenplay, Lee’s urgent dispatc
 
 **Steve McQueen, director/writer**: The first time I saw _Do the Right Thing_, when it was over, I didn’t speak for a while. I was just trying to take it all in. It was a knockout – almost like being in a boxing ring. Sometimes it was brutal, and sometimes beautiful; an attack, done with style, anger and compassion. In terms of giving a snapshot of a New York community, the only thing that comes close are those films from the 30s and 40s like _Angels with Dirty Faces_.
 
-It brings back great memories, but also painful ones, and that combination is so powerful. Great art has a resonance in the past, present and future, and  
-_Do the Right Thing_ is just that. When it came out, the echoes with the UK political situation were loud and clear. In England, there was police brutality and unemployment, and it resonated with me in a direct way. I love the bit when John Savage’s character – the white guy wearing the Larry Bird jersey, carrying his bicycle – steps on the new Air Jordans that Buggin’ Out is wearing, and this sparks a heated conversation about gentrification. It reminds me of what England was like at the time, and it also illustrated the importance of trainers back then!
+It brings back great memories, but also painful ones, and that combination is so powerful. Great art has a resonance in the past, present and future, and _Do the Right Thing_ is just that. When it came out, the echoes with the UK political situation were loud and clear. In England, there was police brutality and unemployment, and it resonated with me in a direct way. I love the bit when John Savage’s character – the white guy wearing the Larry Bird jersey, carrying his bicycle – steps on the new Air Jordans that Buggin’ Out is wearing, and this sparks a heated conversation about gentrification. It reminds me of what England was like at the time, and it also illustrated the importance of trainers back then!
 
 There are many iconic moments: the to-camera ‘love and hate’ speech by Radio Raheem stands out, as does the conversation between pizza-shop owner Sal and his racist son Pino, who says he feels sick of being in the neighbourhood. Through the window of the pizzeria you can see the autistic character Smiley milling around, and the way Lee builds up the tension is amazing; it’s ingrained in my mind. But my most powerful memory is right at the start: you see the Universal logo – the image of the world turning – and there’s this lazy saxophone melody over it [‘Lift Every Voice and Sing’, the so-called ‘Negro National Anthem’]; it’s as though Universal’s logo becomes part of the fabric of the piece, and it feels like the setting for an old fable that’s been told and retold. There’s the 40 Acres and a Mule [Lee’s production company] symbol, and then we go into the stunning credit sequence with Rosie Perez dancing to Public Enemy’s ‘Fight the Power’. It’s just beautiful. I was knocked out before the film even started.
 
@@ -34,7 +33,7 @@ I also remember leaving the cinema after those two closing quotes on the screen,
 **Destiny Ekaragha, director/writer**: I grew up on an estate in New Cross in London, but it didn’t feel like we were in the ‘ghetto’ – we were just a bunch of kids that would play out in the summer. For me, _Do the Right Thing_, which I first saw in the 90s in my early teens, captured exactly that feeling, with its colour and vibrant characters like Mister Señor Love Daddy in his budget radio station. One of my favourite lines ever is when he says, ‘Today’s weather is… HOT!’ He ain’t messing around with degrees Fahrenheit or anything like that.
 
 It remains so important because it touches on issues of race and class – and people’s perceptions of those things – like no other film before or after. It was the first film I saw which broke narrative and had people talking directly to camera. It was laying bare what different racial groups said about each other. It said: ‘Make no mistake, we are living amidst racism – it’s as thick as the humidity in the air.’ Today, there are people pretending that racism doesn’t exist, that we’re in a ‘post-racial’ era – but that’s the most stupid term I’ve ever heard. If people don’t acknowledge that racism is still here, then we’re going to go backwards. And that’s why _Do the Right Thing_ resonates today: it uses open dialogue and conversation to bring these issues to the surface.  
-**Introducation by Ashley Clark, _Sight and Sound_, August 2014**  
+**Introduction by Ashley Clark, _Sight and Sound_, August 2014**  
 <br>
 **DO THE RIGHT THING**  
 _Director:_ Spike Lee  
@@ -113,8 +112,8 @@ USA 1989©
 120 mins  
 Digital 4K  
 <br>
+<br
 
-<br>
 **BIG SCREEN CLASSICS**  
 **The Draughtsman’s Contract**  
 Sun 1 Sep 18:40; Tue 10 Sep 20:30  
@@ -173,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjkyODI1OV19
+eyJoaXN0b3J5IjpbMTYxMjI3OTAzMl19
 -->
