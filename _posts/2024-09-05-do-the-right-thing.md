@@ -1,4 +1,14 @@
-
+---
+layout: post
+title:  Do the Right Thing
+published: true
+date: 2024-09-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1954, 114 mins<br> Director: Alfred Hitchcock'
+pdf: '2024-09-04-rear-window.pdf'
+---
 
 During the hottest day of the year, Mookie (Lee) travels around his predominantly black Brooklyn neighbourhood making deliveries for the local pizzeria run by Italian American Sal (Aiello). As the temperature rises, so do the simmering racial tensions in the community. Expertly crafted, exploding with his distinctive visual style and humour, Spike Lee’s cinematic sucker-punch is a landmark of American cinema that remains just as powerful and profoundly relevant as the day it debuted.  
 **Kimberley Sheehan, bfi.org.uk**  
@@ -24,7 +34,7 @@ I also remember leaving the cinema after those two closing quotes on the screen,
 **Destiny Ekaragha, director/writer**: I grew up on an estate in New Cross in London, but it didn’t feel like we were in the ‘ghetto’ – we were just a bunch of kids that would play out in the summer. For me, _Do the Right Thing_, which I first saw in the 90s in my early teens, captured exactly that feeling, with its colour and vibrant characters like Mister Señor Love Daddy in his budget radio station. One of my favourite lines ever is when he says, ‘Today’s weather is… HOT!’ He ain’t messing around with degrees Fahrenheit or anything like that.
 
 It remains so important because it touches on issues of race and class – and people’s perceptions of those things – like no other film before or after. It was the first film I saw which broke narrative and had people talking directly to camera. It was laying bare what different racial groups said about each other. It said: ‘Make no mistake, we are living amidst racism – it’s as thick as the humidity in the air.’ Today, there are people pretending that racism doesn’t exist, that we’re in a ‘post-racial’ era – but that’s the most stupid term I’ve ever heard. If people don’t acknowledge that racism is still here, then we’re going to go backwards. And that’s why _Do the Right Thing_ resonates today: it uses open dialogue and conversation to bring these issues to the surface.  
-**Ashley Clark, _Sight and Sound_, August 2014**  
+**Introducation by Ashley Clark, _Sight and Sound_, August 2014**  
 <br>
 **DO THE RIGHT THING**  
 _Director:_ Spike Lee  
@@ -38,15 +48,11 @@ _40 Acres Production Co-ordinator:_ Susan D. Fowler
 _Production Office Co-ordinator:_ Lillian Pyles  
 _Unit Manager:_ R.W. Dixon  
 _Location Manager:_ Brent Owens  
-_1st Assistant Director:_ Randy Fletcher 
-_2nd Assistant Director:_ Nandi Bowe
-
-_Script Supervisor:_ Joe Gonzalez
-
-_Casting:_ Robi Reed
-
-_Screenplay:_ Spike Lee
-
+_1st Assistant Director:_ Randy Fletcher  
+_2nd Assistant Director:_ Nandi Bowe  
+_Script Supervisor:_ Joe Gonzalez  
+_Casting:_ Robi Reed  
+_Screenplay:_ Spike Lee  
 _Director of Photography:_ Ernest Dickerson  
 _Camera Operator:_ John Newby  
 _Still Photography:_ David Lee  
@@ -106,6 +112,66 @@ Yattee Brown, Mecca Brunson, Shawn Stainback, Soquana Wallace _(Double Dutch gir
 USA 1989©  
 120 mins  
 Digital 4K  
+<br>
+
+<br>
+**BIG SCREEN CLASSICS**  
+**The Draughtsman’s Contract**  
+Sun 1 Sep 18:40; Tue 10 Sep 20:30  
+**The Piano**  
+Mon 2 Sep 18:10; Wed 4 Sep 18:00 + intro by Rosie Taylor, Curator, BFI National Archive; Sat 5 Oct 15:45  
+**Les Demoiselles de Rochefort** The Young Ladies of Rochefort  
+Tue 3 Sep 20:30; Sun 15 Sep 12:10; Wed 25 Sep 18:05  
+**Rear Window**  
+Wed 4 Sep 20:45; Sat 7 Sep 12:20; Mon 16 Sep 14:30; Thu 19 Sep 20:45; Wed 2 Oct 18:00 + intro by film and talks programmer & writer Nadia M. Oliva  
+**Do the Right Thing**  
+Thu 5 Sep 18:00; Fri 20 Sep 20:40  
+**12 Angry Men**  
+Fri 6 Sep 20:45; Sat 21 Sep 12:30; Sun 29 Sep 12:30  
+**Le Trou** The Hole  
+Sat 7 Sep 15:15; Mon 9 Sep 18:00; Sat 5 Oct 20:30  
+**Rio Bravo**  
+Sun 8 Sep 17:45; Sat 28 Sep 14:50  
+**UK Premiere of restoration: The Exterminating Angel** El angel exterminador  
+Tue 10 Sep 18:20; Wed 25 Sep 18:10 + intro; Tue 8 Oct 20:50  
+**The Miracle Worker**  
+Wed 11 Sep 18:10 + intro by Clare Baines, BFI Inclusion Partner and Founder, Crip Club; Mon 23 Sep 14:30; Fri 27 Sep 18:15; Tue 1 Oct 20:50  
+**Hunger**  
+Thu 12 Sep 20:30; Thu 26 Sep 20:40  
+**Black Narcissus**  
+Fri 13 Sep 14:30; Sun 22 Sep 11:45  
+**Barton Fink**  
+Sat 14 Sep 20:45; Thu 3 Oct 20:45  
+**King of the Hill**  
+Tue 17 Sep 20:45; Fri 4 Oct 18:10  
+**The Servant**  
+Wed 18 Sep 18:15 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Wed 25 Sep 20:45; Sun 6 Oct 12:30  
+**The Incredible Shrinking Man**  
+Tue 24 Sep 20:40; Mon 7 Oct 18:40  
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODU4MzAyNF19
+eyJoaXN0b3J5IjpbMjAyNjkyODI1OV19
 -->
