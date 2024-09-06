@@ -52,26 +52,21 @@ _Guitar_: Kevin Kuhn
 _Piano and Keyboard_: Matt Herskowitz  
 _Bass_: Jim Whitney  
 _Marimba and percussion_: John Ferrari  
-_Re-recording Mixers_: Aaron Glascock,  
-Christopher Aud  
+_Re-recording Mixers_: Aaron Glascock,  Christopher Aud  
 _Supervising Sound Editors_: Aaron Glascock, Christopher Aud  
-_Michael Character Likeness Based on_:  
-Christopher Wilkins  
+_Michael Character Likeness Based on_:  Christopher Wilkins  
 _Lisa Character Likeness Based on_: Leslie Murphy  
-_Original stage play produced by:  
-_St. Ann’s Warehouse at Royce Hall, UCLA
+_Original stage play produced by:_ St. Ann’s Warehouse at Royce Hall, UCLA
 
-_Voice Cast:_
-
+**Voice Cast**  
 Jennifer Jason Leigh _(Lisa Hesselman)_  
 Tom Noonan _(everyone else)_  
 David Thewlis _(Michael Stone)_
 
-USA 2015©
-
-90 mins
-
+USA 2015©  
+90 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjMxMzI5OV19
+eyJoaXN0b3J5IjpbMTY2NDk3Mzk3M119
 -->
