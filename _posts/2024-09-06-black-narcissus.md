@@ -201,33 +201,21 @@ Sabu _(Dilip Rai, the young general)_
 
 David Farrar _(Mr Dean)_
 
-Flora Robson _(Sister Philippa)_
+Flora Robson _(Sister Philippa)_  
+Esmond Knight _(the old general)_  
+Jean Simmons _(Kanchi)_  
+Kathleen Byron _(Sister Ruth)_  
+Jenny Laird _(Sister ‘Honey’ Blanche)_  
+Judith Furse _(Sister Briony)_  
+May Hallatt _(Angu Ayah)_  
+Eddie Whaley Jr _(Joseph Anthony)_  
+Shaun Noble _(Con)_  
+Nancy Roberts _(Mother Dorothea)_  
+On Ley _(Phuba)_  
 
-Esmond Knight _(the old general)_
-
-Jean Simmons _(Kanchi)_
-
-Kathleen Byron _(Sister Ruth)_
-
-Jenny Laird _(Sister ‘Honey’ Blanche)_
-
-Judith Furse _(Sister Briony)_
-
-May Hallatt _(Angu Ayah)_
-
-Eddie Whaley Jr _(Joseph Anthony)_
-
-Shaun Noble _(Con)_
-
-Nancy Roberts _(Mother Dorothea)_
-
-On Ley _(Phuba)_
-
-UK 1947©
-
-100 mins
-
+UK 1947©  
+100 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjczNjA3LC03NzU0MjA4OV19
+eyJoaXN0b3J5IjpbMTk2OTMyNTEyNywtNzc1NDIwODldfQ==
 -->
