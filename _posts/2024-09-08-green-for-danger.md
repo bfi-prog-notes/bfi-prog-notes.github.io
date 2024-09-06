@@ -20,171 +20,118 @@ Though the story has plenty of improbabilities when considered in cold blood, th
 <br><br>
 
 **GREEN FOR DANGER**<br>
-
 _Directed by:_ Sidney Gilliat<br>
-
 _J. Arthur Rank presents_<br>
-
 _An Individual Picture_<br>
-
-_R__eleased by:_ General Film Distributors<br>
-
+_Released by:_ General Film Distributors<br>
 _A Launder Gilliat Production_<br>
-
 _Production Manager:_ A.S. Bates<br>
-
 _Assistant Director:_ Percy Hermes<br>
-
 _The Screenplay by:_ Sidney Gilliat, Claud Gurney<br>
-
 _From the novel by:_ Christianna Brand<br>
-
 _Director of Photography:_ Wilkie Cooper<br>
-
 _Cameraman:_ Oswald Morris<br>
-
 _Editor:_ Thelma Myers<br>
-
 _Production Designer:_ Peter Proud<br>
-
 _The Music Composed by:_ William Alwyn<br>
-
-_The Music Played by:_  
-The London Symphony Orchestra<br>
-
+_The Music Played by:_  The London Symphony Orchestra<br>
 _Under the direction of:_ Muir Mathieson<br>
-
 _Sound Recordist:_ Eric Clennell<br>
-
 _Sound System:_ Western Electric<br>
-
 _Made at:_ D&P Studios<br>
-
 _Made at_: Pinewood Studios<br>
 
 _uncredited_<br>
-
 _Production Company:_ Independent Producers<br>
-
 _2nd Assistant Director:_ Christopher Noble<br>
-
 _3rd Assistant Director:_ Eric Braun<br>
-
 _4th Assistant Director:_ Lawrence G. Knight<br>
-
 _Continuity:_ Patricia Arnold<br>
-
 _Focus Puller:_ Frank Ellis<br>
-
 _Clapper Loaders:_ Revel King, Alan Perry<br>
-
 _Grips:_ A. Marks<br>
-
 _Stills:_ Arthur Evans<br>
-
 _Special Effects:_ Percy Ralphs<br>
-
 _Assistant Editor:_ Norah Walsh<br>
-
-_2nd Assistant Editors:_
-
-Kenneth Peck, Bill Lenny, David Withers<br>
-
+_2nd Assistant Editors:_ Kenneth Peck, Bill Lenny, David Withers<br>
 _Art Director:_ William Hutchinson<br>
-
 _Set Dresser:_ Vernon Dixon<br>
-
 _Draughtsman:_ John Hoesli<br>
-
 _Prop Master:_ Jack Crowhurst<br>
-
 _Construction:_ Harold Batchelor, Fred Kleeman<br>
-
 _Dress Supervisor:_ Michael Waite<br>
-
 _Costumes:_ Raemonde Rahvis, Dora Rahvis<br>
-
 _Wardrobe:_ Kathleen Moore<br>
+_Make-up:_ Stuart Freeborn<br>
+_Assistant Make-up:_ Eric Carter<br>
+_2nd Assistant Make-up:_ Sylvia Croft<br>
+_Hairstyles:_ Betty Baugh, Biddy Chrystal<br>
+_Assistant Hairstylist:_ Kathleen Smith<br>
+_Music Recordist:_ Ted Drake<br>
+_Chief Production Mixer:_ John Dennis<br>
+_Sound Recordist:_ Alan Hogban<br>
+_Sound Camera Operator:_ Harry Raynham<br>
+_Boom Operator:_ Jack Locke<br>
+_Assistant Boom:_ P.J. Craig<br>
 
-_Make-up:_ Stuart Freeborn
+_Dubbing Crew:_ Gordon K. McCallum, J.B. Smith<br>
 
-_Assistant Make-up:_ Eric Carter
+Charles Knott, Bill Daniels, H. Clarke<br>
 
-_2nd Assistant Make-up:_ Sylvia Croft
+_Dubbing Editor:_ John Seabourne Jr<br>
 
-_Hairstyles:_ Betty Baugh, Biddy Chrystal
+_Cast:_<br>
 
-_Assistant Hairstylist:_ Kathleen Smith
+_the hospital staff – the doctors_<br>
 
-_Music Recordist:_ Ted Drake
+Leo Genn _(Mr Eden)_<br>
 
-_Chief Production Mixer:_ John Dennis
+Henry Edwards _(Mr Purdy)_<br>
 
-_Sound Recordist:_ Alan Hogban
+Trevor Howard _(Dr ‘Barney’ Barnes)_<br>
 
-_Sound Camera Operator:_ Harry Raynham
+Ronald Adam _(Dr White)_<br>
 
-_Boom Operator:_ Jack Locke
+_the hospital staff – the nurses_<br>
 
-_Assistant Boom:_ P.J. Craig
+Judy Campbell _(Sister Marion Bates)_<br>
 
-_Dubbing Crew:_ Gordon K. McCallum, J.B. Smith
+Wendy Thompson _(Sister Carter)_<br>
 
-Charles Knott, Bill Daniels, H. Clarke
+Rosamund John _(Nurse Esther Sanson)_<br>
 
-_Dubbing Editor:_ John Seabourne Jr
+Sally Gray _(Nurse Freddi Linley)_<br>
 
-_Cast:_
+Megs Jenkins _(Nurse Woods)_<br>
 
-_the hospital staff – the doctors_
+John Rae _(the porter)_<br>
 
-Leo Genn _(Mr Eden)_
+_the patients_<br>
 
-Henry Edwards _(Mr Purdy)_
+Moore Marriott _(Joseph Higgins, the postman)_<br>
 
-Trevor Howard _(Dr ‘Barney’ Barnes)_
+Frank Ling _(rescue worker)_<br>
 
-Ronald Adam _(Dr White)_
+_the police_<br>
 
-_the hospital staff – the nurses_
+Alastair Sim _(Inspector Cockrill)_<br>
 
-Judy Campbell _(Sister Marion Bates)_
+George Woodbridge _(Detective Sergeant Hendricks)_<br>
 
-Wendy Thompson _(Sister Carter)_
+_uncredited_<br>
 
-Rosamund John _(Nurse Esther Sanson)_
+Hattie Jacques<br>
 
-Sally Gray _(Nurse Freddi Linley)_
+Elizabeth Sydney<br>
 
-Megs Jenkins _(Nurse Woods)_
+UK 1946<br>
 
-John Rae _(the porter)_
-
-_the patients_
-
-Moore Marriott _(Joseph Higgins, the postman)_
-
-Frank Ling _(rescue worker)_
-
-_the police_
-
-Alastair Sim _(Inspector Cockrill)_
-
-George Woodbridge _(Detective Sergeant Hendricks)_
-
-_uncredited_
-
-Hattie Jacques
-
-Elizabeth Sydney
-
-UK 1946
-
-91 mins
+91 mins<br>
 
 35mm
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjQ3MzQ2Nl19
+eyJoaXN0b3J5IjpbLTkyMjUxMjcxNl19
 -->
