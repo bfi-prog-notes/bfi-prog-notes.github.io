@@ -49,86 +49,42 @@ This is the film’s radical draw. It explains why, on the whole, it has aged in
 After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.  
 **Adam Scovell, bfi.org.uk, May 2017**  
 <br>
-**BLACK NARCISSUS**
-
-_Directed by:_ Michael Powell, Emeric Pressburger
-
-©_:_ Independent Producers
-
-_Production Company:_ Archers Film Productions
-
-_Produced by:_ Michael Powell,  
-Emeric Pressburger
-
-_Assistant Producer:_ George R. Busby
-
-_Assistant Director:_ Sydney S. Streeter
-
-_Written by:_ Michael Powell, Emeric Pressburger
-
-_Adapted from the novel by:_ Rumer Godden
-
-_Photographed in Technicolor by:_ Jack Cardiff
-
-_Colour Control:_ Natalie Kalmus
-
-_Associate:_ Joan Bridge
-
-_Process Shots:_ W. Percy Day
-
-_Editor:_ Reginald Mills
-
-_Production Designed by:_ Alfred Junge
-
-_Assistant Art Director:_ Arthur Lawson
-
-_Costumes:_ Hein Heckroth
-
-_Music/Sound Score Composed/Conducted by:_
-
-Brian Easdale
-
-_With:_ The London Symphony Orchestra
-
-_Sound:_ Stanley Lambourne
-
-_Dubbing Mixer:_ Gordon K. McCallum
-
-_Studios:_ Pinewood Studios,  D&P Studios
-
-  
-
-_uncredited_
-
-_2nd Assistant Director:_ Kenneth Rick
-
-_3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn
-
-_Continuity:_ Winifred Dyer
-
-_Assistant Continuity:_ Joanna Busby
-
-_Casting Director:_ Adele Raymond
-
-_Assistant Casting:_ Patrick MacDonnell
-
-_Crowd Casting:_ Jerry Dereham, Bill Hahn
-
-_Camera Operators:_ Christopher Challis,
-
-Ted Scaife, Stan Sayers
-
-_Focus Pullers:_ Ian Craig, Ronald Cross
-
-_Clapper Loaders:_ Herbert Salisbury,  
-Michael Livesey
-
-_Technicolor Camera Assistant:_ Dick Allport
-
-_Lighting Electrician:_ Bill Wall
-
-_Chief Electrician:_ Harry Black
-
+**BLACK NARCISSUS**  
+_Directed by:_ Michael Powell, Emeric Pressburger  
+_©_: Independent Producers  
+_Production Company:_ Archers Film Productions  
+_Produced by:_ Michael Powell, Emeric Pressburger  
+_Assistant Producer:_ George R. Busby  
+_Assistant Director:_ Sydney S. Streeter  
+_Written by:_ Michael Powell, Emeric Pressburger  
+_Adapted from the novel by:_ Rumer Godden  
+_Photographed in Technicolor by:_ Jack Cardiff  
+_Colour Control:_ Natalie Kalmus  
+_Associate:_ Joan Bridge  
+_Process Shots:_ W. Percy Day  
+_Editor:_ Reginald Mills  
+_Production Designed by:_ Alfred Junge  
+_Assistant Art Director:_ Arthur Lawson  
+_Costumes:_ Hein Heckroth  
+_Music/Sound Score Composed/Conducted by:_ Brian Easdale  
+_With:_ The London Symphony Orchestra  
+_Sound:_ Stanley Lambourne  
+_Dubbing Mixer:_ Gordon K. McCallum  
+_Studios:_ Pinewood Studios,  D&P Studios  
+_uncredited_  
+_2nd Assistant Director:_ Kenneth Rick  
+_3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn  
+_Continuity:_ Winifred Dyer  
+_Assistant Continuity:_ Joanna Busby  
+_Casting Director:_ Adele Raymond  
+_Assistant Casting:_ Patrick MacDonnell  
+_Crowd Casting:_ Jerry Dereham, Bill Hahn  
+_Camera Operators:_ Christopher Challis, Ted Scaife, Stan Sayers  
+_Focus Pullers:_ Ian Craig, Ronald Cross  
+_Clapper Loaders:_ Herbert Salisbury, Michael Livesey  
+_Technicolor Camera Assistant:_ Dick Allport  
+_Lighting Electrician:_ Bill Wall  
+_Chief Electrician:_ Harry Black  
 _Colour_ _Stills:_ George Cannon  
 _Monochrome Stills:_ Max Rosher  
 _Portrait Stills:_ Fred Daniels  
@@ -179,5 +135,5 @@ UK 1947©
 100 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyNDAxOTMsLTc3NTQyMDg5XX0=
+eyJoaXN0b3J5IjpbLTE4NDM1MjM0MTcsLTc3NTQyMDg5XX0=
 -->
