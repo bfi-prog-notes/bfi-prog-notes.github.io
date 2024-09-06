@@ -35,44 +35,30 @@ Each kind of film has its own constraints and difficulties. With epics, you’ve
 <br><br>
 
 **SONG OF THE EXILE (HAAK TOU CHAU HAN)**<br>
-
 _Director_: Ann Hui  
 _Production Companies_: Cos Films Company, Central Motion Picture Corporation  
 _Producer_: Janey Chiu<br>
+_Production Manager:_ Jessinta Liu<br>
+_Screenplay:_ Wu Nien-jen<br>
+_Director of Photography:_ David Chung<br>
+_Editor:_ Wong Yee-shun<br>
+_Art Director:_ Kenneth Yee<br>
+_Costume Designer:_ Shirley Chan<br>
+_Music:_ Chen Yang<br>
 
-_Production Manager:_ Jessinta Liu
-
-_Screenplay:_ Wu Nien-jen
-
-_Director of Photography:_ David Chung
-
-_Editor:_ Wong Yee-shun
-
-_Art Director:_ Kenneth Yee
-
-_Costume Designer:_ Shirley Chan
-
-_Music:_ Chen Yang
-
-_Cast:_
-
+**Cast**<br>
 Lu Hsiao-fen _(Aiko)_  
 Maggie Cheung _(Hueyin)_  
-Waise Lee _(Hueyin’s father)_
+Waise Lee _(Hueyin’s father)_<br>
+Tien Feng _(Hueyin’s grandfather)_<br>
+Yeung Ting-yan _(young Hueyin)_<br>
+Hsiao Hsiang _(grandmother)_<br>
+Kaji Kentaro _(Hueyin’s uncle)_<br>
 
-Tien Feng _(Hueyin’s grandfather)_
-
-Yeung Ting-yan _(young Hueyin)_
-
-Hsiao Hsiang _(grandmother)_
-
-Kaji Kentaro _(Hueyin’s uncle)_
-
-Hong Kong-Taiwan 1990
-
-100 mins
-
-35mm
+Hong Kong-Taiwan 1990<br>
+100 mins<br>
+35mm<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzM2MzU5NSwxODk4MTEwNTc4XX0=
+eyJoaXN0b3J5IjpbLTEwMDA3ODE5NTMsMTg5ODExMDU3OF19
 -->
