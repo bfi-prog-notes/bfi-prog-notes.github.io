@@ -129,78 +129,40 @@ _Lighting Electrician:_ Bill Wall
 
 _Chief Electrician:_ Harry Black
 
-_Colour_ _Stills:_ George Cannon
+_Colour_ _Stills:_ George Cannon  
+_Monochrome Stills:_ Max Rosher  
+_Portrait Stills:_ Fred Daniels  
+_Matte Artist:_ Peter Ellenshaw  
+_Special Effects Camera:_ Douglas Hague  
+_Foreground Miniatures:_ Jack Higgins  
+_Synthetic Pictorial Effects:_ Syd Pearson  
+_1st Assistant Editor:_ Seymour Logie  
+_2nd Assistant Editors:_ Lee Doig, Noreen Ackland  
+_Set Dresser:_ M.A.S. Pemberton  
+_Scenic Artist:_ Ivor Beddoes  
+_Art Department Trainee:_ R. Townsend  
+_Indian Set Dresser:_ E. Harvison  
+_Draughtsmen:_ Elliot Scott, Don Picton, William Kellner, J. Harman, G. Beattie, Alan Harris  
+_Chief Construction Manager:_ Harold Batchelor  
+_Dress Supervisor:_ Elizabeth Hennings  
+_Wardrobe Mistress:_ Dorothy Edwards  
+_Wardrobe Master:_ Bob Raynor  
+_Make-up:_ George Blackler  
+_Assistant Make-up:_ Ernie Gasser  
+_Hairdresser:_ Biddy Chrystal  
+_Assistant Hairdresser:_ June Robinson  
+_Music Recording:_ Ted Drake  
+_Chief Production Mixer:_ John Dennis  
+_Boom Operator:_ George Paternoster 
+_Boom Assistant:_ Mick Stolovich  
+_Dubbing Editor:_ John Seabourne Jr  
+_Indian Liaison Officer:_ Kenneth Perry  
+_Horticultural Consultant:_ Giles Loder  
 
-_Monochrome Stills:_ Max Rosher
-
-_Portrait Stills:_ Fred Daniels
-
-_Matte Artist:_ Peter Ellenshaw
-
-_Special Effects Camera:_ Douglas Hague
-
-_Foreground Miniatures:_ Jack Higgins
-
-_Synthetic Pictorial Effects:_ Syd Pearson
-
-_1st Assistant Editor:_ Seymour Logie
-
-_2nd Assistant Editors:_ Lee Doig,  
-Noreen Ackland
-
-_Set Dresser:_ M.A.S. Pemberton
-
-_Scenic Artist:_ Ivor Beddoes
-
-_Art Department Trainee:_ R. Townsend
-
-_Indian Set Dresser:_ E. Harvison
-
-_Draughtsmen:_ Elliot Scott, Don Picton,
-
-William Kellner, J. Harman, G. Beattie,  
-Alan Harris
-
-_Chief Construction Manager:_ Harold Batchelor
-
-_Dress Supervisor:_ Elizabeth Hennings
-
-_Wardrobe Mistress:_ Dorothy Edwards
-
-_Wardrobe Master:_ Bob Raynor
-
-_Make-up:_ George Blackler
-
-_Assistant Make-up:_ Ernie Gasser
-
-_Hairdresser:_ Biddy Chrystal
-
-_Assistant Hairdresser:_ June Robinson
-
-_Music Recording:_ Ted Drake
-
-_Chief Production Mixer:_ John Dennis
-
-_Boom Operator:_ George Paternoster
-
-_Boom Assistant:_ Mick Stolovich
-
-_Dubbing Editor:_ John Seabourne Jr
-
-_Indian Liaison Officer:_ Kenneth Perry
-
-_Horticultural Consultant:_ Giles Loder
-
-  
-
-_Cast:_
-
-Deborah Kerr _(Sister Clodagh)_
-
-Sabu _(Dilip Rai, the young general)_
-
-David Farrar _(Mr Dean)_
-
+**Cast**  
+Deborah Kerr _(Sister Clodagh)_  
+Sabu _(Dilip Rai, the young general)_  
+David Farrar _(Mr Dean)_  
 Flora Robson _(Sister Philippa)_  
 Esmond Knight _(the old general)_  
 Jean Simmons _(Kanchi)_  
@@ -217,5 +179,5 @@ UK 1947©
 100 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTMyNTEyNywtNzc1NDIwODldfQ==
+eyJoaXN0b3J5IjpbLTE0MTkyNDAxOTMsLTc3NTQyMDg5XX0=
 -->
