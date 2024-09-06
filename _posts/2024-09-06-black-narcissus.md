@@ -48,6 +48,7 @@ This is the film’s radical draw. It explains why, on the whole, it has aged in
 
 After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.  
 **Adam Scovell, bfi.org.uk, May 2017**  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTQyMDg5XX0=
+eyJoaXN0b3J5IjpbNTMwMDgyMjEzLC03NzU0MjA4OV19
 -->
