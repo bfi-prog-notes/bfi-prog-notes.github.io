@@ -1,3 +1,14 @@
+---
+layout: post
+title: Song of the Exile
+published: true
+date: 2024-09-07
+readtime: true
+categories: ['MAGGIE CHEUNG<br>FILMS OF ROMANCE, MELANCHOLY AND MAGIC']
+tags: [Drama]
+metadata: 'Hong Kong-Taiwan 1990, 100 mins<br> Director: Ann Hui'
+pdf: '2024-09-07-song-of-the-exile.pdf'
+---
 
 In her semi-autobiographical film, Ann Hui casts Cheung as Hueyin, an aspiring journalist living in London who is called back to Hong Kong to attend her sister’s wedding. Reunited with her family, Hueyin struggles to connect with her mother, who has her own painful experiences of immigration. Cheung’s subtle but heartrending performance perfectly expresses her character’s complex inner journey as she attempts to understand and forgive her parents.  
 **bfi.org.uk**
@@ -59,6 +70,65 @@ Hong Kong-Taiwan 1990<br>
 100 mins<br>
 35mm<br>
 <br>
+
+**MAGGIE CHEUNG: FILMS OF ROMANCE, MELANCHOLY AND MAGIC**<br>
+**As Tears Go By** Wong Gok kaa moon<br>
+Sun 1 Sep 12:00; Sat 28 Sep 20:30; Sat 5 Oct 12:30<br>
+**Days of Being Wild** Ah Fei ching chuen<br>
+Mon 2 Sep 20:50; Fri 27 Sep 18:20; Mon 7 Oct 20:50<br>
+**In the Mood for Maggie**<br>
+Tue 3 Sep 18:15<br>
+**A Fishy Story** Bat tuet maat dik yan<br>
+Tue 3 Sep 20:35; Sun 22 Sep 18:10<br>
+**Song of the Exile** Haak tou chau han<br>
+Sat 7 Sep 20:50; Sun 29 Sep 12:40<br>
+**Irma Vep**<br>
+Mon 9 Sep 20:30; Wed 18 Sep 20:50; Sat 5 Oct 20:50<br>
+**Farewell China** Oi joi bit heung dik gwai jit<br>
+Wed 11 Sep 20:45; Mon 23 Sep 18:00<br>
+**Green Snake** Ching se<br>
+Thu 12 Sep 20:45; Sat 28 Sep 18:20<br>
+**The Heroic Trio** Dung fong saam hap<br>
+Sat 14 Sep 18:35; Fri 4 Oct 20:50<br>
+**The Actress (aka Center Stage)** Ruan Ling-Yu<br>
+Sun 15 Sep 18:00; Sat 21 Sep 20:10<br>
+**In the Mood for Love** Fa yeung nin wah<br>
+Thu 19 Sep 18:10 + intro and discussion; Tue 8 Oct 18:30; Fri 27 Sep 20:45; Sat 5 Oct 18:15<br>
+**Comrades: Almost a Love Story** Tian Mi Mi<br>
+Sat 21 Sep 17:30; Mon 30 Sep 20:35<br>
+**Hero** Ying xiong<br>
+Mon 23 Sep 20:30; Sun 6 Oct 18:00<br>
+**Clean**<br>
+Thu 3 Oct 18:00; Tue 8 Oct 20:45<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwMDA3ODE5NTMsMTg5ODExMDU3OF19
 -->
