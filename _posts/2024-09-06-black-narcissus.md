@@ -6,8 +6,8 @@ date: 2024-09-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Melodrama]
-metadata: 'U 1954, 114 mins<br> Director: Alfred Hitchcock'
-pdf: '2024-09-04-rear-window.pdf'
+metadata: 'UK 1947, 100 mins<br> Directors: Michael Powell, Emeric Pressburger'
+pdf: '2024-09-06-black-narcissus.pdf'
 ---
 
 Powell and Pressburger’s delirious melodrama is one of the most erotic films ever to emerge from British cinema, let alone in the repressed 1940s – it was released just two years after David Lean’s _Brief Encounter_ (1945), with its more typically ‘British’ story of desire denied.
@@ -49,5 +49,5 @@ This is the film’s radical draw. It explains why, on the whole, it has aged in
 After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.  
 **Adam Scovell, bfi.org.uk, May 2017**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQxNzU2NV19
+eyJoaXN0b3J5IjpbLTc3NTQyMDg5XX0=
 -->
