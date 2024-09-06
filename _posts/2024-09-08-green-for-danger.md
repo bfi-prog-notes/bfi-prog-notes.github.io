@@ -73,65 +73,42 @@ _Sound Recordist:_ Alan Hogban<br>
 _Sound Camera Operator:_ Harry Raynham<br>
 _Boom Operator:_ Jack Locke<br>
 _Assistant Boom:_ P.J. Craig<br>
-
-_Dubbing Crew:_ Gordon K. McCallum, J.B. Smith<br>
-
-Charles Knott, Bill Daniels, H. Clarke<br>
-
+_Dubbing Crew:_ Gordon K. McCallum, J.B. Smith, Charles Knott, Bill Daniels, H. Clarke<br>
 _Dubbing Editor:_ John Seabourne Jr<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 _the hospital staff – the doctors_<br>
-
 Leo Genn _(Mr Eden)_<br>
-
 Henry Edwards _(Mr Purdy)_<br>
-
 Trevor Howard _(Dr ‘Barney’ Barnes)_<br>
-
 Ronald Adam _(Dr White)_<br>
 
 _the hospital staff – the nurses_<br>
-
 Judy Campbell _(Sister Marion Bates)_<br>
-
 Wendy Thompson _(Sister Carter)_<br>
-
 Rosamund John _(Nurse Esther Sanson)_<br>
-
 Sally Gray _(Nurse Freddi Linley)_<br>
-
 Megs Jenkins _(Nurse Woods)_<br>
-
 John Rae _(the porter)_<br>
 
 _the patients_<br>
-
 Moore Marriott _(Joseph Higgins, the postman)_<br>
-
 Frank Ling _(rescue worker)_<br>
 
 _the police_<br>
-
 Alastair Sim _(Inspector Cockrill)_<br>
-
 George Woodbridge _(Detective Sergeant Hendricks)_<br>
 
 _uncredited_<br>
-
 Hattie Jacques<br>
-
 Elizabeth Sydney<br>
 
 UK 1946<br>
-
 91 mins<br>
-
 35mm
 
 A BFI National Archive print<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjUxMjcxNl19
+eyJoaXN0b3J5IjpbOTg5ODQyNDQ2XX0=
 -->
