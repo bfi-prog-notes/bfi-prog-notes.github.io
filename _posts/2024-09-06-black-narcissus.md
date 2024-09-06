@@ -10,16 +10,14 @@ David Farrar took the role of the agent, Dean, full of macho swagger, and the ca
 
 In its depiction of young women torn between duty and passion, _Black Narcissus_ has common elements with the Archers’ next film _The Red Shoes_ (1948), while its evocation of the mystical power of landscape and geography positions it in a line of Powell’s work which includes _The Edge of the World_ (1937), _‘I Know Where I’m Going!’_ (1944) and _A Canterbury Tale_ (1945).
 
-With the help of designer Alfred Junge and cinematographer Jack Cardiff – both rewarded with Oscars – Powell convincingly created a Himalayan convent on a Pinewood soundstage, lending the proceedings a tense, claustrophobic atmosphere. An oppressive jungle scene was filmed in a Sussex tropical garden.
-
-Mark Duguid, BFI Screenonline, screenonline.org.uk
+With the help of designer Alfred Junge and cinematographer Jack Cardiff – both rewarded with Oscars – Powell convincingly created a Himalayan convent on a Pinewood soundstage, lending the proceedings a tense, claustrophobic atmosphere. An oppressive jungle scene was filmed in a Sussex tropical garden.  
+**Mark Duguid, BFI Screenonline, screenonline.org.uk**  
 
 Legendary writer-producer-directors Michael Powell and Emeric Pressburger created a range of fantastical cinematic worlds, full of beauty and strangeness. In these worlds, the ambitions of dancers turn shoes into magical possessions, crashed RAF pilots become ghosts fighting for their right to return to life, and simple journeys and pilgrimages face the invisible forces of folklore and the unique atmosphere of places.
 
 With this in mind, watching their one-of-a-kind drama _Black Narcissus_, which was released in cinemas on 26 May 1947, raises some intriguing questions about the outlook of Britain in its period of production. Here, the world outside of Europe is treated, through a perceived exoticism, with a surreal otherness. This sits alongside a radical questioning of female sexual desire and repression, which unleashes a level of eroticism that’s surprising for 1940s British cinema.
 
-_Black Narcissus_ charts the opening of a convent of nuns in the Himalayan mountains, following the enigmatic Sister Clodagh (Deborah Kerr) in particular. However, the pressure and isolation of the nuns’ location leads to the convent’s inevitable downfall, with one sister in particular, Sister Ruth (Kathleen Byron), becoming literally possessed by her lust for a local Englishman, Mr Dean  
-(David Farrar).
+_Black Narcissus_ charts the opening of a convent of nuns in the Himalayan mountains, following the enigmatic Sister Clodagh (Deborah Kerr) in particular. However, the pressure and isolation of the nuns’ location leads to the convent’s inevitable downfall, with one sister in particular, Sister Ruth (Kathleen Byron), becoming literally possessed by her lust for a local Englishman, Mr Dean (David Farrar).
 
 Amid this pressurised drama, Powell and Pressburger’s film also follows many tangential narratives, dealing with cultural differences, blossoming smaller romances and the almost sentient presence of the landscape. This last element makes for an interesting starting point for detailing the film’s main crux: how the exoticism of its location pushes the characters into their inner selves, but also how such landscapes – emphasised and exaggerated – can tell so much about the British psyche.
 
@@ -38,9 +36,8 @@ So how does _Black Narcissus_ sit within this trend? It could be argued that Pow
 
 This is the film’s radical draw. It explains why, on the whole, it has aged incredibly well. Unlike other films in this guise or genre, this story of interlopers arriving to ‘better’ the locals is overtly aware of the fallacy in such a journey. For the sisters of _Black Narcissus_ know deep down that, in spite of their own good will in the long journey and fight to stay in the Himalayas, it is a foolish gesture.
 
-After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.
-
-Adam Scovell, bfi.org.uk, May 2017
+After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.  
+**Adam Scovell, bfi.org.uk, May 2017**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc3MDY5ODddfQ==
+eyJoaXN0b3J5IjpbLTE2NDYzMjAzOTNdfQ==
 -->
