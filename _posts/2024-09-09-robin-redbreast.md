@@ -6,7 +6,7 @@ date: 2024-09-04
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Fantasy]
-metadata: 'Czech Republic/UK/Japan 2000, 131 mins<br> Director: James MacTaggart'
+metadata: 'UK/Jap, 76 mins<br> Director: James MacTaggart'
 pdf: '2024-09-09-robin-redbreast.pdf'
 ---
 
@@ -109,5 +109,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjMzODI3OF19
+eyJoaXN0b3J5IjpbNTUzMTYwMDA1LC00ODIzMzgyNzhdfQ==
 -->
