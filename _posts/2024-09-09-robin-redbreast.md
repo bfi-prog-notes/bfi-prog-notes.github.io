@@ -5,18 +5,15 @@ published: true
 date: 2024-09-04
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
-tags: [Fantasy]
-metadata: 'UK/Jap, 76 mins<br> Director: James MacTaggart'
+tags: [Horror]
+metadata: 'UK 1970, 76 mins<br> Director: James MacTaggart'
 pdf: '2024-09-09-robin-redbreast.pdf'
 ---
 
-After being dumped by her partner, Norah moves to the countryside and falls for a local gamekeeper, with dire consequences. This is a perfect case study of the city-slicker moving to the country and finding themselves trapped in the ways of old. For me, Mr Fisher has always been one of the greatest villains, and a character that influenced the pagans in Starve Acre; it’s the way he behaves without glee – his despicable acts carried out with the banal behaviour of someone milking cows.
+After being dumped by her partner, Norah moves to the countryside and falls for a local gamekeeper, with dire consequences. This is a perfect case study of the city-slicker moving to the country and finding themselves trapped in the ways of old. For me, Mr Fisher has always been one of the greatest villains, and a character that influenced the pagans in _Starve Acre_; it’s the way he behaves without glee – his despicable acts carried out with the banal behaviour of someone milking cows.  
+**bfi.org.uk**  
 
-bfi.org.uk
-
-On 10 December 1970, with _Blood on Satan’s Claw_ completed but not yet released and a full two years before _The Wicker Man_ would start production, the BBC’s _Play for Today_ strand broadcast one of the most pure distillations of ‘folk horror’ ever seen, the chilling _Robin Redbreast_ written by John Bowen. Born in Calcutta, India in 1924 Bowen was a hugely prolific writer but he remains one of British television’s least acknowledged writers of horror and fantasy fiction. During the 1960s and 70s he was responsible for _Play of the Week: The Corsican Brothers_ (1965) and _Mystery and Imagination: The Flying Dragon_ (1965) and later as well as creating the science fiction series  
-_The Guardians_ (1971) he would write _Dead of Night: A Woman Sobbing_ (1972), _The Ghost Story for Christmas_ episodes _The Treasure of Abbot Thomas_ (1974) and _The Ice House_ (1978) and another piece of ‘folk horror’ in _Play for Today: A Photograph_ (1977). Good though some of those undoubtedly are  
-(_The Treasure of Abbot Thomas_ in particular), _Robin Redbreast_ remains his masterpiece.
+On 10 December 1970, with _Blood on Satan’s Claw_ completed but not yet released and a full two years before _The Wicker Man_ would start production, the BBC’s _Play for Today_ strand broadcast one of the most pure distillations of ‘folk horror’ ever seen, the chilling _Robin Redbreast_ written by John Bowen. Born in Calcutta, India in 1924 Bowen was a hugely prolific writer but he remains one of British television’s least acknowledged writers of horror and fantasy fiction. During the 1960s and 70s he was responsible for _Play of the Week: The Corsican Brothers_ (1965) and _Mystery and Imagination: The Flying Dragon_ (1965) and later as well as creating the science fiction series _The Guardians_ (1971) he would write _Dead of Night: A Woman Sobbing_ (1972), _The Ghost Story for Christmas_ episodes _The Treasure of Abbot Thomas_ (1974) and _The Ice House_ (1978) and another piece of ‘folk horror’ in _Play for Today: A Photograph_ (1977). Good though some of those undoubtedly are (_The Treasure of Abbot Thomas_ in particular), _Robin Redbreast_ remains his masterpiece.
 
 Directed by James MacTaggart, _Robin Redbreast_ stars Anna Cropper as BBC script editor Norah Palmer (entirely coincidentally, the name now can’t help but remind us of Laura Palmer from _Twin Peaks_) who decides to sell up and move to a house in a small village in the south of England. There she meets many of the eccentric locals and begins a relationship with Rob (Anthony Bradford), a very strange young man who practices martial arts in his underpants in the woods. She soon becomes pregnant and, after a last-minute change of heart, cancels her planned abortion to return to the village where it becomes clear that she’s been the pawn in a strange conspiracy and begins to fear for her life and that of her unborn child.
 
@@ -109,5 +106,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMTYwMDA1LC00ODIzMzgyNzhdfQ==
+eyJoaXN0b3J5IjpbLTE2NTU4OTM0MDIsLTQ4MjMzODI3OF19
 -->
