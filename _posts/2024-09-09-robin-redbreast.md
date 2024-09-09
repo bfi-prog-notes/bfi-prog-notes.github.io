@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title:  Robin Redbreast
+published: true
+date: 2024-09-04
+readtime: true
+categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
+tags: [Fantasy]
+metadata: 'Czech Republic/UK/Japan 2000, 131 mins<br> Director: James MacTaggart'
+pdf: '2024-09-09-robin-redbreast.pdf'
+---
 
 After being dumped by her partner, Norah moves to the countryside and falls for a local gamekeeper, with dire consequences. This is a perfect case study of the city-slicker moving to the country and finding themselves trapped in the ways of old. For me, Mr Fisher has always been one of the greatest villains, and a character that influenced the pagans in Starve Acre; it’s the way he behaves without glee – his despicable acts carried out with the banal behaviour of someone milking cows.
 
@@ -100,5 +109,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MTU2MjFdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjMzODI3OF19
 -->
