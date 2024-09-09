@@ -1,4 +1,14 @@
-
+---
+layout: post
+title:  Nightsleeper
+published: true
+date: 2024-09-09
+readtime: true
+categories: ['TV PREVIEW']
+tags: [Thriller]
+metadata: 'UK 2024, 60 mins<br> Director: Jamie Magnus Stone'
+pdf: '2024-09-09-rio-bravo.pdf'
+---
 
 _+ Q&A with actors Alexandra Roach and Joe Cole, writer Nick Leather and executive producer Kate Harwood_
 
@@ -90,5 +100,6 @@ Digital
 
 Total running time 110 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU2MTgyMjksMTI5OTUxMTQ0XX0=
+eyJoaXN0b3J5IjpbMTY5MDI5MDM0OSwtMTM4NTYxODIyOSwxMj
+k5NTExNDRdfQ==
 -->
