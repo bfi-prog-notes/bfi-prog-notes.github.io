@@ -40,76 +40,41 @@ In March 2014, it was announced that Harwood was to leave the BBC to take up a p
 
 **Boyd Hilton (host)** is a journalist, author, TV critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man About Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events, panels and Q&As for BAFTA, the RTS and the BFI, ITV, BBC, Sky and many others.
 <br>
-**NIGHTSLEEPER**
+**NIGHTSLEEPER**  
+_Director:_ Jamie Magnus Stone  
+_©:_ BBC/Euston Films  
+_Production Company:_ Euston Films  
+_Executive Producers:_ Kate Harwood, Nick Leather, Jamie Magnus Stone  
+_Producer:_ Jonathan Curling  
+_Writers:_ Laura Grace, Nick Leather  
+_Cinematographer:_ Arthur Mulhern  
+_Editors:_ Pd Hardy, Liana Del Giudice, Stephen O’Connell  
+_Production Designer:_ Tom Sayer  
+_Composer:_ Tommy Reilly  
 
-_Director:_ Jamie Magnus Stone
-
-_©:_ BBC/Euston Films
-
-_Production Company:_ Euston Films
-
-_Executive Producers:_ Kate Harwood, Nick Leather, Jamie Magnus Stone
-
-_Producer:_ Jonathan Curling
-
-_Writers:_ Laura Grace, Nick Leather
-
-_Cinematographer:_ Arthur Mulhern
-
-_Editors:_ Pd Hardy, Liana Del Giudice,
-
-Stephen O’Connell
-
-_Production Designer:_ Tom Sayer
-
-_Composer:_ Tommy Reilly
-
-_Cast:_
-
-Joe Cole _(Joe Roag)_
-
-Alexandra Roach _(Abby Aysgarth)_
-
-Kim Chapman _(Lindsey Ellis)_
-
-Adam Mitchell _(Max ‘Mouse’ Ellis)_
-
-James Cosmo _(Fraser Warren)_
-
-Katie Leung _(Rachel Li)_
-
-Sharon Small _(Liz Draycott)_
-
-Alex Ferns _(Aaron Moy  )_
-
-Sharon Rooney _(Yas Brown)_
-
-Parth Thakerar _(Saj Sidhu)_
-
-Gabriel Howell _(Tobi McKnight)_
-
-Ruth Madeley _(Chrissy Doolan)_
-
-Scott Reid _(Billy McCloud)_
-
-Lois Chimimba _(Erin Connolly)_
-
-Naomi Yang _(Kate Nisbit)_
-
-Daniel Cahill _(Danny Geoghan)_
-
-Remy Beasley _(Meg Hooton)_
-
-Pamela Nomvete _(Nicola Miller)_
-
-Leah MacRae _(Sophie Warren)_
-
-Gavin Mitchell _(Andy Maver)_
-
-James McAnerney _(Kyle Warren)_
-
-John Scougall _(British Transport Police officer)_
-
+**Cast**  
+Joe Cole _(Joe Roag)_  
+Alexandra Roach _(Abby Aysgarth)_  
+Kim Chapman _(Lindsey Ellis)_  
+Adam Mitchell _(Max ‘Mouse’ Ellis)_  
+James Cosmo _(Fraser Warren)_  
+Katie Leung _(Rachel Li)_  
+Sharon Small _(Liz Draycott)_  
+Alex Ferns _(Aaron Moy  )_  
+Sharon Rooney _(Yas Brown)_  
+Parth Thakerar _(Saj Sidhu)_  
+Gabriel Howell _(Tobi McKnight)_  
+Ruth Madeley _(Chrissy Doolan)_  
+Scott Reid _(Billy McCloud)_  
+Lois Chimimba _(Erin Connolly)_  
+Naomi Yang _(Kate Nisbit)_  
+Daniel Cahill _(Danny Geoghan)_  
+Remy Beasley _(Meg Hooton)_  
+Pamela Nomvete _(Nicola Miller)_  
+Leah MacRae _(Sophie Warren)_  
+Gavin Mitchell _(Andy Maver)_  
+James McAnerney _(Kyle Warren)_ 
+John Scougall _(British Transport Police officer)_  
 Jasmine Naziha Jones _(Zed Hylton)_  
 Micah Balfour _(Leon Parhill)_  
 Murray Fraser _(Police Scotland Officer Cal McKinsey)_  
@@ -125,5 +90,5 @@ Digital
 
 Total running time 110 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTMzNjYxNywxMjk5NTExNDRdfQ==
+eyJoaXN0b3J5IjpbLTEzODU2MTgyMjksMTI5OTUxMTQ0XX0=
 -->
