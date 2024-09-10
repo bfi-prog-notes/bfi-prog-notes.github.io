@@ -1,7 +1,6 @@
 
 
-**Nicolas Roeg on ‘Don’t Look Now’**
-
+**Nicolas Roeg on ‘Don’t Look Now’**  
 _To what extent was_ Don’t Look Now _your own choice? A publicity handout says it was Peter Katz, the producer, who thought Daphne du Maurier’s story would make a good ﬁlm._
 
 Yes, he sent me a script; I was reading scripts and it came out of the blue. I was looking for a story that was a yarn, that would complete in some way, or continue in some way, a line of thought. You remember the scene at the beginning of the ﬁlm when Julie Christie mentions the little girl’s question, ‘If the world’s round, why is frozen water ﬂat?’ and Donald Sutherland says, ‘Nothing’s what it seems’? That isn’t in the dialogue of Daphne du Maurier’s story – we changed most of the dialogue anyway, because in the ﬁlm they are different characters – but it is the key to the whole premise, and is exactly the feeling I have about life anyway. And without stressing that premise, I wanted to keep it within a story form that _Performance_ and _Walkabout_ hadn’t taken. They were yarns too, of course, but they were different _movements._ One was a ﬁlm of emotion and ideas; and the other I wanted to make – I hate to use the word because it always conjures up another connotation – a documentary using a story form. Now I wanted to make another ﬁlm developing a similar idea and not to lose sight of the yarn. To stick to the yarn.
@@ -47,8 +46,7 @@ _In general, then, you like to have the script as detailed as possible, but it l
 Yes, I really think I’d feel cheated, or else I’d begin doubting my reason for making the ﬁlm, if I thought halfway through that I’d changed my mind about what this person was, or what these characters were doing. If I said, ‘I tell you what, he’s not really like that at all, he wouldn’t think that way,’ then maybe I shouldn’t be making this ﬁlm, I should be making another ﬁlm about this man. I like to keep the intention of the scene; I like to know the people. That’s what interests me about a writer like Daphne du Maurier: one feels she has thought about a story, maybe put it out of her mind and then come back to it and developed it – _before_ she starts writing, and not halfway through, waiting to see what these people are going to do next.  
 **Nicolas Roeg interviewed by Tom Milne and Penelope Houston, _Sight and Sound,_ Winter 1973/74**  
 <br>
-**DON’T LOOK NOW**
-
+**DON’T LOOK NOW**  
 _Directed by:_ Nicolas Roeg  
 ©D.L.N. Ventures Partnership  
 _Production Companies:_ Casey Productions, Eldorado Films srl (Rome)  
@@ -63,9 +61,7 @@ _Continuity:_ Rita Agostini
 _Casting:_ Miriam Brickman, Ugo Mariotti  
 _Screenplay by:_ Alan Scott, Chris Bryant  
 _From a story by:_ Daphne du Maurier  
-_Director of Photography:_
-
-Anthony Richmond  
+_Director of Photography:_ Anthony Richmond  
 _Camera Operator:_ Luciano Tonti  
 _Assistant Cameraman:_ Simon Ransley  
 _Key Grip:_ Spartaco Pizzi  
@@ -80,16 +76,15 @@ _Make-up:_ Giancarlo Del Brocco
 _Hair Stylist:_ Barry Richardson  
 _Hairdresser:_ Maria Luisa Garbini  
 _Music by:_ Pino Donnagio  
-_Arranged and Conducted by:_  
-Giampiero Boneschi  
+_Arranged and Conducted by:_ Giampiero Boneschi  
 _Sound Recordist:_ Peter Davies  
 _Dubbing Mixer:_ Bob Jones  
 _Sound Editor:_ Rodney Holland  
 _Stunt Co-ordinator:_ Richard Grayden  
 _Publicity:_ Hubert Doyle  
 _Re-recorded at:_ Shepperton Studios  
-_Cast:_
 
+**Cast**  
 Julie Christie _(Laura Baxter)_  
 Donald Sutherland _(John Baxter)_  
 Hilary Mason _(Heather)_  
@@ -105,11 +100,9 @@ Sharon Williams _(Christine Baxter)_
 Bruno Cattaneo _(Detective Sabbione)_  
 Adelina Poerio _(dwarf)_  
 
-UK/Italy 1973©
-
-110 mins
-
-Digital 4K
+UK/Italy 1973©  
+110 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTkzODUzOF19
+eyJoaXN0b3J5IjpbMTY3NTYxMzk0OF19
 -->
