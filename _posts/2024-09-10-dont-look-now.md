@@ -1,4 +1,14 @@
-
+---
+layout: post
+title:  Don't Look Now
+published: true
+date: 2024-09-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Horror, Thriller, Fantasy]
+metadata: 'USA 1958, 141 mins<br> Director: Howard Hawks'
+pdf: '2024-09-08-rio-bravo.pdf'
+---
 
 **Nicolas Roeg on ‘Don’t Look Now’**  
 _To what extent was_ Don’t Look Now _your own choice? A publicity handout says it was Peter Katz, the producer, who thought Daphne du Maurier’s story would make a good ﬁlm._
@@ -104,5 +114,5 @@ UK/Italy 1973©
 110 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTYxMzk0OF19
+eyJoaXN0b3J5IjpbLTc3MzM0MjA4N119
 -->
