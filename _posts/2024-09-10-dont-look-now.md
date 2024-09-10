@@ -5,9 +5,9 @@ published: true
 date: 2024-09-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Horror, Thriller, Fantasy]
-metadata: 'USA 1958, 141 mins<br> Director: Howard Hawks'
-pdf: '2024-09-08-rio-bravo.pdf'
+tags: [Horror, Thriller, Fantasy]
+metadata: 'UK/Italy 1973, 110 mins<br> Director: Nicolas Roeg'
+pdf: '2024-09-10-dont-look-now.pdf'
 ---
 
 **Nicolas Roeg on ‘Don’t Look Now’**  
@@ -114,5 +114,5 @@ UK/Italy 1973©
 110 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzM0MjA4N119
+eyJoaXN0b3J5IjpbMjEyNTY0ODM2NV19
 -->
