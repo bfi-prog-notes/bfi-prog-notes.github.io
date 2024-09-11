@@ -19,49 +19,35 @@ To locate alternative performers who could rendition this music for the film’s
 The two went to the small town of Hang Chun, and met with Cheung Sun-chuen, a student of the deceased recording artist, now in his early 70s. It became clear that the songs were based on only a handful of musical scores written more than a century ago, and always accompanied by a Taiwanese version of a two-string banjo. Numerous versions of lyrics have since been written, largely dwelling on themes of mainlanders having emigrated to Taiwan, and their sentiments of longing for the mainland. For _Farewell China_, two versions of the same song were recorded, one by Cheung and the other by a female performer, also a student of Chen. The singing became the source music for all the film’s sequences in Mainland China.
 
 For the film’s other musical score, Law and Shum travelled up to Taipei, where they worked with David Huang and Richie Walker, the latter a disc jockey for the radio station IRT (formerly an American Armed Forces radio station). The objective was to create a more western, more processed sound based on the ‘Hang Chun’ songs, produced through jamming sessions with electronic guitar. While Huang developed the rhythm track, Walker provided the musical accompaniment. What resulted was a Chinese-inspired electronic blues, and was used for majority of the film’s New York sequences. Final sound mixing was conducted in Hong Kong in late March 1990.  
-**Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**FAREWELL CHINA (OI JOI BIT HEUNG DIK GWAI JIT)**
-
+**FAREWELL CHINA (OI JOI BIT HEUNG DIK GWAI JIT)**<br>
 _Director_: Clara Law  
-_Production Company_: Friend Cheers
-
+_Production Company_: Friend Cheers<br>
 _Executive Producer:_ Teddy Robin  
-_Producer_: Anthony Chow
-
+_Producer_: Anthony Chow<br>
 _Associate Producers:_ Eddie Fong, Joseph Chan  
-_Screenplay_: Eddie Fong
-
-_Director of Photography:_ Jingle Ma
-
-_Editor:_ Ma Kam
-
-_Production Designer:_ Rebecca Lee
-
+_Screenplay_: Eddie Fong<br>
+_Director of Photography:_ Jingle Ma<br>
+_Editor:_ Ma Kam<br>
+_Production Designer:_ Rebecca Lee<br>
 _Music Director:_ Jim Shum
 
-_Cast:_
-
+**Cast**<br>
 Maggie Cheung _(Li Hung)_  
 Tony Leung _(Zhou Nansan)_  
 Hayley Man  
-Liu Chin
-
-Chit-man Chan
-
-Jady Choy
-
-Hung Chun
-
+Liu Chin<br>
+Chit-man Chan<br>
+Jady Choy<br>
+Hung Chun<br>
 Vinny Colon
 
-Hong Kong 1990
-
-116 mins
-
-Digital
+Hong Kong 1990<br>
+116 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDM1MTY3MV19
+eyJoaXN0b3J5IjpbLTEzNTEzNDI5OTJdfQ==
 -->
