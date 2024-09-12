@@ -2,12 +2,12 @@
 layout: post
 title: Melvyn Bragg<br>Broadcasting the Arts
 published: true
-date: 2024-06-16
+date: 2024-09-12
 readtime: true
 categories: ['EVENTS']
 tags: [Talk]
 metadata: 
-pdf: '2024-06-16-melvyn-bragg-in-conversation.pdf'
+pdf: '2024-09-12-quay-brothers-in-conversation.pdf'
 ---
 
 Over the course of an incredible 60-year broadcasting career, Melvyn Bragg has unfailingly championed the arts on television. More than this, he has revolutionised the way the arts are presented and perceived on the small screen, harnessing the power of ITV to reach a wider and more diverse audience. In treating popular culture with the same weight and attention as more established artistic practices, he has broken down barriers and provided immense insight into all spheres of the arts for a wide and highly appreciative audience. Illustrated with clips from across a unique career, this interview with Lord Bragg celebrates his enormous influence and rich legacy.
@@ -48,6 +48,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzAxMzQ5LDIwMDM1NDc3NDIsMTI5MD
-AxMTE3Nl19
+eyJoaXN0b3J5IjpbNTAxNjQzOTQsMTA5NzAxMzQ5LDIwMDM1ND
+c3NDIsMTI5MDAxMTE3Nl19
 -->
