@@ -7,9 +7,8 @@ readtime: true
 categories: ['EVENTS']
 tags: [Talk]
 metadata: 
-pdf: '2024-06-16-melvyn-bragg-in-conversation.pdf'
+pdf: '2024-09-12-quay-brothers-in-conversation.pdf'
 ---
-
 
 Stephen and Timothy Quay, identical twins, were born in Norristown, near Philadelphia, in 1947. After graduating in 1969 from the Philadelphia College of Art, where they studied illustration and graphics, they won a scholarship to the Royal College of Art, London. At the School of Film and Television they made their first short films (mostly lost), and met fellow student Keith Griffiths, who first collaborated with them on _Nocturna Artificialia_ (1979), funded by the BFI Production Board. Working together as Koninck Studios, with Griffiths producing, the Quays have maintained a steady output of surreal and fastidious puppet animation films, supplemented by design work for opera, theatre and ballet. To help finance their avant-garde projects they have also worked on TV commercials, channel identification footage, and numerous music videos, including the _Stille Nacht_ series, and, less characteristically, Peter Gabriel’s _Sledgehammer_.
 
@@ -31,6 +30,30 @@ It will please fans to hear, then, that the animation on their long-gestating pr
 A perfect pairing of source material and adaptor, then: an abstract text not suited for direct adaptation and a pair of filmmakers whose idiosyncratic style can take up that challenge. Where Has worked in live action, the Quays’ approach is primarily ‘funnelled through the kingdom of puppets’, a world which is being conjured up at the brothers’ London studio. When I ask the Quays a question about their filmmaking aesthetic, they are appropriately elusive in response, describing instead their process of ‘the dizzying hours spent inching forwards the tiniest sliver of a second in order to make that lunatic journey around the circumference of an apple’. Their response to another question was more straightforward. Was there any particular inspiration for this film’s visual style? ‘No!’ From the Brothers Quay, we wouldn’t want it any other way.  
 **Thomas Flew, _Sight and Sound_, June 2023**  
 <br>
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjAwNDEzOV19
+eyJoaXN0b3J5IjpbLTE2ODE5NDYyNjIsMTc3MjAwNDEzOV19
 -->
