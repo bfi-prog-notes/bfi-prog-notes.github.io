@@ -30,7 +30,122 @@ It will please fans to hear, then, that the animation on their long-gestating pr
 A perfect pairing of source material and adaptor, then: an abstract text not suited for direct adaptation and a pair of filmmakers whose idiosyncratic style can take up that challenge. Where Has worked in live action, the Quays’ approach is primarily ‘funnelled through the kingdom of puppets’, a world which is being conjured up at the brothers’ London studio. When I ask the Quays a question about their filmmaking aesthetic, they are appropriately elusive in response, describing instead their process of ‘the dizzying hours spent inching forwards the tiniest sliver of a second in order to make that lunatic journey around the circumference of an apple’. Their response to another question was more straightforward. Was there any particular inspiration for this film’s visual style? ‘No!’ From the Brothers Quay, we wouldn’t want it any other way.  
 **Thomas Flew, _Sight and Sound_, June 2023**  
 <br>
+**STEPHEN AND TIMOTHY QUAY**  
+**Born 17 June 1947  
+Norristown, Pennsylvania, USA**  
 
+Selected filmography  
+
+**Feature Films**  
+
+**1995**  **Institute Benjamenta, or This Dream People Call Human Life**
+
+**2005** **The Piano Tuner of Earthquakes**
+
+**2024** **Sanatorium under the Sign of the Hourglass**
+
+  
+
+**Short Films**  
+
+
+**1979** **Nocturne Artificialia: Those Who Desire Without End**
+
+**1980** **Rain Dance** (for Sesame Street)
+
+**Punch and Judy: Tragical Comedy or Comical Tragedy**
+
+**Ein Brudermord**
+
+**1981**  **The Eternal Day of Michel de Ghelderode**
+
+**1983**  **Igor, The Paris Years Chez Pleyel**
+
+**Leoš Janáček: Intimate Excursions**
+
+**1984  The Cabinet of Jan Svankmajer**
+
+**1985  The Epic of Gilgamesh, or This Unnameable Little Broom** (Little Songs of the Chief Officer of Hunar Louse, or This Unnameable Little Broom, being a Largely Disguised Reduction of the Epic of Gilgamesh)
+
+**1986**  **Street of Crocodiles**
+
+**1988  Rehearsals for Extinct Anatomies**
+
+**Stille Nacht I: Dramolet**
+
+**1989  Ex-Voto**
+
+**1990  The Comb** (from The Museums of Sleep)
+
+**1991**  **De Artificiali Perspectiva, or Anamorphosis**
+
+**The Calligrapher** (ident commissioned by BBC2 which was later rejected and never broadcast)
+
+**Stille Nacht II: Are We Still Married?**
+
+**1992  Stille Nacht III: Tales from Vienna Woods**
+
+**1993  Stille Nacht IV: Can’t Go Wrong Without You**
+
+**1995  The Summit**
+
+**2000  Duet**
+
+**The Sandman**
+
+**In Absentia**
+
+**2001  Stille Nacht V: Dog Door**
+
+**2002  Frida** (animated contribution, d. Julie Taymor)
+
+**2003**  **Songs for Dead Children**
+
+**The Phantom Museum: Random Forays into the Vaults of Sir Henry Wellcome’s Medical Collection**
+
+**2007  Alice in Not So Wonderland**
+
+**Eurydice: She, So Beloved**
+
+**2009  Inventorium of Traces**
+
+**2010  Maska**
+
+**2011  Bartók Béla: Sonata for Solo Violin**
+
+**Through the Weeping Glass: On the Consolations of Life Everlasting** (Limbos & Afterbreezes in the Mütter Museum)
+
+**2012  The Metamorphosis**
+
+**2013  Unmistaken Hands: Ex Voto F.H.**
+
+**2019  The Doll’s Breath**
+
+**2020  Vade mecum**
+
+**2021  11 Preliminary Orbits Around Planet Lem**
+
+  
+
+**Music Videos**  
+
+**1986**  **Sledgehammer** – Peter Gabriel (1986) (animated contribution, d. Stephen R. Johnson)
+
+**1991**  **Stille Nacht II: Are We Still Married?** – His Name Is Alive
+
+**1992**  **Long Way Down** (Look What the Cat Drug In) – Michael Penn
+
+**1993**  **Stille Nacht IV: Can’t Go Wrong Without You** – His Name Is Alive
+
+**1996**  **Black Soul Choir**  – 16 Horsepower
+
+**2001**  **Stille Nacht V: Dog Door** - Sparklehorse
+
+**2008**  **Ubu Roi** – Pere Ubu – projected music video for live show
+
+**2008-10**  **Muslingauze** – DJ Spooky
+
+**Stille Nacht V: Starman** – Sabisha
 <br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -55,5 +170,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE5NDYyNjIsMTc3MjAwNDEzOV19
+eyJoaXN0b3J5IjpbLTExNzk5MzAzNjMsLTE2ODE5NDYyNjIsMT
+c3MjAwNDEzOV19
 -->
