@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Warning to the Curious + 
+title: A Warning to the Curious + Baby
 published: true
-date: 2024-09-04
+date: 2024-09-13
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror]
@@ -35,5 +35,5 @@ One of the themes of the stories is dysfunctional or fractured relationships. _B
 **Mark Duguid, BFI Screenonline, screenonline.org.uk**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODA0ODg5N119
+eyJoaXN0b3J5IjpbNjYxNjg5MDYzXX0=
 -->
