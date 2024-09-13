@@ -6,7 +6,7 @@ date: 2024-09-13
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror]
-metadata: 'UK 1972, 50 mins<br> Director: James MacTaggart'
+metadata: 'UK 1972, 50 mins<br> Producer: Lawrence Gordon Clark'
 pdf: '2024-09-13-warning-to-the-curious.pdf'
 ---
 
@@ -89,5 +89,5 @@ UK 1976
 51 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDMyNzY1MF19
+eyJoaXN0b3J5IjpbLTE0NTg2MjU0NjBdfQ==
 -->
