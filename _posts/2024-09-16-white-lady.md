@@ -6,8 +6,8 @@ date: 2024-09-13
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror]
-metadata: 'UK 1972, 50 mins<br> Producer: Lawrence Gordon Clark'
-pdf: '2024-09-13-warning-to-the-curious.pdf'
+metadata: 'UK 1987, 47 mins<br> Director: David Rudkin'
+pdf: '2024-09-13-white-lady.pdf'
 ---
 
 A woman in white holds a scythe and watches over a father repairing his rural home with his two daughters. I love _White Lady_ – not just for its symbolic storytelling and rural setting, but for its bold editing. The way it flips between landscapes and macro photography was something I aspired to with _Starve Acre’s_ macro work. The use of child actors helps stress that our actions have consequences – trauma is passed down, in various forms, be it real horror or folktales.  
@@ -33,7 +33,68 @@ _White Lady_ hasn’t been repeated nor has it surfaced on home video, relegatin
 **Children of the Stones**  
 On the theme of youth in folktales, _Children of the Stones_ ranks highly as an ode to the curiosity and intelligence of our younger generation, with the children of a small village aware that something is amiss. The show packs a considerable punch with its 1970s folk-horror soundtrack and freakish cliffhanger. The ending never fails to bring a smile to my face, while also sending a chill down my spine. It’s pure folk horror.  
 **Daniel Kokotajlo**  
+<br>
+**SCREENPLAY: WHITE LADY**  
+_Directed by_: David Rudkin  
+_Production Company_: BBC Pebble Mill  
+_Produced by_: Carol Parks  
+_Production Associate_: Andrew Smith  
+_Production Manager_: William Hartley  
+_Assistant Floor Managers_: John Greening, Monica Heath  
+_Production Assistant_: Judy Alpe  
+_Script Editor_: Roger Gregory  
+_[Written] By_: David Rudkin  
+_Photography_: John Kenway  
+_Film Lighting Electrician_: Roy Carn  
+_Film Grips_: Jimmy Monks  
+_Film Editor_: Greg Miller  
+_Designer_: Michael Edwards  
+_Graphic Designer_: Ann Jenkins  
+_Properties Buyer_: Michael Preece  
+_Costume Designer_: Al Barnett  
+_Make-Up Designer_: Gill Hughes  
+_Special Sound by_: Elizabeth Parker, Radiophonic Workshop  
+_Film Recordist_: John Gilbert  
+_Dubbing Mixer_: David Baumber  
+
+**Cast**  
+Cornelius Garrett _(Gil)_  
+Sophie Thompson _(Amy)_  
+Jessica Martin _(Tess)_  
+Meg Wynn Owen _(White Lady)_  
+
+BBC2 tx 26.8.1987  
+UK 1987  
+47 mins  
+Digital  
+
+**CHILDREN OF THE STONES**  
+**EPISODE 1: INTO THE CIRCLE**  
+_Director_: Peter Graham Scott  
+_Production Company_: HTV  
+_Executive Producer_: Patrick Dromgoole  
+_Producer_: Peter Graham Scott  
+_Script_: Jeremy Burnham, Trevor Ray  
+_Designer_: Ken Jones  
+
+**Cast**  
+Iain Cuthbertson _(Hendrick)_  
+Gareth Thomas _(Adam Brake)_  
+Freddie Jones _(Dai)_  
+Peter Demin _(Matthew)_  
+Veronica Strong _(Margaret)_  
+Katherine Levy _(Sandra)_  
+June Barrie _(Miss Clegg)_  
+Ruth Dunning _(Mrs Crabtree)_  
+Ian Donnolly _(Bob)_  
+Darren Hatch _(Kevin)_  
+Gary Lock _(Jimmo)_  
+
+ITV tx 10.1.1977  
+UK 1977  
+30 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEyNjE4OTUsLTE4MTI0MjQzMjddfQ
+eyJoaXN0b3J5IjpbLTE0MzI2NTk1MDYsLTE4MTI0MjQzMjddfQ
 ==
 -->
