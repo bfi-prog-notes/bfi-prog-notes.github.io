@@ -88,6 +88,55 @@ ITV tx 6.11.1976
 UK 1976  
 51 mins  
 Digital  
+<br>
+
+**ROOTS, RITUALS AND PHANTASMAGORIA**  
+**Dead of Night + A Winter’s Dale**  
+Mon 2 Sep 20:40; Sat 14 Sep 12:30  
+**Little Otik** Otesánek  
+Wed 4 Sep 20:15 + intro by musician and Starve Acre composer Matthew Herbert; Sat 21 Sep 17:45  
+**Against the Crowd: Murrain + intro by novelist Andrew Michael Hurley + Omnibus: Whistle and I’ll Come to You**  
+Sat 7 Sep 18:20  
+**Play for Today: Robin Redbreast**  
+Mon 9 Sep 18:30  
+**Don’t Look Now**  
+Tue 10 Sep 20:45; Thu 26 Sep 20:50; Sun 29 Sep 18:10  
+**A Ghost Story for Christmas: A Warning to the Curious + Beasts: Baby**  
+Fri 13 Sep 18:15  
+**Eraserhead**  
+Fri 13 Sep 20:45; Tue 1 Oct 21:00; Mon 7 Oct 18:10  
+**Screenplay: White Lady + intro by filmmaker and season curator Daniel Kokotajlo + Children of the Stones (episode 1)**  
+Mon 16 Sep 20:40  
+**The Shout + Lonely Water (aka The Spirit of Dark and Lonely Water)**  
+Wed 18 Sep 18:10 + Q&A with filmmakers Daniel Kokotajlo and Mark Jenkin; Sat 21 Sep 15:00; Wed 2 Oct 20:50  
+**The Hunger**  
+Thu 19 Sep 20:35; Sun 6 Oct 18:10  
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg2MjU0NjBdfQ==
+eyJoaXN0b3J5IjpbNDY2MTI0OV19
 -->
