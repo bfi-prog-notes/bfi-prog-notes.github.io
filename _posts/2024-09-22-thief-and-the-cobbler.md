@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Thie and the Cobbler<br> A Moment in Time
+published: true
+date: 2024-09-22
+readtime: true
+categories: ['EVENTS']
+tags: [Sci-Fi]
+metadata: 'USA, Ireland 1973, 86 mins<br> Director: John Boorman'
+pdf: '2024-09-18-zardoz.pdf'
+---
 
 _+ Q&A with Imogen Sutton_
 
@@ -22,7 +32,7 @@ The film was the inspiration for Disney’s film _Aladdin_, which proved to be i
 **Prologue**  
 An exceptional Oscar and BAFTA-nominated pencil study, detailing the combat between soldiers in ancient Greece.  
 <br>
-**THE THIEF AND THE COBBLER: A MOMENT IN TIME**
+**THE THIEF AND THE COBBLER: A MOMENT IN TIME**  
 _Director_: Richard Williams  
 _Production Companies_: Allied Film-makers, Miramax Films  
 _Executive Producer_: Jake Eberts  
@@ -31,52 +41,31 @@ _Screenplay_: Richard Williams, Margaret French
 _Director of Photography_: John Leatherbarrow  
 _Master Animator_: Ken Harris  
 _Editor_: Peter Bond  
-_Music_: Robert Folk
+_Music_: Robert Folk  
 
-_Voice Cast:_
+**Voice Cast**  
+Matthew Broderick _(Tack, the cobbler)_  
+Vincent Price _(Zigzag, Grand Vizier)_  
+Jennifer Beals _(Princess Yum Yum)_  
+Jonathan Winters _(the thief)_  
+Clive Revill _(King Nod)_  
+Toni Collette _(nurse/good witch)_  
+Joan Sims _(witch)_  
+Kevin Dorsey _(Mighty One-Eye)_  
+Eric Bogosian _(Phido)_  
+Stanley Baxter _(Gofer/Slap)_  
+Kenneth Williams _(Goblet/Tickle)_  
+Clinton Sundberg _(dying soldier)_  
+Windsor Davies _(Roofless)_  
+Frederick Shaw _(Goolie)_  
+Thick Wilson _(Sergeant Hook)_  
+Eddie Byrne _(Hoof)_  
+Peter Clayton, Geoffrey Golden, Derek Hinson, Declan Mulholland, Mike Nash, Tony Scannell, Dermot Walsh, Ramsay Williams _(other brigands)_  
+Bobbi Page _(singing Princess Yum Yum)_  
 
-Matthew Broderick _(Tack, the cobbler)_
-
-Vincent Price _(Zigzag, Grand Vizier)_
-
-Jennifer Beals _(Princess Yum Yum)_
-
-Jonathan Winters _(the thief)_
-
-Clive Revill _(King Nod)_
-
-Toni Collette _(nurse/good witch)_
-
-Joan Sims _(witch)_
-
-Kevin Dorsey _(Mighty One-Eye)_
-
-Eric Bogosian _(Phido)_
-
-Stanley Baxter _(Gofer/Slap)_
-
-Kenneth Williams _(Goblet/Tickle)_
-
-Clinton Sundberg _(dying soldier)_
-
-Windsor Davies _(Roofless)_
-
-Frederick Shaw _(Goolie)_
-
-Thick Wilson _(Sergeant Hook)_
-
-Eddie Byrne _(Hoof)_
-
-Peter Clayton, Geoffrey Golden, Derek Hinson, Declan Mulholland, Mike Nash, Tony Scannell, Dermot Walsh, Ramsay Williams  
-_(other brigands)_
-
-Bobbi Page _(singing Princess Yum Yum)_
-
-USA 1992
-
-90 mins
-
-Digital
+USA 1992  
+90 mins  
+Digital  
 
   
 
@@ -93,5 +82,5 @@ Digital
 
 In association with AMPAS and Faber Books.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYwMzkzNDldfQ==
+eyJoaXN0b3J5IjpbLTIwMjk4MDMxMzddfQ==
 -->
