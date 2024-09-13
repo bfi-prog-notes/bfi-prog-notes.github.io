@@ -1,14 +1,9 @@
-<![endif]-->
 
-**To the Public Danger**
-
+**To the Public Danger**  
 Before he directed his series of horror classics for Hammer, Terence Fisher demonstrated his versatility across a range of genres. His early short _To the Public Danger_ is an atmospheric, psychologically tense thriller about a drunken night out that turns fatal, based on a radio play by Patrick Hamilton.
 
-**Stolen Face**
-
+**Stolen Face**  
 This similarly noir-ish B-picture, made for Hammer, exploits the postwar fascination with plastic surgery and identity, with Paul Henreid as a surgeon, and Lizabeth Scott in a double role as the woman he transforms to resemble the lover who spurned him.
-
-James Bell
 
 **Terence Fisher**’s critical reputation rests almost entirely on the horror films he directed for Hammer in the 1950s and 1960s, but he was a more versatile filmmaker than his horror output suggests. Born in London on 23 February 1904, he served in the Merchant Navy before entering the film industry in 1933. From 1936 to 1947 he worked as a film editor for a variety of production companies, with his best-known project probably the Gainsborough melodrama _The Wicked Lady_ (d. Leslie Arliss, 1945). His first three films as director – _Colonel Bogey_ (1947), _To the Public Danger_ and _Song for Tomorrow_ (both 1948) – were short dramas produced at Highbury Studio, which was being used by the Rank Organisation to develop new talent. _To the Public Danger_, an impressively staged adaptation of a Patrick Hamilton radio play, was the best of these, and some critics have retrospectively seen it as anticipating Fisher’s later horror work. As a further sign of things to come, future Hammer star Christopher Lee made a brief appearance in _Song for Tomorrow_.
 
@@ -20,12 +15,161 @@ Given the low budgets involved and the breakneck production schedules, the quali
 
 Fisher’s other films from the 1960s – the SF invasion fantasies _The Earth Dies Screaming_ (1964), _Island of Terror_ (1966) and _Night of the Big Heat_ (1967), and a German-produced Sherlock Holmes story – are less successful although interesting nevertheless. Fisher’s final film, the Hammer production _Frankenstein and the Monster from Hell_, was completed in 1972 (although not released until 1974).
 
-Fisher received very little critical attention throughout his career. Ironically, as that career ended, the publication in 1973 of _A Heritage of Horror_, David Pirie’s book-length study of the British horror film, led to a re-appraisal of his work. Since that time, Fisher has come to be seen as a major British film director, especially so far as his horror films are concerned, and as someone who embodies the virtues of a popular British genre cinema. It is still the case, however, that Fisher’s pre-horror work has not received the critical attention  
-it merits.
+Fisher received very little critical attention throughout his career. Ironically, as that career ended, the publication in 1973 of _A Heritage of Horror_, David Pirie’s book-length study of the British horror film, led to a re-appraisal of his work. Since that time, Fisher has come to be seen as a major British film director, especially so far as his horror films are concerned, and as someone who embodies the virtues of a popular British genre cinema. It is still the case, however, that Fisher’s pre-horror work has not received the critical attention it merits.  
+**Peter Hutchings, BFI Screenonline**
+<br><br>
 
-Peter Hutchings, BFI Screenonline
+**TO THE PUBLIC DANGER**<br>
 
+_Directed by:_ Terence Fisher<br>
 
+J. Arthur Rank _presents a_ Highbury _production_<br>
+
+_Producer:_ John Croydon<br>
+
+_Production Supervisor:_ Adrian Worker<br>
+
+_Assistant Director:_ Philip Horne<br>
+
+_Screenplay:_ T.J Morrison, Arthur Reid<br>
+
+_Adapted from the play by:_ Patrick Hamilton<br>
+
+_Directors of Photography:_ Harry Waxman,
+
+Roy Fogwell<br>
+
+_Camera Operator:_ Robert Navarro<br>
+
+_Editor:_ Graeme Hamilton<br>
+
+_Art Director:_ Don Russell<br>
+
+_Wardrobe:_ Violet Beaumont<br>
+
+_Music:_ Doreen Carwithen<br>
+
+_Music Played by:_ Philharmonia Orchestra<br>
+
+_Conducted by:_ Muir Mathieson<br>
+
+_Sound Supervisor:_ W. Anson Howell
+
+_Sound System:_ Western Electric
+
+_Cast:_
+
+Dermot Walsh _(Captain Cole)_
+
+Susan Shaw _(Nancy Bedford)_
+
+Barry Letts _(Fred Lane)_
+
+Roy Plomley _(Reggie)_
+
+Betty Ann Davies _(barmaid)_
+
+Sydney Bromley _(man at bar)_
+
+Cliff Weir _(landlord)_
+
+Patricia Hayes _(postmistress)_
+
+John Lorrell _(police sergeant)_
+
+Sam Kydd _(police driver)_
+
+Frederick Piper _(labourer)_
+
+Patience Rentoul _(labourer’s wife)_
+
+UK 1947©
+
+43 mins
+
+35mm
+
+A BFI National Archive print
+
+**STOLEN FACE**
+
+_Director_: Terence Fisher  
+_Production Company_: Hammer Film Productions  
+_Presented by_: Exclusive Films  
+_Producer_: Anthony Hinds  
+_Production Manager_: Arthur Barnes  
+_Assistant Director_: Jimmy Sangster  
+_2nd Assistant Director_: Bill Shore *  
+_3rd Assistant Director_: Len Lee *  
+_Continuity_: Renée Glynne *  
+_Casting Director_: Nora Roberts  
+_Screenplay_: Martin Berkeley, Richard H. Landau  
+_Story by_: Alexander Paal, Steven Vas  
+_Director of Photography_: Walter J. Harvey  
+_Camera Operator_: Peter Bryan  
+_2nd Camera Operator_: E. Ford *  
+_Focus Puller_: Neil Binney *  
+_Clapper Loader_: Tom Friswell *  
+_Stills_: John Jay *  
+_Editor_: Maurice Rootes  
+_Assembly Editor_: Bill Lenny *  
+_Art Director_: Wilfred Arnold  
+_Draughtsman_: Alec Gray *  
+_Lizabeth Scott’s Wardrobe_: Edith Head  
+_Furs by_: Deanfield  
+_Make-up_: Phil Leakey  
+_Hairstyles_: Bill Griffiths  
+_Music_: Malcolm Arnold  
+_Specialty Number_: Jack Parnell  
+_Music Recorded by_:  
+The London Philharmonic Orchestra  
+_Solo Pianist_: Miss Bronwyn Jones  
+_Recorder_: Bill Salter  
+_Sound Camera Operator_: Gordon Everett *  
+_Boom Operator_: Percy Britten *  
+_Studio_: Riverside Studios
+
+_Cast:_
+
+Lizabeth Scott _(Alice Brent/Lily B)_  
+Paul Henreid _(Dr Philip Ritter)_  
+André Morell _(David)_  
+Mary Mackenzie _(Lily A)_  
+John Wood _(Dr Jack Wilson)_  
+Arnold Ridley _(Dr Russell)_  
+Susan Stephen _(Betty)_  
+Cyril Smith _(Alf)_  
+Diana Beaumont _(May)_  
+Terence O’Regan _(Pete Snipe)_  
+Russell Napier _(Cutler)_  
+Ambrosine Philpotts _(Miss Patten)_  
+Everley Gregg _(Lady Harringay)_  
+Alexis France _(Mrs Emmett)_  
+John Bull _(Charles Emmett)_  
+Richard Wattis _(Wentworth)_  
+Dorothy Bramhall _(Miss Simpson)_  
+Janet Burnell _(Maggie)_  
+Grace Gavin _(nurse)_  
+William Murray _(floor walker)_  
+John Warren _(1st commercial traveller)_  
+Anna Turner _(maid)_  
+Hal Osmond _(photographer)_  
+Philip Vickers _(1st soldier)_  
+James Valentine _(2nd soldier)_  
+Howard Douglas _(1st farmer)_  
+Brookes Turner _(2nd farmer)_  
+Bartlett Mullins _(3rd farmer)_  
+Frank Hawkins _(2nd commercial traveller)_
+
+UK 1952
+
+72 mins
+
+35mm
+
+A BFI National Archive print
+
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MzI3MDgxXX0=
+eyJoaXN0b3J5IjpbMTM3MDI2MDg3Nl19
 -->
