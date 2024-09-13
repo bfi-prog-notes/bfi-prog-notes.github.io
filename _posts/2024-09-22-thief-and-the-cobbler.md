@@ -77,7 +77,7 @@ UK 2015
 6 mins  
 Digital  
 
-In association with AMPAS and Faber Books.
+In association with AMPAS and Faber Books
 
 <br>
 
@@ -104,5 +104,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk1MjM3ODldfQ==
+eyJoaXN0b3J5IjpbMTk3NDUyMDc0OV19
 -->
