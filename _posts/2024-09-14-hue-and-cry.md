@@ -29,86 +29,51 @@ _Hue and Cry_ was the first of seven comedies for the studio by T.E.B. Clarke, t
 <br><br>
 
 **HUE AND CRY**<br>
-
 _Director:_ Charles Crichton<br>
-
 _Production Company:_ Ealing Studios<br>
-
 _Producer:_ Michael Balcon<br>
-
 _Associate Producer:_ Henry Cornelius<br>
-
 _Screenplay:_ T.E.B. Clarke<br>
-
 _Director of Photography:_ Douglas Slocombe<br>
-
 _Editor:_ Charles Hasse<br>
-
 _Art Director:_ Norman G. Arnold<br>
-
 _Music:_ Jack Beaver, Georges Auric<br>
-
 _Sound Recording:_ Stephen Dalby<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Alastair Sim _(Felix H Wilkinson)_<br>
-
 Jack Warner _(Nightingale)_<br>
-
 Valerie White _(Rhona)_<br>
-
 Frederick Piper _(Mr Kirby)_<br>
-
 Harry Fowler _(Joe Kirby)_<br>
-
 Douglas Barr _(Alec)_<br>
-
 Heather Delaine _(Mrs Kirby)_<br>
-
 Stanley Escane _(boy)_<br>
-
 Ian Dawson _(Norman)_<br>
-
 Gerald Fox _(Dicky)_<br>
-
 Albert Hughes _(Wally)_<br>
-
 David Knox _(Dusty)_<br>
-
 Jeffrey Sirett _(Bill)_<br>
-
 James Crabb _(Terry)_<br>
-
 Joan Dowling _(Clarry)_<br>
-
 Paul Demel _(Jago)_<br>
-
 Alec Finter _(Detective Sergeant Fothergill)_<br>
-
 Bruce Belfrage _(BBC announcer)_<br>
-
 Grace Arnold _(Dicky’s mother)_<br>
-
 Arthur Denton _(vicar)_<br>
-
 Robin Hughes _(Selwyn Pike)_<br>
-
 Howard Douglas _(watchman)_<br>
-
 Henry John Puvic _(Larry the Bull)_<br>
-
 Joey Carr _(Shorty)_<br>
 
 UK 1947<br>
-
 82 mins<br>
-
 35mm
 
 A BFI National Archive print
 
-The screening on Mon 30 Sep will be introduced by Josephine Botting, Curator, BFI National Archive
+The screening on Mon 30 Sep will be introduced by Josephine Botting, Curator, BFI National Archive<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTMwNTczOF19
+eyJoaXN0b3J5IjpbLTQzNDI4MjQ0Nl19
 -->
