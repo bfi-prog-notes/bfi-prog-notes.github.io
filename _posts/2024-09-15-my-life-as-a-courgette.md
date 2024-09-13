@@ -38,74 +38,52 @@ _Animator_: Daniel Greaves
 _Model Animation_: Sean Sewter  
 _Inbetweens_: Tom Beggs,  Barry Hutchinson, Chris Clarke  
 _Editor_: Rod Howick  
-_Sound_: Russell Pay, Mike Hackman
+_Sound_: Russell Pay, Mike Hackman  
 UK 1991  
 7 mins  
 Digital
 
 **MY LIFE AS A COURGETTE  
-(MA VIE DE COURGETTE)**
-
+(MA VIE DE COURGETTE)**  
 _A film by_: Claude Barras  
-©: Rita Productions, BSP, Gébéka, KNM,
-
-France 3 Cinéma, Rhône-Alpes Cinéma,
-
-Hélium Films  
+©: Rita Productions, BSP, Gébéka, KNM, France 3 Cinéma, Rhône-Alpes Cinéma, Hélium Films  
 _In coproduction with_: Radio Télévision Suisse, SRG SSR, Rhône-Alpes Cinéma, France 3 Cinéma, Hélium Films  
-_With the participation of_: Office Fédéral de la Culture/Swiss Federal Office of Culture,
-
-Cinéforom  
+_With the participation of_: Office Fédéral de la Culture/Swiss Federal Office of Culture, Cinéforom  
 _And the support of_: Loterie Romande  
 _With the participation of_: Eurimages, Canal+, France Télévisions, Ciné+, Centre National du Cinéma et de l’Image Animée, Nouvelles technologies en production, Indie Sales Company, Indie Invest, Suissimage, Région Rhône-Alpes, Département de la Charente, La Région Poitou-Charentes  
-_Production Companies:_ Rita Productions,
-
-Blue Spirit Productions, Gébéka, KNM  
+_Production Companies:_ Rita Productions, Blue Spirit Productions, Gébéka, KNM  
 _In coproduction with_: RTS Radio Télévision Suisse, SRG SSR, France 3 Cinéma, Rhône-Alpes Cinéma, Hélium Films  
-_With the participation of_:  
-France Télévisions Distribution  
-_Developed with the support of_:  
-Producers Pooling Program  
-_With the support of_: Stage Pool,  
-Fondation Ernst Göhner, Département de la Charente, La Région Poitou-Charentes  
+_With the participation of_:  France Télévisions Distribution  
+_Developed with the support of_:  Producers Pooling Program  
+_With the support of_: Stage Pool,  Fondation Ernst Göhner, Département de la Charente, La Région Poitou-Charentes  
 _in partnership with:_ CNC  
-_Within the framework of_:  
-Pôle image Magelis  
+_Within the framework of_:  Pôle image Magelis  
 _Presented by_: Rita Productions, Blue Spirit Productions, Gébéka Films, KNM  
-_Produced by_: Max Karli, Pauline Gygax, Armelle Glorennec, Marc Bonny,  
-Kate Merkt, Michel Merkt, Eric Jacquot
-
+_Produced by_: Max Karli, Pauline Gygax, Armelle Glorennec, Marc Bonny, Kate Merkt, Michel Merkt, Eric Jacquot  
 _Production Manager_: Théo Ciret  
 _1st Assistant Director_: Marianne Chazelas  
 _Casting Director_: Marie-Eve Hildbrand  
-_English Casting_: Stephanie Sheh,  
-Michael Sinterniklaas  
+_English Casting_: Stephanie Sheh,  Michael Sinterniklaas  
 _Screenplay_: Céline Sciamma  
-_Collaborator on the Screenplay_: Claude Barras, Morgan Navarro, Germano Zullo  
-_English Script Adaptation_:  
-Christian La Monte, Michael Sinterniklaas  
+_Collaborators on the Screenplay_: Claude Barras, Morgan Navarro, Germano Zullo  
+_English Script Adaptation_:  Christian La Monte, Michael Sinterniklaas  
 _Based on the novel_ Autobiographie d’une courgette _by_: Gilles Paris  
 _Director of Photography_: David Toutevoix  
 _Camera Operators_: Aurélie Sprenger, Maxime Fossier, Chloé-Anne Le Grand  
-_Digital Visual Effects Supervisor_:  
-Fabrice Faivre  
+_Digital Visual Effects Supervisor_:  Fabrice Faivre  
 _Animation Director_: Kim Keukeleire  
 _Editing/Chief Editor_: Valentin Rotelli  
 _Film Editor_: Claude Barras  
 _Production Designer_: Ludovic Chemarin  
-_Head of Puppet Production_:  
-Grégory Beaussart  
+_Head of Puppet Production_:  Grégory Beaussart  
 _Costume Designer_: Atelier Gran’cri  
-_Costume Designer (at Atelier Gran’cri)_:
-
-Christel Grandchamp  
+_Costume Designer (at Atelier Gran’cri)_: Christel Grandchamp  
 _Costume Designer_: Atelier Nolita  
 _Costume Designer (at Atelier Nolita)_: Vanessa Riera  
 _Music/Original Music_: Sophie Hunger  
 _Sound Design_: Denis Séchaud  
 _Sound Recordist_: Denis Séchaud  
-_English Re-recording Mixer_:  
-Gary J. Coppola  
+_English Re-recording Mixer_:  Gary J. Coppola  
 _Sound Mixer_: Denis Séchaud  
 _Sound Mixing_: Denis Séchaud  
 _Sound Editors_: Benjamin Benoit,  
@@ -140,5 +118,5 @@ Switzerland-France 2016
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzgwMjc3Ml19
+eyJoaXN0b3J5IjpbMTUxMjA1MTE5OV19
 -->
