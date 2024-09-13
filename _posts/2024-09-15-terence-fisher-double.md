@@ -53,46 +53,46 @@ _Music Played by:_ Philharmonia Orchestra<br>
 
 _Conducted by:_ Muir Mathieson<br>
 
-_Sound Supervisor:_ W. Anson Howell
+_Sound Supervisor:_ W. Anson Howell<br>
 
-_Sound System:_ Western Electric
+_Sound System:_ Western Electric<br>
 
-_Cast:_
+_Cast:_<br>
 
-Dermot Walsh _(Captain Cole)_
+Dermot Walsh _(Captain Cole)_<br>
 
-Susan Shaw _(Nancy Bedford)_
+Susan Shaw _(Nancy Bedford)_<br>
 
-Barry Letts _(Fred Lane)_
+Barry Letts _(Fred Lane)_<br>
 
-Roy Plomley _(Reggie)_
+Roy Plomley _(Reggie)_<br>
 
-Betty Ann Davies _(barmaid)_
+Betty Ann Davies _(barmaid)_<br>
 
-Sydney Bromley _(man at bar)_
+Sydney Bromley _(man at bar)_<br>
 
-Cliff Weir _(landlord)_
+Cliff Weir _(landlord)_<br>
 
-Patricia Hayes _(postmistress)_
+Patricia Hayes _(postmistress)_<br>
 
-John Lorrell _(police sergeant)_
+John Lorrell _(police sergeant)_<br>
 
-Sam Kydd _(police driver)_
+Sam Kydd _(police driver)_<br>
 
-Frederick Piper _(labourer)_
+Frederick Piper _(labourer)_<br>
 
-Patience Rentoul _(labourer’s wife)_
+Patience Rentoul _(labourer’s wife)_<br>
 
-UK 1947©
+UK 1947©<br>
 
-43 mins
+43 mins<br>
 
-35mm
+35mm<br>
 
 A BFI National Archive print
+<br>
 
-**STOLEN FACE**
-
+**STOLEN FACE**  
 _Director_: Terence Fisher  
 _Production Company_: Hammer Film Productions  
 _Presented by_: Exclusive Films  
@@ -121,16 +121,14 @@ _Make-up_: Phil Leakey
 _Hairstyles_: Bill Griffiths  
 _Music_: Malcolm Arnold  
 _Specialty Number_: Jack Parnell  
-_Music Recorded by_:  
-The London Philharmonic Orchestra  
+_Music Recorded by_:  The London Philharmonic Orchestra  
 _Solo Pianist_: Miss Bronwyn Jones  
 _Recorder_: Bill Salter  
 _Sound Camera Operator_: Gordon Everett *  
 _Boom Operator_: Percy Britten *  
 _Studio_: Riverside Studios
 
-_Cast:_
-
+**Cast**<br>
 Lizabeth Scott _(Alice Brent/Lily B)_  
 Paul Henreid _(Dr Philip Ritter)_  
 André Morell _(David)_  
@@ -161,15 +159,14 @@ Brookes Turner _(2nd farmer)_
 Bartlett Mullins _(3rd farmer)_  
 Frank Hawkins _(2nd commercial traveller)_
 
-UK 1952
-
-72 mins
-
+UK 1952<br>
+72 mins<br>
 35mm
 
 A BFI National Archive print
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDI2MDg3Nl19
+eyJoaXN0b3J5IjpbODE2OTU5NDcwXX0=
 -->
