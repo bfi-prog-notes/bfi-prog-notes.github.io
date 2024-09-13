@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Lady + 
+title: White Lady + Children of the Stones
 published: true
 date: 2024-09-13
 readtime: true
@@ -34,5 +34,5 @@ _White Lady_ hasn’t been repeated nor has it surfaced on home video, relegatin
 On the theme of youth in folktales, _Children of the Stones_ ranks highly as an ode to the curiosity and intelligence of our younger generation, with the children of a small village aware that something is amiss. The show packs a considerable punch with its 1970s folk-horror soundtrack and freakish cliffhanger. The ending never fails to bring a smile to my face, while also sending a chill down my spine. It’s pure folk horror.  
 **Daniel Kokotajlo**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTA5MzYwMl19
+eyJoaXN0b3J5IjpbLTE4MTI0MjQzMjddfQ==
 -->
