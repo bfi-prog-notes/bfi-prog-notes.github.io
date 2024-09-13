@@ -5,13 +5,12 @@
 
 This charming and quietly subversive tale from Iran delivers on all levels. Lonely Mahin is 70 and struggling. Her husband passed away some years earlier and her daughter lives far away in Europe, but she is determined to get her groove back. Throwing caution to the wind, she challenges accepted social practices despite the risk of unwelcome neighbourly interest and with the morality police on the prowl. Then one night, Mahin meets a man who is destined to change her life.
 
-This magical, thought-provoking and understated yet subversive tale boasts a truly great performance from Lily Farhadpoir. The drama wowed audiences at the Berlin Film Festival and will likely remain one of the highlights of 2024.
-
-Justin Johnson, Lead Programmer
+This magical, thought-provoking and understated yet subversive tale boasts a truly great performance from Lily Farhadpoir. The drama wowed audiences at the Berlin Film Festival and will likely remain one of the highlights of 2024.  
+**Justin Johnson, Lead Programmer**  
 
 In Iranian writer-director duo Maryam Moghaddam and Behtash Sanaeeha’s second feature, 70-year-old Mahin (Lily Farhadpour) eases the loneliness of her retirement through gossip sessions with her girlfriends, but she yearns for intimacy. Her pursuit of taxi driver Faramarz (Esmaeel Mehrabi) soon becomes a whirlwind romance, culminating in a night of drinking, dancing and declarations of love. Despite being considerably warmer than the filmmakers’ previous feature (_Ballad of a White Cow_, 2020, which dealt with the dark side of Iran’s legal system), _My Favourite Cake_ still sees the tragedies of modern-day local life seep in. Moghaddam and Sanaeeha were unable to attend their film’s premiere in Berlin this year, having been placed under a travel ban by their government. They spoke via video call from their home in Tehran.
 
-_What was the initial inspiration for_ My Favourite Cake_?_
+_What was the initial inspiration for_ My Favourite Cake _?_
 
 Maryam Moghaddam: The idea was to write a story about how even when life is miserable, it is still worth living, to cherish the small things in life. We wanted to depict loneliness, ageing and the feeling of being invisible. We chose an older couple because to be old is to have more experience of loneliness. You’re closer to the end of your life – you have a whole life in your backpack – and even so, you can still have hope. We wanted this film to be dedicated to the reality of the Iranian people, who have to live a double life. We have to be a different person when we are out [in public] because of Iran’s rules; we have to eat, dress, believe as they [the government] want us to. When we are at home, we can be our normal selves. [Many of the] Iranian movies you’ve seen in the 45 years since the revolution haven’t shown the reality of our life because of censorship. We decided to break those rules, to not lie any more.
 
@@ -46,6 +45,45 @@ BS: We believe that, as filmmakers, we can help bring about change. This is our 
 MM: Making movies, telling stories, is what we do and what we love. Even if it has consequences, it is worth it.  
 **Interview by Thomas Flew, _Sight and Sound_, October 2024**  
 <br>
+**MY FAVOURITE CAKE (KEYKE MAHBOOBE)**
+
+_Directed by_: Maryam Moghadam, Behtash Sanaeeha  
+_©_: Filmsazan Javan, Behtash Sanaeeha, Caractères Productions, Hobab, Watchmen Productions  
+_Presented by_: Filmsazan Javan, Behtash Sanaeeha, Caractères Productions, Hobab, Watchmen Productions  
+_World Sales_: Totem Films  
+_Produced by_: Gholamreza Mousavi, Behtash Sanaeeha, Etienne de Ricaud, Peter Krupenin, Christopher Zitterbart  
+_Post-production Co-ordinator_: Elsa Cohen  
+_1st Assistant Director_: Kiarash Sanaeeha  
+_Continuity Supervisor_: Maryam Shaghaghi  
+_Written by_: Maryam Moghadam, Behtash Sanaeeha  
+_Director of Photography_: Mohammad Haddadi  
+_Stills_: Hamid Janipour  
+_Visual Effects_: The Post Republic  
+_Special Effects_: Arash Aghabeik  
+_Editors_: Ata Mehrad, Behtash Sanaeeha  
+_Production Designers_: Maryam Moghaddam, Amir Hivand  
+_Costume Designers_: Maryam Moghaddam, Amir Hivand  
+_Make-up Artist_: Kamran Khalaj  
+_Original Music_: Henrik Nagy  
+_Music Supervisor_: Dounia Chaouih  
+_Sound Designer_: Hossein Ghoorchian  
+_Sound Recording_: Abdolreza Heydari, Iman Baziyar  
+_Re-recording Mixer_: Philippe Grivel  
+
+**Cast**  
+Lily Farhadpour _(Mahin)_  
+Esmaeil Mehrabi _(Faramarz)_  
+Mansoureh Ilkhani _(Puran)_  
+Soraya Orang _(Mahin's friend)_  
+Homa Mottahedin _(Mahin's friend)_  
+Sima Esmaeili _(Mahin's friend)_  
+Aman Rahimi, Azim Mashhadi, Saeed Payamipour, Asghar Nejat _(old men in the restaurant)_  
+Mehdi Pilehvari _(moral police)_  
+Mohammad Heidari _(young driver)_  
+
+Iran 2024  
+97 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODQxNzI4MF19
+eyJoaXN0b3J5IjpbLTE1MDEzNTMyMDBdfQ==
 -->
