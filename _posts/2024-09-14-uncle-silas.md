@@ -1,3 +1,14 @@
+---
+layout: post
+title: Uncle Silas
+published: true
+date: 2024-09-14
+readtime: true
+categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
+tags: [Drama]
+metadata: 'UK 1947, 103 mins<br> Director: Charles Frank'
+pdf: '2024-09-14-uncle-silas.pdf'
+---
 
 _Uncle Silas and Maud Ruthyn_ first appeared in 1864 as a serial in the _Dublin University Magazine_, before being published in three volumes as _Uncle Silas: A Tale of Bartram-Haugh_. The author, Joseph Sheridan Le Fanu, is best remembered for perfecting the ‘psychological’ ghost story (_Green Tea_, _Carmilla_, etc.), but in _Uncle Silas_ he wrote a _Jane Eyre_-flavoured ‘sensation’ novel dubbed by David Punter ‘the first properly Gothic masterpiece in England since _Melmoth the Wanderer_.’
 
@@ -13,8 +24,7 @@ Seen now, however, the film has much to recommend it. Boiling down Le Fanu’s s
 
 ‘Mr de Marney looks exactly what he is – a youngish actor dressed up as an old man,’ said the _Daily Herald_ of the 40-year-old matinée idol, who at no point suggests what Le Fanu called Silas’ ‘baleful effulgence.’ As white-haired Gothic recluses go, Silas, with his ‘face like marble ... [and] fearful monumental look,’ is clearly the missing link between Poe’s ethereal Roderick Usher and Stoker’s carnal Count Dracula, but you wouldn’t know it from the wasp-waisted comic-opera villain provided by de Marney.
 
-Le Fanu’s story has since resurfaced at 20-year intervals. Thames TV’s rendition for the long-running _Mystery and Imagination_ series, with Robert Eddison, Patience Collier and Lucy Fleming, appeared in November 1968, while the BBC’s _The Dark Angel_ was shown in three parts (replicating the original’s three volumes) in January 1989 and starred Peter O’Toole, Jane Lapotaire and Beatie Edney. Hammer veteran Barbara Shelley was Cousin Monica and Guy Rolfe – Sepulchre Hawkes in 1947 – appeared this time as  
-Dr Bryerly.  
+Le Fanu’s story has since resurfaced at 20-year intervals. Thames TV’s rendition for the long-running _Mystery and Imagination_ series, with Robert Eddison, Patience Collier and Lucy Fleming, appeared in November 1968, while the BBC’s _The Dark Angel_ was shown in three parts (replicating the original’s three volumes) in January 1989 and starred Peter O’Toole, Jane Lapotaire and Beatie Edney. Hammer veteran Barbara Shelley was Cousin Monica and Guy Rolfe – Sepulchre Hawkes in 1947 – appeared this time as  Dr Bryerly.  
 **Jonathan Rigby**
 <br><br>
 
@@ -106,6 +116,78 @@ A BFI National Archive print
 
 *Uncredited
 <br><br>
+
+**MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA**<br>
+**Shooting Stars**<br>
+Sun 1 Sep 11:30; Mon 9 Sep 20:40<br>
+**Brief Ecstasy**<br>
+Tue 3 Sep 18:30; Wed 11 Sep 20:35<br>
+**The Man in Grey**<br>
+Fri 6 Sep 18:10; Tue 17 Sep 20:40<br>
+**This Happy Breed**<br>
+Fri 6 Sep 20:40; Tue 24 Sep 18:00<br>
+**The Seventh Veil**<br>
+Sat 7 Sep 15:10; Wed 25 Sep 20:40<br>
+**Green for Danger**<br>
+Sun 8 Sep 15:40; Thu 26 Sep 20:55<br>
+**It Always Rains on Sunday**<br>
+Sun 8 Sep 18:10; Fri 27 Sep 20:50<br>
+**Hue and Cry**<br>
+Sat 14 Sep 20:30; Mon 30 Sep 18:15 (+ intro by Josephine Botting, Curator, BFI National Archive)<br>
+**Uncle Silas**<br>
+Sat 14 Sep 18:20<br>
+**Terence Fisher Double Bill:  To the Public Danger + Stolen Face**<br>
+Sun 15 Sep 18:10; Tue 1 Oct 20:30<br>
+**Mandy**<br>
+Mon 16 Sep 18:35; Sat 28 Sep 12:20<br>
+**Yield to the Night**<br>
+Fri 20 Sep 18:00; Sat 28 Sep 15:10<br>
+**The Flesh and the Fiends**<br>
+Sat 21 Sep 14:50; Wed 2 Oct 20:40<br>
+**The Damned**<br>
+Sat 21 Sep 20:40; Fri 4 Oct 18:30<br>
+**Station Six Sahara**<br>
+Sun 22 Sep 12:30; Sat 5 Oct 16:00<br>
+**The Mind Benders**<br>
+Sun 22 Sep 18:00; Wed 2 Oct 18:20<br>
+**Went the Day Well?** + intro by James Bell,  Senior Curator, BFI National Archive<br>
+Mon 23 Sep 18:20<br>
+**The Pumpkin Eater**<br>
+Fri 27 Sep 18:00; Sun 6 Oct 15:00<br>
+**Dr. Jekyll and Sister Hyde**<br>
+Sat 28 Sep 18:10; Thu 3 Oct 18:15 + intro by  Sam Clemens, son of Brian Clemens<br>
+**The Legend of Hell House**<br>
+Sat 28 Sep 20:40; Mon 7 Oct 18:20<br>
+**Guns at Batasi**<br>
+Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
+
+**With thanks to**<br>
+Martin Scorsese and Edgar Wright<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTUyNjQ0MDU4MiwtODMzODE3NTgyXX0=
 -->
