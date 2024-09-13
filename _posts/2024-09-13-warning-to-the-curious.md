@@ -6,8 +6,8 @@ date: 2024-09-13
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror]
-metadata: 'UK 1970, 76 mins<br> Director: James MacTaggart'
-pdf: '2024-09-09-robin-redbreast.pdf'
+metadata: 'UK 1972, 50 mins<br> Director: James MacTaggart'
+pdf: '2024-09-13-warning-to-the-curious.pdf'
 ---
 
 When you’re in the mood, there’s nothing quite like a 1970s British ‘curiosity killed the cat’ creeper. Don’t mess with weird effigies and cursed relics buried in the ground or walls of your new home. _A Warning to the Curious_ is particularly effective in its quiet and menacing atmosphere, as an archaeologist goes hunting for a mystical crown buried somewhere along the Norfolk coast.
@@ -34,18 +34,17 @@ Taking as their loose theme man’s relationship with animals, _Beasts_’ six d
 One of the themes of the stories is dysfunctional or fractured relationships. _Baby_, almost a companion piece to _Murrain_, centres on a young expectant mother and her vet husband, whose dream new life in the country is imperilled by the discovery, entombed in a wall of their home, of a hideous mummified creature – apparently a curse. As the mother’s morbid obsession with the creature grows, so too does the gulf between her and her selfish, insensitive partner.  
 **Mark Duguid, BFI Screenonline, screenonline.org.uk**  
 <br>
-**A Ghost Story for Christmas:  
-A Warning to the Curious**
-
+**A GHOST STORY FOR CHRISTMAS:  
+A WARNING TO THE CURIOUS**  
 _Producer_: Lawrence Gordon Clark  
 _Production Company_: BBC  
 _Adapted by_: Lawrence Gordon Clark  
 _[Story] by_: M.R. James  
 _Camera_: John McGlashan  
 _Designer_: Geoffrey Winslow  
-_Sound_: Dick Manton
+_Sound_: Dick Manton  
 
-_Cast**  
+**Cast**  
 Peter Vaughan _(Mr Paxton)_  
 Clive Swift _(Dr Black)_  
 Julian Herington _(archaeologist)_  
@@ -90,5 +89,5 @@ UK 1976
 51 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDEzNDYzNF19
+eyJoaXN0b3J5IjpbLTI5MDMyNzY1MF19
 -->
