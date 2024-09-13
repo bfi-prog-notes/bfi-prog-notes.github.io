@@ -1,3 +1,14 @@
+---
+layout: post
+title: My Life as a Courgette
+published: true
+date: 2024-09-15
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN']
+tags: [Animation, Drama]
+metadata: 'Switzerland-France 2016, 67 mins<br> Director: Claude Barras'
+pdf: '2024-09-15-my-life-as-a-courgette.pdf'
+---
 
 A stop-motion family animation, indebted to Ken Loach, with the curious title _My Life as a Courgette_: that’s already quite a billing to live up to, but Swiss director Claude Barras’s first feature completely nails it. Its story of an artistically inclined young boy Icare – nicknamed ‘Courgette’ – who accidentally kills his alcoholic mother and is placed in a home for abandoned and/or abused kids, is adapted from an untranslated French novel by Gilles Paris, but its origins, in fact, lie much deeper in Barras’s past. ‘When I was a kid, there was one child I was quite close to who had severe family difficulties. I promised myself, because I wasn’t able to help or defend him at the time, that I would do something in that direction one day. It was 40 years later while making this film that I suddenly remembered my promise; so it turned out I was finally following that path after all.’
 
@@ -114,6 +125,78 @@ Switzerland-France 2016
 67 mins  
 Digital
 <br><br>
+
+**STOP MOTION:  
+CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN**<br>
+**Dougal and the Blue Cat** Pollux et le chat bleu<br>
+Sun 1 Sep 12:10; Sun 15 Sep 15:20<br>
+**Alice**<br>
+Wed 4 Sep 18:10; Sat 21 Sep 15:10<br>
+**Little Otik**<br>
+Wed 4 Sep 20:15 + intro by musician and Starve Acre composer Matthew Herbert; Sat 21 Sep 17:45<br>
+**21 Years of dwarf studios**<br>
+Sun 6 Oct 15:30<br>
+**Coraline**<br>
+Sun 8 Sep 12:00<br>
+**James and the Giant Peach**<br>
+Sat 7 Sep 12:10; Sat 21 Sep 12:00<br>
+**The Pied Piper** Krysarˇ<br>
+Sat 7 Sep 18:40; Sun 22 Sep 15:00<br>
+**Anomalisa**<br>
+Sat 7 Sep 20:40; Wed 2 Oct 18:30<br>
+**King Kong**<br>
+Sun 8 Sep 13:00 + intro by Douglas Weir, Content Remastering Lead; Mon 16 Sep 20:45<br>
+**Mighty Joe Young**<br>
+Sun 8 Sep 15:45; Wed 18 Sep 20:55<br>
+**Mary and Max**<br>
+Wed 11 Sep 18:00; Wed 25 Sep 20:35<br>
+**ParaNorman**<br>
+Sat 14 Sep 12:20<br>
+**Marcel the Shell with Shoes On**<br>
+Sat 14 Sep 15:40; Sun 6 Oct 12:20<br>
+**My Life as a Courgette** Ma vie de Courgette + **Manipulation**<br>
+Sun 15 Sep 12:20; Tue 8 Oct 18:40<br>
+**Library Talk: A Study in Stop Motion**<br>
+Mon 16 Sep 18:30<br>
+**Stop-Motion Masters + Q&A with Barry Purves, Suzie Templeton and Osbert Parker**<br>
+Fri 20 Sep 18:10<br>
+**Chuck Steel: Night of the Trampires + Q&A with director Mike Mort**<br>
+Fri 20 Sep 20:30<br>
+**The Boxtrolls**<br>
+Sun 22 Sep 12:00<br>
+**Kubo and the Two Strings**<br>
+Sat 28 Sep 11:40<br>
+**Wendell and Wild**<br>
+Sun 29 Sep 15:10; Mon 7 Oct 20:40<br>
+**Missing Link**<br>
+Sat 5 Oct 12:00<br>
+
+Thanks to Jez Stewart, BFI National Archive<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MTM5NTMxODFdfQ==
 -->
