@@ -27,82 +27,41 @@ Critical shorthand would probably append the work of Bosch and Beckett, and perh
 
 Paul Taylor, _Monthly Film Bulletin_, March 1979
 <br>
-**ERASERHEAD**
+**ERASERHEAD**  
+_Directed by:_ David Lynch  
+©: David Lynch  
+_Produced with the co-operation of:_ AFI Center for Advanced Film Studies  
+_Produced by:_ David Lynch  
+_Production Manager:_ Doreen G. Small  
+_Production Crew:_ Jeanne Field, Michael Grody, Stephen Grody, Toby Keeler, Roger Lundy, John Lynch, Dennis Nance, Anatol Pacanowsky, Carol Schreder  
+_Assistant to the Director:_ Catherine Coulson  
+_Screenplay:_ David Lynch  
+_Camera and Lighting:_ Frederick Elmes, Herbert Cardwell  
+_Assistant Camera:_ Catherine Coulson  
+_Special Effects Photography:_ Frederick Elmes  
+_Special Effects:_ David Lynch  
+_Picture Editing:_ David Lynch  
+_Production Design:_ David Lynch  
+_Song Composed by:_ Peter Ivers  
+_Song Sung by:_ Peter Ivers  
+_Pipe Organ by:_ ‘Fats’ Waller  
+_Location Sound:_ Alan R. Splet  
+_Re-Recording:_ Alan R. Splet  
+_Sound Editing:_ Alan R. Splet  
+_Sound Effects:_ David Lynch, Alan R. Splet  
+_Special thanks to:_ Jack Fisk, Peggy Lynch, Sidney P. Solow, Sissy Spacek, George Stevens Jr  
 
-_Directed by:_ David Lynch
-
-©: David Lynch
-
-_Produced with the co-operation of:_
-
-AFI Center for Advanced Film Studies
-
-_Produced by:_ David Lynch
-
-_Production Manager:_ Doreen G. Small
-
-_Production Crew:_ Jeanne Field, Michael Grody, Stephen Grody, Toby Keeler, Roger Lundy,
-
-John Lynch, Dennis Nance, Anatol Pacanowsky, Carol Schreder
-
-_Assistant to the Director:_ Catherine Coulson
-
-_Screenplay:_ David Lynch
-
-_Camera and Lighting:_ Frederick Elmes,
-
-Herbert Cardwell
-
-_Assistant Camera:_ Catherine Coulson
-
-_Special Effects Photography:_ Frederick Elmes
-
-_Special Effects:_ David Lynch
-
-_Picture Editing:_ David Lynch
-
-_Production Design:_ David Lynch
-
-_Song Composed by:_ Peter Ivers
-
-_Song Sung by:_ Peter Ivers
-
-_Pipe Organ by:_ ‘Fats’ Waller
-
-_Location Sound:_ Alan R. Splet
-
-_Re-Recording:_ Alan R. Splet
-
-_Sound Editing:_ Alan R. Splet
-
-_Sound Effects:_ David Lynch, Alan R. Splet
-
-_Special thanks to:_ Jack Fisk, Peggy Lynch,
-
-Sidney P. Solow, Sissy Spacek, George Stevens Jr
-
-_Cast:_
-
-John Nance _(Henry Spencer)_
-
-Charlotte Stewart _(Mary X)_
-
-Allen Joseph _(Bill X)_
-
-Jeanne Bates _(Mrs X, Mary’s mother)_
-
-Judith Anna Roberts _(beautiful girl across the hall)_
-
-Laurel Near _(lady in the radiator)_
-
-V. Phipps-Wilson _(landlady)_
-
-Jack Fisk _(man in the planet)_
-
-Jean Lange _(grandmother)_
-
-Thomas Coulson _(the boy)_
-
+**Cast**  
+John Nance _(Henry Spencer)_  
+Charlotte Stewart _(Mary X)_  
+Allen Joseph _(Bill X)_  
+Jeanne Bates _(Mrs X, Mary’s mother)_  
+Judith Anna Roberts _(beautiful girl across the hall)_  
+Laurel Near _(lady in the radiator)_  
+V. Phipps-Wilson _(landlady)_  
+Jack Fisk _(man in the planet)_  
+Jean Lange _(grandmother)_  
+Thomas Coulson _(the boy)_  
 John Monez _(bum)_  
 Darwin Joston _(Paul)_  
 Neil Moran _(the boss)_  
@@ -118,5 +77,5 @@ USA 1976©
 89 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUxNTc5OTldfQ==
+eyJoaXN0b3J5IjpbNTAzMTUxOTUxXX0=
 -->
