@@ -1,1 +1,31 @@
+<![endif]-->
 
+**To the Public Danger**
+
+Before he directed his series of horror classics for Hammer, Terence Fisher demonstrated his versatility across a range of genres. His early short _To the Public Danger_ is an atmospheric, psychologically tense thriller about a drunken night out that turns fatal, based on a radio play by Patrick Hamilton.
+
+**Stolen Face**
+
+This similarly noir-ish B-picture, made for Hammer, exploits the postwar fascination with plastic surgery and identity, with Paul Henreid as a surgeon, and Lizabeth Scott in a double role as the woman he transforms to resemble the lover who spurned him.
+
+James Bell
+
+**Terence Fisher**’s critical reputation rests almost entirely on the horror films he directed for Hammer in the 1950s and 1960s, but he was a more versatile filmmaker than his horror output suggests. Born in London on 23 February 1904, he served in the Merchant Navy before entering the film industry in 1933. From 1936 to 1947 he worked as a film editor for a variety of production companies, with his best-known project probably the Gainsborough melodrama _The Wicked Lady_ (d. Leslie Arliss, 1945). His first three films as director – _Colonel Bogey_ (1947), _To the Public Danger_ and _Song for Tomorrow_ (both 1948) – were short dramas produced at Highbury Studio, which was being used by the Rank Organisation to develop new talent. _To the Public Danger_, an impressively staged adaptation of a Patrick Hamilton radio play, was the best of these, and some critics have retrospectively seen it as anticipating Fisher’s later horror work. As a further sign of things to come, future Hammer star Christopher Lee made a brief appearance in _Song for Tomorrow_.
+
+After Highbury, Fisher moved to Gainsborough where he directed (or co-directed with Antony Darnborough) four feature films. As with _To the Public Danger_, horror critics have identified the period mystery drama _So Long at the Fair_ (1950), Fisher’s final Gainsborough film, as a horror-like project. But Fisher’s other Gainsborough films reveal him to be a talented director adept at a range of subjects – the plight of post-war refugees in _Portrait from Life_, tragic romance in the Noël Coward vehicle _The Astonished Heart_ (1949) and light comedy in the portmanteau drama _Marry Me!_ (1949).
+
+When Gainsborough closed in the early 1950s, Fisher became a prolific specialist in the low-budget support feature that was becoming an increasingly important aspect of British film production. None of these films, 19 in total, were strikingly original but some of them – notably the melodrama _Stolen Face_ (1952) and the SF drama _Four-Sided Triangle_ (1953) – contained flashes of talent and ambition. Eleven of these films were made for Hammer, an up-and-coming independent production company with which Fisher’s future career would become inextricably linked. When Hammer decided in the mid-1950s to remodel itself as a horror factory, Fisher became its main director. He was part of the team that produced all the ‘classic’ Hammer horrors – including _The Curse of Frankenstein_ (1957), _Dracula_ (1958), _The Mummy_ (1959), _The Hound of the Baskervilles_ (1959) and _The Curse of the Werewolf_ (1961) – and his measured and stately style was a key aspect of the Hammer formula.
+
+Given the low budgets involved and the breakneck production schedules, the quality of these films was inevitably uneven, but some of them, and especially _Dracula_, were remarkable achievements, albeit ones that were not generally feted by critics at the time of their initial appearance. After the box-office failure of _The Phantom of the Opera_ (1962), Fisher worked less often for Hammer, although his later Hammer films arguably comprise his best work, reflecting as they do both a technical maturity and a willingness to innovate. Although Fisher is regularly accused of representing a conservative moralistic force within British horror, films like _Frankenstein Created Woman_ (1967) and _The Devil Rides Out_ (1968) show a tentative and questioning attitude to social authority and morality.
+
+Fisher’s other films from the 1960s – the SF invasion fantasies _The Earth Dies Screaming_ (1964), _Island of Terror_ (1966) and _Night of the Big Heat_ (1967), and a German-produced Sherlock Holmes story – are less successful although interesting nevertheless. Fisher’s final film, the Hammer production _Frankenstein and the Monster from Hell_, was completed in 1972 (although not released until 1974).
+
+Fisher received very little critical attention throughout his career. Ironically, as that career ended, the publication in 1973 of _A Heritage of Horror_, David Pirie’s book-length study of the British horror film, led to a re-appraisal of his work. Since that time, Fisher has come to be seen as a major British film director, especially so far as his horror films are concerned, and as someone who embodies the virtues of a popular British genre cinema. It is still the case, however, that Fisher’s pre-horror work has not received the critical attention  
+it merits.
+
+Peter Hutchings, BFI Screenonline
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc2MzI3MDgxXX0=
+-->
