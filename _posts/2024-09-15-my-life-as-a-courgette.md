@@ -86,11 +86,10 @@ _Sound Recordist_: Denis Séchaud
 _English Re-recording Mixer_:  Gary J. Coppola  
 _Sound Mixer_: Denis Séchaud  
 _Sound Mixing_: Denis Séchaud  
-_Sound Editors_: Benjamin Benoit,  
-Jérome Vittoz  
+_Sound Editors_: Benjamin Benoit,  Jérome Vittoz  
 _Voice Directing_: Marie-Eve Hildbrand
 
-_Voice Cast:_  
+**Voice Cast**    
 Gaspard Schlatter _(Icare, ‘Courgette’)_  
 Sixtine Murat _(Camille)_  
 Paulin Jaccoud _(Simon)_  
@@ -100,8 +99,7 @@ Estelle Hennard _(Alice)_
 Elliot Sanchez _(Jujube)_  
 Lou Wick _(Beatrice)_  
 Brigitte Rosset _(Aunt Ida)_  
-Natacha Varga-Koutchoumov_  
-(Courgette’s mother)_  
+Natacha Varga-Koutchoumov _(Courgette’s mother)_  
 Monica Budde _(Madame Papineau)_  
 Adrien Barazzone _(Monsieur Paul)_  
 Véronique Montel _(Rosy)_  
@@ -112,11 +110,10 @@ Anne-Laure Brasey _(fairground stallholder)_
 Jean-Claude Issenmann _(judge)_  
 Iannis Jaccoud _(Simon – additional voices)_
 
-Switzerland-France 2016
-
-67 mins
-
+Switzerland-France 2016  
+67 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjA1MTE5OV19
+eyJoaXN0b3J5IjpbLTE3MTM5NTMxODFdfQ==
 -->
