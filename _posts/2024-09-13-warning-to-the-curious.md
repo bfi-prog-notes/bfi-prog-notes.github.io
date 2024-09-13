@@ -34,6 +34,61 @@ Taking as their loose theme man’s relationship with animals, _Beasts_’ six d
 One of the themes of the stories is dysfunctional or fractured relationships. _Baby_, almost a companion piece to _Murrain_, centres on a young expectant mother and her vet husband, whose dream new life in the country is imperilled by the discovery, entombed in a wall of their home, of a hideous mummified creature – apparently a curse. As the mother’s morbid obsession with the creature grows, so too does the gulf between her and her selfish, insensitive partner.  
 **Mark Duguid, BFI Screenonline, screenonline.org.uk**  
 <br>
+**A Ghost Story for Christmas:  
+A Warning to the Curious**
+
+_Producer_: Lawrence Gordon Clark  
+_Production Company_: BBC  
+_Adapted by_: Lawrence Gordon Clark  
+_[Story] by_: M.R. James  
+_Camera_: John McGlashan  
+_Designer_: Geoffrey Winslow  
+_Sound_: Dick Manton
+
+_Cast**  
+Peter Vaughan _(Mr Paxton)_  
+Clive Swift _(Dr Black)_  
+Julian Herington _(archaeologist)_  
+John Kearney _(William Ager/ghost)_  
+David Cargill _(boots)_  
+George Benson _(vicar)_  
+Roger Milner _(antique shop owner)_  
+Gilly Fraser _(girl at cottage)_  
+David Pugh _(station porter)_  
+Cyril Appleton _(labourer)_  
+
+BBC1 tx 24.12.1972  
+UK 1972  
+50 mins  
+Digital  
+
+**BEASTS: BABY**  
+_Directed by_: John Nelson Burton  
+_©/Production Company_: ATV  
+_Produced by_: Nicholas Palmer  
+_Senior Floor Manager_: Bill Goodall  
+_Production Assistant_: Dolores Shine  
+_[Written] By_: Nigel Kneale  
+_Senior Cameraman_: Bill Brown  
+_Lighting Director_: Peter Dyson  
+_Senior Vision Control_: Jim Reeves  
+_Vision Mixer_: Carole Legg  
+_VTR Editor_: Peter Charles  
+_Designed by_: Richard Lake  
+_Sound Director_: Bob Woodhouse  
+
+**Cast**  
+Jane Wymark _(Jo Gilkes)_  
+Simon MacCorkindale _(Peter Gilkes)_  
+T.P. McKenna _(Dick Pummery)_  
+Mark Dignam _(Arthur Grace)_  
+Norman Jones _(Stan Biddick)_  
+Shelagh Fraser _(Dorothy Pummery)_  
+
+ITV tx 6.11.1976  
+UK 1976  
+51 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNjg5MDYzXX0=
+eyJoaXN0b3J5IjpbLTM5MDEzNDYzNF19
 -->
