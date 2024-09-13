@@ -14,8 +14,7 @@ In his first film, _Eraserhead_, David Lynch created a world from which everythi
 
 The despair and frustration in the film’s subject accords somewhat with the circumstances of its production. The entry on _Eraserhead_ in the second volume of _Cult Movies_ says that it took a year to film and a year to edit. This sounds daunting enough but is nevertheless an understatement. According to Lynch’s own account, the film took five years to complete, from 1971 to 1976: ‘We shot straight for a year and then we were down for a whole year. Then we shot and did the editing and sound piecemeal for the remainder.’ The film looks as if it were set in a depressed industrial part of Detroit or Philadelphia but was in fact shot in the stables of an old mansion in Beverly Hills where Lynch was renting some rooms. During the day he delivered _The Wall Street Journal_ (‘I had my route down to one hour’) and at night he shot _Eraserhead_.
 
-Even ten years later, after the trauma of shooting _Dune_ and in the throes of promoting a new picture, Lynch still speaks vividly of his first filmmaking experience: ‘It was extremely frustrating to hold on to everything for so long.  
-I couldn’t do anything new because that wasn’t finished, I didn’t have anything to show anybody. So I just saw the world going by and tried to raise money and little by little I did it.’
+Even ten years later, after the trauma of shooting _Dune_ and in the throes of promoting a new picture, Lynch still speaks vividly of his first filmmaking experience: ‘It was extremely frustrating to hold on to everything for so long. I couldn’t do anything new because that wasn’t finished, I didn’t have anything to show anybody. So I just saw the world going by and tried to raise money and little by little I did it.’
 
 Clearly, only a very unusual actor could have made himself available for such a period to play the leading role, but Lynch had the good fortune to find such a person in John Nance: ‘Jack is a strange actor anyway. Some people are what you call highly motivated and he is the exact reverse: zero motivation. He’s very content to stay at home, not even watching television, just sitting thinking in a chair, wearing his little slippers. So he was pretty happy. He just had to keep his haircut, he wore a little hat. But he did fine for the five years.’
 
@@ -23,19 +22,16 @@ If nothing else, however, the extreme length of shooting allowed Lynch to make s
 
 Making _Eraserhead_, David Lynch had a level of control over every aspect of the filmmaking process that most directors, however successful, will never achieve. This is of far more than anecdotal interest in a consideration of Lynch’s career. The script is only one part of the finished movie – 22 pages for an 89-minute film (scripts usually work out at about a page per minute). Lynch speaks of the exhilaration he felt standing in the set of Mr and Mrs X’s apartment and realising that what he had pictured in his mind had been exactly recreated. And this control had immense implications for the film itself. The narrative is as much concerned with the industrial hum of the soundtrack, the metamorphic worms, the terrifying machines, as it is with what is said. This move beyond the mere words and plot forms a fruitful and fascinating struggle right through Lynch’s work.
 
-Such an approach can prove difficult for critics, and when _Eraserhead_ appeared in Britain in 1979 there was a general unwillingness to provide exegesis. As Paul Taylor prudently concluded in his review in the _Monthly Film Bulletin_, it was ‘a movie to be experienced rather than explained’. However what is needed for _Eraserhead_ is not a glossary of symbols but a clear account of its imaginative power. The two sources of horror in the film are the diseased organic world of the body itself and the cruel machines (and indeed the ruined industrial setting) that surround it. With a cold, clear eye, David Lynch shows us both kinds of disgust – the slimy, unguent products of the human body and its activities and then the vividly imagined device into which Henry’s head is inserted to be processed into erasers for pencils.
+Such an approach can prove difficult for critics, and when _Eraserhead_ appeared in Britain in 1979 there was a general unwillingness to provide exegesis. As Paul Taylor prudently concluded in his review in the _Monthly Film Bulletin_, it was ‘a movie to be experienced rather than explained’. However what is needed for _Eraserhead_ is not a glossary of symbols but a clear account of its imaginative power. The two sources of horror in the film are the diseased organic world of the body itself and the cruel machines (and indeed the ruined industrial setting) that surround it. With a cold, clear eye, David Lynch shows us both kinds of disgust – the slimy, unguent products of the human body and its activities and then the vividly imagined device into which Henry’s head is inserted to be processed into erasers for pencils.  
+**Sean French, _Sight and Sound_, Spring 1987**
 
-Sean French, _Sight and Sound_, Spring 1987
-
-**A contemporary review**
-
+**A contemporary review**  
 No synopsis could adequately convey the perfect nightmare of David Lynch’s extraordinary black-and-white horror; the film itself is an absurdist, surreal treat of repulsive beauty and grisly comedy. Over and above its perverse plot, the film’s crisp imagery (often of inexplicable phenomena) and its controlled playing have a unique and eerie suggestiveness.
 
 Even though there’s material enough in this post-punk dreamscape for an imaginative Freudian to have a field-day, Lynch consistently eschews symbolism and allegory, and gives priority to none of the levels of inevitably decomposing ‘reality’ inhabited by his catatonic hero. He also refuses to indulge in isolated shocks – although the superb effects provide opportunities aplenty – and concentrates on a cumulative, suspenseful grotesquerie. Henry’s unique odyssey, finally, is tracked towards an almost intimate apocalypse.
 
-Critical shorthand would probably append the work of Bosch and Beckett, and perhaps David Cronenberg and the Kuchars, as tenuous reference points, but _Eraserhead_ is a movie to be experienced rather than explained.
-
-Paul Taylor, _Monthly Film Bulletin_, March 1979
+Critical shorthand would probably append the work of Bosch and Beckett, and perhaps David Cronenberg and the Kuchars, as tenuous reference points, but _Eraserhead_ is a movie to be experienced rather than explained.  
+**Paul Taylor, _Monthly Film Bulletin_, March 1979**  
 <br>
 **ERASERHEAD**  
 _Directed by:_ David Lynch  
@@ -135,5 +131,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NjE3NzY5XX0=
+eyJoaXN0b3J5IjpbLTE1NjEzMTY0NzNdfQ==
 -->
