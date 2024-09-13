@@ -5,7 +5,7 @@ published: true
 date: 2024-09-22
 readtime: true
 categories: ['EVENTS']
-tags: [Sci-Fi]
+tags: [Animation, Fantasy]
 metadata: 'USA, Ireland 1973, 86 mins<br> Director: John Boorman'
 pdf: '2024-09-18-zardoz.pdf'
 ---
@@ -82,5 +82,5 @@ Digital
 
 In association with AMPAS and Faber Books.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk4MDMxMzddfQ==
+eyJoaXN0b3J5IjpbLTE3MjAyMDE0MzJdfQ==
 -->
