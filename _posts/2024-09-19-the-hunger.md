@@ -29,25 +29,20 @@ There could be other cross-references between the two Scott films by the time _T
 <br>
 **THE HUNGER**  
 _Director_: Tony Scott  
-_Production Companies_:  
-Richard Shepherd Company,  
-MGM/UA Entertainment  
+_Production Companies_: Richard Shepherd Company, MGM/UA Entertainment  
 _Producer_: Richard A. Shepherd  
 _Production Manager (New York)_: Alex Ho  
 _Production Supervisor_: Terry Clegg  
 _Production Co-ordinator_: Loretta Ordewer  
-_Production Co-ordinator (New York)_:  
-Ingrid Johanson  
+_Production Co-ordinator (New York)_: Ingrid Johanson  
 _Location Manager_: Gerry Levy  
 _Location Manager (New York)_: Peter Pastorelli  
-_Assistant Directors_: David Tringham,  
-Michael Stevenson, Debbie Vertue  
+_Assistant Directors_: David Tringham, Michael Stevenson, Debbie Vertue  
 _Assistant Directors (New York)_: William Hassell, William Eustace, Roger Pugliese  
 _Screenplay_: Ivan Davis, Michael Thomas  
 _Based on the novel by_: Whitley Strieber  
 _Director of Photography_: Stephen Goldblatt  
-_Director of Photography (New York)_:  
-Tom Mangravite  
+_Director of Photography (New York)_:Tom Mangravite  
 _Additional Photography_: Hugh Johnson  
 _Camera Operators_: Bob Smith, John Palmer  
 _Camera Operator (New York)_: Michael Stone  
