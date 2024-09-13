@@ -27,34 +27,20 @@ Merrick’s singularity, however, was that he was something more: the extent of 
 In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.’  
 **John Pym, _Sight and Sound_, Winter 1980**  
 <br>
-**The Elephant Man**
-
-_Director:_ David Lynch
-
-_Production Company:_ Brooksfilms
-
-_Executive Producer:_ Stuart Cornfeld
-
-_Producer:_ Jonathan Sanger
-
-_In Charge of Production:_ Terence A. Clegg
-
-_Production Accountant:_ John Trehy
-
-_Location Manager:_ Graham Ford
-
-_Production Secretary:_ Loretta Ordewer
-
-_Assistant Director:_ Anthony Waye
-
-_2nd Assistant Director:_ Gerry Gavigan
-
-_Continuity:_ Ceri Evans
-
-_Casting:_ Maggie Cartier
-
-_Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch
-
+**THE ELEPHANT MAN**  
+_Director:_ David Lynch  
+_Production Company:_ Brooksfilms  
+_Executive Producer:_ Stuart Cornfeld  
+_Producer:_ Jonathan Sanger  
+_In Charge of Production:_ Terence A. Clegg  
+_Production Accountant:_ John Trehy  
+_Location Manager:_ Graham Ford  
+_Production Secretary:_ Loretta Ordewer  
+_Assistant Director:_ Anthony Waye  
+_2nd Assistant Director:_ Gerry Gavigan  
+_Continuity:_ Ceri Evans  
+_Casting:_ Maggie Cartier  
+_Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch  
 _Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves
 
 _Based in part on the book_ The Elephant Man:
@@ -89,65 +75,37 @@ _Wardrobe Supervisor:_ Tiny Nicholls
 
 _Make-up Supervisor:_ Wally Schneiderman
 
-_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker
+_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker  
+_Elephant Man Make-up Applied by:_ Wally Schneiderman  
+_Hairdressers:_ Stephanie Kaye, Paula Gillespie  
+_Music/Music Conductor:_ John Morris  
+_Music Performed by:_ The National Philharmonic Orchestra  
+_Orchestrations:_ Jack Hayes  
+_Sound Design:_ Alan Splet, David Lynch  
+_Sound Mixer:_ Robin Gregory  
+_Dolby Engineer:_ John Iles  
+_Dubbing Mixer:_ Doug Turner  
+_Sound Editor:_ Peter Horrocks  
+_Special Sound Effects:_ Alan Splet  
+_Research:_ Randy Auerbach  
+_Studios:_ Shepperton Studios, Lee Studios *  
 
-_Elephant Man Make-up Applied by:_  
-Wally Schneiderman
-
-_Hairdressers:_ Stephanie Kaye, Paula Gillespie
-
-_Music/Music Conductor:_ John Morris
-
-_Music Performed by:_  
-The National Philharmonic Orchestra
-
-_Orchestrations:_ Jack Hayes
-
-_Sound Design:_ Alan Splet, David Lynch
-
-_Sound Mixer:_ Robin Gregory
-
-_Dolby Engineer:_ John Iles
-
-_Dubbing Mixer:_ Doug Turner
-
-_Sound Editor:_ Peter Horrocks
-
-_Special Sound Effects:_ Alan Splet
-
-_Research:_ Randy Auerbach
-
-_Studios:_ Shepperton Studios, Lee Studios *
-
-_Cast:_
-
-Anthony Hopkins _(Frederick Treves)_
-
-John Hurt _(John Merrick)_
-
-Anne Bancroft _(Mrs Madge Kendal)_
-
-John Gielgud _(Carr Gomm)_
-
+**Cast**  
+Anthony Hopkins _(Frederick Treves)_  
+John Hurt _(John Merrick)_  
+Anne Bancroft _(Mrs Madge Kendal)_  
+John Gielgud _(Carr Gomm)_  
 Wendy Hiller _(Mothershead)_  
 Freddie Jones _(Bytes)_  
 Michael Elphick _(night porter)_  
-Hannah Gordon _(Mrs Treves)_
-
-Helen Ryan _(Princess Alex)_
-
-John Standing _(Fox)_
-
-Dexter Fletcher _(Bytes’s boy)_
-
-Lesley Dunlop _(Nora)_
-
-Phoebe Nicholls _(Merrick’s mother)_
-
-Pat Gorman _(fairground bobby)_
-
-Claire Davenport _(fat lady)_
-
+Hannah Gordon _(Mrs Treves)_  
+Helen Ryan _(Princess Alex)_  
+John Standing _(Fox)_  
+Dexter Fletcher _(Bytes’s boy)_  
+Lesley Dunlop _(Nora)_  
+Phoebe Nicholls _(Merrick’s mother)_  
+Pat Gorman _(fairground bobby)_  
+Claire Davenport _(fat lady)_  
 Orla Pederson _(skeleton woman)_  
 Patsy Smart _(distraught woman)_  
 Frederick Treves _(alderman)_  
@@ -198,5 +156,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1OTQzOTE1XX0=
+eyJoaXN0b3J5IjpbLTk1ODI4NDM0MV19
 -->
