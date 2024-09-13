@@ -14,8 +14,7 @@ _Reece Shearsmith will introduce tonight’s screening – the first in an occas
 
 **SPOILER WARNING  The following notes give away the film’s ending.**
 
-In 1884, the ‘freak’ John Merrick was discovered in a booth in the Mile End Road by Frederick Treves, chief surgeon at the London Hospital. _The Elephant Man_, David Lynch’s part-fantastic, part-factual reworking of the subsequent course of Merrick’s life, accurately records that, after buying his temporary release, Treves’ first act was to display the grossly deformed Merrick, an incurable victim of von Recklinghausen’s disease, before another audience,  
-the sober medical gentlemen of the teaching college at which he lectured  
+In 1884, the ‘freak’ John Merrick was discovered in a booth in the Mile End Road by Frederick Treves, chief surgeon at the London Hospital. _The Elephant Man_, David Lynch’s part-fantastic, part-factual reworking of the subsequent course of Merrick’s life, accurately records that, after buying his temporary release, Treves’ first act was to display the grossly deformed Merrick, an incurable victim of von Recklinghausen’s disease, before another audience, the sober medical gentlemen of the teaching college at which he lectured  
 on anatomy.
 
 The film, which on one level at least may be said to proceed by the modern equivalent of a series of detailed, rather grandiose Victorian painted tableaux, carries Treves, with whom we are encouraged to identify, on a journey from shocked incomprehension (‘I pray to God he is an idiot,’ Treves observes with misplaced solicitude), through pity to compassion.
