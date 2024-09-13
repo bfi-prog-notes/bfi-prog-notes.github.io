@@ -4,14 +4,12 @@ _+ Q&A with Imogen Sutton_
 
 Produced over 25 years and inspired by Middle Eastern folk tales and Persian miniatures, _The Thief and the Cobbler_ is a legendary work among animation fans. It was unreleased in the UK and neither of the two versions released in the US – _The Princess and the Cobbler_ in 1993 and _Arabian Knight_ in 1995 – was sanctioned by director Richard Williams. Following its sold-out screenings at BFI Southbank in 2014 and 2018, and to tie-in with the release of a new book (that he began, and which was completed by his wife and producer Imogen Sutton), we present only the third UK screening of the film in its original 1992 workprint version.
 
-Imogen Sutton will be signing the new book _Adventures in Animation: How I Learned Who I Learned From and What I Did With It_ (co-written with Richard Williams) following the event.
-
-bfi.org.uk
+Imogen Sutton will be signing the new book _Adventures in Animation: How I Learned Who I Learned From and What I Did With It_ (co-written with Richard Williams) following the event.  
+**bfi.org.uk**  
 
 It is written among the limitless constellations of the celestial heavens, and in the depths of the emerald seas, and upon every grain of sand in the vast deserts, that the world which we see is an outward and visible dream, of an inward and invisible reality.
 
-Once upon a time there was a golden city. In the centre of the golden city, atop the tallest minaret, were three golden balls. The ancients had prophesied that if the three golden balls were ever taken away, harmony would yield to discord, and the city would fall to destruction and death. But the mystics had also foretold that the city might be saved by the simplest soul with the smallest and simplest of things.  
-In the city there dwelt a lowly shoemaker, who was known as Tack the Cobbler. Also in the city existed a Thief, who shall be nameless…
+Once upon a time there was a golden city. In the centre of the golden city, atop the tallest minaret, were three golden balls. The ancients had prophesied that if the three golden balls were ever taken away, harmony would yield to discord, and the city would fall to destruction and death. But the mystics had also foretold that the city might be saved by the simplest soul with the smallest and simplest of things. In the city there dwelt a lowly shoemaker, who was known as Tack the Cobbler. Also in the city existed a Thief, who shall be nameless…
 
 ‘Animation among the most glorious and lively ever created!’ –  
 _The New York Times_
@@ -25,7 +23,6 @@ The film was the inspiration for Disney’s film _Aladdin_, which proved to be i
 An exceptional Oscar and BAFTA-nominated pencil study, detailing the combat between soldiers in ancient Greece.  
 <br>
 **THE THIEF AND THE COBBLER: A MOMENT IN TIME**
-
 _Director_: Richard Williams  
 _Production Companies_: Allied Film-makers, Miramax Films  
 _Executive Producer_: Jake Eberts  
@@ -96,5 +93,5 @@ Digital
 
 In association with AMPAS and Faber Books.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MzA4NzA3XX0=
+eyJoaXN0b3J5IjpbLTIwNTYwMzkzNDldfQ==
 -->
