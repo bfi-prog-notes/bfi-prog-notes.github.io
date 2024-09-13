@@ -1,7 +1,38 @@
+---
+layout: post
+title: White Lady + 
+published: true
+date: 2024-09-13
+readtime: true
+categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
+tags: [Horror]
+metadata: 'UK 1972, 50 mins<br> Producer: Lawrence Gordon Clark'
+pdf: '2024-09-13-warning-to-the-curious.pdf'
+---
 
+A woman in white holds a scythe and watches over a father repairing his rural home with his two daughters. I love _White Lady_ – not just for its symbolic storytelling and rural setting, but for its bold editing. The way it flips between landscapes and macro photography was something I aspired to with _Starve Acre’s_ macro work. The use of child actors helps stress that our actions have consequences – trauma is passed down, in various forms, be it real horror or folktales.  
+**Daniel Kokotajlo**  
 
+One of the less commented upon fantasy works of writer David Rudkin (mainly down to it having been so hard to see) was his contribution to BBC Two’s _Screenplay_, a strand of one-off plays and films that ran from July 1986 to October 1993. Rudkin not only wrote _White Lady_, it marked his sole gig in the director’s chair and for the occasion he brought back production designer Michael Edwards who had helped director Alan Clarke achieve the singular look of his 1974 Rudkin adaptation _Penda’s Fen_ for _Play for Today_. _White Lady_ continues Rudkin’s exploration of the mythology and landscapes of the English countryside, making it a close relation not only of _Penda’s Fen_ but his other work in what today has come to be described – however inaccurately at times – as ‘folk horror’: _The Stone Dance_ (1963), _The Ash Tree_ (1975), his contribution to _A Ghost Story for Christmas_ (1971-), _…Artemis 8..1…._ (1981) and _Gawain and the Green Knight_ (1991).
 
-> Written with [StackEdit](https://stackedit.io/).
+Broadcast on 26 August 1987, _White Lady_ initially follows a dysfunctional family – father Gil (Cornelius Garrett) and two young daughters, Amy (Sophie Thompson) and Tess (Jessica Martin), are living in an isolated country house following the breakdown of Gil’s marriage. He’s absorbed with trying to keep the ramshackle house from falling apart and alternately neglects and abuses his daughters. Almost immediately, the story starts to be intercut with strange and disturbing slides that show showing medical photographs and X-rays of animals that have either been experimented upon or maimed by pesticides, and later, slides presenting a stark description of just how many of those pesticides had been found in British picked fruit in 1984. Gil wants the girls to live no wanting much and being happy with what they’ve got but is still too controlling to not stop them from playing on land belonging to others.
+
+Gil becomes aware of a presence in the countryside around the house but never sees anything, unlike the girls who can see the eponymous ‘white lady’ (Meg Wynn Owen), ominously carrying a scythe and watching them from afar. They eventually find her waiting for them in the woods, offering them a feast of naturally grown fruit and vegetables (‘Daddy could never buy those…’).
+
+Though shorter than _Penda’s Fen_ and certainly nowhere near as long as the epic …_Artemis 8..1…._, _White Lady_ still manages to cram in a huge amount of thought-provoking material. Its ecological concerns, centred around Rudkin’s ruminations on the extensive use of pesticides, bring to mind the growing debate around genetically modified foods at the time (less than a year after the film was broadcast, the use of genetically modified microbial enzymes in food production was approved by the US Food and Drug Administration). Beneath the surreal trappings of the _White Lady_ lies a very rooted fear about the way that farming and food production was heading, a fear even more prevalent today than it was in 1987.
+
+Quite who or what the _White Lady_ is remains pleasingly vague. She carries a scythe, traditionally associated with the personification of death though here one suspects that she does so merely as a reference to a scene in Carl Theodor Dreyer’s _Vampyr_ (1932), a favourite film of Rudkin’s – he wrote a _BFI Film Classics_ monograph on it first published in 2007. The origins of the mysterious woman are never elaborated upon. That Gil can’t see her suggests that she’s a supernatural force, a protector perhaps of the countryside against the excesses of Mankind, though why she would target this family in particular when they can barely afford pesticides let alone have the wherewithal to deploy them is unclear. At one point she tells the girls that ‘my white ship comes to children’, suggesting perhaps that’s she’s of extra-terrestrial origin, related perhaps to Asrael and Helith the alien angels from _…Artemis 8..1…._ Wherever she’s from, she certainly isn’t human. Referring to Mankind in general, but possibly to Gil in particular, she tells the sisters that ‘once he lost the land he lived from. Next, he lost his country. Now he is losing the Earth.’
+
+She may also simply be their guardian angel. A shocking moment occurs early in the film when Gil, thankfully off camera, slaps one of his daughters for a minor transgression. His mental state is highly questionable throughout and his suitability for looking after the children is in doubt from the off. His attempts to control the girls and pry them from the land that he’s so seemingly in love with is what appears to summon the white lady in the first place. She frees them from this, frees them from his controlling ways perhaps suggesting a feminist subtext at play too.
+
+It’s too easy to fall into the rut of simply bemoaning the fact that British television has changed beyond all recognition in recent decades, leaving behind its more daring and experimental roots. But it is very true that the television landscape in the UK has been redeveloped in such a way that something as widely experimental and challenging as _White Lady_ is unlikely to be seen again any time soon. Rudkin films in long takes, often without dialogue, the character of the countryside taking centre stage as often as the humans and, as ever, makes no concessions for any viewer not willing to put in the work to make something of it. There’s no one right interpretation of what happens in _White Lady_ – there are many and all are valid – and Rudkin himself offers only the vaguest of clues: when asked by one of the girls what a parable is, Gill tells them ‘A sort of story with something in it… Strange… to help you remember it, and think about something important.’ And that is a pretty good way of summing up his entire fascinating oeuvre.
+
+_White Lady_ hasn’t been repeated nor has it surfaced on home video, relegating it to an ‘almost ran’ in Rudkin’s body of work. Which is a tragedy as it’s as weighty, intellectual and vital as any of his better-known works and is in dire need of rediscovery.  
+**Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com, 23 June 2023**  
+
+**Children of the Stones**  
+On the theme of youth in folktales, _Children of the Stones_ ranks highly as an ode to the curiosity and intelligence of our younger generation, with the children of a small village aware that something is amiss. The show packs a considerable punch with its 1970s folk-horror soundtrack and freakish cliffhanger. The ending never fails to bring a smile to my face, while also sending a chill down my spine. It’s pure folk horror.  
+**Daniel Kokotajlo**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg2OTA5MzYwMl19
 -->
