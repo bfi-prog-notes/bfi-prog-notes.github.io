@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: My Favourite Cake
+published: true
+date: 2024-09-13
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Romance]
+metadata: 'UK 2023, 96 mins<br> Director: Naqqash Khalid'
+pdf: '2024-09-05-in-camera.pdf'
+---
 
 **Writers/Directors Maryam Moghaddam and Behtash Sanaeeha on ‘My Favourite Cake’**
 
@@ -127,5 +136,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNzIyMjU1XX0=
+eyJoaXN0b3J5IjpbNzA4NDI0ODYxLDc0MTcyMjI1NV19
 -->
