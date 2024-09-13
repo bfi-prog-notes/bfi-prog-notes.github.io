@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Thie and the Cobbler<br> A Moment in Time
+title: The Thief and the Cobbler<br> A Moment in Time
 published: true
 date: 2024-09-22
 readtime: true
