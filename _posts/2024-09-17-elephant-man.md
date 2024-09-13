@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Elephant Man
+published: true
+date: 2024-09-17
+readtime: true
+categories: ['EVENTS']
+tags: [Drama, Period]
+metadata: 'USA 1980, 123 mins<br> Director: Da'
+pdf: '2024-06-11-400-blows.pdf'
+---
 
 _Reece Shearsmith will introduce tonight’s screening – the first in an occasional series that sees him share his cinematic influences._
 
@@ -41,40 +51,22 @@ _2nd Assistant Director:_ Gerry Gavigan
 _Continuity:_ Ceri Evans  
 _Casting:_ Maggie Cartier  
 _Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch  
-_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves
-
-_Based in part on the book_ The Elephant Man:
-
-A Study in Human Dignity _by:_ Ashley Montagu
-
-_Director of Photography:_ Freddie Francis
-
-_Camera Operator:_ Jeremy Dunkley
-
-_Gaffer:_ Roy Larner
-
-_Stills Photography:_ Frank Connor
-
-_Special Effects:_ Graham Longhurst
-
-_Editor:_ Anne V. Coates
-
-_Assistant Editor:_ Patrick Moore
-
-_Production Designer:_ Stuart Craig
-
-_Art Director:_ Bob Cartwright
-
-_Set Decorator:_ Hugh Scaife
-
-_Prop Master:_ Terry Wells
-
-_Costume Designer:_ Patricia Norris
-
-_Wardrobe Supervisor:_ Tiny Nicholls
-
-_Make-up Supervisor:_ Wally Schneiderman
-
+_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves  
+_Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu  
+_Director of Photography:_ Freddie Francis  
+_Camera Operator:_ Jeremy Dunkley  
+_Gaffer:_ Roy Larner  
+_Stills Photography:_ Frank Connor  
+_Special Effects:_ Graham Longhurst  
+_Editor:_ Anne V. Coates  
+_Assistant Editor:_ Patrick Moore  
+_Production Designer:_ Stuart Craig  
+_Art Director:_ Bob Cartwright  
+_Set Decorator:_ Hugh Scaife  
+_Prop Master:_ Terry Wells  
+_Costume Designer:_ Patricia Norris  
+_Wardrobe Supervisor:_ Tiny Nicholls  
+_Make-up Supervisor:_ Wally Schneiderman  
 _Elephant Man Make-up Designed/ Created by:_ Christopher Tucker  
 _Elephant Man Make-up Applied by:_ Wally Schneiderman  
 _Hairdressers:_ Stephanie Kaye, Paula Gillespie  
@@ -156,5 +148,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODI4NDM0MV19
+eyJoaXN0b3J5IjpbMjkyMTYwODcwXX0=
 -->
