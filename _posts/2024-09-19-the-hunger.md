@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Shout
+published: true
+date: 2024-09-18
+readtime: true
+categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
+tags: [Drama, Horror]
+metadata: 'USA 1983, 87 mins<br> Director: Jerzy Skolimowski'
+pdf: '2024-09-18-shout.pdf'
+---
 
 _The Hunger_ helped challenge my perception of what dark fantasy could be. It didn’t have to be epic in scale, but by employing a quieter register and mood it was possible to weave an entrancing story. It’s a film that oozes gothic style thanks to its incredible cinematography and production design. If you didn’t already know, it stars David Bowie as an aged vampire whose no less voluptuous lover, played by Catherine Deneuve, is drawn to Susan Sarandon’s gerontologist.
 
@@ -24,8 +34,7 @@ _The Godfather_, De Niro’s bloodbath at the end of _Taxi Driver_, Katharine Ro
 ‘The quantum leap,’ says Smith, ‘has been in the last dozen years. Now everybody wants make-up illusions, and the technical and chemical developments have come up with the materials for us to do the job. We discovered, for example, that the cleaning fluid trichloroethane causes foam latex to swell, and so we could raise words on Linda Blair’s skin in _The Exorcist_ or make an actor’s face burst open from snake venom in _Death Bite_. It’s no problem for us to make any kinds of limbs and do anything to them. We can make entire people if need be. Make them wholesale.’  
 **Philip Strick, _Sight and Sound_, Summer 1982**  
 <br>
-**The Hunger**
-
+**THE HUNGER**  
 _Director_: Tony Scott  
 _Production Companies_:  
 Richard Shepherd Company,  
@@ -78,10 +87,9 @@ _Sound Re-recording_: Bill Rowe, Ray Merrin
 _Sound Editor_: Peter Pennell  
 _Sound Effects Editor_: Campbell Askew  
 _Special Assistant (Los Angeles)_: Angelo Pacifici  
-_Studio_: Shepperton Studios
+_Studio_: Shepperton Studios  
 
-_Cast:_
-
+**Cast**  
 Catherine Deneuve _(Miriam Blaylock)_  
 David Bowie _(John Blaylock)_  
 Susan Sarandon _(Sarah Roberts)_  
@@ -107,11 +115,13 @@ Edward Wiley _(intern 2)_
 Richard Robles _(skater)_  
 George Camiller _(Eumenes)_  
 Oke Wambu _(Egyptian slave)_  
-Kent Miller, Fred Yockers, Susan Hunter, James Wassenich, Allan Richards, Hilary Six_,_ Carole-Ann Scott _(cadavers)_
+Kent Miller, Fred Yockers, Susan Hunter, James Wassenich, Allan Richards, Hilary Six, Carole-Ann Scott _(cadavers)_  
 
 USA 1983  
 97 mins  
 Digital  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTA4NjM0MV19
+eyJoaXN0b3J5IjpbNzk5NDk1NjIwXX0=
 -->
