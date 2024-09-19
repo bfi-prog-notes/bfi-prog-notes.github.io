@@ -29,113 +29,63 @@ If Miss Barker-Wise champions the new Africa of decolonisation, Lauderdale’s v
 <br><br>
 
 **GUNS AT BATASI**<br>
-
 _Directed by:_ John Guillermin<br>
-
 ©: Twentieth Century-Fox Productions Ltd<br>
-
-_Presented by:_  
-Twentieth Century-Fox Film Corporation<br>
-
+_Presented by:_  Twentieth Century-Fox Film Corporation<br>
 _Produced by:_ George H. Brown<br>
+_Production Manager:_ David W. Orton<br>
+_Assistant Director:_ Jan Darnley Smith<br>
+_Continuity:_ Betty Harley<br>
+_Casting Director:_ Stuart Lyons<br>
+_Screenplay by:_ Robert Holles<br>
+_Original Adaptation:_ Leo Marks, Marshall Pugh<br>
+_Additional Material:_ C.M. Pennington-Richards<br>
+_Based on the novel_ The Siege of Battersea _by:_ Robert Holles<br>
+_Director of Photography:_ Douglas Slocombe<br>
+_Camera Operator:_ Gerry Fisher<br>
+_Editor:_ Max Benedict<br>
+_Art Director:_ Maurice Carter<br>
+_Wardrobe:_ John McCorry<br>
+_Make-up:_ Stuart Freeborn<br>
+_Hairdressing:_ Barbara Ritchie<br>
+_Music Composed and Conducted by:_ John Addison<br>
+_Played by:_ Sinfonia of London<br>
+_Sound Recordists:_ Bill Daniels, Robert T. McPhee<br>
+_Sound System:_ Westrex Recording System<br>
+_Sound Editor:_ Don Deacon<br>
+_Made at:_ Pinewood Studios<br>
 
-_Production Manager:_ David W. Orton
+**Cast**<br>
+Richard Attenborough _(Regimental Sergeant Major Lauderdale)_<br>
+Flora Robson _(Miss Barker-Wise)_<br>
+John Leyton _(Private Wilkes)_<br>
+Mia Farrow _(Karen Eriksson)_<br>
+Cecil Parker _(Sir William Fletcher)_<br>
+Errol John _(Lieutenant Boniface)_<br>
+Graham Stark _(Sergeant ‘Dodger’ Brown)_<br>
+Earl Cameron _(Captain Abraham)_<br>
+John Meillon _(Sergeant ‘Digger’ Drake)_<br>
+Percy Herbert _(Colour Sergeant Ben Smith)_<br>
+David Lodge _(Sergeant ‘Muscles’ Dunn)_<br>
+Bernard Horsfall _(Sergeant ‘Schoolie’ Prideaux)_<br>
+Jack Hawkins _(Colonel John Deal)_<br>
+Horace James _(Corporal Abou)_<br>
+Patrick Holt _(captain)_<br>
+Alan Browning _(Tony, the adjutant)_<br>
+Richard Bidlake _(lieutenant)_<br>
+Joseph Layode _(Archibong Shaw)_<br>
+Ric Hutton _(Russell)_<br>
 
-_Assistant Director:_ Jan Darnley Smith
+_uncredited_<br>
+Thomas Baptiste<br>
+Bloke Modisane<br>
 
-_Continuity:_ Betty Harley
-
-_Casting Director:_ Stuart Lyons
-
-_Screenplay by:_ Robert Holles
-
-_Original Adaptation:_ Leo Marks, Marshall Pugh
-
-_Additional Material:_ C.M. Pennington-Richards
-
-_Based on the novel_ The Siege of Battersea _by:_ Robert Holles
-
-_Director of Photography:_ Douglas Slocombe
-
-_Camera Operator:_ Gerry Fisher
-
-_Editor:_ Max Benedict
-
-_Art Director:_ Maurice Carter
-
-_Wardrobe:_ John McCorry
-
-_Make-up:_ Stuart Freeborn
-
-_Hairdressing:_ Barbara Ritchie
-
-_Music Composed and Conducted by:_ John Addison
-
-_Played by:_ Sinfonia of London
-
-_Sound Recordists:_ Bill Daniels, Robert T. McPhee
-
-_Sound System:_ Westrex Recording System
-
-_Sound Editor:_ Don Deacon
-
-_Made at:_ Pinewood Studios
-
-_Cast:_
-
-Richard Attenborough
-
-_(Regimental Sergeant Major Lauderdale)_
-
-Flora Robson _(Miss Barker-Wise)_
-
-John Leyton _(Private Wilkes)_
-
-Mia Farrow _(Karen Eriksson)_
-
-Cecil Parker _(Sir William Fletcher)_
-
-Errol John _(Lieutenant Boniface)_
-
-Graham Stark _(Sergeant ‘Dodger’ Brown)_
-
-Earl Cameron _(Captain Abraham)_
-
-John Meillon _(Sergeant ‘Digger’ Drake)_
-
-Percy Herbert _(Colour Sergeant Ben Smith)_
-
-David Lodge _(Sergeant ‘Muscles’ Dunn)_
-
-Bernard Horsfall _(Sergeant ‘Schoolie’ Prideaux)_
-
-Jack Hawkins _(Colonel John Deal)_
-
-Horace James _(Corporal Abou)_
-
-Patrick Holt _(captain)_
-
-Alan Browning _(Tony, the adjutant)_
-
-Richard Bidlake _(lieutenant)_
-
-Joseph Layode _(Archibong Shaw)_
-
-Ric Hutton _(Russell)_
-
-_uncredited_
-
-Thomas Baptiste
-
-Bloke Modisane
-
-UK-USA 1964©
-
-98 mins
-
+UK-USA 1964©<br>
+98 mins<br>
 35mm
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQyMTU1N119
+eyJoaXN0b3J5IjpbLTE2MzU2MDQ5MzldfQ==
 -->
