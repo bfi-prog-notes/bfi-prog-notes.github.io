@@ -1,1 +1,141 @@
 
+**Edgar Wright:** A good companion to _Station Six Sahara_ in this season is John Guillermin’s _Guns at Batasi_. It’s also a single location film, a film of simmering tensions boiling over.
+
+**Martin Scorsese:** That’s it. That black-and-white widescreen CinemaScope, tracking past the guns, rifles lined up, placed in position… You could feel the cuts in that movie. You could feel the sound effect cuts, too. Let alone the great Richard Attenborough, and his performance, with that voice of his, playing that sergeant major. _Guns at Batasi_ is a wonderful display of extraordinary craftsmanship in terms of editing and sound effects editing and camera movement.
+
+**EW:** And composition.
+
+**MS:** Composition, in that 2.39:1 aspect.
+
+**Martin Scorsese and Edgar Wright interviewed by James Bell, _Sight and Sound_, October 2024**
+<br>  
+
+The poster copy for this quintessential exercise in post-colonial hand-wringing sounds suspiciously like they’re trying to sell another _Zulu_: ‘Outnumbered but never outfought!’ runs the hyperbole. ‘Besieged in a jungle powder keg half way between heaven and hell.’ All of which makes it sound like those restless natives are in for another pasting from Her Majesty’s armed forces, when the film’s actually an anguished accounting of much-changed political realities eight decades on from the derring-do at Rorke’s Drift. Set in a fictional African republic in the aftermath of a British handover, it sees the UK military reduced to the status of bystanders when regime change puts a rather fiercer independence movement in charge, many of whom have previously received political mentorship and army training from the Brits. Standing his ground at a rural outpost, however, is Richard Attenborough’s by-the-book sergeant-major, who’s not about to take orders from anyone who isn’t his commanding officer, precipitating a tense stand-off.
+
+Credited to novelist Robert Holles and various other hands (including _Peeping Tom_ writer Leo Marks), the screenplay’s pretty sceptical about the rebels’ idealistic credentials, makes no bones about Britain’s utterly diminished authority, and reserves most sympathy for Dickie’s old warrior, a near-caricature of punctiliousness, but no racist even if his paternalist attitudes are shaped by years of sterling service. A superb showcase for a great character actor, and Guillermin’s composed widescreen filming gets the most out of it, while understandably struggling to convince us the Pinewood backlot is a convincing ringer for more exotic climes.  
+**Trevor Johnston, _Sight and Sound_, February 2018**
+<br>
+
+**SPOILER WARNING** The following notes give away some of the plot.
+
+_Guns at Batasi_ is distinguished from other films of the period by its explicit concern with loss of imperial power and its setting in an unspecified ex-colony where the British no longer rule. The early 1960s saw increasing criticism and repudiation of the Commonwealth in Britain. Although the ex-colony is a member of the Commonwealth and the British Army still plays a role there, the perspective of the film is very far removed from newsreel versions of a Commonwealth that enjoyed continued influence. An early sign of British impotence is the British policy of non-involvement when Africans stage a coup. In line with this policy, the British Colonel (Jack Hawkins) orders his men to stay in barracks and hands over command to the African Captain Abraham (Earl Cameron) until what he calls ‘this little spot of bother’ blows over.
+
+British impotence and the diminishment of British territory and action are prominent themes. All the action is African as supporters of the coup, led by Lieutenant Boniface (Errol John), take Abraham prisoner and raid an ammunition store to arm themselves. The British, oblivious to these events, are shown indoors in their mess, drinking, chatting and playing billiards. Their passivity is emphasised by the comments of one soldier: ‘Bloody marvellous! Two hot chocolate mechanics chuck bricks at each other and the whole British army is immobilised.’ Powerlessness is also evoked: when Lauderdale (Richard Attenborough), the Regimental Sergeant Major, gives shelter to Abraham, who has been seriously wounded while escaping capture, Boniface taunts Lauderdale with his power to train guns on the mess, threatening to blow it and all its occupants up if they do not hand over Abraham within an hour: ‘For the first time in the history of my country, it is we... who give the order to fire.’ Boniface never gives that order – the British are not entirely powerless, taking action against this threat and successfully blowing up the guns. But even though the British break out of confinement, this action involves a movement of a few yards only, still within sight of the mess.
+
+The perspective of the film resembles the views of white-settler communities in African colonies like Kenya and Rhodesia that found some support in Britain: black Africans are getting the upper hand, and British politicians do nothing to stop them. The politician in the film is Miss Barker-Wise (Flora Robson), an MP on a visit to Africa, who champions Boniface. She knew him in England where she taught him as a student, and describes him on various occasions as ‘a very humane man’ whose ‘principles are very sound’ and ‘a civilised and cultured man’. When Lauderdale describes her idea of Africa as ‘smarmy, silly, bloody half-baked’ and reminds her that ‘You’re not in Parliament now, this isn’t England and I know more about these people than you do’, he draws on an analysis familiar in white-settler communities: metropolitan administrators and politicians are ignorant of Africa and Africans, knowing nothing at firsthand.
+
+If Miss Barker-Wise champions the new Africa of decolonisation, Lauderdale’s values belong to an imperial tradition. He regards Boniface as a mutineer. The film gives his values considerable endorsement in his conflicts with Miss Barker-Wise. Her misjudgment of Boniface is heavily underlined: unlike other educated Africans in British film, Boniface is cruel, untrustworthy and unprincipled. In the final sequences of the film, Miss Barker-Wise admits her error, but also tells Lauderdale that Boniface has been made a Colonel. The coup succeeds and Boniface, not Lauderdale, has the last word, demanding that Lauderdale leave the country. The British Colonel confesses his own impotence as he orders Lauderdale to return to England by the next available plane, at the same time admitting that in Lauderdale’s place he would have done exactly the same ‘step for step’. The action of the soldier hero in the aftermath of loss of empire is thus shown as more likely to earn punishment than medals. _Guns at Batasi_ is imbued with sadness for a lost world, and shows the British Army profoundly affected by decolonisation – its capacity for action eroded to the point of immobility, its authority diminished and its soldiers unhonoured.  
+**Wendy Webster in Lee Grieveson and Colin MacCabe (eds), _Film and the End of Empire_  (BFI/Palgrave Macmillan, 2011)**
+<br><br>
+
+**GUNS AT BATASI**<br>
+
+_Directed by:_ John Guillermin<br>
+
+©: Twentieth Century-Fox Productions Ltd<br>
+
+_Presented by:_  
+Twentieth Century-Fox Film Corporation<br>
+
+_Produced by:_ George H. Brown<br>
+
+_Production Manager:_ David W. Orton
+
+_Assistant Director:_ Jan Darnley Smith
+
+_Continuity:_ Betty Harley
+
+_Casting Director:_ Stuart Lyons
+
+_Screenplay by:_ Robert Holles
+
+_Original Adaptation:_ Leo Marks, Marshall Pugh
+
+_Additional Material:_ C.M. Pennington-Richards
+
+_Based on the novel_ The Siege of Battersea _by:_ Robert Holles
+
+_Director of Photography:_ Douglas Slocombe
+
+_Camera Operator:_ Gerry Fisher
+
+_Editor:_ Max Benedict
+
+_Art Director:_ Maurice Carter
+
+_Wardrobe:_ John McCorry
+
+_Make-up:_ Stuart Freeborn
+
+_Hairdressing:_ Barbara Ritchie
+
+_Music Composed and Conducted by:_ John Addison
+
+_Played by:_ Sinfonia of London
+
+_Sound Recordists:_ Bill Daniels, Robert T. McPhee
+
+_Sound System:_ Westrex Recording System
+
+_Sound Editor:_ Don Deacon
+
+_Made at:_ Pinewood Studios
+
+_Cast:_
+
+Richard Attenborough
+
+_(Regimental Sergeant Major Lauderdale)_
+
+Flora Robson _(Miss Barker-Wise)_
+
+John Leyton _(Private Wilkes)_
+
+Mia Farrow _(Karen Eriksson)_
+
+Cecil Parker _(Sir William Fletcher)_
+
+Errol John _(Lieutenant Boniface)_
+
+Graham Stark _(Sergeant ‘Dodger’ Brown)_
+
+Earl Cameron _(Captain Abraham)_
+
+John Meillon _(Sergeant ‘Digger’ Drake)_
+
+Percy Herbert _(Colour Sergeant Ben Smith)_
+
+David Lodge _(Sergeant ‘Muscles’ Dunn)_
+
+Bernard Horsfall _(Sergeant ‘Schoolie’ Prideaux)_
+
+Jack Hawkins _(Colonel John Deal)_
+
+Horace James _(Corporal Abou)_
+
+Patrick Holt _(captain)_
+
+Alan Browning _(Tony, the adjutant)_
+
+Richard Bidlake _(lieutenant)_
+
+Joseph Layode _(Archibong Shaw)_
+
+Ric Hutton _(Russell)_
+
+_uncredited_
+
+Thomas Baptiste
+
+Bloke Modisane
+
+UK-USA 1964©
+
+98 mins
+
+35mm
+
+A BFI National Archive print
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc4NTQyMTU1N119
+-->
