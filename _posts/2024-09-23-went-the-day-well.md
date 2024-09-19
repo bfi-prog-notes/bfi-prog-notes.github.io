@@ -82,45 +82,27 @@ Eric Micklewood _(soldier Klotz)_<br>
 
 _uncredited_<br>
 Josephine Middleton _(Mrs Carter)_<br>
-
 James Donald _(German corporal)_<br>
-
 Gerard Heinz _(Schmidt)_<br>
-
 Gerald Moore _(Johnnie Wade)_<br>
-
 Robert MacDermot _(BBC announcer)_<br>
-
 Charles Paton _(Harry Brown)_<br>
-
 Arthur Ridley _(Father Owen)_<br>
-
 Anthony Pilbeam _(Ted Garbett)_<br>
-
 Lilian Ellias _(Bridget, the Frasers’ maid)_<br>
-
 Kathleen Boutall _(Mrs Sturry)_<br>
-
 Mavis Villiers _(Violet)_<br>
-
 Josie Welford _(June)_<br>
-
 Norman Shelley _(Bob Owen)_<br>
-
 Irene Arnold _(Mrs Drew)_<br>
-
-Leslie Gorman, Robert Bradford, Dean Braine, Wyndham Milligan, H. Victor Weske
-
-_(German soldiers)_<br>
+Leslie Gorman, Robert Bradford, Dean Braine, Wyndham Milligan, H. Victor Weske _(German soldiers)_<br>
 
 UK 1942<br>
-
 95 mins<br>
-
 35mm Nitrate
 
 A BFI National Archive print<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM4MzY3Nl19
+eyJoaXN0b3J5IjpbLTE3NzU2MjEwMzRdfQ==
 -->
