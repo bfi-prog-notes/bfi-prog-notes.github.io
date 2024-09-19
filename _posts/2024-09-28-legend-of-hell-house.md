@@ -57,15 +57,13 @@ _Sets Designed by_: Robert Jones
 _Wardrobe Mistress_: Eileen Sullivan  
 _Make Up_: Linda Devetta  
 _Hairdresser_: Pat McDermott  
-_Music and Electronic Score by_:  Brian Hodgson of Electrophon Ltd,  
-Delia Derbyshire of Electrophon Ltd  
+_Music and Electronic Score by_:  Brian Hodgson of Electrophon Ltd,  Delia Derbyshire of Electrophon Ltd  
 _Sound Recordists_: Les Hammond, Bill Rowe  
 _Dubbing Editor_: Peter Lennard  
 _Technical Advisor_: Tom Corbett  
 _Made at the_: EMI-MGM Elstree Studios
 
-_Cast:_
-
+**Cast**  
 Pamela Franklin _(Florence Tanner)_  
 Roddy McDowall _(Ben Fischer)_  
 Clive Revill _(Dr Chris Barrett)_  
@@ -74,13 +72,12 @@ Roland Culver _(Rudolph Deutsch)_
 Peter Bowles _(Hanley)_  
 Michael Gough _(Emeric Belasco)_ *
 
-USA-UK 1973©
-
-95 mins
-
+USA-UK 1973©  
+95 mins  
 35mm
 
 A BFI National Archive print
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI4MDkwNTVdfQ==
+eyJoaXN0b3J5IjpbOTU0NzczMjM3XX0=
 -->
