@@ -22,160 +22,105 @@ _Went the Day Well?_ is not the grim, strenuously ‘realistic’ study of a vil
 <br><br>
 
 **WENT THE DAY WELL?**<br>
-
 _Directed by:_ [Alberto] Cavalcanti<br>
-
 _Presented by:_ Ealing Studios<br>
-
 _Distributed by:_ Associated British Film Distributors<br>
-
 _Produced by:_ Michael Balcon<br>
-
 _Associate Producer:_ S.C. Balcon<br>
-
 _Production Manager:_ Hal Mason<br>
-
 _Production Supervisor:_ John Croydon<br>
-
-_Story and Screen Play:_ John Dighton,  
-Diana Morgan, Angus MacPhail<br>
-
+_Story and Screen Play:_ John Dighton,  Diana Morgan, Angus MacPhail<br>
 _From a story by:_ Graham Greene<br>
-
 _Cameraman:_ Wilkie Cooper<br>
-
 _Reporter Cameraman:_ D. [Douglas] Slocombe<br>
-
 _Camera Operator:_ G. [Gerald] Gibbs<br>
-
 _Special Effects:_ Roy Kellino<br>
-
 _Editor:_ Sidney Cole<br>
-
 _Art Director:_ Tom Morahan<br>
-
 _Music:_ William Walton<br>
-
 _Musical Director:_ Ernest Irving<br>
-
 _Sound Supervisor:_ Eric Williams<br>
-
 _Sound Recordist:_ L. Page<br>
-
 _Sound System:_ RCA<br>
-
 _Thanked in credits:_ The War Office<br>
-
 _Made and Recorded at:_ Ealing Studios<br>
 
 _uncredited_<br>
-
 _Location Manager:_ Ronald Brantford<br>
-
 _Assistant Directors:_ Billy Russell, Muriel Cole, Norman Priggen, Cyril Pope<br>
-
 _Continuity:_ Daphne Heathcote<br>
-
-_Assistant Camera:_ Hal Britten, J. Dean,  
-Desmond Crowley<br>
-
+_Assistant Camera:_ Hal Britten, J. Dean,  Desmond Crowley<br>
 _Stills:_ Wilfrid Newton, Eddie Orton<br>
-
 _Assistant Art Director:_ Michael Relph<br>
-
 _Sound Camera:_ Peter T. Davies<br>
-
 _Boom Operator:_ Bert Minnell<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Leslie Banks _(Oliver Wilsford)_<br>
-
 Elizabeth Allan _(Peggy Fry)_<br>
-
 Frank Lawton _(Tom Sturry)_<br>
-
 Basil Sydney _(Major Ortler)_<br>
-
 Valerie Taylor _(Nora Ashton)_<br>
-
 Mervyn Johns _(Charlie Sims)_<br>
-
 Edward Rigby _(Bill Purvis, the poacher)_<br>
-
 Marie Lohr _(Mrs Fraser)_<br>
-
 C.V. France _(Vicar Ashton)_<br>
-
 David Farrar _(Lt Jung)_<br>
-
 Muriel George _(Mrs Collins, the postmistress)_<br>
+Thora Hird _(Ivy, land girl)_<br>
+Norman Pierce _(Jim Sturry)_<br>
+men of the Gloucestershire Regiment _(soldiers)_<br>
+Harry Fowler _(young George Truscott)_<br>
+Patricia Hayes _(Daisy)_<br>
+Hilda Bayley _(cousin Maud Chapman)_<br>
+Johnny Schofield _(Joe Garbett)_<br>
+Ellis Irving _(Harry Drew)_<br>
+Philippa Hiatt _(Mrs Bates)_<br>
+Grace Arnold _(Mrs Owen)_<br>
+John Slater _(German sergeant)_<br>
+Eric Micklewood _(soldier Klotz)_<br>
 
-Thora Hird _(Ivy, land girl)_
+_uncredited_<br>
+Josephine Middleton _(Mrs Carter)_<br>
 
-Norman Pierce _(Jim Sturry)_
+James Donald _(German corporal)_<br>
 
-men of the Gloucestershire Regiment _(soldiers)_
+Gerard Heinz _(Schmidt)_<br>
 
-Harry Fowler _(young George Truscott)_
+Gerald Moore _(Johnnie Wade)_<br>
 
-Patricia Hayes _(Daisy)_
+Robert MacDermot _(BBC announcer)_<br>
 
-Hilda Bayley _(cousin Maud Chapman)_
+Charles Paton _(Harry Brown)_<br>
 
-Johnny Schofield _(Joe Garbett)_
+Arthur Ridley _(Father Owen)_<br>
 
-Ellis Irving _(Harry Drew)_
+Anthony Pilbeam _(Ted Garbett)_<br>
 
-Philippa Hiatt _(Mrs Bates)_
+Lilian Ellias _(Bridget, the Frasers’ maid)_<br>
 
-Grace Arnold _(Mrs Owen)_
+Kathleen Boutall _(Mrs Sturry)_<br>
 
-John Slater _(German sergeant)_
+Mavis Villiers _(Violet)_<br>
 
-Eric Micklewood _(soldier Klotz)_
+Josie Welford _(June)_<br>
 
-_uncredited_
+Norman Shelley _(Bob Owen)_<br>
 
-Josephine Middleton _(Mrs Carter)_
-
-James Donald _(German corporal)_
-
-Gerard Heinz _(Schmidt)_
-
-Gerald Moore _(Johnnie Wade)_
-
-Robert MacDermot _(BBC announcer)_
-
-Charles Paton _(Harry Brown)_
-
-Arthur Ridley _(Father Owen)_
-
-Anthony Pilbeam _(Ted Garbett)_
-
-Lilian Ellias _(Bridget, the Frasers’ maid)_
-
-Kathleen Boutall _(Mrs Sturry)_
-
-Mavis Villiers _(Violet)_
-
-Josie Welford _(June)_
-
-Norman Shelley _(Bob Owen)_
-
-Irene Arnold _(Mrs Drew)_
+Irene Arnold _(Mrs Drew)_<br>
 
 Leslie Gorman, Robert Bradford, Dean Braine, Wyndham Milligan, H. Victor Weske
 
-_(German soldiers)_
+_(German soldiers)_<br>
 
-UK 1942
+UK 1942<br>
 
-95 mins
+95 mins<br>
 
 35mm Nitrate
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzMzNDI0NF19
+eyJoaXN0b3J5IjpbLTE5NjM4MzY3Nl19
 -->
