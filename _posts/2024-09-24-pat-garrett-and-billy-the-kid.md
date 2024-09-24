@@ -4,7 +4,7 @@ _+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences_
 
 **SPOILER WARNING**  The following notes give away some of the plot.
 
-**A contemporary review**
+**A contemporary review**  
 The story of Billy the Kid has been told often enough for its basic outline to require only the lightest of sketches, while Peckinpah’s own nostalgia for obsolescent gunmen has become as much of a trademark as Ford’s skylines. The outlaw turned sheriff, the obsessive pursuit from one decrepit town to the next, the two friends who must shoot it out to the death – the territory has been so well explored that few members of Peckinpah’s audience will be entirely without map references.
 
 Myths don’t require surprises; instead they demand ritual, a formal pattern that can be repeated to infinity, and grandeur. And they need (as Fritz Lang pointed out in _Le Mépris_) the vitality of perpetual reinterpretation.  The less that is explained in _Pat Garrett and Billy the Kid_, the more that is explicable – not only in terms of plot but also in terms of metaphor. Fernandez may have been a member of the Kid’s gang in the past, or no more than a passing shepherd with a daughter susceptible to rape; what matters here is his presence, the sense of other times and other places, the glimpse of another life going on in another direction. The enigma of his relationship with Billy is balanced, as it turns out, by Billy’s series of fights with Chisholm, whose nature can be deduced from Garrett’s contemptuous meeting with his would-be hirers (he informs them tersely where they can stuff their money), lurks in the wings like a spider, occasionally casting a barbed-wire thread across the screen. He is progress, fate, and the future; he means the ruthless destruction of the values that Garrett and the Kid once knew; he is the capitalist, the money-spreader, and the law. He is even, you might say, the Hollywood producer. Without him, the myth could not exist.
@@ -23,6 +23,149 @@ _The Getaway_ (the scene of Billy playing cards with one jailer and riling the o
 The only major eccentricity (Peckinpah’s West is a catalogue of eccentrics) which is on the edge of not working is the figure of Bob Dylan, his motivations and behaviour more peculiar than obscure, his own Dylan myth and brittle self-possession a slightly uneasy anachronism beside the comfortable performances of James Coburn (Garrett) and Kris Kristofferson. (William Bonney was never as robust as this, but Kristofferson is otherwise the ideal Peckinpah hero.) And as the ultimate seal of approval, the director himself pops into the film to urge Garrett to complete the ritual by killing the Kid, as if Peckinpah feared that the legends might change and die without him to guide their perpetuation. Where _Wild Bunch_ used brute force, _Pat Garrett and Billy the Kid_ favours elegy; the effect is less shattering, but the tone of savoured melancholy is just as haunting.  
 **Philip Strick, _Sight and Sound_, Autumn 1973**  
 <br>
+**PAT GARRETT & BILLY THE KID**
+
+_Directed by:_ Sam Peckinpah
+
+_©:_ Metro-Goldwyn-Mayer, Inc.
+
+_Presented by:_ Metro-Goldwyn-Mayer
+
+_Produced by:_ Gordon Carroll
+
+_Unit Production Manager:_ Jim Henderling
+
+_Mexican Production Manager:_
+
+Alfonso Sánchez Tello
+
+_2nd Unit Director:_ Gordon Dawson
+
+_Assistant Director:_ Newton Arnold
+
+_2nd Assistant Director:_ Lawrence J. Powell
+
+_Mexican Assistant Director:_ Jesús Marín Bello
+
+_Casting by:_ Patricia Mock
+
+_Screenplay:_ Rudy Wurlitzer
+
+_Director of Photography:_ John Coquillon
+
+_2nd Unit Director of Photography:_ Gabriel Torres G.
+
+_Camera Operator:_ Herbert Smith
+
+_Special Visual Effects:_ A.J. Lohman
+
+_Editors:_ Roger Spottiswoode, Garth Craven,
+
+Robert L. Wolfe, Richard Halsey, David Berlatsky, Tony De Zarraga
+
+_Art Director:_ Ted Haworth
+
+_Set Decoration:_ Ray Moyer
+
+_Property Master:_ Robert John Visciglia
+
+_Wardrobe:_ Michael Butler
+
+_Make-up by:_ Jack P. Wilson
+
+_Colour by:_ Metrocolor
+
+_Filmed in:_ Panavision
+
+_Music by:_ Bob Dylan
+
+_Music Editor:_ Dan Carlin
+
+_Sound:_ Charles M. Wilborn, Harry W. Tetrick
+
+_Supervising Sound Editor:_ Bill Wistrom *
+
+_Studio:_ Estudios Churubusco *
+
+_Cast:_
+
+James Coburn _(Pat Garrett)_
+
+Kris Kristofferson _(William ‘Billy the Kid’ Bonney)_
+
+Richard Jaeckel _(Sheriff Kip McKinney)_
+
+Katy Jurado _(Mrs Baker)_
+
+Chill Wills _(Lemuel)_
+
+Barry Sullivan _(John Simpson Chisum)_
+
+Jason Robards _(Governor Lew Wallace)_
+
+Bob Dylan _(Alias)_
+
+R.G. Armstrong _(Deputy Ollinger)_
+
+Luke Askew _(Eno)_
+
+John Beck _(John W. Poe)_
+
+Richard Bright _(Holly)_
+
+Matt Clark _(Deputy J.W. Bell)_
+
+Rita Coolidge _(Maria)_
+
+Jack Dodson _(Howland)_
+
+Jack Elam _(Alamosa Bill)_
+
+Emilio Fernández _(Paco)_
+
+Paul Fix _(Pete Maxwell)_
+
+L.Q. Jones _(Black Harris)_
+
+Slim Pickens _(Sheriff Baker)_
+
+Jorge Russek _(Silva)_
+
+Charlie Martin Smith _(Bowdre)_
+
+Harry Dean Stanton _(Luke)_
+
+Claudia Bryar _(Mrs Horrell)_
+
+John Chandler _(Norris)_
+
+Mike Mikler _(Denver)_
+
+Aurora Clavell _(Mrs Ida Garrett)_
+
+Rutanya Alda _(Ruthie Lee)_
+
+Walter Kelley _(Rupert)_
+
+Rudy Wurlitzer _(Tom O’Folliard)_
+
+Elisha Cook Jr _(Cody)_
+
+Gene Evans _(Mr Horrell)_
+
+Donnie Fritts _(Beaver)_
+
+Dub Taylor _(Josh)_
+
+Don Levy _(Sackett)_
+
+Sam Peckinpah _(Will, the undertaker)_ *
+
+USA 1973©  
+122 mins  
+Digital 4K (restoration)    
+
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzMzNzk0M119
+eyJoaXN0b3J5IjpbMTI0MzQ2MTk2Ml19
 -->
