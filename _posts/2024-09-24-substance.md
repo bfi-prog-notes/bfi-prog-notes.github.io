@@ -47,7 +47,7 @@ _Costume Design:_ Emmanuelle Youchnovski
 _Music:_ Raffertie  
 _Sound Designer/Sound Editor:_ Valérie Deloof  
 
-_Cast:_  
+**Cast**    
 Demi Moore _(Elisabeth Sparkle)_  
 Margaret Qualley _(Sue)_  
 Dennis Quaid _(Harvey)_  
