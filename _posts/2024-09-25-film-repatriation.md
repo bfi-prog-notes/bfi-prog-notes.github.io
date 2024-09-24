@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Film Repatriation and<br>New Relational Possibilities<br>An Illustrated Talk by Xavier Pillai
+title:  Film Repatriation and<br>New Relational Possibilities<br>An Illustrated Talk by<br>Xavier Pillai
 published: true
 date: 2024-09-25
 readtime: true
@@ -20,7 +20,7 @@ In Felwine Sarr and Benedicte Savoy’s _Restitution of African Cultural Heritag
 
 This practice report will reflect on the history of the Overseas Film and Television Centre (OFTVC) and the eventual repatriation of material to the ownership of the state of Trinidad and Tobago by the British Film Institute (BFI).
 
-Index:
+**Index**
 
 Acronyms:
 
@@ -48,7 +48,7 @@ Note: Throughout the lecture, the terms National Film Library (from 1935), Natio
 
 The paper that accompanies this presentation will be published as part of the edited volume _Restitution and the Moving Image: On the Politics and Ethics of Global Audiovisual Archiving_, eds. Nikolaus Perneczky and Cecilia Valenti (Amsterdam University Press).
 
-**Speakers:**
+**Speakers**
 
 **Xavier Alexandre Pillai** is a curator and programmer at the BFI, a writer and a trustee at LUX Moving Image, based in London. He has curated on large public access projects like BFI Replay and is co-curator of a project on the Black and South Asian workshops. His research focuses on the issues of restitution and repatriation in film, manifested in a paper presented at the FIAF Global Symposium in 2024 and a curated film programme, ‘Restitution in Motion:  
 The Call for the Return of Cultural Property, in 2023 for the Independent Cinema Office. He has programmed for the London Film Festival, the Trinidad and Tobago Film Festival and has written for publications as diverse as _Sight and Sound_ and UltraDogme. He can be found online at @Xavi____a.
