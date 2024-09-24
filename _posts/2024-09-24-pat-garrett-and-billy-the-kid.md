@@ -7,7 +7,7 @@ readtime: true
 categories: ['RESTORED']
 tags: [Western]
 metadata: 'USA 1973, 122 mins<br> Director: Sam Peckinpah'
-pdf: '2024-09-24-pat-garrett-and-bill.pdf'
+pdf: '2024-09-24-pat-garrett-and-billy-the-kid.pdf'
 ---
 
 _+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences_
@@ -27,8 +27,7 @@ What follows is a series of sacrifices. Trapped in a hut by Garrett’s ambush, 
 
 The missing scene of Garrett’s death is embodied in that clod of earth, but what would have made it even more superfluous is the way Peckinpah films the killing of Billy, when Garrett’s second shot hits his own mirror image. With the death of the Kid, Garrett himself is dead; he has destroyed what he used to be and at the same time he has destroyed his reason for living. His vigil over the body restages the death of Pickens beside the river, a slow ebb of life and purpose. Earlier, beside the same river, Garrett has watched a cumbersome boat go by, its owner shooting at bottles for evidently much needed target practice; Garrett’s attempt to join the contest earns him only a shotgun blast past his ear, and boatman and sheriff confront each other warily until the current takes the floating family out of range. The scene could be cut so easily that one wonders how it survived. Could someone have noticed that with its extraordinary layers of mood and meaning it is very nearly the heart of the film?
 
-Changes of direction may have been indicated by the subjects of Peckinpah’s last four films, but with _Pat Garrett and Billy the Kid_ he demonstrates reassuringly that his first love hasn’t lost its potency. Beautifully shot by John Coquillon, the film certainly makes better watching than _Straw Dogs_ or  
-_The Getaway_ (the scene of Billy playing cards with one jailer and riling the other, while kids play on the gallows outside, is a superbly composed example), and the various towns in which it’s set look so authentic as to have survived intact, by some miracle, the lesser myths that have passed through them since 1881.
+Changes of direction may have been indicated by the subjects of Peckinpah’s last four films, but with _Pat Garrett and Billy the Kid_ he demonstrates reassuringly that his first love hasn’t lost its potency. Beautifully shot by John Coquillon, the film certainly makes better watching than _Straw Dogs_ or _The Getaway_ (the scene of Billy playing cards with one jailer and riling the other, while kids play on the gallows outside, is a superbly composed example), and the various towns in which it’s set look so authentic as to have survived intact, by some miracle, the lesser myths that have passed through them since 1881.
 
 The only major eccentricity (Peckinpah’s West is a catalogue of eccentrics) which is on the edge of not working is the figure of Bob Dylan, his motivations and behaviour more peculiar than obscure, his own Dylan myth and brittle self-possession a slightly uneasy anachronism beside the comfortable performances of James Coburn (Garrett) and Kris Kristofferson. (William Bonney was never as robust as this, but Kristofferson is otherwise the ideal Peckinpah hero.) And as the ultimate seal of approval, the director himself pops into the film to urge Garrett to complete the ritual by killing the Kid, as if Peckinpah feared that the legends might change and die without him to guide their perpetuation. Where _Wild Bunch_ used brute force, _Pat Garrett and Billy the Kid_ favours elegy; the effect is less shattering, but the tone of savoured melancholy is just as haunting.  
 **Philip Strick, _Sight and Sound_, Autumn 1973**  
@@ -157,25 +156,43 @@ Rutanya Alda _(Ruthie Lee)_
 
 Walter Kelley _(Rupert)_
 
-Rudy Wurlitzer _(Tom O’Folliard)_
-
-Elisha Cook Jr _(Cody)_
-
-Gene Evans _(Mr Horrell)_
-
-Donnie Fritts _(Beaver)_
-
-Dub Taylor _(Josh)_
-
-Don Levy _(Sackett)_
-
-Sam Peckinpah _(Will, the undertaker)_ *
+Rudy Wurlitzer _(Tom O’Folliard)_  
+Elisha Cook Jr _(Cody)_  
+Gene Evans _(Mr Horrell)_  
+Donnie Fritts _(Beaver)_  
+Dub Taylor _(Josh)_  
+Don Levy _(Sackett)_  
+Sam Peckinpah _(Will, the undertaker)_ *  
 
 USA 1973©  
 122 mins  
 Digital 4K (restoration)    
 
 \* Uncredited  
+<br>
+**SIGHT AND SOUND**  
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzk1MjA4NV19
+eyJoaXN0b3J5IjpbLTIwMjkyMjM5MzhdfQ==
 -->
