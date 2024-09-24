@@ -38,18 +38,12 @@ _©:_ Metro-Goldwyn-Mayer, Inc.
 _Presented by:_ Metro-Goldwyn-Mayer  
 _Produced by:_ Gordon Carroll  
 _Unit Production Manager:_ Jim Henderling  
-_Mexican Production Manager:_ Alfonso Sánchez Tello
-
-_2nd Unit Director:_ Gordon Dawson
-
-_Assistant Director:_ Newton Arnold
-
-_2nd Assistant Director:_ Lawrence J. Powell
-
-_Mexican Assistant Director:_ Jesús Marín Bello
-
-_Casting by:_ Patricia Mock
-
+_Mexican Production Manager:_ Alfonso Sánchez Tello  
+_2nd Unit Director:_ Gordon Dawson  
+_Assistant Director:_ Newton Arnold  
+_2nd Assistant Director:_ Lawrence J. Powell  
+_Mexican Assistant Director:_ Jesús Marín Bello  
+_Casting by:_ Patricia Mock  
 _Screenplay:_ Rudy Wurlitzer  
 _Director of Photography:_ John Coquillon  
 _2nd Unit Director of Photography:_ Gabriel Torres G.  
@@ -137,5 +131,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNDUzMThdfQ==
+eyJoaXN0b3J5IjpbLTE1MjYzODczNTRdfQ==
 -->
