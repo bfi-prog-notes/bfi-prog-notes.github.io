@@ -32,21 +32,13 @@ Changes of direction may have been indicated by the subjects of Peckinpah’s la
 The only major eccentricity (Peckinpah’s West is a catalogue of eccentrics) which is on the edge of not working is the figure of Bob Dylan, his motivations and behaviour more peculiar than obscure, his own Dylan myth and brittle self-possession a slightly uneasy anachronism beside the comfortable performances of James Coburn (Garrett) and Kris Kristofferson. (William Bonney was never as robust as this, but Kristofferson is otherwise the ideal Peckinpah hero.) And as the ultimate seal of approval, the director himself pops into the film to urge Garrett to complete the ritual by killing the Kid, as if Peckinpah feared that the legends might change and die without him to guide their perpetuation. Where _Wild Bunch_ used brute force, _Pat Garrett and Billy the Kid_ favours elegy; the effect is less shattering, but the tone of savoured melancholy is just as haunting.  
 **Philip Strick, _Sight and Sound_, Autumn 1973**  
 <br>
-**PAT GARRETT & BILLY THE KID**
-
-_Directed by:_ Sam Peckinpah
-
-_©:_ Metro-Goldwyn-Mayer, Inc.
-
-_Presented by:_ Metro-Goldwyn-Mayer
-
-_Produced by:_ Gordon Carroll
-
-_Unit Production Manager:_ Jim Henderling
-
-_Mexican Production Manager:_
-
-Alfonso Sánchez Tello
+**PAT GARRETT & BILLY THE KID**  
+_Directed by:_ Sam Peckinpah  
+_©:_ Metro-Goldwyn-Mayer, Inc.  
+_Presented by:_ Metro-Goldwyn-Mayer  
+_Produced by:_ Gordon Carroll  
+_Unit Production Manager:_ Jim Henderling  
+_Mexican Production Manager:_ Alfonso Sánchez Tello
 
 _2nd Unit Director:_ Gordon Dawson
 
@@ -58,104 +50,55 @@ _Mexican Assistant Director:_ Jesús Marín Bello
 
 _Casting by:_ Patricia Mock
 
-_Screenplay:_ Rudy Wurlitzer
+_Screenplay:_ Rudy Wurlitzer  
+_Director of Photography:_ John Coquillon  
+_2nd Unit Director of Photography:_ Gabriel Torres G.  
+_Camera Operator:_ Herbert Smith  
+_Special Visual Effects:_ A.J. Lohman  
+_Editors:_ Roger Spottiswoode, Garth Craven, Robert L. Wolfe, Richard Halsey, David Berlatsky, Tony De Zarraga  
+_Art Director:_ Ted Haworth  
+_Set Decoration:_ Ray Moyer  
+_Property Master:_ Robert John Visciglia  
+_Wardrobe:_ Michael Butler  
+_Make-up by:_ Jack P. Wilson  
+_Colour by:_ Metrocolor  
+_Filmed in:_ Panavision  
+_Music by:_ Bob Dylan  
+_Music Editor:_ Dan Carlin  
+_Sound:_ Charles M. Wilborn, Harry W. Tetrick  
+_Supervising Sound Editor:_ Bill Wistrom *  
+_Studio:_ Estudios Churubusco *  
 
-_Director of Photography:_ John Coquillon
-
-_2nd Unit Director of Photography:_ Gabriel Torres G.
-
-_Camera Operator:_ Herbert Smith
-
-_Special Visual Effects:_ A.J. Lohman
-
-_Editors:_ Roger Spottiswoode, Garth Craven,
-
-Robert L. Wolfe, Richard Halsey, David Berlatsky, Tony De Zarraga
-
-_Art Director:_ Ted Haworth
-
-_Set Decoration:_ Ray Moyer
-
-_Property Master:_ Robert John Visciglia
-
-_Wardrobe:_ Michael Butler
-
-_Make-up by:_ Jack P. Wilson
-
-_Colour by:_ Metrocolor
-
-_Filmed in:_ Panavision
-
-_Music by:_ Bob Dylan
-
-_Music Editor:_ Dan Carlin
-
-_Sound:_ Charles M. Wilborn, Harry W. Tetrick
-
-_Supervising Sound Editor:_ Bill Wistrom *
-
-_Studio:_ Estudios Churubusco *
-
-_Cast:_
-
-James Coburn _(Pat Garrett)_
-
-Kris Kristofferson _(William ‘Billy the Kid’ Bonney)_
-
-Richard Jaeckel _(Sheriff Kip McKinney)_
-
-Katy Jurado _(Mrs Baker)_
-
-Chill Wills _(Lemuel)_
-
-Barry Sullivan _(John Simpson Chisum)_
-
-Jason Robards _(Governor Lew Wallace)_
-
-Bob Dylan _(Alias)_
-
-R.G. Armstrong _(Deputy Ollinger)_
-
-Luke Askew _(Eno)_
-
-John Beck _(John W. Poe)_
-
-Richard Bright _(Holly)_
-
-Matt Clark _(Deputy J.W. Bell)_
-
-Rita Coolidge _(Maria)_
-
-Jack Dodson _(Howland)_
-
-Jack Elam _(Alamosa Bill)_
-
-Emilio Fernández _(Paco)_
-
-Paul Fix _(Pete Maxwell)_
-
-L.Q. Jones _(Black Harris)_
-
-Slim Pickens _(Sheriff Baker)_
-
-Jorge Russek _(Silva)_
-
-Charlie Martin Smith _(Bowdre)_
-
-Harry Dean Stanton _(Luke)_
-
-Claudia Bryar _(Mrs Horrell)_
-
-John Chandler _(Norris)_
-
-Mike Mikler _(Denver)_
-
-Aurora Clavell _(Mrs Ida Garrett)_
-
-Rutanya Alda _(Ruthie Lee)_
-
-Walter Kelley _(Rupert)_
-
+**Cast**  
+James Coburn _(Pat Garrett)_  
+Kris Kristofferson _(William ‘Billy the Kid’ Bonney)_  
+Richard Jaeckel _(Sheriff Kip McKinney)_  
+Katy Jurado _(Mrs Baker)_  
+Chill Wills _(Lemuel)_  
+Barry Sullivan _(John Simpson Chisum)_  
+Jason Robards _(Governor Lew Wallace)_  
+Bob Dylan _(Alias)_  
+R.G. Armstrong _(Deputy Ollinger)_  
+Luke Askew _(Eno)_  
+John Beck _(John W. Poe)_  
+Richard Bright _(Holly)_  
+Matt Clark _(Deputy J.W. Bell)_  
+Rita Coolidge _(Maria)_  
+Jack Dodson _(Howland)_  
+Jack Elam _(Alamosa Bill)_  
+Emilio Fernández _(Paco)_  
+Paul Fix _(Pete Maxwell)_  
+L.Q. Jones _(Black Harris)_  
+Slim Pickens _(Sheriff Baker)_  
+Jorge Russek _(Silva)_  
+Charlie Martin Smith _(Bowdre)_  
+Harry Dean Stanton _(Luke)_  
+Claudia Bryar _(Mrs Horrell)_  
+John Chandler _(Norris)_  
+Mike Mikler _(Denver)_  
+Aurora Clavell _(Mrs Ida Garrett)_  
+Rutanya Alda _(Ruthie Lee)_  
+Walter Kelley _(Rupert)_  
 Rudy Wurlitzer _(Tom O’Folliard)_  
 Elisha Cook Jr _(Cody)_  
 Gene Evans _(Mr Horrell)_  
@@ -194,5 +137,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkyMjM5MzhdfQ==
+eyJoaXN0b3J5IjpbNDczNDUzMThdfQ==
 -->
