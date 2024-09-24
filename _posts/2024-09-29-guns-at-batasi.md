@@ -146,7 +146,7 @@ Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
 Martin Scorsese and Edgar Wright<br>
 <br><br>
 
-**SIGHT AND SOUND**<br>
+**SIGHT AND SOUND**  
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
@@ -170,5 +170,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU2MDQ5MzldfQ==
+eyJoaXN0b3J5IjpbMTgwMDgwNTExMiwtMTYzNTYwNDkzOV19
 -->
