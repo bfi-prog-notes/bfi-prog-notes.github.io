@@ -6,8 +6,8 @@ date: 2024-09-24
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama, Sci-Fi]
-metadata: 'Iran, France, Sweden, Germany 2024, 97 mins<br> Directors: Maryam Moghaddam, Behtash Sanaeeha'
-pdf: '2024-09-13-my-favourite-cake.pdf'
+metadata: 'UK, USA, France 2024, 140 mins<br> Director: Coralie Fargeat'
+pdf: '2024-09-24-substance.pdf'
 ---
 
 The bravura opening of Coralie Fargeat’s bonkers body horror _The Substance_ tracks, via time-lapse photography, the installation and subsequent deterioration of a Hollywood Walk of Fame star. At first bright and gleaming and thrilling to tourists, over time it cracks and dulls, suffering the indignities of stubbed-out cigarette butts and spilled ketchup that seeps into its cracks and stains its faded surface.
@@ -63,6 +63,48 @@ UK-USA-France 2024
 Digital  
 
 A MUBI release  
+<br>
+
+
+**NEW RELEASES**<br>
+**Sing Sing**<br>
+From Fri 30 Aug<br>
+**Starve Acre**<br>
+From Fri 6 Sep; Sat 7 Sep 15:00 + discussion with filmmaker Daniel Kokotajlo and novelist Andrew Michael Hurley<br>
+**My Favourite Cake** Keyke mahboobe man<br>
+From Fri 13 Sep<br>
+**In Camera**<br>
+From Fri 13 Sep; Preview Thu 5 Sep 20:35 + Q&A with director Naqqash Khalid and actors Nabhaan Rizwan, Amir El-Masry and Rory Fleck Byrne<br>
+**The Substance**<br>
+From Fri 20 Sep<br>
+**The Outrun**<br>
+From Fri 27 Sep<br>
+**The Goldman Case** Le Procès Goldman<br>
+From Fri 4 Oct<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE1MjQwMTYsLTY0MzM5MjYxNF19
+eyJoaXN0b3J5IjpbMTY0MjM3NDU2MiwtNjQzMzkyNjE0XX0=
 -->
