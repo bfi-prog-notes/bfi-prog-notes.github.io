@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  Film Repatriation and<br>New Relational Possibilities  
-An Illustrated Talk by Xavier Pillai
+title:  Film Repatriation and<br>New Relational Possibilities<br>An Illustrated Talk by Xavier Pillai
 published: true
-date: 2024-09-12
+date: 2024-09-25
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
-metadata: 'Ireland/UK 2008, 96 mins<br> Director: Steve McQueen'
-pdf: '2024-09-12-hunger.pdf'
+categories: ['EXPERIMENTA']
+tags: [TALK]
+metadata: ''
+pdf: '2024-09-25-film-repatriation.pdf'
 ---
 
 Film heritage is now considered part of broader calls for the restitution of heritage objects. Unlike other cultural artifacts, however, film is an industrial art, which during the colonial era was disseminated via colonial film units, binding audiovisual culture and heritage to the colonial project. The continued dependency of post-colonial cinemas on European labs and post-production facilities perpetuated the colonial relationship. As labs and related facilities collapsed, materials were offered to Western archives and heritage institutions, which thus became enduringly entangled with the film histories of formerly colonised polities.
@@ -58,6 +57,8 @@ The Call for the Return of Cultural Property, in 2023 for the Independent Cinema
 co-existence and multiplicity. Onyeka’s practice figures sensorial, spatial and counter-hegemonic ways of knowing as central to that task. For her, the body, archives and narratives both oral and textual act as a mode of enquiry that makes possible the exposition of overlooked histories. Her works have been shown in the UK and internationally at film festivals, in galleries, museums and at biennals.
 
 **Arike Oke** joined the BFI in the new role of Executive Director of Knowledge and Collections in January 2022. Prior to the BFI Arike was the Managing Director for Black Cultural Archives, the home of Black British history. She’s worked in heritage across the UK from the seminal Connecting Histories project in Birmingham, collections development for Wellcome, and co-convening Hull’s first official Black History Month. Formerly Co-Chair of the Association of Performing Arts Collections, she has advised the National Archives, BAFTA and the UK government. She is a fellow of the Arts Council’s Museums and Resilient Leadership programme, a trustee of iniva, and is published by Hachette, Tate, and in various journals and magazines.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODM0Nzg5M119
+eyJoaXN0b3J5IjpbMTgyNzQwNjE3OF19
 -->
