@@ -67,23 +67,23 @@ A MUBI release
 
 
 **NEW RELEASES**<br>
-**Sing Sing**<br>
-From Fri 30 Aug<br>
-**Starve Acre**<br>
-From Fri 6 Sep; Sat 7 Sep 15:00 + discussion with filmmaker Daniel Kokotajlo and novelist Andrew Michael Hurley<br>
-**My Favourite Cake** Keyke mahboobe man<br>
-From Fri 13 Sep<br>
-**In Camera**<br>
-From Fri 13 Sep; Preview Thu 5 Sep 20:35 + Q&A with director Naqqash Khalid and actors Nabhaan Rizwan, Amir El-Masry and Rory Fleck Byrne<br>
-**The Substance**<br>
-From Fri 20 Sep<br>
-**The Outrun**<br>
-From Fri 27 Sep<br>
-**The Goldman Case** Le Procès Goldman<br>
-From Fri 4 Oct<br>
-<br><br>
+**Sing Sing**  
+From Fri 30 Aug  
+**Starve Acre**  
+From Fri 6 Sep; Sat 7 Sep 15:00 + discussion with filmmaker Daniel Kokotajlo and novelist Andrew Michael Hurley  
+**My Favourite Cake** Keyke mahboobe man  
+From Fri 13 Sep  
+**In Camera**  
+From Fri 13 Sep; Preview Thu 5 Sep 20:35 + Q&A with director Naqqash Khalid and actors Nabhaan Rizwan, Amir El-Masry and Rory Fleck Byrne  
+**The Substance**  
+From Fri 20 Sep  
+**The Outrun**  
+From Fri 27 Sep  
+**The Goldman Case** Le Procès Goldman  
+From Fri 4 Oct  
+<br>
 
-**SIGHT AND SOUND**<br>
+**SIGHT AND SOUND**  
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
@@ -106,5 +106,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjM3NDU2MiwtNjQzMzkyNjE0XX0=
+eyJoaXN0b3J5IjpbMTA0OTE0ODI4NiwtNjQzMzkyNjE0XX0=
 -->
