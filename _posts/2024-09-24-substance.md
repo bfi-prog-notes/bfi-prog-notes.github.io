@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Substance
+published: true
+date: 2024-09-24
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Sci-Fi]
+metadata: 'Iran, France, Sweden, Germany 2024, 97 mins<br> Directors: Maryam Moghaddam, Behtash Sanaeeha'
+pdf: '2024-09-13-my-favourite-cake.pdf'
+---
 
 The bravura opening of Coralie Fargeat’s bonkers body horror _The Substance_ tracks, via time-lapse photography, the installation and subsequent deterioration of a Hollywood Walk of Fame star. At first bright and gleaming and thrilling to tourists, over time it cracks and dulls, suffering the indignities of stubbed-out cigarette butts and spilled ketchup that seeps into its cracks and stains its faded surface.
 
@@ -54,5 +64,5 @@ Digital
 
 A MUBI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzM5MjYxNF19
+eyJoaXN0b3J5IjpbLTE5MzE1MjQwMTYsLTY0MzM5MjYxNF19
 -->
