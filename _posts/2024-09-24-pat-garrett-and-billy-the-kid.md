@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Pat Garrett & Billy the Kid
+published: true
+date: 2024-09-24
+readtime: true
+categories: ['RESTORED']
+tags: [Western]
+metadata: 'USA 1973, 122 mins<br> Director: Sam Peckinpah'
+pdf: '2024-09-24-pat-garrett-and-bill.pdf'
+---
 
 _+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences_
 
@@ -167,5 +177,5 @@ Digital 4K (restoration)
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzQ2MTk2Ml19
+eyJoaXN0b3J5IjpbMTY1Mzk1MjA4NV19
 -->
