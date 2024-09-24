@@ -25,49 +25,24 @@ Fargeat, likewise, is very hands-on at the editing stage, working here with Jér
 The locations, too, have their own symbolic and emotional sense: the long, Lynchian corridors of the studio that seem to suck Elisabeth and Sue in; the minimalist mid-century apartment dominated by a Dorian Gray-like portrait of Elisabeth and, through its vast windows, a billboard featuring a smiling Sue. The bathroom in which the protagonist’s metamorphoses take place, a white tiled, neon-lit laboratory space, was particularly important to Fargeat. ‘The bathroom is the place where she judges herself, where she looks at herself in the mirror, but also where she gives birth to her new self. So it’s kind of the passage between two worlds – between the world of Elisabeth and the world of Sue. A kind of white cocoon.’  
 **Catherine Wheatley, _Sight and Sound_, October 2024**  
 <br>
-**THE SUBSTANCE**
+**THE SUBSTANCE**  
+_Director:_ Coralie Fargeat  
+_Produced by:_ Coralie Fargeat, Tim Bevan, Eric Fellner  
+_Casting Directors:_ Laure Cochener, Léa Moszkowicz  
+_Written by:_ Coralie Fargeat  
+_Cinematography:_ Benjamin Kračun  
+_Editors:_ Coralie Fargeat, Jérôme Eltabet, Valentin Féron  
+_Production Design:_ Stanislas Reydellet  
+_Costume Design:_ Emmanuelle Youchnovski  
+_Music:_ Raffertie  
+_Sound Designer/Sound Editor:_ Valérie Deloof  
 
-_Director:_ Coralie Fargeat
-
-_Produced by:_ Coralie Fargeat, Tim Bevan,
-
-Eric Fellner
-
-_Casting Directors:_ Laure Cochener,
-
-Léa Moszkowicz
-
-_Written by:_ Coralie Fargeat
-
-_Cinematography:_ Benjamin Kračun
-
-_Editors:_ Coralie Fargeat, Jérôme Eltabet,
-
-Valentin Féron
-
-_Production Design:_ Stanislas Reydellet
-
-_Costume Design:_
-
-Emmanuelle Youchnovski
-
-_Music:_ Raffertie
-
-_Sound Designer/Sound Editor:_
-
-Valérie Deloof
-
-_Cast:_
-
-Demi Moore _(Elisabeth Sparkle)_
-
-Margaret Qualley _(Sue)_
-
-Dennis Quaid _(Harvey)_
-
-Hugo Diego Garcia _(Diego)_
-
-Oscar Lesage _(Troy)_
+_Cast:_  
+Demi Moore _(Elisabeth Sparkle)_  
+Margaret Qualley _(Sue)_  
+Dennis Quaid _(Harvey)_  
+Hugo Diego Garcia _(Diego)_  
+Oscar Lesage _(Troy)_  
 Joseph Balderrama _(Craig Silver)_  
 Alexandra Barton _(encourager)_  
 Tiffany Hofstetter _(the stylist)_  
@@ -79,5 +54,5 @@ Digital
 
 A MUBI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDgwODIwNl19
+eyJoaXN0b3J5IjpbLTY0MzM5MjYxNF19
 -->
