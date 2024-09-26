@@ -6,17 +6,15 @@ date: 2024-09-26
 readtime: true
 categories: ['EVENTS']
 tags: [War, Comedy]
-metadata: 'UK-USA 1964, 98 mins<br> Director: John Guillermin'
-pdf: '2024-09-29-guns-at-batasi.pdf'
+metadata: 'UK-USA 1963, 95 mins<br> Director: Stanley Kubrick'
+pdf: '2024-09-26-dr-strangelove.pdf'
 ---
-
 
 _+ Q&A with Armando Iannucci and Sean Foley_
 
 _We celebrate the 60th anniversary of Kubrick’s classic film in the company of the creative team behind the forthcoming stage production._
 
-When _Dr. Strangelove_ was released, many people assumed its humour derived chiefly from Terry Southern, who was strongly associated with 1960s’ counter-culture. Kubrick insisted that the satire was his own idea and that the order of script credits on the screen (himself first, Peter George second and Southern third) was proper. At one point, he threatened legal action against MGM for advertising _The Loved One_ (1964), an adaptation by Southern of a novel by Evelyn Waugh, as a film by ‘the writer of _Dr. Strangelove_’. In fact, Kubrick deserves a good deal of credit, if only because he recognised how easily the basic elements of George’s story could be tipped over into absurdity (it takes only a minor alteration, for instance, to transform ‘Peace on Earth’ into ‘Purity of Essence’). Because of this strategy, combined with Kubrick’s direction,  
-_Dr. Strangelove_ became a box-office hit and one of the most effective black comedies in film history. A risky commercial venture at the time of the Cuban missile crisis and the assassination of John F. Kennedy, it has never lost its edge and still looks refreshingly irreverent in today’s world of global capitalism, nuclear proliferation and flag-waving militarism.
+When _Dr. Strangelove_ was released, many people assumed its humour derived chiefly from Terry Southern, who was strongly associated with 1960s’ counter-culture. Kubrick insisted that the satire was his own idea and that the order of script credits on the screen (himself first, Peter George second and Southern third) was proper. At one point, he threatened legal action against MGM for advertising _The Loved One_ (1964), an adaptation by Southern of a novel by Evelyn Waugh, as a film by ‘the writer of _Dr. Strangelove_’. In fact, Kubrick deserves a good deal of credit, if only because he recognised how easily the basic elements of George’s story could be tipped over into absurdity (it takes only a minor alteration, for instance, to transform ‘Peace on Earth’ into ‘Purity of Essence’). Because of this strategy, combined with Kubrick’s direction, _Dr. Strangelove_ became a box-office hit and one of the most effective black comedies in film history. A risky commercial venture at the time of the Cuban missile crisis and the assassination of John F. Kennedy, it has never lost its edge and still looks refreshingly irreverent in today’s world of global capitalism, nuclear proliferation and flag-waving militarism.
 
 At the time when _Dr. Strangelove_ was produced, Hollywood had long been involved in the nexus of profit interests that President Eisenhower dubbed ‘the military-industrial complex’. During the Cold War, it was unusual to see any film about modern military hardware made without the active participation and endorsement of the armed services – an arrangement that allowed filmmakers to obtain expensive equipment and the military to enhance its public relations. The credit sequences in war pictures invariably thanked some branch of the service and often listed the officers who were supplied as advisors. (The tradition is alive today in spectacular action movies such as Ridley Scott’s _Black Hawk Down_ [2001].) The US Strategic Air Command had encouraged and received particularly lavish screen treatment of this type. The most awe-inspiring example was Paramount’s _Strategic Air Command_ (1955), directed by Anthony Mann and starring Air Force Reserve Colonel James Stewart, which took colour, Vista Vision cameras directly inside the huge nuclear bombers and showed stunning aerial photography of mid-air refuelling techniques. That film was followed by Warner’s colour and CinemaScope production of _Bombers B-52_ (1957), which was virtually a recruitment film for the Air Force. In contrast, the black-and-white _Dr. Strangelove_ lists no military advisors and inserts a crawl that precedes its credits, every line of which invites the viewer’s knowing scepticism: ‘It is the stated position of the US Air Force that their safeguards would prevent the occurrence of such events as are depicted in this film. Furthermore, it should be noted that none of the characters portrayed in this film are meant to represent any real persons living or dead.’
 
@@ -118,5 +116,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTUwODk2Ml19
+eyJoaXN0b3J5IjpbMTg2ODIyODAxMF19
 -->
