@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Dr. Strangelove or<br>How I Learned to Stop Worrying<br> and Love the Bomb**
+title: Dr. Strangelove or<br>How I Learned to Stop Worrying<br> and Love the Bomb
 published: true
-date: 2024-09-29
+date: 2024-09-26
 readtime: true
-categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
-tags: [War]
+categories: ['EVENTS']
+tags: [War, Comedy]
 metadata: 'UK-USA 1964, 98 mins<br> Director: John Guillermin'
 pdf: '2024-09-29-guns-at-batasi.pdf'
 ---
@@ -118,5 +118,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzQyNDQzXX0=
+eyJoaXN0b3J5IjpbMTUzOTUwODk2Ml19
 -->
