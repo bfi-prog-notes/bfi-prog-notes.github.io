@@ -21,106 +21,57 @@ Of all the film’s US admirers, however, theatre critic and director Robert Bru
 The iconoclastic attitude Brustein was describing could be detected elsewhere in America in the 1950s and early 1960s – in Nabokov’s _Lolita_, in Joseph Heller’s _Catch-22_, in pulp fiction by Jim Thompson and Charles Willeford, in the early issues of _Mad_ comics, in Lenny Bruce’s nightclub act and even in certain episodes of Alfred Hitchcock’s television show. But the sheer popularity of Kubrick’s Juvenalian satire was unexpected. Far from being harmed by negative reviews or picketed by right-wing bullies, the film prospered. Perhaps because of its gleeful, totalising cynicism, it especially appealed to young people (Elvis Presley was said to be one of its biggest fans). Without actually planning it, Kubrick had moved ahead of the cultural curve, tapping into a youth audience that would sustain him over the next decade no matter what the critics said.  
 **Extracted from _On Kubrick_ by James Naremore, (BFI, 2007) Reproduced by kind permission of Bloomsbury Publishing. (c)James Naremore**  
 <br>
-**DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB**
-
-_Directed by:_ Stanley Kubrick
-
-_©/Production Company:_ Hawk Films
-
-_Production Company:_
-
-Columbia Pictures Corporation
-
-_Produced by:_ Stanley Kubrick
-
-_Associate Producer:_ Victor Lyndon
-
-_Production Manager:_ Clifton Brandon
-
-_Unit Manager:_ Leon Minoff *
-
+**DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB**  
+_Directed by:_ Stanley Kubrick  
+_©/Production Company:_ Hawk Films  
+_Production Company:_ Columbia Pictures Corporation  
+_Produced by:_ Stanley Kubrick  
+_Associate Producer:_ Victor Lyndon  
+_Production Manager:_ Clifton Brandon  
+_Unit Manager:_ Leon Minoff * 
 _Assistant Director:_ Eric Rattray
 
 _Continuity:_ Pamela Carlton
 
-_Screenplay by:_ Stanley Kubrick, Peter George, Terry Southern
+_Screenplay by:_ Stanley Kubrick, Peter George, Terry Southern  
+_Based on the book_ Red Alert _by:_ Peter George  
+_Director of Photography:_ Gilbert Taylor  
+_Camera Operator:_ Kelvin Pike  
+_Camera Assistant:_ Bernard Ford  
+_Travelling Matte:_ Vic Margutti  
+_Special Effects:_ Wally Veevers  
+_Editor:_ Anthony Harvey  
+_Assembly Editor:_ Geoffrey Fry  
+_Assistant Editor:_ Ray Lovejoy  
+_Production Designer:_ Ken Adam  
+_Art Director:_ Peter Murton  
+_Wardrobe:_ Bridget Sellers  
+_Make-up:_ Stewart Freeborn  
+_Hairdresser:_ Barbara Ritchie  
+_Main Title by:_ Pablo Ferro  
+_Music:_ Laurie Johnson  
+_Sound Supervisor:_ John Cox  
+_Recordist:_ Richard Bird  
+_Dubbing Mixer:_ John Aldred  
+_Sound Editor:_ Leslie Hodgson  
+_Aerial Adviser:_ Captain John Crewdson  
+_Filmed at:_ Shepperton Studios  
 
-_Based on the book_ Red Alert _by:_ Peter George
-
-_Director of Photography:_ Gilbert Taylor
-
-_Camera Operator:_ Kelvin Pike
-
-_Camera Assistant:_ Bernard Ford
-
-_Travelling Matte:_ Vic Margutti
-
-_Special Effects:_ Wally Veevers
-
-_Editor:_ Anthony Harvey
-
-_Assembly Editor:_ Geoffrey Fry
-
-_Assistant Editor:_ Ray Lovejoy
-
-_Production Designer:_ Ken Adam
-
-_Art Director:_ Peter Murton
-
-_Wardrobe:_ Bridget Sellers
-
-_Make-up:_ Stewart Freeborn
-
-_Hairdresser:_ Barbara Ritchie
-
-_Main Title by:_ Pablo Ferro
-
-_Music:_ Laurie Johnson
-
-_Sound Supervisor:_ John Cox
-
-_Recordist:_ Richard Bird
-
-_Dubbing Mixer:_ John Aldred
-
-_Sound Editor:_ Leslie Hodgson
-
-_Aerial Adviser:_ Captain John Crewdson
-
-_Filmed at:_ Shepperton Studios
-
-_Cast:_
-
-Peter Sellers _(Group Captain Lionel Mandrake/President Merkin Muffley/  
-Dr Strangelove)_
-
-George C. Scott _(General ‘Buck’ Turgidson)_
-
-Sterling Hayden _(General Jack D. Ripper)_
-
-Keenan Wynn _(Colonel ‘Bat’ Guano)_
-
-Slim Pickens _(Major T.J. ‘King’ Kong)_
-
-Peter Bull _(Ambassador de Sadesky)_
-
-James Earl Jones _(Lt Lothar Zogg, bombardier)_
-
-Tracy Reed _(Miss Scott)_
-
-Jack Creley _(Staines)_
-
-Frank Berry _(Lt H.R. Dietrich, D.S.O.)_
-
-Robert O’Neil _(Admiral Randolph)_
-
-Glen Beck _(Lt W. D. Kivel, navigator)_
-
-Roy Stephens _(Frank)_
-
-Shane Rimmer
-
-_(Captain G.A. ‘Ace’ Owens, co-pilot)_  
+**Cast**  
+Peter Sellers _(Group Captain Lionel Mandrake/President Merkin Muffley/Dr Strangelove)_  
+George C. Scott _(General ‘Buck’ Turgidson)_  
+Sterling Hayden _(General Jack D. Ripper)_  
+Keenan Wynn _(Colonel ‘Bat’ Guano)_  
+Slim Pickens _(Major T.J. ‘King’ Kong)_  
+Peter Bull _(Ambassador de Sadesky)_  
+James Earl Jones _(Lt Lothar Zogg, bombardier)_  
+Tracy Reed _(Miss Scott)_  
+Jack Creley _(Staines)_  
+Frank Berry _(Lt H.R. Dietrich, D.S.O.)_  
+Robert O’Neil _(Admiral Randolph)_  
+Glen Beck _(Lt W. D. Kivel, navigator)_  
+Roy Stephens _(Frank)_  
+Shane Rimmer _(Captain G.A. ‘Ace’ Owens, co-pilot)_  
 Hal Galili _(Burpelson base defender)_  
 Paul Tamarin  _(Lt B. Goldberg, radio operator)_  
 Laurence Herder _(Burpelson base defender)_  
@@ -136,5 +87,5 @@ Digital
 
 Stanley Kubrick’s _Dr. Strangelove_, starring Steve Coogan, co-adapted by Armando Iannucci, and co-adapted and directed by Sean Foley, plays at the Noël Coward Theatre from 8 October.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTQzNjAyNF19
+eyJoaXN0b3J5IjpbLTE0MjgxMDY2NzZdfQ==
 -->
