@@ -66,7 +66,7 @@ A MUBI release
 <br>
 
 
-**NEW RELEASES**<br>
+**NEW RELEASES**  
 **Sing Sing**  
 From Fri 30 Aug  
 **Starve Acre**  
@@ -106,5 +106,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTE0ODI4NiwtNjQzMzkyNjE0XX0=
+eyJoaXN0b3J5IjpbLTU1ODc3MDUxNCwxMDQ5MTQ4Mjg2LC02ND
+MzOTI2MTRdfQ==
 -->
