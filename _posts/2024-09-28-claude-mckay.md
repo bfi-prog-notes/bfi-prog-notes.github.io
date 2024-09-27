@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Claude McKay,<br> from Harlem to Marseille
+published: true
+date: 2024-09-29
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Documentary]
+metadata: 'UK-USA 1964, 98 mins<br> Director: John Guillermin'
+pdf: '2024-09-29-guns-at-batasi.pdf'
+---
 _We are pleased to welcome writer and poet, Hannah Lowe, who joins this event and discuss her life and work in connection to the life and work of Claude McKay. We are also really pleased to welcome Jason Allen-Paisant (Jamaican poet, writer and academic) and Colin Grant (director of WritersMosaic). Panel discussion hosted by actor-director Burt Caesar._
 
 A rebellious figure of the Harlem Renaissance and champion of the ’new world’ African, poet and novelist Claude McKay wandered the world for much of his early life, frequenting the artistic and political avant-gardes while creating an enduring body of work. This stunning documentary portrait is richly illustrated, drawing on rare film and photographic footage, featuring insightful interviews and accompanied by a stirring soundtrack.
@@ -23,5 +33,6 @@ She undertook her AHRC-funded PhD in Creative Writing at Newcastle University, a
 
 **Host: Burt Caesar** is an actor, director and broadcaster with extensive credits across theatre, film, television and radio. He is a former Associate Director at the Royal Court Theatre and an Artistic Adviser at RADA. His features for BBC Radio include _Derek Walcott’s The Schooner ‘Flight’_; _Caribbean Voices: A Far Cry from London_; _‘To Sir, With Love’ Revisited_; _Black Students in Red Russia_; and _What We Leave We Carry: The Life & Work of John La Rose_. He curated the BFI salons Black Shakespeare (a survey of non-white actors in film adaptations of his plays) and The Price of Baldwin’s Ticket (an anthology of James Baldwin’s writing and appearances on film). Recently he has curated film seasons at the BFI dedicated to pioneering Bermudan actor Earl Cameron, and for the late Hollywood giant Harry Belafonte: Movies Race Resistance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTYwMjQ4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk5NTQ3NjM2MCwxMzY5NjAyNDgwLDczMD
+k5ODExNl19
 -->
