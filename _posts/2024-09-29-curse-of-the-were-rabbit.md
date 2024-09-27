@@ -1,3 +1,15 @@
+---
+layout: post
+title: Wallace & Gromit<br>The 
+published: true
+date: 2024-09-15
+readtime: true
+categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION ON THE BIG SCREEN']
+tags: [Animation, Drama]
+metadata: 'Switzerland-France 2016, 67 mins<br> Director: Claude Barras'
+pdf: '2024-09-15-my-life-as-a-courgette.pdf'
+---
+
 
 **What’s it about?**
 
@@ -29,47 +41,26 @@ _Production Designer:_ Phil Lewis
 _Music:_ Julian Nott  
 _Sound Design:_ Danny Hambrook  
 
-**Voice Cast
+**Voice Cast**    
+Peter Sallis _(Wallace)_  
+Ralph Fiennes _(Victor Quartermaine)_  
+Helena Bonham Carter _(Lady Campanula Tottington)_  
+Peter Kay _(PC Mackintosh)_  
+Nicholas Smith _(Reverend Clement Hedges)_  
+Liz Smith _(Mrs Mulch)_  
+John Thomson _(Mr Windfall)_  
+Mark Gatiss _(Miss Blight)_  
+Vincent Ebrahim _(Mr Caliche)_  
+Geraldine McEwan _(Miss Thripp)_  
+Edward Kelsey _(Mr Growbag)_  
+Dicken Ashworth _(Mr Mulch)_  
+Pete Atkin _(Mr Crock)_  
+Noni Lewis _(Mrs Girdling)_  
+_Additional Voices:_ Christopher Fairbank, James Mather, William Vanderpuye  
 
-Peter Sallis _(Wallace)_
-
-Ralph Fiennes _(Victor Quartermaine)_
-
-Helena Bonham Carter
-
-_(Lady Campanula Tottington)_
-
-Peter Kay _(PC Mackintosh)_
-
-Nicholas Smith _(Reverend Clement Hedges)_
-
-Liz Smith _(Mrs Mulch)_
-
-John Thomson _(Mr Windfall)_
-
-Mark Gatiss _(Miss Blight)_
-
-Vincent Ebrahim _(Mr Caliche)_
-
-Geraldine McEwan _(Miss Thripp)_
-
-Edward Kelsey _(Mr Growbag)_
-
-Dicken Ashworth _(Mr Mulch)_
-
-Pete Atkin _(Mr Crock)_
-
-Noni Lewis _(Mrs Girdling)_
-
-_Additional Voices:_ Christopher Fairbank,
-
-James Mather, William Vanderpuye
-
-UK/USA 2005
-
-84 mins
-
-Digital
+UK/USA 2005  
+84 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTA1MzkwNV19
+eyJoaXN0b3J5IjpbMTY4NzA2MTU3MF19
 -->
