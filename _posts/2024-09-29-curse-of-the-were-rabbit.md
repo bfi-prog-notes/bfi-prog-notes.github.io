@@ -6,7 +6,7 @@ date: 2024-09-29
 readtime: true
 categories: ['FAMILY']
 tags: [Animation, Comedy]
-metadata: 'Switzerland-France 2016, 67 mins<br> Director: Claude Barras'
+metadata: 'UK-USA 2005, 84 mins<br> Directors: Nick Park, Steve Box'
 pdf: '2024-09-29-curse-of-the-were-rabbit.pdf'
 ---
 <img style="float: left;" src="/img/were-rabbit.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
@@ -85,5 +85,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ5NTg0OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ5MjQwOTldfQ==
 -->
