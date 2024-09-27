@@ -18,33 +18,58 @@ It is almost impossible to fathom the countless hours of meticulous work and the
 <br>
 **WALLACE & GROMIT: THE CURSE OF THE WERE-RABBIT**  
 _Directors:_ Nick Park, Steve Box  
-_Production Companies:_ Aardman Features, DreamWorks SKG
+_Production Companies:_ Aardman Features, DreamWorks SKG  
+_Executive Producers:_ Peter Lord, David Sproxton, Michael Rose,
+Jeffrey Katzenberg  
+_Producers:_ Carla Shelley, Claire Jennings, Nick Park  
+_Screenplay:_ Nick Park, Steve Box, Bob Baker, Mark Burton  
+_Directors of Photography:_ Tristan Oliver, Dave Alex Riddett  
+_Editors:_ David McCormick, Gregory Perler  
+_Production Designer:_ Phil Lewis  
+_Music:_ Julian Nott  
+_Sound Design:_ Danny Hambrook  
 
-_Executive Producers:_ Peter Lord,
+**Voice Cast
 
-David Sproxton, Michael Rose,
+Peter Sallis _(Wallace)_
 
-Jeffrey Katzenberg
+Ralph Fiennes _(Victor Quartermaine)_
 
-_Producers:_ Carla Shelley, Claire Jennings,
+Helena Bonham Carter
 
-Nick Park
+_(Lady Campanula Tottington)_
 
-_Screenplay:_ Nick Park, Steve Box, Bob Baker,
+Peter Kay _(PC Mackintosh)_
 
-Mark Burton
+Nicholas Smith _(Reverend Clement Hedges)_
 
-_Directors of Photography:_ Tristan Oliver,
+Liz Smith _(Mrs Mulch)_
 
-Dave Alex Riddett
+John Thomson _(Mr Windfall)_
 
-_Editors:_ David McCormick, Gregory Perler
+Mark Gatiss _(Miss Blight)_
 
-_Production Designer:_ Phil Lewis
+Vincent Ebrahim _(Mr Caliche)_
 
-_Music:_ Julian Nott
+Geraldine McEwan _(Miss Thripp)_
 
-_Sound Design:_ Danny Hambrook
+Edward Kelsey _(Mr Growbag)_
+
+Dicken Ashworth _(Mr Mulch)_
+
+Pete Atkin _(Mr Crock)_
+
+Noni Lewis _(Mrs Girdling)_
+
+_Additional Voices:_ Christopher Fairbank,
+
+James Mather, William Vanderpuye
+
+UK/USA 2005
+
+84 mins
+
+Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY2MDczMjRdfQ==
+eyJoaXN0b3J5IjpbLTU0OTA1MzkwNV19
 -->
