@@ -10,7 +10,7 @@ metadata: 'USA 1983, 86 mins<br> Director: Godfrey Reggio'
 pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/tigtbb.jpeg"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/tigtbb.png"><br><br><br><br><br><br><br><br><br>
 
 
 Giving a voice to a group of extraordinary young people as they prepare to stage a musical about the life of Australian pop singer John Farnham, this upbeat documentary reveals the limitations of mainstream stereotypes. Filmed at a high-school where neurodivergent and disabled teenagers are enabled to thrive, we follow them and their families as they prepare for the big day.
@@ -78,5 +78,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTE1Njg2Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzUzNDU0MTUwLDczMDk5ODExNl19
 -->
