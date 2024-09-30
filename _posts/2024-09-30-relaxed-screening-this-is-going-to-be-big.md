@@ -1,7 +1,82 @@
+---
+layout: post
+title: Koyaanisqatsi
+published: true
+date: 2024-08-19
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Documentary, Essay Films]
+metadata: 'USA 1983, 86 mins<br> Director: Godfrey Reggio'
+pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
+---
+
+<img style="float: left;" src="/img/koyaanisqatsi-02.jpeg"><br><br><br><br><br><br><br><br><br>
 
 
+A timely alert to how life on Earth is changing, Godfrey Reggio’s film was produced on a surprisingly small budget over many years, only to become an instant cult success. Philip Glass’s gorgeous music swells in intensity as the growing impact of technology on humanity becomes more apparent within the film’s procession of images. Join us after the screening to reflect on the film through a neurodivergent lens.
 
-> Written with [StackEdit](https://stackedit.io/).
+The post screening discussion will be led by creative Sam Chown Ahern, of the Neurocultures collective.
+<br><br>
+
+
+**KOYAANISQATSI**  
+_Director/Producer:_ Godfrey Reggio<br>
+_Production Company:_ Institute for Regional Education<br>
+_Director of Photography:_ Ron Fricke<br>
+_Music:_ Philip Glass<br>
+USA 1983©<br>
+86 mins<br>
+Digital    
+<br>
+
+**We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
+
+
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
+**BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
+
+
+**The next relaxed screening is:**<br> 
+
+**THIS IS GOING TO BE BIG** + intro and discussion<br>
+Monday 30 September 2024 18:10 NFT3
+<br><br>
+
+
+**Find out more at**
+**www.whatson.bfi.org.uk**
+**and bfi.org.uk/relaxed**
+<br>
+
+**Relaxed Screenings**
+
+Screenings for neurodivergent audiences, with their companions and assistants.
+
+• Customers can select their seats when they arrive in the auditorium. 
+
+• Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
+
+• We support you wearing a face covering if you choose to do so.
+
+• You are welcome to take refreshments into the auditorium but no hot food please.
+
+• Doors will open 30 minutes before the screening.
+
+• No trailers will be shown.
+
+• The programme will be introduced.
+
+• Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
+
+• You will be able to leave the auditorium and return during the screening.
+
+• There will be a quiet space to use if you need to leave the auditorium.
+
+• We understand you may make some noise.
+
+• Please ask us if you need help.
+<br><br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjI2NDI0NzE5LDczMDk5ODExNl19
 -->
