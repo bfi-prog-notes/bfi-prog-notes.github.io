@@ -10,12 +10,12 @@ metadata: 'USA 1983, 86 mins<br> Director: Godfrey Reggio'
 pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/koyaanisqatsi-02.jpeg"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/tigtbb.jpeg"><br><br><br><br><br><br><br><br><br>
 
 
-A timely alert to how life on Earth is changing, Godfrey Reggio’s film was produced on a surprisingly small budget over many years, only to become an instant cult success. Philip Glass’s gorgeous music swells in intensity as the growing impact of technology on humanity becomes more apparent within the film’s procession of images. Join us after the screening to reflect on the film through a neurodivergent lens.
+Giving a voice to a group of extraordinary young people as they prepare to stage a musical about the life of Australian pop singer John Farnham, this upbeat documentary reveals the limitations of mainstream stereotypes. Filmed at a high-school where neurodivergent and disabled teenagers are enabled to thrive, we follow them and their families as they prepare for the big day.
 
-The post screening discussion will be led by creative Sam Chown Ahern, of the Neurocultures collective.
+The post screening discussion will be led by new collective Stims to celebrate this unique representation of neurodiversity.
 <br><br>
 
 
@@ -78,5 +78,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDI0NzE5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA4NTE1Njg2Nyw3MzA5OTgxMTZdfQ==
 -->
