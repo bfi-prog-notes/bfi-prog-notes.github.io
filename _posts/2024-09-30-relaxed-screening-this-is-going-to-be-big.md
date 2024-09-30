@@ -6,7 +6,7 @@ date: 2024-09-30
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
-metadata: 'USA 1983, 86 mins<br> Director: Godfrey Reggio'
+metadata: 'Australian 200, 86 mins<br> Director: Godfrey Reggio'
 pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
 ---
 
@@ -35,13 +35,17 @@ Digital
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
-
+<br>  
 
 **The next relaxed screenings are:**<br> 
 
-**THIS IS GOING TO BE BIG** + intro and discussion<br>
-Monday 30 September 2024 18:10 NFT3
-<br><br>
+**BATTLESHIP POTEMKIN + discussion**  
+**Tuesday 29 October 18:20 NFT3**  
+
+**BIRD + discussion**  
+**Monday 25 November 18:15 NFT3**  
+<br>
+
 
 
 **Find out more at**
@@ -79,5 +83,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE2NzM5ODcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0MjY2MzY4ODksNzMwOTk4MTE2XX0=
 -->
