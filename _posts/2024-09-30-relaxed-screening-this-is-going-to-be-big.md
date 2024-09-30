@@ -2,7 +2,7 @@
 layout: post
 title: Koyaanisqatsi
 published: true
-date: 2024-09-
+date: 2024-09-30
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
@@ -18,15 +18,16 @@ Giving a voice to a group of extraordinary young people as they prepare to stage
 The post screening discussion will be led by new collective Stims to celebrate this unique representation of neurodiversity.
 <br><br>
 
+**THIS IS GOING TO BE BIG**  
+_Director: Thomas_ Charles Hyland  
+_Producers:_ Catherine Bradbury, Josie Mason-Campbell, Jim M. Wright  
+_Composer:_ Glenn Richards  
+_Cinematographer:_ Alex Serafini  
+_Editors:_ Matias Bolla, Zac Grant  
 
-**KOYAANISQATSI**  
-_Director/Producer:_ Godfrey Reggio<br>
-_Production Company:_ Institute for Regional Education<br>
-_Director of Photography:_ Ron Fricke<br>
-_Music:_ Philip Glass<br>
-USA 1983©<br>
-86 mins<br>
-Digital    
+Australia 2023  
+100 mins  
+Digital  
 <br>
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -36,7 +37,7 @@ Digital
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
 
-**The next relaxed screening is:**<br> 
+**The next relaxed screenings are:**<br> 
 
 **THIS IS GOING TO BE BIG** + intro and discussion<br>
 Monday 30 September 2024 18:10 NFT3
@@ -78,5 +79,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUzMDM4Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExMjE2NzM5ODcsNzMwOTk4MTE2XX0=
 -->
