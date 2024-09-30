@@ -6,8 +6,8 @@ date: 2024-09-30
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
-metadata: 'Australian 200, 86 mins<br> Director: Godfrey Reggio'
-pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
+metadata: 'Australian 2023, 100 mins<br> Director: Thomas Charles Hyland'
+pdf: '2024-09-30-relaxed-screening-this-is-going-to-be-big.pdf'
 ---
 
 <img style="float: left;" src="/img/tigtbb.png"><br><br><br><br><br><br><br><br><br>
@@ -19,7 +19,7 @@ The post screening discussion will be led by new collective Stims to celebrate t
 <br><br>
 
 **THIS IS GOING TO BE BIG**  
-_Director: Thomas_ Charles Hyland  
+_Director:_ Thomas Charles Hyland  
 _Producers:_ Catherine Bradbury, Josie Mason-Campbell, Jim M. Wright  
 _Composer:_ Glenn Richards  
 _Cinematographer:_ Alex Serafini  
@@ -83,5 +83,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY2MzY4ODksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg3NDA4MDYxLDczMDk5ODExNl19
 -->
