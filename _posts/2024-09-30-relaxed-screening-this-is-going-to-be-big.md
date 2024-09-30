@@ -2,10 +2,10 @@
 layout: post
 title: Koyaanisqatsi
 published: true
-date: 2024-08-19
+date: 2024-09-
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Documentary, Essay Films]
+tags: [Documentary]
 metadata: 'USA 1983, 86 mins<br> Director: Godfrey Reggio'
 pdf: '2024-08-19-koyaanisqatsi-relaxed.pdf'
 ---
@@ -78,5 +78,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNDU0MTUwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE2NjUzMDM4Nyw3MzA5OTgxMTZdfQ==
 -->
