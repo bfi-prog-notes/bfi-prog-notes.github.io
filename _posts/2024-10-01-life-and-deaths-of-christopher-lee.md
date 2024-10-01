@@ -2,9 +2,8 @@
 
 _Q&A with Peter Serafinowicz, director Jon Spira, producer Hank Starrs and Christopher Lee’s biographer Jonathan Rigby_
 
-Produced in association with the BFI, this unique documentary features exclusive interviews, previously unseen archive material and multiple forms of animation to bring one of the world’s leading actors back to life on screen. Peter Jackson, John Landis and Joe Dante, as well as Lee’s niece, actor Harriet Walter, join his family, friends and professional collaborators in exploring his work and life.
-
-bfi.org.uk
+Produced in association with the BFI, this unique documentary features exclusive interviews, previously unseen archive material and multiple forms of animation to bring one of the world’s leading actors back to life on screen. Peter Jackson, John Landis and Joe Dante, as well as Lee’s niece, actor Harriet Walter, join his family, friends and professional collaborators in exploring his work and life.  
+**bfi.org.uk**  
 
 For eight decades and across almost 300 films, one man defined what it was to be a screen villain for generations of cinema-goers. Despite being instantly familiar to, and beloved by, film fans from 10 to 100, the unbelievable true story of the man behind the macabre has never really been told. Until now.
 
@@ -14,8 +13,7 @@ Christopher Lee’s story would be fascinating, even if it only went as far as a
 
 Despite being dead for the past nine years, there could be no better candidate for narrator than the Prince of Darkness and Master of Macabre himself. Taking the form of an elaborate string puppet, Sir Christopher will guide us through the wild and unlikely story of his 93 year journey from Italian aristocratic roots through his wartime experiences in the Finnish and British military, his post-war Nazi-hunting spy adventures (which just might have influenced the storytelling of his cousin Bond-creator Ian Fleming) and his bizarre and unequalled, acting career which culminated in a Guinness World Record for highest number of screen performances.
 
-**Director’s statement**
-
+**Director’s statement**  
 I’ve been fascinated by Christopher Lee since I first became aware of him at 8 years old watching his bad guy turn in the little-seen 1983 superhero musical _The Return of Captain Invincible_. It wasn’t long until I was introduced to his Dracula and Bond villain Scaramanga and I understood that he was a real film star. But it was when I was older and working in film curation that I really started to notice that he not only cropped up in more films than anyone else (he holds the Guinness World Record for this) but that he cropped up in more _types_ of film than anyone else. He didn’t seem to mind whether the budget was in the high millions or low thousands. He would appear in Spanish, German, Italian, films always speaking in the fluent native tongue. One year, he’d be in one of the greatest Westerns as a gunmaker, the next he’d be back in London as a haughty MI5 agent. And despite seemingly always playing the bad guy, his range was stunning.
 
 My interest in making a film about him began a few years ago when I stumbled upon his episode of _This Is Your Life_ on youtube. Within thirty minutes, it seemed to be that this confident, erudite giant of a man was anxious and uncomfortable when presented with a narrative of his life that he, perhaps, wasn’t in control of. I read his autobiography shortly thereafter and his enigmatic references and self-deprecation very much planted the seed in my head.
@@ -28,57 +26,28 @@ _The Fantastic Mr Fox_ assured us that we were in good hands and the footage we 
 I love that the finished film manages to be unexpected and quirky whilst still being a very satisfying documentary story and relatable, empathic journey through the life of a subject who becomes even more beloved at the end of the process.  
 **Production notes**  
 <br>
-**THE LIFE AND DEATHS OF CHRISTOPHER LEE**
-
-_Directed by:_ Jon Spira
-
-_©:_ Dead Charming Ltd
-
-_Production Companies:_ Canal Cat Films
-
-_In association with:_ BFI, HH5, Trigger Films
-
-_Executive Producers:_ Jonathan Ford,
-
-Piers Holdsworth Hunt, Jack Oliver,
-
-Jonathan Rigby, Reinhard Besser,
-
-Francesco Capussela, Amer Hilal
-
-Walter Mair, Carsten Vollmers, Pat Wintersgill
-
-_Produced by:_ Hank Starrs
-
-_Producer:_ Adam F. Goldberg
-
-_Associate Producer:_ Chloë Hancock
-
-_Line Producer (LA Unit):_ Candace Cason
-
-_Archive Producer:_ Kathy Manners
-
-_Written by:_ Jon Spira
-
+**THE LIFE AND DEATHS OF CHRISTOPHER LEE**  
+_Directed by:_ Jon Spira  
+_©:_ Dead Charming Ltd  
+_Production Companies:_ Canal Cat Films  
+_In association with:_ BFI, HH5, Trigger Films  
+_Executive Producers:_ Jonathan Ford, Piers Holdsworth Hunt, Jack Oliver, Jonathan Rigby, Reinhard Besser, Francesco Capussela, Amer Hilal, Walter Mair, Carsten Vollmers, Pat Wintersgill  
+_Produced by:_ Hank Starrs  
+_Producer:_ Adam F. Goldberg  
+_Associate Producer:_ Chloë Hancock  
+_Line Producer (LA Unit):_ Candace Cason  
+_Archive Producer:_ Kathy Manners  
+_Written by:_ Jon Spira  
 _Heart Surgery Sequence Designed and Directed by:_ Dave McKean  
 _Director of Photography:_ Simon Vickery  
 _LA Unit Director of Photography:_ Michael Tedford  
 _Camera Operator:_ Dan Starborg  
 _Featuring Original Animations by:_ Andrew Gill, Astrid Goldsmith, Dave McKean, Cornelia Skrok  
-_Animations:_ Elissa Lenoir Ajaka, Andrew Gill, Astrid Goldsmith, Reid Jameson Potts,
-
-Cornelia Skrok
-
-_Motion Graphics:_ Andrew Gill
-
-_Puppeteers:_ Olly Taylor, Lynn Robertson Bruce
-
-_Marionette Designed and Built by:_
-
-Arch Model Studios
-
-_Supervising Model Maker:_ Andy Gent
-
+_Animations:_ Elissa Lenoir Ajaka, Andrew Gill, Astrid Goldsmith, Reid Jameson Potts, Cornelia Skrok  
+_Motion Graphics:_ Andrew Gill  
+_Puppeteers:_ Olly Taylor, Lynn Robertson Bruce  
+_Marionette Designed and Built by:_ Arch Model Studios  
+_Supervising Model Maker:_ Andy Gent  
 _Editor:_ Alex Barrett  
 _Hair & Make-up:_ Katherine Thomas  
 _Original Score by:_ Jamie Hyatt  
@@ -115,7 +84,32 @@ UK 2023
 
 Total running time 140 mins  
 
-Courtesy of Sky Originals, BFI, Trigger Films, HH5, Canal Cat Films
+Courtesy of Sky Originals, BFI, Trigger Films, HH5, Canal Cat Films  
+<br><br>
+
+**SIGHT AND SOUND**  
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMxMDI4OTcsMTIxNTUwNjI5N119
+eyJoaXN0b3J5IjpbLTEzODU4MjQ3NDAsMTIxNTUwNjI5N119
 -->
