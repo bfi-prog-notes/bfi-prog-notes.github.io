@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Koyaanisqatsi
+title: This Is Going to Be Big
 published: true
 date: 2024-09-30
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Documentary]
+tags: [Documentary, Musical]
 metadata: 'Australian 2023, 100 mins<br> Director: Thomas Charles Hyland'
 pdf: '2024-09-30-relaxed-screening-this-is-going-to-be-big.pdf'
 ---
@@ -35,7 +35,8 @@ Digital
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
-<br>  
+<br> <br>
+
 
 **The next relaxed screenings are:**<br> 
 
