@@ -25,9 +25,10 @@ My suspicions were very much confirmed when we began to shoot interviews for the
 The biggest challenge in making this film was working out the narrative format. Lee had such a distinctive spoken voice that I had hoped to capture it either through stitching together old interviews or creating a digital version of him and using a vocal impersonator to bring it to life. Early tests proved unsatisfactory so, after brainstorming with producer Hank we decided to take a road less travelled and to commission Andy Gent of AMC Puppets to produce an 18 inch marionette of Lee. Gent’s previous work with Tim Burton on _The Corpse Bride_ and _Frankenweenie_ and Wes Anderson on _Isle of Dogs_ and  
 _The Fantastic Mr Fox_ assured us that we were in good hands and the footage we produced at Gent’s AMC studio, working with Peter Serafinowicz to provide the voice is utterly unique, dramatic and enchanting.
 
-I love that the finished film manages to be unexpected and quirky whilst still being a very satisfying documentary story and relatable, empathic journey through the life of a subject who becomes even more beloved at the end of the process.
+I love that the finished film manages to be unexpected and quirky whilst still being a very satisfying documentary story and relatable, empathic journey through the life of a subject who becomes even more beloved at the end of the process.  
+**Production notes**  
+<br>
 
-Production notes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAwODg2ODZdfQ==
+eyJoaXN0b3J5IjpbMjU3MTk1OTgyXX0=
 -->
