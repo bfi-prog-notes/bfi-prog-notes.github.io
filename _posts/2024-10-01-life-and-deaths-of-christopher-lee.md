@@ -60,21 +60,12 @@ _Archive Producer:_ Kathy Manners
 
 _Written by:_ Jon Spira
 
-_Heart Surgery Sequence Designed and Directed by:_
-
-Dave McKean
-
-_Director of Photography:_ Simon Vickery
-
-_LA Unit Director of Photography:_ Michael Tedford
-
-_Camera Operator:_ Dan Starborg
-
-_Featuring Original Animations by:_ Andrew Gill, Astrid Goldsmith, Dave McKean, Cornelia Skrok
-
-_Animations:_ Elissa Lenoir Ajaka, Andrew Gill,
-
-Astrid Goldsmith, Reid Jameson Potts,
+_Heart Surgery Sequence Designed and Directed by:_ Dave McKean  
+_Director of Photography:_ Simon Vickery  
+_LA Unit Director of Photography:_ Michael Tedford  
+_Camera Operator:_ Dan Starborg  
+_Featuring Original Animations by:_ Andrew Gill, Astrid Goldsmith, Dave McKean, Cornelia Skrok  
+_Animations:_ Elissa Lenoir Ajaka, Andrew Gill, Astrid Goldsmith, Reid Jameson Potts,
 
 Cornelia Skrok
 
@@ -88,35 +79,21 @@ Arch Model Studios
 
 _Supervising Model Maker:_ Andy Gent
 
-_Editor:_ Alex Barrett
-
-_Hair & Make-up:_ Katherine Thomas
-
-_Original Score by:_ Jamie Hyatt
-
-_Original Score Performed by:_ Jamie Hyatt,
-
-Richard Brincklow
-
-_Heart Surgery Sequence Music & Piano:_
-
-Dave McKean
-
-_Cello:_ Matthew Sharp
-
-_Music Produced by:_ Ashley Slater
-
-_Sound Recordist:_ Sherylee Anne Houssein
-
-_LA Unit Sound Mixer:_ Logan Smith
-
-_Stills Photographer:_ Daisy Starrs
-
+_Editor:_ Alex Barrett  
+_Hair & Make-up:_ Katherine Thomas  
+_Original Score by:_ Jamie Hyatt  
+_Original Score Performed by:_ Jamie Hyatt, Richard Brincklow  
+_Heart Surgery Sequence Music & Piano:_ Dave McKean  
+_Cello:_ Matthew Sharp  
+_Music Produced by:_ Ashley Slater  
+_Sound Recordist:_ Sherylee Anne Houssein  
+_LA Unit Sound Mixer:_ Logan Smith  
+_Stills Photographer:_ Daisy Starrs  
 _Consultant:_ Jonathan Rigby  
 _BFI National Archive Curatorial Consultant:_ Josephine Botting  
 _BFI National Archive Consultant:_ John Carino  
 _Dedicated to the memory of:_ Dan Auty, John ‘John Vaults’ Rivett  
-_Narration Performed by:_ Peter Serafinowicz
+_Narration Performed by:_ Peter Serafinowicz  
 
 **Featuring**  
 Juan Aneiros  
@@ -128,9 +105,7 @@ Paul Maslansky
 Caroline Munro  
 Juan Ramirez  
 Jonathan Rigby  
-Harriet Walter
-  
-
+Harriet Walter  
 _Heart Surgery Sequence:_  
 Simon Storer _(Christopher Lee)_  
 Garth Haythornthwaite _(J.R.R. Tolkien)_  
@@ -142,5 +117,5 @@ Total running time 140 mins
 
 Courtesy of Sky Originals, BFI, Trigger Films, HH5, Canal Cat Films
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjkyMDY1MSwxMjE1NTA2Mjk3XX0=
+eyJoaXN0b3J5IjpbLTEzNzMxMDI4OTcsMTIxNTUwNjI5N119
 -->
