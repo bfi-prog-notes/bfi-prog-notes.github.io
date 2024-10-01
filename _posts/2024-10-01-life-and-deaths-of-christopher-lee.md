@@ -7,7 +7,7 @@ readtime: true
 categories: ['TV PREVIEW']
 tags: [Documentary]
 metadata: 'UK 2023, 90 mins<br> Director: Jon Spira'
-pdf: '2024-09-29-guns-at-batasi.pdf'
+pdf: '2024-10-01-life-and-deaths-of-christopher-lee.pdf'
 ---
 
 _Q&A with Peter Serafinowicz, director Jon Spira, producer Hank Starrs and Christopher Lee’s biographer Jonathan Rigby_
@@ -121,5 +121,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODk1MzcwMywxMjE1NTA2Mjk3XX0=
+eyJoaXN0b3J5IjpbLTk2NjI4NjUwNCwxMjE1NTA2Mjk3XX0=
 -->
