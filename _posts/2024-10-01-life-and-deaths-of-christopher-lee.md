@@ -28,7 +28,133 @@ _The Fantastic Mr Fox_ assured us that we were in good hands and the footage we 
 I love that the finished film manages to be unexpected and quirky whilst still being a very satisfying documentary story and relatable, empathic journey through the life of a subject who becomes even more beloved at the end of the process.  
 **Production notes**  
 <br>
+**THE LIFE AND DEATHS OF CHRISTOPHER LEE**
 
+_Directed by:_ Jon Spira
+
+_©:_ Dead Charming Ltd
+
+_Production Companies:_ Canal Cat Films
+
+_In association with:_ BFI, HH5, Trigger Films
+
+_Executive Producers:_ Jonathan Ford,
+
+Piers Holdsworth Hunt, Jack Oliver,
+
+Jonathan Rigby, Reinhard Besser,
+
+Francesco Capussela, Amer Hilal
+
+Walter Mair, Carsten Vollmers, Pat Wintersgill
+
+_Produced by:_ Hank Starrs
+
+_Producer:_ Adam F. Goldberg
+
+_Associate Producer:_ Chloë Hancock
+
+_Line Producer (LA Unit):_ Candace Cason
+
+_Archive Producer:_ Kathy Manners
+
+_Written by:_ Jon Spira
+
+_Heart Surgery Sequence Designed and Directed by:_
+
+Dave McKean
+
+_Director of Photography:_ Simon Vickery
+
+_LA Unit Director of Photography:_ Michael Tedford
+
+_Camera Operator:_ Dan Starborg
+
+_Featuring Original Animations by:_ Andrew Gill, Astrid Goldsmith, Dave McKean, Cornelia Skrok
+
+_Animations:_ Elissa Lenoir Ajaka, Andrew Gill,
+
+Astrid Goldsmith, Reid Jameson Potts,
+
+Cornelia Skrok
+
+_Motion Graphics:_ Andrew Gill
+
+_Puppeteers:_ Olly Taylor, Lynn Robertson Bruce
+
+_Marionette Designed and Built by:_
+
+Arch Model Studios
+
+_Supervising Model Maker:_ Andy Gent
+
+_Editor:_ Alex Barrett
+
+_Hair & Make-up:_ Katherine Thomas
+
+_Original Score by:_ Jamie Hyatt
+
+_Original Score Performed by:_ Jamie Hyatt,
+
+Richard Brincklow
+
+_Heart Surgery Sequence Music & Piano:_
+
+Dave McKean
+
+_Cello:_ Matthew Sharp
+
+_Music Produced by:_ Ashley Slater
+
+_Sound Recordist:_ Sherylee Anne Houssein
+
+_LA Unit Sound Mixer:_ Logan Smith
+
+_Stills Photographer:_ Daisy Starrs
+
+_Consultant:_ Jonathan Rigby
+
+_BFI National Archive Curatorial Consultant:_
+
+Josephine Botting
+
+_BFI National Archive Consultant:_ John Carino
+
+_Dedicated to the memory of:_ Dan Auty, John ‘John Vaults’ Rivett  
+_Narration Performed by:_ Peter Serafinowicz
+
+**Featuring**  
+Juan Aneiros  
+Corrado Canonici
+
+Joe Dante
+
+Peter Jackson
+
+John Landis
+
+Paul Maslansky
+
+Caroline Munro
+
+Juan Ramirez
+
+Jonathan Rigby
+
+Harriet Walter
+
+  
+
+_Heart Surgery Sequence:_  
+Simon Storer _(Christopher Lee)_  
+Garth Haythornthwaite _(J.R.R. Tolkien)_  
+
+UK 2023  
+90 mins  
+
+Total running time 140 mins  
+
+Courtesy of Sky Originals, BFI, Trigger Films, HH5, Canal Cat Films
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MTk1OTgyXX0=
+eyJoaXN0b3J5IjpbMTIxNTUwNjI5N119
 -->
