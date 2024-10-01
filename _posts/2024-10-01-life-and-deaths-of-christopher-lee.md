@@ -112,37 +112,23 @@ _LA Unit Sound Mixer:_ Logan Smith
 
 _Stills Photographer:_ Daisy Starrs
 
-_Consultant:_ Jonathan Rigby
-
-_BFI National Archive Curatorial Consultant:_
-
-Josephine Botting
-
-_BFI National Archive Consultant:_ John Carino
-
+_Consultant:_ Jonathan Rigby  
+_BFI National Archive Curatorial Consultant:_ Josephine Botting  
+_BFI National Archive Consultant:_ John Carino  
 _Dedicated to the memory of:_ Dan Auty, John ‘John Vaults’ Rivett  
 _Narration Performed by:_ Peter Serafinowicz
 
 **Featuring**  
 Juan Aneiros  
-Corrado Canonici
-
-Joe Dante
-
-Peter Jackson
-
-John Landis
-
-Paul Maslansky
-
-Caroline Munro
-
-Juan Ramirez
-
-Jonathan Rigby
-
+Corrado Canonici  
+Joe Dante  
+Peter Jackson  
+John Landis  
+Paul Maslansky  
+Caroline Munro  
+Juan Ramirez  
+Jonathan Rigby  
 Harriet Walter
-
   
 
 _Heart Surgery Sequence:_  
@@ -156,5 +142,5 @@ Total running time 140 mins
 
 Courtesy of Sky Originals, BFI, Trigger Films, HH5, Canal Cat Films
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTUwNjI5N119
+eyJoaXN0b3J5IjpbMTQ2MjkyMDY1MSwxMjE1NTA2Mjk3XX0=
 -->
