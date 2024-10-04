@@ -30,22 +30,20 @@ _Casting Director:_ Antoine Carrard
 _Casting:_ Antoine Carrard  
 _Screenplay:_ Nathalie Hertzberg, Cédric Kahn  
 _Director of Photography:_ Patrick Ghiringhelli  
-_Camera Operators:_ Gaspard Cresp, 
-Romaric Thomas
-Editing: Yann Dedet
-Assistant Editor: Minori Akimoto
-Art Director: Guillaume Deviercy
-Assistant Art Director: Valentine Dubus-Ventura
-Property Master: Zoé Carré
-Costume Designer: Alice Cambournac
-Key Make-up: Élodie Merlier
-Hair Design: Gérald Portenart
-Key Hair Stylist: Réjane Selmane
-Titles and Title Cards: Laurent Brett
-End Titles: Olivier Leibig
-Colour Grader: Yov Moor
-Sound: Erwan Kerzanet, Sylvain Malbrant, 
-Olivier Guillaume 
+_Camera Operators:_ Gaspard Cresp, Romaric Thomas  
+_Editing:_ Yann Dedet  
+_Assistant Editor:_ Minori Akimoto  
+_Art Director:_ Guillaume Deviercy  
+_Assistant Art Director:_ Valentine Dubus-Ventura  
+_Property Master:_ Zoé Carré  
+_Costume Designer:_ Alice Cambournac  
+_Key Make-up:_ Élodie Merlier  
+_Hair Design:_ Gérald Portenart  
+_Key Hair Stylist:_ Réjane Selmane  
+_Titles and Title Cards:_ Laurent Brett  
+_End Titles:_ Olivier Leibig  
+_Colour Grader:_ Yov Moor  
+_Sound:_ Erwan Kerzanet, Sylvain Malbrant, Olivier Guillaume  
 Cast:
 Arieh Worthalter (Pierre Goldman)
 Arthur Harari (Maître Georges Kiejman)
@@ -74,5 +72,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjY4ODE4NywtMTIyMDc1OTI3OF19
+eyJoaXN0b3J5IjpbMTEzNjQyNDk0OSwtMTIyMDc1OTI3OF19
 -->
