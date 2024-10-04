@@ -12,10 +12,10 @@ Going beyond these polemics, the film holds its own outside its French context, 
 
 _The Goldman Case_ holds our attention for other reasons. There is, first, the fundamental ambiguity of the man and the case. Goldman fervently claims his innocence while sabotaging his own cause (and his lawyers’ efforts) with his arrogance. And while he denounces the trial as ‘theatrical pomp’, he is not himself above histrionics. As Kahn pointed out in an interview with _Le Monde_, Goldman was a master of ‘the art of discourse’. As slippery testimonies follow one another, Goldman remains unfathomable and the truth elusive. Although set in the aftermath of the events of May 1968, the film rises above its context in channelling topics that resonate today – institutional racism, police brutality and the legacy of the Holocaust. Goldman places his family history – in particular his failure to prove himself worthy of his heroic parents – in the wider traumatic context of the Shoah. This explains the opening scene, the only one set outside the court, in which Goldman sends Kiejman a letter accusing him of being an ‘armchair Jew’; it also contextualises his identification with Black people as fellow oppressed (his wife and some of his friends and witnesses came from the French West Indies).  
 
-Within Kahn’s varied filmography, The Goldman Case joins Roberto Succo (2001) and Wild Life (Vie sauvage, 2014) as films built around a fascination with self-destructive, charismatic male rebels with a criminal slant. Despite a few implausible moments (for instance, the court president reading out the verdict against a deafeningly noisy room), The Goldman Case confirms Kahn’s judgement, on reading Goldman’s memoir, that the man, ‘a gambler and provocateur, brilliant, ambiguous, manipulative’, was a ‘cinematic character’ – which indeed he is.
+Within Kahn’s varied filmography, _The Goldman Case_ joins _Roberto Succo_ (2001) and _Wild Life_ (_Vie sauvage_, 2014) as films built around a fascination with self-destructive, charismatic male rebels with a criminal slant. Despite a few implausible moments (for instance, the court president reading out the verdict against a deafeningly noisy room), _The Goldman Case_ confirms Kahn’s judgement, on reading Goldman’s memoir, that the man, ‘a gambler and provocateur, brilliant, ambiguous, manipulative’, was a ‘cinematic character’ – which indeed he is.  
 **Ginette Vincendeau, bfi.org.uk/sight-and-sound, 20 September 2024**  
 <br>
-The Goldman Case (Le Procès Goldman)
+THE GOLDMAN CASE  (Le Procès Goldman)
 Director: Cédric Kahn
 ©: Moonshaker, Tropdebonheur Productions
 Production Companies: Moonshaker, 
@@ -75,5 +75,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjgwMjI1MV19
+eyJoaXN0b3J5IjpbODM0NjgxNTQ5XX0=
 -->
