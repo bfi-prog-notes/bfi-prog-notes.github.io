@@ -63,12 +63,12 @@ François Favrat (Commissioner Leclerc)
 Romain Parent (Inspector Goussard)
 Lucas Olmedo (Oswaldo Baretto)
 Maxime Tshibangu (Joël Lautric)
-France 2023  
-116 mins  
-Digital  
+France 2023
+116 mins
+Digital
 
-A MetFilm release  
+A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjY5MzA0NV19
+eyJoaXN0b3J5IjpbLTI1NjMxNTQwM119
 -->
