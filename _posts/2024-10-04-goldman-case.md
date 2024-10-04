@@ -45,18 +45,18 @@ _End Titles:_ Olivier Leibig
 _Colour Grader:_ Yov Moor  
 _Sound:_ Erwan Kerzanet, Sylvain Malbrant, Olivier Guillaume  
 **Cast**  
-Arieh Worthalter _(Pierre Goldman)_
-Arthur Harari _(Maître Georges Kiejman)_
-Stéphan Guérin-Tillié _(President)_
-Nicolas Briançon _(Maître Garaud)_
-Aurélien Chaussade _(advocate general)
-Christian Mazzuchini (Maître Bartoli)
-Jeremy Lewin (Maître Francis Chouraqui)
-Jerzy Radziwilowicz (Alter Goldman)
-Chloé Lecerf (Christiane)
-Lætitia Masson (psychiatrist)
-Didier Borga (Commissioner Jobard)
-Arthur Verret (young Jewish man)
+Arieh Worthalter _(Pierre Goldman)_  
+Arthur Harari _(Maître Georges Kiejman)_  
+Stéphan Guérin-Tillié _(President)_  
+Nicolas Briançon _(Maître Garaud)_  
+Aurélien Chaussade _(advocate general)_  
+Christian Mazzuchini _(Maître Bartoli)_  
+Jeremy Lewin _(Maître Francis Chouraqui)_  
+Jerzy Radziwilowicz _(Alter Goldman)_  
+Chloé Lecerf _(Christiane)_  
+Lætitia Masson _(psychiatrist)_  
+Didier Borga _(Commissioner Jobard)_  
+Arthur Verret _(young Jewish man)_  
 Priscilla Lopes (Madame Carrel)
 Paul Jeanson (Agent Quinet)
 Prescillia Martin (Mademoiselle Lecoq)
@@ -72,6 +72,6 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzk0MTk5OCwtNzUzMDg2OTgxLC0xMj
-IwNzU5Mjc4XX0=
+eyJoaXN0b3J5IjpbLTE0MzA4MDE2MjcsMjEzMzk0MTk5OCwtNz
+UzMDg2OTgxLC0xMjIwNzU5Mjc4XX0=
 -->
