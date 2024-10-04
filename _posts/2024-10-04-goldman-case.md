@@ -30,7 +30,7 @@ _Casting Director:_ Antoine Carrard
 _Casting:_ Antoine Carrard  
 _Screenplay:_ Nathalie Hertzberg, Cédric Kahn  
 _Director of Photography:_ Patrick Ghiringhelli  
-_Camera Operators: Gaspard Cresp, 
+_Camera Operators:_ Gaspard Cresp, 
 Romaric Thomas
 Editing: Yann Dedet
 Assistant Editor: Minori Akimoto
@@ -74,5 +74,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA3NTkyNzhdfQ==
+eyJoaXN0b3J5IjpbMTc4MjY4ODE4NywtMTIyMDc1OTI3OF19
 -->
