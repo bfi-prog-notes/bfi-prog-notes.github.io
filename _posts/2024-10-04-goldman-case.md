@@ -57,21 +57,21 @@ Chloé Lecerf _(Christiane)_
 Lætitia Masson _(psychiatrist)_  
 Didier Borga _(Commissioner Jobard)_  
 Arthur Verret _(young Jewish man)_  
-Priscilla Lopes (Madame Carrel)
-Paul Jeanson (Agent Quinet)
-Prescillia Martin (Mademoiselle Lecoq)
-Xavier Aubert (Doctor Pluvinage)
-François Favrat (Commissioner Leclerc)
-Romain Parent (Inspector Goussard)
-Lucas Olmedo (Oswaldo Baretto)
-Maxime Tshibangu (Joël Lautric)
-France 2023
-116 mins
-Digital
+Priscilla Lopes _(Madame Carrel)_  
+Paul Jeanson _(Agent Quinet)_  
+Prescillia Martin _(Mademoiselle Lecoq)_  
+Xavier Aubert _(Doctor Pluvinage)_  
+François Favrat _(Commissioner Leclerc)_  
+Romain Parent _(Inspector Goussard)_  
+Lucas Olmedo _(Oswaldo Baretto)_  
+Maxime Tshibangu _(Joël Lautric)_  
+France 2023  
+116 mins  
+Digital  
 
-A MetFilm release
+A MetFilm release  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA4MDE2MjcsMjEzMzk0MTk5OCwtNz
+eyJoaXN0b3J5IjpbLTEwMzc0NTUyMjUsMjEzMzk0MTk5OCwtNz
 UzMDg2OTgxLC0xMjIwNzU5Mjc4XX0=
 -->
