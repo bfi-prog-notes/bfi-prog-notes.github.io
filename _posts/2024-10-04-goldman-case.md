@@ -1,7 +1,74 @@
 
 
+SPOILER WARNING The following notes give away some of the plot.
+The heated 1976 trial of French left-wing intellectual and activist Pierre Goldman, accused of murdering two pharmacists in a bungled robbery, is reconstructed in Cédric Kahn’s riveting courtroom drama. Kahn’s portrait of a trial that gripped France is a stripped back masterpiece. Unfurling within the claustrophobic environs of a tense, heavy courtroom, in style The Goldman Case draws heavily on the cinematographic style of certain 1970s documentaries, an aesthetic that transports us to the very heart of the drama. Arieh Worthalter’s award-winning turn as the volatile Goldman is explosive – his indignation at the injustice he feels he has been subject to manifests itself as a stream of barely contained rage, as he seeks to clear his name. It just one riveting element of a taut and compelling film that examines both this famous case, and wider issues surrounding institutional antisemitism and the revolutionary spirit of the 1970s.
+Kimberley Sheehan, Film and Events Programmer
+In real life, Pierre Goldman’s second trial (an appeal against the life sentence delivered by the first in 1974 for the murder of two female pharmacists) was a major political and media event in France. His memoir, written in jail and published in 1975 under the evocative title of Souvenirs obscurs d’un juif polonais né en France (‘Obscure memoirs of a Polish Jew born in France’), was a critical and popular success, in which he pays homage to his parents who were both heroes of the French Resistance. This glorious parental legacy, his far-left militancy in France and Venezuela and his charismatic personality brought Goldman a huge following among the Parisian intelligentsia in spite of his criminal activities, which included armed robbery. Luminaries such as the film star Simone Signoret and the Marxist philosopher Régis Debray attended the trial, as did vocal youthful supporters; so did Goldman’s younger half-brother Jean-Jacques Goldman, who became one of France’s most popular singers (all appear as characters in the film). Cleared of the murder charge, Pierre Goldman came out of jail in October 1976 but was mysteriously assassinated three years later in Paris – a crime that remains unsolved. More than 10,000 people went to his funeral on 27 September 1979, adding another layer to the legend.
+Leaving such spectacular background off-screen, Cédric Kahn’s film opts for a sober huis clos, keeping us in the courtroom for most of the running time. There are no flashbacks, only brief texts bookending the film with salient data. This downbeat presentation, and the fact that Kahn and his co-screenwriter Nathalie Hertzberg had consulted Goldman’s lawyers, did not prevent the film from attracting controversy in France, where it has been attacked for taking liberties with history – notably, showing Goldman’s wife Christiane Succab-Goldman as a witness at the second trial, which in reality she did not attend (Kahn and Hertzberg pleaded poetic licence and the desire to make a link between Goldman’s two trials). 
+Going beyond these polemics, the film holds its own outside its French context, especially for fans of the flamboyant performativity of the trial film genre, the pleasures of which include the delivery of chiselled dialogue by seasoned actors. Among the actors here, the lawyer for the victims’ families, Maître Garaud (Nicolas Briançon) does not disappoint; nor does, in a more minimalist register, Goldman’s defence lawyer Maître Kiejman, played by the actor, director and screenwriter Arthur Harari (who co-scripted another notable French trial film of 2023, Anatomy of a Fall). Equally striking is the contribution of legendary Polish actor Jerzy Radziwilowicz (hero of Andrzej Wajda’s 1977 Man of Marble and its 1981 sequel Man of Iron), who imbues Goldman’s father with the required dignity. And at the centre is the fiendishly articulate Goldman, embodied with great intensity by Arieh Worthalter, a deserved award-winner (a César included) for his performance.
+The Goldman Case holds our attention for other reasons. There is, first, the fundamental ambiguity of the man and the case. Goldman fervently claims his innocence while sabotaging his own cause (and his lawyers’ efforts) with his arrogance. And while he denounces the trial as ‘theatrical pomp’, he is not himself above histrionics. As Kahn pointed out in an interview with Le Monde, Goldman was a master of ‘the art of discourse’. As slippery testimonies follow one another, Goldman remains unfathomable and the truth elusive. Although set in the aftermath of the events of May 1968, the film rises above its context in channelling topics that resonate today – institutional racism, police brutality and the legacy of the Holocaust. Goldman places his family history – in particular his failure to prove himself worthy of his heroic parents – in the wider traumatic context of the Shoah. This explains the opening scene, the only one set outside the court, in which Goldman sends Kiejman a letter accusing him of being an ‘armchair Jew’; it also contextualises his identification with Black people as fellow oppressed (his wife and some of his friends and witnesses came from the French West Indies).
+Within Kahn’s varied filmography, The Goldman Case joins Roberto Succo (2001) and Wild Life (Vie sauvage, 2014) as films built around a fascination with self-destructive, charismatic male rebels with a criminal slant. Despite a few implausible moments (for instance, the court president reading out the verdict against a deafeningly noisy room), The Goldman Case confirms Kahn’s judgement, on reading Goldman’s memoir, that the man, ‘a gambler and provocateur, brilliant, ambiguous, manipulative’, was a ‘cinematic character’ – which indeed he is.
+**Ginette Vincendeau, bfi.org.uk/sight-and-sound, 20 September 2024**  
+<br>
+The Goldman Case (Le Procès Goldman)
+Director: Cédric Kahn
+©: Moonshaker, Tropdebonheur Productions
+Production Companies: Moonshaker, 
+Tropdebonheur Productions
+International Sales: Charades
+Produced by: Benjamin Elalouf
+Associate Producer: Nathalie Dennes
+Unit Production Manager: Charles Miambanzila
+Production Manager: Damien Saussol
+Post-production Supervisor: Delphine Passant
+1st Assistant Director: Romaric Thomas
+Casting Director: Antoine Carrard
+Casting: Antoine Carrard
+Screenplay: Nathalie Hertzberg, Cédric Kahn
+Director of Photography: Patrick Ghiringhelli
+Camera Operatosr: Gaspard Cresp, 
+Romaric Thomas
+Editing: Yann Dedet
+Assistant Editor: Minori Akimoto
+Art Director: Guillaume Deviercy
+Assistant Art Director: Valentine Dubus-Ventura
+Property Master: Zoé Carré
+Costume Designer: Alice Cambournac
+Key Make-up: Élodie Merlier
+Hair Design: Gérald Portenart
+Key Hair Stylist: Réjane Selmane
+Titles and Title Cards: Laurent Brett
+End Titles: Olivier Leibig
+Colour Grader: Yov Moor
+Sound: Erwan Kerzanet, Sylvain Malbrant, 
+Olivier Guillaume 
+Cast:
+Arieh Worthalter (Pierre Goldman)
+Arthur Harari (Maître Georges Kiejman)
+Stéphan Guérin-Tillié (President)
+Nicolas Briançon (Maître Garaud)
+Aurélien Chaussade (advocate general)
+Christian Mazzuchini (Maître Bartoli)
+Jeremy Lewin (Maître Francis Chouraqui)
+Jerzy Radziwilowicz (Alter Goldman)
+Chloé Lecerf (Christiane)
+Lætitia Masson (psychiatrist)
+Didier Borga (Commissioner Jobard)
+Arthur Verret (young Jewish man)
+Priscilla Lopes (Madame Carrel)
+Paul Jeanson (Agent Quinet)
+Prescillia Martin (Mademoiselle Lecoq)
+Xavier Aubert (Doctor Pluvinage)
+François Favrat (Commissioner Leclerc)
+Romain Parent (Inspector Goussard)
+Lucas Olmedo (Oswaldo Baretto)
+Maxime Tshibangu (Joël Lautric)
+France 2023  
+116 mins  
+Digital  
 
-> Written with [StackEdit](https://stackedit.io/).
+A MetFilm release  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTkyMjY5MzA0NV19
 -->
