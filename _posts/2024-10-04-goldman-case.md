@@ -15,17 +15,16 @@ _The Goldman Case_ holds our attention for other reasons. There is, first, the f
 Within Kahn’s varied filmography, _The Goldman Case_ joins _Roberto Succo_ (2001) and _Wild Life_ (_Vie sauvage_, 2014) as films built around a fascination with self-destructive, charismatic male rebels with a criminal slant. Despite a few implausible moments (for instance, the court president reading out the verdict against a deafeningly noisy room), _The Goldman Case_ confirms Kahn’s judgement, on reading Goldman’s memoir, that the man, ‘a gambler and provocateur, brilliant, ambiguous, manipulative’, was a ‘cinematic character’ – which indeed he is.  
 **Ginette Vincendeau, bfi.org.uk/sight-and-sound, 20 September 2024**  
 <br>
-THE GOLDMAN CASE  (Le Procès Goldman)
-Director: Cédric Kahn
-©: Moonshaker, Tropdebonheur Productions
-Production Companies: Moonshaker, 
-Tropdebonheur Productions
-International Sales: Charades
-Produced by: Benjamin Elalouf
-Associate Producer: Nathalie Dennes
-Unit Production Manager: Charles Miambanzila
-Production Manager: Damien Saussol
-Post-production Supervisor: Delphine Passant
+**THE GOLDMAN CASE  (LE PROCÈS GOLDMAN)**  
+_Director:_ Cédric Kahn  
+_©:_ Moonshaker, Tropdebonheur Productions  
+_Production Companies:_ Moonshaker, Tropdebonheur Productions  
+_International Sales:_ Charades  
+_Produced by:_ Benjamin Elalouf  
+_Associate Producer:_ Nathalie Dennes  
+_Unit Production Manager:_ Charles Miambanzila  
+_Production Manager:_ Damien Saussol  
+_Post-production Supervisor: Delphine Passant
 1st Assistant Director: Romaric Thomas
 Casting Director: Antoine Carrard
 Casting: Antoine Carrard
@@ -75,5 +74,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NjgxNTQ5XX0=
+eyJoaXN0b3J5IjpbLTE5Mjg2MDcwNzZdfQ==
 -->
