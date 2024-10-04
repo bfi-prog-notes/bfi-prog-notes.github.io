@@ -24,13 +24,13 @@ _Produced by:_ Benjamin Elalouf
 _Associate Producer:_ Nathalie Dennes  
 _Unit Production Manager:_ Charles Miambanzila  
 _Production Manager:_ Damien Saussol  
-_Post-production Supervisor: Delphine Passant
-1st Assistant Director: Romaric Thomas
-Casting Director: Antoine Carrard
-Casting: Antoine Carrard
-Screenplay: Nathalie Hertzberg, Cédric Kahn
-Director of Photography: Patrick Ghiringhelli
-Camera Operatosr: Gaspard Cresp, 
+_Post-production Supervisor:_ Delphine Passant  
+_1st Assistant Director:_ Romaric Thomas  
+_Casting Director:_ Antoine Carrard  
+_Casting:_ Antoine Carrard  
+_Screenplay:_ Nathalie Hertzberg, Cédric Kahn  
+_Director of Photography:_ Patrick Ghiringhelli  
+_Camera Operators: Gaspard Cresp, 
 Romaric Thomas
 Editing: Yann Dedet
 Assistant Editor: Minori Akimoto
@@ -74,5 +74,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg2MDcwNzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjA3NTkyNzhdfQ==
 -->
