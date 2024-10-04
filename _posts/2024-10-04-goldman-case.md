@@ -44,9 +44,9 @@ _Titles and Title Cards:_ Laurent Brett
 _End Titles:_ Olivier Leibig  
 _Colour Grader:_ Yov Moor  
 _Sound:_ Erwan Kerzanet, Sylvain Malbrant, Olivier Guillaume  
-Cast:
-Arieh Worthalter (Pierre Goldman)
-Arthur Harari (Maître Georges Kiejman)
+**Cast**  
+Arieh Worthalter _(Pierre Goldman)_
+Arthur Harari _(Maître Georges Kiejman)_
 Stéphan Guérin-Tillié (President)
 Nicolas Briançon (Maître Garaud)
 Aurélien Chaussade (advocate general)
@@ -72,5 +72,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjQyNDk0OSwtMTIyMDc1OTI3OF19
+eyJoaXN0b3J5IjpbLTc1MzA4Njk4MSwtMTIyMDc1OTI3OF19
 -->
