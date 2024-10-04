@@ -1,6 +1,6 @@
 
 
-SPOILER WARNING The following notes give away some of the plot.
+**SPOILER WARNING** The following notes give away some of the plot.
 The heated 1976 trial of French left-wing intellectual and activist Pierre Goldman, accused of murdering two pharmacists in a bungled robbery, is reconstructed in Cédric Kahn’s riveting courtroom drama. Kahn’s portrait of a trial that gripped France is a stripped back masterpiece. Unfurling within the claustrophobic environs of a tense, heavy courtroom, in style The Goldman Case draws heavily on the cinematographic style of certain 1970s documentaries, an aesthetic that transports us to the very heart of the drama. Arieh Worthalter’s award-winning turn as the volatile Goldman is explosive – his indignation at the injustice he feels he has been subject to manifests itself as a stream of barely contained rage, as he seeks to clear his name. It just one riveting element of a taut and compelling film that examines both this famous case, and wider issues surrounding institutional antisemitism and the revolutionary spirit of the 1970s.
 Kimberley Sheehan, Film and Events Programmer
 In real life, Pierre Goldman’s second trial (an appeal against the life sentence delivered by the first in 1974 for the murder of two female pharmacists) was a major political and media event in France. His memoir, written in jail and published in 1975 under the evocative title of Souvenirs obscurs d’un juif polonais né en France (‘Obscure memoirs of a Polish Jew born in France’), was a critical and popular success, in which he pays homage to his parents who were both heroes of the French Resistance. This glorious parental legacy, his far-left militancy in France and Venezuela and his charismatic personality brought Goldman a huge following among the Parisian intelligentsia in spite of his criminal activities, which included armed robbery. Luminaries such as the film star Simone Signoret and the Marxist philosopher Régis Debray attended the trial, as did vocal youthful supporters; so did Goldman’s younger half-brother Jean-Jacques Goldman, who became one of France’s most popular singers (all appear as characters in the film). Cleared of the murder charge, Pierre Goldman came out of jail in October 1976 but was mysteriously assassinated three years later in Paris – a crime that remains unsolved. More than 10,000 people went to his funeral on 27 September 1979, adding another layer to the legend.
@@ -70,5 +70,5 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjMxNTQwM119
+eyJoaXN0b3J5IjpbLTE1MjQ3Mzk3MjNdfQ==
 -->
