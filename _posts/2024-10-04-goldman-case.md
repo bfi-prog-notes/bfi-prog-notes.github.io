@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Goldman Case
+published: true
+date: 2024-10-04
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France 2023, 116 mins<br> Director: Cédric Kahn'
+pdf: '2024-10-04-goldman-case.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 The heated 1976 trial of French left-wing intellectual and activist Pierre Goldman, accused of murdering two pharmacists in a bungled robbery, is reconstructed in Cédric Kahn’s riveting courtroom drama. Kahn’s portrait of a trial that gripped France is a stripped back masterpiece. Unfurling within the claustrophobic environs of a tense, heavy courtroom, in style _The Goldman Case_ draws heavily on the cinematographic style of certain 1970s documentaries, an aesthetic that transports us to the very heart of the drama. Arieh Worthalter’s award-winning turn as the volatile Goldman is explosive – his indignation at the injustice he feels he has been subject to manifests itself as a stream of barely contained rage, as he seeks to clear his name. It just one riveting element of a taut and compelling film that examines both this famous case, and wider issues surrounding institutional antisemitism and the revolutionary spirit of the 1970s.  
@@ -72,6 +82,6 @@ Digital
 A MetFilm release  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc0NTUyMjUsMjEzMzk0MTk5OCwtNz
-UzMDg2OTgxLC0xMjIwNzU5Mjc4XX0=
+eyJoaXN0b3J5IjpbLTQ5NDQ1MjgwMSwyMTMzOTQxOTk4LC03NT
+MwODY5ODEsLTEyMjA3NTkyNzhdfQ==
 -->
