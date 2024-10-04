@@ -47,9 +47,9 @@ _Sound:_ Erwan Kerzanet, Sylvain Malbrant, Olivier Guillaume
 **Cast**  
 Arieh Worthalter _(Pierre Goldman)_
 Arthur Harari _(Maître Georges Kiejman)_
-Stéphan Guérin-Tillié (President)
-Nicolas Briançon (Maître Garaud)
-Aurélien Chaussade (advocate general)
+Stéphan Guérin-Tillié _(President)_
+Nicolas Briançon _(Maître Garaud)_
+Aurélien Chaussade _(advocate general)
 Christian Mazzuchini (Maître Bartoli)
 Jeremy Lewin (Maître Francis Chouraqui)
 Jerzy Radziwilowicz (Alter Goldman)
@@ -72,5 +72,6 @@ Digital
 A MetFilm release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzA4Njk4MSwtMTIyMDc1OTI3OF19
+eyJoaXN0b3J5IjpbMjEzMzk0MTk5OCwtNzUzMDg2OTgxLC0xMj
+IwNzU5Mjc4XX0=
 -->
