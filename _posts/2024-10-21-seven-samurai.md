@@ -89,8 +89,7 @@ Toshiro Mifune _(Kikuchiyo, would-be samurai)_
 Seiji Miyaguchi _(Kyuzo, swordsman)_  
 Ko Kimura _(Katsushiro, young samurai)_  
 Daisuke Katô _(Shichiroji, Kambei’s friend)_  
-Minoru Chiaki _(Heihachi, good-natured samurai)_
-
+Minoru Chiaki _(Heihachi, good-natured samurai)_  
 Yoshio Inaba _(Gorobei, wise warrior)_
 
 Yoshio Tsuchiya _(Rikichi, militant villager)_
@@ -132,5 +131,5 @@ Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shun
 Japan 1954©  
 207 mins + interval  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMzQ2MjAxXX0=
+eyJoaXN0b3J5IjpbLTEzNjQ3NjI4MDksOTgwMzQ2MjAxXX0=
 -->
