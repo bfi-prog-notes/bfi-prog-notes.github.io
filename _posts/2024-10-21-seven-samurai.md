@@ -90,40 +90,23 @@ Seiji Miyaguchi _(Kyuzo, swordsman)_
 Ko Kimura _(Katsushiro, young samurai)_  
 Daisuke Katô _(Shichiroji, Kambei’s friend)_  
 Minoru Chiaki _(Heihachi, good-natured samurai)_  
-Yoshio Inaba _(Gorobei, wise warrior)_
-
-Yoshio Tsuchiya _(Rikichi, militant villager)_
-
-Keiko Tsushima _(Shino, Manzo’s daughter)_
-
-Kamatari Fujiwara _(Manzo, Shino’s father)_
-
-Bokuzen Hidari _(Yohei, frightened villager)_
-
+Yoshio Inaba _(Gorobei, wise warrior)_  
+Yoshio Tsuchiya _(Rikichi, militant villager)_  
+Keiko Tsushima _(Shino, Manzo’s daughter)_  
+Kamatari Fujiwara _(Manzo, Shino’s father)_  
+Bokuzen Hidari _(Yohei, frightened villager)_  
 Kuninori Kodo _(Gisaku, village elder)_
-
-Yoshio Kosugi _(Mosuke)_
-
-Keiji Sakakida _(Gosaku)_
-
-Fumiko Homma _(peasant woman)_
-
-Sojin Kamiyama _(minstrel-priest)_
-
-Toranosuke Ogawa _(grandfather)_
-
-Yu Akitsu _(husband)_
-
-Noriko Sengoku _(wife)_
-
-Ichiro Chiba _(priest)_
-
-Gen Shimizu _(masterless samurai)_
-
-Jun Tatari _(coolie)_
-
-Atsushi Watanabe _(vendor)_
-
+Yoshio Kosugi _(Mosuke)_  
+Keiji Sakakida _(Gosaku)_  
+Fumiko Homma _(peasant woman)_  
+Sojin Kamiyama _(minstrel-priest)_  
+Toranosuke Ogawa _(grandfather)_  
+Yu Akitsu _(husband)_  
+Noriko Sengoku _(wife)_  
+Ichiro Chiba _(priest)_  
+Gen Shimizu _(masterless samurai)_  
+Jun Tatari _(coolie)_  
+Atsushi Watanabe _(vendor)_  
 Yukiko Shimazaki _(Rikichi’s wife)_  
 Shinpei Takagi _(Bandit Chief)_  
 Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_  
@@ -131,5 +114,5 @@ Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shun
 Japan 1954©  
 207 mins + interval  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ3NjI4MDksOTgwMzQ2MjAxXX0=
+eyJoaXN0b3J5IjpbNDkzNDAyOTYxLDk4MDM0NjIwMV19
 -->
