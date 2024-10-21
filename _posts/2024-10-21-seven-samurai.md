@@ -45,6 +45,92 @@ Upon its original American release, Bosley Crowther had questioned ‘whether th
 _Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?  
 **Jasper Sharp, bfi.org.uk, 26 April 2014**
 <br>
+<![endif]-->
+
+**SEVEN SAMURAI (SHICHININ NO SAMURAI)**
+
+_Director:_ Akira Kurosawa
+
+_©:_ Toho Co. Ltd.
+
+_Production Company:_ Toho Co. Ltd.
+
+_Producer:_ Sojiro Motoki
+
+_Assistant Directors:_ Hiromichi Horikawa, Katsuya Shimizu, Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko
+
+_Screenplay:_ Shinobu Hashimoto,
+
+Hideo Oguni, Akira Kurosawa
+
+_Director of Photography:_ Asakazu Nakai
+
+_Lighting:_ Shigeru Mori
+
+_Art Director:_ So Matsuyama
+
+_Art Consultation:_ Seiton Maeda, Kohei Ezaki
+
+_Music:_ Fumio Hayasaka
+
+_Sound Recording:_ Fumio Yanoguchi
+
+_Sound Effects:_ Ichiro Minawa
+
+_Fencing Director:_ Yushio Sugino
+
+_Archery Directors:_ Ienori Kaneko,
+
+Shigeru Endo
+
+**Cast**  
+Takashi Shimura _(Kambei Shimada, leader of samurai)_  
+Toshiro Mifune _(Kikuchiyo, would-be samurai)_  
+Seiji Miyaguchi _(Kyuzo, swordsman)_  
+Ko Kimura _(Katsushiro, young samurai)_  
+Daisuke Katô _(Shichiroji, Kambei’s friend)_  
+Minoru Chiaki _(Heihachi, good-natured samurai)_
+
+Yoshio Inaba _(Gorobei, wise warrior)_
+
+Yoshio Tsuchiya _(Rikichi, militant villager)_
+
+Keiko Tsushima _(Shino, Manzo’s daughter)_
+
+Kamatari Fujiwara _(Manzo, Shino’s father)_
+
+Bokuzen Hidari _(Yohei, frightened villager)_
+
+Kuninori Kodo _(Gisaku, village elder)_
+
+Yoshio Kosugi _(Mosuke)_
+
+Keiji Sakakida _(Gosaku)_
+
+Fumiko Homma _(peasant woman)_
+
+Sojin Kamiyama _(minstrel-priest)_
+
+Toranosuke Ogawa _(grandfather)_
+
+Yu Akitsu _(husband)_
+
+Noriko Sengoku _(wife)_
+
+Ichiro Chiba _(priest)_
+
+Gen Shimizu _(masterless samurai)_
+
+Jun Tatari _(coolie)_
+
+Atsushi Watanabe _(vendor)_
+
+Yukiko Shimazaki _(Rikichi’s wife)_  
+Shinpei Takagi _(Bandit Chief)_  
+Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_  
+Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_  
+Japan 1954©  
+207 mins + interval  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAxMTkwNjZdfQ==
+eyJoaXN0b3J5IjpbOTgwMzQ2MjAxXX0=
 -->
