@@ -96,26 +96,16 @@ Japan 1954©
 <br>
 <![endif]-->
 
-**ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**
-
-**Big Screen Classics: The History of Action**
-
-**Safety Last! + One Week**
-
-Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov
-
-**Mad Max 2: The Road Warrior**
-
-Mon 21 Oct 18:20; Wed 27 Nov 20:50
-
-**Seven Samurai** Shichinin no samurai
-
-Mon 21 Oct 18:30; Sun 3 Nov 13:30; Sun 10 Nov 11:45; Sun 24 Nov 14:30
-
-**Hell Drivers** Tue 22 Oct 18:15; Thu 14 Nov 12:20; Sat 16 Nov 20:40
-
-**The Thief of Bagdad** Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30
-
+**ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
+**Big Screen Classics: The History of Action**  
+**Safety Last! + One Week**  
+Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov  
+**Mad Max 2: The Road Warrior**  
+Mon 21 Oct 18:20; Wed 27 Nov 20:50  
+**Seven Samurai** Shichinin no samurai  
+Mon 21 Oct 18:30; Sun 3 Nov 13:30; Sun 10 Nov 11:45; Sun 24 Nov 14:30  
+**Hell Drivers** Tue 22 Oct 18:15; Thu 14 Nov 12:20; Sat 16 Nov 20:40  
+**The Thief of Bagdad** Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30  
 **Goldfinger 60th anniversary screenings**  
 Wed 23 Oct 18:20 (+ intro by season programmer Dick Fiddy); Sun 10 Nov 18:40; Sat 23 Nov 18:20  
 **Bullitt** Wed 23 Oct 20:40; Sun 3 Nov 16:25; Thu 21 Nov 14:30; Tue 26 Nov 20:45  
@@ -136,5 +126,5 @@ Fri 15 Nov 18:00 (+ panel discussion with Action Xtreme); Tue 19 Nov 20:55; Thu 
 **District B13** Banlieue 13  
 Wed 20 Nov 18:20 (+ intro by Chee Keong Cheung, writer, director, producer and CEO of Action Xtreme); Fri 29 Nov 20:45 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNTYzNzQyLDk4MDM0NjIwMV19
+eyJoaXN0b3J5IjpbMTg0MDA3NDk3NCw5ODAzNDYyMDFdfQ==
 -->
