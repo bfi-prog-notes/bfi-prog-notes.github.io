@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Seven Samurai
+published: true
+date: 2024-10-21
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+tags: [War, Drama, Period, Action]
+metadata: 'Japan 1954, 207 mins<br> Director: Akira Kuro'
+pdf: '2024-10-05-blakes-7.pdf'
+---
 
 When Akira Kurosawa’s _Seven Samurai_ premiered in Japan on 26 April 1954, it was the most expensive domestic production ever, costing 125 million Yen (approximately $350,000), almost five times the then 26 million Yen ($63,000) average for a typical Japanese studio picture.
 
@@ -94,7 +102,6 @@ Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shun
 Japan 1954©  
 207 mins + interval 
 <br>
-<![endif]-->
 
 **ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
 **Big Screen Classics: The History of Action**  
@@ -154,6 +161,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTIxNDQzNSwxODQwMDc0OTc0LDk4MD
-M0NjIwMV19
+eyJoaXN0b3J5IjpbLTEyMjgwMzg5NjEsMTg0MDA3NDk3NCw5OD
+AzNDYyMDFdfQ==
 -->
