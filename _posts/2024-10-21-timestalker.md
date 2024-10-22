@@ -61,9 +61,8 @@ _Made with the support of the_:  BFI’s Filmmaking Fund
 _Presented by_: BFI, Ffilm Cymru Wales  
 _In association with_: Head Gear Films,  Creative Wales, HanWay Films  
 _Worldwide Sales and Distribution_:  HanWay Films Ltd  
-_Executive Producers_: Ty Francis, Franki Goodwin, Mike Rattenbury, Vaughan Sivell, Natan Stoessel, Marie-Gabrielle Stewart, Peter Watson, NataschaWharton, Bizzy Day, Kiah Simpson, Laura Brook, Charlotte Colbert, Philip Colbert, Phil Hunt, Compton Ross  
-_Produced by_: Vaughan Sivell, Mark Hopkins,  
-Natan Stoessel, Tom Wood  
+_Executive Producers_: Ty Francis, Franki Goodwin, Mike Rattenbury, Vaughan Sivell, Natan Stoessel, Marie-Gabrielle Stewart, Peter Watson, Natascha Wharton, Bizzy Day, Kiah Simpson, Laura Brook, Charlotte Colbert, Philip Colbert, Phil Hunt, Compton Ross  
+_Produced by_: Vaughan Sivell, Mark Hopkins,  Natan Stoessel, Tom Wood  
 _Line Producer_: Jack Cornelius Knott  
 _Location Manager_: Baljinder Sidhu  
 _1st Assistant Director_: Mark Hopkins  
@@ -81,11 +80,9 @@ _Music by_: Toydrum
 _Sound Design_: Martin Pavey  
 _Production Sound Mixer_: Nick Davies  
 _Re-recording Mixer_: Martin Pavey  
-_Stunt Co-ordinators_: Gary Kane,  
-Marcus Shakesheff
+_Stunt Co-ordinators_: Gary Kane,  Marcus Shakesheff
 
-_Cast:_
-
+**Cast**  
 Alice Lowe _(Agnes)_  
 Jacob Anderson _(Scipio)_  
 Aneurin Barnard  
@@ -101,13 +98,12 @@ Gerald Tyler _(wigmaker/Kreshnik)_
 Mike Wozniak _(Dan Covy)_  
 Zach Wyatt _(quack doctor/tarot reader)_
 
-UK 2024
-
-96 mins
-
+UK 2024  
+96 mins  
 Digital
 
 A Vertigo release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTUzMDk0OV19
+eyJoaXN0b3J5IjpbLTE4MTU3Njk4NTFdfQ==
 -->
