@@ -50,36 +50,26 @@ It would be self-serving to imagine that a movie can have any impact on an elect
 **Interview by Lou Thomas, _Sight and Sound_, November 2024**
 <br><br>
 
-**THE APPRENTICE**
+**THE APPRENTICE**  
 _Directed by_: Ali Abbasi  
-©: Apprentice Productions Ontario Inc.,  
-Profile Productions 2 ApS, Tailored Films Ltd  
-_Production Companies_: Scythia Films,  
-Profile Pictures, Tailored Films  
+©: Apprentice Productions Ontario Inc.,  Profile Productions 2 ApS, Tailored Films Ltd  
+_Production Companies_: Scythia Films,  Profile Pictures, Tailored Films  
 _In co-production with_: Film Institute, Film i Väst  
 _Supported by_: Danish Film Institute  
-_In collaboration with_:  
-DR - Danish Broadcasting Corporation  
-_In association with_: AC Films Inc., Rich Spirit,  
-LB Entertainment LLC, Wild 7 Films  
+_In collaboration with_:  DR - Danish Broadcasting Corporation  
+_In association with_: AC Films Inc., Rich Spirit,  LB Entertainment LLC, Wild 7 Films  
 _International Sales by_: Rocket Science  
-_Executive Producers_: Amy Baer, James Shani,  
-Fred Benenson, Phil Hunt, Compton Ross,  
-Thorsten Schumacher, Levi Woodward  
+_Executive Producers_: Amy Baer, James Shani,  Fred Benenson, Phil Hunt, Compton Ross,  Thorsten Schumacher, Levi Woodward  
 _Executive Producer for Fís Èireann/Screen Ireland_: Niamh Fagan  
-_Executive Producers_: Gabriel Sherman,  
-Greg Denny, Noor Alfallah, Andy Cohen,  
-Andrew Frank, Neil Mathieson, Brian Tyler Cohen, Lee Broda, Blair Ward, Anders Erdén  
-_Produced by_: Daniel Bekerman, Jacob Jarek,  
-Ruth Treacy, Julianne Forde, Louis Tisné, Ali Abbasi  
+_Executive Producers_: Gabriel Sherman,  Greg Denny, Noor Alfallah, Andy Cohen,  Andrew Frank, Neil Mathieson, Brian Tyler Cohen, Lee Broda, Blair Ward, Anders Erdén  
+_Produced by_: Daniel Bekerman, Jacob Jarek,  Ruth Treacy, Julianne Forde, Louis Tisné, Ali Abbasi  
 _Co-producers_: Ditte Milsted, Kristina Börjeson, Anthony Muir, Nima Yousefi, Matthew Whelan  
 _Archive Producer_: Beatrice Read  
 _Line Producer - Ireland_: Mairtín de Barra  
 _Associate Producer_: Ashley Renders  
 _Production Manager_: Ainslee Kennedy  
 _Production Co-ordinator_: Michelle Kanyo  
-_Production Coordinator - Ireland_:  
-Caitríona McCormack  
+_Production Coordinator - Ireland_:  Caitríona McCormack  
 _Production Accountant_: Dawn Taylor  
 _Location Manager_: Richard Hughes  
 _Post-production Supervisors_: Aoife Delany, Christina Jæger  
@@ -95,12 +85,10 @@ _Director of Photography_: Kasper Tuxen
 _A Camera Operator/Steadicam_: Sasha Moric  
 _Visual Effects Supervisor_: Matthew Whelan  
 _Visual Effects Producer_: Julianne Forde  
-_Visual Effects by_: Egg VFX Ireland,  
-Dupp VFX Sweden, Piranha Bar, Filmgate AB  
+_Visual Effects by_: Egg VFX Ireland,  Dupp VFX Sweden, Piranha Bar, Filmgate AB  
 _Special Effects Supervisor_: Conor Craig  
 _Motion Graphics Designer_: John O’Riordan  
-_Edited by_: Olivia Neergaard-Holm,  
-Olivier Bugge Coutté  
+_Edited by_: Olivia Neergaard-Holm,  Olivier Bugge Coutté  
 _On-line Editor_: Sinéad Cronin  
 _Additional Editing by_: Lukas Westtoft, Thor Ochsner  
 _Visual Effects Editor_: Shane Woods  
@@ -112,27 +100,23 @@ _Costume Designer_: Laura Montgomery
 _Assistant Costume Designer_: Amy Sztulwark  
 _Costume Supervisor_: Suzanne Aplin  
 _Make-up Department Head_: Colin Penman  
-_Key Make-up Artists_: Indiana Allemang,  
-Thomas McInerney  
-_Special Make-up Effects Department Head,  
-Co-designer, and Artist to Trump & Cohn_:  
-Sean Sansom  
+_Key Make-up Artists_: Indiana Allemang,  Thomas McInerney  
+_Special Make-up Effects Department Head,  Co-designer, and Artist to Trump & Cohn_:  Sean Sansom  
 _Special Make-up Effects & Make-up Artist to Trump_: Brandi Boulet  
 _Special Make-up Effects Artist_: Michael Walsh  
 _Hair Designer and Head of Hair Department_: Michelle Cote  
 _Key Hair Stylists_: Charlotte Delaet, Sandra Kelly  
 _Colourist_: Donal O’Kane  
 _Original Music by_: David Holmes, Brian Irvine, Martin Dirkov  
-_Music Supervisors_: Rory McPartland,  
-Dina Coughlan  
+_Music Supervisors_: Rory McPartland,  Dina Coughlan  
 _Music Consultant_: Hans-Erik Philip  
 _Production Sound Mixer_: Thomas Hayek  
 _Re-recording Mixers_: Per Boström, Colm Mullally  
 _Supervising Sound Editor_: Joakim Sundström  
 _Sound Effects Editor_: Christer Melén  
 _Stunt Co-ordinator_: Joel Labelle  
-_Cast:_
 
+**Cast**  
 Sebastian Stan _(Donald Trump)_  
 Jeremy Strong _(Roy Cohn)_  
 Martin Donovan _(Fred Trump)_  
@@ -160,8 +144,7 @@ Frank Moore _(Judge Edward Neaher)_
 James Madge _(Tom Bolan)_  
 Ian D. Clark _(Ed Koch)_  
 Mishka Thebaud _(aggressive pimp)_  
-Taylor Brunatti, Addyson Douglas,  
-Emma Elle Paterson _(Ivana’s girlfriends)_  
+Taylor Brunatti, Addyson Douglas,  Emma Elle Paterson _(Ivana’s girlfriends)_  
 Valerie O’Connor _(Rona Barrett)_  
 Chris Owens _(Jay Pritzker)_  
 Rick Hughes _(business guy)_  
@@ -177,13 +160,12 @@ Iona MacKay _(Mary Trump)_
 Samantha Espie _(Elizabeth Trump)_  
 Fiona Mongillo _(Donald Trump’s secretary)_
 
-Canada-Denmark-Ireland-USA-UK 2024©
-
-122 mins
-
+Canada-Denmark-Ireland-USA-UK 2024©  
+122 mins  
 Digital
 
 A STUDIOCANAL release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwOTc4NzQyXX0=
+eyJoaXN0b3J5IjpbLTYyNDYwMjUyOF19
 -->
