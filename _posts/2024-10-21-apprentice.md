@@ -166,6 +166,29 @@ Digital
 
 A STUDIOCANAL release
 <br><br>
+
+**NEW RELEASES**<br>
+**Timestalker**<br>
+From Mon 21 Oct<br>
+**The Apprentice**<br>
+From Mon 21 Oct<br>
+**The Room Next Door**<br>
+From Fri 25 Oct<br>
+**Layla**<br>
+From Fri 25 Oct<br>
+**Anora**<br>
+From Fri 1 Nov<br>
+**Bird**<br>
+From Fri 15 Nov<br>
+**All We Imagine as Light**<br>
+From Fri 29 Nov
+
+**RE-RELEASES**<br>
+**Watership Down**<br>
+From Fri 25 Oct<br>
+**Point Break**<br>
+From Fri 8 Nov<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDYwMjUyOF19
+eyJoaXN0b3J5IjpbNDA2OTQ0MjgyXX0=
 -->
