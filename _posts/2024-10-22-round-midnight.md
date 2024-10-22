@@ -34,41 +34,32 @@ Lester Young did things like that, too. He was a great inventor, coining famous 
 **Production notes**
 <br>  
 
-**Gary Younge** is an award-winning author, broadcaster and a professor of sociology at the University of Manchester in England. Formerly a columnist at _The Guardian_, he is an editorial board member of _The_ _Nation_ magazine, the Alfred Knobler Fellow for Type Media and winner of the 2023 Orwell Prize for Journalism. He has written six books: _Dispatches from the Diaspora_, _From Nelson Mandela to Black Lives Matter_; _Another Day in the Death of America,_  
-_A Chronicle of Ten Short Lives_; _The Speech, The Story Behind Martin Luther King’s Dream_; _Who Are We?_, _And Should It Matter in the 21st Century_; _Stranger in a Strange Land, Travels in the Disunited States_ and _No Place like Home, A Black Briton’s Journey through the Deep South_. He has also written for _The New York Review of Books_, _Granta_, _GQ_, _The Financial Times_ and  
-_The New Statesman_ and made several radio and television documentaries on subjects ranging from gay marriage to Brexit.
+**Gary Younge** is an award-winning author, broadcaster and a professor of sociology at the University of Manchester in England. Formerly a columnist at _The Guardian_, he is an editorial board member of _The_ _Nation_ magazine, the Alfred Knobler Fellow for Type Media and winner of the 2023 Orwell Prize for Journalism. He has written six books: _Dispatches from the Diaspora_, _From Nelson Mandela to Black Lives Matter_; _Another Day in the Death of America,_ _A Chronicle of Ten Short Lives_; _The Speech, The Story Behind Martin Luther King’s Dream_; _Who Are We?_, _And Should It Matter in the 21st Century_; _Stranger in a Strange Land, Travels in the Disunited States_ and _No Place like Home, A Black Briton’s Journey through the Deep South_. He has also written for _The New York Review of Books_, _Granta_, _GQ_, _The Financial Times_ and  _The New Statesman_ and made several radio and television documentaries on subjects ranging from gay marriage to Brexit.
 
 **Caryl Phillips** is the author of numerous plays for the theatre, television, and radio. He is best known as a novelist and essayist; his many books include the novels _Crossing the River_, _A Distant Shore_ and _The Lost Child_, and the non-fiction titles _The European Tribe_ and _Colour Me English_. He wrote the screenplay for _Playing Away_ (directed by Horace Ové) and the Merchant Ivory production of V.S. Naipaul’s _The Mystic Masseur_. A member of the American Academy of Arts and Letters, and a Fellow of the Royal Literary Society, he is Professor of English at Yale University.
+<br><br>
 
-<![endif]-->
-
-**’ROUND MIDNIGHT**
-
+**’ROUND MIDNIGHT**  
 _Director_: Bertrand Tavernier  
-_Production Companies_: Warner Bros.,  
-P.E.C.F. (Paris), Little Bear  
+_Production Companies_: Warner Bros.,  P.E.C.F. (Paris), Little Bear  
 _Producer_: Irwin Winkler  
 _Unit Manager_: Albert Prévost  
 _Production Manager_: Pierre Saint-Blancat  
 _Production Manager (NY)_: Monty Diamond  
 _Production Office Co-ordinator (NY)_: Jane Bartelme  
 _Location Manager (NY)_: Lydia Pilcher  
-_Production Assistants_: Eddy Moine,  
-Mathieu Howlett, Thierry Verrier, Catherine Guillot, Michel Kostromine  
-_Assistant Directors_: Frédéric Bourboulon,  
-Philippe Bérenger, Véronique Bourboulon  
+_Production Assistants_: Eddy Moine,  Mathieu Howlett, Thierry Verrier, Catherine Guillot, Michel Kostromine  
+_Assistant Directors_: Frédéric Bourboulon,  Philippe Bérenger, Véronique Bourboulon  
 _Assistant Directors (NY)_: Mel Howard, Paula Brody  
 _Screenplay_: David Rayfiel  
-_Based on original incidents in the lives of_:  
-Francis Paudras, Bud Powell  
+_Based on original incidents in the lives of_:  Francis Paudras, Bud Powell  
 _Director of Photography_: Bruno de Keyser  
 _Camera Operator_: Philippe Brun  
 _Editor_: Armand Psenny  
 _Production Designer_: Alexandre Trauner  
 _Art Directors_: Pierre Duquesne, Josh Harrison  
 _Set Designer_: Philippe Turlure  
-_Costume Designers_: Jacqueline Moreau,  
-Alexander Julian  
+_Costume Designers_: Jacqueline Moreau,  Alexander Julian  
 _Wardrobe Assistants_: Monique Dury, Billy Lodger  
 _Make-up_: Paul Lemarinel  
 _Titles and Optical Effects_: Euro-Titres  
@@ -76,18 +67,14 @@ _Music Composed, Arranged and Conducted by_: Herbie Hancock
 _Music Co-ordinator_: Tony Meilandt  
 _Music Consultant_: Henri Renaud  
 _Associate Music Consultant_: Dexter Gordon  
-_Sound Recording_: Michel Desrois,  
-William Flageollet  
-_Sound Re-recording_: Claude Villand,  
-Bernard Leroux  
+_Sound Recording_: Michel Desrois,  William Flageollet  
+_Sound Re-recording_: Claude Villand,  Bernard Leroux  
 _Sound Editor_: Sophie Cornu  
 _Dialogue Editor_: Sylvie Pontoizeau  
-_Sound Effects_: Jean-Pierre Lelong,  
-Mario Melchiori, Jean Duguet  
+_Sound Effects_: Jean-Pierre Lelong,  Mario Melchiori, Jean Duguet  
 _French Translation_: Colo Tavernier
 
-_Cast:_
-
+**Cast**  
 Dexter Gordon _(Dale Turner)_  
 François Cluzet _(Francis Borier)_  
 Gabrielle Haker _(Bérangère)_  
@@ -142,34 +129,31 @@ Freddie Hubbard _(trumpet, New York)_
 Cedar Walton _(piano, New York)_  
 Tony Williams _(drums, New York)_
 
-USA-France 1986
-
-133 mins
-
+USA-France 1986  
+133 mins  
 Digital
 
 Total running time 210 mins, including a short break before the discussion
+<br><br>
 
-<![endif]-->
+**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**<br>
 
-**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**
+**I Heard It through the Grapevine**<br>
 
-**I Heard It through the Grapevine**
+Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
 
-Thu 24 Oct 20:40; Sun 3 Nov 13:30
-
-**A Raisin in the Sun**
+**A Raisin in the Sun**<br>
 
 Sat 26 Oct 15:30; Sat 9 Nov 18:10;  
-Thu 28 Nov 20:30
+Thu 28 Nov 20:30<br>
 
-**I Am Not Your Negro**
+**I Am Not Your Negro**<br>
 
 Sat 26 Oct 20:35; Sat 9 Nov 15:30;  
-Thu 21 Nov 18:30
+Thu 21 Nov 18:30<br>
 
 **Color Adjustment  
-**Fri 1 Nov 20:55; Mon 4 Nov 18:10
+**<br>Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
 
 **James Baldwin: The Price of the Ticket**
 
@@ -183,5 +167,5 @@ Fri 22 Nov 18:10 (+ intro)
 
 Fri 22 Nov 20:40; Sat 30 Nov 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTQyNzczXX0=
+eyJoaXN0b3J5IjpbMjExNDA3NjY5N119
 -->
