@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Round Midnight
+title: Round Midnight
 published: true
 date: 2024-10-22
 readtime: true
