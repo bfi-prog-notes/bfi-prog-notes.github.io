@@ -137,35 +137,21 @@ Total running time 210 mins, including a short break before the discussion
 <br><br>
 
 **TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**<br>
-
 **I Heard It through the Grapevine**<br>
-
 Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
-
 **A Raisin in the Sun**<br>
-
-Sat 26 Oct 15:30; Sat 9 Nov 18:10;  
-Thu 28 Nov 20:30<br>
-
+Sat 26 Oct 15:30; Sat 9 Nov 18:10;  Thu 28 Nov 20:30<br>
 **I Am Not Your Negro**<br>
-
-Sat 26 Oct 20:35; Sat 9 Nov 15:30;  
-Thu 21 Nov 18:30<br>
-
-**Color Adjustment  
-**<br>Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
-
-**James Baldwin: The Price of the Ticket**
-
-Fri 8 Nov 18:15; Mon 18 Nov 20:35
-
-**Go Tell It on the Mountain**
-
-Fri 22 Nov 18:10 (+ intro)
-
-**If Beale Street Could Talk**
-
-Fri 22 Nov 20:40; Sat 30 Nov 17:50
+Sat 26 Oct 20:35; Sat 9 Nov 15:30;  Thu 21 Nov 18:30<br>
+**Color Adjustment**<br>
+Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
+**James Baldwin: The Price of the Ticket**<br>
+Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
+**Go Tell It on the Mountain**<br>
+Fri 22 Nov 18:10 (+ intro)<br>
+**If Beale Street Could Talk**<br>
+Fri 22 Nov 20:40; Sat 30 Nov 17:50<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDA3NjY5N119
+eyJoaXN0b3J5IjpbNzAzODY5NTg1XX0=
 -->
