@@ -6,8 +6,8 @@ date: 2024-10-23
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
 tags: [Action, Drama]
-metadata: 'USA 1968, 114 mins<br> Director: Peter Yates'
-pdf: '2024-10-23-bullitt.pdf'
+metadata: 'USA 1996, 121 mins<br> Director: Renny Harlin'
+pdf: '2024-10-23-long-kiss-goodnight.pdf'
 ---
 
 _+ intro by Melanie Hoyes, BFI Director of Inclusion (Wednesday 23 October)_
@@ -191,5 +191,5 @@ eyJoaXN0b3J5IjpbLTE1MDI3OTQ1OTksMTg0MDA3NDk3NCw5OD
 AzNDYyMDFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTA4MzQyXX0=
+eyJoaXN0b3J5IjpbMjkwMzUwMl19
 -->
