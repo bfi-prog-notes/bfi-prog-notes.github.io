@@ -1,18 +1,23 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Long Kiss Goodnight
+published: true
+date: 2024-10-23
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+tags: [Action, Drama]
+metadata: 'USA 1968, 114 mins<br> Director: Peter Yates'
+pdf: '2024-10-23-bullitt.pdf'
+---
 
 _+ intro by Melanie Hoyes, BFI Director of Inclusion (Wednesday 23 October)_
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Eight years have passed since Samantha Caine emerged from a river, pregnant and with no memory of her past. She now lives a pleasant domestic existence with her boyfriend and daughter. But her past hits her like a bolt of lightning, causing her muscle-memory to reawaken the woman she once was: the lethal CIA operative Charley Baltimore. Wittily scripted by Shane Black, this pacey actioner, is enlivened by Davis’s exuberant and committed high-octane performance.
+Eight years have passed since Samantha Caine emerged from a river, pregnant and with no memory of her past. She now lives a pleasant domestic existence with her boyfriend and daughter. But her past hits her like a bolt of lightning, causing her muscle-memory to reawaken the woman she once was: the lethal CIA operative Charley Baltimore. Wittily scripted by Shane Black, this pacey actioner, is enlivened by Davis’s exuberant and committed high-octane performance.  
+**Dick Fiddy, bfi.org.uk**  
 
-Dick Fiddy, bfi.org.uk
-
-**A contemporary review**
-
+**A contemporary review**  
 Those who survived viewing _Cut-Throat Island_ will be shocked to learn that _The Long Kiss Goodnight_, the latest adventure by the actor Geena Davis and her director/husband Renny Harlin is a superbly entertaining action movie, perhaps the best of this year’s many shoot-’em-ups. Granted, the plot is far from original, borrowing substantially from James Cameron’s _True Lies_ in particular. Moreover, it demonstrates not a flicker of interest in being anything more profound than a polished piece of genre manipulation and entertainment, as was the case with Harlin’s best films so far, _Cliffhanger_ and _Die Hard 2_. However, it has a clarity of purpose that makes it impervious to glibly dismissive criticisms.
 
 Most of the credit for its integrated slickness must go to the screenwriter, Shane Black (writer of _Lethal Weapon_, _The Last Boy Scout_ and _Last Action Hero_). For _The Long Kiss Goodnight_, Black was reputedly paid $4 million, the highest price yet shelled out for a script – money well spent compared to the sums the industry lavishes on the likes of Joe Eszterh as for his dreadful pap. The plot revolves around a former-CIA assassin Charly Baltimore (Davis) who has suffered amnesia and become a mellow, cookie-baking citizen, Samantha Caine. She gets her memory back with the help of Mitch Henessey (Samuel L. Jackson), a black private detective and a few traumatic experiences. It’s all quite ridiculous of course, but Black and Harlin make sure the whole thing runs with nanosecond precision – not a detail is wasted or a plot point left unexplained.
@@ -24,20 +29,11 @@ This sort of film’s success hinges crucially on its leads, and the two here ar
 Finally, it’s a testament to _The Long Kiss Goodnight_’s strength as a story, that one comes away from it remembering these aspects more vividly than the spectacular effects, stunts and editing (which are all, indeed, spectacular). All the technical elements are subordinated to the business of keeping the viewer interested in what will happen next to the characters, and that is a rare control on priorities in a genre so often afflicted these days with ‘postmodern’ jokiness (there’s a little here too, but not too much) and spectacle for spectacle’s sake. You can forget _Cut-Throat Island_ now, all is forgiven.  
 **Leslie Felperin, _Sight and Sound_, December 1996**  
 <br>
-<![endif]-->
-
-**THE LONG KISS GOODNIGHT**
-
+**THE LONG KISS GOODNIGHT**  
 _Director_: Renny Harlin  
-_Production Companies_: New Line Cinema,
-
-Forge Productions  
-_Executive Producers_: Steve Tisch,
-
-Richard Saperstein, Michael De Luca  
-_Producers_: Renny Harlin, Stephanie Austin,
-
-Shane Black  
+_Production Companies_: New Line Cinema, Forge Productions  
+_Executive Producers_: Steve Tisch, Richard Saperstein, Michael De Luca  
+_Producers_: Renny Harlin, Stephanie Austin, Shane Black  
 _Co-producer_: Carla Fry  
 _Unit Production Manager_: Scott Thaler, Joe Boccia  
 _Production Controller_: Paul Prokop  
@@ -124,6 +120,76 @@ USA 1996
 121 mins  
 35mm  
 <br>
+
+**ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
+**Big Screen Classics: The History of Action**  
+**Safety Last! + One Week**  
+Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov  
+**Mad Max 2: The Road Warrior**  
+Mon 21 Oct 18:20; Wed 27 Nov 20:50  
+**Seven Samurai** Shichinin no samurai  
+Mon 21 Oct 18:30; Sun 3 Nov 13:30; Sun 10 Nov 11:45; Sun 24 Nov 14:30  
+**Hell Drivers**  
+Tue 22 Oct 18:15; Thu 14 Nov 12:20; Sat 16 Nov 20:40  
+**The Thief of Bagdad**  
+Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30  
+**Goldfinger 60th anniversary screenings**  
+Wed 23 Oct 18:20 (+ intro by season programmer Dick Fiddy); Sun 10 Nov 18:40; Sat 23 Nov 18:20  
+**Bullitt**   
+Wed 23 Oct 20:40; Sun 3 Nov 16:25; Thu 21 Nov 14:30; Tue 26 Nov 20:45  
+**The Mark of Zorro**   
+Thu 24 Oct 14:30 (+ intro by Bryony Dixon, curator, BFI National Archive); Sat 2 Nov 11:45; Sat 23 Nov 15:00  
+**Enter the Dragon**  
+Thu 24 Oct 20:45; Fri 1 Nov 14:40; Mon 4 Nov 20:50; Wed 13 Nov 18:10 (+ intro by film critic Katie Smith-Wong); Mon 18 Nov 14:30  
+**Crouching Tiger, Hidden Dragon**  
+Wo hu cang long  Fri 25 Oct 20:35; Sun 3 Nov 11:00 BFI IMAX; Fri 8 Nov 12:20; Mon 11 Nov 18:00; Wed 27 Nov 18:10 (+ intro)  
+**Battleship Potemkin** Bronenosets Potyomkin   
+Sat 26 Oct 13:20; Thu 7 Nov 20:55; Tue 12 Nov 14:30  
+**Captain Blood**  
+Sun 27 Oct 12:45; Wed 6 Nov 18:10 (+ intro)  
+**The Train**  
+Sun 27 Oct 17:45; Sat 2 Nov 20:25  
+**Taxi**  
+Mon 28 Oct 18:30; Fri 22 Nov 18:20; Mon 25 Nov 20:50  
+**Three the Hard Way**  
+Wed 30 Oct 18:15 (+ intro by Ti Singh, BFI FAN season producer); Thu 7 Nov 12:30; Sun 17 Nov 16:10  
+**Police Story** Ging chaat goo si  
+Fri 15 Nov 18:00 (+ panel discussion with Action Xtreme); Tue 19 Nov 20:55; Thu 28 Nov 18:20  
+**District B13** Banlieue 13  
+Wed 20 Nov 18:20 (+ intro by Chee Keong Cheung, writer, director, producer and CEO of Action Xtreme); Fri 29 Nov 20:45 
+
+
+**With thanks to**  
+A BFI FAN initiative supported through National Lottery<br><br><br>
+<img style="float: left;" src="/img/action.png" width="40%" height="40%"><br><br><br><br>
+
+
+**SIGHT AND SOUND**  
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMDA4MzI4XX0=
+eyJoaXN0b3J5IjpbLTE1MDI3OTQ1OTksMTg0MDA3NDk3NCw5OD
+AzNDYyMDFdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3NTA4MzQyXX0=
 -->
