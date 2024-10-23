@@ -1,5 +1,15 @@
+---
+layout: post
+title: The Thief of Ba
+published: true
+date: 2024-10-23
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+tags: [Action, Drama]
+metadata: 'USA 1996, 121 mins<br> Director: Renny Harlin'
+pdf: '2024-10-23-long-kiss-goodnight.pdf'
+---
 
-<![endif]-->
 
 Producer Alexander Korda originally assigned this _Arabian Nights_-style adventure – which had been a hit in its 1924 Hollywood version starring Douglas Fairbanks Sr – to the German director Ludwig Berger, but brought in Michael Powell when he was unhappy with Berger’s vision for the film. When Berger refused to resign, Korda, in the most extreme example of his interfering tendencies, insisted on co-directing all of Berger’s scenes, to the confusion of cast and crew and the disgust of Berger himself, who finally walked off the film. Korda strongly disapproved of Berger’s style which, with its concentration on actors at the expense of the lavish sets, was almost the exact opposite to Korda’s own approach as a director.
 
@@ -19,21 +29,15 @@ Born in 1924, Sabu, the young Indian actor playing the thief of the title, was r
 In this most lavish production the carefully planned colour scheme and the skilful use of the camera make the film one of the most satisfactory colour films yet created. The story is as loose as that of any pantomime, to which type of play the film can be compared. Sabu makes an excellent thief and goes through his adventures with an almost Cockney nimbleness of wit and hand. June Duprez and John Justin make a pair of handsome lovers and Conrad Veidt is the wickedest of Grand Viziers. The most polished performance of all is that of Miles Malleson as the old Sultan of Basra with a passion for mechanical toys. Extensive use is made of trick photography and this is the least satisfactory aspect of the production.  
 **_Monthly Film Bulletin_, January 1941**  
 <br>
-<![endif]-->
 
-**THE THIEF OF BAGDAD**
-
-_Directed by_: Ludwig Berger,  
-Michael Powell, Tim Whelan  
-©_/Production Company_:  
-Alexander Korda Film Productions  
+**THE THIEF OF BAGDAD**  
+_Directed by_: Ludwig Berger, Michael Powell, Tim Whelan  
+©_/Production Company_:  Alexander Korda Film Productions  
 _Distributed by_: United Artists  
 _Produced by_: Alexander Korda  
-_Associate Producers_: Zoltan Korda,  
-William Cameron Menzies  
+_Associate Producers_: Zoltan Korda, William Cameron Menzies  
 _Production Manager_: David B. Cunynghame  
-_Associate Directors_: Geoffrey Boothby,  
-Charles David  
+_Associate Directors_: Geoffrey Boothby, Charles David  
 _Screenplay and Dialogue by_: Miles Malleson  
 _Scenario by_: Lajos Biro  
 _Chief Photographer_: George Périnal  
@@ -44,29 +48,24 @@ _Supervising Editor_: William Hornbeck
 _Film Editor_: Charles Crichton  
 _Production Designed in Colour by_: Vincent Korda  
 _Scenic Backgrounds_: Percy Day  
-_Costumes Designed by_: Oliver Messel,  
-John Armstrong, Marcel Vertes  
+_Costumes Designed by_: Oliver Messel, John Armstrong, Marcel Vertes  
 _Musical Score and Songs by_: Miklós Rózsa  
 _Musical Director_: Muir Mathieson  
 _Sound Director_: A.W. Watkins  
-_Sound System_: Western Electric Mirrophonic
-
-_uncredited_ 
-_Additional Direction_: Zoltan Korda,  
-William Cameron Menzies, Alexander Korda  
+_Sound System_: Western Electric Mirrophonic  
+_uncredited_  
+_Additional Direction_: Zoltan Korda, William Cameron Menzies, Alexander Korda  
 _Production Assistant_: André de Toth  
 _Co-ordinating 2nd Assistant Director_: Jack Clayton  
 _Camera Operator_: Robert Krasker  
 _Camera Assistant_: Denys Coop  
 _Special Effects_: Tom Howard, Johnny Mills  
-_Associate Designers_: William Cameron Menzies, Fred Pusey, Ferdinand Bellan
-
+_Associate Designers_: William Cameron Menzies, Fred Pusey, Ferdinand Bellan  
 _Orchestral Arrangements_: Albert Sendrey  
 _Sound Assistant_: John W. Mitchell  
-_Studios_: Denham Studios, General Service Studios
+_Studios_: Denham Studios, General Service Studios  
 
-_Cast:_
-
+**Cast**  
 Conrad Veidt _(Jaffar)_  
 Sabu _(Abu, the thief of Bagdad)_  
 June Duprez _(Princess)_  
@@ -80,7 +79,6 @@ Hay Petrie _(astrologer)_
 Adelaide Hall _(singer)_  
 Roy Emerton _(jailer)_  
 Allan Jeayes _(the story teller)_  
-
 _uncredited_  
 Viscount _(the dog)_  
 Glynis Johns  
@@ -96,5 +94,5 @@ UK 1940©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjYzNDM2N119
+eyJoaXN0b3J5IjpbMTU2OTY4NzE4MF19
 -->
