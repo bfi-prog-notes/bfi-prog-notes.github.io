@@ -1,15 +1,15 @@
 ---
 layout: post
-title: The Thief of Ba
+title: The Thief of Bagdad
 published: true
 date: 2024-10-23
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
-tags: [Action, Drama]
-metadata: 'USA 1996, 121 mins<br> Director: Renny Harlin'
-pdf: '2024-10-23-long-kiss-goodnight.pdf'
+tags: [Action]
+metadata: 'UK 1940, 106 mins<br> Directors: Ludwig Berger,  
+Michael Powell, Tim Whelan'
+pdf: '2024-10-23-thief-of-bagdad.pdf'
 ---
-
 
 Producer Alexander Korda originally assigned this _Arabian Nights_-style adventure – which had been a hit in its 1924 Hollywood version starring Douglas Fairbanks Sr – to the German director Ludwig Berger, but brought in Michael Powell when he was unhappy with Berger’s vision for the film. When Berger refused to resign, Korda, in the most extreme example of his interfering tendencies, insisted on co-directing all of Berger’s scenes, to the confusion of cast and crew and the disgust of Berger himself, who finally walked off the film. Korda strongly disapproved of Berger’s style which, with its concentration on actors at the expense of the lavish sets, was almost the exact opposite to Korda’s own approach as a director.
 
@@ -32,7 +32,7 @@ In this most lavish production the carefully planned colour scheme and the skilf
 
 **THE THIEF OF BAGDAD**  
 _Directed by_: Ludwig Berger, Michael Powell, Tim Whelan  
-©_/Production Company_:  Alexander Korda Film Productions  
+_©/Production Company_:  Alexander Korda Film Productions  
 _Distributed by_: United Artists  
 _Produced by_: Alexander Korda  
 _Associate Producers_: Zoltan Korda, William Cameron Menzies  
@@ -94,5 +94,5 @@ UK 1940©
 106 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTY4NzE4MF19
+eyJoaXN0b3J5IjpbLTc5NTk3ODU1NF19
 -->
