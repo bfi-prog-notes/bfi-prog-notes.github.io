@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Thief of Bagdad
+title: Crouching Tiger, Hidden Dragon
 published: true
-date: 2024-10-23
+date: 2024-10-25
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
-tags: [Action]
+tags: [Action, Period, Martial Art]
 metadata: 'UK 1940, 106 mins<br> Directors: Ludwig Berger,  
 Michael Powell, Tim Whelan'
 pdf: '2024-10-23-thief-of-bagdad.pdf'
@@ -127,5 +127,5 @@ Digital 4K
 
 A BFI FAN initiative supported through National Lottery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzUwNjMwMV19
+eyJoaXN0b3J5IjpbLTg1MzEzMzAxNiwxMTEzNTA2MzAxXX0=
 -->
