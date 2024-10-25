@@ -59,16 +59,12 @@ Baldwin gave me a voice, gave me the words, gave me the rhetoric. All I knew thr
 For sure, we will have strong winds against us. The present time of discord and confusion is an unavoidable element. I am not naive to think that the road ahead will be easy or that the attacks will not be at time vicious. My commitment to make sure that this film will not be buried or sidelined is uncompromising.
 
 We are in it for the long run. Whatever time and effort it takes.  
-**Raoul Peck
+**Raoul Peck**
+<br><br>
 
-<![endif]-->
-
-**I AM NOT YOUR NEGRO**
-
+**I AM NOT YOUR NEGRO**  
 _Directed by_: Raoul Peck  
-©: Velvet Film Inc, Velvet Film S.A.S.,  
-Artémis Productions, Closeup Films,  
-Arte France Cinéma, RTS, RTBF  
+©: Velvet Film Inc, Velvet Film S.A.S.,  Artémis Productions, Closeup Films, Arte France Cinéma, RTS, RTBF  
 _A co-production of_: Velvet Film Inc.,  
 Velvet Film S.A.S., Artémis Productions,  
 Close up Films, Arte France Cinéma, RTS, RTBF, Shelter Prod., Independent Television Service (ITVS)  
@@ -191,6 +187,6 @@ on **BFI Player**
 For more information about John Pilger’s films  
 go to **johnpilger.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY3MTMyNjMsLTE1MzMwMzMwMzgsLT
+eyJoaXN0b3J5IjpbLTIwMjg2MTUzNzIsLTE1MzMwMzMwMzgsLT
 E5ODc3MTUwMDldfQ==
 -->
