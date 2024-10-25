@@ -6,9 +6,8 @@ date: 2024-10-25
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
 tags: [Action, Period, Martial Art]
-metadata: 'UK 1940, 106 mins<br> Directors: Ludwig Berger,  
-Michael Powell, Tim Whelan'
-pdf: '2024-10-23-thief-of-bagdad.pdf'
+metadata: 'China, Taiwan, USA, Hong Kong 2000, 120 mins<br> Director: Ang Lee'
+pdf: '2024-10-25-crouching-tiger.pdf'
 ---
 
 ‘Adventure’ would certainly describe _Crouching Tiger, Hidden Dragon_. But even for seasoned Lee watchers, it’s a touch startling to find a director of his high aesthetic sensibility straying into a genre generally reckoned as ultra-populist, not to say downmarket. (‘Cheesy’ is Lee’s own slyly proffered adjective.) To some extent, of course, it’s a nostalgia trip, an affectionate homage to the movies he loved as a boy in Taiwan, films full of magic and poise that offered a peculiar poetry of elegant fight moves and belief-suspending stunts. But he also relished the challenge of taking the genre, and his own career, into places they’d never been before. Relating _Tiger_ back to his previous films, he explains: ‘In a sense sometimes I’ve been able to show I despise the commercial side of movie-making and in this film I could probably decide I wanted to despise the artistic side. It’s not highbrow or lowbrow, and by doing it this way it’s not middlebrow either. It was just so cool to be able to do it, to mix your boyhood and adulthood together. And think of the challenge. In China I have to deliver this movie as a summer blockbuster but here it has to hit the arthouses to begin with. It takes a lot of pain to keep that balance, and the physical logistics of that size of production are abusive. But I really enjoyed doing it.’
@@ -126,6 +125,79 @@ Digital 4K
 **With thanks to**
 
 A BFI FAN initiative supported through National Lottery
+
+
+<br>
+
+**ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
+**Big Screen Classics: The History of Action**  
+**Safety Last! + One Week**  
+Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov  
+**Mad Max 2: The Road Warrior**  
+Mon 21 Oct 18:20; Wed 27 Nov 20:50  
+**Seven Samurai** Shichinin no samurai  
+Mon 21 Oct 18:30; Sun 3 Nov 13:30; Sun 10 Nov 11:45; Sun 24 Nov 14:30  
+**Hell Drivers**  
+Tue 22 Oct 18:15; Thu 14 Nov 12:20; Sat 16 Nov 20:40  
+**The Thief of Bagdad**  
+Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30  
+**Goldfinger 60th anniversary screenings**  
+Wed 23 Oct 18:20 (+ intro by season programmer Dick Fiddy); Sun 10 Nov 18:40; Sat 23 Nov 18:20  
+**Bullitt**   
+Wed 23 Oct 20:40; Sun 3 Nov 16:25; Thu 21 Nov 14:30; Tue 26 Nov 20:45  
+**The Mark of Zorro**   
+Thu 24 Oct 14:30 (+ intro by Bryony Dixon, curator, BFI National Archive); Sat 2 Nov 11:45; Sat 23 Nov 15:00  
+**Enter the Dragon**  
+Thu 24 Oct 20:45; Fri 1 Nov 14:40; Mon 4 Nov 20:50; Wed 13 Nov 18:10 (+ intro by film critic Katie Smith-Wong); Mon 18 Nov 14:30  
+**Crouching Tiger, Hidden Dragon**  
+Wo hu cang long  Fri 25 Oct 20:35; Sun 3 Nov 11:00 BFI IMAX; Fri 8 Nov 12:20; Mon 11 Nov 18:00; Wed 27 Nov 18:10 (+ intro)  
+**Battleship Potemkin** Bronenosets Potyomkin   
+Sat 26 Oct 13:20; Thu 7 Nov 20:55; Tue 12 Nov 14:30  
+**Captain Blood**  
+Sun 27 Oct 12:45; Wed 6 Nov 18:10 (+ intro)  
+**The Train**  
+Sun 27 Oct 17:45; Sat 2 Nov 20:25  
+**Taxi**  
+Mon 28 Oct 18:30; Fri 22 Nov 18:20; Mon 25 Nov 20:50  
+**Three the Hard Way**  
+Wed 30 Oct 18:15 (+ intro by Ti Singh, BFI FAN season producer); Thu 7 Nov 12:30; Sun 17 Nov 16:10  
+**Police Story** Ging chaat goo si  
+Fri 15 Nov 18:00 (+ panel discussion with Action Xtreme); Tue 19 Nov 20:55; Thu 28 Nov 18:20  
+**District B13** Banlieue 13  
+Wed 20 Nov 18:20 (+ intro by Chee Keong Cheung, writer, director, producer and CEO of Action Xtreme); Fri 29 Nov 20:45 
+
+
+**With thanks to**  
+A BFI FAN initiative supported through National Lottery<br><br><br>
+<img style="float: left;" src="/img/action.png" width="40%" height="40%"><br><br><br><br>
+
+
+**SIGHT AND SOUND**  
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzEzMzAxNiwxMTEzNTA2MzAxXX0=
+eyJoaXN0b3J5IjpbLTE1MDI3OTQ1OTksMTg0MDA3NDk3NCw5OD
+AzNDYyMDFdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMjI3ODQzMjgsMTExMzUwNjMwMV19
 -->
