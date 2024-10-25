@@ -25,149 +25,82 @@ Such delighted self-awareness, of course, is characteristic of new-Hollywood dir
 
 **HALLOWEEN**<br>
 _Directed by:_ John Carpenter<br>
-
-©_/Production Company_:  
-Falcon International Productions<br>
-
+©_/Production Company_:  Falcon International Productions<br>
 Moustapha Akkad _presents_<br>
-
 _a_ Compass International Pictures _release_<br>
-
 _Executive Producer:_ Irwin Yablans<br>
-
 _Produced by:_ Debra Hill<br>
-
 _Associate Producer:_ Kool Lusby<br>
-
 _Production Manager:_ Don Behrns<br>
-
 _Production Assistants:_ Barry Bernardi, Paul Fox<br>
-
 _Assistant Director:_ Rick Wallace<br>
-
 _2nd Assistant Director:_ Jack De Wolf<br>
-
 _Script Supervisor:_ Louise Jaffe<br>
-
 _Screenplay by:_ John Carpenter, Debra Hill<br>
-
 _Director of Photography:_ Dean Cundey<br>
-
 _Camera Operator:_ Ray Stella<br>
-
 _Assistant Cameraman:_ Fred Victar<br>
-
 _2nd Assistant Cameraman:_ Krishna Rao<br>
-
 _Key Grip:_ Dylan Shepard<br>
-
 _Best Boy:_ Steve Mathis<br>
-
 _Grip:_ Walt Hill<br>
-
 _Panaglide:_ Ray Stella<br>
-
 _Gaffer:_ Mark Walthour<br>
-
 _Best Boy:_ Josh Miller<br>
-
 _Electrician:_ Reed Freeman<br>
-
 _Stills:_ Kim Gottlieb<br>
-
 _Editors:_ Tommy Wallace, Charles Bornstein<br>
-
 _Production Designer:_ Tommy Wallace<br>
-
 _Assistant Art Director:_ Randy Moore<br>
-
 _Set Decorator:_ Craig Stearns<br>
-
 _Property Master:_ Craig Stearns<br>
-
 _Set Painter:_ Richard Girod<br>
-
 _Wardrobe:_ Beth Rodgers<br>
-
 _Makeup:_ Erica Ulland<br>
-
 _Titles and Opticals:_ MGM<br>
-
 _Filmed in:_ Panavision<br>
-
 _Colour by:_ Metrocolor<br>
-
 _Music by:_ John Carpenter<br>
-
-_Music Performed by:_  
-The Bowling Green Philharmonic Orchestra<br>
-
+_Music Performed by:_  The Bowling Green Philharmonic Orchestra<br>
 _Orchestration:_ Dan Wyman<br>
-
 _Music Co-ordinator:_ Bob Walters<br>
-
 _Music Recording:_ Sound Arts<br>
-
 _Music Recordist and Mixer:_ Peter Bergren<br>
-
 _Sound Mixer:_ Tommy Causey<br>
-
 _Boom Man:_ Joe Brennan<br>
-
 _Re-recording:_ Samuel Goldwyn Studios<br>
-
 _Supervising Sound Editor:_ William Stevenson<br>
-
 _Stunts:_ Jim Winburn<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Donald Pleasence _(Dr Sam Loomis)_<br>
-
 Jamie Lee Curtis _(Laurie Strode)_<br>
-
 Nancy Loomis _(Annie)_<br>
-
 P.J. Soles _(Lynda)_<br>
-
 Charles Cyphers _(Brackett)_<br>
-
 Kyle Richards _(Lindsey)_<br>
-
 Brian Andrews _(Tommy)_<br>
-
 John Michael Graham _(Bob)_<br>
-
 Nancy Stephens _(Marion)_<br>
-
 Arthur Malet _(graveyard keeper)_<br>
-
 Mickey Yablans _(Richie)_<br>
-
 Brent Le Page _(Lonnie)_<br>
-
 Adam Hollander _(Keith)_<br>
+Robert Phalen _(Dr Wynn)_<br>
+Tony Moran _(Michael Myers age 23)_<br>
+Will Sandin _(Michael Myers age 6)_<br>
+Sandy Johnson _(Judith Myers)_<br>
+David Kyle _(boyfriend)_<br>
+Peter Griffith _(Laurie’s father)_<br>
+Nick Castle _(The Shape)_<br>
 
-Robert Phalen _(Dr Wynn)_
-
-Tony Moran _(Michael Myers age 23)_
-
-Will Sandin _(Michael Myers age 6)_
-
-Sandy Johnson _(Judith Myers)_
-
-David Kyle _(boyfriend)_
-
-Peter Griffith _(Laurie’s father)_
-
-Nick Castle _(The Shape)_
-
-USA 1978©  91 mins
-
-Digital 4K
+USA 1978©<br>
+91 mins<br>
+Digital 4K<br>
+<br><br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzI4Nzc2MV19
+eyJoaXN0b3J5IjpbLTE0NDk5OTQ1MzldfQ==
 -->
