@@ -22,36 +22,28 @@ Pilger called the daily press briefings for Western correspondents in Saigon, kn
 Charles Denton was pleased with how Pilger acclimatised to television and he did much to help the newspaper journalist in a new environment. ‘I was nervous,’ said Denton, ‘because I knew he could write the opinions and the commentary, but the issue was to what extent he could deliver pieces to camera that were as relaxed as they could be. It was a question of him writing, as if for print, the core of the opinion and then me saying: “Let’s sweat this down a bit into something you can say and deliver. Let’s try to simplify it – I just want 50 seconds of this delivered straight to camera.”
 
 ‘We had a lot of rehearsing of pieces to camera. John was not immediately wonderful at it, but I think it’s a terribly difficult technique to learn. Most people who got to do a half-hour opinion-piece movie had done two- or three- or four-minute films in regional television news or _Tonight_, where you got to make your mistakes privately. In _The Quiet Mutiny_, John picked it up fairly quickly, but we did quite a few takes.’ The camera pieces, with his viewpoints – as he would see them, rather than opinions – became a critical element of Pilger’s documentaries over the following decades and marked the journalist out as a filmmaker with a voice that should be heard.  
-**Anthony Hayward, _Breaking the Silence: The Films of John Pilger  
-_(Profiles International Media, 2013)**
+**Anthony Hayward, _Breaking the Silence: The Films of John Pilger_ (Profiles International Media, 2013)**
+<br>
 
 **Anthony Hayward** is a journalist and author specialising in television and film. A regular contributor to _The Guardian_, he has written the books _Phantom: Michael Crawford Unmasked_, _Julie Christie_ and _Which Side Are You On?: Ken Loach and His Films_. In 2013, he updated _In the Name of Justice: The Television Reporting of John Pilger_, originally published by Bloomsbury, as the e-book _Breaking the Silence: The Films of John Pilger_, available through Amazon.
+<br><br>
 
-<![endif]-->
-
-**WORLD IN ACTION: THE QUIET MUTINY**
-
-_Director/Producer:_ Charles Denton
-
+**WORLD IN ACTION: THE QUIET MUTINY**  
+_Director/Producer:_ Charles Denton  
 _Production Company_: Granada Television  
 _Executive Producer:_ Jeremy Wallington  
 _Camera_: George Jesse Turner  
-_Film Editor_: Gerry Dow
-
-_Sound:_ Alan Bale
-
-_Dubbing Mixer:_ Frank Griffiths
-
+_Film Editor_: Gerry Dow  
+_Sound:_ Alan Bale  
+_Dubbing Mixer:_ Frank Griffiths  
 _Reporter:_ John Pilger
 
-ITV tx 28.9.1970
-
-26 mins
-
+ITV tx 28.9.1970  
+26 mins  
 Digital
 
-**Please note, this film contains racially  
-offensive language**
+**Please note, this film contains racially  offensive language**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjA2NDYwN119
+eyJoaXN0b3J5IjpbNzExMTg1NjBdfQ==
 -->
