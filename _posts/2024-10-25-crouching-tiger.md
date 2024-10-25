@@ -1,6 +1,15 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Thief of Bagdad
+published: true
+date: 2024-10-23
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+tags: [Action]
+metadata: 'UK 1940, 106 mins<br> Directors: Ludwig Berger,  
+Michael Powell, Tim Whelan'
+pdf: '2024-10-23-thief-of-bagdad.pdf'
+---
 
 ‘Adventure’ would certainly describe _Crouching Tiger, Hidden Dragon_. But even for seasoned Lee watchers, it’s a touch startling to find a director of his high aesthetic sensibility straying into a genre generally reckoned as ultra-populist, not to say downmarket. (‘Cheesy’ is Lee’s own slyly proffered adjective.) To some extent, of course, it’s a nostalgia trip, an affectionate homage to the movies he loved as a boy in Taiwan, films full of magic and poise that offered a peculiar poetry of elegant fight moves and belief-suspending stunts. But he also relished the challenge of taking the genre, and his own career, into places they’d never been before. Relating _Tiger_ back to his previous films, he explains: ‘In a sense sometimes I’ve been able to show I despise the commercial side of movie-making and in this film I could probably decide I wanted to despise the artistic side. It’s not highbrow or lowbrow, and by doing it this way it’s not middlebrow either. It was just so cool to be able to do it, to mix your boyhood and adulthood together. And think of the challenge. In China I have to deliver this movie as a summer blockbuster but here it has to hit the arthouses to begin with. It takes a lot of pain to keep that balance, and the physical logistics of that size of production are abusive. But I really enjoyed doing it.’
 
@@ -118,5 +127,5 @@ Digital 4K
 
 A BFI FAN initiative supported through National Lottery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIwNzEyNDddfQ==
+eyJoaXN0b3J5IjpbMTExMzUwNjMwMV19
 -->
