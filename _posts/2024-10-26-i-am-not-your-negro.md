@@ -65,30 +65,23 @@ We are in it for the long run. Whatever time and effort it takes.
 **I AM NOT YOUR NEGRO**  
 _Directed by_: Raoul Peck  
 ©: Velvet Film Inc, Velvet Film S.A.S.,  Artémis Productions, Closeup Films, Arte France Cinéma, RTS, RTBF  
-_A co-production of_: Velvet Film Inc.,  
-Velvet Film S.A.S., Artémis Productions,  
-Close up Films, Arte France Cinéma, RTS, RTBF, Shelter Prod., Independent Television Service (ITVS)  
+_A co-production of_: Velvet Film Inc.,  Velvet Film S.A.S., Artémis Productions, Close up Films, Arte France Cinéma, RTS, RTBF, Shelter Prod., Independent Television Service (ITVS)  
 _Presented by_: Velvet Film Inc., Velvet Film (France), Artémis Productions, Close up Films, Arte France Cinéma, Independent Lens  
 _In co-production with_: Radio Télévision Suisse, RTBF (Télévision Belge), Shelter Prod., Le Centre National du Cinéma et de l’Image Animée, MEDIA Programme of the European Union, Sundance Institute Documentary Program, National Black Programming Consortium (NBPC), ANGOA PROCIREP – Société des Producteurs, Taxshelter.be, ING, Tax Shelter Incentive of the Federal Government of Belgium  
 _With the support of_: Cinéforom, Loterie Romande  
 _Presented in association with the National Black Programming Consortium (NBPC), with funding provided by the_: Corporation for Public Broadcasting (CPB)  
 _Foreign Sales Representative_: Wide House  
-_Produced by_: Rémi Grellety, Raoul Peck,  
-Hébert Peck  
+_Produced by_: Rémi Grellety, Raoul Peck,  Hébert Peck  
 _Co-produced by_: Patrick Quinet, Joëlle Bertossa, Gloria Karefa-Smart  
-_With the full support and collaboration of the  
-James Baldwin Estate_: Eileen Ahearn  
+_With the full support and collaboration of the James Baldwin Estate_: Eileen Ahearn  
 _Production Manager_: Desirée Jellerette  
 _Post-production Manager_: Julien Melebeck  
 _Consulting Producer_: Audrey Rosenberg  
-_Archival Research_: Marie-Hélène Barberis,  
-Nolwenn Gouault  
-_Additional Archival Footage Research_:  
-Prudence Arndt  
+_Archival Research_: Marie-Hélène Barberis,  Nolwenn Gouault  
+_Additional Archival Footage Research_:  Prudence Arndt  
 _James Baldwin material compiled and edited by_: Raoul Peck  
 _Written by/Text by_: James Baldwin  
-_Directors of Photography_: Henry Adebonojo,  
-Bill Ross, Turner Ross  
+_Directors of Photography_: Henry Adebonojo,  Bill Ross, Turner Ross  
 _Digital Imaging Technician_: Trevor Cohen  
 _Grip_: John Guillen  
 _Graphics_: Michel Blustein  
@@ -99,45 +92,39 @@ _Make-up_: Jacen Bowman
 _Music Composed by/Original Score by_: Alexei Aïgui  
 _Music Performed by_: Ensemble 4’33  
 _Sound Design_: Valerie Le Docte, David Gillain  
-_Sound_: Sergio Da Costa
-
+_Sound_: Sergio Da Costa  
 _With the voice of:_ Samuel L. Jackson
 
-USA-France-Belgium-Switzerland 2016©
-
-94 mins
-
+USA-France-Belgium-Switzerland 2016©  
+94 mins  
 Digital
+<br><br>
 
-
-<![endif]-->
-
-**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**
+**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**<br>
 
 **Go Tell It on the Mountain  
-**Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)
+**<br>Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)<br>
 
-**If Beale Street Could Talk** Tue 22 Oct 14:30;  
-Fri 22 Nov 20:40; Sat 30 Nov 17:50
+**If Beale Street Could Talk**<br> Tue 22 Oct 14:30;  
+Fri 22 Nov 20:40; Sat 30 Nov 17:50<br>
 
 **I Heard It through the Grapevine  
-**Thu 24 Oct 20:40; Sun 3 Nov 13:30
+**<br>Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
 
-**A Raisin in the Sun** Sat 26 Oct 15:30;  
-Sat 9 Nov 18:10; Thu 28 Nov 20:30
+**A Raisin in the Sun**<br> Sat 26 Oct 15:30;  
+Sat 9 Nov 18:10; Thu 28 Nov 20:30<br>
 
-**I Am Not Your Negro** Sat 26 Oct 20:35;  
-Sat 9 Nov 15:30; Thu 21 Nov 18:30
+**I Am Not Your Negro**<br> Sat 26 Oct 20:35;  
+Sat 9 Nov 15:30; Thu 21 Nov 18:30<br>
 
 **Color Adjustment  
-**Fri 1 Nov 20:55; Mon 4 Nov 18:10
+**<br>Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
 
-**James Baldwin: The Price of the Ticket**
+**James Baldwin: The Price of the Ticket**<br>
 
-Fri 8 Nov 18:15; Mon 18 Nov 20:35
+Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
 
-**With thanks to**
-
+**With thanks to**<br>
 Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at  
 BFI Southbank
 
@@ -187,6 +174,6 @@ on **BFI Player**
 For more information about John Pilger’s films  
 go to **johnpilger.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg2MTUzNzIsLTE1MzMwMzMwMzgsLT
-E5ODc3MTUwMDldfQ==
+eyJoaXN0b3J5IjpbLTExNTU2MjY3NSwtMjAyODYxNTM3MiwtMT
+UzMzAzMzAzOCwtMTk4NzcxNTAwOV19
 -->
