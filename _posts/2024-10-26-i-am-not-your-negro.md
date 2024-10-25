@@ -127,46 +127,43 @@ Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
 **With thanks to**<br>
 Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at  
 BFI Southbank
+<br>
 
-**HIDDEN TRUTHS:  
-JOHN PILGER AND THE  
-POWER OF DOCUMENTARY**
+**HIDDEN TRUTHS:  JOHN PILGER AND THE  POWER OF DOCUMENTARY**<br>
 
 **Seniors’ Free Talk: The Quiet Mutiny + intro and Q&A with author Anthony Hayward  
-**Mon 28 Oct 11:45
+**<br>Mon 28 Oct 11:45<br>
 
-**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward** Mon 28 Oct 14:00
+**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward**<br> Mon 28 Oct 14:00<br>
 
-**The Pilger Effect** Mon 28 Oct 18:15
+**The Pilger Effect**<br> Mon 28 Oct 18:15<br>
 
 **The War You Don’t See  
-**Mon 28 Oct 20:35; Sat 16 Nov 18:10
+**<br>Mon 28 Oct 20:35; Sat 16 Nov 18:10<br>
 
-**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue** Sat 2 Nov 15:00
+**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue**<br> Sat 2 Nov 15:00<br>
 
-**The Golden Dream** La Jaula De Oro
+**The Golden Dream** La Jaula De Oro<br>
 
-Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30
+Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30<br>
 
-**Lousy Little Sixpence + Utopia** Sun 10 Nov 14:50
+**Lousy Little Sixpence + Utopia**<br> Sun 10 Nov 14:50<br>
 
-**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror** Mon 18 Nov 18:10
+**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror**<br> Mon 18 Nov 18:10<br>
 
-**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World** Sat 23 Nov 17:45
+**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World**<br> Sat 23 Nov 17:45<br>
 
 **The Coming War on China  
-**Sat 23 Nov 20:10; Fri 29 Nov 18:15
+**<br>Sat 23 Nov 20:10; Fri 29 Nov 18:15<br>
 
-**The Ballymurphy Precedent** Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20
+**The Ballymurphy Precedent**<br> Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20<br>
 
 **The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
 
-**With thanks to**
-
+**With thanks to**<br>
 John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
 
-Programme texts compiled by John Pilger,  
-Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
+Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
 
 Selections from Hidden Truths can be found  
 on **BFI Player**
@@ -174,6 +171,6 @@ on **BFI Player**
 For more information about John Pilger’s films  
 go to **johnpilger.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU2MjY3NSwtMjAyODYxNTM3MiwtMT
-UzMzAzMzAzOCwtMTk4NzcxNTAwOV19
+eyJoaXN0b3J5IjpbLTE1OTczMTY3NjMsLTIwMjg2MTUzNzIsLT
+E1MzMwMzMwMzgsLTE5ODc3MTUwMDldfQ==
 -->
