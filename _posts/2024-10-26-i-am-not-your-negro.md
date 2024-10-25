@@ -101,32 +101,23 @@ Digital
 <br><br>
 
 **TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**<br>
-
-**Go Tell It on the Mountain  
-**<br>Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)<br>
-
-**If Beale Street Could Talk**<br> Tue 22 Oct 14:30;  
-Fri 22 Nov 20:40; Sat 30 Nov 17:50<br>
-
-**I Heard It through the Grapevine  
-**<br>Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
-
-**A Raisin in the Sun**<br> Sat 26 Oct 15:30;  
-Sat 9 Nov 18:10; Thu 28 Nov 20:30<br>
-
-**I Am Not Your Negro**<br> Sat 26 Oct 20:35;  
-Sat 9 Nov 15:30; Thu 21 Nov 18:30<br>
-
-**Color Adjustment  
-**<br>Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
-
+**Go Tell It on the Mountain**<br>
+Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)<br>
+**If Beale Street Could Talk**<br>
+Tue 22 Oct 14:30;  Fri 22 Nov 20:40; Sat 30 Nov 17:50<br>
+**I Heard It through the Grapevine**<br>
+Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
+**A Raisin in the Sun**<br>
+Sat 26 Oct 15:30;  Sat 9 Nov 18:10; Thu 28 Nov 20:30<br>
+**I Am Not Your Negro**<br>
+Sat 26 Oct 20:35;  Sat 9 Nov 15:30; Thu 21 Nov 18:30<br>
+**Color Adjustment**<br>
+Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
 **James Baldwin: The Price of the Ticket**<br>
-
 Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
 
 **With thanks to**<br>
-Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at  
-BFI Southbank
+Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at BFI Southbank
 <br>
 
 **HIDDEN TRUTHS:  JOHN PILGER AND THE  POWER OF DOCUMENTARY**<br>
@@ -165,12 +156,11 @@ John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman,
 
 Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
 
-Selections from Hidden Truths can be found  
-on **BFI Player**
+Selections from Hidden Truths can be found on **BFI Player**
 
-For more information about John Pilger’s films  
-go to **johnpilger.com**
+For more information about John Pilger’s films go to **johnpilger.com**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTczMTY3NjMsLTIwMjg2MTUzNzIsLT
-E1MzMwMzMwMzgsLTE5ODc3MTUwMDldfQ==
+eyJoaXN0b3J5IjpbMTQ3NDM1ODQ4NywtMjAyODYxNTM3MiwtMT
+UzMzAzMzAzOCwtMTk4NzcxNTAwOV19
 -->
