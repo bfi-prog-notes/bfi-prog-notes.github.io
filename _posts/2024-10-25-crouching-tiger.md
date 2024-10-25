@@ -122,11 +122,6 @@ China, Taiwan, USA, Hong Kong 2000©
 120 mins  
 Digital 4K  
 
-**With thanks to**
-
-A BFI FAN initiative supported through National Lottery
-
-
 <br>
 
 **ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
@@ -199,5 +194,5 @@ eyJoaXN0b3J5IjpbLTE1MDI3OTQ1OTksMTg0MDA3NDk3NCw5OD
 AzNDYyMDFdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI3ODQzMjgsMTExMzUwNjMwMV19
+eyJoaXN0b3J5IjpbLTU1MTUwNDkxLDExMTM1MDYzMDFdfQ==
 -->
