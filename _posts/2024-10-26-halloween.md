@@ -7,12 +7,10 @@ If director John Carpenter and producer Debra Hill, who collaborated on the scri
 
 _Halloween_ begat _Friday the 13th_, _Prom Night_, _He Knows You’re Alone_ and a wave of imitations in the early 80s including the Carpenter-Hill-produced _Halloween II_. The so-called slasher genre has died out several times, only to be revived by Wes Craven hits _A Nightmare on Elm Street_ and _Scream_ – both of which prompted Moustapha Akkad, owner of the franchise, to put out further _Halloween_ instalments. Indeed, there have been so many imitations and derivatives that it’s strange to watch _Halloween_ again and be reminded that it was an ‘original’.
 
-From the credits – a slow pan in the dark towards a jack o’lantern as Carpenter’s simple but effective theme jangles – _Halloween_ sets out to be an American fable, informed by the ambiguous small-town magic of Ray Bradbury which had just resurfaced in the early works of Stephen King (third female lead P.J. Soles was cast from Brian De Palma’s King adaptation _Carrie_). Hill’s contribution, sorely missed in almost all subsequent teen-horror films, was the affectionate, realistic, archetypal depiction of American teenage life. _Halloween_’s high school is a snake pit of sociopaths, but the three contrasted heroines are all credible, likeable and funny – when Nancy Loomis and Soles are killed, you miss them. Most later slasher films suggest their killers are the punitive wrath of God on sinful kids, but here the actual murders (shot bloodless) are unimportant – behind his blank mask the Shape is less interested in knifing than in scaring. So the most frightening moments aren’t the killings but the sudden lurches into frame or gradual loomings of the Shape.
+From the credits – a slow pan in the dark towards a jack o’lantern as Carpenter’s simple but effective theme jangles – _Halloween_ sets out to be an American fable, informed by the ambiguous small-town magic of Ray Bradbury which had just resurfaced in the early works of Stephen King (third female lead P.J. Soles was cast from Brian De Palma’s King adaptation _Carrie_). Hill’s contribution, sorely missed in almost all subsequent teen-horror films, was the affectionate, realistic, archetypal depiction of American teenage life. _Halloween_’s high school is a snake pit of sociopaths, but the three contrasted heroines are all credible, likeable and funny – when Nancy Loomis and Soles are killed, you miss them. Most later slasher films suggest their killers are the punitive wrath of God on sinful kids, but here the actual murders (shot bloodless) are unimportant – behind his blank mask the Shape is less interested in knifing than in scaring. So the most frightening moments aren’t the killings but the sudden lurches into frame or gradual loomings of the Shape.  
+**Kim Newman, _Sight and Sound_, November 2001**
 
-Kim Newman, _Sight and Sound_, November 2001
-
-**A contemporary review**
-
+**A contemporary review**  
 What is most admirable, first of all, about _Halloween_ is what it is not: despite its setting in the sort of snug, small midwestern town which has been host of late to many a rampaging Z-feature mutant (and prompted some equally misbegotten critical theses on the Family), it cannot really be described at all in terms sociological or psychological. It is one of the cinema’s most perfectly engineered devices for saying ‘Boo!’; it is also a good illustration of director John Carpenter’s philosophy of film and audience involvement: ‘... movies are not intellectual, they are not ideas ... Movies are emotional, an audience should cry or laugh or get scared’ (_Sight and Sound_, Spring 1978).
 
 Responses to _Halloween_ will depend not on audience recognition that its indestructible psychopath is a threat to their own quiet lives – despite Donald Pleasence’s gnomic warning, ‘Death has come to your little town’ – but on their susceptibility to Carpenter’s virtuoso manipulation, which is itself the ‘subject’ of the movie. There is a contradiction, and a fine line, here – and one which Carpenter treads with unerring skill: the first tenet of classic Hollywood storytelling, which Carpenter takes as his model, is its invisibility; yet in order to touch the nerves of an audience which has seen it all so many times before, Carpenter must employ the style in a manner which allows them to recognise the manipulation and still willingly submit to its spell. His reservations on this score about the opening of _Assault on Precinct 13_ – a long hand-held tracking shot, which he felt was necessary as an audience hook but also a ‘bit self-conscious’ – have been elaborated here into a style that is both elementary and as self-consciously wrought as possible.
@@ -21,137 +19,134 @@ _Halloween_ begins with a similar sequence – a subjective, hand-held camera in
 
 Interestingly, the Carpenter-scripted _Eyes of Laura Mars_ failed because of the attempt to suggest that a similar perceptual/formal trick, the heroine’s ‘second sight’, did have psychological significance. To pursue the subject here would lead down as false a trail as the psychiatrist’s thoughts on Norman Bates’ role switch in _Psycho_ – and more pertinent, given Carpenter’s general allusiveness, is the fact that Jamie Lee Curtis, admirably playing the heroine who finally escapes the monster’s clutches and whose purity is repeatedly stressed, is the daughter of Janet Leigh. Just to make sure his intentions are not misconstrued, Carpenter includes a psychiatrist (with the same name as Psycho’s hero) whose role is to deepen not elucidate the mystery, and whose predictions of his patient’s intentions owe nothing to Freud and everything to Jeremiah.
 
-Such delighted self-awareness, of course, is characteristic of new-Hollywood directors in general – although it’s interesting that Robert Wise coolly deploys similar perceptual devices in _Audrey Rose_ to develop a hocus-pocus plot in intellectual rather than visceral terms. But, as in _Precinct 13_, Carpenter manages to avoid the excesses of Bogdanovich and De Palma-ism – even if he comes close with repeated glimpses of _The Thing_ and _Forbidden Planet_ on TV – and steers _Halloween_ safely between indulgence and useful recreation of his sources. Now that he has proved in two films that he can pull off this difficult balancing act with consummate ease, one just hopes that Carpenter doesn’t get stuck in an aesthetic high-wire routine.
+Such delighted self-awareness, of course, is characteristic of new-Hollywood directors in general – although it’s interesting that Robert Wise coolly deploys similar perceptual devices in _Audrey Rose_ to develop a hocus-pocus plot in intellectual rather than visceral terms. But, as in _Precinct 13_, Carpenter manages to avoid the excesses of Bogdanovich and De Palma-ism – even if he comes close with repeated glimpses of _The Thing_ and _Forbidden Planet_ on TV – and steers _Halloween_ safely between indulgence and useful recreation of his sources. Now that he has proved in two films that he can pull off this difficult balancing act with consummate ease, one just hopes that Carpenter doesn’t get stuck in an aesthetic high-wire routine.  
+**Richard Combs, _Monthly Film Bulletin_, February 1979**
+<br><br>
 
-Richard Combs, _Monthly Film Bulletin_, February 1979
-
-<![endif]-->
-
-**HALLOWEEN**
-
-_Directed by:_ John Carpenter
+**HALLOWEEN**<br>
+_Directed by:_ John Carpenter<br>
 
 ©_/Production Company_:  
-Falcon International Productions
+Falcon International Productions<br>
 
-Moustapha Akkad _presents_
+Moustapha Akkad _presents_<br>
 
-_a_ Compass International Pictures _release_
+_a_ Compass International Pictures _release_<br>
 
-_Executive Producer:_ Irwin Yablans
+_Executive Producer:_ Irwin Yablans<br>
 
-_Produced by:_ Debra Hill
+_Produced by:_ Debra Hill<br>
 
-_Associate Producer:_ Kool Lusby
+_Associate Producer:_ Kool Lusby<br>
 
-_Production Manager:_ Don Behrns
+_Production Manager:_ Don Behrns<br>
 
-_Production Assistants:_ Barry Bernardi, Paul Fox
+_Production Assistants:_ Barry Bernardi, Paul Fox<br>
 
-_Assistant Director:_ Rick Wallace
+_Assistant Director:_ Rick Wallace<br>
 
-_2nd Assistant Director:_ Jack De Wolf
+_2nd Assistant Director:_ Jack De Wolf<br>
 
-_Script Supervisor:_ Louise Jaffe
+_Script Supervisor:_ Louise Jaffe<br>
 
-_Screenplay by:_ John Carpenter, Debra Hill
+_Screenplay by:_ John Carpenter, Debra Hill<br>
 
-_Director of Photography:_ Dean Cundey
+_Director of Photography:_ Dean Cundey<br>
 
-_Camera Operator:_ Ray Stella
+_Camera Operator:_ Ray Stella<br>
 
-_Assistant Cameraman:_ Fred Victar
+_Assistant Cameraman:_ Fred Victar<br>
 
-_2nd Assistant Cameraman:_ Krishna Rao
+_2nd Assistant Cameraman:_ Krishna Rao<br>
 
-_Key Grip:_ Dylan Shepard
+_Key Grip:_ Dylan Shepard<br>
 
-_Best Boy:_ Steve Mathis
+_Best Boy:_ Steve Mathis<br>
 
-_Grip:_ Walt Hill
+_Grip:_ Walt Hill<br>
 
-_Panaglide:_ Ray Stella
+_Panaglide:_ Ray Stella<br>
 
-_Gaffer:_ Mark Walthour
+_Gaffer:_ Mark Walthour<br>
 
-_Best Boy:_ Josh Miller
+_Best Boy:_ Josh Miller<br>
 
-_Electrician:_ Reed Freeman
+_Electrician:_ Reed Freeman<br>
 
-_Stills:_ Kim Gottlieb
+_Stills:_ Kim Gottlieb<br>
 
-_Editors:_ Tommy Wallace, Charles Bornstein
+_Editors:_ Tommy Wallace, Charles Bornstein<br>
 
-_Production Designer:_ Tommy Wallace
+_Production Designer:_ Tommy Wallace<br>
 
-_Assistant Art Director:_ Randy Moore
+_Assistant Art Director:_ Randy Moore<br>
 
-_Set Decorator:_ Craig Stearns
+_Set Decorator:_ Craig Stearns<br>
 
-_Property Master:_ Craig Stearns
+_Property Master:_ Craig Stearns<br>
 
-_Set Painter:_ Richard Girod
+_Set Painter:_ Richard Girod<br>
 
-_Wardrobe:_ Beth Rodgers
+_Wardrobe:_ Beth Rodgers<br>
 
-_Makeup:_ Erica Ulland
+_Makeup:_ Erica Ulland<br>
 
-_Titles and Opticals:_ MGM
+_Titles and Opticals:_ MGM<br>
 
-_Filmed in:_ Panavision
+_Filmed in:_ Panavision<br>
 
-_Colour by:_ Metrocolor
+_Colour by:_ Metrocolor<br>
 
-_Music by:_ John Carpenter
+_Music by:_ John Carpenter<br>
 
 _Music Performed by:_  
-The Bowling Green Philharmonic Orchestra
+The Bowling Green Philharmonic Orchestra<br>
 
-_Orchestration:_ Dan Wyman
+_Orchestration:_ Dan Wyman<br>
 
-_Music Co-ordinator:_ Bob Walters
+_Music Co-ordinator:_ Bob Walters<br>
 
-_Music Recording:_ Sound Arts
+_Music Recording:_ Sound Arts<br>
 
-_Music Recordist and Mixer:_ Peter Bergren
+_Music Recordist and Mixer:_ Peter Bergren<br>
 
-_Sound Mixer:_ Tommy Causey
+_Sound Mixer:_ Tommy Causey<br>
 
-_Boom Man:_ Joe Brennan
+_Boom Man:_ Joe Brennan<br>
 
-_Re-recording:_ Samuel Goldwyn Studios
+_Re-recording:_ Samuel Goldwyn Studios<br>
 
-_Supervising Sound Editor:_ William Stevenson
+_Supervising Sound Editor:_ William Stevenson<br>
 
-_Stunts:_ Jim Winburn
+_Stunts:_ Jim Winburn<br>
 
-_Cast:_
+_Cast:_<br>
 
-Donald Pleasence _(Dr Sam Loomis)_
+Donald Pleasence _(Dr Sam Loomis)_<br>
 
-Jamie Lee Curtis _(Laurie Strode)_
+Jamie Lee Curtis _(Laurie Strode)_<br>
 
-Nancy Loomis _(Annie)_
+Nancy Loomis _(Annie)_<br>
 
-P.J. Soles _(Lynda)_
+P.J. Soles _(Lynda)_<br>
 
-Charles Cyphers _(Brackett)_
+Charles Cyphers _(Brackett)_<br>
 
-Kyle Richards _(Lindsey)_
+Kyle Richards _(Lindsey)_<br>
 
-Brian Andrews _(Tommy)_
+Brian Andrews _(Tommy)_<br>
 
-John Michael Graham _(Bob)_
+John Michael Graham _(Bob)_<br>
 
-Nancy Stephens _(Marion)_
+Nancy Stephens _(Marion)_<br>
 
-Arthur Malet _(graveyard keeper)_
+Arthur Malet _(graveyard keeper)_<br>
 
-Mickey Yablans _(Richie)_
+Mickey Yablans _(Richie)_<br>
 
-Brent Le Page _(Lonnie)_
+Brent Le Page _(Lonnie)_<br>
 
-Adam Hollander _(Keith)_
+Adam Hollander _(Keith)_<br>
 
 Robert Phalen _(Dr Wynn)_
 
@@ -174,5 +169,5 @@ Digital 4K
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI0MDY4ODZdfQ==
+eyJoaXN0b3J5IjpbMTY3NzI4Nzc2MV19
 -->
