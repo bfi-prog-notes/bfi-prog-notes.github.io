@@ -18,30 +18,14 @@ _The Ice Storm_. To Lee this sequence was ‘a bigger challenge, more scary, tha
 Beneath these novel elements, though, _Tiger_ is very recognisably an Ang Lee film – not just in its scrupulously crafted texture and attention to detail but in its humanist focus on personal relationships and its thematic preoccupations. It’s revealing that Lee and James Schamus, his regular collaborator as writer-producer, originally pitched the concept as ‘_Sense and Sensibility_ with martial arts’. Half-jokingly, to be sure; but underlying the fantasy and visual magic is the theme that runs through _Sense and Sensibility_ as through all Lee’s work, the theme he identifies as ‘social obligation versus personal freedom’. As Lee puts it, whatever the genre, ‘My reflection on the material is my creative output into the film. That’s my authorship. Unless I feel emotionally and personally in touch with the material, I don’t want to do it. I use the language of genre to tell something that’s internal; I’m making a martial-arts picture, but what I’m really dealing with is the hidden dragon.’  
 **Philip Kemp, _Sight and Sound_, December 2000**  
 <br>
-<![endif]-->
-
-**CROUCHING TIGER HIDDEN DRAGON**
-
-**(WO HU ZANG LONG)**
-
+**CROUCHING TIGER HIDDEN DRAGON**  
+**(WO HU ZANG LONG)**  
 _Director_: Ang Lee  
 _©:_ United China Vision Incorporated  
-_Production Company_:
-
-Zoom Hunt International Production Co Ltd  
-_In collaboration with_:
-
-China Film Co-production Corporation,
-
-Asia Union Film & Entertainment  
-_Presented by_:
-
-Columbia Pictures Film Production Asia,
-
-Sony Pictures Classics  
-_Presented in association with_:
-
-Good Machine International  
+_Production Company_: Zoom Hunt International Production Co Ltd  
+_In collaboration with_: China Film Co-production Corporation, Asia Union Film & Entertainment  
+_Presented by_: Columbia Pictures Film Production Asia, Sony Pictures Classics  
+_Presented in association with_: Good Machine International  
 _Production Company_: Golden Harvest  
 _Executive Producers_: James Schamus, David Linde  
 _Producers_: Bill Kong, Hsu Li-kong, Ang Lee  
@@ -52,15 +36,9 @@ _Production Manager_: Helen Li
 _Production Co-ordinator_: Peh Huie-ling  
 _Production Accountant_: Joyce Hsieh  
 _Post-production Supervisor_: Jeff Robinson  
-_1st Assistant Directors_: Lai Kai-keung,
-
-Sylvia Liu Jingyi, Zhang Jin-ting,
-
-Zhou Ying-ying, Zhu Hong-bo, Xu Cheng-lin  
+_1st Assistant Directors_: Lai Kai-keung, Sylvia Liu Jingyi, Zhang Jin-ting, Zhou Ying-ying, Zhu Hong-bo, Xu Cheng-lin  
 _Script Supervisors_: Sherrie Liu, Feng Ying  
-_Screenplay_: James Schamus, Wang Hui-ling,
-
-Tsai Kuo-jung  
+_Screenplay_: James Schamus, Wang Hui-ling, Tsai Kuo-jung  
 _Based on the novel by_: Wang Du-lu  
 _Photographed by_: Peter Pau  
 _2nd Unit Cameraman_: Johnny Choi Sung-fai  
@@ -71,21 +49,11 @@ _Special Visual Effects_: Manex Visual Effects LLC
 _Wire Removal/Digital Effects_: Asia Legend Limited  
 _Edited by_: Tim Squyres  
 _Production Designer_: Tim Yip  
-_Art Department_: Eddy Wong, Yang Zhan-jia,
-
-Yang Xing-zhan, Wang Jian-quo, Zhao Bin  
-_Set Department_: Jiang Quan, He Yan-qing,
-
-Tian Zhong-he, Li Yi, Wang He-gen, Zhang Quan  
-_Property Department_: Hung Hin-fat, Ng Chung-wai, Fung Shu-wing, Li Ming-shan, Li Bao-tai,
-
-Wang Song-bo, Ho Yi  
+_Art Department_: Eddy Wong, Yang Zhan-jia, Yang Xing-zhan, Wang Jian-quo, Zhao Bin  
+_Set Department_: Jiang Quan, He Yan-qing, Tian Zhong-he, Li Yi, Wang He-gen, Zhang Quan  
+_Property Department_: Hung Hin-fat, Ng Chung-wai, Fung Shu-wing, Li Ming-shan, Li Bao-tai, Wang Song-bo, Ho Yi  
 _Costume Designer_: Tim Yip  
-_Wardrobe Department_: Hsu Shu-chen,
-
-Huang Bao-rong, Wang Rong, Zhao Zhi-bin,
-
-Chai Jun, Gu Jin-hua  
+_Wardrobe Department_: Hsu Shu-chen, Huang Bao-rong, Wang Rong, Zhao Zhi-bin, Chai Jun, Gu Jin-hua  
 _Make-up Department_: Man Yun-ling, Liu Jian-ping, Ren Yi-gong, Liu Jing-dong, Fan Yong-hao  
 _Hairdressing_: Chau Siu-mui  
 _Colour Timer_: Fred Heid  
@@ -94,13 +62,9 @@ _Music Composed and Conducted by_: Tan Dun
 _Cello Solos_: Yo-Yo Ma, Coco Lee  
 _Erhu Solo_: Ma Xiao-hui  
 _Bawu/Dizi Solo_: Yang Jun-qiao  
-_Percussion Solo_: David Cossin,
-
-Shanghai Symphony Orchestra  
+_Percussion Solo_: David Cossin, Shanghai Symphony Orchestra  
 _Conducted by_: Chen Xie-yang  
-_Music performed by_: Shanghai National Orchestra,
-
-Shanghai Percussion Ensemble  
+_Music performed by_: Shanghai National Orchestra, Shanghai Percussion Ensemble  
 _Sound Mixer_: Andrew Paul Kunin  
 _Boom Operator_: George Huey Leong  
 _Re-recording Mixer_: Reilly Steele  
@@ -108,15 +72,12 @@ _Supervising Sound Editor_: Eugene Gearty
 _Dialogue Editors_: Lewis Goldstein, Paul Urmson  
 _ADR Supervisor_: Jean Tsien  
 _Foley Artist_: Marko Costanzo  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 _Foley Editors_: Ben Cheah, Jennifer Ralston  
 _Dolby Sound Consultant_: James Ziegler  
 _Action Choreographed by_: Yuen Wo-ping  
 _Assistant Martial Arts Co-ordinator_: Ku Huen-chiu, Wong Kim-wai  
-_Cast:_
 
+**Cast**  
 Chow Yun-fat _(Li Mu Bai)_  
 Michelle Yeoh _(Yu Shu Lien)_  
 Zhang Ziyi _(Yu Jiao Long, ‘Jen’)_  
@@ -150,7 +111,6 @@ Chen Bin _(servant)_
 Chang Sao-chen _(nightman)_  
 
 China, Taiwan, USA, Hong Kong 2000©  
-
 120 mins  
 Digital 4K  
 
@@ -158,5 +118,5 @@ Digital 4K
 
 A BFI FAN initiative supported through National Lottery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5Njc5NjY2XX0=
+eyJoaXN0b3J5IjpbLTE0MjIwNzEyNDddfQ==
 -->
