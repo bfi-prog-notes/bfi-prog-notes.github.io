@@ -117,7 +117,83 @@ USA-France-Belgium-Switzerland 2016©
 Digital
 
 
+<![endif]-->
 
+**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**
+
+**Go Tell It on the Mountain  
+**Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)
+
+**If Beale Street Could Talk** Tue 22 Oct 14:30;  
+Fri 22 Nov 20:40; Sat 30 Nov 17:50
+
+**I Heard It through the Grapevine  
+**Thu 24 Oct 20:40; Sun 3 Nov 13:30
+
+**A Raisin in the Sun** Sat 26 Oct 15:30;  
+Sat 9 Nov 18:10; Thu 28 Nov 20:30
+
+**I Am Not Your Negro** Sat 26 Oct 20:35;  
+Sat 9 Nov 15:30; Thu 21 Nov 18:30
+
+**Color Adjustment  
+**Fri 1 Nov 20:55; Mon 4 Nov 18:10
+
+**James Baldwin: The Price of the Ticket**
+
+Fri 8 Nov 18:15; Mon 18 Nov 20:35
+
+**With thanks to**
+
+Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at  
+BFI Southbank
+
+**HIDDEN TRUTHS:  
+JOHN PILGER AND THE  
+POWER OF DOCUMENTARY**
+
+**Seniors’ Free Talk: The Quiet Mutiny + intro and Q&A with author Anthony Hayward  
+**Mon 28 Oct 11:45
+
+**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward** Mon 28 Oct 14:00
+
+**The Pilger Effect** Mon 28 Oct 18:15
+
+**The War You Don’t See  
+**Mon 28 Oct 20:35; Sat 16 Nov 18:10
+
+**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue** Sat 2 Nov 15:00
+
+**The Golden Dream** La Jaula De Oro
+
+Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30
+
+**Lousy Little Sixpence + Utopia** Sun 10 Nov 14:50
+
+**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror** Mon 18 Nov 18:10
+
+**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World** Sat 23 Nov 17:45
+
+**The Coming War on China  
+**Sat 23 Nov 20:10; Fri 29 Nov 18:15
+
+**The Ballymurphy Precedent** Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20
+
+**The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
+
+**With thanks to**
+
+John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
+
+Programme texts compiled by John Pilger,  
+Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
+
+Selections from Hidden Truths can be found  
+on **BFI Player**
+
+For more information about John Pilger’s films  
+go to **johnpilger.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc3MTUwMDldfQ==
+eyJoaXN0b3J5IjpbLTE1MzMwMzMwMzgsLTE5ODc3MTUwMDldfQ
+==
 -->
