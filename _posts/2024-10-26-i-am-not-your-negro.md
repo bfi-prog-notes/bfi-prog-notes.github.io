@@ -144,6 +144,7 @@ Sat 23 Nov 20:10; Fri 29 Nov 18:15<br>
 Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20<br>
 
 **The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
+<br>
 
 **With thanks to**<br>
 John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
@@ -155,6 +156,6 @@ Selections from Hidden Truths can be found on **BFI Player**
 For more information about John Pilger’s films go to **johnpilger.com**
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDM1Mjc5NywtMjAyODYxNTM3MiwtMT
+eyJoaXN0b3J5IjpbLTk0NTIxMjcwNSwtMjAyODYxNTM3MiwtMT
 UzMzAzMzAzOCwtMTk4NzcxNTAwOV19
 -->
