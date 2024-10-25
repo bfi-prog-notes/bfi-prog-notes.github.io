@@ -13,10 +13,9 @@ Despite some very violent scenes, the film was awarded a ‘U’ certificate, wh
 The film embraces the natural, rendering the rich hues of the English countryside onto canvas, while the sound effects were sourced from the actual locations in Hampshire that inspired Adams’ original tale. Despite a pastoral score from Angela Morley and Malcolm Williamson, the film’s soundtrack was popularised by the song ‘Bright Eyes’, composed by Mike Batt and sung by Art Garfunkel. With a video using scenes from the film, ‘Bright Eyes’ scored a UK number one some six months after _Watership Down_’s release and secured the film’s place in British popular culture.
 
 Attracting the cream of British voice talent, led by John Hurt and Richard Briers, _Watership Down_ is an admirable example of an uncompromising British animation that initially struggled to find distribution before box office returns confounded expectations. Rosen’s attempt to repeat the formula with another Adams novel, _The Plague Dogs_ (1982), was less successful, however, as was a return to _Watership Down_ some 20 years later for a children’s series (ITV, 1999), which suffered from the dilution of adult themes for a younger audience.  
-**Stephen Collings, BFI Screenonline
+**Stephen Collings, BFI Screenonline**
 
-**Making ‘Watership Down’**
-
+**Making ‘Watership Down’**  
 Producer/director Martin Rosen was introduced to the book _Watership Down_ on location in Kashmir when, after being rejected by 17 publishers as unpublishable, it had finally found a home as a Puffin. Rosen recalls: ‘A production manager was reading a book which everybody else was making fun of, but when he thrust it into my hands I read it and was quickly convinced. As soon as I got back to England, I called Richard Adams and bought the rights to a film version.’
 
 Adams privately believed his book to be unfilmable, but nonetheless gave Rosen a guided tour of the real Watership Down, on the Berkshire-Hampshire border, and of some of the locations described in the book – Nuthanger Farm and the River Test. Along the way, they discussed the themes the author saw as most important. However, Rosen did not seek Adams’ approval for the screenplay, because the two men agreed that a book is a book and a film is a film. Adams reiterated this point in the book-of-the-film. In his introduction he wrote: ‘People who want to read the story should read my _Watership Down_, and people who want to know more about the drawings in this book should go and see the film.’
@@ -37,12 +36,10 @@ HLESSI. A wandering rabbit, without a regular warren, who lives above ground.
 
 HRUDUDU. Any motor vehicle.
 
-Terry Staples
+**Terry Staples**
+<br><br>
 
-<![endif]-->
-
-**WATERSHIP DOWN**
-
+**WATERSHIP DOWN**  
 _Directed by_: Martin Rosen  
 ©_/Production Company_: Watership Productions Ltd  
 _Presented by_: Nepenthe Productions Ltd  
@@ -50,35 +47,23 @@ _Produced by_: Martin Rosen
 _Production Manager_: Dennis Gardiner  
 _Production Co-ordinator_: Philip Alton  
 _Production Accountants_: Ron Garrett, Jo Gregory, Linda Gregory  
-_Production Secretaries_: Judy Hayward,  
-Marilyn Barham  
+_Production Secretaries_: Judy Hayward,  Marilyn Barham  
 _Written for the screen by_: Martin Rosen  
 _From the novel by_: Richard Adams  
-_Camera_: Tony Haines, Bob Mintern, Les Green,  
-Ron Boston, Moses Agyemang, Julian Holdaway, Denis Hall, Barry Orsborn, Alan Buchan,  
-Chris Williams, David Smith, Christopher Morgan  
+_Camera_: Tony Haines, Bob Mintern, Les Green,  Ron Boston, Moses Agyemang, Julian Holdaway, Denis Hall, Barry Orsborn, Alan Buchan,  Chris Williams, David Smith, Christopher Morgan  
 _Animation Supervisor_: Philip Duncan  
 _Animation Director_: Tony Guy  
-_Senior Animators_: Arthur Humberstone,  
-George Jackson, Tony Guy, Philip Duncan  
-_Animators_: Edric Radage, Bill Littlejohn,  
-Ruth Kissane, John Perkins, Ralph Ayres,  
-Brian Foster, Chris Evans, Marie Szmichowska, Alan Simpson, Colin White, Doug Jensen,  
-Bill Geach, Spud Houston, Barrie Nelson  
-_Assistant Animators_: Ray Kelly, Alistair Byrt, Malcolm Bourne, April Spencer, Sarah Vincent, Bobby Clennell, Chris Caunter, Steve Woods,  
-Carol Slade, Rosemary Welch  
+_Senior Animators_: Arthur Humberstone,  George Jackson, Tony Guy, Philip Duncan  
+_Animators_: Edric Radage, Bill Littlejohn,  Ruth Kissane, John Perkins, Ralph Ayres,  Brian Foster, Chris Evans, Marie Szmichowska, Alan Simpson, Colin White, Doug Jensen,  Bill Geach, Spud Houston, Barrie Nelson  
+_Assistant Animators_: Ray Kelly, Alistair Byrt, Malcolm Bourne, April Spencer, Sarah Vincent, Bobby Clennell, Chris Caunter, Steve Woods,  Carol Slade, Rosemary Welch  
 _Checking_: Miles Foster, Steve Colwell, Marie Turner  
-_Layout Artists_: Gordon Harrison, Peter See,  
-Ted Pettengell  
-_Senior Background Artists_: Ian Henderson,  
-Gary Sycamore, Sue Branch  
+_Layout Artists_: Gordon Harrison, Peter See,  Ted Pettengell  
+_Senior Background Artists_: Ian Henderson,  Gary Sycamore, Sue Branch  
 _Background Artists_: Errol Bryant, Paul Shardlow, Rodolfo Azaro, Brian Melling, Dennis Ryan  
 _Assistant Background Artists_: Vanessa Clegg, Richard Bell  
-_Trace and Paint Supervisors_: Donna Baker,  
-Peter Turner  
+_Trace and Paint Supervisors_: Donna Baker,  Peter Turner  
 _Colour Co-ordination_: Alma Sachs  
-_Trace and Paint_: Sandy Houston, Karen Webb,  
-Jose Sanz, Lynn Anderson, Elaine Mills, Maggie Brown, Olive Scott, Barbara Todeschini, Alan Andrews, Ann Kennedy, Margot Allen, Dennis Sutton, Briony Catling, Roby Hamilton-Garrett, Helga Egilson, Wendi Ellis, Roger Way, Josephine Poole, David Mcfall, Joan Bradshaw, Dot Morse, Sheila Thompson, Priscilla Rhodes, Maria Hemmleb, Rosemary Morgan  
+_Trace and Paint_: Sandy Houston, Karen Webb,  Jose Sanz, Lynn Anderson, Elaine Mills, Maggie Brown, Olive Scott, Barbara Todeschini, Alan Andrews, Ann Kennedy, Margot Allen, Dennis Sutton, Briony Catling, Roby Hamilton-Garrett, Helga Egilson, Wendi Ellis, Roger Way, Josephine Poole, David Mcfall, Joan Bradshaw, Dot Morse, Sheila Thompson, Priscilla Rhodes, Maria Hemmleb, Rosemary Morgan  
 _Edited by_: Terry Rawlings  
 _Assembly Editor_: Roy Piper  
 _Assistant Editors_: Leslie Healey, William Webb  
@@ -94,8 +79,7 @@ _Dubbing Mixer_: Bill Rowe
 _Re-recorded at_: EMI Studios Borehamwood  
 _Effects Mixer_: Ray Merrin
 
-_Voice Cast:_
-
+**Voice Cast**  
 John Hurt _(Hazel)_  
 Richard Briers _(Fiver)_  
 Michael Graham Cox _(Bigwig)_  
@@ -118,8 +102,7 @@ Michael Hordern _(Frith)_
 Joss Ackland _(Black Rabbit)_  
 Michelle Price _(Lucy)_
 
-UK 1978©
-
+UK 1978©  
 92 mins
 
 Digital 4K
@@ -129,5 +112,5 @@ A BFI release
 _Watership Down_ has been restored in 4K high dynamic range from the original 35mm negative and magnetic stereo audio tracks by  
 BFI Distribution and Silver Salt Restoration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI3NzA4MjhdfQ==
+eyJoaXN0b3J5IjpbMTY5MzEyMDc1OV19
 -->
