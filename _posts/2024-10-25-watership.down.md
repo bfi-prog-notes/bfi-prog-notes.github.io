@@ -1,3 +1,14 @@
+---
+layout: post
+title: Watership Down
+published: true
+date: 2024-10-25
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Animation]
+metadata: 'UK 1978, 92 mins<br> Director: Martin Rosen'
+pdf: '2024-10-25-watership-down.pdf'
+---
 
 A landmark in British animation, this adaptation of Richard Adams’ novel makes a welcome return to our screens. A building project threatens the tranquil lives of the wildlife residing in a British woodland area, including rabbits occupying a local warren. Fiver has distressing visions of impending destruction and persuades a small group to join him on a challenging journey to a safe utopia known as Watership Down. This glorious adaptation of Adams’ novel is no less hard hitting in its depiction of survival and conflict than it is a work of great beauty. An impressive voice cast elevates it further.
 
@@ -110,6 +121,53 @@ A BFI release
 
 _Watership Down_ has been restored in 4K high dynamic range from the original 35mm negative and magnetic stereo audio tracks by  BFI Distribution and Silver Salt Restoration
 <br><br>
+
+**NEW RELEASES**<br>
+**Timestalker**<br>
+From Mon 21 Oct<br>
+**The Apprentice**<br>
+From Mon 21 Oct<br>
+**The Room Next Door**<br>
+From Fri 25 Oct<br>
+**Layla**<br>
+From Fri 25 Oct<br>
+**Anora**<br>
+From Fri 1 Nov<br>
+**Bird**<br>
+From Fri 15 Nov<br>
+**All We Imagine as Light**<br>
+From Fri 29 Nov
+
+**RE-RELEASES**<br>
+**Watership Down**<br>
+From Fri 25 Oct<br>
+**Point Break**<br>
+From Fri 8 Nov<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5NDc4ODYxNzFdfQ==
 -->
