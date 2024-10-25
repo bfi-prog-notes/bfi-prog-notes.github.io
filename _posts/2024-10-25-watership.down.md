@@ -103,14 +103,13 @@ Joss Ackland _(Black Rabbit)_
 Michelle Price _(Lucy)_
 
 UK 1978©  
-92 mins
-
+92 mins  
 Digital 4K
 
 A BFI release
 
-_Watership Down_ has been restored in 4K high dynamic range from the original 35mm negative and magnetic stereo audio tracks by  
-BFI Distribution and Silver Salt Restoration
+_Watership Down_ has been restored in 4K high dynamic range from the original 35mm negative and magnetic stereo audio tracks by  BFI Distribution and Silver Salt Restoration
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzEyMDc1OV19
+eyJoaXN0b3J5IjpbLTE5NDc4ODYxNzFdfQ==
 -->
