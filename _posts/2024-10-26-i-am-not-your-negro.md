@@ -162,7 +162,7 @@ John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman,
 
 Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
 
-Selections from Hidden Truths can be found on [**BFI Player**]((https://player.bfi.org.uk)
+Selections from Hidden Truths can be found on [**BFI Player**](https://player.bfi.org.uk)
 
 For more information about John Pilger’s films go to [**johnpilger.com**](https://johnpilger.com/)
 <br><br>
