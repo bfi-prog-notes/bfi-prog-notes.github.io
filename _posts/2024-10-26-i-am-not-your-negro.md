@@ -1,4 +1,3 @@
-<![endif]-->
 
 **John Pilger’s call to ‘break the silence’ at the Power of the Documentary Festival in Sydney**
 
@@ -12,12 +11,11 @@ A documentary is not reality TV. Political documentary is not the consensual gam
 
 Great documentaries frighten the powerful, unnerve the compliant, expose the hypocritical. Great documentaries make us think, and think again, and speak out, and even take action.
 
-The festival will show a remarkable film entitled _I Am Not Your Negro_, in which the writer James Baldwin speaks not only for African-Americans but for those who are cast aside everywhere, and these include the First Nations people of Australia, still invisible in the country that is unique only because of them.
+The festival will show a remarkable film entitled _I Am Not Your Negro_, in which the writer James Baldwin speaks not only for African-Americans but for those who are cast aside everywhere, and these include the First Nations people of Australia, still invisible in the country that is unique only because of them.  
+**John Pilger, 28 November 2018 (full transcript at johnpilger.com)**
+<br>
 
-John Pilger, 28 November 2018 (full transcript at johnpilger.com)
-
-**Raoul Peck on ‘I Am Not Your Negro’ and James Baldwin**
-
+**Raoul Peck on ‘I Am Not Your Negro’ and James Baldwin**  
 I started reading James Baldwin when I was a 15-year-old boy searching for rational explanations to the contradictions I was confronting in my already nomadic life, which took me from Haiti to Congo to France to Germany and to the United States of America. Together with Aimée Césaire, Jacques Stéphane Alexis, Richard Wright, Gabriel García Márquez and Alejo Carpentier, James Baldwin was one of the few authors that I could call ‘my own’. Authors who were speaking of a world I knew, in which I was not just a footnote. They were telling stories describing history and defining structure and human relationships which matched what I was seeing around me. I could relate to them. You always need a Baldwin book by your side.
 
 I came from a country which had a strong idea of itself, which had fought _and_ won against the most powerful army of the world (Napoleon’s) and which had, in a unique historical manner, stopped slavery in its tracks, creating the first successful slave revolution in the history of the world, in 1804.
@@ -60,9 +58,8 @@ Baldwin gave me a voice, gave me the words, gave me the rhetoric. All I knew thr
 
 For sure, we will have strong winds against us. The present time of discord and confusion is an unavoidable element. I am not naive to think that the road ahead will be easy or that the attacks will not be at time vicious. My commitment to make sure that this film will not be buried or sidelined is uncompromising.
 
-We are in it for the long run. Whatever time and effort it takes.
-
-Raoul Peck
+We are in it for the long run. Whatever time and effort it takes.  
+**Raoul Peck
 
 <![endif]-->
 
@@ -194,6 +191,6 @@ on **BFI Player**
 For more information about John Pilger’s films  
 go to **johnpilger.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMwMzMwMzgsLTE5ODc3MTUwMDldfQ
-==
+eyJoaXN0b3J5IjpbLTE2NDY3MTMyNjMsLTE1MzMwMzMwMzgsLT
+E5ODc3MTUwMDldfQ==
 -->
