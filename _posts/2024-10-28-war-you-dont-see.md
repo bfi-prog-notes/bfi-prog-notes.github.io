@@ -78,23 +78,18 @@ Scott Ritter _(UN weapons inspector 1991-1998)_
 David Mannion _(Editor in Chief, ITV News)_  
 Mark Curtis _(historian & author, ‘Web of Deceit’)_  
 Phil Shiner _(Public Interest Lawyers)_  
-Guy Smallman_  
-(war reporter & photographer)_  
+Guy Smallman _(war reporter & photographer)_  
 Denis Halliday _(former Asst. Secretary General United Nations)_  
-Carne Ross_  
-(British Foreign Office 1989-2004)_  
-Professor Greg Philo_  
-(Glasgow University Media Group)_  
-Cynthia McKinney_  
-(former US Congresswoman)_  
+Carne Ross _(British Foreign Office 1989-2004)_  
+Professor Greg Philo _(Glasgow University Media Group)_  
+Cynthia McKinney _(former US Congresswoman)_  
 Julian Assange _(Editor in Chief, Wikileaks)_  
 Ethan McCord _(former US soldier, Iraq)_
 
-UK 2010©
-
-101 mins
-
+UK 2010©  
+101 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NDk5NjYyXX0=
+eyJoaXN0b3J5IjpbMTYzOTMwNDY2NF19
 -->
