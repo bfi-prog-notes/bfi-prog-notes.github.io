@@ -35,12 +35,10 @@ What is the value of journalists speaking like this? The answer is provided by t
 Cameron could not have imagined a modern phenomenon such as WikiLeaks but he would have surely approved. In the current avalanche of official documents, especially those that describe the secret machinations that lead to war – such as the American mania over Iran – the failure of journalism is rarely noted. And perhaps the reason Julian Assange seems to excite such hostility among journalists serving a variety of ‘lobbies’, those whom George Bush’s press spokesman once called ‘complicit enablers’, is that WikiLeaks and its truth-telling shames them. Why has the public had to wait for WikiLeaks to find out how great power really operates? As a leaked 2,000-page Ministry of Defence document reveals, the most effective journalists are those who are regarded in places of power not as embedded or clubbable, but as a ‘threat’. This is the threat of real democracy, whose ‘currency’, said Thomas Jefferson, is ‘free flowing information’.
 
 In my film, I asked Assange how WikiLeaks dealt with the draconian secrecy laws for which Britain is famous. ‘Well,’ he said, ‘when we look at the Official Secrets Act labelled documents, we see a statement that it is an offence to retain the information and it is an offence to destroy the information, so the only possible outcome is that we have to publish the information.’  These are extraordinary times.  
-John Pilger, _The Guardian_, 10 December 2010
+**John Pilger, _The Guardian_, 10 December 2010**
+<br><br>
 
-<![endif]-->
-
-**THE WAR YOU DON’T SEE**
-
+**THE WAR YOU DON’T SEE**  
 _Directed by_: John Pilger  
 _Director_: Alan Lowery  
 ©: Strand Films  
@@ -51,10 +49,8 @@ _Producer_: Alan Lowery
 _Archive Producer_: Ursula Riley  
 _Line Producer_: Sandra Leeming  
 _Post-production Manager_: Kate George  
-_UK Production Assistant_:  
-Jake Rogers Lowery  
-_USA Production Assistants_:  
-Rich Buonagorio, Cannon Young  
+_UK Production Assistant_:  Jake Rogers Lowery  
+_USA Production Assistants_:  Rich Buonagorio, Cannon Young  
 _Written by_: John Pilger  
 _Director of Photography_: Rupert Binsley  
 _Graphics_: Mark Wellband  
@@ -65,31 +61,22 @@ _Colourist_: Tim Waller
 _Original Music by_: Sacha Puttnam  
 _Re-recording Mixer_: George Foulgham  
 _Sound Editor_: Claire Ellis  
-_Consultants_: Ed Harriman, David Miller,  
-David Edwards, David Cromwell  
+_Consultants_: Ed Harriman, David Miller,  David Edwards, David Cromwell  
 _Legal Adviser_: John Samson
 
-_With:_
-
+**With**  
 Professor Stuart Ewen _(media historian)_  
-Melvin Goodman_  
-(historian & former CIA analyst)_  
+Melvin Goodman _(historian & former CIA analyst)_  
 Dan Rather _(CBS news anchor 1981-2005)_  
-Bryan Whitman_  
-(US Assist. Secretary of Defence)_  
-Rageh Omaar_  
-(BBC world affairs reporter 2000-2006)_  
+Bryan Whitman _(US Assist. Secretary of Defence)_  
+Rageh Omaar _(BBC world affairs reporter 2000-2006)_  
 Dahr Jamail _(journalist & author ‘Beyond the Green Zone’)_  
 David Rose _(former Observer journalist)_  
-Steve Rendall_  
-(Fairness & Accuracy in Reporting)_  
-Fran Unsworth_  
-(BBC Head of Newsgathering)_  
-Scott Ritter_  
-(UN weapons inspector 1991-1998)_  
+Steve Rendall _(Fairness & Accuracy in Reporting)_  
+Fran Unsworth _(BBC Head of Newsgathering)_  
+Scott Ritter _(UN weapons inspector 1991-1998)_  
 David Mannion _(Editor in Chief, ITV News)_  
-Mark Curtis_  
-(historian & author, ‘Web of Deceit’)_  
+Mark Curtis _(historian & author, ‘Web of Deceit’)_  
 Phil Shiner _(Public Interest Lawyers)_  
 Guy Smallman_  
 (war reporter & photographer)_  
@@ -109,5 +96,5 @@ UK 2010©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwMjg0MjNdfQ==
+eyJoaXN0b3J5IjpbNjI3NDk5NjYyXX0=
 -->
