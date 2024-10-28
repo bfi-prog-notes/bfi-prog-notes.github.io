@@ -1,3 +1,14 @@
+---
+layout: post
+title: The War You Don't See
+published: true
+date: 2024-10-28
+readtime: true
+categories: ['HIDDEN TRUTHS<br>JOHN PILGER AND THE POWER OF DOCUMENTARY']
+tags: [Documentary]
+metadata: 'UK 2010, 101 mins<br> Director: John Pilger'
+pdf: '2024-10-28-war-you-dont-see.pdf'
+---
 
 **John Pilger: Why are wars not reported honestly?**  
 In the US Army manual on counterinsurgency, the American commander General David Petraeus describes Afghanistan as a ‘war of perception ... conducted continuously using the news media’. What really matters is not so much the day-to-day battles against the Taliban as the way the adventure is sold in America where ‘the media directly influence the attitude of key audiences’. Reading this, I was reminded of the Venezuelan general who led a coup against the democratic government in 2002. ‘We had a secret weapon,’ he boasted. ‘We had the media, especially TV. You got to have the media.’
@@ -90,6 +101,67 @@ UK 2010©
 101 mins  
 Digital
 <br><br>
+
+**HIDDEN TRUTHS:  JOHN PILGER AND THE  POWER OF DOCUMENTARY**<br>
+**Seniors’ Free Talk: The Quiet Mutiny + intro and Q&A with author Anthony Hayward**<br>
+Mon 28 Oct 11:45<br>
+**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward**<br>
+Mon 28 Oct 14:00<br>
+**The Pilger Effect**<br>
+Mon 28 Oct 18:15<br>
+**The War You Don’t See**<br>
+Mon 28 Oct 20:35; Sat 16 Nov 18:10<br>
+**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue**<br> Sat 2 Nov 15:00<br>
+**The Golden Dream** La Jaula De Oro<br>
+Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30<br>
+**Lousy Little Sixpence + Utopia**<br>
+Sun 10 Nov 14:50<br>
+**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror**<br>
+Mon 18 Nov 18:10<br>
+**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World**<br>
+Sat 23 Nov 17:45<br>
+**The Coming War on China**<br>
+Sat 23 Nov 20:10; Fri 29 Nov 18:15<br>
+**The Ballymurphy Precedent**<br>
+Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20<br>
+
+**The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
+<br>
+
+**With thanks to**<br>
+John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
+
+Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
+
+Selections from Hidden Truths can be found on [**BFI Player**](https://player.bfi.org.uk)
+
+For more information about John Pilger’s films go to [**johnpilger.com**](https://johnpilger.com/)
+<br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYzOTMwNDY2NF19
 -->
