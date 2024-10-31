@@ -1,4 +1,3 @@
-<![endif]-->
 
 No documentarist could reasonably expect their work to change the world overnight. But for the makers of _No Other Land_, the process involved is a much longer one: this collective, two Palestinians, two Israelis, depicts a situation on the West Bank that has been going on for decades and is continuing, even becoming more critical, today. Since they completed the bulk of their film in 2023, events in the Middle East have massively raised the stakes of the situation shown.
 
@@ -28,31 +27,25 @@ The team’s intensely powerful, disturbing film has drawn widespread attention,
 
 Notwithstanding its warm reception in the film world, Basel Adra doesn’t see _No Other Land_ as primarily a piece of cinema. ‘To be honest, I’m not really a filmmaker. For me, this movie is more about activism – this is not a documentary about something that happened and ended. It’s our life, our daily life, it’s still going on. What I want from this movie is really to try to achieve some political change in people’s minds.’
 
-As for hope in these singularly harsh times, Adra has no illusions. ‘Today, it’s really hard to talk about hope. What we need is not just hope. What we need is to stop what’s going on.’
+As for hope in these singularly harsh times, Adra has no illusions. ‘Today, it’s really hard to talk about hope. What we need is not just hope. What we need is to stop what’s going on.’  
+**Jonathan Romney, _Sight and Sound_, November 2024**
+<br><br>
 
-Jonathan Romney, _Sight and Sound_, November 2024
-
-<![endif]-->
-
-**NO OTHER LAND**
-
+**NO OTHER LAND**  
 _Directors_: Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor  
 _Production Companies_: Antipode Films, Yabayay  
-_Produced by_: Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor,  
-Fabien Greenberg, Bård Kjøge Rønning  
+_Produced by_: Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor,  Fabien Greenberg, Bård Kjøge Rønning  
 _Written by_: Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor  
 _Director of Photography_: Rachel Szor  
-_Editors_: Basel Adra, Hamdan Ballal,  
-Yuval Abraham, Rachel Szor  
+_Editors_: Basel Adra, Hamdan Ballal,  Yuval Abraham, Rachel Szor  
 _Music_: Julius Pollux Rothlaender
 
-Palestine-Norway 2024
-
-92 mins
-
+Palestine-Norway 2024  
+92 mins  
 Digital
 
 Courtesy of Dogwoof
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5MTUzNjddfQ==
+eyJoaXN0b3J5IjpbMjAzMDQ3ODI0NV19
 -->
