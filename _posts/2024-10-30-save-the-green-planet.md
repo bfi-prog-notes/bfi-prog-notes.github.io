@@ -20,32 +20,28 @@ This film’s originality stems from the freedom of an imagination that criss-cr
 **Not a superhero, just an average man**  
 Our main character Byung Gu is completely unlike any superhero. But he is still a hero. He does not process Superman’s cloak or Spiderman’s webs: all he has is a blind belief of mankind. And actually, outside of the movies, it is the job of ordinary people to keep peace on earth.
 
-**The ordinary is just a cover for the exceptional  
-**Hollywood-style science-fiction excels in showing off future worlds and virtual spaces created with the most advanced computer graphics. This science fiction film’s stylistic signature however, may be its emphasis on drama and emotional pitch.
+**The ordinary is just a cover for the exceptional**  
+Hollywood-style science-fiction excels in showing off future worlds and virtual spaces created with the most advanced computer graphics. This science fiction film’s stylistic signature however, may be its emphasis on drama and emotional pitch.
 
-A visual marker for the film’s unique imagination can be found in the Earth Defence Headquarters. From the outside, the home is like many a traditional home that can be found in the countryside of Korea. On the inside however, it is a fantastical mission control centre. Furthermore, through the use of suspenseful editing, inventive visuals and unusual sounds (à la Jean-Pierre Jeunet), the film delivers a peculiar brand of entertainment fantasy.
+A visual marker for the film’s unique imagination can be found in the Earth Defence Headquarters. From the outside, the home is like many a traditional home that can be found in the countryside of Korea. On the inside however, it is a fantastical mission control centre. Furthermore, through the use of suspenseful editing, inventive visuals and unusual sounds (à la Jean-Pierre Jeunet), the film delivers a peculiar brand of entertainment fantasy.  
 
-Original production notes
+**Original production notes**
+<br><br>
 
-<![endif]-->
-
-**SAVE THE GREEN PLANET! (JIGUREUL JIKYEORA!)**
-
+**SAVE THE GREEN PLANET! (JIGUREUL JIKYEORA!)**  
 _Director_: Jang Joon-hwan  
 _Production Company_: Sidus Corporation  
 _Presented by_: CJ Entertainment  
 _Presented in association with_: Sidus Corporation, Discovery Venture Capital  
 _Executive Producer_: Lee Kang-bok  
-_Co-executive producers_: Tcha Seung-jai,  
-Jung Hong-kyun  
+_Co-executive producers_: Tcha Seung-jai,  Jung Hong-kyun  
 _Producers_: Tcha Seung-jai, Noh Jong-yoon  
 _Co-producer_: Kim Sun-ah  
 _Line Producer_: Kim Dong-hwan  
 _Production Supervisor_: Seok Dong-joon  
 _Assistant Director_: Kim Jong-hoon  
 _Script Supervisor_: Roh Doek  
-_Casting_: Jun Hong-joo, Kim Kyung-rok,  
-Kim Sang-eun  
+_Casting_: Jun Hong-joo, Kim Kyung-rok,  Kim Sang-eun  
 _Screenplay_: Jang Joon-hwan  
 _Director of Photography_: Houng Gyung-pyo  
 _B Camera_: Cho Ki-young  
@@ -54,15 +50,12 @@ _CG Supervisor_: Jang Sung-ho
 _Matte Painting_: Yoo Ji-eun, Pyun Hyung-kyu  
 _Special Effects_: Demolition  
 _Special Effects Supervisor_: Jung Do-an  
-_Special Effects Directors_: Kim Tae-eui,  
-Yoo Young-il, Bang Sung-cheol  
+_Special Effects Directors_: Kim Tae-eui,  Yoo Young-il, Bang Sung-cheol  
 _Editor_: Park Gok-ji  
 _Location Editing_: Choi Chang-hwan, Cho Woon  
-_Production Designers_: Jang Geun-young,  
-Kim Gyung-hee  
+_Production Designers_: Jang Geun-young,  Kim Gyung-hee  
 _Art Director_: Lee Jeong-mi  
-_Wardrobe Supervisors_: Jang Geun-young,  
-Kim Gyung-hee  
+_Wardrobe Supervisors_: Jang Geun-young,  Kim Gyung-hee  
 _Key Make-up_: Lee Kyung-ja  
 _Special Make-up Effects_: Shin Jae-ho  
 _Music_: Lee Dong-joon  
@@ -73,8 +66,7 @@ _Sound Re-recording_: Choi Tae-young
 _Sound Editors_: Kang Hye-young, Lee Jae-hyeok  
 _Stunt Co-ordinators_: Kim Min-soo, Yoo Sang-seub, Action School
 
-_Cast:_
-
+**Cast**  
 Shin Ha-kyun _(Lee Byung Gu)_  
 Baek Yoon-sik _(President Kang Man-Shik)_  
 Hwang Jung-min _(Sooni)_  
@@ -111,16 +103,14 @@ Park Sung-ming _(Adam)_
 Mina _(Eve)_  
 Ah Min-jung _(girl on bus)_
 
-South Korea 2003
-
-118 mins
-
+South Korea 2003  
+118 mins  
 Digital 4K (restoration)
 
 **Contains scenes of graphic violence, implied domestic abuse and disturbing archive footage**
 
-Restored in 4K in 2018 by the  
-Korean Film Archive (KOFA)
+Restored in 4K in 2018 by the  Korean Film Archive (KOFA)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3MTMyOTZdfQ==
+eyJoaXN0b3J5IjpbNDY4NTQ5NTQ3XX0=
 -->
