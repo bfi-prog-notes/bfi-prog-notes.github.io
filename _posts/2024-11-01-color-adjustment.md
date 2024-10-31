@@ -6,17 +6,15 @@ date: 2024-11-01
 readtime: true
 categories: ['TEAR THIS BUILDING DOWN<br>JAMES BALDWIN ON FILM']
 tags: [Documentary]
-metadata: 'USA 1991, 90 mins<br> Director: <![endif]--> Marlon Riggs'
-pdf: '2024-10-26-i-am-not-your-negro.pdf'
+metadata: 'USA 1991, 90 mins<br> Director: Marlon Riggs'
+pdf: '2024-11-01-color-adjustment.pdf'
 ---
 
-This ground-breaking, critically acclaimed and Peabody Award-winning documentary, narrated by Ruby Dee, examines the representation of race in a selection of US television’s most popular shows, (including _Amos ’n’ Andy_,  
-_The Nat King Cole Show_, _Julia_, _Roots_ and _The Cosby Show_).
+This ground-breaking, critically acclaimed and Peabody Award-winning documentary, narrated by Ruby Dee, examines the representation of race in a selection of US television’s most popular shows, (including _Amos ’n’ Andy_, _The Nat King Cole Show_, _Julia_, _Roots_ and _The Cosby Show_).
 
 In his analysis, Riggs outlines a history of race conflict and asserts that African Americans were allowed into America’s prime-time family only insofar as their presence didn’t challenge the myths surrounding of the ‘American Dream’.
 
-This documentary features short clips of Bill Cosby in _The Cosby Show_.  
-A ground-breaking and historically important film, it was released in 1991, prior to the abuse allegations against Bill Cosby. Seeing him on screen may be upsetting to some viewers.  
+This documentary features short clips of Bill Cosby in _The Cosby Show_. A ground-breaking and historically important film, it was released in 1991, prior to the abuse allegations against Bill Cosby. Seeing him on screen may be upsetting to some viewers.  
 **bfi.org.uk**  
 
 When Marlon Riggs died on 5 April 1994, independent cinema lost the voice and vision of an important artist at the very moment when he was corning into his own. With three major documentary films behind him – _Ethnic Notions_ (1986), _Tongues Untied_ (1989) and _Color Adjustment_ (1992) – Riggs was working on an investigation into the cultural diversity of Black identities, _Black Is ... Black Ain’t_, when his life was cut short, at the age of 37, by Aids. Like so many other influential Black gay men of his generation – including critic James Snead, writer Joseph Beam and activist Craig Harris – Riggs’ death bears witness to a bitter tragedy: that the ‘talented tenth’ of queer negro artists and intellectuals, who have been in the vanguard of the renaissance of Black culture in the US and UK during the 80s and 90s, have helped create new forms of collective identity among Black lesbians and gay men and have achieved so much in displacing outmoded racial and sexual paradigms, are now menaced by the spectre of premature death.
@@ -106,5 +104,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjQ5NTI3MSwtMzk2MDU2NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODkyMjc1NzksLTM5NjA1Njc0XX0=
 -->
