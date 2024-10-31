@@ -10,8 +10,7 @@ metadata: 'USA/Canada 2022, 135 mins<br> Director: Gina Prince-Bythewood'
 pdf: '2024-11-01-woman-king.pdf'
 ---
 
-_+ intro by Rógan Graham, freelance writer and film programmer  
-(Friday 1 November only)_
+_+ intro by Rógan Graham, freelance writer and film programmer (Friday 1 November only)_
 
 Viola Davis is magnificent as General Nanisca, leader of the Agoji, the all-female army responsible for protecting the African Kingdom of Dahomey in the 1820s. With the increasing threat of slave traders, their importance becomes vital. Gina Prince-Bythewood balances powerhouse performances with stunning fight sequences as she revitalises the historical epic, weaving into it the passion and rich layers of emotion that are integral to all her work.  
 **Kimberley Sheehan, bfi.org.uk**  
