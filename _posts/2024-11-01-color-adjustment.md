@@ -55,6 +55,49 @@ David L. Wolper
 USA 1991  
 90 mins  
 Digital  
+<br>
+**TEAR THIS BUILDING DOWN: JAMES BALDWIN ON FILM**  
+**Go Tell It on the Mountain**  
+Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)  
+**If Beale Street Could Talk**  
+Tue 22 Oct 14:30;  Fri 22 Nov 20:40; Sat 30 Nov 17:50  
+**I Heard It through the Grapevine**<br>
+Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
+**A Raisin in the Sun**<br>
+Sat 26 Oct 15:30;  Sat 9 Nov 18:10; Thu 28 Nov 20:30<br>
+**I Am Not Your Negro**<br>
+Sat 26 Oct 20:35;  Sat 9 Nov 15:30; Thu 21 Nov 18:30<br>
+**Color Adjustment**<br>
+Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
+**James Baldwin: The Price of the Ticket**<br>
+Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
+
+**With thanks to**<br>
+Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at BFI Southbank
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjY2NTg5NSwtMzk2MDU2NzRdfQ==
+eyJoaXN0b3J5IjpbMTMxNDAyODY3NiwtMzk2MDU2NzRdfQ==
 -->
