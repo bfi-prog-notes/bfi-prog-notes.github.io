@@ -1,6 +1,6 @@
 
 
-<![endif]-->
+
 
 This ground-breaking, critically acclaimed and Peabody Award-winning documentary, narrated by Ruby Dee, examines the representation of race in a selection of US television’s most popular shows, (including _Amos ’n’ Andy_,  
 _The Nat King Cole Show_, _Julia_, _Roots_ and _The Cosby Show_).
@@ -8,9 +8,8 @@ _The Nat King Cole Show_, _Julia_, _Roots_ and _The Cosby Show_).
 In his analysis, Riggs outlines a history of race conflict and asserts that African Americans were allowed into America’s prime-time family only insofar as their presence didn’t challenge the myths surrounding of the ‘American Dream’.
 
 This documentary features short clips of Bill Cosby in _The Cosby Show_.  
-A ground-breaking and historically important film, it was released in 1991, prior to the abuse allegations against Bill Cosby. Seeing him on screen may be upsetting to some viewers.
-
-bfi.org.uk
+A ground-breaking and historically important film, it was released in 1991, prior to the abuse allegations against Bill Cosby. Seeing him on screen may be upsetting to some viewers.  
+**bfi.org.uk**  
 
 When Marlon Riggs died on 5 April 1994, independent cinema lost the voice and vision of an important artist at the very moment when he was corning into his own. With three major documentary films behind him – _Ethnic Notions_ (1986), _Tongues Untied_ (1989) and _Color Adjustment_ (1992) – Riggs was working on an investigation into the cultural diversity of Black identities, _Black Is ... Black Ain’t_, when his life was cut short, at the age of 37, by Aids. Like so many other influential Black gay men of his generation – including critic James Snead, writer Joseph Beam and activist Craig Harris – Riggs’ death bears witness to a bitter tragedy: that the ‘talented tenth’ of queer negro artists and intellectuals, who have been in the vanguard of the renaissance of Black culture in the US and UK during the 80s and 90s, have helped create new forms of collective identity among Black lesbians and gay men and have achieved so much in displacing outmoded racial and sexual paradigms, are now menaced by the spectre of premature death.
 
@@ -61,18 +60,18 @@ Digital
 Mon 21 Oct 20:30; Fri 22 Nov 18:10 (+ intro)  
 **If Beale Street Could Talk**  
 Tue 22 Oct 14:30;  Fri 22 Nov 20:40; Sat 30 Nov 17:50  
-**I Heard It through the Grapevine**<br>
-Thu 24 Oct 20:40; Sun 3 Nov 13:30<br>
-**A Raisin in the Sun**<br>
-Sat 26 Oct 15:30;  Sat 9 Nov 18:10; Thu 28 Nov 20:30<br>
-**I Am Not Your Negro**<br>
-Sat 26 Oct 20:35;  Sat 9 Nov 15:30; Thu 21 Nov 18:30<br>
-**Color Adjustment**<br>
-Fri 1 Nov 20:55; Mon 4 Nov 18:10<br>
-**James Baldwin: The Price of the Ticket**<br>
-Fri 8 Nov 18:15; Mon 18 Nov 20:35<br>
+**I Heard It through the Grapevine**  
+Thu 24 Oct 20:40; Sun 3 Nov 13:30  
+**A Raisin in the Sun**  
+Sat 26 Oct 15:30;  Sat 9 Nov 18:10; Thu 28 Nov 20:30  
+**I Am Not Your Negro**  
+Sat 26 Oct 20:35;  Sat 9 Nov 15:30; Thu 21 Nov 18:30  
+**Color Adjustment**  
+Fri 1 Nov 20:55; Mon 4 Nov 18:10  
+**James Baldwin: The Price of the Ticket**  
+Fri 8 Nov 18:15; Mon 18 Nov 20:35  
 
-**With thanks to**<br>
+**With thanks to**  
 Special thanks to the African Odysseys steering committee, whose support has enabled audiences to enjoy 17 years of Black film programming at BFI Southbank
 <br><br>
 
@@ -99,5 +98,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDAyODY3NiwtMzk2MDU2NzRdfQ==
+eyJoaXN0b3J5IjpbMTI5NjQ3MjAzLC0zOTYwNTY3NF19
 -->
