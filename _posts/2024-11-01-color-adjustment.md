@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Color Adjustment
+published: true
+date: 2024-11-01
+readtime: true
+categories: ['TEAR THIS BUILDING DOWN<br>JAMES BALDWIN ON FILM']
+tags: [Documentary]
+metadata: 'USA 1991, 90 mins<br> Director: <![endif]--> Marlon Riggs'
+pdf: '2024-10-26-i-am-not-your-negro.pdf'
+---
 
 This ground-breaking, critically acclaimed and Peabody Award-winning documentary, narrated by Ruby Dee, examines the representation of race in a selection of US television’s most popular shows, (including _Amos ’n’ Andy_,  
 _The Nat King Cole Show_, _Julia_, _Roots_ and _The Cosby Show_).
@@ -98,5 +106,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjQ3MjAzLC0zOTYwNTY3NF19
+eyJoaXN0b3J5IjpbLTU3MjQ5NTI3MSwtMzk2MDU2NzRdfQ==
 -->
