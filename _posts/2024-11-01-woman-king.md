@@ -6,10 +6,9 @@ date: 2024-11-01
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [Action]
-metadata: 'France 1998, 8 mins<br> Director: <![endif]--> Gina Prince-Bythewood'
+metadata: 'USA/Canada 2022, 135 mins<br> Director: Gina Prince-Bythewood'
 pdf: '2024-11-01-woman-king.pdf'
 ---
-
 
 _+ intro by Rógan Graham, freelance writer and film programmer  
 (Friday 1 November only)_
@@ -171,5 +170,5 @@ AzNDYyMDFdfQ==
 -->
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODEzOTQ2XX0=
+eyJoaXN0b3J5IjpbMTcyOTg2MTY4OF19
 -->
