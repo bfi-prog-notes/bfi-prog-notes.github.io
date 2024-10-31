@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Woman King
+published: true
+date: 2024-11-01
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
+tags: [Action]
+metadata: 'France 1998, 8 mins<br> Director: <![endif]--> Gina Prince-Bythewood'
+pdf: '2024-11-01-woman-king.pdf'
+---
 
 
 _+ intro by Rógan Graham, freelance writer and film programmer  
@@ -70,9 +80,8 @@ Digital 4K
 <br>
 
 **ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
-<![endif]-->
 
-**Woman Kings**  
+**Woman Kings**
 
 **The Woman King**  
 Fri 1 Nov 18:00 (+ intro); Sat 30 Nov 20:10  
@@ -92,6 +101,7 @@ Sat 23 Nov 20:45
 Tue 26 Nov 20:50  
 
 **Big Screen Classics: The History of Action**  
+
 **Safety Last! + One Week**  
 Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov  
 **Mad Max 2: The Road Warrior**  
@@ -161,5 +171,5 @@ AzNDYyMDFdfQ==
 -->
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTM3NjM4OV19
+eyJoaXN0b3J5IjpbNzY5ODEzOTQ2XX0=
 -->
