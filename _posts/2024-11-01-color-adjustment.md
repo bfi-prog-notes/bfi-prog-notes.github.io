@@ -24,45 +24,27 @@ In the deconstruction of 150 years of racial stereotyping that he undertook in h
 In _Color Adjustment_, which examines primetime television portrayals of Blacks, Riggs brought to light hidden continuities, from blackface minstrels to squeaky-clean sitcom respectability, in the fears and fantasies Black images are made to represent. Advertisers boycotted _The Nat King Cole Show_ in the late 50s on the grounds that the sight of a charming and intelligent Black man might alienate middle-class white families, who were precisely the target demographic sought by the neo-conservative _The Cosby Show_ in the Reaganite 80s. That _Color Adjustment_ won US television’s highest accolade, a George Foster Peabody Award, is an acknowledgment of the insight and impact of Riggs' analytical interventions.  
 **Kobena Mercer, _Sight and Sound_, August 1994**  
 <br>
-<![endif]-->
 
-**Color Adjustment**
-
+**COLOR ADJUSTMENT**  
 _Director_: Marlon Riggs  
-_Producers_: Vivian Kleiman, Marlon Riggs
+_Producers_: Vivian Kleiman, Marlon Riggs  
+_Writer:_ Marlon Riggs  
+_Cinematographers:_ Michael Anderson, Rick Butler, Robert Shepard  
+_Editor:_ Deborah Hoffmann  
+_Composer:_ Mary Watkins  
+_Narrator:_ Ruby Dee  
 
-_Writer:_ Marlon Riggs
-
-_Cinematographers:_ Michael Anderson, Rick Butler, Robert Shepard
-
-_Editor:_ Deborah Hoffmann
-
-_Composer:_ Mary Watkins
-
-_Narrator:_ Ruby Dee
-
-_With:_
-
-Steven Bochco
-
-Diahann Carroll
-
-Henry Louis Gates Jr
-
-Herman Gray
-
-Bob Henry
-
-Hal Kanter
-
-Norman Lear
-
-Sheldon Leonard
-
-Denise Nicholas
-
-Bruce Paltrow
-
+**With**  
+Steven Bochco  
+Diahann Carroll  
+Henry Louis Gates Jr  
+Herman Gray  
+Bob Henry  
+Hal Kanter  
+Norman Lear  
+Sheldon Leonard  
+Denise Nicholas  
+Bruce Paltrow  
 Alvin F. Poussaint  
 Daphne Reid  
 Tim Reid  
@@ -74,5 +56,5 @@ USA 1991
 90 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjA1Njc0XX0=
+eyJoaXN0b3J5IjpbMTA4NjY2NTg5NSwtMzk2MDU2NzRdfQ==
 -->
