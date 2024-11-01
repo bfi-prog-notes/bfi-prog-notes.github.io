@@ -94,119 +94,64 @@ _Music:_ Agio Pereira<br>
 _Title Music:_ Steven Faux<br>
 _Sound:_ Ian Sherry, Caleb Mose, Mel Marr<br>
 _Dubbing Mixer:_ Paul Roberts<br>
-_Archives:_ Yorkshire Television Ltd, Radiotelevisão Portuguesa, Channel 7 Studios (Melbourne), Nine Network, Australian Broadcasting Corporation, ITN,
-
-New Zealand Television Archive<br>
-
+_Archives:_ Yorkshire Television Ltd, Radiotelevisão Portuguesa, Channel 7 Studios (Melbourne), Nine Network, Australian Broadcasting Corporation, ITN, New Zealand Television Archive<br>
 _Special Thanks:_ Carmel Budiarjdo, Ines Almeida, Liem Soei Liong, Estevao Cabral, Michele Turner, Steve Cox, Arnold Kohen, James Dunn, John Taylor, Pat Walsh, Max Lane, Robert Domm, Mark Aarons, Bruce Juddery, Mark Curtis, Janet Rayner<br>
-
 _Presented by:_ John Pilger<br>
 
-_With:_<br>
-
+**With**<br>
 Alan Clark _(ex Defence Minister)_<br>
-
 “Estevao” _(interviewee)_<br>
-
 Ines Almeida, Abel Guterres _(Timorese exiles)_<br>
-
 Jose Ramos Horta _(Foreign Minister in exile)_<br>
-
-Richard Woolcott  
-_(ex Australian Ambassador to Indonesia)_<br>
-
-James Dunn  
-_(ex Australian Consul in East Timor)_<br>
-
+Richard Woolcott  _(ex Australian Ambassador to Indonesia)_<br>
+James Dunn  _(ex Australian Consul in East Timor)_<br>
 Shirley Shackleton _(interviewee)_<br>
-
-C. Philip Liechty  
-_(Senior CIA officer, Indonesia, 1975)_<br>
-
+C. Philip Liechty  _(Senior CIA officer, Indonesia, 1975)_<br>
 Natalina Horta _(interviewee)_<br>
-
 Fatima Gusmão _(Timorese exile)_<br>
-
 “Delfin” _(Timorese resistance fighter)_<br>
-
 “Cristiano” _(interviewee)_<br>
-
 Dr Mario Soares _(President of Portugal)_<br>
-
-Nugroho Wisnumurti  
-_(Indonesian Ambassador to the U.N.)_<br>
-
+Nugroho Wisnumurti  _(Indonesian Ambassador to the U.N.)_<br>
 Sir Alan Thomas _(Head of Defence Sales)_<br>
-
 Jose Gusmão _(Timorese exile)_<br>
-
-Konis Santana  
-_(commander, Timorese resistance forces)_<br>
-
+Konis Santana  _(commander, Timorese resistance forces)_<br>
 Jose Amorin _(Timorese exile)_<br>
-
-Gareth Evans  
-_(Australian Foreign Affairs Minister)_<br>
-
+Gareth Evans  _(Australian Foreign Affairs Minister)_<br>
 Constancio Pinto _(Timorese exile)_<br>
-
 “Jose”, “Carlos”, “Jao” _(interviewees)_<br>
-
-Archie Hamilton  
-_(archive footage: Armed Forces Minister)_<br>
+Archie Hamilton  _(archive footage: Armed Forces Minister)_<br>
 
 ITV tx 22.2.1994<br>
-
 76 mins<br>
 <br>
 
 **PALESTINE IS STILL THE ISSUE (2002)**<br>
-
 _Director_: Tony Stark  
 _Production Company_: Carlton Television  
 _Executive Producer_: Polly Bide  
 _Producer_: Christopher Martin
-
 _Written and Reported by:_ John Pilger<br>
-
 _This film was inspired by Amira Haas’ book ‘Drinking the Sea at Gaza’_<br>
-
 _Production Manager:_ Lynn Hodgkinson<br>
-
 _Location Fixers:_ Khamis Golani, Nidal Rafa, Taghreed El Khodary  
 _Cinematographer_: Preston Clothier<br>
-
 _Rostrum & Graphics:_ Chris Shelley<br>
-
 _Archive Consultant:_ James Barker<br>
-
-_Archive Film:_ British Movietonews Library,  
-CBS Television, Imperial War Museum,  
-ITN Archive, US National Archives<br>
-
-_Still Photographs:_ John Garrett,  
-John Tordai, Reuters<br>
-
+_Archive Film:_ British Movietonews Library,  CBS Television, Imperial War Museum,  ITN Archive, US National Archives<br>
+_Still Photographs:_ John Garrett,  John Tordai, Reuters<br>
 _Editor:_ Joe Frost<br>
-
 _On Line Editor:_ Michael Sanders<br>
-
 _Composer:_ Mitch Dalton  
 _Sound Recordist_: Grant Roberts<br>
-
 _Dubbing Mixer:_ Damian Reynolds<br>
-
 _Consultants:_ Neil Sammonds, Graham Usher<br>
-
-_Special Thanks:_ Anthony Arnove, Chris Doyle, Gill Fenwick, Katherine Grincell,  
-Ne’ev Gordon, Laurelle Keough, Peretz Kidron, Nasser Jarallah, Nick Lockett, Nili Aslan, Physicians for Human Rights (Israel), Greg Philo, Edward Said, Pat Smith<br>
+_Special Thanks:_ Anthony Arnove, Chris Doyle, Gill Fenwick, Katherine Grincell,  Ne’ev Gordon, Laurelle Keough, Peretz Kidron, Nasser Jarallah, Nick Lockett, Nili Aslan, Physicians for Human Rights (Israel), Greg Philo, Edward Said, Pat Smith<br>
 
 ITV tx 16.9.2002<br>
-
 53 mins<br>
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIwOTIzOTQsLTE4MTE1MDkwODddfQ
-==
+eyJoaXN0b3J5IjpbMTE1MzQxNjgzMCwtMTgxMTUwOTA4N119
 -->
