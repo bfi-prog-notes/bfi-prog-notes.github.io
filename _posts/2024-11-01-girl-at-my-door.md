@@ -20,6 +20,7 @@ When reading the script, Kim Sae-ron quickly understood that the role of Dohee w
 _Your film was presented exclusively at the Cannes Festival: how do you analyse the first reactions of the audience?_
 
 At first, I was convinced that I had only written a short story set in a village in South Korea. I was really not sure of the impact it would have on viewers. When I heard the applause from the audience, I told myself that I had succeeded in conveying a message. I was surprised, but above all very happy.
+<br>
 
 **Bae Doona on ‘A Girl at My Door’**
 
@@ -39,12 +40,10 @@ _In your opinion, is the fact that Young-nam is homosexual an aggravating factor
 
 Young-nam’s homosexuality characterises her in the eyes of those around her. Personally, if I had been in her place, I don’t think I would have tried to hide it as much as she does. But given her profession, the fact that she has difficulty assuming her sexual identity contributes strongly to her physical and psychological isolation. The fact that she hides herself to drink is directly linked to this. In a way, it is her relationship with Dohee that allows her to free herself from the gaze of others, from the prejudices that weigh on her and, consequently, to be less afraid.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**A GIRL AT MY DOOR (DOHEE-YA)**
-
+**A GIRL AT MY DOOR (DOHEE-YA)**  
 _Directed by_: July Jung  
 ©: Pinehouse Film Co. Ltd., Nowfilm Co. Ltd.  
 _A_ Pinehouse_,_ Now Films _production_  
@@ -59,19 +58,17 @@ _Costume Design_: Kim Ha Kyung
 _Music_: Jang Younggyu  
 _Sound Recording_: Kim Hyun Sang
 
-_Cast:_
-
+**Cast**  
 Bae Doona _(Young-nam)_  
 Kim Sae-ron _(Dohee)_  
 Song Sae-byeok _(Yong-ha)_
 
-South Korea 2014©
-
-119 mins
-
+South Korea 2014©  
+119 mins  
 Digital
 
 The screening on Mon 11 Nov will be introduced by Professor Jinhee Choi, King’s College London
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYwNDU2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg2NjM1NzRdfQ==
 -->
