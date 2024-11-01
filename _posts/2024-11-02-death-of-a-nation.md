@@ -1,8 +1,5 @@
-<![endif]-->
 
-**John Pilger introduced his 1994 East Timor film at BFI Southbank  
-as follows:**
-
+**John Pilger introduced his 1994 East Timor film at BFI Southbank  as follows:**  
 At Stanfords in London’s Covent Garden, reputedly the best map shop in the world, I asked for a map of the island of Timor.
 
 ‘Timor?’ said a hesitant sales assistant. ‘Would you please come with me?’  
@@ -30,11 +27,11 @@ One of many courageous Timorese interviewed, Antonio (a pseudonym), said: ‘The
 
 Not surprisingly, the Indonesian Government does not welcome television cameras to occupied East Timor. In 1975 its troops murdered six foreign newsmen, including two television crews and two Britons. According to Amnesty International, the regime maintains a blacklist of 33,000 people banned from entering and leaving the country. With this in mind, director David Munro and I planned our filming with care, and a little enterprise. We considered a number of slightly eccentric subterfuges. Priests was one rejected early, followed by ornithologists, although we did acquire the latest volume of _Birds of Borneo, Java and Bali_. This was overtaken by ‘travel consultants’. A London travel agency provided us with documents that lauded our business acumen.
 
-David and I flew out first, followed by a voluntary aid worker and cameraman Max Stahl. We each had a tiny Hi-8 video camera, which could operate through a gauze screen in a shoulder bag. We reckoned that two of us would be caught, probably David and myself; but none of us was. Our video tape was sent out through the resistance network and carried out by David and myself, taped to our legs and crotches. Of course, the greatest risk was borne by those Timorese who were interviewed in East Timor. None is identified in our film; and we have arranged for the most vulnerable to escape the country. That our filming succeeded at all is a tribute to a remarkable people who, after 18 years of horror, remain, in their hearts, undefeated.
+David and I flew out first, followed by a voluntary aid worker and cameraman Max Stahl. We each had a tiny Hi-8 video camera, which could operate through a gauze screen in a shoulder bag. We reckoned that two of us would be caught, probably David and myself; but none of us was. Our video tape was sent out through the resistance network and carried out by David and myself, taped to our legs and crotches. Of course, the greatest risk was borne by those Timorese who were interviewed in East Timor. None is identified in our film; and we have arranged for the most vulnerable to escape the country. That our filming succeeded at all is a tribute to a remarkable people who, after 18 years of horror, remain, in their hearts, undefeated.  
+**John Pilger, _Radio Times_, 19 February 1994**
 
-John Pilger, _Radio Times_, 19 February 1994
-
-**_Death of a Nation_** **played a key role in bringing the plight of the Timorese people under occupation to the world’s attention. After East Timor finally gained formal independence from Indonesia in 2002, John Pilger was awarded the Order of Timor-Leste, the country’s highest honour, in recognition of the importance of his work.**
+_Death of a Nation_ played a key role in bringing the plight of the Timorese people under occupation to the world’s attention. After East Timor finally gained formal independence from Indonesia in 2002, John Pilger was awarded the Order of Timor-Leste, the country’s highest honour, in recognition of the importance of his work.
+<br><br>
 
 **Palestine Is Still the Issue (2002)**
 
@@ -85,7 +82,156 @@ People like myself hoped that at least in Britain, unlike other parts of the wor
 
 23 September 2002
 
+<![endif]-->
+
+**DEATH OF A NATION: THE TIMOR CONSPIRACY  
+**_Director:_ David Munro
+
+©_/Production Company:_  
+Central Independent Television
+
+_Producer:_ David Munro
+
+_Timor Co-producer:_ Max Stahl
+
+_Associate Producers:_ Gill Scrine,  
+Ana de Juan
+
+_Production Secretary:_ Tracy Whitehouse
+
+_Written by:_ John Pilger
+
+_Photography:_ Max Stahl, Preston Clothier,  
+Simon Fanthorpe, Bob Bolt, David Munro
+
+_Rostrum Photography:_ Frameline
+
+_Graphics:_ Frameline
+
+_Editor:_ Joe Frost
+
+_On-line Editors:_ Tony Raffe, Allan Ford
+
+_Titles:_ Look
+
+_Music:_ Agio Pereira
+
+_Title Music:_ Steven Faux
+
+_Sound:_ Ian Sherry, Caleb Mose, Mel Marr
+
+_Dubbing Mixer:_ Paul Roberts
+
+_Archives:_ Yorkshire Television Ltd, Radiotelevisão Portuguesa, Channel 7 Studios (Melbourne), Nine Network, Australian Broadcasting Corporation, ITN,
+
+New Zealand Television Archive
+
+_Special Thanks:_ Carmel Budiarjdo, Ines Almeida, Liem Soei Liong, Estevao Cabral, Michele Turner, Steve Cox, Arnold Kohen, James Dunn, John Taylor, Pat Walsh, Max Lane, Robert Domm, Mark Aarons, Bruce Juddery, Mark Curtis, Janet Rayner
+
+_Presented by:_ John Pilger
+
+_With:_
+
+Alan Clark _(ex Defence Minister)_
+
+“Estevao” _(interviewee)_
+
+Ines Almeida, Abel Guterres _(Timorese exiles)_
+
+Jose Ramos Horta _(Foreign Minister in exile)_
+
+Richard Woolcott  
+_(ex Australian Ambassador to Indonesia)_
+
+James Dunn  
+_(ex Australian Consul in East Timor)_
+
+Shirley Shackleton _(interviewee)_
+
+C. Philip Liechty  
+_(Senior CIA officer, Indonesia, 1975)_
+
+Natalina Horta _(interviewee)_
+
+Fatima Gusmão _(Timorese exile)_
+
+“Delfin” _(Timorese resistance fighter)_
+
+“Cristiano” _(interviewee)_
+
+Dr Mario Soares _(President of Portugal)_
+
+Nugroho Wisnumurti  
+_(Indonesian Ambassador to the U.N.)_
+
+Sir Alan Thomas _(Head of Defence Sales)_
+
+Jose Gusmão _(Timorese exile)_
+
+Konis Santana  
+_(commander, Timorese resistance forces)_
+
+Jose Amorin _(Timorese exile)_
+
+Gareth Evans  
+_(Australian Foreign Affairs Minister)_
+
+Constancio Pinto _(Timorese exile)_
+
+“Jose”, “Carlos”, “Jao” _(interviewees)_
+
+Archie Hamilton  
+_(archive footage: Armed Forces Minister)_
+
+ITV tx 22.2.1994
+
+76 mins
+
+**PALESTINE IS STILL THE ISSUE (2002)**
+
+_Director_: Tony Stark  
+_Production Company_: Carlton Television  
+_Executive Producer_: Polly Bide  
+_Producer_: Christopher Martin
+
+_Written and Reported by:_ John Pilger
+
+_This film was inspired by Amira Haas’ book ‘Drinking the Sea at Gaza’_
+
+_Production Manager:_ Lynn Hodgkinson
+
+_Location Fixers:_ Khamis Golani, Nidal Rafa, Taghreed El Khodary  
+_Cinematographer_: Preston Clothier
+
+_Rostrum & Graphics:_ Chris Shelley
+
+_Archive Consultant:_ James Barker
+
+_Archive Film:_ British Movietonews Library,  
+CBS Television, Imperial War Museum,  
+ITN Archive, US National Archives
+
+_Still Photographs:_ John Garrett,  
+John Tordai, Reuters
+
+_Editor:_ Joe Frost
+
+_On Line Editor:_ Michael Sanders
+
+_Composer:_ Mitch Dalton  
+_Sound Recordist_: Grant Roberts
+
+_Dubbing Mixer:_ Damian Reynolds
+
+_Consultants:_ Neil Sammonds, Graham Usher
+
+_Special Thanks:_ Anthony Arnove, Chris Doyle, Gill Fenwick, Katherine Grincell,  
+Ne’ev Gordon, Laurelle Keough, Peretz Kidron, Nasser Jarallah, Nick Lockett, Nili Aslan, Physicians for Human Rights (Israel), Greg Philo, Edward Said, Pat Smith
+
+ITV tx 16.9.2002
+
+53 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE1MDkwODddfQ==
+eyJoaXN0b3J5IjpbMzU5MTExMDMxLC0xODExNTA5MDg3XX0=
 -->
