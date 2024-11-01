@@ -105,16 +105,14 @@ Tin Welch _(Ruckley)_
 Saul Zaentz _(captain on shore)_ *  
 Anjelica Huston _(woman waving from shore)_ *
 
-USA 1975©
-
-133 mins
-
+USA 1975©  
+133 mins  
 Digital
 
-* Uncredited
+*Uncredited
 
-**Contains racist and sexist language and outdated depictions of people with  
-mental health issues**
+**Contains racist and sexist language and outdated depictions of people with  mental health issues**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQ4ODg1OV19
+eyJoaXN0b3J5IjpbOTM2NjA4MDQ3XX0=
 -->
