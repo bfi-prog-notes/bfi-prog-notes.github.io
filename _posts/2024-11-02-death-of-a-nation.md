@@ -33,12 +33,10 @@ David and I flew out first, followed by a voluntary aid worker and cameraman Max
 _Death of a Nation_ played a key role in bringing the plight of the Timorese people under occupation to the world’s attention. After East Timor finally gained formal independence from Indonesia in 2002, John Pilger was awarded the Order of Timor-Leste, the country’s highest honour, in recognition of the importance of his work.
 <br><br>
 
-**Palestine Is Still the Issue (2002)**
-
+**Palestine Is Still the Issue (2002)**  
 Some 28 years after his first film in Palestine, writer and presenter Pilger used the same title to emphasise how little had changed for the people ofGaza and the occupied West Bank. The film bringshome their suffering and that of Israelis who had also lost loved ones.Pilger had long called for a two-state solution – something that, towards the end of his life, he felt was unlikely to be achieved.
 
-**John Pilger: Why my film is under fire (2002)**
-
+**John Pilger: Why my film is under fire (2002)**  
 An unforeseen threat to freedom of speech in British broadcasting emerged last week. It was triggered by the showing of my documentary, _Palestine Is Still the Issue_, on ITV. The film told a basic truth that is routinely relegated, even suppressed – that a historic injustice has been done to the Palestinian people, and until Israel’s illegal and brutal occupation ends, there will be no peace for anyone, Israelis included.
 
 Most of the film allowed people to tell their eyewitness stories, both Palestinians and Israelis. What was unusual was that it disclosed in detail the daily humiliation and cultural denigration of the Palestinians, including a sequence showing excrement smeared by Israeli soldiers in a room of children’s paintings. The film was accurate, restrained and fair; the longest interview was with an Israeli government spokesman. Every word and frame was subjected to a legal examination for accuracy and to ensure it complied with the fairness regulations in the Broadcasting Act.
@@ -61,15 +59,11 @@ The selective use of language is striking, says the study. Words such as ‘murd
 
 For years, journalists have complained about Zionist hate mail and the pressure of the ‘regular call from the Israeli embassy’ to current affairs editors. This can take a subtle form: pressure is applied to correspondents in Jerusalem, who then shape their reports accordingly in the interests of what they tell themselves is ‘balance’, but is, in effect, censorship by omission. The system gets the Israelis off their backs and ‘makes life bearable’.
 
-If Michael Green and his vociferous friends succeed in intimidating ITV and the Independent Television Commission, the freedom of broadcasters to be more than mere channellers of ‘official truth’ and to offer viewers suppressed facts and a true diversity of perspective will be destroyed. No matter how big and powerful the corporate media, journalists and broadcasters have a duty to resist on behalf of the public we are meant to serve.
+If Michael Green and his vociferous friends succeed in intimidating ITV and the Independent Television Commission, the freedom of broadcasters to be more than mere channellers of ‘official truth’ and to offer viewers suppressed facts and a true diversity of perspective will be destroyed. No matter how big and powerful the corporate media, journalists and broadcasters have a duty to resist on behalf of the public we are meant to serve.  
+**John Pilger, _The Guardian_, 23 September 2002**  
+<br>
 
-John Pilger, _The Guardian_, 23 September 2002  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-**Professor Ilan Pappé’s letter to _The Independent_ regarding its coverage of  
-‘Palestine Is Still the Issue’**
-
+**Professor Ilan Pappé’s letter to _The Independent_ regarding its coverage of  ‘Palestine Is Still the Issue’**  
 Sir: The Western media coverage of the Palestine conflict tended for years to accept the Israeli interpretation of Palestine’s history. This is of course a biased presentation of the Palestine question, based on an insistence that the conflict is a complicated affair that can only be deciphered by the Israelis themselves.
 
 There are parts of the conflict’s history which are indeed complex and it will not be simple to solve it. But as _Palestine Is Still the Issue_, John Pilger’s excellent film, shows us there are two crystal-clear facts that cannot be obscured by propaganda and bias: in 1948 Israel ethnically cleansed Palestine to make room for itself and as a result took over 78 per cent of Mandatory Palestine; secondly, in 1967 Israel imposed a brutal and callous occupation over the remaining 22 per cent of the land, the West Bank and the Gaza Strip. From 1993 until 2000 some parts of these 22 per cent were placed under indirect occupation, but even that is now history: the West Bank is fully reoccupied and the Gaza Strip turned into a huge prison camp, guarded by the Israeli military forces, surrounded by an electric fence.
@@ -78,19 +72,17 @@ In his admirable and balanced film, John Pilger showed us these two simple facts
 
 Criticism of such a film is of course legitimate and can even be constructive. However, the response of Carlton’s chairperson, as reported in your article ‘Carlton chairman criticises its own documentary on Israel’ (20 September), and that of the Jewish Board of Deputies was of a completely different kind. It was meant to delegitimise any attempt, in the electronic or printed media, to expose in full the horrors of the Israeli occupation of Palestine.
 
-People like myself hoped that at least in Britain, unlike other parts of the world, freedom of expression would be respected. God forbid, if even in Britain one cannot tell the truth about Palestine, or report the abuses of civil and human rights wherever they occur.
+People like myself hoped that at least in Britain, unlike other parts of the world, freedom of expression would be respected. God forbid, if even in Britain one cannot tell the truth about Palestine, or report the abuses of civil and human rights wherever they occur.  
+**23 September 2002**
+<br><br>
 
-23 September 2002
-
-<![endif]-->
-
-**DEATH OF A NATION: THE TIMOR CONSPIRACY  
-**_Director:_ David Munro
+**DEATH OF A NATION: THE TIMOR CONSPIRACY**<br>
+_Director:_ David Munro<br>
 
 ©_/Production Company:_  
-Central Independent Television
+Central Independent Television<br>
 
-_Producer:_ David Munro
+_Producer:_ David Munro<br>
 
 _Timor Co-producer:_ Max Stahl
 
@@ -233,5 +225,6 @@ ITV tx 16.9.2002
 53 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MTExMDMxLC0xODExNTA5MDg3XX0=
+eyJoaXN0b3J5IjpbLTE2NzI1NzQxODYsLTE4MTE1MDkwODddfQ
+==
 -->
