@@ -37,7 +37,7 @@ _Music_: Jacobo Lieberman, Leonardo Heiblum
 _Sound Design_: Matías Barberis  
 _Direct Sound_: Raúl Locatelli
 
-_Cast
+**Cast**  
 Brandon López _(Juan)_  
 Rodolfo Domínguez _(Chauk)_  
 Karen Martínez _(Sara)_  
@@ -50,11 +50,10 @@ Gilberto Barraza _(Coyote)_
 Juan Carlos Medellin, Salvador Ramírez Jiménez _(policemen)_  
 José Concepción Macías _(Jacinto)_
 
-Mexico-Spain-Germany-USA 2013
-
-108 mins
-
+Mexico-Spain-Germany-USA 2013  
+108 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYyNTMyNjJdfQ==
+eyJoaXN0b3J5IjpbLTU4NTEzNjkzXX0=
 -->
