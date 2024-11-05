@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Golden Dream
+published: true
+date: 2024-11-05
+readtime: true
+categories: ['HIDDEN TRUTHS<br>JOHN PILGER AND THE POWER OF DOCUMENTARY']
+tags: [Drama]
+metadata: 'Mexico-Spain-Germany-USA 2013, 108 mins<br> Director: Diego Quemada-Díez'
+pdf: '2024-11-05-golden-dream.pdf'
+---
 
 Ken Loach’s influence may not be so prevalent in current UK filmmaking, but turn to the Spanish-speaking world and he remains a key reference point for a number of directors forging tough, angry, social-realist works in which politics are clearly worn on the sleeve. Fernando León de Aranoa’s _Mondays in the Sun_ (2002), for example, followed _Raining Stones_ (1993) in capturing the frustration of jobless men trying to retain their dignity in the face of long-term unemployment brought about by the collapse of industries previously serviced by working-class urban communities. Indeed, much of the Spanish director’s subsequent trajectory can be mapped to concerns that have similarly informed Loach’s cinema. Icíar Bollaín – who played the fervent militia combatant Maite in _Land and Freedom_ (1995) – is perhaps the most visible Spanish exponent of Loach’s approach, prioritising location shooting, quotidian settings, continuity filming and extensive preparatory research in a body of six films that includes _Even the Rain_ (2010), scripted by her partner, and Loach regular, Paul Laverty.
 
@@ -54,6 +65,67 @@ Mexico-Spain-Germany-USA 2013
 108 mins  
 Digital
 <br><br>
+
+**HIDDEN TRUTHS:  JOHN PILGER AND THE  POWER OF DOCUMENTARY**<br>
+**Seniors’ Free Talk: The Quiet Mutiny + intro and Q&A with author Anthony Hayward**<br>
+Mon 28 Oct 11:45<br>
+**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward**<br>
+Mon 28 Oct 14:00<br>
+**The Pilger Effect**<br>
+Mon 28 Oct 18:15<br>
+**The War You Don’t See**<br>
+Mon 28 Oct 20:35; Sat 16 Nov 18:10<br>
+**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue**<br> Sat 2 Nov 15:00<br>
+**The Golden Dream** La Jaula De Oro<br>
+Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30<br>
+**Lousy Little Sixpence + Utopia**<br>
+Sun 10 Nov 14:50<br>
+**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror**<br>
+Mon 18 Nov 18:10<br>
+**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World**<br>
+Sat 23 Nov 17:45<br>
+**The Coming War on China**<br>
+Sat 23 Nov 20:10; Fri 29 Nov 18:15<br>
+**The Ballymurphy Precedent**<br>
+Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20<br>
+
+**The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
+<br>
+
+**With thanks to**<br>
+John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
+
+Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
+
+Selections from Hidden Truths can be found on [**BFI Player**](https://player.bfi.org.uk)
+
+For more information about John Pilger’s films go to [**johnpilger.com**](https://johnpilger.com/)
+<br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU4NTEzNjkzXX0=
 -->
