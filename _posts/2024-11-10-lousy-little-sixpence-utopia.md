@@ -1,3 +1,14 @@
+---
+layout: post
+title: Lousy Little Sixpence + Utopia
+published: true
+date: 2024-11-10
+readtime: true
+categories: ['HIDDEN TRUTHS<br>JOHN PILGER AND THE POWER OF DOCUMENTARY']
+tags: [Documentary]
+metadata: 'Australia 1983/UK-Australia 2013, 54/115 mins<br> Directors: Alec Morgan, John Pilger, Alan Lowery'
+pdf: '2024-11-10-lousy-little-sixpence-utopia.pdf'
+---
 
 _+ pre-recorded intro by Dr Alec Morgan_ _and statement from Amy McQuire_
 
@@ -38,8 +49,7 @@ Australia is the world’s 12th largest economy, yet the First Australians have 
 Unknown to most Australians, Indigenous communities like those of Utopia are being socially engineered into urban ‘hubs’ where they must be ‘economically viable’. This policy was initiated in 2007 when Howard and his minister Mal Brough declared a state of emergency in the Northern Territory and sent the army into Indigenous communities ‘to save the children’. They claimed that paedophiles were operating in ‘gangs’ and in ‘unthinkable numbers’. This was later shown to be false – but it proved an effective generator of a familiar moral panic with hidden agendas. The Howard government told Aboriginal elders that unless they agreed to hand over the leases to their land they would be denied basic services like the provision of decent housing and sanitation – it was an echo of apartheid.  
 **John Pilger, 2014**
 
-_Utopia_ was shown in communities across Australia to large Indigenous audiences. At the open-air premiere in Sydney in 2014, on a piece of vacant land known as The Block, a crowd of more than 4,000 people rose and applauded for more than five minutes, many holding candles in the air.  
-They were acclaiming one of the few voices to tell the truth of their lives to a wide domestic and international audience.
+_Utopia_ was shown in communities across Australia to large Indigenous audiences. At the open-air premiere in Sydney in 2014, on a piece of vacant land known as The Block, a crowd of more than 4,000 people rose and applauded for more than five minutes, many holding candles in the air.  They were acclaiming one of the few voices to tell the truth of their lives to a wide domestic and international audience.
 
 John was proud to be one of the few white Australians honoured by the issue in his name of a symbolic Aboriginal ‘passport’.  
 <br>
@@ -108,6 +118,67 @@ UK-Australia 2013©<br>
 115 mins<br>
 Digital<br>
 <br><br>
+
+**HIDDEN TRUTHS:  JOHN PILGER AND THE  POWER OF DOCUMENTARY**<br>
+**Seniors’ Free Talk: The Quiet Mutiny + intro and Q&A with author Anthony Hayward**<br>
+Mon 28 Oct 11:45<br>
+**Seniors’ Free Matinee: The Last Day + intro with author Anthony Hayward**<br>
+Mon 28 Oct 14:00<br>
+**The Pilger Effect**<br>
+Mon 28 Oct 18:15<br>
+**The War You Don’t See**<br>
+Mon 28 Oct 20:35; Sat 16 Nov 18:10<br>
+**Death of a Nation: The Timor Conspiracy + Palestine Is Still the Issue**<br> Sat 2 Nov 15:00<br>
+**The Golden Dream** La Jaula De Oro<br>
+Tue 5 Nov 20:45; Thu 14 Nov 18:10; Sun 24 Nov 15:30<br>
+**Lousy Little Sixpence + Utopia**<br>
+Sun 10 Nov 14:50<br>
+**Year Zero: The Silent Death of Cambodia + Breaking the Silence: Truth and Lies in the War on Terror**<br>
+Mon 18 Nov 18:10<br>
+**Burp! Pepsi v Coke in the Ice Cold War + Flying the Flag: Arming the World**<br>
+Sat 23 Nov 17:45<br>
+**The Coming War on China**<br>
+Sat 23 Nov 20:10; Fri 29 Nov 18:15<br>
+**The Ballymurphy Precedent**<br>
+Tue 26 Nov 18:10 (+ intro by director Callum Macrae); Sat 30 Nov 12:20<br>
+
+**The documentaries in this season contain distressing scenes of both violence and racism related to the events they cover**
+<br>
+
+**With thanks to**<br>
+John Pilger, Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Marcus Prince
+
+Programme texts compiled by John Pilger,  Jane Hill, Sam Pilger, Christopher Hird, Matt Hird, David Boardman, Maggi Hurt and David Somerset
+
+Selections from Hidden Truths can be found on [**BFI Player**](https://player.bfi.org.uk)
+
+For more information about John Pilger’s films go to [**johnpilger.com**](https://johnpilger.com/)
+<br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjMxNDM4MTEwXX0=
 -->
