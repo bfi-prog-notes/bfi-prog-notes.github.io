@@ -25,17 +25,14 @@ Breathlessly hurling us, after its initial fusillade under the opening credits, 
 
 A similar discouragement to rational response comes with the raid on the Razorhead house, a close-quarters fusillade of vicious confusion culminating in a struggle over the spinning blades of a lawnmower. Like the attenuated chase scene that later races through streets, houses, and assorted glass and canine obstacles, this is heatedly exploitative filmmaking, urged on by percussive bursts of sound. The chase, while unlikely as a sample of stamina, at least leaves our hero impotently on his back, emptying his gun into the air in recognition that the escaping target is one aspect of himself.
 
-Oddly lightweight in cast, as though the theme (which, taking our hint from _Near Dark_, might be termed that of persistent immortality) belonged to some departed race of Hollywood giants, _Point Break_ usefully resists the temptation to act as a vehicle for Patrick Swayze, who plays king beach rat with commendable reticence and not so much a swagger as a quickstep prance. Instead, limelight, laugh lines and love interest are devoted to Keanu Reeves who, understandably perplexed by the strange humours of his opening scenes, and outfaced by the intensity of Lori Petty’s skill as his partner, settles for an oafish stare in which the joy of a burgeoning mysticism seems sadly missing.  If there is some vestige of apotheosis remaining – apart, perhaps, from the astonishing sight of Johnny Utah diving out of the sky with nothing but a gun – it is the confirmation that Kathryn Bigelow, aside from her other qualities, is now one of the finest action directors in the business.
-
-Philip Strick, _Sight and Sound_, December 1991
-
-<![endif]-->
+Oddly lightweight in cast, as though the theme (which, taking our hint from _Near Dark_, might be termed that of persistent immortality) belonged to some departed race of Hollywood giants, _Point Break_ usefully resists the temptation to act as a vehicle for Patrick Swayze, who plays king beach rat with commendable reticence and not so much a swagger as a quickstep prance. Instead, limelight, laugh lines and love interest are devoted to Keanu Reeves who, understandably perplexed by the strange humours of his opening scenes, and outfaced by the intensity of Lori Petty’s skill as his partner, settles for an oafish stare in which the joy of a burgeoning mysticism seems sadly missing.  If there is some vestige of apotheosis remaining – apart, perhaps, from the astonishing sight of Johnny Utah diving out of the sky with nothing but a gun – it is the confirmation that Kathryn Bigelow, aside from her other qualities, is now one of the finest action directors in the business.  
+**Philip Strick, _Sight and Sound_, December 1991**
+<br><br>
 
 **POINT BREAK**  
 _Director_: Kathryn Bigelow  
 ©: Largo Entertainment Inc.  
-_Production Companies_: Levy/Abrams/Guerin,  
-JVC Entertainment  
+_Production Companies_: Levy/Abrams/Guerin,  JVC Entertainment  
 _Presented by_: Columbia Pictures Corporation  
 _Executive Producer_: James Cameron  
 _Producers_: Peter Abrams, Robert L. Levy  
@@ -43,19 +40,16 @@ _Co-producers_: Rick King, Michael Rauch
 _Screenplay_: W. Peter Iliff, Rick King  
 _Director of Photography_: Don Peterman  
 _2nd Unit Photographer_: Steve Yaconelli  
-_Underwater Photography_: Yuri Farrant,  
-Ron Condon, Bob Condon, Lee Allison  
+_Underwater Photography_: Yuri Farrant,  Ron Condon, Bob Condon, Lee Allison  
 _Camera Operator_: Keith Peterman  
-_Additional Camera Operators_:  
-Michael St. Hilaire, Jeff Laszlo  
+_Additional Camera Operators_:  Michael St. Hilaire, Jeff Laszlo  
 _Helmet Camera_: Tom Sanders, Ray Cottingham  
 _Aerial Camera_: Frank Holgate  
 _Steadicam Operator_: James Muro  
 _Computer Animation/Displays_: Video Image  
 _Special Optical Effects_: Fantasy II Film Effects  
 _Special Effects Co-ordinator_: Terry Frazee  
-_Special Effects (Hawaii)_: Donavan Ahuna,  
-Archie Ahuna  
+_Special Effects (Hawaii)_: Donavan Ahuna,  Archie Ahuna  
 _Editor_: Howard Smith  
 _Additional Editors_: Scott Conrad, Bert Lovitt  
 _Production Designer_: Peter Jamison  
@@ -74,16 +68,15 @@ _Music Supervisor for MCA Records_: Kathy Nelson
 _Music Producers_: Mark Isham, Stephen Krause  
 _Music Recording_: Stephen Krause  
 _Sound Recording_: David MacMillan  
-_Sound Re-recording_: Donald O. Mitchell,  
-Robert Beemer, Greg P. Russell  
-_Sound Editors_: Donald Flick, David Whittaker,  
-David Bartlett, Joel Valentine  
+_Sound Re-recording_: Donald O. Mitchell,  Robert Beemer, Greg P. Russell  
+_Sound Editors_: Donald Flick, David Whittaker,  David Bartlett, Joel Valentine  
 _Sound Effects_: Stephen Flick, John Dunn  
 _ADR Group Co-ordinator_: Leigh French  
 _ADR Recordist_: Tom O’Connell  
 _Foleys_: Joan Rowe, Greg Barbanell  
 _Stunt Co-ordinator_: Glenn Wilder  
-_Cast:_  
+
+**Cast**  
 Patrick Swayze _(Bodhi)_  
 Keanu Reeves _(Johnny Utah)_  
 Gary Busey _(Angelo Pappas)_  
@@ -126,13 +119,12 @@ Randy Walker _(Combat Alley supervisor)_
 Marcha L. Carter _(FBI receptionist)_  
 Sedrick J. Azurdia _(fruit vendor)_
 
-USA 1991
-
-122 mins
-
+USA 1991  
+122 mins  
 Digital 4K (restoration)
 
 A BFI release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDg2MjE0NV19
+eyJoaXN0b3J5IjpbLTE1ODE5NzcwMDJdfQ==
 -->
