@@ -44,18 +44,14 @@ They were acclaiming one of the few voices to tell the truth of their lives to a
 John was proud to be one of the few white Australians honoured by the issue in his name of a symbolic Aboriginal ‘passport’.  
 <br>
 
-**Amy McQuire, researcher for Utopia:** I was so honoured to work on _Utopia_ and witness John Pilger’s incomparable journalism. _Utopia_ was groundbreaking in the way that it uplifted the voice of Aboriginal witnesses and supported their testimonies. For this, it was deemed threatening and biased to Australia’s mainstream legacy media so they did everything they could to delegitimise it. But _Utopia_ told essential truths about the reality of representational violence as well as state sanctioned violence. It spoke to the unfinished business in this country. Personally, I was honoured to watch John hold politicians like Mal Brough to account and as a young Aboriginal journalist it was a lesson I will always be grateful for. _Utopia_ is still widely watched and shared by Aboriginal and Torres Strait Islander people over here. John’s work as a truth teller who understood and honoured Black resistance in all its forms will be sorely missed but through _Utopia_ – it will never be forgotten.
-
-Amy McQuire, Darumbal journalist and writer  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+**Amy McQuire, researcher for Utopia:** I was so honoured to work on _Utopia_ and witness John Pilger’s incomparable journalism. _Utopia_ was groundbreaking in the way that it uplifted the voice of Aboriginal witnesses and supported their testimonies. For this, it was deemed threatening and biased to Australia’s mainstream legacy media so they did everything they could to delegitimise it. But _Utopia_ told essential truths about the reality of representational violence as well as state sanctioned violence. It spoke to the unfinished business in this country. Personally, I was honoured to watch John hold politicians like Mal Brough to account and as a young Aboriginal journalist it was a lesson I will always be grateful for. _Utopia_ is still widely watched and shared by Aboriginal and Torres Strait Islander people over here. John’s work as a truth teller who understood and honoured Black resistance in all its forms will be sorely missed but through _Utopia_ – it will never be forgotten.  
+**Amy McQuire, Darumbal journalist and writer**  
+<br>
 
 **Dr Alec Morgan** is a multi-award-winning filmmaker with productions that have screened in many countries. His documentary credits include the landmark _Lousy Little Sixpence_, that first exposed the story of the Stolen Generations and _Admission Impossible_ that uncovered the secret history of the White Australia Policy. His innovative hybrid feature _Hunt Angels_ won 8 awards including the prestigious Joan Long Australian film history award. Alec has co-ordinated the repatriation of archival film to Indigenous communities for the purpose of identification and was archival producer on numerous history productions including John Pilger’s _Utopia_ and the acclaimed series _First Australians_ with Indigenous director Rachel Perkins. He recently collaborated with Tiriki Onus on _Ablaze_, a feature documentary about the search for the ‘lost films’ made by Tiriki’s Indigenous grandfather William Onus. He is currently working on _The Great Deceivers_, a feature documentary that explores race impersonators and the construction of Australia’s national identity.
+<br><br>
 
-<![endif]-->
-
-**LOUSY LITTLE SIXPENCE**
-
+**LOUSY LITTLE SIXPENCE**  
 _Director_: Alec Morgan  
 _Production Company_: Sixpence Productions  
 _Assistance_: The Creative Development Branch of the Australian Film, Aboriginal Arts Board, Department of Aboriginal Affairs, Women and Labor Conference Trust Fund  
@@ -64,84 +60,80 @@ _Co-producer_: Gerald Bostock
 _Associate Producer_: Lester Bostock  
 _Research_: Alec Morgan, Gerald Bostock  
 _Photography_: Martha Ansara  
-_Additional Photography_: Jaems Grant,  
-Fabio Cavadini  
+_Additional Photography_: Jaems Grant,  Fabio Cavadini  
 _Editors_: John Scott, Ronda MacGregor  
 _Editing Assistant_: Frans Vandenburg  
 _Music Director_: Ralph Schneider  
 _Sound_: Lawrie Fitzgerald, John Whitteron  
-_Sound Editor_: Roy Mason
-
+_Sound Editor_: Roy Mason  
 _Narrator:_ Chicka Dixon
 
-_With:_
-
+**With**  
 Margaret Tucker  
 Geraldine Briggs  
 Bill Reid  
 Flo Caldwell  
 Violet Shea
 
-Australia 1983
-
-54 mins
-
+Australia 1983  
+54 mins  
 Video
 
-**UTOPIA**
+**UTOPIA**<br>
 
-_Directed by:_ John Pilger, Alan Lowery
+_Directed by:_ John Pilger, Alan Lowery<br>
 
-©: Secret Country Films
+©: Secret Country Films<br>
 
-A Dartmouth Films _production_
+A Dartmouth Films _production_<br>
 
-_Produced in association with:_ SBS-TV Australia
+_Produced in association with:_ SBS-TV Australia<br>
 
-_Written, Produced and Presented by:_ John Pilger
+_Written, Produced and Presented by:_ John Pilger<br>
 
-_Executive Producer:_ Christopher Hird
+_Executive Producer:_ Christopher Hird<br>
 
-_Co-Executive Producer:_ Tim Beddows
+_Co-Executive Producer:_ Tim Beddows<br>
 
-_Associate Producers:_ Paddy Gibson, Chris Graham
+_Associate Producers:_ Paddy Gibson, Chris Graham<br>
 
-_Line Producer:_ Sandra Leeming
+_Line Producer:_ Sandra Leeming<br>
 
-_Archive Producer:_ Alec Morgan
+_Archive Producer:_ Alec Morgan<br>
 
-_Additional Research:_ Amy McQuire
+_Additional Research:_ Amy McQuire<br>
 
-_Director of Photography:_ Preston Clothier
+_Director of Photography:_ Preston Clothier<br>
 
 _Additional Camera:_ Gideon Jennings_,_  
-Leighton DeBarros
+Leighton DeBarros<br>
 
-_Edited by:_ Joe Frost
+_Edited by:_ Joe Frost<br>
 
-_Online Editor:_ Andy Nicholson
+_Online Editor:_ Andy Nicholson<br>
 
-_Post-Production:_ Directors Cut, London
+_Post-Production:_ Directors Cut, London<br>
 
-_Post-production Manager:_ Charlotte Hawkins
+_Post-production Manager:_ Charlotte Hawkins<br>
 
-_Colourist:_ Andy Elliott
+_Colourist:_ Andy Elliott<br>
 
-_Map Graphic:_ The Station
+_Map Graphic:_ The Station<br>
 
-_Additional Music:_ Joe Frost
+_Additional Music:_ Joe Frost<br>
 
-_Sound Recordists:_ Robert Pover, Tim Parrats, James Nowiczewski
+_Sound Recordists:_ Robert Pover, Tim Parrats, James Nowiczewski<br>
 
-_Re-recording Mixer:_ Kate Davis
+_Re-recording Mixer:_ Kate Davis<br>
 
-_Sound Editor:_ Thaddaois Yianni
+_Sound Editor:_ Thaddaois Yianni<br>
 
-UK-Australia 2013©
+UK-Australia 2013©<br>
 
-115 mins
+115 mins<br>
 
-Digital
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM1MjI0NTddfQ==
+eyJoaXN0b3J5IjpbODE0NDU4ODAwXX0=
 -->
