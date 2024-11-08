@@ -80,60 +80,34 @@ Australia 1983
 Video
 
 **UTOPIA**<br>
-
 _Directed by:_ John Pilger, Alan Lowery<br>
-
 ©: Secret Country Films<br>
-
 A Dartmouth Films _production_<br>
-
 _Produced in association with:_ SBS-TV Australia<br>
-
 _Written, Produced and Presented by:_ John Pilger<br>
-
 _Executive Producer:_ Christopher Hird<br>
-
 _Co-Executive Producer:_ Tim Beddows<br>
-
 _Associate Producers:_ Paddy Gibson, Chris Graham<br>
-
 _Line Producer:_ Sandra Leeming<br>
-
 _Archive Producer:_ Alec Morgan<br>
-
 _Additional Research:_ Amy McQuire<br>
-
 _Director of Photography:_ Preston Clothier<br>
-
-_Additional Camera:_ Gideon Jennings_,_  
-Leighton DeBarros<br>
-
+_Additional Camera:_ Gideon Jennings, Leighton DeBarros<br>
 _Edited by:_ Joe Frost<br>
-
 _Online Editor:_ Andy Nicholson<br>
-
 _Post-Production:_ Directors Cut, London<br>
-
 _Post-production Manager:_ Charlotte Hawkins<br>
-
 _Colourist:_ Andy Elliott<br>
-
 _Map Graphic:_ The Station<br>
-
 _Additional Music:_ Joe Frost<br>
-
 _Sound Recordists:_ Robert Pover, Tim Parrats, James Nowiczewski<br>
-
 _Re-recording Mixer:_ Kate Davis<br>
-
 _Sound Editor:_ Thaddaois Yianni<br>
 
 UK-Australia 2013©<br>
-
 115 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NDU4ODAwXX0=
+eyJoaXN0b3J5IjpbMjMxNDM4MTEwXX0=
 -->
