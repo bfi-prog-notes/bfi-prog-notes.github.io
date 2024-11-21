@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: District B13
+published: true
+date: 2024-11-20
+readtime: true
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
+tags: [Action]
+metadata: 'France 2004, 85 mins<br> Director: Pierre Morel'
+pdf: '2024-11-20-district-b13.pdf'
+---
 
 
 
@@ -127,6 +137,15 @@ Digital
 
 **ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
 
+**John Woo Focus**  
+
+**Hard Target**  
+Sun 24 Nov 13:00; Wed 27 Nov 18:20 (+ intro by Ti Singh, BFI FAN season producer)  
+**Broken Arrow**  
+Sun 24 Nov 18:10  
+**Face/Off**  
+Mon 25 Nov 20:20  
+
 **Big Screen Classics: The History of Action**  
 
 **Safety Last! + One Week**  
@@ -215,14 +234,6 @@ eyJoaXN0b3J5IjpbLTE1MDI3OTQ1OTksMTg0MDA3NDk3NCw5OD
 AzNDYyMDFdfQ==
 -->
 
-**John Woo Focus**
-
-**Hard Target**  
-Sun 24 Nov 13:00; Wed 27 Nov 18:20 (+ intro by Ti Singh, BFI FAN season producer)  
-**Broken Arrow**  
-Sun 24 Nov 18:10  
-**Face/Off**  
-Mon 25 Nov 20:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMzIzNzgzXX0=
+eyJoaXN0b3J5IjpbLTE5MzM1NDEyOTNdfQ==
 -->
