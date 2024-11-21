@@ -1,13 +1,13 @@
 ---
 layout: post
-title: District B13
+title: Hard Target
 published: true
-date: 2024-11-20
+date: 2024-11-24
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [Action]
-metadata: 'France 2004, 85 mins<br> Director: Pierre Morel'
-pdf: '2024-11-20-district-b13.pdf'
+metadata: 'USA 1993, 97 mins<br> Director: John Woo'
+pdf: '2024-11-24-hard-target.pdf'
 ---
 
 _+ intro by Ti Singh, BFI FAN season producer (Wednesday 27 November only)_
@@ -233,5 +233,6 @@ AzNDYyMDFdfQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjMzNTkxLC0xOTMzNTQxMjkzXX0=
+eyJoaXN0b3J5IjpbLTg3MjYxMDkyNiwxMDgyMzM1OTEsLTE5Mz
+M1NDEyOTNdfQ==
 -->
