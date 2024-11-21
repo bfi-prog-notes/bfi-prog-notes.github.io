@@ -10,8 +10,6 @@ metadata: 'France 2004, 85 mins<br> Director: Pierre Morel'
 pdf: '2024-11-20-district-b13.pdf'
 ---
 
-
-
 _+ intro by Ti Singh, BFI FAN season producer (Wednesday 27 November only)_
 
 John Woo’s first US film paired him with the ‘muscles from Brussels’, Belgian action star Jean-Claude Van Damme, whose flamboyant and balletic fighting style perfectly suited the filmmaker’s wildly imaginative approach to action, which never lets up. But there’s also a thoughtful plot here, which adds further jeopardy to the firepower and pyrotechnics.  
@@ -235,5 +233,5 @@ AzNDYyMDFdfQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM1NDEyOTNdfQ==
+eyJoaXN0b3J5IjpbMTA4MjMzNTkxLC0xOTMzNTQxMjkzXX0=
 -->
