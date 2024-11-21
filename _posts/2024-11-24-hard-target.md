@@ -100,7 +100,7 @@ _Stunt Double for Jean-Claude Van Damme_: Mark Stefanich
 _Dialogue Coach_: Robert Easton  
 _Armourer_: Steven B. Melton  
 
-**Cast**    
+**Cast**  
 Jean-Claude Van Damme _(Chance Boudreaux)_  
 Lance Henriksen _(Emil Fouchon)_  
 Yancy Butler _(Natasha 'Nat' Binder)_  
@@ -131,7 +131,6 @@ USA 1993
 Digital  
 <br>
 
-<br>
 
 **ART OF ACTION: CELEBRATING THE REAL ACTION STARS OF CINEMA**  
 
@@ -233,6 +232,6 @@ AzNDYyMDFdfQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjYxMDkyNiwxMDgyMzM1OTEsLTE5Mz
+eyJoaXN0b3J5IjpbMTk0NDEwMDc1OCwxMDgyMzM1OTEsLTE5Mz
 M1NDEyOTNdfQ==
 -->
