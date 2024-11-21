@@ -121,6 +121,21 @@ David Efron _(Billy Bob)_
 USA 1993  
 97 mins  
 Digital  
+<br>
+
+
+
+**John Woo Focus**
+
+**Hard Target**  
+Sun 24 Nov 13:00; Wed 27 Nov 18:20 (+ intro by Ti Singh, BFI FAN season producer)
+**Broken Arrow**
+
+Sun 24 Nov 18:10
+
+**Face/Off**
+
+Mon 25 Nov 20:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0ODcwODZdfQ==
+eyJoaXN0b3J5IjpbMTc2NDAwMzY4NV19
 -->
