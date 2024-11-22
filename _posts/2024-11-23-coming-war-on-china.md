@@ -40,76 +40,39 @@ Andrew Krepinevich, a former Pentagon war planner and the influential author of 
 The Japanese island of Okinawa has 32 US military installations, from which Korea, Vietnam, Afghanistan and Iraq were attacked. The principal target now is China. There are military aircraft constantly in the sky, sometimes crashing into homes and schools.  A hugely popular Okinawan movement against this repressive occupation is an extraordinary expression of how ordinary people can peacefully take on a military giant, and begin to win (by electing Japan’s first anti-base governor). One of their leaders is Fumiko Shimabukuro, aged 87, herself a survivor of world war and one of the most resilient human beings I have filmed.
 
 Lying at the southern tip of Korea is Jeju Island, where a proxy US base has been recently completed. Nuclear submarines will dock here, along with the latest Aegis missile destroyers, less than 400 miles across the horizon from Shanghai. A people’s resistance has been an everyday spectacle in the villages around this base for almost a decade. Priests block the gates by staging a twice-daily Catholic mass, backed by people from all over Asia and the world. It is these voices that make the lessons of Hiroshima and Bikini more urgent than ever. ‘We offer a choice,’ says Fumiko, ‘Silence  or life’.  
-<![endif]-->
+<br><br>
 
-**THE COMING WAR ON CHINA**
-
-_Directed by:_ John Pilger
-
-_A_ Dartmouth Films _production_
-
-_Made with the support of:  
-_Reva & David Logan Foundation,  
-Bertha Foundation
-
-_Executive_ _Producer_: Christopher Hird
-
-_Producer_: John Pilger
-
-_Editor_: Joe Frost
-
-_Line_ _Producer_: Sandra Leeming
-
-_Assistant_ _Director_: Bruno Sorrentino
-
-_Chief_ _Archive_ _Producer_: Jacqui Edwards
-
-_Archive_ _Producers_: Paul Gardner,  
-Jim Anderson
-
-_Camera_: Owen Scurfield, Rupert Binsley,
-
-Bruno Sorrentino, Joseph Zafar
-
-_Sound_: Zubin Sarosh, Giles Khan,  
-Jouni Elo, Cooper Seng
-
-_Head_ _of_ _Distribution_: Matt Hird
-
-_Production_ _Manager_: Lauren Simpson
-
-_Production_ _Assistants_: Julia Schonheit,  
-Becky Kukla
-
-_Graphic_ _Designer_: Charles Gatward
-
-_Original_ _Music_: Joe Frost
-
-_Post-Production:_ Directors Cut, London
-
-_Post-Production Managers:_ Mark Manning,  
-Adam Caldow
-
-_Online_ _Editor_: Andy Nicholson
-
-_Colourist_: Andrew Elliott
-
-_Dubbing_ _Mixer_: Thaddaios Yianni
-
-_Research_: Cheng Leer (Shanghai),  
-Daniel Broudy, Jon Mitchell (Okinawa),  
-Tom Rainey-Smith (Jeju); thanks to  
-Adam Horowitz, Giff Johnson (Marshall Islands), David Vine (USA)
-
-_Special_ _Tribute_: Regis Tremblay,  
-Dennis O’Rourke, Chie Mikami,  
-Stanley Kubrick
-
+**THE COMING WAR ON CHINA**<br>
+_Directed by:_ John Pilger<br>
+_A_ Dartmouth Films _production_<br>
+_Made with the support of:_ Reva & David Logan Foundation,  Bertha Foundation<br>
+_Executive_ _Producer_: Christopher Hird<br>
+_Producer_: John Pilger<br>
+_Editor_: Joe Frost<br>
+_Line_ _Producer_: Sandra Leeming<br>
+_Assistant_ _Director_: Bruno Sorrentino<br>
+_Chief_ _Archive_ _Producer_: Jacqui Edwards<br>
+_Archive_ _Producers_: Paul Gardner,  Jim Anderson<br>
+_Camera_: Owen Scurfield, Rupert Binsley, Bruno Sorrentino, Joseph Zafar<br>
+_Sound_: Zubin Sarosh, Giles Khan,  Jouni Elo, Cooper Seng<br>
+_Head_ _of_ _Distribution_: Matt Hird<br>
+_Production_ _Manager_: Lauren Simpson<br>
+_Production_ _Assistants_: Julia Schonheit,  Becky Kukla<br>
+_Graphic_ _Designer_: Charles Gatward<br>
+_Original_ _Music_: Joe Frost<br>
+_Post-Production:_ Directors Cut, London<br>
+_Post-Production Managers:_ Mark Manning,  Adam Caldow<br>
+_Online_ _Editor_: Andy Nicholson<br>
+_Colourist_: Andrew Elliott<br>
+_Dubbing_ _Mixer_: Thaddaios Yianni<br>
+_Research_: Cheng Leer (Shanghai),  Daniel Broudy, Jon Mitchell (Okinawa), Tom Rainey-Smith (Jeju); thanks to Adam Horowitz, Giff Johnson (Marshall Islands), David Vine (USA)<br>
+_Special_ _Tribute_: Regis Tremblay,  Dennis O’Rourke, Chie Mikami,  Stanley Kubrick<br>
 _In association with:_ SBS-TV Australia
 
-UK 2016©
+UK 2016©<br>
 
-113 mins
+113 mins<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA2MTk2MTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDI1MDk3OTRdfQ==
 -->
