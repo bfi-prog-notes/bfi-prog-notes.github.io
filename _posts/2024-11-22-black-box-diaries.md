@@ -46,8 +46,7 @@ _Editor_: Ema Ryan Yamazaki
 _Co-editor_: Mariko Montpetite  
 _Assistant Editor_: Mizuki Toriya  
 _Consulting Editor_: Maya Daisy Hawke  
-_Titles and Graphic Design by_: Mizuki Toriya,  
-Keke Shiratama  
+_Titles and Graphic Design by_: Mizuki Toriya,  Keke Shiratama  
 _Colourist_: Fumiro Sato  
 _Original Score_: Mark degli Antoni  
 _Archival Music Supervisor_: John McCullough  
@@ -57,15 +56,14 @@ _Special Advisers_: Aiko Masubuchi, Neo Sora
 _Documentary Counsellor_: Keke Shiratama  
 _Publicity_: Susan Norget
 
-Japan-USA-Sweden-UK 2024
-
-102 mins
-
+Japan-USA-Sweden-UK 2024  
+102 mins  
 Digital
 
 Courtesy of Dogwoof
 
 Woman with a Movie Camera is generously supported by Jane Stanton
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU2MzQ5NjJdfQ==
+eyJoaXN0b3J5IjpbLTczOTAwMjQzMF19
 -->
