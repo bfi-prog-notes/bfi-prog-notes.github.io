@@ -44,36 +44,23 @@ As Breige Voyle, whose mother Joan was shot dead on the first day of the killing
 **Callum Macrae** is a filmmaker and writer. An Emmy, BAFTA and Grierson nominee, he has won many awards in the UK and Peabody and Columbia Dupont Awards in the US. He headed the Channel Four team nominated in 2013 for a Nobel Peace Prize for their work on Sri Lanka which culminated in his feature documentary, _No Fire Zone, the Killing Fields of Sri Lanka_. He grew up in Nigeria and Scotland and trained as a painter at Edinburgh College of Art before becoming a dustman for two years, a teacher, a satirical cartoonist, Scottish Correspondent of _The Observer_, a television presenter and a few other things that now escape his mind.
 <br><br>
 
-**THE BALLYMURPHY PRECEDENT**
+**THE BALLYMURPHY PRECEDENT**<br>
+_Director:_ Callum Macrae<br>
+An Awen Media Production of anOutsider Movie Company film<br>
+_In association with:_ Channel 4<br>
+_Presented by:_ Ffilm Cymru Wales, Dartmouth Films<br>
+_Executive Producers:_ Christopher Hird,  Dorothy Byrne, Adam Partridge<br>
+_Producer:_ Gwion Owain<br>
+_Co-producer:_ Mark Williams<br>
+_Head of Production:_ Selina Kay<br>
+_Director of Photography:_ Huw Walters<br>
+_Editor:_ Charlie Hawryliw<br>
+_Music Composer:_ Wayne Roberts<br>
 
-_Director:_ Callum Macrae
-
-An Awen Media Production of anOutsider Movie Company film
-
-_In association with:_ Channel 4
-
-_Presented by:_ Ffilm Cymru Wales, Dartmouth Films
-
-_Executive Producers:_ Christopher Hird,  
-Dorothy Byrne, Adam Partridge
-
-_Producer:_ Gwion Owain
-
-_Co-producer:_ Mark Williams
-
-_Head of Production:_ Selina Kay
-
-_Director of Photography:_ Huw Walters
-
-_Editor:_ Charlie Hawryliw
-
-_Music Composer:_ Wayne Roberts
-
-UK 2018
-
-108 mins
-
-Digital
+UK 2018<br>
+108 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjI0MTMwMl19
+eyJoaXN0b3J5IjpbNzU2MTE4MTU0XX0=
 -->
