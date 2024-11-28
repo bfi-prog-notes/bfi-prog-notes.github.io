@@ -50,6 +50,59 @@ Erland Josephson _(Isak Jacobi)_; Stina Ekblad _(Ismael)_; Mats Bergman _(Aron)_
 Sweden-France-Germany 1982  
 189 mins  
 Digital  
+<br>
+**BIG SCREEN CLASSICS**  
+
+**Little Women**  
+Sun 1 Dec 18:10; Mon 16 Dec 14:30; Fri 20 Dec 17:50  
+**My Night with Maud** Ma nuit chez Maud  
+Mon 2 Dev 18:10; Thu 5 Dec 12:20; Tue 17 Dec 20:30  
+**Merry Christmas Mr. Lawrence**  
+Tue 3 Dec 20:35; Sat 21 Dec 14:50  
+**When Harry Met Sally**  
+Wed 4 Dec 18:10 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Fri 20 Dec 20:50; Sun 22 Dec 12:15  
+**Torch Song Trilogy**  
+Fri 6 Dec 18:05; Fri 13 Dec 20:30  
+**Female Trouble**  
+Fri 6 Dec 20:50; Wed 18 Dec 20:50; Sun 29 Dec 18:30  
+**Fanny and Alexander** Fanny och Alexander  
+Sat 7 Dec 19:30; Sun 29 Dec 14:15  
+**The City of Lost Children** La Cité des enfants perdus  
+Sun 8 Dec 15:15; Fri 27 Dec 20:45  
+**Tangerine**  
+Mon 9 Dec 20:45; Sat 21 Dec 20:45  
+**Monty Python’s Life of Brian**  
+Wed 11 Dec 18:10 + intro by Justin Johnson, BFI Lead Programmer, Thu 19 Dec 12:30; Sun 22 Dec 18:30  
+**Carol**  
+Thu 12 Dec 12:20; Sat 21 Dec 20:40; Mon 30 Dec 17:50  
+**Eyes Wide Shut**  
+Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00  
+**Goodfellas**
+Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDM4MDAyXX0=
+eyJoaXN0b3J5IjpbMzE1NDI2ODE1XX0=
 -->
