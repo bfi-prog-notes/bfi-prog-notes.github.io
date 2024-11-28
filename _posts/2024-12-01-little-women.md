@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title:  Don't Look Now
+published: true
+date: 2024-09-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Horror, Thriller, Fantasy]
+metadata: 'UK/Italy 1973, 110 mins<br> Director: Nicolas Roeg'
+pdf: '2024-09-10-dont-look-now.pdf'
+---
 
 Across disparate countries and radically different eras, Louisa May Alcott’s _Little Women_ has come to life in a million different ways. It is a book that is unsparing in its depiction of the way the world is hard on ambitious girls, but also offers a comfort: that ambition – a vibrant inner life that breaks the bonds of the world – is its own reward. It is a book that we first encounter as children, when the world’s possibilities are wide open and there is nothing in the world that can hold us back; we return as young adults, when the constraints of adulthood and society begin to shape who we are; and we return again, as older readers, with the bittersweet nostalgia of what it meant to be young and bold, joined with the exciting joy of seeing a new generation experience that daring for themselves. The insistent power of the book is its distinctly individual call to grapple with life’s many clashing lures – with family, art, money, love, freedom, and the hope of being 100% who you are, creating your own  
 unique story.
@@ -161,6 +169,8 @@ Thu 12 Dec 12:20; Sat 21 Dec 20:40; Mon 30 Dec 17:50
 Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00  
 **Goodfellas**
 Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTMxNTg4NSwtMTQ1NzQ5NDg4OV19
+eyJoaXN0b3J5IjpbLTMxNzI4MDI0NSwtNjExMzE1ODg1LC0xND
+U3NDk0ODg5XX0=
 -->
