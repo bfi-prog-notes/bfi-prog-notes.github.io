@@ -22,7 +22,8 @@ Fifth, _When Harry Met Sally…_ is funny, with not only a great written script 
 
 Seventh and finally, the film has been influential, not only in establishing that the romcom could be profitable at the box office, but that the genre, although one of the very oldest in cinema, could continue to evolve and renew itself.
 
-**Extract from _When Harry Met Sally…_ by Tamar Jeffers McDonald (BFI Film Classics; BFI/Palgrave, 2015) Reproduced by kind permission of Bloomsbury Publishing. ©Tamar Jeffers McDonald**
+**Extract from _When Harry Met Sally…_ by Tamar Jeffers McDonald (BFI Film Classics; BFI/Palgrave, 2015) Reproduced by kind permission of Bloomsbury Publishing. ©Tamar Jeffers McDonald**  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTIyNTAzNV19
+eyJoaXN0b3J5IjpbMTk1MTIwMTE1OSwxMzU5MjI1MDM1XX0=
 -->
