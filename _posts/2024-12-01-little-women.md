@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  Li
+title:  Little Women
 published: true
-date: 2024-09-10
+date: 2024-12-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Horror, Thriller, Fantasy]
-metadata: 'UK/Italy 1973, 110 mins<br> Director: Nicolas Roeg'
-pdf: '2024-09-10-dont-look-now.pdf'
+tags: [Period, Drama]
+metadata: 'USA 2019, 135 mins<br> Director: Greta Gerwig'
+pdf: '2024-12-01-little-women.pdf'
 ---
 
-Across disparate countries and radically different eras, Louisa May Alcott’s _Little Women_ has come to life in a million different ways. It is a book that is unsparing in its depiction of the way the world is hard on ambitious girls, but also offers a comfort: that ambition – a vibrant inner life that breaks the bonds of the world – is its own reward. It is a book that we first encounter as children, when the world’s possibilities are wide open and there is nothing in the world that can hold us back; we return as young adults, when the constraints of adulthood and society begin to shape who we are; and we return again, as older readers, with the bittersweet nostalgia of what it meant to be young and bold, joined with the exciting joy of seeing a new generation experience that daring for themselves. The insistent power of the book is its distinctly individual call to grapple with life’s many clashing lures – with family, art, money, love, freedom, and the hope of being 100% who you are, creating your own  
-unique story.
+Across disparate countries and radically different eras, Louisa May Alcott’s _Little Women_ has come to life in a million different ways. It is a book that is unsparing in its depiction of the way the world is hard on ambitious girls, but also offers a comfort: that ambition – a vibrant inner life that breaks the bonds of the world – is its own reward. It is a book that we first encounter as children, when the world’s possibilities are wide open and there is nothing in the world that can hold us back; we return as young adults, when the constraints of adulthood and society begin to shape who we are; and we return again, as older readers, with the bittersweet nostalgia of what it meant to be young and bold, joined with the exciting joy of seeing a new generation experience that daring for themselves. The insistent power of the book is its distinctly individual call to grapple with life’s many clashing lures – with family, art, money, love, freedom, and the hope of being 100% who you are, creating your own  unique story.
 
 This deeply personal, fiercely alive idea of _Little Women_ is the one writer-director Greta Gerwig wanted to transport to the screen. Gerwig approached the material with a determination to capture the sweeping, epic nature of the story that captures the enormity of what Alcott created, but also an honest, disarming emotional intimacy that brings the characters to life. As every reader brings her own personal interpretation and meaning to the story, Gerwig puts her own stamp on the story. The novel was originally published in two halves, the first focusing on the March sisters in auspicious girlhood, and the second covering the stark realities of adulthood. Gerwig pulls apart the novel, switchbacking between the two halves, with Jo’s story of determination and spirit providing the natural through-line and reconstruction between its parts. With its fluid approach to time, the film immerses the audience in the memories, moments, accidents of fate and acts of will that form the March sisters – ink-stained, defiantly independent writer Jo; nurturing, principled, would-be actor Meg; fragile, open-hearted musician Beth; clever, aspirational painter Amy – into their full, complicated adult selves, each so different but united in an unswerving sisterhood.
 
@@ -171,6 +170,6 @@ Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00
 Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTkxMDk5NSwtMzE3MjgwMjQ1LC02MT
+eyJoaXN0b3J5IjpbMTkwODIzNjk4MywtMzE3MjgwMjQ1LC02MT
 EzMTU4ODUsLTE0NTc0OTQ4ODldfQ==
 -->
