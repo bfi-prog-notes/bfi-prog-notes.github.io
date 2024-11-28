@@ -2,14 +2,14 @@
 layout: post
 title:  When Harry Met Sally
 published: true
-date: 2024-12-03
+date: 2024-12-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
-metadata: 'USA 1989, 95 mins<br> Director: Nagisa Oshima'
-pdf: '2024-12-02-my-night-with-maud.pdf'
+tags: [Comedy, Romance]
+metadata: 'USA 1989, 95 mins<br> Director: Rob Reiner'
+pdf: '2024-12-04-when-harry-met-sally.pdf'
 ---
-
+_+ intro by Ruby McGuigan, BFI Programme and Acquisitions (Wednesday 4 December only)_
 
 _When Harry Met Sally…_ is so much more than a faked orgasm and a punchline. Not only does it offer many more pleasures than these, admittedly fine comic moments, it also stands as a pivotal film that helped reinvigorate the romantic comedy genre. Paradoxically, the film is well loved but also misunderstood and underappreciated: viewers know it is good, funny and poignant, but perhaps do not fully realise how important and influential it is. But _When Harry Met Sally…_ is worthy of a place in a romcom pantheon with other films that introduced or perfected a whole new subgenre, like _It Happened One Night_ (1934) with the screwball, _Pillow Talk_ (1959)  with the battle-of-the-sexes comedy and _Annie Hall_ (1977)  with the radical romcom; _When Harry Met Sally…_ is similarly transformative.
 
@@ -33,16 +33,11 @@ Seventh and finally, the film has been influential, not only in establishing tha
 
 **Extract from _When Harry Met Sally…_ by Tamar Jeffers McDonald (BFI Film Classics; BFI/Palgrave, 2015) Reproduced by kind permission of Bloomsbury Publishing. ©Tamar Jeffers McDonald**  
 <br>
-<![endif]-->
 
-**WHEN HARRY MET SALLY…**
-
-_Director_: Rob Reiner
-
+**WHEN HARRY MET SALLY…**  
+_Director_: Rob Reiner  
 ©: Castle Rock Entertainment  
-Castle Rock Entertainment _in association with_ Nelson Entertainment _present  
-a_ Columbia Pictures _release_
-
+Castle Rock Entertainment _in association with_ Nelson Entertainment _present a_ Columbia Pictures _release_  
 _Producers_: Rob Reiner, Andrew Scheinman  
 _Co-producers_: Jeffrey Stott, Steve Nicolaides  
 _Associate Producer_: Nora Ephron  
@@ -54,32 +49,25 @@ _1st Assistant Director_: Aaron Barsky
 _2nd Assistant Director_: Michael Waxman  
 _Script Supervisor_: Kerry Lyn McKissick  
 _Casting_: Jane Jenkins, Janet Hirshenson  
-_Casting Associates_: Michael Hirshenson,  
-Robin Allan  
+_Casting Associates_: Michael Hirshenson, Robin Allan  
 _Written by_: Nora Ephron  
 _Director of Photography_: Barry Sonnenfeld  
 _Camera Operator_: M. Todd Henry  
-_Assistant Camera_: Angelo Di Giacomo,  
-Brian Armstrong, Christopher Duskin,  
-Thomas Miligan  
+_Assistant Camera_: Angelo Di Giacomo, Brian Armstrong, Christopher Duskin, Thomas Miligan  
 _Video_: Video Image, Greg McMurry  
 _Editor_: Robert Leighton  
 _Production Designer_: Jane Musky  
 _Art Department Co-ordinator_: Harold Thrasher  
-_Set Decorators_: George R. Nelson,  
-Sabrina Wright-Basile  
+_Set Decorators_: George R. Nelson, Sabrina Wright-Basile  
 _Scenic Artist_: Billy Puzo  
 _Property Masters_: David L. Glazer, Dick Tice  
 _Costume Designer_: Gloria Gresham  
 _Costume Supervisor_: Jennifer L. Parsons  
-_Make-up (Meg Ryan)_: Stephen Abrums,  
-Joseph A. Campayno  
-_Make-up (Billy Crystal)_: Ken Chase,  
-Peter Montagna  
+_Make-up (Meg Ryan)_: Stephen Abrums, Joseph A. Campayno  
+_Make-up (Billy Crystal)_: Ken Chase, Peter Montagna  
 _Hairstyling_: Barbara Lorenz, William A. Farley  
 _Titles/Opticals_: Pacific Title  
-_Special Music Performances/Arrangements_:  
-Harry Connick Jr  
+_Special Music Performances/Arrangements_: Harry Connick Jr  
 _Orchestrations_: Marc Shaiman, Tom Sharp  
 _Music Supervisor_: Scott Stambler  
 _Sound Mixer_: Robert Eber  
@@ -114,6 +102,60 @@ Kuno Sponholz, Connie Sawyer, Charles Dugan, Katherine Squire, Al Christy, Franc
 USA 1989©  
 95 mins  
 Digital  
+<br>
+**BIG SCREEN CLASSICS**  
+
+**Little Women**  
+Sun 1 Dec 18:10; Mon 16 Dec 14:30; Fri 20 Dec 17:50  
+**My Night with Maud** Ma nuit chez Maud  
+Mon 2 Dev 18:10; Thu 5 Dec 12:20; Tue 17 Dec 20:30  
+**Merry Christmas Mr. Lawrence**  
+Tue 3 Dec 20:35; Sat 21 Dec 14:50  
+**When Harry Met Sally**  
+Wed 4 Dec 18:10 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Fri 20 Dec 20:50; Sun 22 Dec 12:15  
+**Torch Song Trilogy**  
+Fri 6 Dec 18:05; Fri 13 Dec 20:30  
+**Female Trouble**  
+Fri 6 Dec 20:50; Wed 18 Dec 20:50; Sun 29 Dec 18:30  
+**Fanny and Alexander** Fanny och Alexander  
+Sat 7 Dec 19:30; Sun 29 Dec 14:15  
+**The City of Lost Children** La Cité des enfants perdus  
+Sun 8 Dec 15:15; Fri 27 Dec 20:45  
+**Tangerine**  
+Mon 9 Dec 20:45; Sat 21 Dec 20:45  
+**Monty Python’s Life of Brian**  
+Wed 11 Dec 18:10 + intro by Justin Johnson, BFI Lead Programmer, Thu 19 Dec 12:30; Sun 22 Dec 18:30  
+**Carol**  
+Thu 12 Dec 12:20; Sat 21 Dec 20:40; Mon 30 Dec 17:50  
+**Eyes Wide Shut**  
+Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00  
+**Goodfellas**
+Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM0Nzk2NjYsMTM1OTIyNTAzNV19
+eyJoaXN0b3J5IjpbLTEzODM1OTc1NjUsLTE5NjM0Nzk2NjYsMT
+M1OTIyNTAzNV19
 -->
