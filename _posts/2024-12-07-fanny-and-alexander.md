@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title:  Fanny and Alexander
+published: true
+date: 2024-12-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Sweden-France-Germany 1982, 189mins<br> Director: Ingmar Bergman'
+pdf: '2024-12-07-fanny-and-alexander.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -42,5 +51,5 @@ Sweden-France-Germany 1982
 189 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzQ1MDE3NF19
+eyJoaXN0b3J5IjpbODQyNDM4MDAyXX0=
 -->
