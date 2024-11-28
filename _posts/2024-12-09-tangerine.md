@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title:  Tangerine
+published: true
+date: 2024-12-09
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 2015, 88 mins<br> Director: Sean Baker'
+pdf: '2024-12-09-tangerine.pdf'
+---
 
 It’s Christmas Eve and at a donut shop in Hollywood a couple of transgender sex workers meet up to discuss a problem one of them faces. Soon, questions of infidelity, the fine line between performance and living, and the importance of family bring together a disparate group of characters. Sean Baker’s joyous micro-budget comedy drama was shot on iPhones and is perfect counter-programming to the established festive canon.
 **bfi.org.uk**  
@@ -58,5 +65,5 @@ USA 2015©
 88 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDEzMjYyMF19
+eyJoaXN0b3J5IjpbLTQ2MDIwNTUxOSwxNzY0MTMyNjIwXX0=
 -->
