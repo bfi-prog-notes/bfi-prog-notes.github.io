@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title:  My Night with Maud
+published: true
+date: 2024-12-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1969, 110 mins<br> Director: Eric Rohmer'
+pdf: '2024-12-02-my-night-with-maud.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -111,5 +119,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjI4Mzk2OV19
+eyJoaXN0b3J5IjpbLTY3MDY4ODk2NV19
 -->
