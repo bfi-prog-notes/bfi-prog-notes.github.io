@@ -1,6 +1,15 @@
+---
+layout: post
+title:  When Harry Met Sally
+published: true
+date: 2024-12-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1989, 95 mins<br> Director: Nagisa Oshima'
+pdf: '2024-12-02-my-night-with-maud.pdf'
+---
 
-
-<![endif]-->
 
 _When Harry Met Sally…_ is so much more than a faked orgasm and a punchline. Not only does it offer many more pleasures than these, admittedly fine comic moments, it also stands as a pivotal film that helped reinvigorate the romantic comedy genre. Paradoxically, the film is well loved but also misunderstood and underappreciated: viewers know it is good, funny and poignant, but perhaps do not fully realise how important and influential it is. But _When Harry Met Sally…_ is worthy of a place in a romcom pantheon with other films that introduced or perfected a whole new subgenre, like _It Happened One Night_ (1934) with the screwball, _Pillow Talk_ (1959)  with the battle-of-the-sexes comedy and _Annie Hall_ (1977)  with the radical romcom; _When Harry Met Sally…_ is similarly transformative.
 
@@ -106,5 +115,5 @@ USA 1989©
 95 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1NjE1NDAsMTM1OTIyNTAzNV19
+eyJoaXN0b3J5IjpbLTE5NjM0Nzk2NjYsMTM1OTIyNTAzNV19
 -->
