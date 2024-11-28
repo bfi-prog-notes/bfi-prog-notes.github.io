@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title:  Merry Christmas Mr. Lawrence
+published: true
+date: 2024-12-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1969, 110 mins<br> Director: Nagisa Oshima'
+pdf: '2024-12-02-my-night-with-maud.pdf'
+---
 
 **Jeremy Thomas on David Bowie and ‘Merry Christmas Mr. Lawrence’**
 
@@ -207,5 +215,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTg4NDI3MF19
+eyJoaXN0b3J5IjpbLTE1OTY2NjI2Ml19
 -->
