@@ -33,36 +33,25 @@ Novelist Erica Jong said _Little Women_ sparked a belief that ‘women could bec
 For women, carving out any individualistic path, particularly an artistic life, has been perilous in any era. But that’s also why Jo hit home so hard with Gerwig. ‘There’s a rebel spirit contained in Jo, and a hope for a life beyond what your gender dictates that is completely exciting to us still,’ says Gerwig. ‘She’s this girl with a boy’s name who wants to write, and she’s ambitious and she’s angry and she’s so many different things that we identify with. It’s like she allowed us to be free.’  
 **Production notes**  
 <br>
-<![endif]-->
 
-**Little Women**
-
+**LITTLE WOMEN**  
 _Directed by_: Greta Gerwig  
-©: Columbia Pictures Industries Inc.,
-
-Monarchy Enterprises S.à.r.l.,
-
-Regency Entertainment (USA) Inc  
+©: Columbia Pictures Industries Inc., Monarchy Enterprises S.à.r.l., Regency Entertainment (USA) Inc  
 _a_ Pascal Pictures _production_  
-_Presented by_: Columbia Pictures,  
-Regency Enterprises  
+_Presented by_: Columbia Pictures, Regency Enterprises  
 _Tax_: New York State Governor’s Office for Motion Picture & Television Development’s Post Production Credit Program  
 _Executive Producers_: Adam Merims, Evelyn O’Neill, Rachel O’Connor, Arnon Milchan  
-_Produced by_: Amy Pascal, Denise Di Novi,
-
-Robin Swicord  
+_Produced by_: Amy Pascal, Denise Di Novi, Robin Swicord  
 _Unit Production Manager_: Adam Merims  
 _Production Supervisor_: Damiana Kamishin  
 _Production Co-ordinator_: Hannah Roble  
 _Production Accountant_: Thomas Bianco  
-_Location Managers_: Douglas Dresser,  
-Timothy Gorman  
+_Location Managers_: Douglas Dresser, Timothy Gorman  
 _Post-production Supervisor_: Catherine Farrell  
 _1st Assistant Director_: Jonas Spaccarotelli  
 _2nd Assistant Director_: Katie Valovcin  
 _Script Supervisor_: Anna Rane  
-_Casting by_: Francine Maisler,  
-Kathleen Driscoll-Mohler  
+_Casting by_: Francine Maisler, Kathleen Driscoll-Mohler  
 _Extras Casting_: Kendall Cooper  
 _Written for the Screen by_: Greta Gerwig  
 _Based on the novel by_: Louisa M. Alcott  
@@ -142,5 +131,5 @@ USA 2019©
 135 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzM4NTI5NF19
+eyJoaXN0b3J5IjpbLTE0NTc0OTQ4ODldfQ==
 -->
