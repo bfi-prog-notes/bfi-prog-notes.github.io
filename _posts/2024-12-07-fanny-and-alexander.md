@@ -6,7 +6,7 @@ date: 2024-12-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'Sweden-France-Germany 1982, 189mins<br> Director: Ingmar Bergman'
+metadata: 'Sweden-France-Germany 1982, 189 mins<br> Director: Ingmar Bergman'
 pdf: '2024-12-07-fanny-and-alexander.pdf'
 ---
 
