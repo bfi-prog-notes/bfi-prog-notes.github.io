@@ -37,76 +37,42 @@ _©/Production Company:_ Mirisch Company
 
 _Produced by:_ Billy Wilder
 
-_Associate Producers:_ I.A.L. Diamond,
+_Associate Producers:_ I.A.L. Diamond,Doane Harrison  
+_Production Manager:_ Allen K. Wood  
+_Assistant Director:_ Hal Polaire  
+_Script Continuity:_ May Wale  
+_Written by:_ Billy Wilder, I.A.L. Diamond  
+_Director of Photography:_ Joseph LaShelle  
+_Special Effects:_ Milt Rice  
+_Editor:_ Daniel Mandell  
+_Art Director:_ Alexander Trauner  
+_Set Decorator:_ Edward G. Boyle  
+_Property:_ Tom Plews  
+_Make-up:_ Harry Ray  
+_Music by:_ Adolph Deutsch  
+_Music Editor:_ Sid Sidney  
+_Sound:_ Fred Lau  
+_Sound Effects Editor:_ Del Harris  
+_uncredited_  
+_Wardrobe:_ Forrest T. Butler  
+_Hairstylist:_ Alice Monte  
 
-Doane Harrison
+**Cast**  
 
-_Production Manager:_ Allen K. Wood
-
-_Assistant Director:_ Hal Polaire
-
-_Script Continuity:_ May Wale
-
-_Written by:_ Billy Wilder, I.A.L. Diamond
-
-_Director of Photography:_ Joseph LaShelle
-
-_Special Effects:_ Milt Rice
-
-_Editor:_ Daniel Mandell
-
-_Art Director:_ Alexander Trauner
-
-_Set Decorator:_ Edward G. Boyle
-
-_Property:_ Tom Plews
-
-_Make-up:_ Harry Ray
-
-_Music by:_ Adolph Deutsch
-
-_Music Editor:_ Sid Sidney
-
-_Sound:_ Fred Lau
-
-_Sound Effects Editor:_ Del Harris
-
-_uncredited_
-
-_Wardrobe:_ Forrest T. Butler
-
-_Hairstylist:_ Alice Monte
-
-_Cast:_
-
-Jack Lemmon _(C.C. ‘Bud’ Baxter)_
-
-Shirley MacLaine _(Fran Kubelik)_
-
-Fred MacMurray _(Jeff D. Sheldrake)_
-
-Ray Walston _(Joe Dobisch)_
-
-Jack Kruschen _(Dr Dreyfuss)_
-
-David Lewis _(Al Kirkeby)_
-
-Hope Holiday _(Margie MacDougall)_
-
-Joan Shawlee _(Sylvia)_
-
-Naomi Stevens _(Mrs Dreyfuss)_
-
-Johnny Seven _(Karl Matuschka)_
-
-Joyce Jameson _(blonde)_
-
-Willard Waterman _(Vanderhof)_
-
-David White _(Eichelberger)_
-
-Edie Adams _(Miss Olsen)_
-
+Jack Lemmon _(C.C. ‘Bud’ Baxter)_  
+Shirley MacLaine _(Fran Kubelik)_  
+Fred MacMurray _(Jeff D. Sheldrake)_  
+Ray Walston _(Joe Dobisch)_  
+Jack Kruschen _(Dr Dreyfuss)_  
+David Lewis _(Al Kirkeby)_  
+Hope Holiday _(Margie MacDougall)_  
+Joan Shawlee _(Sylvia)_  
+Naomi Stevens _(Mrs Dreyfuss)_  
+Johnny Seven _(Karl Matuschka)_  
+Joyce Jameson _(blonde)_  
+Willard Waterman _(Vanderhof)_  
+David White _(Eichelberger)_  
+Edie Adams _(Miss Olsen)_  
 _uncredited_  
 Frances Weintraub Lax _(Mrs Lieberman)_  
 Benny Burt _(bartender)_  
@@ -117,5 +83,5 @@ USA 1960©
 125 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ0OTQyM119
+eyJoaXN0b3J5IjpbLTQyMDQwNTEzOV19
 -->
