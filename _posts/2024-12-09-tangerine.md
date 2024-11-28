@@ -4,8 +4,7 @@
 <![endif]-->
 
 It’s Christmas Eve and at a donut shop in Hollywood a couple of transgender sex workers meet up to discuss a problem one of them faces. Soon, questions of infidelity, the fine line between performance and living, and the importance of family bring together a disparate group of characters. Sean Baker’s joyous micro-budget comedy drama was shot on iPhones and is perfect counter-programming to the established festive canon.
-
-bfi.org.uk
+**bfi.org.uk**  
 
 You might assume that the most remarkable thing about Sean Baker’s touching and occasionally hilarious neo-screwball is the fact that it was shot on a handful of iPhones. The phones in question were only slightly modified – fitted with Kickstarter-funded lens adapters and software that allowed Baker to lock exposure and focus to his own specifications – but the result sits very comfortably on the big screen and never feels like a home movie. In fact, this zero-budget work-around produces a dreamlike, colour-saturated effect that perfectly matches the drug-tinged hyperreality of its protagonists’ lives on the seedier streets and corners of Tinseltown. Likewise, working with minimal equipment allowed the small crew to roam around their locations without drawing attention to themselves, giving the film an edgy, guerrilla feel.
 
@@ -24,22 +23,16 @@ As well as the men who are attracted to Sin-Dee and Alexandra, Baker also insist
 As Sin-Dee drags Dinah through the streets like a medieval scarlet woman, the audience is pulled along just as insistently. _Tangerine_ takes you by the scruff of your neck into a parallel world where tattered reality is shot through with neon flashes of colour, clarity and pure emotional honesty.  
 **Lisa Mullen, _Sight and Sound_, December 2015**  
 <br>
-<![endif]-->
 
-**TANGERINE**
-
+**TANGERINE**  
 _Directed by_: Sean Baker  
 _©_: Tangerine Films LLC  
-_Presented by_: Magnolia Pictures,  
-Duplass Brothers Productions, Through Films  
-_In association with_: Cre Films,  
-Freestyle Picture Company  
+_Presented by_: Magnolia Pictures, Duplass Brothers Productions, Through Films  
+_In association with_: Cre Films, Freestyle Picture Company  
 _Executive Producers_: Mark Duplass, Jay Duplass  
-_Producers_: Marcus Cox, Karrie Cox,  
-Darren Dean, Shih-Ching Tsou, Sean Baker  
+_Producers_: Marcus Cox, Karrie Cox, Darren Dean, Shih-Ching Tsou, Sean Baker  
 _Unit Production Manager_: Julie Cummings  
-_Location Managers_: Andrew J. Areffi,  
-Melissa Areffi  
+_Location Managers_: Andrew J. Areffi, Melissa Areffi  
 _Assistant Director_: Julie Cummings  
 _Continuity_: Shih-Ching Tsou  
 _Casting_: Sean Baker, Chris Bergoch  
@@ -49,10 +42,9 @@ _Camera Operators_: Radium Cheung, Sean Baker
 _Editor_: Sean Baker  
 _Costume Designer_: Shih-Ching Tsou  
 _Location Sound Recording_: Irin Strauss  
-_Re-recording Mixer_: Jeremy Grody
+_Re-recording Mixer_: Jeremy Grody  
 
-_Cast:_
-
+**Cast**  
 Kitana Kiki Rodriguez _(Sin-Dee Rella)_  
 Mya Taylor _(Alexandra)_  
 Karren Karaguilian _(Razmik)_  
@@ -60,11 +52,11 @@ Mickey O’Hagan _(Dinah)_
 Alla Tumanian _(Ashken)_  
 James Ransone _(Chester)_  
 Luiza Nersisyan _(Yeva)_  
-Arsen Grigoryan _(Karo)_
+Arsen Grigoryan _(Karo)_  
 
 USA 2015©  
 88 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTAwMDUyNV19
+eyJoaXN0b3J5IjpbMTc2NDEzMjYyMF19
 -->
