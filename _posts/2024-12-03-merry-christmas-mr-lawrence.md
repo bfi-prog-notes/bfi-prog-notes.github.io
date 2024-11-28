@@ -6,7 +6,7 @@ date: 2024-12-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'France 1969, 110 mins<br> Director: Nagisa Oshima'
+metadata: 'UK/Japan/New Zealand 1983, 123 mins<br> Director: Nagisa Oshima'
 pdf: '2024-12-02-my-night-with-maud.pdf'
 ---
 
@@ -16,9 +16,7 @@ _After Oshima saw Bowie in_ The Elephant Man _on Broadway, in 1980, he asked him
 
 I’d sat next to Oshima in the year that [Jerzy Skolimowski’s] _The Shout_ [1978] won the Grand Prix at Cannes. He was in his kimono and I was a young guy. The prize-giving dinner was different than today. It was an intimate affair. And he was very nice. We couldn’t speak any language, but we had drinks together and laughed, then exchanged business cards. About three and a half years later, he got in touch and said, ‘I want to make this prison book. Are you interested?’ I loved Oshima’s films and knew them well, so I jumped at the opportunity. We redeveloped the script by Paul Mayersberg and Oshima wanted Robert Redford initially, he was blond and blue-eyed. During casting, [Ryuichi] Sakamoto and [Takeshi] Kitano came in and then Oshima said, ‘Can you get me to David Bowie?’
 
-I instantly embraced the idea. He was a great actor. He’s a performer. He performed in the  
-film, and in life. I had to get to him, [but] not via his big management. Because that’s the way it works on something like this. We had two mutual friends, Italians who lived in London, who were friendly with David and they arranged a dinner. I said, ‘Do you know Oshima?’ He said, ‘Of course I know him’ and reeled off all these film titles. I said, ‘Well, he wants you, he  
-needs you.’
+I instantly embraced the idea. He was a great actor. He’s a performer. He performed in the film, and in life. I had to get to him, [but] not via his big management. Because that’s the way it works on something like this. We had two mutual friends, Italians who lived in London, who were friendly with David and they arranged a dinner. I said, ‘Do you know Oshima?’ He said, ‘Of course I know him’ and reeled off all these film titles. I said, ‘Well, he wants you, he needs you.’
 
 _Bowie had a significant and lifelong interest in Japanese culture, film, theatre and literature._
 
@@ -28,13 +26,11 @@ _By then Bowie had left Berlin and started doing films but was about to take a s
 
 Yes, he was doing _Let’s Dance_, so he left Rarotonga after filming and went to Australia to do that song’s video with a lot of people from the film. Many who worked on that video were our crew, who he’d got to know.
 
-_A harrowing prisoner of war camp drama, set in World War II, is an emotive and complex subject to make a film about, and then you juxtapose it with this pure pop record he’s about  
-to make._
+_A harrowing prisoner of war camp drama, set in World War II, is an emotive and complex subject to make a film about, and then you juxtapose it with this pure pop record he’s about to make._
 
 A lot of people didn’t understand. It was a prisoner-of-war-camp film and maybe what was radical about it, it wasn’t _The Bridge on the River Kwai_ [1957], with military uniforms and saluting and all that; it was not a camp like we’d seen before. In fact, it was a fantastic love story between two men [Bowie and Sakamoto, playing Major Celliers and Capt Yonoi]. I understood what it was immediately. It was subtext, but it was a different sort of love, an admiration. Celliers, his initials were JC, Jesus Christ. He’s a blond God to Sakamoto. There is respect between military men. [Australian actor] Jack Thompson’s and Tom Conti’s parts, they’re very nuanced. And Takeshi, what he says at the end, that’s incredible. ‘We are victims of men who think they’re right.’ But that’s the truth. And you can see that we are currently [laughs] a victim of people who think they’re right.
 
-_Were you worried in those days about how the audience would feel regarding the  
-queer subtext?_
+_Were you worried in those days about how the audience would feel regarding the queer subtext?_
 
 It’s not the way I do things. Of course, I’m thinking about the audience in one way. But I also wouldn’t be making the films I’ve made if I was thinking about them. I’m thinking about: can this be a magnificent film which will rock people’s socks off? And sometimes I manage. But the thought is not always, ‘Oh, is this going to be big box office?’ Because if there was somebody who knew about that they’d be locked in a box and fed caviar! A few people have had that moment in their careers where they’ve had the Midas touch, but it’s not what I want. I’m seeking something else with my choices and Oshima fitted right into that because I was an incredible fan. And the subject matter was something I could be involved with because we put in the Britishness. We brought a very English group in: the production designers; from _Chariots of Fire_ [1981] we had the art director, Andrew Sanders; and Lee Tamahori [_Once Were Warriors_, 1994] was the first AD.
 
@@ -44,8 +40,7 @@ Just a relaxed, easygoing, approachable man. I found him always to be just a reg
 
 _Sakamoto wears make-up in the film, and I read that, in the 1940s, it was not uncommon for Japanese soldiers to wear it._
 
-Well, that was very much Bowie. Antony Clavet [who had done Bowie’s make-up for _Just a Gigolo_, 1978, for _Lodger_’s 1979 album cover and for _The Hunger_] was the make-up artist who had done Bowie on tour and Bowie suggested to Oshima, ‘Listen, why don’t we get something special for Ryuichi?,’ who loved the idea. Clavet did some very stylised make-up, which was  
-a miracle.
+Well, that was very much Bowie. Antony Clavet [who had done Bowie’s make-up for _Just a Gigolo_, 1978, for _Lodger_’s 1979 album cover and for _The Hunger_] was the make-up artist who had done Bowie on tour and Bowie suggested to Oshima, ‘Listen, why don’t we get something special for Ryuichi?,’ who loved the idea. Clavet did some very stylised make-up, which was a miracle.
 
 _The Cannes press conference is on the film’s DVD extras. I enjoyed the relationship between Bowie and Oshima on the panel, how they were together._
 
@@ -215,5 +210,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY2NjI2Ml19
+eyJoaXN0b3J5IjpbLTExMjg2MDM1NDJdfQ==
 -->
