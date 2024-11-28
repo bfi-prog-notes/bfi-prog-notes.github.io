@@ -24,18 +24,13 @@ Gerwig read _Little Women_ so many times as a child, she doesn’t remember the 
 
 ‘_Little Women_ has been part of who I am for as long as I can remember,’ Gerwig notes. ‘There was never a time when I didn’t know who Jo March was, and she was always my girl, the person I wanted to be and the person who I hoped I was.’
 
-While Gerwig stays true to Alcott’s original voice, she reconstructs the novel in an inherently cinematic way, unmooring the story from linear time, transforming the March’s most unforgettable events into the stuff of memories and creative inspiration. This invites audiences to engage with the March sisters as something new: as adults looking back, and as the living source for  
-Jo’s writing.
+While Gerwig stays true to Alcott’s original voice, she reconstructs the novel in an inherently cinematic way, unmooring the story from linear time, transforming the March’s most unforgettable events into the stuff of memories and creative inspiration. This invites audiences to engage with the March sisters as something new: as adults looking back, and as the living source for Jo’s writing.
 
-‘Every time I read the book, it became something different,’ observes Gerwig.  
-‘I first knew it in the cosiness of childhood, and then as I got older, new parts of it jumped out at me. As I began writing the screenplay, the part of it that was in clear relief was how the sisters’ lives as adults are so poignant and fascinating, because they’re trying to figure out how to honor the fearless youth they had as grown-ups.’
+‘Every time I read the book, it became something different,’ observes Gerwig. ‘I first knew it in the cosiness of childhood, and then as I got older, new parts of it jumped out at me. As I began writing the screenplay, the part of it that was in clear relief was how the sisters’ lives as adults are so poignant and fascinating, because they’re trying to figure out how to honor the fearless youth they had as grown-ups.’
 
-Gerwig also went deep into research, reading Alcott’s letters and papers, to draw on aspects of Alcott’s real life to give her adaptation a formidable, modern voice. For example, the real Alcott wrote, ‘I had lots of troubles, so  
-I write jolly tales’; in the film, Marmee says, ‘I’m angry nearly every day of  
-my life.’
+Gerwig also went deep into research, reading Alcott’s letters and papers, to draw on aspects of Alcott’s real life to give her adaptation a formidable, modern voice. For example, the real Alcott wrote, ‘I had lots of troubles, so I write jolly tales’; in the film, Marmee says, ‘I’m angry nearly every day of my life.’
 
-In drawing early inspiration from _Little Women_, Gerwig has a lot of company. The late sci-fi master Ursula K. Le Guin called Alcott ‘close as a sister’.  
-Novelist Erica Jong said _Little Women_ sparked a belief that ‘women could become writers, intellects – and still have rich personal lives.’ The heroines of Elena Ferrante’s masterwork _My Brilliant Friend_ bond over a tattered copy of Alcott’s book, vowing to write their own. Poet Gail Mazur thanked Alcott for helping writers ‘to live with, knowing we’re not alone, the conflict between the writer’s need for solitude and self-absorption and the yearning for the warmth of love.’ Harry Potter creator J.K. Rowling said of Jo March: ‘It is hard to overstate what she meant to a small, plain girl called Jo, who had a hot temper and a burning ambition to be a writer.’
+In drawing early inspiration from _Little Women_, Gerwig has a lot of company. The late sci-fi master Ursula K. Le Guin called Alcott ‘close as a sister’. Novelist Erica Jong said _Little Women_ sparked a belief that ‘women could become writers, intellects – and still have rich personal lives.’ The heroines of Elena Ferrante’s masterwork _My Brilliant Friend_ bond over a tattered copy of Alcott’s book, vowing to write their own. Poet Gail Mazur thanked Alcott for helping writers ‘to live with, knowing we’re not alone, the conflict between the writer’s need for solitude and self-absorption and the yearning for the warmth of love.’ Harry Potter creator J.K. Rowling said of Jo March: ‘It is hard to overstate what she meant to a small, plain girl called Jo, who had a hot temper and a burning ambition to be a writer.’
 
 For women, carving out any individualistic path, particularly an artistic life, has been perilous in any era. But that’s also why Jo hit home so hard with Gerwig. ‘There’s a rebel spirit contained in Jo, and a hope for a life beyond what your gender dictates that is completely exciting to us still,’ says Gerwig. ‘She’s this girl with a boy’s name who wants to write, and she’s ambitious and she’s angry and she’s so many different things that we identify with. It’s like she allowed us to be free.’  
 **Production notes**  
@@ -170,6 +165,6 @@ Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00
 Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODIzNjk4MywtMzE3MjgwMjQ1LC02MT
-EzMTU4ODUsLTE0NTc0OTQ4ODldfQ==
+eyJoaXN0b3J5IjpbLTIwNjMyOTgyNjUsLTMxNzI4MDI0NSwtNj
+ExMzE1ODg1LC0xNDU3NDk0ODg5XX0=
 -->
