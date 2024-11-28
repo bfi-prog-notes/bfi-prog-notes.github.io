@@ -27,17 +27,12 @@ The camera moves in to a two-shot at the end of the 90 seconds, but if it had pu
 That’ll be Fran and C.C.’s world if they live together and love together. They won’t be hippies. They won’t go to Woodstock. They’re not trendy. They’re hurt, beautiful and feel dirtied by the world in which they work. Half a century later, in their eighties, would they vote for Donald Trump? Possibly.  
 **Mark Cousins, _Sight and Sound_, January 2018**  
 <br>
-<![endif]-->
 
-**THE APARTMENT**
-
-_Directed by:_ Billy Wilder
-
-_©/Production Company:_ Mirisch Company
-
-_Produced by:_ Billy Wilder
-
-_Associate Producers:_ I.A.L. Diamond,Doane Harrison  
+**THE APARTMENT**  
+_Directed by:_ Billy Wilder  
+_©/Production Company:_ Mirisch Company  
+_Produced by:_ Billy Wilder  
+_Associate Producers:_ I.A.L. Diamond, Doane Harrison  
 _Production Manager:_ Allen K. Wood  
 _Assistant Director:_ Hal Polaire  
 _Script Continuity:_ May Wale  
@@ -58,7 +53,6 @@ _Wardrobe:_ Forrest T. Butler
 _Hairstylist:_ Alice Monte  
 
 **Cast**  
-
 Jack Lemmon _(C.C. ‘Bud’ Baxter)_  
 Shirley MacLaine _(Fran Kubelik)_  
 Fred MacMurray _(Jeff D. Sheldrake)_  
@@ -83,5 +77,5 @@ USA 1960©
 125 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDQwNTEzOV19
+eyJoaXN0b3J5IjpbLTU3MDczNTIzOF19
 -->
