@@ -1,18 +1,15 @@
 
 
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-Wilder’s much-lauded classic is a film of contradictions: a romantic comedy about suicide and adultery, at once glaringly ‘Hollywood’ yet relatably mundane. Jack Lemmon is perfect as everyman CC Baxter, muddling through a banal existence dominated by minor sacrifices in pursuit of ambition. The only light in his life is supplied by Shirley MacLaine’s vibrant elevator operator. Balancing quips with existential crises, Billy Wilder’s Oscar-winning classic is simultaneously heartwarming and heartbreaking.
-
-bfi.org.uk
+Wilder’s much-lauded classic is a film of contradictions: a romantic comedy about suicide and adultery, at once glaringly ‘Hollywood’ yet relatably mundane. Jack Lemmon is perfect as everyman CC Baxter, muddling through a banal existence dominated by minor sacrifices in pursuit of ambition. The only light in his life is supplied by Shirley MacLaine’s vibrant elevator operator. Balancing quips with existential crises, Billy Wilder’s Oscar-winning classic is simultaneously heartwarming and heartbreaking.  
+**bfi.org.uk**  
 
 _The Apartment_ may be set during the Christmas holidays but, despite its sophistication and peerless wit, it offers little in the way of festive cheer. This is a romantic comedy macerated in moral corruption and director Billy Wilder’s trademark cynicism. Inspired by the British weepie _Brief Encounter_ (1945), but transferred to mid-century Manhattan, _The Apartment_ is as much about loneliness and self-loathing as it is about love. And yet, the joy of its airtight script by Wilder and I.A.L. Diamond, its bittersweet score by Adolph Deutsch, and Joseph LaShelle’s gleaming monochrome widescreen cinematography make it a film to savour – not to mention the famous forced-perspective sets by Alexandre Trauner, which transform an office block into an anonymous dystopia.
 
-Jack Lemmon plays the hapless C.C. Baxter, a desk jockey at a New York insurance firm who is so much of a loser at love that instead of enjoying flirtations of his own he lends his flat to his sleazy colleagues for their adulterous trysts. Shirley MacLaine plays Fran, the unattainable object of his affection, a charming lift operator whose heart is broken by one of those duplicitous office creeps: a callous boss played by Fred MacMurray, returning to the insurance business after his previous turn for Wilder in _Double Indemnity_ (1944). Lemmon and MacLaine make an adorable couple, two lost souls in the mean streets, but sharing an ambiguous attraction right up until the film’s famous last line.
-
-Pamela Hutchinson, _Sight and Sound_, February 2018
+Jack Lemmon plays the hapless C.C. Baxter, a desk jockey at a New York insurance firm who is so much of a loser at love that instead of enjoying flirtations of his own he lends his flat to his sleazy colleagues for their adulterous trysts. Shirley MacLaine plays Fran, the unattainable object of his affection, a charming lift operator whose heart is broken by one of those duplicitous office creeps: a callous boss played by Fred MacMurray, returning to the insurance business after his previous turn for Wilder in _Double Indemnity_ (1944). Lemmon and MacLaine make an adorable couple, two lost souls in the mean streets, but sharing an ambiguous attraction right up until the film’s famous last line.  
+**Pamela Hutchinson, _Sight and Sound_, February 2018**  
 
 **Mark Cousins on The Apartment’s ending**
 
@@ -77,5 +74,5 @@ USA 1960©
 125 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDczNTIzOF19
+eyJoaXN0b3J5IjpbMTkwMTI5ODk4MSwtNTcwNzM1MjM4XX0=
 -->
