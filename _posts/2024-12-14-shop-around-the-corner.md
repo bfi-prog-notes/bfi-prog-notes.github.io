@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  The Apartment
+title:  The Shop around the Corner
 published: true
-date: 2024-12-10
+date: 2024-12-14
 readtime: true
 categories: ['CHRISTMAS FILMS']
-tags: [Comedy, Drama]
-metadata: 'USA 1960, 125 mins<br> Director: Billy Wilder'
-pdf: '2024-12-10-apartment.pdf'
+tags: [Comedy, Romance]
+metadata: 'USA 1940, 98 mins<br> Director: Ernst Lubitsch'
+pdf: '2024-12-14-shop-around-the-corner.pdf'
 ---
 
 Ernst Lubitsch grew up in Berlin as the son of the Russian Jewish émigré owner of a dressmaking company. He knew the world of shops and they feature often in his films. Perhaps witnessing the patter of his father’s employees – the centrality of role play to the life of a salesman – encouraged the young Lubitsch to play roles, and drew him towards acting as a profession. Before he became a director, he was a successful self-mocking character actor, first on the German stage for Max Reinhardt and later in films. That he should end up in Hollywood seems a natural progression for a Jewish sophisticate trying to escape his trade roots.
@@ -128,5 +128,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MzE3NDY4LC0xOTE1MDg0NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0Njc4NTc1MjcsNDY4MzE3NDY4LC0xOT
+E1MDg0NzNdfQ==
 -->
