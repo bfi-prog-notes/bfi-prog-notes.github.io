@@ -39,106 +39,53 @@ _Directed by:_ Stanley Kubrick
 
 _©/Presented by:_ Warner Bros.
 
-_Production Company:_ Pole Star
-
-_Made by:_ Hobby Films Ltd
-
-_Executive Producer:_ Jan Harlan
-
-_Produced by:_ Stanley Kubrick
-
-_Co-producer:_ Brian W. Cook
-
-_Production Associate:_ Michael Doven
-
-_Production Accountant:_ John Trehy
-
-_Production Co-ordinator:_ Kate Garbett
-
-_Production Manager:_ Margaret Adams
-
-_2nd Unit Production Manager:_ Lisa Leone
-
-_Location Managers:_ Simon McNair Scott,
-
-Angus More Gordon
-
-_Location Research:_ Manuel Harlan
-
-_Assistant to the Director:_ Leon Vitali
-
-_Assistant: Stanley Kubrick:_ Anthony Frewin
-
-_1st Assistant Director:_ Brian W. Cook
-
-_2nd Assistant Director:_ Adrian Toynton
-
-_3rd Assistant Directors:_ Becky Hunt, Rhun Francis
-
-_Script Supervisor:_ Ann Simpson
-
-_Casting:_ Denise Chamian, Leon Vitali
-
-_Extras Casting:_ 20-20 Casting
-
-_Screenplay by:_ Stanley Kubrick, Frederic Raphael
-
-_Inspired by ‘Traumnovelle’ by:_ Arthur Schnitzler
-
-_Lighting Cameraman:_ Larry Smith
-
-_2nd Unit Cinematography:_ Patrick Turley,  
-Malik Sayeed, Arthur Jaffa
-
-_Camera Operator:_ Martin Hume
-
-_Steadicam Operators:_ Elizabeth Ziegler,  
-Peter Cavaciuti
-
-_2nd Unit Steadicam Operator:_ Jim C. McConkey
-
-_Video Co-ordinator:_ Andrew Haddock
-
-_Stills Photography:_ Manuel Harlan
-
-_Digital Visual Effects/Animation:_  
-Computer Film Company
-
-_Editor:_ Nigel Galt
-
-_1st Assistant Editor:_ Melanie Viner Cuneo
-
-_Avid Assistant Editor:_ Claus Wehlisch
-
-_Assistant Editor:_ Claire Ferguson
-
-_Production Designers:_ Les Tomkins, Roy Walker
-
-_Supervising Art Director:_ Kevin Phipps
-
-_Art Director:_ John Fenner
-
-_Set Decorators:_ Terry Wells Sr, Lisa Leone
-
-_Original Paintings by:_ Christiane Kubrick,  
-Katharina Hobbs
-
-_Draughtspersons:_ Stephen Dobric, Jon Billington
-
-_Property Master:_ Terry Wells Jr
-
-_Construction Manager:_ John Maher
-
-_Costume Designer:_ Marit Allen
-
-_Costume Supervisor:_ Nancy Thompson
-
-_Wardrobe Mistress:_ Jacqueline Durran
-
-_Make-up:_ Robert McCann
-
-_Hair:_ Kerry Warn
-
+_Production Company:_ Pole Star  
+_Made by:_ Hobby Films Ltd  
+_Executive Producer:_ Jan Harlan  
+_Produced by:_ Stanley Kubrick  
+_Co-producer:_ Brian W. Cook  
+_Production Associate:_ Michael Doven  
+_Production Accountant:_ John Trehy  
+_Production Co-ordinator:_ Kate Garbett  
+_Production Manager:_ Margaret Adams  
+_2nd Unit Production Manager:_ Lisa Leone  
+_Location Managers:_ Simon McNair Scott, Angus More Gordon  
+_Location Research:_ Manuel Harlan  
+_Assistant to the Director:_ Leon Vitali  
+_Assistant: Stanley Kubrick:_ Anthony Frewin  
+_1st Assistant Director:_ Brian W. Cook  
+_2nd Assistant Director:_ Adrian Toynton  
+_3rd Assistant Directors:_ Becky Hunt, Rhun Francis  
+_Script Supervisor:_ Ann Simpson  
+_Casting:_ Denise Chamian, Leon Vitali  
+_Extras Casting:_ 20-20 Casting  
+_Screenplay by:_ Stanley Kubrick, Frederic Raphael  
+_Inspired by ‘Traumnovelle’ by:_ Arthur Schnitzler  
+_Lighting Cameraman:_ Larry Smith  
+_2nd Unit Cinematography:_ Patrick Turley, Malik Sayeed, Arthur Jaffa  
+_Camera Operator:_ Martin Hume  
+_Steadicam Operators:_ Elizabeth Ziegler, Peter Cavaciuti  
+_2nd Unit Steadicam Operator:_ Jim C. McConkey  
+_Video Co-ordinator:_ Andrew Haddock  
+_Stills Photography:_ Manuel Harlan  
+_Digital Visual Effects/Animation:_ Computer Film Company  
+_Editor:_ Nigel Galt  
+_1st Assistant Editor:_ Melanie Viner Cuneo  
+_Avid Assistant Editor:_ Claus Wehlisch  
+_Assistant Editor:_ Claire Ferguson  
+_Production Designers:_ Les Tomkins, Roy Walker  
+_Supervising Art Director:_ Kevin Phipps  
+_Art Director:_ John Fenner  
+_Set Decorators:_ Terry Wells Sr, Lisa Leone  
+_Original Paintings by:_ Christiane Kubrick, Katharina Hobbs  
+_Draughtspersons:_ Stephen Dobric, Jon Billington  
+_Property Master:_ Terry Wells Jr  
+_Construction Manager:_ John Maher  
+_Costume Designer:_ Marit Allen  
+_Costume Supervisor:_ Nancy Thompson  
+_Wardrobe Mistress:_ Jacqueline Durran  
+_Make-up:_ Robert McCann  
+_Hair:_ Kerry Warn  
 _Titles:_ Chapman Beauvais  
 _Title Opticals:_ General Screen Enterprises  
 _Original Music by:_ Jocelyn Pook  
@@ -203,5 +150,5 @@ USA/UK 1999©
 159 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3Njg4MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMTM3MzkyODJdfQ==
 -->
