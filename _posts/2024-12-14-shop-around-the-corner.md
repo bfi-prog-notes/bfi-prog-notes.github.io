@@ -14,8 +14,7 @@ Ernst Lubitsch grew up in Berlin as the son of the Russian Jewish émigré owner
 
 Jewish traders of European extraction, such as Adolph Zukor (furs), Carl Laemmle (retail clothing) and Louis B. Mayer (scrap metal), founded the Hollywood studio business. There was always an affinity between ‘putting on a show’ to sell shop items and ‘putting on a show’ in movies. In his seminal 1988 book _An Empire of Their Own_, Neal Gabler says that the Jewish traders made ‘a sustained attempt to live a fiction and to cast its spell over the minds of others’. Lubitsch moved to Hollywood at the invitation of Mary Pickford after the international success of his historical dramas _Madame DuBarry_ (1919) and _Anna Boleyn_ (1920). She hired him to direct her in _Rosita_ (1923), and though they didn’t get on that well, Lubitsch remained in Hollywood and flourished as one of its most accomplished artists.
 
-In the context of _The Shop around the Corner_, it is easy to imagine the young Lubitsch as Pepi, the teenage errand boy of Matuschek and Co. played so brilliantly by William Tracy as the sharpest Budapest street kid turned legit.  
-Pepi constantly complains that the pampered wife of proprietor Mr Matuschek runs his legs off after hours, so his favourite occupation is to imitate her in a high voice: ‘Pepi, go to the dressmaker. Oh Pepi, will you please pick up a package at the drugstore?’
+In the context of _The Shop around the Corner_, it is easy to imagine the young Lubitsch as Pepi, the teenage errand boy of Matuschek and Co. played so brilliantly by William Tracy as the sharpest Budapest street kid turned legit. Pepi constantly complains that the pampered wife of proprietor Mr Matuschek runs his legs off after hours, so his favourite occupation is to imitate her in a high voice: ‘Pepi, go to the dressmaker. Oh Pepi, will you please pick up a package at the drugstore?’
 
 Of course, Lubitsch’s father did not work in a leather-goods store, and in any case the film was based not on any Lubitsch autobiographical matter but on Nikolaus Laszlo’s 1936 play _Parfumerie_, but we know that one essential ingredient of what came to be known as ‘the Lubitsch touch’ is that the director would act out every role for every actor he was directing. This is what accounts for the extraordinary consistency of tone in his films, including those that he produced but were directed by the likes of Frank Borzage and Otto Preminger. A talent for mimicry, pretence and persuasion was the foundation of his approach.
 
@@ -128,6 +127,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc4NTc1MjcsNDY4MzE3NDY4LC0xOT
-E1MDg0NzNdfQ==
+eyJoaXN0b3J5IjpbMTE2NjM4NjY2OSw0NjgzMTc0NjgsLTE5MT
+UwODQ3M119
 -->
