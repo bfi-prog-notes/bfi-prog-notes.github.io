@@ -20,17 +20,13 @@ Typically, despite the ancient Jerusalem setting, the Pythons draw upon the Brit
 
 The Pythons never intended the film to be a satire of the gospels, but a critique of the fractious nature of organised religion. Nevertheless, it caused outrage amongst religious groups, and created a wave of lobbying and boycotts which successfully persuaded a few local councils to ban the film. Of the 101 local authorities that insisted on viewing _Life of Brian_ before granting a license, 68 upheld the British Board of Film Censors’ AA certificate, 28 enforced a local X rating and 11 banned it from exhibition in their jurisdiction.
 
-In spite of (or perhaps because of) the moral outrage, _Life of Brian_ was a box-office success, and Handmade Films – the production company set up by George Harrison to finance the film – became one of the British cinema’s major players during the 1980s and ’90s, responsible for a string of acclaimed films including _The Long Good Friday_ (d. John Mackenzie, 1979), _Time Bandits_  
-(d. Terry Gilliam, 1981) and _Withnail & I_ (d. Bruce Robinson, 1986).
+In spite of (or perhaps because of) the moral outrage, _Life of Brian_ was a box-office success, and Handmade Films – the production company set up by George Harrison to finance the film – became one of the British cinema’s major players during the 1980s and ’90s, responsible for a string of acclaimed films including _The Long Good Friday_ (d. John Mackenzie, 1979), _Time Bandits_ (d. Terry Gilliam, 1981) and _Withnail & I_ (d. Bruce Robinson, 1986).  
+**Justin Hobday, BFI Screenonline, screenonline.org.uk**  
 
-Justin Hobday, BFI Screenonline, screenonline.org.uk
+Having agreed that sharing the directorial chores with Terry Gilliam on _Monty Python and the Holy Grail_ had proved overly problematic, Terry Jones took sole control of a follow-up that Eric Idle had pitched with the title _Jesus Christ: Lust for Glory_. Shooting in Monastir, Tunisia on sets left by Franco Zeffirelli’s _Jesus of Nazareth_ (1977), Jones limited his on-screen presence to focus on his direction. Nevertheless, he still landed the standout line as Brian Cohen’s mother, Mandy: ‘He’s not the Messiah. He’s a very naughty boy!’ Proudly declaring the film heretical, Jones defended it against accusations of blasphemy when it incurred a furious Christian backlash.  
+**David Parkinson, bfi.org.uk**  
 
-Having agreed that sharing the directorial chores with Terry Gilliam on _Monty Python and the Holy Grail_ had proved overly problematic, Terry Jones took sole control of a follow-up that Eric Idle had pitched with the title _Jesus Christ: Lust for Glory_. Shooting in Monastir, Tunisia on sets left by Franco Zeffirelli’s _Jesus of Nazareth_ (1977), Jones limited his on-screen presence to focus on his direction. Nevertheless, he still landed the standout line as Brian Cohen’s mother, Mandy: ‘He’s not the Messiah. He’s a very naughty boy!’ Proudly declaring the film heretical, Jones defended it against accusations of blasphemy when it incurred a furious Christian backlash.
-
-David Parkinson, bfi.org.uk
-
-**A contemporary review**
-
+**A contemporary review**  
 The Monty Python team, back in co-creative force after Terry Gilliam’s pretty but rather unfunny _Jabberwocky_, seem to have learned a lesson from their last feature, _Monty Python and the Holy Grail_. They have at last abandoned their obsession with the fragmented absurdities, alienation gags and endless caption-and-credit jokes which inspired their TV half-hours but which merely disrupt the pace of a ninety-minute film.
 
 _Life of Brian_ adopts a refreshingly coherent plot structure, still highly inventive but with the fun used in such a way as to advance rather than delay the story. Thus, the scene in which a pedantic Roman centurion corrects the grammar in Brian’s Latin graffito (‘Romans Go Home’ is the translation), and makes him write it out a hundred times, is not only superbly funny but also serves to convert Brian to political activism and puts him on the road to martyrdom. Even the one truly Python-esque moment – when Brian is fortuitously rescued from pursuing Roman soldiers by a passing starship driven by Muppet monsters in the midst of a frantic space war – somehow slots smoothly into the action and indeed launches the film into its cumulatively hilarious second half.
