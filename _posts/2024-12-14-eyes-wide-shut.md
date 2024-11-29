@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: Eyes Wide Shut
+published: true
+date: 2024-12-14
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA/UK 1999 2014, 159 mins<br> Director: Stanley Kubrick'
+pdf: '2024-12-14-eyes-wide-shut.pdf'
+---
 
 **Jan Harlan (executive producer):** Stanley’s idea was to show a modern hell, a very abstract concept, a hell into which people enter out of boredom – money and wealth won’t do it any longer. Did he succeed? In Mediterranean countries and in Japan, yes, if one can generalise – in the UK and the USA, no. Arthur Schnitzler’s source novel had nuns, shocking in the 1920s, now obsolete; Stanley just upgraded this. I flew to Venice and bought the masks, all different – I know every mask shop and studio, as I was guided by a local lady. It was not too hard to solve this last-minute problem. Originally the voyeurs had half-masks, more in keeping with Vienna, but this would not work as a total disguise. The Indian Palace, the strange music, the masked girls, all this to make the scene as unreal as possible.
 
@@ -192,5 +201,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc3OTg4MTVdfQ==
+eyJoaXN0b3J5IjpbMTkyMDY1MDA1NV19
 -->
