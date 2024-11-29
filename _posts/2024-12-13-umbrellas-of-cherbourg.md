@@ -23,6 +23,78 @@ In keeping with the film’s technically brilliant air of artificiality are the 
 Most exciting of all is perhaps the fact that on turning from the music to the very Parisian colour, one finds exactly the same language being spoken. Visually this is a world where pink and brick red come together without actually screaming; where a girl can wear a dress in blue with a mauve floral design to match the wallpaper exactly; where the purchase of a black umbrella, interrupting an early farewell between the lovers, seems not without dramatic significance. In short, the aural and visual tones created by Demy, Legrand and Bernard Evein, are at the same time complementary to each other and abrasively alive enough to carry off the film.  
 **_Monthly Film Bulletin_, February 1965**  
 <br>
+
+**THE UMBRELLAS OF CHERBOURG (LES PARAPLUIES DE CHERBOURG)**  
+_Director:_ Jacques Demy  
+_Production Companies:_ Parc Film, Madeleine Films, Beta Film  
+_Producer:_ Mag Bodard  
+_Production Manager:_ Philippe Dussart  
+_Unit Manager:_ Maurice Urbain  
+_Location Manager:_ Charles Chieusse *  
+_Production Secretary:_ Jeanne-Marie Olivier *  
+_Production Accountant:_ Daniel Videlier *  
+_Assistant Directors:_ Jean-Paul Savignac, Klaus Müller-Laue  
+_2nd Assistant Director:_ André Flédérick  
+_Script Supervisor:_ Annie Maurel  
+_Original Scenario/Dialogue:_ Jacques Demy  
+_Director of Photography:_ Jean Rabier  
+_Camera Operators:_ Pierre Willemin, Jean-Paul Lemaître  
+_Stills:_ Léo Weisse  
+_Editor:_ Monique Teisseire  
+_Assistant Editor:_ Gisèle Chézeau *  
+_Art Director:_ Bernard Evein  
+_Assistant Art Directors:_ Claude Pignot, Jean Didenot *  
+_Properties:_ Joseph Gerhard *  
+_Costumes:_ Jacqueline Moreau  
+_Costumer:_ Agnès Soulet  
+_Gowns for Ms Deneuve:_ Real  
+_Umbrellas:_ ONM  
+_Make-up:_ Christiane Fornelli  
+_Hairstyles:_ Carita  
+_Music/Music Conductor:_ Michel Legrand  
+_Lyrics:_ Jacques Demy  
+
+**Cast**  
+Catherine Deneuve _(Geneviève Emery)_  
+Nino Castelnuovo _(Guy Foucher)_  
+Anne Vernon _(Madame Emery)_  
+Marc Michel _(Roland Cassard)_  
+Ellen Farner _(Madeleine)_  
+Mireille Perrey _(Aunt Elise)_  
+Jean Champion _(Aubin)_  
+Pierre Caden _(Bernard)_  
+Jean-Pierre Dorat _(Jean)_  
+Bernard Fradet _(gas station apprentice)_  
+Michel Benoist _(umbrella shop customer)_  
+Philippe Dumat _(garage customer, 1957)_  
+Dorothée Blank _(girl in the sailors’ café)_  
+Jane Carat _(Jenny/Geneviève)_  
+Harald Wolff _(Dubourg)_  
+Danielle Licari _(singing voice of Geneviève)_  
+José Bartel _(singing voice of Guy)_  
+Christiane Legrand _(singing voice of Madame Emery)_  
+Georges Blanès _(singing voice of Roland Cassard)_  
+Claudine Meunier _(singing voice of Madeleine)_  
+Claire Leclerc _(singing voice of Aunt Elise)_  
+Jean-Paul Chizat _(Pierre)_ *  
+Patrick Bricard _(waiter)_ *  
+Roger Perrinoz _(café proprietor)_ *  
+Paul Pavel _(first removal man)_ *  
+Gisèle Grandpré _(Madame Germaine)_ *  
+Rosalie Varda _(Françoise Cassard)_ *  
+François Foucher _(Hervé Legrand)_ *  
+Michel Legrand _(singing voice of Jean/postman)_ *  
+Jacques Demy _(singing voice of distracted customer/barman)_ *  
+
+France/West Germany 1964  
+91 mins  
+Digital 4k (restoration)  
+
+\* Uncredited  
+
+A Janus Films release  
+
+4K Restoration by Ciné-Tamaris at Éclair Classics and L.E. Diapason laboratories, from the wet scan of the original camera negative and the three-track stereo mix of music and voices. Restoration supervised by Mathieu Remy and Rosalie Varda-Demy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDgyODAzNV19
+eyJoaXN0b3J5IjpbMTEwMjYyOTUxMF19
 -->
