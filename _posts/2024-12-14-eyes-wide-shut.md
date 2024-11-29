@@ -139,86 +139,46 @@ _Make-up:_ Robert McCann
 
 _Hair:_ Kerry Warn
 
-_Titles:_ Chapman Beauvais
+_Titles:_ Chapman Beauvais  
+_Title Opticals:_ General Screen Enterprises  
+_Original Music by:_ Jocelyn Pook  
+_Music Consultant:_ Didier De Cottigniers  
+_Choreographer:_ Yolande Snaith  
+_Sound Recordist:_ Edward Tise  
+_Sound Maintenance:_ Tony Bell  
+_Re-recording Mixers:_ Graham V. Hartstone, Michael A. Carter, Nigel Galt, Anthony Cleal  
+_Supervising Sound Editor:_ Paul Conway  
+_Sound Editing:_ Sound Design Company  
+_Foley Editor:_ Becki Ponting  
+_Camera Technical Adviser:_ Joe Dunton  
+_Medical Adviser:_ Dr C.J. Scheiner  
+_Journalistic Adviser:_ Larry Celona  
+_Dialect Coach to Ms Nicole Kidman:_ Elizabeth Himelstein  
+_ Venetian Masks Research:_ Barbara Del Greco  
+_Studio:_ Pinewood Studios  
 
-_Title Opticals:_ General Screen Enterprises
-
-_Original Music by:_ Jocelyn Pook
-
-_Music Consultant:_ Didier De Cottigniers
-
-_Choreographer:_ Yolande Snaith
-
-_Sound Recordist:_ Edward Tise
-
-_Sound Maintenance:_ Tony Bell
-
-_Re-recording Mixers:_ Graham V. Hartstone,  
-Michael A. Carter, Nigel Galt, Anthony Cleal
-
-_Supervising Sound Editor:_ Paul Conway
-
-_Sound Editing:_ Sound Design Company
-
-_Foley Editor:_ Becki Ponting
-
-_Camera Technical Adviser:_ Joe Dunton
-
-_Medical Adviser:_ Dr C.J. Scheiner
-
-_Journalistic Adviser:_ Larry Celona
-
-_Dialect Coach to Ms Nicole Kidman:_  
-Elizabeth Himelstein
-
-_  
-Venetian Masks Research:_ Barbara Del Greco
-
-_Studio:_ Pinewood Studios
-
-_Cast:
-Tom Cruise _(Dr William Harford)_
-
-Nicole Kidman _(Alice Harford)_
-
-Sydney Pollack _(Victor Ziegler)_
-
-Marie Richardson _(Marion Nathanson)_
-
-Rade Sherbedgia _(Milich)_
-
-Todd Field _(Nick Nightingale)_
-
-Vinessa Shaw _(Domino)_
-
-Alan Cumming _(desk clerk)_
-
-Sky Dumont _(Sandor Szavost)_
-
-Fay Masterson _(Sally)_
-
-LeeLee Sobieski _(Milich’s daughter)_
-
-Thomas Gibson _(Carl)_
-
-Madison Eginton _(Helena Harford)_
-
-Jackie Sawiris _(Roz)_
-
-Leslie Lowe _(Illona)_
-
-Peter Benson _(bandleader)_
-
-Michael Doven _(Ziegler’s secretary)_
-
-Louise Taylor _(Gayle)_
-
-Stewart Thorndike _(Nuala Windsor)_
-
-Randall Paul _(Harris)_
-
-Julienne Davis _(Mandy)_
-
+**Cast**  
+Tom Cruise _(Dr William Harford)_  
+Nicole Kidman _(Alice Harford)_  
+Sydney Pollack _(Victor Ziegler)_  
+Marie Richardson _(Marion Nathanson)_  
+Rade Sherbedgia _(Milich)_  
+Todd Field _(Nick Nightingale)_  
+Vinessa Shaw _(Domino)_  
+Alan Cumming _(desk clerk)_  
+Sky Dumont _(Sandor Szavost)_  
+Fay Masterson _(Sally)_  
+LeeLee Sobieski _(Milich’s daughter)_  
+Thomas Gibson _(Carl)_  
+Madison Eginton _(Helena Harford)_  
+Jackie Sawiris _(Roz)_  
+Leslie Lowe _(Illona)_  
+Peter Benson _(bandleader)_  
+Michael Doven _(Ziegler’s secretary)_  
+Louise Taylor _(Gayle)_  
+Stewart Thorndike _(Nuala Windsor)_  
+Randall Paul _(Harris)_  
+Julienne Davis _(Mandy)_  
 Lisa Leone _(Lisa, receptionist)_  
 Kevin Connealy _(Lou Nathanson)_  
 Mariana Hewett _(Rosa)_  
@@ -243,5 +203,5 @@ USA/UK 1999©
 159 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY5NTkxOTFdfQ==
+eyJoaXN0b3J5IjpbNjI3Njg4MjJdfQ==
 -->
