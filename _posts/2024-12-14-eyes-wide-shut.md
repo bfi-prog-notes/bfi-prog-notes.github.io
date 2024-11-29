@@ -6,7 +6,7 @@ date: 2024-12-14
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA/UK 1999 2014, 159 mins<br> Director: Stanley Kubrick'
+metadata: 'USA/UK 1999, 159 mins<br> Director: Stanley Kubrick'
 pdf: '2024-12-14-eyes-wide-shut.pdf'
 ---
 
@@ -26,8 +26,7 @@ During more than two years of collaboration, Stanley and I met, always at his ba
 
 Schnitzler’s ‘beats’ did not embrace any account of who organised the orgy. The episode concluded with a manifestly dreamy escape in a horse-drawn cab. I reminded Stanley that the enigmatic ending of Michelangelo Antonioni’s _Blowup_ (1966) had not given short measure a good name. Eventually, Stanley asked for some plausible background for what the orgy’s master of ceremonies, a millionaire whom I called Ziegler (played by Sydney Pollack), regularly organised. One critic has insisted Ziegler’s name was culled from some 14th-century Hasidic rabbi. In fact, I nabbed it from a garrulous agent who represented me in 1969.
 
-In response to Stanley’s request, I typed out several pages of what purported to be an undercover FBI agent’s dossier on Ziegler and his friends. Their sexual extravaganzas were alleged to have been staged in honour of J.F.K. I faxed my pages to Stanley and was almost instantly called back, in a voice I had never heard before. He wanted me to tell him right away where I got ‘this stuff’.  
-I said, ‘From between my ears.’ He said, ‘Freddie, don’t fool around with me. This is confidential material. Where did you get hold of it?’ ‘Stanley,’ I said, ‘I’m a writer. I make things up.’ Even provocateurs can dread the knock on the door.
+In response to Stanley’s request, I typed out several pages of what purported to be an undercover FBI agent’s dossier on Ziegler and his friends. Their sexual extravaganzas were alleged to have been staged in honour of J.F.K. I faxed my pages to Stanley and was almost instantly called back, in a voice I had never heard before. He wanted me to tell him right away where I got ‘this stuff’. I said, ‘From between my ears.’ He said, ‘Freddie, don’t fool around with me. This is confidential material. Where did you get hold of it?’ ‘Stanley,’ I said, ‘I’m a writer. I make things up.’ Even provocateurs can dread the knock on the door.
 
 Eventually I convinced Stanley that there should be a final scene with Ziegler which would explain some of the things that had happened in the ‘dream’. He turned down an early version, although he liked it, because ‘It needs Bogart and Greenstreet and unfortunately I can’t get them, so… would you do it again?’ He used to ask the same thing of his actors. He did not know what he was looking for, but – like Picasso – he recognised it when he came across it. How come _Eyes Wide Shut_ seems, as the cant says, ‘more relevant’ after 20 years? Images sometimes gather significance. Freud was another great admirer of ‘Arthur’; dreams were Sigmund’s _objets trouvés_.  
 **_Sight and Sound_, December 2019**  
@@ -98,7 +97,7 @@ _Camera Technical Adviser:_ Joe Dunton
 _Medical Adviser:_ Dr C.J. Scheiner  
 _Journalistic Adviser:_ Larry Celona  
 _Dialect Coach to Ms Nicole Kidman:_ Elizabeth Himelstein  
-_ Venetian Masks Research:_ Barbara Del Greco  
+_Venetian Masks Research:_ Barbara Del Greco  
 _Studio:_ Pinewood Studios  
 
 **Cast**  
