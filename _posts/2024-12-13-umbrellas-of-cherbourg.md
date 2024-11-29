@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: The Umbrellas of Cherbourg
+published: true
+date: 2024-12-13
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama, Romance, Musica]
+metadata: 'UK/USA 2014, 118 mins<br> Director: Todd Haynes'
+pdf: '2024-12-12-carol.pdf'
+---
 
 _Les Parapluies de Cherbourg_ enjoys a legendary place as an all-but-unique curiosity in French cinema – the film for which the epithet ‘bittersweet’ was invented, less a musical (though French examples of that genre are rare enough) than an operetta in which everything is sung and there is not a line of spoken dialogue, a richly-coloured feast for celluloid chocaholics. Reviewing the film after many years, however, what is striking is not so much its uniqueness as its intersection with other French films of the _nouvelle vague_ years – not only Demy’s _Lola_ of three years previously (in which Roland Cassard makes his first appearance) but also works that dealt with the impact of the Algerian War on French society. Agnès Varda (Demy’s wife) had counterpointed the suffering of an individual woman to the drama of the call-up in _Cléo de 5 a 7_ the previous year, and Resnais did likewise, though in a totally different way, in _Muriel_ released in the same year as _Les Parapluies_. The addressing of a major political problem through a drama of lost love had of course been most memorably broached by Resnais and Duras in _Hiroshima mon amour_ of 1959, and the rigours of Gaullist censorship had ensured that that was one of the few comparatively safe ways for the cinema to address Algeria.
 
@@ -96,5 +104,5 @@ A Janus Films release
 
 4K Restoration by Ciné-Tamaris at Éclair Classics and L.E. Diapason laboratories, from the wet scan of the original camera negative and the three-track stereo mix of music and voices. Restoration supervised by Mathieu Remy and Rosalie Varda-Demy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjYyOTUxMF19
+eyJoaXN0b3J5IjpbLTE3Mzg1MTc4MV19
 -->
