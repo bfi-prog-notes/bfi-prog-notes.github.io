@@ -35,28 +35,19 @@ _Music:_ Han Sang-gi<br>
 
 **Cast**<br>
 Kim Jin-kyu<br>
-
 Joo Jeung-nyo<br>
-
 Kim Bo-ae<br>
-
 Kim Dong-won<br>
-
 Lee Ye-chun<br>
-
 Park Am<br>
-
 Jeon Ok<br>
 
 South Korea 1963<br>
-
 89 mins<br>
-
 Digital 4K (restoration)<br>
 
-Restored in 4K in 2019 by the  
-Korean Film Archive (KOFA)<br>
+Restored in 4K in 2019 by the  Korean Film Archive (KOFA)<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTY2MTY1MV19
+eyJoaXN0b3J5IjpbLTU5MjAyMzMzM119
 -->
