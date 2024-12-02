@@ -1,8 +1,18 @@
+---
+layout: post
+title: The Brutalist
+published: true
+date: 2024-11-30
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'USA-UK-Hungary 2024, 215 mins<br> Director: Brady Corbet'
+pdf: '2024-11-30-brutalist.pdf'
+---
 
 The end titles of Brady Corbet’s new film _The Brutalist_ unroll to the unlikely needle drop of ‘One for You, One for Me’ by Italian pop duo La Bionda. The 1978 disco hit smacks of deliberate and triumphant irony. After all, if there were ever a contemporary filmmaker who refuses to do one for himself and one for the studio, it’s Brady Corbet. With his latest, an epic drama about an immigrant architect arriving in America, he completes a trilogy of films, each of which – his debut _The Childhood of a Leader_ (2015) and _Vox Lux_ (2018) – have premiered at the Venice Film Festival, and each portraying enigmatic individuals plunging into the fray of history.
 
-In this instance, the individual is László Toth (Adrien Brody), a damaged man who has survived the Holocaust and fled to the United States. We first see him making his way to the deck of a ship to look upon his new home. From his point of view, the Statue of Liberty appears to be upside down: the first indication that this story of immigration and survival, assimilation and ambition is going to be skewed; that perspective – fittingly for an architect – is going to be everything. He travels to Pennsylvania where he’s taken in by a cousin,  
-Attila (Alessandro Nivola), who has married an American and converted to Catholicism.
+In this instance, the individual is László Toth (Adrien Brody), a damaged man who has survived the Holocaust and fled to the United States. We first see him making his way to the deck of a ship to look upon his new home. From his point of view, the Statue of Liberty appears to be upside down: the first indication that this story of immigration and survival, assimilation and ambition is going to be skewed; that perspective – fittingly for an architect – is going to be everything. He travels to Pennsylvania where he’s taken in by a cousin,  Attila (Alessandro Nivola), who has married an American and converted to Catholicism.
 
 When Attila’s furniture company secures a commission redesigning a rich man’s private library, Toth uses his Bauhaus training to create a space which is modern but also protective, shielding the books from the light. His vision catches the attention of the library’s owner, Harrison Lee Van Buren (played with reptilian ease by Guy Pearce), a racist millionaire who employs Toth to build a community centre to honour his recently departed mother.
 
@@ -60,6 +70,30 @@ USA-UK-Hungary 2024
 
 Courtesy of Universal Pictures
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg5NDA2Nzk5MF19
 -->
