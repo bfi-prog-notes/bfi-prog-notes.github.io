@@ -13,8 +13,7 @@ Frank Capra cleared his throat, and began. The war was over and he was anxious t
 
 Or so the tale goes. As with much else about _It’s a Wonderful Life_, it’s hard to disentangle fact from legend. A contemporary interview provides another origin myth, with Capra pitching the film to Stewart, and Stewart being the one who was baffled, declaring, ‘I can’t make head or tail of the damn thing’. The gossip columnist Hedda Hopper had Stewart nevertheless telling Capra that same night, ‘It’s for me’, even as he feared that he could no longer act.
 
-In retrospect, Capra’s hesitancy seems absurd, hanging back on the cusp of making one of the greatest American films. He would encapsulate in this one piece those obsessions that characterised the quintessential Capra movie:  
-the run on the bank (_American Madness_), the self-help cooperative scheme (_Mr. Deeds_ _Goes to Town_), friends rallying round with financial help in a crisis (_You Can’t Take It with You_), contemplated suicide and a Christmas Eve dénouement (_Meet John Doe_). _It’s a Wonderful Life_ offers the culmination of the Capraesque; he had become his own richest source.
+In retrospect, Capra’s hesitancy seems absurd, hanging back on the cusp of making one of the greatest American films. He would encapsulate in this one piece those obsessions that characterised the quintessential Capra movie: the run on the bank (_American Madness_), the self-help cooperative scheme (_Mr. Deeds_ _Goes to Town_), friends rallying round with financial help in a crisis (_You Can’t Take It with You_), contemplated suicide and a Christmas Eve dénouement (_Meet John Doe_). _It’s a Wonderful Life_ offers the culmination of the Capraesque; he had become his own richest source.
 
 And yet, that loss of faith in the story proves a significant collapse. For Capra was going to challenge himself and his audience in ways that outstripped anything he had done before or would attempt again. He was going to sell a conundrum to the public, a dazzlingly strange movie at once uncanny and homely, which reaches down to despair and yet still touches joy.
 
@@ -26,9 +25,7 @@ The tale that Stern dreamt up was a simple one. One Christmas, George Pratt, a s
 
 Stern posted one of his ‘Christmas cards’ to his Hollywood agent, Shirley Collier. She passed it on to the studios, and Stern found himself selling the tale for $10,000 to RKO, a deal apparently struck at Cary Grant’s insistence. Stern also sold it to _Good Housekeeping_, under the title, ‘The Man Who Never Was’; in 1945, under its original title, it was published as a short book.
 
-That Christmas of 1943, the Story Department at Paramount Pictures put a copy of Van Doren Stern’s story into circulation. Above the title, ‘The Greatest Gift’, at some point, in brackets, someone scrawled ‘It’s a Wonderful Life’.  
-On 26 February 1944, Ray Spencer at Paramount wrote out a synopsis of Stern’s story, designating it as ‘Drama; Fantasy’, and the period it was set in as the ‘Present’. Spencer judged it to be a ‘very charming short story’, but one that would work best in an ‘episodic picture like the _Tales of Manhattan_.  
-But whether it should be made the basis of a full-length screenplay is a moot question.’  
+That Christmas of 1943, the Story Department at Paramount Pictures put a copy of Van Doren Stern’s story into circulation. Above the title, ‘The Greatest Gift’, at some point, in brackets, someone scrawled ‘It’s a Wonderful Life’. On 26 February 1944, Ray Spencer at Paramount wrote out a synopsis of Stern’s story, designating it as ‘Drama; Fantasy’, and the period it was set in as the ‘Present’. Spencer judged it to be a ‘very charming short story’, but one that would work best in an ‘episodic picture like the _Tales of Manhattan_.cBut whether it should be made the basis of a full-length screenplay is a moot question.’  
 **Extracted from _It’s a Wonderful Life_ by Michael Newton (BFI Film Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Michael Newton**  
 <br>
 
