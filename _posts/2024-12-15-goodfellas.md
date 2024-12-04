@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Eyes Wide Shut
+published: true
+date: 2024-12-14
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1990, 145 mins<br> Director: Martin Scorsese'
+pdf: '2024-12-14-eyes-wide-shut.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -20,9 +28,8 @@ Unconcerned with making excuses or moral judgments (‘After a while’, says Ka
 Superbly shot on location, with uniformly fine performances and Scorsese’s direction at its most sinuously muscular, _GoodFellas_ disappoints only in the slightly perfunctory use of Henry’s wife as a second narrator (her comments offer stronger counterpoint in Pileggi’s original) and in the necessary truncation of the book. A remarkably faithful transcription, the adaptation (by Scorsese and Pileggi himself) nevertheless has to skimp in a crucial area, cutting down on the painstakingly detailed descriptions of the ins and outs of the incredible proliferation of organised scams which made Henry Hill and his self-styled fellow wiseguys (why was the title changed?) feel that America was like a neighbourhood department store where they enjoyed unlimited charge accounts. These reservations are minor, though, in a fascinating, intelligent, and in some ways groundbreaking movie.  
 **Tom Milne, _Monthly Film Bulletin_, December 1990**  
 <br>
-<![endif]-->
 
-**GoodFellas**  
+**GOODFELLAS**  
 _Directed by_: Martin Scorsese  
 ©: Warner Bros Inc.  
 _An_ Irwin Winkler _production_  
@@ -30,22 +37,17 @@ _Presented by_: Warner Bros.
 _Executive Producer_: Barbara De Fina  
 _Produced by_: Irwin Winkler  
 _Associate Producer_: Bruce Pustin  
-_Production Associates_: Michele Giordano,  
-Janet Crosby  
+_Production Associates_: Michele Giordano, Janet Crosby  
 _Unit Production Manager_: Bruce Pustin  
 _Production Accountant_: Todd Arnow  
-_Location Managers_: Steve Rose, Amy Herman,
-
-Neri Tannenbaum, Daniel Coss  
+_Location Managers_: Steve Rose, Amy Herman, Neri Tannenbaum, Daniel Coss  
 _2nd Unit Director_: Joseph Reidy  
 _1st Assistant Director_: Joseph Reidy  
 _Script Supervisor_: Sheila Paige  
 _Casting by_: Ellen Lewis, Laura Rosenthal  
 _Screenplay by_: Nicholas Pileggi, Martin Scorsese  
 _Based on the book_ Wiseguy _by_: Nicholas Pileggi  
-_Directors of Photography_: Michael Ballhaus,
-
-Barry Sonnenfeld  
+_Directors of Photography_: Michael Ballhaus, Barry Sonnenfeld  
 _Camera Operator_: David Dunlap  
 _1st Assistant Camera_: Florian Ballhaus  
 _Still Photographer_: Barry Wetcher  
@@ -60,11 +62,9 @@ _Costume Designer_: Richard Bruno
 _Make-up Artists_: Allen Weisinger, Carl Fullerton, Ilona Herman  
 _Hairstylists_: Bill Farley, Alan D’Angerio  
 _Titles by_: Saul Bass, Elaine Bass  
-_Opticals_: R/Greenberg Associates,  
-Arriflex Cameras, Technicolor  
+_Opticals_: R/Greenberg Associates, Arriflex Cameras, Technicolor  
 _Music Editor_: Christopher Brooks  
-_Production Sound Mixers_: James Sabat,  
-Frank Graziadei  
+_Production Sound Mixers_: James Sabat, Frank Graziadei  
 _Boom Operator_: Louis Sabat  
 _Re-recording Mixer_: Tom Fleischman  
 _Supervising Sound Editor_: Skip Lievsay  
@@ -72,7 +72,7 @@ _Supervising Dialogue Editors_: Philip Stockton, Marissa Littlefield, Fred Rosen
 _ADR Editor_: Gail Showalter  
 _Supervising Foley Editor_: Ron Bochar  
 _Foley Editors_: Bruce Pross, Frank Kern  
-_Stunt Co-ordinator_: Michael Russo 
+_Stunt Co-ordinator_: Michael Russo  
 
 **Cast**  
 Robert De Niro _(James Conway)_  
@@ -112,6 +112,60 @@ Tony Sirico _(Tony Stacks, Cicero’s ‘50s crew)_
 USA 1990  
 145 mins  
 Digital  
+<br>
+
+**BIG SCREEN CLASSICS**  
+
+**Little Women**  
+Sun 1 Dec 18:10; Mon 16 Dec 14:30; Fri 20 Dec 17:50  
+**My Night with Maud** Ma nuit chez Maud  
+Mon 2 Dev 18:10; Thu 5 Dec 12:20; Tue 17 Dec 20:30  
+**Merry Christmas Mr. Lawrence**  
+Tue 3 Dec 20:35; Sat 21 Dec 14:50  
+**When Harry Met Sally**  
+Wed 4 Dec 18:10 + intro by Ruby McGuigan, BFI Programme and Acquisitions; Fri 20 Dec 20:50; Sun 22 Dec 12:15  
+**Torch Song Trilogy**  
+Fri 6 Dec 18:05; Fri 13 Dec 20:30  
+**Female Trouble**  
+Fri 6 Dec 20:50; Wed 18 Dec 20:50; Sun 29 Dec 18:30  
+**Fanny and Alexander** Fanny och Alexander  
+Sat 7 Dec 19:30; Sun 29 Dec 14:15  
+**The City of Lost Children** La Cité des enfants perdus  
+Sun 8 Dec 15:15; Fri 27 Dec 20:45  
+**Tangerine**  
+Mon 9 Dec 20:45; Sat 21 Dec 20:45  
+**Monty Python’s Life of Brian**  
+Wed 11 Dec 18:10 + intro by Justin Johnson, BFI Lead Programmer, Thu 19 Dec 12:30; Sun 22 Dec 18:30  
+**Carol**  
+Thu 12 Dec 12:20; Sat 21 Dec 20:40; Mon 30 Dec 17:50  
+**Eyes Wide Shut**  
+Sat 14 Dec 20:00; Wed 18 Dec 17:40; Sat 28 Dec 17:00  
+**Goodfellas**
+Sun 15 Dec 17:50; Mon 23 Dec 20:10; Sat 28 Dec 20:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NzIwMjY2XX0=
+eyJoaXN0b3J5IjpbMTk2NDIxNjM0NV19
 -->
