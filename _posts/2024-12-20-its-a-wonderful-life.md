@@ -1,7 +1,14 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title:  It's a Wonderful Life
+published: true
+date: 2024-12-20
+readtime: true
+categories: ['CHRISTMAS FILMS']
+tags: [Drama]
+metadata: 'USA 1946, 129 mins<br> Director: Franck Capra'
+pdf: '2024-12-20-its-a-wonderful-life.pdf'
+---
 Frank Capra cleared his throat, and began. The war was over and he was anxious to make another movie. In early October 1945, he approached Lew Wasserman, James Stewart’s agent at MCA, telling him that he wanted to sketch out for Jimmy the idea for a film he had just bought. Capra recalled that ‘Wasserman said Stewart would gladly play the part without hearing the story. But I insisted. If Jimmy was as scared as I was about making another film I’d like to know it.’ Out of practice, demobbed, uncertain, Capra fretted over whether he could still make a great fiction film. He invited Stewart and Wasserman to his business colleague Samuel Briskin’s apartment. There he blundered through what now seemed the sappy tale of a desperate small-town man, redeemed by an angel granting his wish that he had never been born. Capra lost faith in the plot even as he laid it out, and it abruptly struck him as ‘the lousiest piece of shit I’ve ever heard’. According to Capra, the pitch bombed: Wasserman was ‘dying’, and ‘Jimmy doesn’t want to hear [the] story’. And yet, Stewart did want to hear the story. Rather than letting the project give up the ghost, the actor phoned the next morning and persuaded Capra to make the film.
 
 Or so the tale goes. As with much else about _It’s a Wonderful Life_, it’s hard to disentangle fact from legend. A contemporary interview provides another origin myth, with Capra pitching the film to Stewart, and Stewart being the one who was baffled, declaring, ‘I can’t make head or tail of the damn thing’. The gossip columnist Hedda Hopper had Stewart nevertheless telling Capra that same night, ‘It’s for me’, even as he feared that he could no longer act.
@@ -66,6 +73,59 @@ Mary Treen _(Cousin Tilly)_
 USA 1946  
 129 mins  
 Digital 4K  
+<br>
+
+**CHRISTMAS FILMS**  
+**The Apartment**  
+Tue 10 Dec 18:30; Mon 23 Dec 20:30; Sat 28 Dec 14:10  
+**The Bishop’s Wife**  
+Sat 14 Dec 15:10; Fri 20 Dec 20:45; Sat 21 Dec 18:10  
+**The Shop Around the Corner**  
+Sat 14 Dec 17:40; Fri 20 Dec 14:30  
+**Meet Me in St. Louis**  
+Sun 15 Dec 14:40; Sat 21 Dec 12:10; Mon 23 Dec 18:10  
+**It’s a Wonderful Life**  
+Fri 20 Dec 18:10; Sat 21 Dec 14:45; Sun 22 Dec 14:50; Mon 23 Dec 17:45  
+**Scrooge**  
+Sat 21 Dec 12:20; Sun 22 Dec 18:10; Mon 23 Dec 14:30  
+
+**BFI IMAX**  
+**Polar Express** 20th Anniversary screening  
+Sun 1 Dec 10:45; Sat 7 Dec 10:30; Sun 8 Dec 14:00; Sat 14 Dec 11:45; Sun 15 Dec 10:45  
+**The Red Shoes**  
+Sun 5 Dec 11:00  
+**Ghiblioteque presents: Tokyo Godfathers Tôkyô goddofâzâzu** + intro  
+Sat 7 Dec 13:00  
+**The Wizard of Oz**  
+Sun 8 Dec 16:30  
+**The Green Knight**  
+Wed 11 Dec 20:30  
+**Die Hard**  
+Sun 15 Dec 13:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQ1NjYwOF19
+eyJoaXN0b3J5IjpbLTU5ODM5MzQ2XX0=
 -->
