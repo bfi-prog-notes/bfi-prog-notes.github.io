@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Eyes Wide Shut
+title: GoodFellas
 published: true
-date: 2024-12-14
+date: 2024-12-15
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
+tags: [Drama, Crime]
 metadata: 'USA 1990, 145 mins<br> Director: Martin Scorsese'
-pdf: '2024-12-14-eyes-wide-shut.pdf'
+pdf: '2024-12-15-goodfellas.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -167,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDIxNjM0NV19
+eyJoaXN0b3J5IjpbNTc0NTM0NjkzXX0=
 -->
