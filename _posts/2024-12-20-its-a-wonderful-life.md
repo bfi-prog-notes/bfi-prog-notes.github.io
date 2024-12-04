@@ -25,6 +25,47 @@ But whether it should be made the basis of a full-length screenplay is a moot qu
 **Extracted from _It’s a Wonderful Life_ by Michael Newton (BFI Film Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Michael Newton**  
 <br>
 
+
+**IT’S A WONDERFUL LIFE**  
+_Directed by:_ Frank Capra  
+_©/Presented by:_ Liberty Films  
+_Produced by:_ Frank Capra  
+_Assistant Director:_ Arthur S. Black  
+_Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra  
+_Additional Scenes by:_ Jo Swerling  
+_Based on the story ‘The Greatest Gift’ by:_ Philip Van Doren Stern  
+_Directors of Photography:_ Joseph Walker, Joseph Biroc  
+_Special Photographic Effects:_ Russell A. Cully  
+_Film Editor:_ William Hornbeck  
+_Art Director:_ Jack Okey  
+_Set Decorations:_ Emile Kuri  
+_Costumes by:_ Edward Stevenson  
+_Make-up Supervision:_ Gordon Bau  
+_Musical Score Written and Directed by:_ Dimitri Tiomkin  
+_Sound by:_ Richard Van Hessen, Clem Portman  
+_uncredited_  
+_Contributor to Screenplay:_ Michael Wilson  
+_Director of Photography:_ Victor Milner  
+
+**Cast**  
+James Stewart _(George Bailey)_  
+Donna Reed _(Mary Hatch)_  
+Lionel Barrymore _(Henry F. Potter)_  
+Thomas Mitchell _(Uncle Billy)_  
+Henry Travers _(Clarence)_  
+Beulah Bondi _(Mrs Bailey)_  
+Frank Faylen _(Ernie Bishop)_  
+Ward Bond _(Bert)_  
+Gloria Grahame _(Violet Bick)_  
+H.B. Warner _(Mr Gower)_  
+Frank Albertson _(Sam Wainwright)_  
+Todd Karns _(Harry Bailey)_  
+Samuel S. Hinds _(Pa Peter Bailey)_  
+Mary Treen _(Cousin Tilly)_  
+
+USA 1946  
+129 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTYzODY3NV19
+eyJoaXN0b3J5IjpbLTUzMTQ1NjYwOF19
 -->
