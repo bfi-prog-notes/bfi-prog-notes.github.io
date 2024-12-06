@@ -1,11 +1,9 @@
-<![endif]-->
 
 **Ian McEwan on ‘The Ploughman’s Lunch’**
 
 _Could you tell me something about how you came to write_ The Ploughman’s Lunch _and to work with Richard Eyre?_
 
-We made a film for television [_The Imitation Game_], and that was a very successful collaboration from our point of view. I think one of the problems for writers in films is that it’s a director’s medium and writers tend to get used. Working with Richard meant working with someone whose habits are those of a theatre director, who respects writers, and who really is far more intent on coming to terms with a script than trying to get writers to produce scripts which feed into directorial fantasies. I wrote a first draft, and of course Richard and I talked, and second draft changes were largely to do with incorporating the Falklands into the film. But any changes Richard suggests are always towards ways of saying better what you are already saying, rather than barging in with ‘Why don’t we make the man a rat and the woman a cockroach …?’ So I felt confidence in him and, perhaps more importantly, I felt a shared  
-‘world view’.
+We made a film for television [_The Imitation Game_], and that was a very successful collaboration from our point of view. I think one of the problems for writers in films is that it’s a director’s medium and writers tend to get used. Working with Richard meant working with someone whose habits are those of a theatre director, who respects writers, and who really is far more intent on coming to terms with a script than trying to get writers to produce scripts which feed into directorial fantasies. I wrote a first draft, and of course Richard and I talked, and second draft changes were largely to do with incorporating the Falklands into the film. But any changes Richard suggests are always towards ways of saying better what you are already saying, rather than barging in with ‘Why don’t we make the man a rat and the woman a cockroach …?’ So I felt confidence in him and, perhaps more importantly, I felt a shared ‘world view’.
 
 Having made a film set in 1940, we both wanted to make a film set in the present, and we shared the feeling that whereas the American cinema, or for that matter Hungarian, or Italian or French cinema, managed to reflect some contemporary reality, we had very little in British cinema that showed us ourselves. That was, very loosely, where we began.
 
@@ -31,16 +29,81 @@ Ours. That was the first week’s shooting.
 
 _It seemed to me that apart from one shot with Michael Heseltine it could have been a montage._
 
-No, it couldn’t possibly. There’s a slow pan off Margaret Thatcher to Jonathan Pryce biting his nails, and she is in shot with him framing the whole of the rest of the screen. It was all shot there in the last two days of the conference, and it wasn’t clear what would happen because we had to shoot all that first, before the main shoot. We were having problems with our permissions up to the last moment, but we got in quite successfully because we had Channel 4’s blessing and, through them, a connection with ITN. And we had official permission from the Tory Party. We went in as ourselves, shooting a feature film, a romantic comedy! They had seen the script and they had no objection  
-to it.
+No, it couldn’t possibly. There’s a slow pan off Margaret Thatcher to Jonathan Pryce biting his nails, and she is in shot with him framing the whole of the rest of the screen. It was all shot there in the last two days of the conference, and it wasn’t clear what would happen because we had to shoot all that first, before the main shoot. We were having problems with our permissions up to the last moment, but we got in quite successfully because we had Channel 4’s blessing and, through them, a connection with ITN. And we had official permission from the Tory Party. We went in as ourselves, shooting a feature film, a romantic comedy! They had seen the script and they had no objection to it.
 
 _But you do cut the speeches. For example, the Thatcher speech about ‘telling the people the truth’ becomes a very poignant commentary on the film._
 
-The conference is the kind of reality you behave selectively towards, just as you behave selectively towards all your material. I sort of wrote their speeches in advance and they seemed to give them more or less word for word. I went the year before and I knew the kind of things that happened. The script simply gave the Foreign Secretary and the Prime Minister lines about national identity, destiny and the younger generation. Resounding phrases about the nation. And they repeated them. Of course, they were talking about the Falklands as well, and it couldn’t have been better unless they had actually been making speeches about Suez. But credit for all that should also go to Clive Tickner and a tiny crew wielding a 35mm camera in such a limited space, and to Richard Eyre for devising some kind of logic for the sequence.
+The conference is the kind of reality you behave selectively towards, just as you behave selectively towards all your material. I sort of wrote their speeches in advance and they seemed to give them more or less word for word. I went the year before and I knew the kind of things that happened. The script simply gave the Foreign Secretary and the Prime Minister lines about national identity, destiny and the younger generation. Resounding phrases about the nation. And they repeated them. Of course, they were talking about the Falklands as well, and it couldn’t have been better unless they had actually been making speeches about Suez. But credit for all that should also go to Clive Tickner and a tiny crew wielding a 35mm camera in such a limited space, and to Richard Eyre for devising some kind of logic for the sequence.  
+**Interview by Jill Forbes, _Sight and Sound_, Autumn 1983**
+<br><br>
 
-Interview by Jill Forbes, _Sight and Sound_, Autumn 1983
+**THE PLOUGHMAN’S LUNCH**  
+_Director_: Richard Eyre  
+_Production Companies_: Greenpoint Films,  A.C. & D. (Plant Hirers), Goldcrest Films and Television, Michael White  
+_Executive Producer_: Michael White *  
+_Producers_: Simon Relph, Ann Scott  
+_Production Manager_: Redmond Morris  
+_Production Assistant_: Rachel Neale  
+_Assistant Directors_: Simon Relph,  Christopher Figg, Linda Bruce  
+_Screenplay_: Ian McEwan  
+_Director of Photography_: Clive Tickner  
+_Editor_: David Martin  
+_Assistant Editors_: Michael Parkinson, Simon Harris  
+_Production Designer_: Luciana Arrighi  
+_Art Director_: Michael Pickwoad  
+_Costumes_: Luciana Arrighi  
+_Costume Associate_: Joy Kleiner  
+_Wardrobe_: Rita Wakely  
+_Make-up_: Elaine Carew  
+_Title Design_: Nicholas Jenkins  
+_Music Composed and Conducted by_:  Dominic Muldowney  
+_Music Recording_: John Richards  
+_Sound Recording_: David Stephenson  
+_Sound Re-recording_: Gerry Humphreys  
+_Sound Editor_: Richard Dunford
 
+**Cast**  
+Jonathan Pryce _(James Penfield)_  
+Tim Curry _(Jeremy Hancock)_  
+Rosemary Harris _(Ann Barrington)_  
+Frank Finlay _(Matthew Fox)_  
+Charlie Dore _(Susan Barrington)_  
+David De Keyser _(Tom Gold)_  
+Nat Jackley _(Mr Penfield)_  
+Bill Paterson _(lecturer)_  
+William Maxwell, Paul Jesson, Andy Rashleigh _(journalists)_  
+Christopher Fulford _(young journalist)_  
+David Lyon _(newsreader)_  
+Polly Abbott _(Gold’s assistant)_  
+Peter Walmsley _(Bob Tuckett)_  
+Bob Cartland _(editor)_  
+Pearl Hackney _(Mrs Penfield)_  
+Simon Stokes _(Edward)_  
+Anna Wing _(woman at poetry reading)_  
+Ken Drury _(young man at poetry reading)_  
+Richard Cottan _(student at poetry reading)_  
+Peter Birch _(barman)_  
+Ken Shorter _(squash coach)_  
+Orlando Wells _(Tom Fox)_  
+Witold Schejbal _(Jacek)_  
+Libba Davies _(Betty)_  
+Sandra Voe _(Carmen)_  
+Andrew Norton _(Pete)_  
+Cecily Hobbs _(Carol)_  
+Clare Sutcliffe _(Jill)_  
+Robert McIntosh _(dad in commercial)_  
+Vivienne Chandler _(mum in commercial)_  
+Nicole Kleeman _(daughter in commercial)_  
+Bernard Mullins _(son in commercial)_  
+Alan Mitchell _(junior minister)_
 
+UK 1983
+
+107 mins
+
+35mm
+
+A BFI National Archive Print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTIwNzcyMF19
+eyJoaXN0b3J5IjpbLTc5MzYyMTAzMF19
 -->
