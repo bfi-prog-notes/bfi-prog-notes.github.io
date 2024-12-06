@@ -103,6 +103,35 @@ UK 1983
 
 A BFI National Archive print
 <br><br>
+
+**RICHARD EYRE:  WEAPONS OF UNDERSTANDING**<br>
+**Play for Today: Comedians** + intro by  Sir Jonathan Pryce + Sir Richard Eyre<br>
+Sun 1 Dec 18:40<br>
+**The Ploughman’s Lunch**<br>
+Fri 6 Dec 18:10; Wed 18 Dec 20:50<br>
+**Play for Today: Just a Boys’ Game  + Screen Two: The Insurance Man**<br>
+Sat 7 Dec 17:45<br>
+**Iris** + intro by Professor Lucy Bolton,  Queen Mary University of London<br>
+Thu 12 Dec 18:10<br>
+**Philosophical Screens: Iris**<br>
+Thu 12 Dec 20:00 Blue Room<br>
+**Play for Today: The Imitation Game**<br>
+Fri 13 Dec 18:10<br>
+**Notes on a Scandal**<br>
+Sat 14 Dec 18:10; Sat 28 Dec 14:45<br>
+**The Dresser**<br>
+Sun 15 Dec 18:00<br>
+**Stage Beauty**<br>
+Thu 19 Dec 20:40; Sun 29 Dec 15:10<br>
+**The Cherry Orchard**<br>
+Sat 21 Dec 17:40<br>
+**Sunday Premiere: Tumbledown**<br>
+Tue 17 Dec 18:10<br>
+
+**Performance: Suddenly Last Summer**<br>
+
+Sun 22 Dec 15:10<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTUwMDM3Nl19
+eyJoaXN0b3J5IjpbMjU3OTIyOTk1XX0=
 -->
