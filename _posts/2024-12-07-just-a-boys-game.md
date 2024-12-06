@@ -61,14 +61,11 @@ Katherine Stark _(Jane)_
 Jan Wilson _(Bella)_  
 Jim Byars _(Mental Dan)_
 
-BBC1 tx 8.11.1979
-
-70 mins
-
+BBC1 tx 8.11.1979  
+70 mins  
 Digital
 
-**SCREEN TWO: THE INSURANCE MAN**
-
+**SCREEN TWO: THE INSURANCE MAN**  
 _Director_: Richard Eyre  
 _Production Company_: BBC  
 _Producer_: Innes Lloyd  
@@ -78,8 +75,7 @@ _Editor_: Ken Pearce
 _Designer_: Geoff Powell  
 _Music_: Ilona Sekacz
 
-_Cast:_
-
+**Cast**  
 Alan MacNaughtan _(doctor)_  
 Daniel Day-Lewis _(Kafka)_  
 Robert Hines _(young Franz)_  
@@ -102,14 +98,12 @@ Judith Nelmes _(Christina’s grandmother)_
 Fran O’Shea _(Christina’s sister)_  
 Vivian Pickles _(Lily)_
 
-BBC2 tx 23.2.1986
-
-75 mins
-
+BBC2 tx 23.2.1986  
+75 mins  
 Digital
 
-There will be a brief interval between the  
-two screenings
+There will be a brief interval between the  two screenings
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njk2MTM4OV19
+eyJoaXN0b3J5IjpbLTMxNzYyNDE0MV19
 -->
