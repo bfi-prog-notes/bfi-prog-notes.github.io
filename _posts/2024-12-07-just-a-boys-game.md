@@ -1,3 +1,14 @@
+---
+layout: post
+title: Just a Boys' Game + The Insurance Man
+published: true
+date: 2024-12-07
+readtime: true
+categories: ['RICHARD EYRE<br>WEAPONS OF UNDERSTANDING']
+tags: [Drama]
+metadata: 'UK 1979/1986, 70/75 mins<br> Directors: John Mackenzie, Richard Eyre'
+pdf: '2024-12-07-just-a-boys-game.pdf'
+---
 
 There can be no better justification for the _modus operandi_ of the BBC drama department of the 1960s and 70s than the discovery of Peter McDougall. The most original Scottish voice of the era, McDougall might never have been given a break at any other time in broadcasting history.
 
@@ -104,6 +115,57 @@ Digital
 
 There will be a brief interval between the  two screenings
 <br><br>
+
+**RICHARD EYRE:  WEAPONS OF UNDERSTANDING**<br>
+**Play for Today: Comedians** + intro by  Sir Jonathan Pryce + Sir Richard Eyre<br>
+Sun 1 Dec 18:40<br>
+**The Ploughman’s Lunch**<br>
+Fri 6 Dec 18:10; Wed 18 Dec 20:50<br>
+**Play for Today: Just a Boys’ Game  + Screen Two: The Insurance Man**<br>
+Sat 7 Dec 17:45<br>
+**Iris** + intro by Professor Lucy Bolton,  Queen Mary University of London<br>
+Thu 12 Dec 18:10<br>
+**Philosophical Screens: Iris**<br>
+Thu 12 Dec 20:00 Blue Room<br>
+**Play for Today: The Imitation Game**<br>
+Fri 13 Dec 18:10<br>
+**Notes on a Scandal**<br>
+Sat 14 Dec 18:10; Sat 28 Dec 14:45<br>
+**The Dresser**<br>
+Sun 15 Dec 18:00<br>
+**Stage Beauty**<br>
+Thu 19 Dec 20:40; Sun 29 Dec 15:10<br>
+**The Cherry Orchard**<br>
+Sat 21 Dec 17:40<br>
+**Sunday Premiere: Tumbledown**<br>
+Tue 17 Dec 18:10<br>
+**Performance: Suddenly Last Summer**<br>
+Sun 22 Dec 15:10<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMxNzYyNDE0MV19
 -->
