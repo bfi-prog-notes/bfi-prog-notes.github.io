@@ -53,14 +53,12 @@ Jeon Do-yeon _(Lady Sook)_
 Cho Hyun-jae _(Kwon In-ho)_  
 Lee So-yeon _(Lee So-ok)_
 
-South Korea 2003
-
-124 mins
-
+South Korea 2003  
+124 mins  
 35mm
 
-35mm print courtesy of the  
-Korean Film Archive (KOFA)
+35mm print courtesy of the  Korean Film Archive (KOFA)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2OTQ3OTRdfQ==
+eyJoaXN0b3J5IjpbLTU4MDQ1MjE1MF19
 -->
