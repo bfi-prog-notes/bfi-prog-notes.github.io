@@ -32,22 +32,16 @@ _Sound_: Lee Seung-cheol
 Sol Kyung-gu  
 Kim Yeo-jin  
 Mun So-ri<br>
+Park Se-beom<br>
+Jung Suh<br>
+Ko Seo-hie<br>
+Park Ji-yeon<br>
+Lee Dae-yeon<br>
 
-Park Se-beom
-
-Jung Suh
-
-Ko Seo-hie
-
-Park Ji-yeon
-
-Lee Dae-yeon
-
-South Korea 1999
-
-131 mins
-
-Digital 4K (remastered)
+South Korea 1999<br>
+131 mins<br>
+Digital 4K (remastered)<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MDY5MDI0XX0=
+eyJoaXN0b3J5IjpbLTE3NDM3ODE0ODBdfQ==
 -->
