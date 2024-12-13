@@ -53,12 +53,9 @@ _Gaffer_: Lee Walters
 _Grip_: Gary Hymns  
 _Video Playback_: Alex Hobbs  
 _Still Photographer_: Clive Coote  
-_Special Effects Co-ordinators_: Stuart Brisdon,
-
-Mark Haddenham  
+_Special Effects Co-ordinators_: Stuart Brisdon, Mark Haddenham  
 _Graphics_: Kem White  
-_Film Editors_: John Bloom,  
-Antonia Van Drimmelen  
+_Film Editors_: John Bloom,  Antonia Van Drimmelen  
 _Assistant Editor_: Martin Corbett  
 _Production Designer_: Tim Hatley  
 _Supervising Art Director_: Mark Raggett  
@@ -69,16 +66,13 @@ _Property Master_: Maxie McDonald
 _Construction Manager_: Robin Thistlethwaite  
 _Costume Designer_: Tim Hatley  
 _Costume Supervisor_: Allison Wyldeck  
-_Chief Hair/Make-up_: Lisa Westcott,  
-Rebecca Lafford  
-_Make-up/Hair Artists_: Jayne Buxton,  
-Helen Johnson  
+_Chief Hair/Make-up_: Lisa Westcott,  Rebecca Lafford  
+_Make-up/Hair Artists_: Jayne Buxton,  Helen Johnson  
 _Hairdresser for Ms Blanchett_: Eamonn Hughes  
 _Titles Design_: Randy Balsmeyer, Big Film Design  
 _Opticals_: Cineimage  
 _Negative Cutter_: Cutting Edge  
-_Lab Colour Timers_: Martin Scoones,  
-Joe Dunton Cameras  
+_Lab Colour Timers_: Martin Scoones,  Joe Dunton Cameras  
 _Laboratory Liaison_: John Ensby  
 _Music by_: Philip Glass  
 _Orchestra Leader_: John Bradbury  
@@ -89,26 +83,19 @@ _Music Production Co-ordinator_: Christian Rutledge
 _Supervising Music Editor_: Joseph S. Debeasi  
 _Music Editors_: Graham Sutton, Missy Coen  
 _Music Engineer_: Chris Dibble  
-_Music Mixed by_: Michael Riesman
-
-_Sound Supervisor (London Sound Crew)_:  
-James Mather  
+_Music Mixed by_: Michael Riesman  
+_Sound Supervisor (London Sound Crew)_:  James Mather  
 _Production Sound Mixer_: Jim Greenhorn  
 _Boom Operator_: Kate Morath  
-_Re-recording Mixers (NY Sound Crew)_:  
-Lee Dichter, Martin Czembor  
-_Re-recording Mixer (London Sound Crew)_:  
-Mike Prestwood Smith  
-_Supervising Sound Editors (NY Sound Crew)_:  
-Jacob Ribikoff, Stuart Stanley  
+_Re-recording Mixers (NY Sound Crew)_:  Lee Dichter, Martin Czembor  
+_Re-recording Mixer (London Sound Crew)_:  Mike Prestwood Smith  
+_Supervising Sound Editors (NY Sound Crew)_:  Jacob Ribikoff, Stuart Stanley  
 _Dialogue Editor (London Sound Crew)_: Tim Owens  
-_FX Editor (London Sound Crew)_:  
-Joseph Park Stracey  
+_FX Editor (London Sound Crew)_:  Joseph Park Stracey  
 _ADR Recording Engineer (London Sound Crew)_: Andy Thompson  
 _ADR Editor (London Sound Crew)_: Nigel Stone  
 _Foley Artists (London Sound Crew)_: Andi Derrick, Peter Burgis  
-_Foley Engineers (London Sound Crew)_:  
-Edward Colyer, Nigel Heath  
+_Foley Engineers (London Sound Crew)_:  Edward Colyer, Nigel Heath  
 _Foley Editor (London Sound Crew)_: Derek Trigg  
 _Stunt Co-ordinator_: Nrinder Dhudwar  
 _Stunts_: Peter Pedrero, Tina Maskell, Rob Hunt, John Street  
@@ -117,8 +104,7 @@ _Voice Coach_: Joan Washington
 _Unit Publicist_: Linda Gamble, McDonald & Rutter  
 _Filmed on location and at_: Elstree Studios
 
-_Cast:_
-
+**Cast**  
 Judi Dench _(Barbara Covett)_  
 Cate Blanchett _(Sheba Hart)_  
 Bill Nighy _(Richard Hart)_  
@@ -150,11 +136,10 @@ Derbhle Crotty _(Mrs Connolly)_
 Catherine Drew _(newsreader)_  
 Anne-Marie Duff _(Annabel)_
 
-UK-USA 2006©
-
-92 mins
-
+UK-USA 2006©  
+92 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODAzMTI5MF19
+eyJoaXN0b3J5IjpbMTA2Nzg3OTUyOF19
 -->
