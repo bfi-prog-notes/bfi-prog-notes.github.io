@@ -18,146 +18,92 @@ It’s very interesting that over the last few years fantasy films have become v
 <br><br>
 
 **DESPERATELY SEEKING SUSAN**<br>
-
 _Director:_ Susan Seidelman<br>
-
 _Production Company:_ Orion Pictures Corporation<br>
-
 _Executive Producer:_ Michael Peyser<br>
-
 _Producers:_ Sarah Pillsbury, Midge Sanford<br>
-
 _Assistant Directors:_ Joel Tuber, David Dreyfuss<br>
-
 _Screenplay:_ Leora Barish<br>
-
 _Director of Photography:_ Ed Lachman<br>
-
 _Editor:_ Andrew Mondshein<br>
-
 _Production Designer:_ Santo Loquasto<br>
-
 _Art Director:_ Speed Hopkins<br>
-
 _Set Decorator:_ George De Titta Jr<br>
-
 _Make-up:_ Richard Dean<br>
-
 _Music:_ Thomas Newman<br>
-
 _Sound Recording:_ Les Lazarowitz<br>
-
 _Sound Re-recording:_ Lee Dichter, Sound One<br>
-
 _Supervising Sound Editor:_ Maurice Schell
 
-_Cast:_<br>
-
+**Cast**<br>
 Rosanna Arquette _(Roberta Glass)_<br>
-
 Madonna _(Susan)_<br>
-
 Aidan Quinn _(Dez)_<br>
-
 Mark Blum _(Gary Glass)_<br>
-
 Robert Joy _(Jim)_<br>
-
 Laurie Metcalf _(Leslie Glass)_<br>
-
 Anna Levine _(Crystal)_<br>
-
 Will Patton _(Wayne Nolan)_<br>
-
 Peter Maloney _(Ian)_<br>
-
 Steven Wright _(Larry Stillman DDS)_<br>
+John Turturro _(Ray)_<br>
+Anne Carlisle _(Victoria)_<br>
+José Santana _(boutique owner)_<br>
+Giancarlo Esposito _(street vendor)_<br>
+Richard Hell _(Bruce Meeker)_<br>
+Rockets Redglare _(taxi driver)_<br>
+Steve Bosh _(newscaster)_<br>
+Daisy Bradford _(Daisy)_<br>
+Annie Golden _(band singer)_<br>
+Richard Edson _(man with newspapers)_<br>
+Ann Magnuson _(cigarette girl)_<br>
+John Lurie _(neighbour saxophonist)_<br>
+Mary Joy, Rosemary Hochschild  _(cocktail waitresses)_<br>
+Iris Chacon _(TV singer)_<br>
+Victor Argo _(Sergeant Taskal)_<br>
+Shirley Stoler, J.B. Waters _(jail matrons)_<br>
+Arto Lindsay _(newspaper clerk)_<br>
+Henry Adler _(magic club drummer)_<br>
+Marty Gold _(magic club pianist)_<br>
+Alvey West _(magic club saxophonist)_<br>
+Michael R. Chin _(Choy)_<br>
+John Patrick Hurley, Paul Austin _(policemen)_<br>
+Timothy Carhart _(Victoria’s boyfriend)_<br>
+Curt Dempster _(coffee shop manager)_<br>
+Shirley Kaplan _(waitress)_<br>
+Lazaro Perez _(Enrique, guard)_<br>
+John Hoyt _(space commander)_<br>
+Gary Ray, Gary Binkow, Michael Bramon_(band members)_<br>
 
-John Turturro _(Ray)_
+Joyce Griffen _(prostitute)_<br>
 
-Anne Carlisle _(Victoria)_
+Richard S. Lowy _(Adrian, hairdresser)_<br>
 
-José Santana _(boutique owner)_
+Donna Ritchie _(hot tub girl)_<br>
 
-Giancarlo Esposito _(street vendor)_
+Kim Chan _(park bum)_<br>
 
-Richard Hell _(Bruce Meeker)_
+Michael Badalucco _(guy from Brooklyn)_<br>
 
-Rockets Redglare _(taxi driver)_
+Elie J. Boubli _(Egyptian ambassador)_<br>
 
-Steve Bosh _(newscaster)_
+Adele Bertei _(prisoner)_<br>
 
-Daisy Bradford _(Daisy)_
-
-Annie Golden _(band singer)_
-
-Richard Edson _(man with newspapers)_
-
-Ann Magnuson _(cigarette girl)_
-
-John Lurie _(neighbour saxophonist)_
-
-Mary Joy, Rosemary Hochschild  
-_(cocktail waitresses)_
-
-Iris Chacon _(TV singer)_
-
-Victor Argo _(Sergeant Taskal)_
-
-Shirley Stoler, J.B. Waters _(jail matrons)_
-
-Arto Lindsay _(newspaper clerk)_
-
-Henry Adler _(magic club drummer)_
-
-Marty Gold _(magic club pianist)_
-
-Alvey West _(magic club saxophonist)_
-
-Michael R. Chin _(Choy)_
-
-John Patrick Hurley, Paul Austin _(policemen)_
-
-Timothy Carhart _(Victoria’s boyfriend)_
-
-Curt Dempster _(coffee shop manager)_
-
-Shirley Kaplan _(waitress)_
-
-Lazaro Perez _(Enrique, guard)_
-
-John Hoyt _(space commander)_
-
-Gary Ray, Gary Binkow, Michael Bramon
-
-_(band members)_
-
-Joyce Griffen _(prostitute)_
-
-Richard S. Lowy _(Adrian, hairdresser)_
-
-Donna Ritchie _(hot tub girl)_
-
-Kim Chan _(park bum)_
-
-Michael Badalucco _(guy from Brooklyn)_
-
-Elie J. Boubli _(Egyptian ambassador)_
-
-Adele Bertei _(prisoner)_
-
-Pete Castelloti _(coffee shop cop)_
+Pete Castelloti _(coffee shop cop)_<br>
 
 Wende Dasteel, Steve Eidel, Michael Kaufman, Ilene Kristen, Carol Leifer, Richard Portnow,  
-Isabel Garcia-Lorca _(party guests)_
+Isabel Garcia-Lorca _(party guests)_<br>
 
-Timothy R. Wilson _(bellhop)_
+Timothy R. Wilson _(bellhop)_<br>
 
-Gilda Tortorello _(Ray’s mother)_
+Gilda Tortorello _(Ray’s mother)_<br>
 
-Stanley Burns _(ventriloquist)_
+Stanley Burns _(ventriloquist)_<br>
 
-USA 1985  103 mins  35mm
+USA 1985<br>
+103 mins<br>
+35mm<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODU2MjczMl19
+eyJoaXN0b3J5IjpbLTc4MjYwMzM4Nl19
 -->
