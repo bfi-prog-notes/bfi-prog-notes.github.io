@@ -73,31 +73,18 @@ Curt Dempster _(coffee shop manager)_<br>
 Shirley Kaplan _(waitress)_<br>
 Lazaro Perez _(Enrique, guard)_<br>
 John Hoyt _(space commander)_<br>
-Gary Ray, Gary Binkow, Michael Bramon_(band members)_<br>
-
+Gary Ray, Gary Binkow, Michael Bramon _(band members)_<br>
 Joyce Griffen _(prostitute)_<br>
-
 Richard S. Lowy _(Adrian, hairdresser)_<br>
-
 Donna Ritchie _(hot tub girl)_<br>
-
 Kim Chan _(park bum)_<br>
-
 Michael Badalucco _(guy from Brooklyn)_<br>
-
 Elie J. Boubli _(Egyptian ambassador)_<br>
-
 Adele Bertei _(prisoner)_<br>
-
 Pete Castelloti _(coffee shop cop)_<br>
-
-Wende Dasteel, Steve Eidel, Michael Kaufman, Ilene Kristen, Carol Leifer, Richard Portnow,  
-Isabel Garcia-Lorca _(party guests)_<br>
-
+Wende Dasteel, Steve Eidel, Michael Kaufman, Ilene Kristen, Carol Leifer, Richard Portnow,  Isabel Garcia-Lorca _(party guests)_<br>
 Timothy R. Wilson _(bellhop)_<br>
-
 Gilda Tortorello _(Ray’s mother)_<br>
-
 Stanley Burns _(ventriloquist)_<br>
 
 USA 1985<br>
@@ -105,5 +92,5 @@ USA 1985<br>
 35mm<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjYwMzM4Nl19
+eyJoaXN0b3J5IjpbMTUxMjAzMTE2OF19
 -->
