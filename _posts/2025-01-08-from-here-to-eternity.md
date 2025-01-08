@@ -21,158 +21,135 @@ Nothing, sadly, for Lancaster or Kerr, though both were nominated. But it’s th
 **Sam Wigley, bfi.org.uk, 5 August 2013**
 <br><br>
 
-**FROM HERE TO ETERNITY**
+**FROM HERE TO ETERNITY**<br>
+_Directed by:_ Fred Zinnemann<br>
+©: Columbia Pictures Corporation<br>
+_Presented by:_ Columbia Pictures Corporation<br>
+_Produced by:_ Buddy Adler<br>
+_Assistant Director:_ Earl Bellamy<br>
+_Screen Play by:_ Daniel Taradash<br>
+_Based upon the novel by:_ James Jones<br>
+_Director of Photography:_ Burnett Guffey<br>
+_Editor:_ William Lyon<br>
+_Art Director:_ Cary Odell<br>
+_Set Decorator:_ Frank Tuttle<br>
+_Gowns by:_ Jean Louis<br>
+_Make-up by:_ Clay Campbell<br>
+_Hair Styles by:_ Helen Hunt<br>
+_Background Music by:_ George Duning<br>
+_Musical Director:_ Morris Stoloff<br>
+_Orchestrations by:_ Arthur Morton<br>
+_Sound Engineer:_ Lodge Cunningham<br>
+_Technical Adviser:_  Brig Gen Kendall J. Fielder Us Army (Ret)<br>
 
-_Directed by:_ Fred Zinnemann
+_uncredited_<br>
+_Dialogue Director:_ Justus Addiss<br>
+_2nd Unit Director of Photography:_ Floyd Crosby<br>
+_Recording Supervisor:_ John Livadary<br>
 
-©: Columbia Pictures Corporation
+**Cast**<br>
+Burt Lancaster _(Sergeant Milton ‘Milt’ Warden)_<br>
 
-_Presented by:_ Columbia Pictures Corporation
+Montgomery Clift _(Robert E. Lee Prewitt)_<br>
 
-_Produced by:_ Buddy Adler
+Deborah Kerr _(Karen Holmes)_<br>
 
-_Assistant Director:_ Earl Bellamy
+Donna Reed _(Alma ‘Lorene’ Burke)_<br>
 
-_Screen Play by:_ Daniel Taradash
+Frank Sinatra _(Angelo Maggio)_<br>
 
-_Based upon the novel by:_ James Jones
+Philip Ober _(Captain Dana Holmes)_<br>
 
-_Director of Photography:_ Burnett Guffey
+Mickey Shaughnessy _(Sergeant Leva)_<br>
 
-_Editor:_ William Lyon
+Harry Bellaver _(Mazzioli)_<br>
 
-_Art Director:_ Cary Odell
+Ernest Borgnine _(Sergeant ‘Fatso’ Judson)_<br>
 
-_Set Decorator:_ Frank Tuttle
+Jack Warden _(Corporal Buckley)_<br>
 
-_Gowns by:_ Jean Louis
+John Dennis _(Sergeant Ike Galovitch)_<br>
 
-_Make-up by:_ Clay Campbell
+Merle Travis _(Sal Anderson)_<br>
 
-_Hair Styles by:_ Helen Hunt
+Tim Ryan _(Sergeant Pete Karelsen)_<br>
 
-_Background Music by:_ George Duning
+Arthur Keegan _(Treadwell)_<br>
 
-_Musical Director:_ Morris Stoloff
+Barbara Morrison _(Mrs Kipfer)_<br>
 
-_Orchestrations by:_ Arthur Morton
+_uncredited_<br>
 
-_Sound Engineer:_ Lodge Cunningham
+Jean Willes _(Annette)_<br>
 
-_Technical Adviser:_  
-Brig Gen Kendall J. Fielder Us Army (Ret)
+Claude Akins _(Sergeant Baldy Dhom)_<br>
 
-_uncredited_
+Robert Karnes _(Sergeant Turp Thornhill)_<br>
 
-_Dialogue Director:_ Justus Addiss
+Robert J. Wilke _(Sergeant Henderson)_<br>
 
-_2nd Unit Director of Photography:_ Floyd Crosby
+Douglas Henderson _(Corporal Champ Wilson)_<br>
 
-_Recording Supervisor:_ John Livadary
+George Reeves _(Sergeant Maylon Stark)_<br>
 
-_Cast:_
+Don Dubbins _(Friday Clark)_<br>
 
-Burt Lancaster _(Sergeant Milton ‘Milt’ Warden)_
+John Cason _(Corporal Paluso)_<br>
 
-Montgomery Clift _(Robert E. Lee Prewitt)_
+Kristine Miller _(Georgette)_<br>
 
-Deborah Kerr _(Karen Holmes)_
+John Bryant _(Captain Ross)_<br>
 
-Donna Reed _(Alma ‘Lorene’ Burke)_
+Joan Shawlee _(Sandra)_<br>
 
-Frank Sinatra _(Angelo Maggio)_
+Angela Stevens _(Jean)_<br>
 
-Philip Ober _(Captain Dana Holmes)_
+Willis Bouchey _(lieutenant-colonel)_<br>
 
-Mickey Shaughnessy _(Sergeant Leva)_
+Tyler McVey _(Major Stern)_<br>
 
-Harry Bellaver _(Mazzioli)_
+Mary Carver _(Nancy)_<br>
 
-Ernest Borgnine _(Sergeant ‘Fatso’ Judson)_
+Vicki Bakken _(Suzanne)_<br>
 
-Jack Warden _(Corporal Buckley)_
+Margaret Barstow _(Roxanne)_<br>
 
-John Dennis _(Sergeant Ike Galovitch)_
+Delia Salvi _(Billie)_<br>
 
-Merle Travis _(Sal Anderson)_
+Alvin Sargent _(Nair)_<br>
 
-Tim Ryan _(Sergeant Pete Karelsen)_
+William Lundmark _(Bill)_<br>
 
-Arthur Keegan _(Treadwell)_
+Weaver Levy _(bartender)_<br>
 
-Barbara Morrison _(Mrs Kipfer)_
+Carleton Young _(officer)_<br>
 
-_uncredited_
+Brick Sullivan _(military guard)_<br>
 
-Jean Willes _(Annette)_
+Fay Roope _(General Slater)_<br>
 
-Claude Akins _(Sergeant Baldy Dhom)_
+Moana Gleason _(Rose)_<br>
 
-Robert Karnes _(Sergeant Turp Thornhill)_
+Freeman Lusk _(Colonel Wood)_<br>
 
-Robert J. Wilke _(Sergeant Henderson)_
+Robert Pike _(Major Bonds)_<br>
 
-Douglas Henderson _(Corporal Champ Wilson)_
+Pat Miller, Robert Healy, Norman Wayne, Joseph Sargent, Mack Chandler, Eddie Laguna, John Veitch, John Davis, Carey Leverette _(soldiers)_<br>
 
-George Reeves _(Sergeant Maylon Stark)_
+Louise Saraydar<br>
 
-Don Dubbins _(Friday Clark)_
-
-John Cason _(Corporal Paluso)_
-
-Kristine Miller _(Georgette)_
-
-John Bryant _(Captain Ross)_
-
-Joan Shawlee _(Sandra)_
-
-Angela Stevens _(Jean)_
-
-Willis Bouchey _(lieutenant-colonel)_
-
-Tyler McVey _(Major Stern)_
-
-Mary Carver _(Nancy)_
-
-Vicki Bakken _(Suzanne)_
-
-Margaret Barstow _(Roxanne)_
-
-Delia Salvi _(Billie)_
-
-Alvin Sargent _(Nair)_
-
-William Lundmark _(Bill)_
-
-Weaver Levy _(bartender)_
-
-Carleton Young _(officer)_
-
-Brick Sullivan _(military guard)_
-
-Fay Roope _(General Slater)_
-
-Moana Gleason _(Rose)_
-
-Freeman Lusk _(Colonel Wood)_
-
-Robert Pike _(Major Bonds)_
-
-Pat Miller, Robert Healy, Norman Wayne, Joseph Sargent, Mack Chandler, Eddie Laguna, John Veitch, John Davis, Carey Leverette _(soldiers)_
-
-Louise Saraydar
-
-Joe Roach
+Joe Roach<br>
 
 Allen Pinson
 
-USA 1953©
+USA 1953©<br>
 
-118 mins
+118 mins<br>
 
 Digital 4K (restoration)
 
-Restored in 4K by Sony Pictures Entertainment at Cineric laboratory, from the original 1954 35mm fine grain master and one reel from the 35mm original negative. Restoration supervised by Grover Crisp
+Restored in 4K by Sony Pictures Entertainment at Cineric laboratory, from the original 1954 35mm fine grain master and one reel from the 35mm original negative. Restoration supervised by Grover Crisp<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1OTYwMDA0XX0=
+eyJoaXN0b3J5IjpbLTY2NjA2MDE3Nl19
 -->
