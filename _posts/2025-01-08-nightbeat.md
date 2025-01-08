@@ -1,3 +1,14 @@
+---
+layout: post
+title: Nightbeat
+published: true
+date: 2025-01-08
+readtime: true
+categories: ['PROJECTING THE ARCHIVE']
+tags: [Drama]
+metadata: 'UK 1948, 96 mins<br> Director: Harold Huth'
+pdf: '2025-01-08-nightbeat.pdf'
+---
 
 _+ intro by Josephine Botting, BFI Curator_
 
@@ -10,8 +21,7 @@ Trained in dancing and with singing experience, Norden was an all-round entertai
 
 This film really showed her potential; as scheming nightclub singer Jackie she steals her every scene, her porcelain delicacy concealing a steely ruthlessness. Only 22 when the film was made, she exuded a relaxed self-confidence on screen that belied her age. Not only did she show off her acting skills but she also did her own singing, a rare versatility among stars at the time, and even recorded the two songs for release on 78rpm record.
 
-Korda kept her busy. His lavish Technicolor screen version of Oscar Wilde’s  
-_An Ideal Husband_ (1947) saw her cast as Mrs Marchmont and robed in fabulous Cecil Beaton designs. The film flopped, and she was loaned out for a very different costume affair – _Idol of Paris_ (1948). A spin-off of the kind of films being made by Gainsborough Pictures at the time, the film pushed the period melodrama to its limits with a tale of an innocent young woman who finds herself caught up in a world of depravity. Norden was cast as Cora Pearl, ‘Queen of the Half World’, who shocked the critics by engaging the heroine in a duel with whips. With her screen persona firmly established as ‘bad girl’ her subsequent roles reinforced this image.
+Korda kept her busy. His lavish Technicolor screen version of Oscar Wilde’s  _An Ideal Husband_ (1947) saw her cast as Mrs Marchmont and robed in fabulous Cecil Beaton designs. The film flopped, and she was loaned out for a very different costume affair – _Idol of Paris_ (1948). A spin-off of the kind of films being made by Gainsborough Pictures at the time, the film pushed the period melodrama to its limits with a tale of an innocent young woman who finds herself caught up in a world of depravity. Norden was cast as Cora Pearl, ‘Queen of the Half World’, who shocked the critics by engaging the heroine in a duel with whips. With her screen persona firmly established as ‘bad girl’ her subsequent roles reinforced this image.
 
 Perhaps her best film is the psychological drama _Mine Own Executioner_ (1947) in which she was again cast as a temptress, seducing Burgess Meredith’s psychiatrist into betraying his wife. In her next London Films assignment, Irish-set comedy _Saints and Sinners_ (1949), she was definitely cast on the latter side, as a returning local celebrity who can’t resist leading the hero astray. Her last major film was the same year’s _The Interrupted Journey_, in which her affair with leading man Richard Todd unleashes a maelstrom of disaster.
 
@@ -86,6 +96,30 @@ A BFI National Archive print
 
 *Uncredited
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ4OTcwMjAyN119
 -->
