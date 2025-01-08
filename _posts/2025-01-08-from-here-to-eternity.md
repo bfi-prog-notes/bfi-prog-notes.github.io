@@ -49,107 +49,60 @@ _Recording Supervisor:_ John Livadary<br>
 
 **Cast**<br>
 Burt Lancaster _(Sergeant Milton ‘Milt’ Warden)_<br>
-
 Montgomery Clift _(Robert E. Lee Prewitt)_<br>
-
 Deborah Kerr _(Karen Holmes)_<br>
-
 Donna Reed _(Alma ‘Lorene’ Burke)_<br>
-
 Frank Sinatra _(Angelo Maggio)_<br>
-
 Philip Ober _(Captain Dana Holmes)_<br>
-
 Mickey Shaughnessy _(Sergeant Leva)_<br>
-
 Harry Bellaver _(Mazzioli)_<br>
-
 Ernest Borgnine _(Sergeant ‘Fatso’ Judson)_<br>
-
 Jack Warden _(Corporal Buckley)_<br>
-
 John Dennis _(Sergeant Ike Galovitch)_<br>
-
 Merle Travis _(Sal Anderson)_<br>
-
 Tim Ryan _(Sergeant Pete Karelsen)_<br>
-
 Arthur Keegan _(Treadwell)_<br>
-
 Barbara Morrison _(Mrs Kipfer)_<br>
 
 _uncredited_<br>
-
 Jean Willes _(Annette)_<br>
-
 Claude Akins _(Sergeant Baldy Dhom)_<br>
-
 Robert Karnes _(Sergeant Turp Thornhill)_<br>
-
 Robert J. Wilke _(Sergeant Henderson)_<br>
-
 Douglas Henderson _(Corporal Champ Wilson)_<br>
-
 George Reeves _(Sergeant Maylon Stark)_<br>
-
 Don Dubbins _(Friday Clark)_<br>
-
 John Cason _(Corporal Paluso)_<br>
-
 Kristine Miller _(Georgette)_<br>
-
 John Bryant _(Captain Ross)_<br>
-
 Joan Shawlee _(Sandra)_<br>
-
 Angela Stevens _(Jean)_<br>
-
 Willis Bouchey _(lieutenant-colonel)_<br>
-
 Tyler McVey _(Major Stern)_<br>
-
 Mary Carver _(Nancy)_<br>
-
 Vicki Bakken _(Suzanne)_<br>
-
 Margaret Barstow _(Roxanne)_<br>
-
 Delia Salvi _(Billie)_<br>
-
 Alvin Sargent _(Nair)_<br>
-
 William Lundmark _(Bill)_<br>
-
 Weaver Levy _(bartender)_<br>
-
 Carleton Young _(officer)_<br>
-
 Brick Sullivan _(military guard)_<br>
-
 Fay Roope _(General Slater)_<br>
-
 Moana Gleason _(Rose)_<br>
-
 Freeman Lusk _(Colonel Wood)_<br>
-
 Robert Pike _(Major Bonds)_<br>
-
 Pat Miller, Robert Healy, Norman Wayne, Joseph Sargent, Mack Chandler, Eddie Laguna, John Veitch, John Davis, Carey Leverette _(soldiers)_<br>
-
 Louise Saraydar<br>
-
 Joe Roach<br>
-
 Allen Pinson
 
 USA 1953©<br>
-
 118 mins<br>
-
 Digital 4K (restoration)
 
 Restored in 4K by Sony Pictures Entertainment at Cineric laboratory, from the original 1954 35mm fine grain master and one reel from the 35mm original negative. Restoration supervised by Grover Crisp<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjA2MDE3Nl19
+eyJoaXN0b3J5IjpbMTgyNDQ0NjM4Nl19
 -->
