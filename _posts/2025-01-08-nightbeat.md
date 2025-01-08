@@ -78,15 +78,14 @@ Frederick Leister _(magistrate)_
 Philip Stainton _(Sergeant Slack)_  
 Michael Medwin _(Spider)_
 
-UK 1948
-
-96 mins
-
+UK 1948  
+96 mins  
 35mm
 
 A BFI National Archive print
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NDkyMTM1XX0=
+eyJoaXN0b3J5IjpbLTQ4OTcwMjAyN119
 -->
