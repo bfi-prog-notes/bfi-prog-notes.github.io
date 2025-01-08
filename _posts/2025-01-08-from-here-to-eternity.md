@@ -1,3 +1,14 @@
+---
+layout: post
+title: From Here to Eternity
+published: true
+date: 2025-01-08
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, War]
+metadata: 'USA 1953, 118 mins<br> Director: Fred Zinnemann'
+pdf: '2025-01-08-from-here-to-eternity.pdf'
+---
 
 It took James Jones 858 pages to tell _From Here to Eternity_’s story of the US army in the last months before the Japanese attack on Pearl Harbor, but the film is as lean and powerful as its star Burt Lancaster’s body. Columbia Pictures studio head Harry Cohn wanted the adaptation of the cumbersome bestselling novel to run under two hours, and it does so with almost military precision. From the first shot, soldiers move into line, forming their companies while George Duning’s musical score covers the opening titles. These are men who fit into the spaces of their platoons and companies as neatly as any wartime combat film fit the Hollywood studio production line. But though any individuality or differences among the men disappear as they begin to drill in the neat courtyards of Schofield Barracks, Hollywood had never produced a film like _From Here to Eternity_. It was and is a standalone original, much like its two protagonists, First Sergeant Milton Warden (Burt Lancaster) and Private Robert E. Lee Prewitt (Montgomery Clift).
 
@@ -103,6 +114,30 @@ Digital 4K (restoration)
 
 Restored in 4K by Sony Pictures Entertainment at Cineric laboratory, from the original 1954 35mm fine grain master and one reel from the 35mm original negative. Restoration supervised by Grover Crisp<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTgyNDQ0NjM4Nl19
 -->
