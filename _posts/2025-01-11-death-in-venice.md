@@ -28,134 +28,69 @@ _Unit Production Managers:_ Umberto Sambuco, Bruno Sassaroli, Alfredo Di Santo<b
 _Production Manager:_ Anna Davini<br>
 _Production Supervisor:_ Egidio Quarantotto<br>
 _Production Accountant:_ Paolo Rampazzo<br>
-
-_Production Secretaries:_ Dino Di Dionisio,
-
-Annie Rozier<br>
-
+_Production Secretaries:_ Dino Di Dionisio, Annie Rozier<br>
 _Assistant Director:_ Albino Cocco<br>
-
 _2nd Assistant Director:_ Paolo Pietrangeli<br>
-
 _Script Supervisor:_ Rometta Pietrostefani<br>
-
 _Screenplay:_ Luchino Visconti, Nicola Badalucco<br>
-
 _Based on the novel by:_ Thomas Mann<br>
-
 _Director of Photography:_ Pasqualino De Santis<br>
-
 _Camera Operators:_ Mario Cimini, Michele Cristiani<br>
-
 _Gaffers:_ Luciano Leoni, Gastoni Colantoni<br>
-
 _Key Grip:_ Aldo Colanzi<br>
-
 _Stills Photography:_ Mario Tursi<br>
-
 _Editor:_ Ruggero Mastroianni<br>
-
-_Assistant Editors:_ Lea Mazzocchi,
-
-Loredana Cruciani, Mario D’Ambrosio<br>
-
+_Assistant Editors:_ Lea Mazzocchi, Loredana Cruciani, Mario D’Ambrosio<br>
 _Art Director:_ Ferdinando Scarfiotti<br>
-
 _Set Decorator:_ Nedo Azzini<br>
-
 _Assistant Set Decorators:_ Osvaldo Desideri, Gianfranco De Dominicus<br>
-
 _Costumes:_ Piero Tosi<br>
-
 _Assistant Costumes:_ Gabriella Pescucci<br>
-
 _Costumes Executed by:_ Tirelli<br>
-
-_Wardrobe:_ Maria Fanetti, Sara Santarelli,
-
-Paolo Luciani<br>
-
+_Wardrobe:_ Maria Fanetti, Sara Santarelli, Paolo Luciani<br>
 _Make-up:_ Mario Di Salvio, Mauro Gavazzi<br>
-
-_Miss Silvana Mangano’s Make-up:_
-
-Goffredo Rocchetti<br>
-
+_Miss Silvana Mangano’s Make-up:_ Goffredo Rocchetti<br>
 _Hairstyles:_ Luciano Vito, Gilda De Guilmi<br>
-
-_Miss Silvana Managano’s Hairstyles:_
-
-Maria Teresa Corridori<br>
-
+_Miss Silvana Managano’s Hairstyles:_ Maria Teresa Corridori<br>
 _Music:_ Gustav Mahler<br>
-
-_Music Played by:_
-
-Orchestra dell’Accademia di Santa Cecilia<br>
-
+_Music Played by:_ Orchestra dell’Accademia di Santa Cecilia<br>
 _Conducted by:_ Franco Mannino<br>
-
 _Sound Recording:_ Renato Cadueri<br>
-
 _Sound:_ Vittorio Trentino, Giuseppe Muratori<br>
-
 _Studio:_ Cinecittà<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Dirk Bogarde _(Gustav von Aschenbach)_<br>
-
 Romolo Valli _(hotel manager)_<br>
-
 Mark Burns _(Alfried)_<br>
-
 Nora Ricci _(governess)_<br>
-
 Marisa Berenson _(Frau von Aschenbach)_<br>
-
 Carole André _(Esmeralda)_<br>
-
 Björn Andresen _(Tadzio)_<br>
-
 Silvana Mangano _(Tadzio’s mother)_<br>
-
 Leslie French _(travel agent)_<br>
-
 Franco Fabrizi _(barber)_<br>
-
 Antonio Apicella _(wanderer)_<br>
-
 Sergio Garfagnoli _(Jaschu)_<br>
-
 Ciro Cristofoletti _(hotel employee)_<br>
-
 Luigi Battaglia _(man on boat)_  
 Dominique Darel _(English tourist)_<br>
-
 Masha Predit _(Russian tourist)_
 
 _uncredited_<br>
-
 Bruno Boschetti _(railway station clerk)_<br>
-
 Mirella Pamphili _(hotel guest)_<br>
-
 Nicoletta Elmi _(little girl at table)_<br>
-
 Marco Tulli _(man who faints at the station)_<br>
-
 Marcello Bonini Olas _(nobleman at the hotel party)_<br>
-
 Bill Vanders<br>
-
 Contessa Veronica _(English woman)_
 
 Italy 1971<br>
-
 130 mins
 
 The screening on Sat 11 Jan 14:30 will be screened in 35mm. All other screenings will be Digital 4K<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY5MDc3ODldfQ==
+eyJoaXN0b3J5IjpbMTkwMDk3NDA5XX0=
 -->
