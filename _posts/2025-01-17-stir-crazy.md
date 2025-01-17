@@ -95,14 +95,12 @@ _Titles and Opticals_: MGM Title
 _Music_: Tom Scott  
 _Choreography_: Scott Salmon  
 _Sound Recording_: Glen Anderson  
-_Sound Re-recording_: Wayne Artman,
-
-Tom Beckert, Michael Jiron  
+_Sound Re-recording_: Wayne Artman, Tom Beckert, Michael Jiron  
 _Sound Effects_: Jeff Bushelman, Pat Somerset, Burbank Editorial and Sound Service  
 _Stunt Co-ordinator_: Mickey Gilbert  
 _Head Wrangler_: Jim Medearis
 
-_Cast:_  
+**Cast**  
 Gene Wilder _(Skip Donahue)_  
 Richard Pryor _(Harry Monroe)_  
 Georg Stanford Brown _(Rory Schultebrand)_  
@@ -149,13 +147,12 @@ Essex Smith _(Blade’s friend)_
 Kenneth Menard _(repairman)_  
 Billy Beck _(flycatching prisoner)_
 
-USA 1980
-
-111 mins
-
+USA 1980  
+111 mins  
 35mm
 
 The screening on Wed 29 Jan will be introduced by researcher and curator Matthew Barrington
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MjkwOTg5XX0=
+eyJoaXN0b3J5IjpbMTM0MTY4NzQzNV19
 -->
