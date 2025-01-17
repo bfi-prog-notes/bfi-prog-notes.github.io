@@ -27,127 +27,70 @@ As Leonard Rosenman’s unforgettably lush, jazzy score reaches a peak and the G
 <br><br>
 
 **REBEL WITHOUT A CAUSE**<br>
-
 _Directed by/Original Story by:_ Nicholas Ray<br>
-
 _Production Company:_ Warner Bros.<br>
-
 _Produced by:_ David Weisbart<br>
-
 _Dialogue Supervisor:_ Dennis Stock<br>
-
 _Assistant Directors:_ Don Page, Robert Farfan<br>
-
 _Screen Play by:_ Stewart Stern<br>
-
 _Adaptation by:_ Irving Shulman<br>
-
 _Director of Photography:_ Ernest Haller<br>
-
 _Stills:_ Floyd McCarty *<br>
-
 _Editor:_ William Ziegler<br>
-
 _Art Director:_ Malcolm Bert<br>
-
 _Set Decorator:_ William Wallace<br>
-
 _Costumes Designed by:_ Moss Mabry<br>
-
 _Make-up Supervisor:_ Gordon Bau<br>
-
 _Music by:_ Leonard Rosenman<br>
-
 _Sound by:_ Stanley Jones<br>
-
 _Technical Adviser:_ Frank Mazzola *<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 James Dean _(Jim Stark)_<br>
-
 Natalie Wood _(Judy)_<br>
-
 Sal Mineo _(Jon ‘Plato’ Crawford)_<br>
-
 Jim Backus _(Frank Stark)_<br>
-
 Ann Doran _(Mrs Stark)_<br>
-
 Corey Allen _(Buzz Connors)_<br>
-
 William Hopper _(Judy’s father)_<br>
-
 Rochelle Hudson _(Judy’s mother)_<br>
-
 Dennis Hopper _(goon)_<br>
-
 Edward Platt _(Ray, the social worker)_<br>
-
 Steffi Sidney _(Mil)_<br>
-
 Marietta Canty _(Plato’s maid)_<br>
-
 Virginia Brissac _(Jim’s grandmother)_<br>
-
 Beverly Long _(Helen)_<br>
-
 Ian Wolfe _(lecturer)_<br>
-
 Frank Mazzola _(Crunch)_<br>
-
 Robert Foulk _(Gene)_<br>
-
 Jack Simmons _(Cookie)_<br>
-
 Tom Bernard _(Harry)_<br>
-
 Nick Adams _(Moose)_<br>
-
 Jack Grinnage _(Chick)_<br>
-
 Clifford Morris _(Cliff)_<br>
-
 Dick Wessel _(observatory guide)_ *<br>
-
 Jimmy Baird _(Beau)_ *<br>
-
 Nelson Leigh _(sergeant)_ *<br>
-
 Dorothy Abbott _(nurse)_ *<br>
-
 Louise Lane _(woman officer)_ *<br>
-
 House Peters _(officer)_ *<br>
-
 Gus Schilling _(attendant)_ *<br>
-
 Bruce Noonan _(monitor)_ *<br>
-
 Almira Sessions _(old lady teacher)_ *<br>
-
 Peter Miller _(handcuffed hoodlum in station)_ *<br>
-
 Paul Bryar _(desk sergeant)_ *<br>
-
 Paul Birch _(police chief)_ *<br>
-
 Robert B. Williams _(Ed, Moose’s father)_ *<br>
-
 David McMahon _(Crunch’s father)_ *<br>
-
 John Close _(cop at station)_ *<br>
-
 Nicholas Ray _(man in last shot)_ *<br>
 
 USA 1955©<br>
-
 110 mins<br>
-
 Digital 4K
 
-* Uncredited<br>
+*Uncredited<br>
 * <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mzc4NzcxN119
+eyJoaXN0b3J5IjpbMTc3Nzc1MDIwOV19
 -->
