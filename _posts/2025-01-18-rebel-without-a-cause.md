@@ -1,10 +1,21 @@
+---
+layout: post
+title: Rebel without a Cause
+published: true
+date: 2025-01-18
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Drama]
+metadata: 'USA 1955, 110 mins<br> Director: Nicholas Ray'
+pdf: '2025-01-18-rebel-without-a-cause.pdf'
+---
 
 _‘It’s a great coming-of-age melodrama with an incredible cast.’  
 – Luke Hemmings, BFI Member_
 
 ‘Whatever’s inside making me what I am, it’s like film. Film only works in the dark. Tear it all open and let in the light and you kill it’ – James Dean
 
-In October 1955, when Nicolas Ray’s _Rebel without a Cause_ premiered in New York to feverish queues of mourning teenagers, the film’s moody fledgling star had been dead for a month. James Dean’s death only heightened the power of the blazing, jerky anguish he displayed onscreen, lending tragic poignancy to his every movement. Dean was 24 and already buried back home in his midwestern farm town, with three motion pictures and a crumpled silver Porsche left in his wake.
+In October 1955, when Nicholas Ray’s _Rebel without a Cause_ premiered in New York to feverish queues of mourning teenagers, the film’s moody fledgling star had been dead for a month. James Dean’s death only heightened the power of the blazing, jerky anguish he displayed onscreen, lending tragic poignancy to his every movement. Dean was 24 and already buried back home in his midwestern farm town, with three motion pictures and a crumpled silver Porsche left in his wake.
 
 _Rebel without a Cause_ focuses on high schooler Jim Stark (Dean), who arrives in town with his parents after they have taken it upon themselves to move yet again, occasioned by their only son’s delinquent behaviour. It’s there he meets the beautiful Judy (Natalie Wood, only 16 during the film’s production) and the lonely oddball Plato (Sal Mineo), but Stark finds himself increasingly alienated by his spineless parents, the overbearing local cop, and the gang of thugs who challenge him to the fatalistic game of chicken known as a ‘chickie run’. Nicholas Ray – adored by cineastes for his portraits of mid-century American outsiderdom and boldly symbolic use of colour and delineation of space (he briefly apprenticed under legendary architect Frank Lloyd Wright) started out with the idea to capture the interior lives of juvenile delinquents and the social causes for their actions. This Eisenhower-era fascination with – in fact, invention of – the ‘teenager’ is key to many films of the period (often made, as with Ray, by older people): _The Wild One_ (1953), starring Dean’s hero Marlon Brando; _The Girl Can’t Help It_ (1956) and _Jailhouse Rock_ (1957), both stationing teen subculture in clothes, slang, and rock’n’roll.
 
@@ -91,6 +102,30 @@ Digital 4K
 
 *Uncredited<br>
 * <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc3Nzc1MDIwOV19
 -->
