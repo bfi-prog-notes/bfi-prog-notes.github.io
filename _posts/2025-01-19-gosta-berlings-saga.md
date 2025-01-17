@@ -28,16 +28,14 @@ _Art Directors_: Ragnar Bratten, Vilhelm Bryde
 Lars Hanson _(Gösta Berling)_  
 Gerda Lundequist _(Margareta Samzelius)_  
 Jenny Hasselquist _(Marianne, daughter of Melchior)_  
-Greta Garbo_  
-(Elisabeth Dohna, wife of Count Dohna)_  
+Greta Garbo _(Elisabeth Dohna, wife of Count Dohna)_  
 Oscar Bergstrom _(Master Julius)_  
 Theodor Buch _(Ruster)_  
 Ellen Cederstrom _(Countess Martha Dohna)_  
 Hilda Forsslund _(Margareta’s mother)_  
 Otto Elg-Lundberg _(Major Samzelius)_  
 Sixten Malmerfelt _(Melchior Sinclaire)_  
-Karin Swanstrom_  
-(Gustafva, Melchior Sinclaire’s wife)_  
+Karin Swanstrom _(Gustafva, Melchior Sinclaire’s wife)_  
 Torsten Hammarén _(Count Henrik Dohna)_  
 Mona Mårtenson _(Countess Ebna Dohna)_  
 Sven Scholander _(Sintram)_  
@@ -54,15 +52,14 @@ Birger Lyne
 Signe Enwall  
 Tom Walter
 
-Sweden 1924
-
-206 mins + interval
-
+Sweden 1924  
+206 mins + interval  
 Digital
 
 With live piano accompaniment by John Sweeney
 
 Restored by the Swedish Film Institute in 2022
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTA1ODYzNF19
+eyJoaXN0b3J5IjpbNjcwNTIzMTQ4XX0=
 -->
