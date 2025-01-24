@@ -51,8 +51,7 @@ _Sound Recordist:_ Pierre Gamet
 _Boom Operator:_ Luc Yersin  
 _Sound Re-recording:_ Christian Londe  
 
-_Cast:_
-
+**Cast**  
 Jean-Luc Bideau _(Max Satigny)_  
 Rufus _(Mathieu Vernier)_  
 Miou-Miou _(Marie)_  
@@ -78,23 +77,20 @@ Domingo Semedo
 Mady Deluz  
 Jiairo Daghini  
 Groupe Théatrical du Collége Calvin  
-Albino Palumbo *
-
-Cécile *
-
-Coralie *
-
-Nathalie *
-
-David *
-
+Albino Palumbo *  
+Cécile *  
+Coralie *  
+Nathalie *  
+David *  
 Lionel *  
 Sten *  
-Switzerland-France 1976
 
-116 mins  Digital (restoration)
+Switzerland-France 1976  
+116 mins  
+Digital (restoration)
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5MzE5MjJdfQ==
+eyJoaXN0b3J5IjpbMTc5NDQwMzY0XX0=
 -->
