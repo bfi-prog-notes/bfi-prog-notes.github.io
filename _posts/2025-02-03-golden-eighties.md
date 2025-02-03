@@ -27,7 +27,7 @@ _Photography:_ Luc Benhamou<br>
 _Editing:_ Francine Sandberg<br>
 _Sound:_ François de Morant, Jean-Paul Loublier<br>
 
-_Cast:_<br>
+**Cast**<br>
 Maria de Medeiros<br>
 Pascale Salkin<br>
 
@@ -40,18 +40,15 @@ Restored by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman
 
 **GOLDEN EIGHTIES**<br>
 _Director_: Chantal Akerman  
-_Production Companies_: La Cécilia,  
-Paradise Films, Limbo-Films  
+_Production Companies_: La Cécilia,  Paradise Films, Limbo-Films  
 _Participation_: Ministère Français de la Culture, Ministère de la Culture de la Communauté Française  
 _Producer_: Martine Marignac  
 _Production Manager_: Jean-Luc Denéchau  
 _Assistant Production Manager_: Paul Giovanni  
 _Production Supervisors_: Martine Marignac, Jacqueline Louis  
 _Assistant Directors_: Serge Meynard, Lorraine Groleau, Isabelle Willems, Vincent Macheras  
-_Screenplay_: Chantal Akerman, Leora Barish,  
-Henry Bean, Pascal Bonitzer, Jean Gruault  
-_Directors of Photography_: Gilberto Azevedo,  
-Luc Benhamou  
+_Screenplay_: Chantal Akerman, Leora Barish,  Henry Bean, Pascal Bonitzer, Jean Gruault  
+_Directors of Photography_: Gilberto Azevedo,  Luc Benhamou  
 _Editor_: Francine Sandberg  
 _Art Director_: Serge Marzolff  
 _Set Dresser_: Manudécors  
@@ -65,27 +62,21 @@ _Musician (bass)_: Evert Verhees
 _Musician (guitar)_: Thierry Plas  
 _Musician (piano/synthesizer)_: Jean-Luc Manderlier  
 _Musician (synthesizers)_: Marc Herouet  
-_Musician (programmation Emulator 2)_:  
-Erwin Autrique  
+_Musician (programmation Emulator 2)_:  Erwin Autrique  
 _Musician (saxophones/flutes)_: Pietro Lacirignola  
 _Musician (saxophones)_: Johnny Dover  
-_Musicians (violin)_: Tahnos Adanopoulos,  
-Raymond Vincent  
+_Musicians (violin)_: Tahnos Adanopoulos,  Raymond Vincent  
 _Musician (alto)_: Galina Zinchenko  
-_Musicians (violincello)_: Edmond Baerts,  
-Sonia Wieder-Atherton  
+_Musicians (violincello)_: Edmond Baerts,  Sonia Wieder-Atherton  
 _Musician (counter-bass)_: Dirk van Gorp  
-_Music arranged and produced by_:  
-Jean-Luc Manderlier  
+_Music arranged and produced by_:  Jean-Luc Manderlier  
 _Music recording and re-recording_: Philippe Delire, Erwin Autrique  
 _Sound Recording_: Henri Morelle, Miguel Rejas  
-_Sound Re-recording_: Jean-François Auger,  
-Alain Garnier  
+_Sound Re-recording_: Jean-François Auger,  Alain Garnier  
 _Dubbing_: Suzanne Sandberg  
 _Sound Effects_: Jonathan Liebling, Loic Berthezene
 
-_Cast:_
-
+**Cast**  
 Delphine Seyrig _(Jeanne Schwartz)_  
 Myriam Boyer _(Sylvie)_  
 Fanny Cottençon _(Lili)_  
@@ -104,13 +95,12 @@ Nathalie Guérin _(girl with split skirt)_
 Kathy Guisard _(Sonia)_  
 Emma Wolff _(customer)_
 
-France-Belgium-Switzerland 1986
-
-96 mins
-
+France-Belgium-Switzerland 1986  
+96 mins  
 Digital 4K (restoration)
 
 Restored in 4K by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and L’Immagine Ritrovata, Bologna
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMTE2MTc5XX0=
+eyJoaXN0b3J5IjpbMjUxODk5NTAzXX0=
 -->
