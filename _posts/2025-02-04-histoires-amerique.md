@@ -27,20 +27,15 @@ _It is a film about Jews, and yet it is universal._
 
 I don’t know. I hope so. There must be many reasons and, once more, I would like to quote Sibony when he says that the Jewish question is grabbed from the Jews only to be found deeply rooted in everyone. That could be one of the reasons. But the film also evokes any transplantation from one world to another, for our times are so centered on transport and migration.
 
-Interview by Jacqueline Aubenas, production notes
-
-<![endif]-->
+**Interview by Jacqueline Aubenas, production notes**
+<br><br>
 
 **HISTOIRES D’AMÉRIQUE  
-(AMERICAN STORIES: FOOD, FAMILY AND PHILOSOPHY)**
-
+(AMERICAN STORIES: FOOD, FAMILY AND PHILOSOPHY)**  
 _Director_: Chantal Akerman  
-_Production Companies_: Mallia Films, La Sept, Centre Pompidou, Paradise Films,  
-RTBF (Télévision Belge)  
-_In association with_:  
-Bibliothèque Publique d’Information  
-_With the participation of_: Adine Duron,  
-Marcia Muraskin Shulman  
+_Production Companies_: Mallia Films, La Sept, Centre Pompidou, Paradise Films,  RTBF (Télévision Belge)  
+_In association with_:  Bibliothèque Publique d’Information  
+_With the participation of_: Adine Duron,  Marcia Muraskin Shulman  
 _With the participation of_: Ministère de la Culture et de la Communication, Ministère de la Culture de la Communauté Française  
 _Executive Producer_: Bertrand van Effenterre  
 _Executive Producer (Belgium)_: Marilyn Watelet  
@@ -60,8 +55,7 @@ _Musical Conception_: Sonia Wieder-Atherton
 _Sound Recording_: Alix Comte  
 _Sound Re-recording_: Gérard Rousseau
 
-_With:_
-
+**With**  
 Mark Amitin  
 Eszter Balint  
 Stefan Balint  
@@ -99,7 +93,10 @@ Claudia Silver
 Arthur Tracy  
 Victor Talmadge
 
-France-Belgium 1988  96 mins  Digital (restoration)
+France-Belgium 1988  
+96 mins  
+Digital (restoration)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE2OTY2ODZdfQ==
+eyJoaXN0b3J5IjpbLTg2NTk0MDk3XX0=
 -->
