@@ -102,11 +102,9 @@ Digital<br>
 
 **TOUTE UNE NUIT (ALL NIGHT LONG)**<br>
 _Director_: Chantal Akerman  
-_Production Companies_: Avidia Films, Paradise Films, Gerick Films, Lyric International, Partner's Production, Centre bruxellois de l'audiovisuel,  
-Film International, Cine 360  
+_Production Companies_: Avidia Films, Paradise Films, Gerick Films, Lyric International, Partner's Production, Centre bruxellois de l'audiovisuel,  Film International, Cine 360  
 _Executive Producer_: Marilyn Watelet  
-_Production Managers_: Stéphane Dykman,  
-Séverine Vermersch  
+_Production Managers_: Stéphane Dykman,  Séverine Vermersch  
 _Production Supervisor_: Nicole Flipo  
 _Assistant Directors_: Lyria Begega, Ignacio Carranza, Jean-Philippe Laroche, Pierre de Heusch  
 _Screenplay_: Chantal Akerman  
@@ -121,8 +119,7 @@ _Sound Recording_: Ricardo Castro, Miguel Rejas, Henri Morelle, Daniel Deshays
 _Sound Re-recording_: Jean-Paul Loublier  
 _Sound Effects_: Jacky Dufour
 
-_Cast:_
-
+**Cast**  
 Angelo Abazoglou  
 Frank Aendenboom  
 Natalia Akerman  
@@ -157,11 +154,12 @@ Lucy Grauman
 Michel Karchevsky  
 Tchéky Karyo
 
-Belgium-France 1982
-
-91 mins  Digital (restoration)
+Belgium-France 1982  
+91 mins  
+Digital (restoration)
 
 Restored by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and Amazing Digital Studios, Paris
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NTc4MDZdfQ==
+eyJoaXN0b3J5IjpbMTAwODA5Mjc3MF19
 -->
