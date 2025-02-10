@@ -96,7 +96,9 @@ The screening on Fri 21 Feb will include an introduction
 <img style="float: left;" src="/img/fondation-chantal-akerman-logo-01.jpeg" width="40%" height="40%">
 <br><br><br><br>
 <img style="float: left;" src="/img/cinematek-logo-01.jpeg" width="40%" height="40%">
-<br><br><br><br>
+<br><br><br><br><br>
+<img style="float: left;" src="/img/wallonia-brussels-01.png" width="40%" height="40%">
+<br><br><br><br><br>
 
 All restorations by Royal Film Archive of Belgium (CINEMATEK) and Fondation Chantal Akerman unless otherwise stated.
 
