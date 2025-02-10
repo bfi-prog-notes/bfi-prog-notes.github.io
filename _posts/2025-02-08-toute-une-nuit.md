@@ -1,3 +1,14 @@
+---
+layout: post
+title: Toute une nuit
+published: true
+date: 2025-02-08
+readtime: true
+categories: ['CHANTAL AKERMAN<br>ADVENTURES IN PERCEPTION']
+tags: [Drama]
+metadata: 'Belgium-France 1982, 91 mins<br> Director: Chantal Akerman'
+pdf: '2025-02-08-toute-une-nuit.pdf'
+---
 
 _Toute une nuit_ is made up entirely of a series of fragments. While apparently unconnected, they are all similar in tone. These amorous comings and goings, some happy, some unhappy, are all marked by a sense of urgency and emotional tension. Love, to invoke the cliché, may be eternal, but the stress in this film is on the immediate present – a present made precarious by the storm, the heat, the leaden atmosphere, the threatened arrival of morning. As one would expect from Chantal Akerman, the labyrinth that is spun out of these fragments is precisely organised in space and time. The film is divided into three sections of varying length – night, dawn and morning, marked by changing light and atmosphere – and into three locations, comprising a poor area near the centre of town with bars and Oriental music, a suburban street which might be reminiscent of a Hitchcock movie, and a square in the more venerable part of town with a distinguished old apartment house. While Akerman uses reallocations for all the exteriors and most of the interiors, the film looks as if it were shot in a studio. It is as if she were working towards (and beyond) the stylised non-naturalistic look of Coppola’s _One from the Heart_, with the movements of characters choreographed in and out of the sets in myriad different ways.
 
@@ -160,6 +171,54 @@ Digital (restoration)
 
 Restored by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and Amazing Digital Studios, Paris
 <br><br>
+
+**In partnership with**  
+<img style="float: left;" src="/img/fondation-chantal-akerman-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br>
+<img style="float: left;" src="/img/cinematek-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br>
+<img style="float: left;" src="/img/wallonia-brussels-01.png" width="40%" height="40%">
+<br><br><br><br><br>
+
+All restorations by Royal Film Archive of Belgium (CINEMATEK) and Fondation Chantal Akerman unless otherwise stated.
+
+Season generously supported by Philippe & Stephanie Camu.
+
+Supported by the General Representation of Wallonia-Brussels in the United Kingdom.
+
+With thanks to Céline Brouwez, Fondation Chantal Akerman; Joanna Hogg and Adam Roberts, A Nos Amours.
+<br><br>
+
+**Chantal Akerman Collection Vol.1: 1967-1978 (Limited Edition 5-Disc Blu-ray Box Set)**  
+Spanning the period 1967 to 1978, and representing the first significant release of Chantal Akerman’s work in the UK, this 5-Blu-ray set includes her most famous film, _Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles_. Available from BFI Shop from 24 February.
+
+**Sight and Sound presents the auteurs series: Chantal Akerman**  
+Revisiting material from the _Sight and Sound_ and _Monthly Film Bulletin_ archive and also publishing exclusive texts and images from the Fondation Chantal Akerman archive, _Sight and Sound presents the auteurs series: Chantal Akerman_. Available now from BFI Shop.
+<br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTAwODA5Mjc3MF19
 -->
