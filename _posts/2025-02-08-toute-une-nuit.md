@@ -16,8 +16,7 @@ I really didn’t know how this film would work while I was making it. But I thi
 
 Chantal Akerman chose the songs for her films very carefully. These are the lyrics translated from the songs _Ma révérence_ (Véronique Sanson) and _L’amor perdonerà_ (Michel Handson), featured in the film:
 
-_Ma révérence_
-
+_Ma révérence_  
 When my son grows up  
 And no longer needs me;  
 When people who have loved me  
@@ -49,11 +48,9 @@ A little voice, muffled and growling:
 The world knows I’m alone
 
 Lyrics by Véronique Sanson ©Warner/Chappell Music, translation Adam Roberts
+<br>
 
-<![endif]-->
-
-_L’amor perdonerà_
-
+_L’amor perdonerà_  
 Love you know  
 Will forgive.  
 Today you remain here  
@@ -92,28 +89,18 @@ Will forgive
 Will forgive
 
 Words & music Michel Handson, Italian version Jean-Yves Panayetidès – Editions Amplitude. English translation Matteo Fargion, courtesy of A Nos Amours
+<br><br>
 
+**RUE MALLET-STEVENS**<br>
+_Director_: Chantal Akerman<br>
+_Photography:_ Claire Atherton, Luc Benhamou<br>
+_Editing:_ Claire Atherton<br>
+_Sound:_ Alix Comte<br>
+Belgium 1986<br>
+8 mins<br>
+Digital<br>
 
-<![endif]-->
-
-**RUE MALLET-STEVENS**
-
-_Director_: Chantal Akerman
-
-_Photography:_ Claire Atherton, Luc Benhamou
-
-_Editing:_ Claire Atherton
-
-_Sound:_ Alix Comte
-
-Belgium 1986
-
-8 mins
-
-Digital
-
-**TOUTE UNE NUIT (ALL NIGHT LONG)**
-
+**TOUTE UNE NUIT (ALL NIGHT LONG)**<br>
 _Director_: Chantal Akerman  
 _Production Companies_: Avidia Films, Paradise Films, Gerick Films, Lyric International, Partner's Production, Centre bruxellois de l'audiovisuel,  
 Film International, Cine 360  
@@ -176,5 +163,5 @@ Belgium-France 1982
 
 Restored by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and Amazing Digital Studios, Paris
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjk5NDkyNl19
+eyJoaXN0b3J5IjpbNzE4NTc4MDZdfQ==
 -->
