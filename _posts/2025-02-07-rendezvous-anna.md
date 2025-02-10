@@ -38,33 +38,28 @@ _The people Anna meet seem lost, in complete disarray ... it would seem their di
 The people Anna meet are all on the edge of something ... they are still clinging on a little to this edge. It wouldn’t take much for them to tip over. They are vaguely aware that the values on which they have built their lives are trembling ... They seem to be just waking up to the scandal of their own situation, of their own history.
 
 **Production notes**
-<br><
+<br><br>
 
-**LES RENDEZ-VOUS D’ANNA (MEETINGS WITH ANNA)**
-
+**LES RENDEZ-VOUS D’ANNA (MEETINGS WITH ANNA)**  
 _Director_: Chantal Akerman  
 _Production Companies_: Hélène Films, Unité 3, Paradise Films, ZDF - Zweites Deutsches Fernsehen  
 _Producer_: Alain Dahan  
 _Production Managers_: Catherine Huhardeaux, Evelyne Paul  
-_Production Supervisors_: Philippe Allaire,  
-Jean-Marie Vervisch, Stéphane Rossie  
+_Production Supervisors_: Philippe Allaire,  Jean-Marie Vervisch, Stéphane Rossie  
 _Assistant Directors_: Romain Coupil, Marilyn Watelet  
 _Screenplay_: Chantal Akerman  
 _Director of Photography_: Jean Penzer  
 _Camera Operator_: Michel Houssiau  
 _Editor_: Francine Sandberg  
-_Art Directors_: Philippe Graaf,  
-André Fonteyne Coyotte  
+_Art Directors_: Philippe Graaf,  André Fonteyne Coyotte  
 _Make-up_: Christiane Sauvage  
 _Sound Recording_: Henri Morelle  
 _Sound Re-recording_: Jean-Paul Loublier  
-_Sound Editor_: Suzanne Sandberg,  
-Pierre-Louis LeCoeur  
+_Sound Editor_: Suzanne Sandberg,  Pierre-Louis LeCoeur  
 _Sound Effects_: Jacky Dufour  
 _Subtitles_: Cinétitres
 
-_Cast:_
-
+**Cast**  
 Aurore Clément _(Anna Silver)_  
 Helmut Griem _(Heinrich)_  
 Magali Noël _(Ida)_  
@@ -77,15 +72,14 @@ Françoise Bonet
 Victor Verek  
 Thaddausz Kahl
 
-France-Belgium-West Germany 1978
-
-127 mins
-
+France-Belgium-West Germany 1978  
+127 mins  
 Digital 4K (restoration)
 
 The screening on Fri 7 Feb will be presented with additional Descriptive Subtitles of non-dialogue audio
 
 The screening on Fri 21 Feb will include an introduction
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTExMzMxMF19
+eyJoaXN0b3J5IjpbMTc1MTcyNTUyNF19
 -->
