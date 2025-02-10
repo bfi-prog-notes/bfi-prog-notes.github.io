@@ -58,7 +58,7 @@ _Sound Effects_: Ltd. Edit International
 _Dialogue Coach_: Alice Spivak  
 _Wrangler_: Jose Maria Hernandez
 
-_Cast__:_  
+**Cast**  
 Sidney Poitier _(Buck)_  
 Harry Belafonte _(Preacher)_  
 Ruby Dee _(Ruth)_  
@@ -96,19 +96,18 @@ Ivan Scott _(express agent)_
 Bill Cook _(man in express office)_  
 John Kennedy _(bank teller)_
 
-USA 1972
-
-102 mins
-
+USA 1972  
+102 mins  
 Digital 4K
 
 Restored in 4K in 2022 by Sony Pictures Entertainment at Cineric laboratory, from the original negative. Colour grading completed by MTI
-
-<![endif]-->
+<br><br>
 
 **Please note** that many of these films contain excessive violence along with racist, misogynist and other discriminatory language, images or other content that reflect views prevalent in its time but will cause offence today (as they did then). The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.
+<br>
 
 Find Mia Mask’s book _Black Rodeo: A History of the African American Western_ in the BFI Shop
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NDk5NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDIyMTA0NjddfQ==
 -->
