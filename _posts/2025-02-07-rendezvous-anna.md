@@ -94,9 +94,9 @@ The screening on Fri 21 Feb will include an introduction
 
 **In partnership with**  
 <img style="float: left;" src="/img/fondation-chantal-akerman-logo-01.jpeg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <img style="float: left;" src="/img/cinematek-logo-01.jpeg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 All restorations by Royal Film Archive of Belgium (CINEMATEK) and Fondation Chantal Akerman unless otherwise stated.
 
@@ -105,7 +105,7 @@ Season generously supported by Philippe & Stephanie Camu.
 Supported by the General Representation of Wallonia-Brussels in the United Kingdom.
 
 With thanks to Céline Brouwez, Fondation Chantal Akerman; Joanna Hogg and Adam Roberts, A Nos Amours.
-<br>
+<br><br>
 
 **Chantal Akerman Collection Vol.1: 1967-1978 (Limited Edition 5-Disc Blu-ray Box Set)**  
 Spanning the period 1967 to 1978, and representing the first significant release of Chantal Akerman’s work in the UK, this 5-Blu-ray set includes her most famous film, _Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles_. Available from BFI Shop from 24 February.
