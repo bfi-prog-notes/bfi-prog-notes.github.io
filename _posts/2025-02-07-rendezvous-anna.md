@@ -1,3 +1,14 @@
+---
+layout: post
+title: Les Rendez-vous d'Anna
+published: true
+date: 2025-02-07
+readtime: true
+categories: ['CHANTAL AKERMAN<br>ADVENTURES IN PERCEPTION']
+tags: [Drama]
+metadata: 'France-Belgium-West Germany 1978, 127 mins<br> Director: Chantal Akerman'
+pdf: '2025-02-07-rendezvous-anna.pdf'
+---
 
 With _Les Rendez-vous d’Anna_, her most accessible and ‘commercial’ film to date, Chantal Akerman will presumably reach a much wider public than hitherto (the film was the success of the 1978 Paris Festival) while remaining faithful to her earlier preoccupations and methods. Marginal on three accounts – she is young, female and Belgian – she has managed to make marginality the centre of a film which looks sufficiently expensive to qualify as mainstream even if the issues it raises are not often encountered in the European art cinema.
 
@@ -80,6 +91,52 @@ The screening on Fri 7 Feb will be presented with additional Descriptive Subtitl
 
 The screening on Fri 21 Feb will include an introduction
 <br><br>
+
+**In partnership with**  
+<img style="float: left;" src="/img/fondation-chantal-akerman-logo-01.jpeg" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/cinematek-logo-01.jpeg" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+All restorations by Royal Film Archive of Belgium (CINEMATEK) and Fondation Chantal Akerman unless otherwise stated.
+
+Season generously supported by Philippe & Stephanie Camu.
+
+Supported by the General Representation of Wallonia-Brussels in the United Kingdom.
+
+With thanks to Céline Brouwez, Fondation Chantal Akerman; Joanna Hogg and Adam Roberts, A Nos Amours.
+
+**Chantal Akerman Collection Vol.1: 1967-1978 (Limited Edition 5-Disc Blu-ray Box Set)**  
+Spanning the period 1967 to 1978, and representing the first significant release of Chantal Akerman’s work in the UK, this 5-Blu-ray set includes her most famous film, _Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles_. Available from BFI Shop from 24 February.
+
+**Sight and Sound presents the auteurs series: Chantal Akerman**
+Revisiting material from the _Sight and Sound_ and _Monthly Film Bulletin_ archive and also publishing exclusive texts and images from the Fondation Chantal Akerman archive, _Sight and Sound presents the auteurs series: Chantal Akerman_. Available now from BFI Shop.
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc1MTcyNTUyNF19
 -->
