@@ -39,56 +39,35 @@ It is. It really is a stage in the process. A broader kind of film, more deconst
 <br><br>
 
 **LA FOLIE ALMAYER (ALMAYER’S FOLLY)**<br>
-
 _Director_: Chantal Akerman  
-_Production Companies_: Paradise Films,  
-Liaison Cinématographique, Artémis Productions<br>
-
-_Executive Producers:_ Sovichea Cheap,  
-Serge Zeitoun<br>
-
+_Production Companies_: Paradise Films,  Liaison Cinématographique, Artémis Productions<br>
+_Executive Producers:_ Sovichea Cheap,  Serge Zeitoun<br>
 _Producers:_ Patrick Quinet, Chantal Akerman<br>
-
 _Production Manager:_ Marianne Lambert  
 _Written by_: Chantal Akerman  
-_Based on the novel by_: Joseph Conrad
-
-_Director of Photography:_ Remon Fromont
-
-_Editor:_ Claire Atherton
-
-_Art Director:_ Patrick Dechesne,  
-Alain-Pascal Housiaux
-
-_Costume Designer:_ Catherine Marchand
-
-_Sound:_ Pierre Mertens
-
-_Sound Mixer:_ Thomas Gauder
-
+_Based on the novel by_: Joseph Conrad<br>
+_Director of Photography:_ Remon Fromont<br>
+_Editor:_ Claire Atherton<br>
+_Art Director:_ Patrick Dechesne,  Alain-Pascal Housiaux<br>
+_Costume Designer:_ Catherine Marchand<br>
+_Sound:_ Pierre Mertens<br>
+_Sound Mixer:_ Thomas Gauder<br>
 _Sound Editor:_ Cécile Chagnaud
 
-_Cast:_
-
+**Cast**<br>
 Stanislas Merhar _(Almayer)_  
 Marc Barbé _(Captain Lingard)_  
-Aurora Marion _(Nina)_
+Aurora Marion _(Nina)_<br>
+Zac Andrianasolo _(Dain)_<br>
+Sakhna Oum _(Zahira)_<br>
+Solida Chan _(Chen)_<br>
+Yucheng Sun _(Captain Tom Li)_<br>
+Bunthang Khim _(Ali)_<br>
 
-Zac Andrianasolo _(Dain)_
-
-Sakhna Oum _(Zahira)_
-
-Solida Chan _(Chen)_
-
-Yucheng Sun _(Captain Tom Li)_
-
-Bunthang Khim _(Ali)_
-
-Belgium-France 2011
-
-127 mins
-
-Digital
+Belgium-France 2011<br>
+127 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NDM4OTI3XX0=
+eyJoaXN0b3J5IjpbLTIwNTAxNDU5MzVdfQ==
 -->
