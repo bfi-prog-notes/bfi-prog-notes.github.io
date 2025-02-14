@@ -18,120 +18,67 @@ Weir freely admits that he’s always been more interested in atmosphere than ch
 <br><br>
 
 **PICNIC AT HANGING ROCK**<br>
-
 _Director:_ Peter Weir<br>
-
-_Production Companies:_ Picnic Productions,  
-BEF Film Distributors, South Australian Film Commission, Australian Film Commission<br>
-
+_Production Companies:_ Picnic Productions,  BEF Film Distributors, South Australian Film Commission, Australian Film Commission<br>
 _Executive Producer:_ Patricia Lovell<br>
-
 _Executive Producer for AFC:_ John Graves<br>
-
 _Producers:_ Hal McElroy, Jim McElroy<br>
-
-_Assistant Directors:_ Mark Egerton, Kim Dalton,  
-Ian Jamieson<br>
-
+_Assistant Directors:_ Mark Egerton, Kim Dalton,  Ian Jamieson<br>
 _Screenplay:_ Cliff Green<br>
-
 _Original Novel:_ Joan Lindsay<br>
-
 _Director of Photography:_ Russell Boyd<br>
-
 _Nature Photography:_ David Sanderson<br>
-
 _Camera Operator:_ John Seale<br>
-
 _Editor:_ Max Lemon<br>
-
 _Art Director:_ David Copping<br>
-
 _Set Decorator:_ Graham Walker<br>
-
 _Costumes:_ Judy Dorsman<br>
-
 _Costume Consultant:_ Wendy Weir<br>
-
 _Make-up:_ José Perez, Elizabeth Mitchie<br>
-
 _Titles and Opticals:_ Optical & Graphic<br>
-
 _Additional Music:_ Bruce Smeaton<br>
-
 _Sound Recording:_ Don Connelly<br>
-
 _Sound Editor:_ Greg Bell<br>
-
 _Artistic Adviser:_ Martin Sharp<br>
-
 _Wrangler:_ Tom Downer<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Rachel Roberts _(Mrs Appleyard)_<br>
-
 Dominic Guard _(Michael Fitzhubert)_<br>
-
 Helen Morse _(Dianne de Portiers)_<br>
-
 Jacki Weaver _(Minnie)_<br>
-
 Vivean Gray _(Miss McCraw)_<br>
-
 Kirsty Child _(Dora Lumley)_<br>
-
 Anne Lambert _(Miranda)_<br>
-
 Karen Robson _(Irma)_<br>
-
 Jane Vallis _(Marion)_<br>
+Christine Schuler _(Edith)_<br>
+Margaret Nelson _(Sara)_<br>
+John Jarratt _(Albert Crundall)_<br>
+Ingrid Mason _(Rosamund)_<br>
+Martin Vaughan _(Ben Hussey)_<br>
+Jack Fegan _(Doc McKenzie)_<br>
+Wyn Roberts _(Sgt Bumpher)_<br>
+Garry Mcdonald _(Jim Jones)_<br>
+Frank Gunnell _(Edward Whitehead)_<br>
+Peter Collingwood _(Colonel Fitzhubert)_<br>
+Olga Dickie _(Mrs Fitzhubert)_<br>
+Kay Taylor _(Mrs Bumpher)_<br>
+Anthony Llewellyn Jones _(Tom)_<br>
+Faith Kleinig _(Cook)_<br>
+Jenny Lovell _(Blanche)_<br>
+Janet Murray _(Juliana)_<br>
 
-Christine Schuler _(Edith)_
+Vivienne Graves, Angela Bencini, Melinda Cardwell, Annabel Powrie, Amanda White, Lindy O’Connell, Verity Smith, Deborah Mullins, Sue Jamieson, Bernadette Bencini, Barbara Lloyd<br>
 
-Margaret Nelson _(Sara)_
-
-John Jarratt _(Albert Crundall)_
-
-Ingrid Mason _(Rosamund)_
-
-Martin Vaughan _(Ben Hussey)_
-
-Jack Fegan _(Doc McKenzie)_
-
-Wyn Roberts _(Sgt Bumpher)_
-
-Garry Mcdonald _(Jim Jones)_
-
-Frank Gunnell _(Edward Whitehead)_
-
-Peter Collingwood _(Colonel Fitzhubert)_
-
-Olga Dickie _(Mrs Fitzhubert)_
-
-Kay Taylor _(Mrs Bumpher)_
-
-Anthony Llewellyn Jones _(Tom)_
-
-Faith Kleinig _(Cook)_
-
-Jenny Lovell _(Blanche)_
-
-Janet Murray _(Juliana)_
-
-Vivienne Graves, Angela Bencini, Melinda Cardwell, Annabel Powrie, Amanda White, Lindy O’Connell, Verity Smith, Deborah Mullins, Sue Jamieson, Bernadette Bencini, Barbara Lloyd
-
-Australia 1975
-
-107 mins (Director’s Cut)
-
+Australia 1975<br>
+107 mins (Director’s Cut)<br>
 Digital 4K
 
-Restored in 4K in 2022 by Acid Pictures in collaboration with Second Sight Films at  
-The Grainery laboratory, from the original camera negative preserved by Australian National Film  
-and Sound Archive
+Restored in 4K in 2022 by Acid Pictures in collaboration with Second Sight Films at  The Grainery laboratory, from the original camera negative preserved by Australian National Film  and Sound Archive
 
-A BFI release
+A BFI release<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTEyNTUxNV19
+eyJoaXN0b3J5IjpbMTM5Mzg0NDI5NV19
 -->
