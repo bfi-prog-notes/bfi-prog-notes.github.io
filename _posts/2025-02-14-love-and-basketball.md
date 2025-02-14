@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love & Basketball
+title: Love and Basketball
 published: true
 date: 2025-02-14
 readtime: true
