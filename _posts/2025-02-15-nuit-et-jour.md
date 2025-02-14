@@ -30,52 +30,31 @@ Where a film like Catherine Breillat’s _Virgin_ was grittily realistic about s
 <br><br>
 
 **NUIT ET JOUR (NIGHT AND DAY)**<br>
-
 _Director:_ Chantal Akerman<br>
-
 _Production Companies:_ Pierre Grise Productions, Canal+, CNC - Centre national de la cinématographie, Sofinergie 2, Paradise Films, George Reinhart Productions, Ministère de la Culture de la Communauté Française<br>
-
-_Executive Producers:_ Martine Marignac,  
-Maurice Tinchant<br>
-
+_Executive Producers:_ Martine Marignac,  Maurice Tinchant<br>
 _Screenplay:_ Chantal Akerman<br>
-
-_Director of Photography:_  
-Jean-Claude Neckelbrouck<br>
-
+_Director of Photography:_  Jean-Claude Neckelbrouck<br>
 _Camera Operator:_ Pierre Gordower<br>
-
-_Editors:_ Francine Sandberg,  
-Camille Bordes-Resnais<br>
-
+_Editors:_ Francine Sandberg,  Camille Bordes-Resnais<br>
 _Art Directors:_ Michel Vandestien, Dominique Douret<br>
-
 _Costumes:_ Brigitte Nierhaus<br>
-
 _Make-up:_ Nicole Mora<br>
-
 _Music:_ Marc Herouet<br>
-
 _Sound:_ Alix Comte, Pierre Tucat<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Guilaine Londez _(Julie)_<br>
-
 Thomas Langmann _(Jack)_<br>
-
 François Negret _(Joseph)_<br>
-
 Nicole Colchat, Pierre Laroche _(the parents)_<br>
 
 Belgium-France-Switzerland 1991<br>
-
 90 mins<br>
-
 35mm
 
 The screening on Fri 7 Mar will be introduced by Laura Carreira, director of _On Falling_<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0OTM2OTkxXX0=
+eyJoaXN0b3J5IjpbNzQ2MDY5OTYzXX0=
 -->
