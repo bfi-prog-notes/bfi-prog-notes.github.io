@@ -40,221 +40,194 @@ One of the more exciting parts of the shoot was an evening spent filming a scene
 <br><br>
 
 **LOVE & BASKETBALL**<br>
-
 _Director_: Gina Prince-Bythewood<br>
-
 ©: New Line Productions Inc.<br>
-
-_Production Company_:  
-40 Acres and a Mule Filmworks<br>
-
+_Production Company_:  40 Acres and a Mule Filmworks<br>
 _Presented by_: New Line Cinema<br>
-
 _Executive Producers_: Andrew Z. Davis, Jay Stern, Cynthia Guidry<br>
-
 _Producers_: Spike Lee, Sam Kitt<br>
-
 _Executive in Charge of Production_: Carla Fry<br>
-
 _Production Executive_: Michele McGuire<br>
-
 _Supervising Production Co-ordinator_: Emily Glatter<br>
-
 _Production Controller_: Paul Prokop<br>
-
 _Location Manager_: Wayne Middleton<br>
-
 _Executive in Charge of Post-production_: Jody Levin<br>
-
 _Preview Technical Supervisor_: Lee Tucker<br>
-
 _1st Assistant Director_: Mark Anthony Little<br>
-
 _Script Supervisor_: Martin Kitrosser<br>
-
 _Casting_: Aisha Coley<br>
-
 _Written by_: Gina Prince-Bythewood<br>
-
 _Director of Photography_: Reynaldo Villalobos<br>
-
 _Hi-8 Footage_: Reggie Rock Bythewood<br>
-
 _A Camera Operator_: Joseph D. Urbanczyk<br>
-
 _Steadicam Operator_: Joe Chess<br>
-
 _Key Grip_: R. Michael Stringer<br>
-
 _Edited by_: Terilyn Shropshire<br>
-
 _Production Designer_: Jeff Howard<br>
-
 _Art Director_: Susan K. Chan<br>
+_Set Designer_: Ron Wilkinson<br>
+_Set Decorator_: Dena Roth<br>
 
-_Set Designer_: Ron Wilkinson
+_Property Master_: Jimmie Herron Jr<br>
 
-_Set Decorator_: Dena Roth
+_Costume Designer_: Ruth Carter<br>
 
-_Property Master_: Jimmie Herron Jr
-
-_Costume Designer_: Ruth Carter
-
-_Key Make-up Artist_: Anita Gibson
+_Key Make-up Artist_: Anita Gibson<br>
 
 _Key Hairstylists_: JoAnn Stafford-Chaney,
 
-Sterfon Demings
+Sterfon Demings<br>
 
-_Main/End Titles Designed by_: Custom Film Effects
+_Main/End Titles Designed by_: Custom Film Effects<br>
 
-_Opticals_: Custom Film Effects
+_Opticals_: Custom Film Effects<br>
 
-_Colour Timer_: Jim Williams
+_Colour Timer_: Jim Williams<br>
 
-_Music_: Terence Blanchard
+_Music_: Terence Blanchard<br>
 
 _Music Conducted/Orchestrated by_:  
-Terence Blanchard
+Terence Blanchard<br>
 
-_Music Editors_: Lori Slomka, Michael Dittrick
+_Music Editors_: Lori Slomka, Michael Dittrick<br>
 
-_Sound Supervisor_: Frederick ‘Mastavisa’ Howard
+_Sound Supervisor_: Frederick ‘Mastavisa’ Howard<br>
 
-_Sound Mixer_: Willie Burton
+_Sound Mixer_: Willie Burton<br>
 
-_Boom Operator_: Marvin E. Lewis
+_Boom Operator_: Marvin E. Lewis<br>
 
 _Re-recording Mixers_: Marc ‘M3’ Fishman,  
-Derek ‘DMD’ Marcil
+Derek ‘DMD’ Marcil<br>
 
-_Dialogue Editors_: David Grant, Kevin Hamilton, Robert Getty, Michael Hertlein
+_Dialogue Editors_: David Grant, Kevin Hamilton, Robert Getty, Michael Hertlein<br>
 
 _Sound Effects Editors_: Benjamin Cook,  
-Michael Kamper, Lisle Engle, Mark Hunshik Choi
+Michael Kamper, Lisle Engle, Mark Hunshik Choi<br>
 
-_ADR Supervisor_: Susan ‘Sound Sista’ Shin
+_ADR Supervisor_: Susan ‘Sound Sista’ Shin<br>
 
-_Foley Artists_: S. Diane Marshall, David Lee Fein
+_Foley Artists_: S. Diane Marshall, David Lee Fein<br>
 
-_Stunt Co-ordinator_: Manny Perry
+_Stunt Co-ordinator_: Manny Perry<br>
 
 _Basketball Advisers_: Dick Baker,  
-Colleen Matsuhara, Steve Spencer
+Colleen Matsuhara, Steve Spencer<br>
 
-_Basketball Double (Sanaa Lathan)_: Kerrie Marshall
+_Basketball Double (Sanaa Lathan)_: Kerrie Marshall<br>
 
-_Cast:_
+_Cast:_<br>
 
-Omar Epps _(Quincy McCall)_
+Omar Epps _(Quincy McCall)_<br>
 
-Sanaa Lathan _(Monica Wright)_
+Sanaa Lathan _(Monica Wright)_<br>
 
-Alfre Woodard _(Camille Wright)_
+Alfre Woodard _(Camille Wright)_<br>
 
-Dennis Haysbert _(Zeke McCall)_
+Dennis Haysbert _(Zeke McCall)_<br>
 
-Debbi Morgan _(Nona McCall)_
+Debbi Morgan _(Nona McCall)_<br>
 
-Harry J. Lennix _(Nathan Wright)_
+Harry J. Lennix _(Nathan Wright)_<br>
 
-Kyla Pratt _(young Monica)_
+Kyla Pratt _(young Monica)_<br>
 
-Glenndon Chatman _(young Quincy)_
+Glenndon Chatman _(young Quincy)_<br>
 
-Christine Dunford _(Coach Davis)_
+Christine Dunford _(Coach Davis)_<br>
 
-Erika Ringor _(Sidra O’Neal)_
+Erika Ringor _(Sidra O’Neal)_<br>
 
-Regina Hall _(Lena Wright)_
+Regina Hall _(Lena Wright)_<br>
 
-Jess Willard _(Jamal)_
+Jess Willard _(Jamal)_<br>
 
-Chris Warren Jr _(Kelvin)_
+Chris Warren Jr _(Kelvin)_<br>
 
-Naykia Harris _(young Lena)_
+Naykia Harris _(young Lena)_<br>
 
-Colleen Matsuhara _(UCLA coach)_
+Colleen Matsuhara _(UCLA coach)_<br>
 
-Al Foster _(Coach Hiserman)_
+Al Foster _(Coach Hiserman)_<br>
 
-Nathaniel Bellamy _(high school referee 1)_
+Nathaniel Bellamy _(high school referee 1)_<br>
 
-Shar Jackson _(Felicia)_
+Shar Jackson _(Felicia)_<br>
 
-Gabrielle Union _(Shawnee)_
+Gabrielle Union _(Shawnee)_<br>
 
-James DuMont _(reporter)_
+James DuMont _(reporter)_<br>
 
-April Griffin _(Dorsey High School player)_
+April Griffin _(Dorsey High School player)_<br>
 
-Boris Kodjoe _(Jason)_
+Boris Kodjoe _(Jason)_<br>
 
-Kara Brock _(college girl 1)_
+Kara Brock _(college girl 1)_<br>
 
-Aichi Ali _(college girl 2)_
+Aichi Ali _(college girl 2)_<br>
 
-Charles O’Bannon _(Reggie)_
+Charles O’Bannon _(Reggie)_<br>
 
-Robin Roberts _(herself)_
+Robin Roberts _(herself)_<br>
 
-Dick Vitale _(himself)_
+Dick Vitale _(himself)_<br>
 
-Jimmy Lennon Jr _(sports announcer)_
+Jimmy Lennon Jr _(sports announcer)_<br>
 
-Terry Cummings _(himself)_
+Terry Cummings _(himself)_<br>
 
-Andre Bellinger _(college referee)_
+Andre Bellinger _(college referee)_<br>
 
-Monica Calhoun _(Kerry)_
+Monica Calhoun _(Kerry)_<br>
 
-Dion Basco _(college student)_
+Dion Basco _(college student)_<br>
 
 Marta Bou Morera_,_ Marta Crespo_,_
 
-Raquel Hurtado _(Spanish girls)_
+Raquel Hurtado _(Spanish girls)_<br>
 
-Jordi Clemente _(security guard)_
+Jordi Clemente _(security guard)_<br>
 
-Jesse Corti _(Coach Parra)_
+Jesse Corti _(Coach Parra)_<br>
 
-Leticia Oseguera _(Luisa)_
+Leticia Oseguera _(Luisa)_<br>
 
-Selah _(Spanish band)_
+Selah _(Spanish band)_<br>
 
-Mar Castro _(lead singer)_
+Mar Castro _(lead singer)_<br>
 
-Yussi Wenger _(guitar)_
+Yussi Wenger _(guitar)_<br>
 
-Django C. Porter _(bass)_
+Django C. Porter _(bass)_<br>
 
-Alberto de Almar _(guitar)_
+Alberto de Almar _(guitar)_<br>
 
-Paris H. Rooks _(guitar)_
+Paris H. Rooks _(guitar)_<br>
 
-Julio Ledezma _(percussion)_
+Julio Ledezma _(percussion)_<br>
 
-Chick Hearn _(himself)_
+Chick Hearn _(himself)_<br>
 
-Stu Lantz _(himself)_
+Stu Lantz _(himself)_<br>
 
-Trevor Wilson _(himself)_
+Trevor Wilson _(himself)_<br>
 
-Rebecca Patterson _(nurse)_
+Rebecca Patterson _(nurse)_<br>
 
-Tyra Banks _(Kyra Kessler)_
+Tyra Banks _(Kyra Kessler)_<br>
 
-Steve Spencer _(Lakers trainer)_
+Steve Spencer _(Lakers trainer)_<br>
 
-Lisa Barkin Oxley _(bank officer)_
+Lisa Barkin Oxley _(bank officer)_<br>
 
-Madison Duvernay _(Lena’s baby)_
+Madison Duvernay _(Lena’s baby)_<br>
 
-USA 2000
+USA 2000<br>
 
-127 mins
+127 mins<br>
 
-Digital
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjg5NjQ2M119
+eyJoaXN0b3J5IjpbLTI0NjYzOTc1XX0=
 -->
