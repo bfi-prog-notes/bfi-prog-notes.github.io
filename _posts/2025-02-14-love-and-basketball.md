@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Love and Basketball
+title: Love & Basketball
 published: true
 date: 2025-02-14
 readtime: true
-categories: ['VALENTINE'S DAY']
+categories: ['VALENTINES DAY']
 tags: [Romance, Sport]
 metadata: 'USA 2000, 127 mins<br> Director: Gina Prince-Bythewood'
 pdf: '2025-02-14-love-and-basketball.pdf'
