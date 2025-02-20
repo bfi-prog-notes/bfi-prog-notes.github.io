@@ -18,6 +18,7 @@ Wollen taught film at a number of universities and was chair of the Department o
 <br>
 
 **Holly Antrum** (she/her, b. London, 1983), is an artist, filmmaker and researcher. She works with lens-based media including 16mm film, as well as sound, print and writing, and her works approach public and closed live settings. Her work has been shown widely in the UK and internationally, in galleries, DIY spaces, cinemas, online and in print. Since 2018 she has been developing _Markéta’s Notes_. The project is also part of her PhD research with the BFI in partnership with Kingston School of Art, holding a scholarship funded by techne AHRC. Her films are distributed by LUX Artists’ Moving Image. She is based in London and South West England.
+<br>
 
 This Mixtape programme presents _Markéta’s (screen) Notes_ as part of this serial artwork and later-stage research project curated through the lens of Markéta and her  character development.
 
@@ -33,16 +34,11 @@ And: Kathleen Dickson, Viewings Access Officer; Steve Tollervey, Research Viewin
 
 With further thanks to Markéta interviewees: Daniela Cölle, Tereza Stehlikova and Marta Daeuble.
 
-Lesley Dick and Laura Mulvey
-
-Jack Southern
-
-BFI National Film Archive & Special Collections
-
-Czech Embassy, London
-
-Kingston University Graduate Research School
-
+Lesley Dick and Laura Mulvey  
+Jack Southern  
+BFI National Film Archive & Special Collections  
+Czech Embassy, London  
+Kingston University Graduate Research School  
 Abbe Fletcher and Volker Eichelmann (KSA) and Mark Reid (BFI)
 
 Research on location in Brno and Bratislava supported by research funding from Techne, Arts and Humanities Research Council (AHRC) and Kingston School of Art.
@@ -250,5 +246,5 @@ Markéta’s (screen) Notes © Holly Antrum 2023
 
 Total runtime c.110 min
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMyNTM2MTBdfQ==
+eyJoaXN0b3J5IjpbMjA1NjA3MjY4XX0=
 -->
