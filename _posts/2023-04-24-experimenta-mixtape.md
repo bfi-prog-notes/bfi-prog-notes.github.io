@@ -46,54 +46,53 @@ Research on location in Brno and Bratislava supported by research funding from T
 _Markéta’s Notes_ are intermediaries produced through archival encounters. They are intended to create new meeting points and cross borders in and outside the archive.
 
 This mixtape is dedicated, in ongoing research to Peter Wollen (1938-2019) and also to my mother and herself in possible history, Daphne Dušek b.1948 (BFI ID 390024, 74654)
+<br><br>
 
-<![endif]-->
+**1. Markéta’s (screen) Notes I**<br>
 
-**1. Markéta’s (screen) Notes I**
+_Photograph and script by:_ Holly Antrum with Markéta Hašková<br>
 
-_Photograph and script by:_ Holly Antrum with Markéta Hašková
-
-_Featuring:_ Official forms signing (audio) with Czech Embassy bureau ticket, Czech Embassy London
+_Featuring:_ Official forms signing (audio) with Czech Embassy bureau ticket, Czech Embassy London<br>
 
 _Archive item:_ Peter Wollen notes on Věra Chytilová, Special Collections, National Film Archive
 
-**2. A New Shade of Red** (information film)
+**2. A New Shade of Red** (information film)<br>
 
-_Producer:_ George Grafton Green
+_Producer:_ George Grafton Green<br>
 
 _Produced by:_ Rank Organisation Special Features Division, UK 1968 (on 35mm)
 
-**3. Markéta’s (screen) Notes II**
+**3. Markéta’s (screen) Notes II**<br>
 
 Re-filmed media, film viewing notes, ‘Markéta’s Notes’ (publication)
 
 _Featuring_:
 
-**Friendship’s Death** _Directed by_: Peter Wollen
+**Friendship’s Death** _Directed by_: Peter Wollen<br>
 
 _Produced by:_ British Film Institute,  UK 1987
 
-**Oedipus Rex** _Directed by:_ Pier Paolo Pasolini
+**Oedipus Rex** _Directed by:_ Pier Paolo Pasolini<br>
 
 _Produced by:_ Euro International Films, Italy 1967
 
-**A Taste of Honey** _Directed by:_ Tony Richards
+**A Taste of Honey** _Directed by:_ Tony Richards<br>
 
 _Produced by:_ Bryanston Films, UK 1961
 
 _Undated viewing notes for_ **Oedipus Rex**  (hand-copied from notepad of Peter Wollen)
 
-**Bookmark: Vaclav Havel - A Czech Drama** _Directed by:_ Pawel (Paul) Pawlikowski
+**Bookmark: Vaclav Havel - A Czech Drama** _Directed by:_ Pawel (Paul) Pawlikowski<br>
 
-_Produced by:_ BBC, UK 1989
+_Produced by:_ BBC, UK 1989<br>
 
-Film list of film viewing notes made by Peter Wollen held in BFI National Film Archive in _Markéta’s Notes_ by Holly Antrum  (2022). Published by Camera Austria, Graz
+Film list of film viewing notes made by Peter Wollen held in BFI National Film Archive in _Markéta’s Notes_ by Holly Antrum  (2022). Published by Camera Austria, Graz<br>
 
 Filming on location in Bratislava, June 2022
 
-**4. Friendship’s Death** (extract)
+**4. Friendship’s Death** (extract)<br>
 
-_Directed by:_ Peter Wollen
+_Directed by:_ Peter Wollen<br>
 
 _Produced by:_ British Film Institute, Modelmark, Channel 4, UK 1987
 
@@ -101,7 +100,7 @@ _Produced by:_ British Film Institute, Modelmark, Channel 4, UK 1987
 
 _Featuring:_
 
-Part 1: **Daphne (Markéta) Antrum (Du****š****ek) with Holly Antrum** **(2020)**
+Part 1: **Daphne (Markéta) Antrum (Du****š****ek) with Holly Antrum** **(2020)**<br>
 
 Part 2:  with screen recorded extracts from
 
@@ -246,5 +245,5 @@ Markéta’s (screen) Notes © Holly Antrum 2023
 
 Total runtime c.110 min
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjA3MjY4XX0=
+eyJoaXN0b3J5IjpbMTA4NjE3NzU2N119
 -->
