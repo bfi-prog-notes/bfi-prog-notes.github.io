@@ -102,110 +102,69 @@ _Photograph and notes at BFI:_ Markéta Hašková (2019)
 **8. Bookmark: Vaclav Havel – A Czech Drama**<br>
 (extract)<br>
 _Directed by:_ Pawel Pawlikowski<br>
-
 _Produced by:_ BBC<br>
-
 UK 1989
 
 **9. Punks in Prague** (extract)<br>
-
 _Directed by:_ Patricia Powell<br>
-
 _Produced by:_ Thames Television,  UK 1991
 
 **10. AMY!** (extract)<br>
-
 _Directed by:_ Laura Mulvey, Peter Wollen<br>
-
 _Produced by:_ BFI, Modelmark,  UK 1980
 
 **11. Markéta’s (screen) Notes V**<br>
-
-Featuring<br>
-
+_Featuring_<br>
 _Notable Days_ by Pavel Büchler (1990)<br>
-
 Published by Book Works, London<br>
-
 The voice of Daniela Cölle (Chlapiková), online meeting 2021
 
-**12.** **Some Interviews on Personal Matters**  
+**12. Some Interviews on Personal Matters**  
 (extract on 35mm)<br>
-
 _Directed by:_ Lana Gogoberidze<br>
-
 _Produced by:_ Sovexportfilm, Georgia 1978
 
 **13. Markéta’s (screen) Notes VI**<br>
-
 _Featuring_<br>
-
 _Performer:_ Rose O’Gallivan<br>
-
 _Roll title:_ _Computer Dances_, Holly Antrum 2013<br>
-
 _Costume, Camera and Direction by_ Holly Antrum<br>
-
 Location courtesy of Jerwood Space, London<br>
-
 Shot on FUJIFILM Eterna 500T (discontinued 16mm stock) Super-16mm on HD, silent rushes
 
 **14. Riddles of the Sphinx** (extract)<br>
-
 _Directed by:_ Laura Mulvey, Peter Wollen<br>
-
 _Produced by:_ BFI, UK 1977
 
 **15. Markéta’s (screen) Notes VII**<br>
-
 _Featuring_<br>
-
 Part 1: **Friendship’s Death**<br>
-
 _Directed by:_ Peter Wollen.<br>
-
 _Produced by_ British Film Institute,  UK 1987<br>
-
 Part 2: Filmed on location in Carmarthenshire, Wales, 2021<br>
-
 _Camera:_ Jack Southern<br>
-
-_Drivers and Researchers:_ Holly Antrum,
-
-Markéta Hašková<br>
-
+_Drivers and Researchers:_ Holly Antrum, Markéta Hašková<br>
 Organ practice in Birmingham Cathedral, 2014<br>
-
 _Organist:_ Jonathan Stamp<br>
-
 _Recorded by:_ Holly Antrum
 
 **16. Images of Atlantis, The photography of Milton Rogovin** (extract)<br>
-
 _Directed by:_ Peter Wollen<br>
-
 _Executive Producer:_ Tariq Ali<br>
-
 _Produced by:_ Bandung Productions, UK 1992
 
-**17 The Art of Komar and Melamid** (extract)<br>
-
+**17. The Art of Komar and Melamid** (extract)<br>
 _Directed by:_ Peter Wollen<br>
-
 _Executive Producer:_ Tariq Ali<br>
-
 Produced by: Bandung Productions, UK 1992
 
 **Marketa’s (screen) Notes I – VII** (2013, 2019-23)<br>
-
 _Sound Mastering by:_ Jake Holt<br>
-
 _Researched, Scripted and Directed, Camera, Sound Recording and Editing by:_ Holly Antrum with Markéta Hašková<br>
-
 Markéta’s (screen) Notes © Holly Antrum 2023<br>
 
 Total runtime c.110 min<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyMDkxMTldfQ==
+eyJoaXN0b3J5IjpbMTY3OTQxNzE0N119
 -->
