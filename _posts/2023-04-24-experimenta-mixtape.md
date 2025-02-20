@@ -96,154 +96,155 @@ _Directed by:_ Peter Wollen<br>
 
 _Produced by:_ British Film Institute, Modelmark, Channel 4, UK 1987
 
-**5. Markéta’s (screen) Notes III**
+**5. Markéta’s (screen) Notes III**<br>
 
 _Featuring:_
 
 Part 1: **Daphne (Markéta) Antrum (Du****š****ek) with Holly Antrum** **(2020)**<br>
 
-Part 2:  with screen recorded extracts from
+Part 2:  with screen recorded extracts from<br>
 
-**Co-operative Wholesale Clothing Factory in Manchester**
+**Co-operative Wholesale Clothing Factory in Manchester**<br>
 
-_Directed by:_ Mitchell and Kenyon
+_Directed by:_ Mitchell and Kenyon<br>
 
 _From the collection of:_ BFI National Film Archive c.1900
 
-**Factory Life at Bataville, East Tilbury** **(1943)**
+**Factory Life at Bataville, East Tilbury** **(1943)**<br>
 
-Corporate film, Director unknown
+Corporate film, Director unknown<br>
 
-_From the collection of:_ East Anglian Film Archive _The voice of:_ Marta Daueble (Nejedlá), online meeting 2021
+_From the collection of:_ East Anglian Film Archive _The voice of:_ Marta Daueble (Nejedlá), online meeting 2021<br>
 
 _Photographs:_ Brno Trade Fair Centre, Brno Exhibition Centre, Czech Republic, June 2022
 
-**6. Trade Tattoo – The Rhythm of work-a-day Britain** (animated short on 35mm)
+**6. Trade Tattoo – The Rhythm of work-a-day Britain** (animated short on 35mm)<br>
 
-_Directed by_: Len Lye
+_Directed by_: Len Lye<br>
 
 _Produced by:_ GPO Film Unit, UK 1937
 
-**7. Markéta’s (screen) Notes IV**
+**7. Markéta’s (screen) Notes IV**<br>
 
-Photograph and notebook scan, silent
+Photograph and notebook scan, silent<br>
 
-Quotation, Alexander Dubček, speech to the nation, 1968, translated from Czech to English within _Bookmark: Vaclav Havel - A Czech_ _Drama_
+Quotation, Alexander Dubček, speech to the nation, 1968, translated from Czech to English within _Bookmark: Vaclav Havel - A Czech_ _Drama_<br>
 
-_Directed by:_ Pawel (Paul) Pawlikowski
+_Directed by:_ Pawel (Paul) Pawlikowski<br>
 
-_Produced by:_ BBC, UK 1989
+_Produced by:_ BBC, UK 1989<br>
 
 _Photograph and notes at BFI:_ Markéta Hašková (2019)
 
-**8. Bookmark: Vaclav Havel – A Czech Drama**
+**8. Bookmark: Vaclav Havel – A Czech Drama**<br>
 
 (extract)
 
-_Directed by:_ Pawel Pawlikowski
+_Directed by:_ Pawel Pawlikowski<br>
 
-_Produced by:_ BBC
+_Produced by:_ BBC<br>
 
 UK 1989
 
-**9. Punks in Prague** (extract)
+**9. Punks in Prague** (extract)<br>
 
-_Directed by:_ Patricia Powell
+_Directed by:_ Patricia Powell<br>
 
 _Produced by:_ Thames Television,  UK 1991
 
-**10. AMY!** (extract)
+**10. AMY!** (extract)<br>
 
-_Directed by:_ Laura Mulvey, Peter Wollen
+_Directed by:_ Laura Mulvey, Peter Wollen<br>
 
 _Produced by:_ BFI, Modelmark,  UK 1980
 
-**11. Markéta’s (screen) Notes V**
+**11. Markéta’s (screen) Notes V**<br>
 
-Featuring
+Featuring<br>
 
-_Notable Days_ by Pavel Büchler (1990)
+_Notable Days_ by Pavel Büchler (1990)<br>
 
-Published by Book Works, London
+Published by Book Works, London<br>
 
 The voice of Daniela Cölle (Chlapiková), online meeting 2021
 
 **12.** **Some Interviews on Personal Matters**  
-(extract on 35mm)
+(extract on 35mm)<br>
 
-_Directed by:_ Lana Gogoberidze
+_Directed by:_ Lana Gogoberidze<br>
 
 _Produced by:_ Sovexportfilm, Georgia 1978
 
-**13. Markéta’s (screen) Notes VI**
+**13. Markéta’s (screen) Notes VI**<br>
 
-_Featuring_
+_Featuring_<br>
 
-_Performer:_ Rose O’Gallivan
+_Performer:_ Rose O’Gallivan<br>
 
-_Roll title:_ _Computer Dances_, Holly Antrum 2013
+_Roll title:_ _Computer Dances_, Holly Antrum 2013<br>
 
-_Costume, Camera and Direction by_ Holly Antrum
+_Costume, Camera and Direction by_ Holly Antrum<br>
 
-Location courtesy of Jerwood Space, London
+Location courtesy of Jerwood Space, London<br>
 
 Shot on FUJIFILM Eterna 500T (discontinued 16mm stock) Super-16mm on HD, silent rushes
 
-**14. Riddles of the Sphinx** (extract)
+**14. Riddles of the Sphinx** (extract)<br>
 
-_Directed by:_ Laura Mulvey, Peter Wollen
+_Directed by:_ Laura Mulvey, Peter Wollen<br>
 
 _Produced by:_ BFI, UK 1977
 
-**15. Markéta’s (screen) Notes VII**
+**15. Markéta’s (screen) Notes VII**<br>
 
-_Featuring_
+_Featuring_<br>
 
-Part 1: **Friendship’s Death**
+Part 1: **Friendship’s Death**<br>
 
-_Directed by:_ Peter Wollen.
+_Directed by:_ Peter Wollen.<br>
 
-_Produced by_ British Film Institute,  UK 1987
+_Produced by_ British Film Institute,  UK 1987<br>
 
-Part 2: Filmed on location in Carmarthenshire, Wales, 2021
+Part 2: Filmed on location in Carmarthenshire, Wales, 2021<br>
 
-_Camera:_ Jack Southern
+_Camera:_ Jack Southern<br>
 
 _Drivers and Researchers:_ Holly Antrum,
 
-Markéta Hašková
+Markéta Hašková<br>
 
-Organ practice in Birmingham Cathedral, 2014
+Organ practice in Birmingham Cathedral, 2014<br>
 
-_Organist:_ Jonathan Stamp
+_Organist:_ Jonathan Stamp<br>
 
 _Recorded by:_ Holly Antrum
 
-**16. Images of Atlantis, The photography of Milton Rogovin** (extract)
+**16. Images of Atlantis, The photography of Milton Rogovin** (extract)<br>
 
-_Directed by:_ Peter Wollen
+_Directed by:_ Peter Wollen<br>
 
-_Executive Producer:_ Tariq Ali
+_Executive Producer:_ Tariq Ali<br>
 
 _Produced by:_ Bandung Productions, UK 1992
 
-**17 The Art of Komar and Melamid** (extract)
+**17 The Art of Komar and Melamid** (extract)<br>
 
-_Directed by:_ Peter Wollen
+_Directed by:_ Peter Wollen<br>
 
-_Executive Producer:_ Tariq Ali
+_Executive Producer:_ Tariq Ali<br>
 
 Produced by: Bandung Productions, UK 1992
 
-**Marketa’s (screen) Notes I – VII** (2013, 2019-23)
+**Marketa’s (screen) Notes I – VII** (2013, 2019-23)<br>
 
-_Sound Mastering by:_ Jake Holt
+_Sound Mastering by:_ Jake Holt<br>
 
-_Researched, Scripted and Directed, Camera, Sound Recording and Editing by:_ Holly Antrum with Markéta Hašková
+_Researched, Scripted and Directed, Camera, Sound Recording and Editing by:_ Holly Antrum with Markéta Hašková<br>
 
-Markéta’s (screen) Notes © Holly Antrum 2023
+Markéta’s (screen) Notes © Holly Antrum 2023<br>
 
-Total runtime c.110 min
+Total runtime c.110 min<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjE3NzU2N119
+eyJoaXN0b3J5IjpbLTM1MzI3NzldfQ==
 -->
