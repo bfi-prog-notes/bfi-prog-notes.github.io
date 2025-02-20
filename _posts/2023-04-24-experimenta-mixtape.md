@@ -49,97 +49,58 @@ This mixtape is dedicated, in ongoing research to Peter Wollen (1938-2019) and a
 <br><br>
 
 **1. Markéta’s (screen) Notes I**<br>
-
 _Photograph and script by:_ Holly Antrum with Markéta Hašková<br>
-
 _Featuring:_ Official forms signing (audio) with Czech Embassy bureau ticket, Czech Embassy London<br>
-
 _Archive item:_ Peter Wollen notes on Věra Chytilová, Special Collections, National Film Archive
 
 **2. A New Shade of Red** (information film)<br>
-
 _Producer:_ George Grafton Green<br>
-
 _Produced by:_ Rank Organisation Special Features Division, UK 1968 (on 35mm)
 
 **3. Markéta’s (screen) Notes II**<br>
-
-Re-filmed media, film viewing notes, ‘Markéta’s Notes’ (publication)
-
-_Featuring_:
-
+Re-filmed media, film viewing notes, ‘Markéta’s Notes’ (publication)<br>
+_Featuring_:<br>
 **Friendship’s Death** _Directed by_: Peter Wollen<br>
-
-_Produced by:_ British Film Institute,  UK 1987
-
+_Produced by:_ British Film Institute,  UK 1987<br>
 **Oedipus Rex** _Directed by:_ Pier Paolo Pasolini<br>
-
-_Produced by:_ Euro International Films, Italy 1967
-
+_Produced by:_ Euro International Films, Italy 1967<br>
 **A Taste of Honey** _Directed by:_ Tony Richards<br>
-
-_Produced by:_ Bryanston Films, UK 1961
-
-_Undated viewing notes for_ **Oedipus Rex**  (hand-copied from notepad of Peter Wollen)
-
+_Produced by:_ Bryanston Films, UK 1961<br>
+_Undated viewing notes for_ **Oedipus Rex**  (hand-copied from notepad of Peter Wollen)<br>
 **Bookmark: Vaclav Havel - A Czech Drama** _Directed by:_ Pawel (Paul) Pawlikowski<br>
-
 _Produced by:_ BBC, UK 1989<br>
-
 Film list of film viewing notes made by Peter Wollen held in BFI National Film Archive in _Markéta’s Notes_ by Holly Antrum  (2022). Published by Camera Austria, Graz<br>
-
 Filming on location in Bratislava, June 2022
 
 **4. Friendship’s Death** (extract)<br>
-
 _Directed by:_ Peter Wollen<br>
-
 _Produced by:_ British Film Institute, Modelmark, Channel 4, UK 1987
 
 **5. Markéta’s (screen) Notes III**<br>
-
-_Featuring:_
-
+_Featuring:_<br>
 Part 1: **Daphne (Markéta) Antrum (Du****š****ek) with Holly Antrum** **(2020)**<br>
-
 Part 2:  with screen recorded extracts from<br>
-
 **Co-operative Wholesale Clothing Factory in Manchester**<br>
-
 _Directed by:_ Mitchell and Kenyon<br>
-
-_From the collection of:_ BFI National Film Archive c.1900
-
+_From the collection of:_ BFI National Film Archive c.1900<br>
 **Factory Life at Bataville, East Tilbury** **(1943)**<br>
-
 Corporate film, Director unknown<br>
-
 _From the collection of:_ East Anglian Film Archive _The voice of:_ Marta Daueble (Nejedlá), online meeting 2021<br>
-
 _Photographs:_ Brno Trade Fair Centre, Brno Exhibition Centre, Czech Republic, June 2022
 
 **6. Trade Tattoo – The Rhythm of work-a-day Britain** (animated short on 35mm)<br>
-
 _Directed by_: Len Lye<br>
-
 _Produced by:_ GPO Film Unit, UK 1937
 
 **7. Markéta’s (screen) Notes IV**<br>
-
 Photograph and notebook scan, silent<br>
-
 Quotation, Alexander Dubček, speech to the nation, 1968, translated from Czech to English within _Bookmark: Vaclav Havel - A Czech_ _Drama_<br>
-
 _Directed by:_ Pawel (Paul) Pawlikowski<br>
-
 _Produced by:_ BBC, UK 1989<br>
-
 _Photograph and notes at BFI:_ Markéta Hašková (2019)
 
 **8. Bookmark: Vaclav Havel – A Czech Drama**<br>
-
-(extract)
-
+(extract)<br>
 _Directed by:_ Pawel Pawlikowski<br>
 
 _Produced by:_ BBC<br>
@@ -246,5 +207,5 @@ Markéta’s (screen) Notes © Holly Antrum 2023<br>
 Total runtime c.110 min<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzI3NzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzEyMDkxMTldfQ==
 -->
