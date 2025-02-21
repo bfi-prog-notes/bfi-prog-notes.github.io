@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Confucian Confusion
+published: true
+date: 2025-02-23
+readtime: true
+categories: ['THE FILMS OF EDWARD YANG<br>CONVERSATIONS WITH A FRIEND']
+tags: [Comedy]
+metadata: 'Taiwan 1994, 129 mins<br> Director: Edward Yang'
+pdf: '2025-02-23-confucian-confusion.pdf'
+---
 
 The Chinese title of _A Confucian Confusion_, Edward Yang’s first comedy, is _Duli Shidai,_ which means ‘Time of Independence’ and also means that it’s calculated to raise government hackles in Taiwan. On the face of it, it connotes the desire to break free of social, professional and familial ties that currently preoccupies many Taiwanese; this phenomenon has its upside in, for example, the formation of independent film companies and its downside in a pervasive me-generation materialism and selfishness. But the title also invokes Taiwan’s formerly illegal independence movement, which argues that the island should forget about reunification with China on either side’s terms and go it alone. If Taiwan does ever declare independence in this sense, the People’s Liberation Army will be swarming all over it next day, so it won’t happen. But at least it’s now possible to air the issue without being arrested. The film has nothing to say about this political movement as such, but the thrust of its argument is that Taiwanese-Chinese urgently need to rethink their relationship with China’s traditional social structures – that is, with their Confucian roots.
 
@@ -41,6 +52,30 @@ Taiwan 1994<br>
 129 mins<br>
 Digital 4K (restoration)<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIzNjIzNDQ0OF19
 -->
