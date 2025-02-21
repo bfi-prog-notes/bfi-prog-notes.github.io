@@ -16,51 +16,31 @@ None of these characters is based on an actual individual, but all of them are h
 <br><br>
 
 **A CONFUCIAN CONFUSION (DULI SHIDAI)**<br>
-
 _Director:_ Edward Yang<br>
-
-_Production Companies:_ Atom Films,  
-Theatre Production<br>
-
+_Production Companies:_ Atom Films,  Theatre Production<br>
 _Executive Producer:_ David Sun<br>
-
 _Producer:_ Yu Weiyen<br>
-
 _Screenplay:_ Edward Yang<br>
-
 _Photography:_ Arthur Wong Ngok-Tai, Zhang Zhan, Longyu Li, Hong Wuxiu<br>
-
 _Editor:_ Chen Bowen<br>
-
 _Music:_ Antonio Lee<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Chen Xianqi _(Qiqi)_<br>
-
 Ni Shujun _(Molly)_<br>
-
 Wang Weiming _(Ming)_<br>
-
 Wang Zongzheg _(Akeem)_<br>
-
 Wang Yeming _(Birdy)_<br>
-
 Richie Li _(Feng)_<br>
-
 Danny Deng _(Larry)_<br>
-
 Yan Hongya _(Molly’s brother-in-law)_<br>
-
 Chen Limei _(Molly’s sister)_<br>
-
 Chen Yi-Wen _(Liren)_<br>
 
 Taiwan 1994<br>
-
 129 mins<br>
-
-Digital 4K (restoration)
+Digital 4K (restoration)<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTMwMjY4XX0=
+eyJoaXN0b3J5IjpbLTIzNjIzNDQ0OF19
 -->
