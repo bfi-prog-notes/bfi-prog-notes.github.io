@@ -20,123 +20,64 @@ These murders tapped into South Korea’s collective fantasies and paranoia. We 
 <br><br>
 
 **Memories of Murder** Salineui-chueok<br>
-
 _Director:_ Bong Joon Ho<br>
-
 ©:  Sidus Corporation<br>
-
 _Production Company:_ Sidus Corporation<br>
-
 _Presented by:_ CJ Entertainment<br>
-
-_Presented in association with:_ Muhan Investments, iPictures, Sidus Corporation,  
-Discovery Venture Capital<br>
-
+_Presented in association with:_ Muhan Investments, iPictures, Sidus Corporation,  Discovery Venture Capital<br>
 _International Sales:_ CJ Entertainment *<br>
-
 _Executive Producer:_ Lee Kang-bok<br>
-
 _Producer:_ Kim Moo-ryung<br>
-
 _Assistant Producers:_ Lee Hyuk-jae, Lee Yong-ju, Jung Young-a, Baek Chul-hyun<br>
-
 _Co-producers:_ Choi Jae-won, Cha Seung-chae, Jung Hung-kyun, Noh Jong-Yun<br>
-
 _Production Manager:_ Kim Chul-young<br>
-
 _Assistant Director:_ Han Sung-keun<br>
-
 _Screenplay:_ Bong Joon Ho, Shim Sung-bo<br>
-
-_Based on the story ‘Nal borer Wayo’ by:_  
-Kim Kwang-rim<br>
-
+_Based on the story ‘Nal borer Wayo’ by:_  Kim Kwang-rim<br>
 _Director of Photography:_ Kim Hyoung-gu<br>
-
 _Lighting Director:_ Lee Kang-san<br>
-
 _Camera Operators:_ Choi Hyun-ki, Kang Seung-ki, Chu Kwang-chae, Seo Min-su, Kim Seok-jung<br>
-
 _Crane Operators:_ Choi Woon-jin, Song Kyung-min<br>
-
 _Stills Photography:_ Han Sae-jun, Park Jong-sun<br>
-
-_Special Effects:_ Jeong Doe-An, Demolition,  
-Future Vision<br>
-
+_Special Effects:_ Jeong Doe-An, Demolition,  Future Vision<br>
 _Computer Graphics:_ Insight Visuals<br>
-
 _Editor:_ Kim Sun-min<br>
-
-_Assistant Editors:_ Lee Hee-ok, Lim Hyung-ha,  
-Lee Sang-min<br>
-
+_Assistant Editors:_ Lee Hee-ok, Lim Hyung-ha,  Lee Sang-min<br>
 _Production Designer:_ Ryu Sung-hee<br>
-
-_Art Directors:_ Woo Seung-mi, Lee Chung-mi,  
-Kim Joo-hyun, Han Sang-min<br>
-
+_Art Directors:_ Woo Seung-mi, Lee Chung-mi,  Kim Joo-hyun, Han Sang-min<br>
 _Set Designer:_ Yang Heung-sam<br>
-
 _Property Master:_ Yu Chung<br>
-
 _Costume Designer:_ Kim Yu-sun<br>
+_Costume Assistants:_ Choi Yun-sun, Son Na-ri,  Noh Joo-hyun<br>
+_Key Make-up:_ Hwang Hyun-kyu<br>
+_Make-up Artists:_ Kim Jung-ja, Hwang Soo-jung,  Jin Min-kyung<br>
+_Special Effects Make-up:_ Shim Jae-ho<br>
+_Music:_ Taro Iwashiro<br>
+_Orchestration/Conducted by:_ Taro Iwashiro<br>
+_Synthesizer Programming:_  Nobuhiko Nakayama, Hoe Fukazawa<br>
+_Music Supervisors:_ Masa Sakuma, Akiko Takakuwa<br>
+_Score Recorded/Mixed by:_ Masashi Goto<br>
+_Sound Design:_ Kim Young-moon, Kim Jin-kook<br>
+_Sound Recording:_ Lee Byung-ha<br>
 
-_Costume Assistants:_ Choi Yun-sun, Son Na-ri,  
-Noh Joo-hyun
-
-_Key Make-up:_ Hwang Hyun-kyu
-
-_Make-up Artists:_ Kim Jung-ja, Hwang Soo-jung,  
-Jin Min-kyung
-
-_Special Effects Make-up:_ Shim Jae-ho
-
-_Music:_ Taro Iwashiro
-
-_Orchestration/Conducted by:_ Taro Iwashiro
-
-_Synthesizer Programming:_  
-Nobuhiko Nakayama, Hoe Fukazawa
-
-_Music Supervisors:_ Masa Sakuma, Akiko Takakuwa
-
-_Score Recorded/Mixed by:_ Masashi Goto
-
-_Sound Design:_ Kim Young-moon, Kim Jin-kook
-
-_Sound Recording:_ Lee Byung-ha
-
-_Cast:_
-
-Song Kang-ho _(Detective Park Doo-man)_
-
-Kim Sang-kyung _(Detective Seo Tae-yoon)_
-
-Kim Rwe-ha _(Detective Cho Yong-koo)_
-
-Song Jae-ho  
-_(Sergeant Shin Dong-chul, Koo’s successor)_
-
-Byun Hee-bong _(Sergeant Koo Hee-bong)_
-
-Ryu Tae-ho _(Cho Byung-soon, confirmed perv)_
-
-Park Noh-sik _(Baek Kwang-ho, village idiot)_
-
-Park Hae-il _(Park Hyun-kyu, factory technician)_
-
-Koh Seo-hee _(Officer Kweon Kwi-ok)_
-
+**Cast**<br>
+Song Kang-ho _(Detective Park Doo-man)_<br>
+Kim Sang-kyung _(Detective Seo Tae-yoon)_<br>
+Kim Rwe-ha _(Detective Cho Yong-koo)_<br>
+Song Jae-ho  _(Sergeant Shin Dong-chul, Koo’s successor)_<br>
+Byun Hee-bong _(Sergeant Koo Hee-bong)_<br>
+Ryu Tae-ho _(Cho Byung-soon, confirmed perv)_<br>
+Park Noh-sik _(Baek Kwang-ho, village idiot)_<br>
+Park Hae-il _(Park Hyun-kyu, factory technician)_<br>
+Koh Seo-hee _(Officer Kweon Kwi-ok)_<br>
 Jeon Mi-seon _(Kwak Seol-yung, illicit doctor)_
 
-South Korea 2003©
-
-131 mins
-
+South Korea 2003©<br>
+131 mins<br>
 Digital 4K
 
-* Uncredited
+*Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NTI1OTgzXX0=
+eyJoaXN0b3J5IjpbLTEzOTE3NDA4MTddfQ==
 -->
