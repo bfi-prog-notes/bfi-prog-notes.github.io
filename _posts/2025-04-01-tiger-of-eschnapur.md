@@ -40,7 +40,7 @@ _Music Recording:_ Werner Maas
 _Choreography:_ Robby Gay, Billy Daniel *  
 _Sound:_ Clemens Tütsch  
 
-_Cast:
+**Cast**  
 Debra Paget _(Seetha)_  
 Paul Hubschmid _(Harald Berger)_  
 Claus Holm _(Dr Walter Rhode)_  
@@ -55,16 +55,15 @@ Jochen Blume _(Asagara)_
 Helmut Hildebrand _(Ramigani’s servant)_  
 Victor Francen _(Busser)_ *  
 Panos Papadopoulos _(messenger)_ *  
-West Germany-Italy-France 1958©
 
-101 mins
-
+West Germany-Italy-France 1958©  
+101 mins  
 Digital 4K (restoration)
 
-* Uncredited
+*Uncredited
 
-The screening on Sat 12 Apr will include a  
-pre-recorded introduction by season programmer Karina Longworth
+The screening on Sat 12 Apr will include a  pre-recorded introduction by season programmer Karina Longworth
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTY3MjgwOF19
+eyJoaXN0b3J5IjpbMjE0MjE0ODgyMV19
 -->
