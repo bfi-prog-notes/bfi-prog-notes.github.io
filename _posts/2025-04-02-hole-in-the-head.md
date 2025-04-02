@@ -43,31 +43,20 @@ Keenan Wynn _(Jerry Marks)_<br>
 Joi Lansing _(Dorine)_<br>
 Connie Sawyer _(Miss Wexler)_<br>
 Jimmy Komack _(Julius)_<br>
-
 Dub Taylor _(Fred)_<br>
-
 Eddie Hodges _(Ally)_<br>
-
 George Dewitt _(Mendy)_<br>
-
 Benny Rubin<br>
-
 Ruby Dandridge<br>
-
 B.S. Pully<br>
-
 Joyce Nizzari<br>
-
 Pupi Campo<br>
-
 Eddie Hodges
 
 USA 1959©<br>
-
 120 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA1MzIxODVdfQ==
+eyJoaXN0b3J5IjpbMTQ0MTczMzY4MV19
 -->
