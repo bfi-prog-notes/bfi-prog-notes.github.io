@@ -1,3 +1,14 @@
+---
+layout: post
+title: One Room Tenants
+published: true
+date: 2025-04-07
+readtime: true
+categories: ['The Long Strange Trips of Wojciech Jerzy Has']
+tags: [Drama]
+metadata: 'Poland 1959, 94 mins<br> Director: Wojciech Jerzy Has'
+pdf: '2025-04-07-one-room-tenants.pdf'
+---
 
 While _The Noose_ (1957) was set in the then present and _Farewells_ (1958) in 1939 and 1944, Wojciech Has’s third feature _One Room Tenants_ (also known as _Roomers_ and _Roommates_) goes back further, to the multicultural melting-pot that was early 1930s Warsaw, with particular attention paid to its since-vanished Jewish community. This was the first clear sign in one of his films of what would become such a recurring interest (particularly apparent in 1973’s _The Hourglass Sanatorium_) that it was widely assumed that Has must have had Jewish ancestry. Although this appears not to have been the case; he merely had a life-long fascination with the culture, vividly reconstructed here both in exterior and interior spaces (a Jewish-run café hosts one of the first prolonged conversations).
 
@@ -42,6 +53,51 @@ Poland 1959<br>
 94 mins<br>
 Digital (restoration)<br>
 <br><br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/british-council-01.jpg">
+<br><br><br><br><br><br><br><br>
+This retrospective is presented in partnership with the ICA, which will also be hosting exclusive screenings of Has’ works.
+<img style="float: left;" src="/img/ica_logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br>
+The 23rd Kinoteka Polish Film Festival is part of the UK/Poland Season 2025.
+<img style="float: left;" src="/img/kinoteka-23-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**Organised by**  
+<img style="float: left;" src="/img/polish-cinema-classics-01.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**All restorations by**  
+<img style="float: left;" src="/img/di-factory-02.png" width="40%" height="40%">
+<br><br><br><br><br><br>
+<img style="float: left;" src="/img/fixafilm-02.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**All films courtesy of**  
+<img style="float: left;" src="/img/wfdif-logo-01.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzg2OTk4MDM5XX0=
 -->
