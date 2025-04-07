@@ -27,33 +27,21 @@ _Sound:_ Bohdan Bienkowski, Jan Kalisz
 
 **Cast**<br>
 Mieczysław Gajda _(Lucjan Salis)_<br>
-
 Gustaw Holoubek _(Dziadzia)_<br>
-
 Adam Pawlikowski _(Zygmunt Stukonis)_<br>
-
 Ryszard Pietruski _(Mieciek)_<br>
-
 Anna Łubieńska _(Miss Leopard)_<br>
-
 Beata Tyszkiewicz _(Teodozja)_<br>
-
 Irena Netto _(Mrs Stukonisowa)_<br>
-
 Zdzisław Maklakiewicz _(Józef Bednarczyk)_<br>
-
 Halina Buyno _(neighbour)_<br>
-
 Zuzanna Helska _(Felicja)_<br>
-
 Krzysztof Litwin
 
 Poland 1959<br>
-
 94 mins<br>
-
 Digital (restoration)<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjA1MDI3MV19
+eyJoaXN0b3J5IjpbNzg2OTk4MDM5XX0=
 -->
