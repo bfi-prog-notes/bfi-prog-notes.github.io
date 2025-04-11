@@ -34,7 +34,7 @@ _Sound by:_ Francis E. Stahl
 _Indian Technical Adviser:_ David H. Miller  
 _Narrator:_ Spencer Tracy
 
-_Cast**
+**Cast**  
 Richard Widmark _(Captain Thomas Archer)_  
 Carroll Baker _(Deborah Wright)_  
 Karl Malden _(Captain Wessels)_  
@@ -47,25 +47,21 @@ Patrick Wayne _(2nd Lieutenant Scott)_
 Elizabeth Allen _(Guinevere Plantagenet)_  
 John Carradine _(Major Jeff Blair)_  
 Victor Jory _(Tall Tree)_  
-Mike Mazurki  
-_(Sr First Sergeant Stanislas Wichowsky)_  
+Mike Mazurki  _(Sr First Sergeant Stanislas Wichowsky)_  
 George O’Brien _(Major Braden)_  
 Sean McClory _(Dr O’Carberry)_  
 Judson Pratt _(Major ‘Dog’ Kelly)_  
 Carmen D’Antonio _(a Pawnee woman)_  
 Ken Curtis _(Joe)_  
 James Stewart _(Wyatt Earp)_  
-Edward G. Robinson  
-_(Carl Schurz, Secretary of the Interior)_  
+Edward G. Robinson  _(Carl Schurz, Secretary of the Interior)_  
 Walter Baldwin _(Jeremy Wright)_ *  
 Nancy Hsueh _(Little Bird)_ *  
 Shug Fisher _(Skinny, trail boss)_ *  
 Chuck Roberson _(platoon sergeant)_ *  
 Harry Carey Jr _(Trooper Smith)_ *  
 Ben Johnson _(Trooper Plumtree)_ *  
-Jim O’Hara, Chuck Hayward, Dan Borzage,
-
-Dean Smith, David Humphreys Miller, Bing Russell _(troopers)_ *  
+Jim O’Hara, Chuck Hayward, Dan Borzage, Dean Smith, David Humphreys Miller, Bing Russell _(troopers)_ *  
 Lee Bradley, Frank Bradley _(Cheyennes)_ *  
 Walter Reed _(Lieutenant Peterson)_ *  
 Willis Bouchey _(colonel)_ *  
@@ -75,17 +71,16 @@ John Qualen _(Swenson)_ *
 Nanomba ‘Moonbeam’ Morton _(Running Deer)_ *  
 Charles Seel *
 
-USA 1964©
-
-147 mins
-
+USA 1964©  
+147 mins  
 35mm
 
-* Uncredited
+*Uncredited
 
 35mm print courtesy of Lowell Peterson, ASC
 
 The screening on Sat 19 Apr will be introduced by season programmer Karina Longworth
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjQ2MjkyXX0=
+eyJoaXN0b3J5IjpbLTEzNzgwNjg2MzFdfQ==
 -->
