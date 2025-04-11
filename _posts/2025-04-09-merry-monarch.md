@@ -41,28 +41,21 @@ Four notable changes are made in the screen translation:
 
 For the last three of these changes the censor cannot be held responsible.
 
-_The Merry Monarch_ has been praised for the agreeable patterns of its camerawork, but the director has apparently no eye for significant detail. His obtuseness in this respect is revealed notably in the flat filming of the ballet: not a single detail is brought out by camera position or angle. An attention to significant detail, however, presupposes a respect for one’s subject matter. And it seems impossible that anyone could feel respect for the mixture of crudity and conventionality that is _The Merry Monarch_.
+_The Merry Monarch_ has been praised for the agreeable patterns of its camerawork, but the director has apparently no eye for significant detail. His obtuseness in this respect is revealed notably in the flat filming of the ballet: not a single detail is brought out by camera position or angle. An attention to significant detail, however, presupposes a respect for one’s subject matter. And it seems impossible that anyone could feel respect for the mixture of crudity and conventionality that is _The Merry Monarch_.  
+**Clifford Leech, ‘Adaptation: An Example’, _Cinema Quarterly_, Autumn 1933**
 
-Clifford Leech, ‘Adaptation: An Example’, _Cinema Quarterly_, Autumn 1933
+**Location report from the French version (starring André Berley)**  
+Finally, an entire palace in Cap d’Ail was transformed into the grand headquarters for the filming of _The Merry Monarch_. More than 200 people lived there, collaborating on the making of the great film, which Alexis Granowsky recorded in marvellous surrounding properties amidst lush vegetation, providing dream settings for this land of Tryphême imagined by Pierre Louys. Marcel Vertès – who designed the costumes and sets for this production – is also present with the film’s protagonists André Berley and Armand Bernard, and with King Pausole’s 366 ravishing wives. Rudolph Maté and Louis Née are delighted to have the sun as their only source of sunlight, and good humour reigns over the entire troupe despite the crushing heat, with the same good-natured authority that Pausole displays when governing his scantily clad subjects.  
+**_L’ami du film, du spectacle et du radio_, no. 52, 26 August 1932**
+<br><br>
 
-**Location report from the French version (starring André Berley)**
-
-Finally, an entire palace in Cap d’Ail was transformed into the grand headquarters for the filming of _The Merry Monarch_. More than 200 people lived there, collaborating on the making of the great film, which Alexis Granowsky recorded in marvellous surrounding properties amidst lush vegetation, providing dream settings for this land of Tryphême imagined by Pierre Louys. Marcel Vertès – who designed the costumes and sets for this production – is also present with the film’s protagonists André Berley and Armand Bernard, and with King Pausole’s 366 ravishing wives. Rudolph Maté and Louis Née are delighted to have the sun as their only source of sunlight, and good humour reigns over the entire troupe despite the crushing heat, with the same good-natured authority that Pausole displays when governing his scantily clad subjects.
-
-_L’ami du film, du spectacle et du radio_, no. 52, 26 August 1932
-
-<![endif]-->
-
-**The Merry Monarch**
-
+**The Merry Monarch**  
 _Director_: Alexis Granowsky  
-_Production Company_:  
-Tobis-Sascha Filmindustrie  
+_Production Company_:  Tobis-Sascha Filmindustrie  
 _Production_: Algra Film, SEPIC Film  
 _Production Manager_: Asarow  
 _Assistant Director_: L. Asarch  
-_Screenplay_: Fernand Crommelynck *,  
-Henri Jeanson *  
+_Screenplay_: Fernand Crommelynck *,  Henri Jeanson *  
 _Dialogue_: Clifford Grey  
 _Author of the Original Work_: Pierre Loüys  
 _Photography_: Rudolph Maté  
@@ -77,13 +70,11 @@ _Musical Director_: Schroeder
 _Choreography_: Léonide Massine *  
 _Sound-engineer_: Storr
 
-_Cast:_
-
+**Cast**  
 Sidney Fox _(Queen Diane)_  
 Emil Jannings _(KIng Pausole)_  
 Armand Bernard _(Taxis, Minister of the Police)_  
-Josette Day_  
-(Princess Aline, Pausole's daughter)_  
+Josette Day _(Princess Aline, Pausole's daughter)_  
 José Noguero _(Giglio, the aviator)_  
 Rachel Devirys _(Perchuque)_  
 Dorothy Boyd  
@@ -94,15 +85,14 @@ Grazia Del Rio _(Queen Fanette)_
 Jacqueline Daix  
 Nane Germon _(Nicole)_ *
 
-Austria-France 1933
-
-73 mins
-
+Austria-France 1933  
+73 mins  
 35mm
 
-* Uncredited
+*Uncredited
 
 A BFI National Archive nitrate print
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjEzMTI0MV19
+eyJoaXN0b3J5IjpbMTI1MDA0MzU0MF19
 -->
