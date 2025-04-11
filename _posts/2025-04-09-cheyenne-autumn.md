@@ -1,3 +1,14 @@
+---
+layout: post
+title: Cheyenne Autumn
+published: true
+date: 2025-04-09
+readtime: true
+categories: ['You Must Remember This Presents...<br>“The Old Man Is Still Alive”']
+tags: [Western]
+metadata: 'USA 1964, 147 mins<br> Director: John Ford'
+pdf: '2025-04-09-cheyenne-autumn.pdf'
+---
 
 _The Iron Horse_ to _Cheyenne Autumn_… what a career it is! John Ford’s world is a reincarnation of the pioneer spirit recollected and diffused by time and memory: the coming of the railroads, the insurge of prospectors and gunslingers, the Indian ‘problem’ to be tamed by the arts of war and peace as expediency demanded – these are themes he has returned to a dozen times and more. _Cheyenne Autumn_ takes up the Cavalry versus Indians theme again (this time it is based on fact) and turns it into a plea for tolerance. The Cheyennes make a 1,500-mile trek to their old hunting grounds at Yellowstone, having tired of broken government promises of help and sustenance on the reservation.
 
@@ -11,8 +22,7 @@ As long as he is in Dodge City, the mood is free and unbuttoned: this is Ford do
 
 The script of _Cheyenne Autumn_ does little to smooth over this division of feeling. Leading Indian roles are played by celebrated white actors, speaking the sort of dialogue usually reserved by Hollywood for picturesque Mexicans, and playing with a stiff-upper-lip conception of what constitutes national pride. Dolores del Rio, dewy-eyed amid close-ups of inscrutable Indian faces, becomes a sort of Madonna of the trails; and Carroll Baker’s Quaker schoolmarm, spelling out words to her small charges at the most unlikely moments, also has to grapple with lines like ‘what does it matter who fires the first shot.’ The film, in fact, is at its least effective when stressing all these moral points, and at its worst when Karl Malden is introduced as a German fort commander who substitutes allegiance to the book of rules for human instinct. Some critics have seen an attempted parallel with Eichmann and his like here; whichever way you look at it, the performance is wretchedly over-stressed, with Malden spitting out his words as if they were evil-tasting sweets and making the big breakout scene appear unnecessarily ‘plotted’.
 
-Ford, of course, remains a law unto himself. It is probably a bit late in the day to start questioning his way of expressing himself (_The Sun Shines Bright_ set the most bewildering conundrum in this respect); yet _Cheyenne Autumn_ makes it difficult to dodge these issues. Equally, it would be ungrateful to complain too much – throughout the film, one is reminded how _good_ Ford is when he has something he really responds to. ‘Film is still basically a silent medium,’ he said recently, and it is significant that most of the best things here are without dialogue. In his last few films, it is as if Ford has been looking back on his career and re-assessing what he has achieved. If _Cheyenne Autumn_ can be considered a testament (as the French say), one can find in it the best of the past as well as signs of what has been lost since the great periods of the late 1930s and early ‘50s. In my case, I still relish the images in my mind’s eye  
-and tend to forget the sentiments. In the old days, it was a little easier to remember both.  
+Ford, of course, remains a law unto himself. It is probably a bit late in the day to start questioning his way of expressing himself (_The Sun Shines Bright_ set the most bewildering conundrum in this respect); yet _Cheyenne Autumn_ makes it difficult to dodge these issues. Equally, it would be ungrateful to complain too much – throughout the film, one is reminded how _good_ Ford is when he has something he really responds to. ‘Film is still basically a silent medium,’ he said recently, and it is significant that most of the best things here are without dialogue. In his last few films, it is as if Ford has been looking back on his career and re-assessing what he has achieved. If _Cheyenne Autumn_ can be considered a testament (as the French say), one can find in it the best of the past as well as signs of what has been lost since the great periods of the late 1930s and early ‘50s. In my case, I still relish the images in my mind’s eye  and tend to forget the sentiments. In the old days, it was a little easier to remember both.  
 **John Gillett, _Sight and Sound_, Winter 1964/65**
 <br><br>
 
@@ -81,6 +91,30 @@ USA 1964©
 
 The screening on Sat 19 Apr will be introduced by season programmer Karina Longworth
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNzgwNjg2MzFdfQ==
 -->
