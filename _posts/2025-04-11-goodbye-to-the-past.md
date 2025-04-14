@@ -26,47 +26,31 @@ Poland 1947
 Digital
 
 **Goodbye to the Past** Rozstanie<br>
-
 _Director_: Wojciech Jerzy Has  
 _Production Company_: Zespól Filmowy ‘Kamera’<br>
-
 _Screenplay:_ Wojciech Jerzy Has, Jadwiga Żylińska<br>
-
 _Based on the novella by:_ Jadwiga Żylińska<br>
-
 _Director of Photography:_ Stefan Matyjaszkiewicz<br>
-
 _Editor:_ Zofia Dwornik<br>
-
 _Art Director:_ Jerzy Skarzynski<br>
-
 _Costume Designer:_ Jerzy Skarzynski<br>
-
 _Music:_ Lucjan M. Kaszycki
 
-_Cast:_<br>
-
+**Cast**<br>
 Lidia Wysocka _(Magdalena)_  
 Wladyslaw Kowalski _(Olek)_  
 Gustaw Holoubek _(Oskar)_  
 Adam Pawlikowski _(Żbik)_<br>
-
 Irena Netto _(Wiktoria)_<br>
-
 Danuta Krawczynska _(Iwonka)_<br>
-
 Maria Gella _(countess)_<br>
-
 Zbigniew Cybulski<br>
-
 Wladyslaw Dewoyno
 
 Poland 1960<br>
-
 76 mins<br>
-
 Digital (restoration)<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzcwNDQ0N119
+eyJoaXN0b3J5IjpbMTk1ODE4NTM5MV19
 -->
