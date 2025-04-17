@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Hourglass Sanatorium
+published: true
+date: 2025-04-17
+readtime: true
+categories: ['The Long Strange Trips of Wojciech Jerzy Has']
+tags: [Drama, Fantasy]
+metadata: 'Poland 1973, 119 mins<br> Director: Wojciech Jerzy Has'
+pdf: '2025-04-17-hourglass-sanatorium.pdf'
+---
 
 _The Hourglass Sanatorium_ began life as _Sanatorium pod klepsydrą_ (the film’s Polish title), a 1937 novella by the writer and painter Bruno Schulz (1892-1942) that is so elusive and elliptical that it’s had two strikingly different feature-film adaptations, the other being the Quay Brothers’ largely animated _Sanatorium under the Sign of the Hourglass_ (2024). Has also drew upon other Schulz stories, notably _Spring_ (1936), as well as his graphic art, and also by his life as a Polish Jew who lived in the now-vanished multicultural melting-pot of Galicia, subsequently absorbed into post-1918 Poland. Has was technically a Galician too, as his home town of Kraków was once the region’s largest city.
 
@@ -40,6 +51,51 @@ Poland 1973©<br>
 119 mins<br>
 Digital 4K (restoration)<br>
 <br><br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/british-council-01.jpg">
+<br><br><br><br><br><br><br><br>
+This retrospective is presented in partnership with the ICA, which will also be hosting exclusive screenings of Has’ works.
+<img style="float: left;" src="/img/ica_logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br>
+The 23rd Kinoteka Polish Film Festival is part of the UK/Poland Season 2025.
+<img style="float: left;" src="/img/kinoteka-23-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**Organised by**  
+<img style="float: left;" src="/img/polish-cinema-classics-01.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**All restorations by**  
+<img style="float: left;" src="/img/di-factory-02.png" width="40%" height="40%">
+<br><br><br><br><br><br>
+<img style="float: left;" src="/img/fixafilm-02.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+**All films courtesy of**  
+<img style="float: left;" src="/img/wfdif-logo-01.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA2Nzg0NzI4MF19
 -->
