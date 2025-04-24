@@ -22,30 +22,23 @@ And yet ‘landscape’ feels too limited, as frames go, to sum up and summarise
 <br><br>
 
 **Moonshine**<br>
-
 UK 1975<br>
-
 5 mins
 
 **Sundial**<br>
-
 UK 1992<br>
-
 1 min
 
 **A13**<br>
-
 UK 1994<br>
-
 12 mins
 
 **Island Race**<br>
-
 UK 1996<br>
-
 27 mins
 
-Total running time: 110 mins
+Total running time: 110 mins<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTcyNTM0XX0=
+eyJoaXN0b3J5IjpbMTgzODk5MTk1MF19
 -->
