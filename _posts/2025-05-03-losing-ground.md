@@ -1,3 +1,14 @@
+---
+layout: post
+title: Losing Ground
+published: true
+date: 2025-05-03
+readtime: true
+categories: ['Black Debutantes<br>A Collection of Early Works by Black Women Directors']
+tags: [Drama]
+metadata: 'USA 1982, 86 mins<br> Director: Kathleen Collins'
+pdf: '2025-05-03-losing-ground.pdf'
+---
 
 Among the first of a small number  of Black women to explore narrative filmmaking in the 1970s and 80s – no small feat in what was then, as now, a predominantly white male arena – Kathleen Collins was also a playwright, philosopher, teacher and activist. Her innovative film _Losing Ground_ should be regarded as one of the great films of 1980s US independent cinema, but it never gained theatrical distribution and soon slipped into obscurity. Only now is it beginning to receive its due with a new restoration, 27 years after Collins’s death from cancer at the age of 46. With _Losing Ground_ Collins led the way for many Black female independent filmmakers, such as Julie Dash (_Daughters of the Dust,_ 1991), Kasi Lemmons (_Eve’s Bayou,_ 1997), Dee Rees (_Pariah,_ 2011), Frances Bodomo (_Boneshaker,_ 2013_; Afronauts, 2014_) and Ja’Tovia Gary (_An Ecstatic Experience,_ 2015).
 
@@ -52,6 +63,31 @@ Restored by the Yale Film Archive and  The Film Foundation. Funding provided by 
 New 35mm made with funding from the  National Lottery
 <br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA5NTc0NzU1NCwxNzIyMjIyMzJdfQ==
 -->
