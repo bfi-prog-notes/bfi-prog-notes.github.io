@@ -40,21 +40,15 @@ _Director of Photography_: Hone Glendining<br>
 _Camera Operator:_ Cecil Cooney  
 _Editor_: Ralph Kemplen  
 _Art Director_: Anthony Mazzei<br>
-
 _Dress Designer:_ Eleanor Abbey<br>
-
 _Make-up Supervisor:_ Tony Sforzini<br>
-
 _Hairdressing Supervisor:_ Vivienne Walker  
 _Music_: Charles Williams<br>
-
 _Recordists:_ Dudley Messenger, George Croll<br>
-
 _Dubbing Editor:_ Harry Booth  
 _1st Assistant Dubbing Mixer_: Peter T. Davies *
 
-_Cast:_<br>
-
+**Cast**<br>
 Mai Zetterling _(Arlette)_  
 Hugh Williams _(Arnold Dixon)_  
 Margot Grahame _(Helen)_  
@@ -64,13 +58,10 @@ Carol Marsh _(Patricia)_
 Marie Ney _(Miss Hallam)_  
 Paul Dupuis _(Henri Sinclair)_  
 Raymond Lovell _(Hedges)_<br>
-
 Dorothy Latta _(Virginia)_
 
 UK 1949<br>
-
 86 mins<br>
-
 35mm
 
 A BFI National Archive print
@@ -78,5 +69,5 @@ A BFI National Archive print
 *Uncredited<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDA3MDczOV19
+eyJoaXN0b3J5IjpbMTA3MTE1MDUyMV19
 -->
