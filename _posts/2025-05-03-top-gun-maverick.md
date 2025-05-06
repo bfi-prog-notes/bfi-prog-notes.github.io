@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top Gun: Maverick
+title: Top Gun - Maverick
 published: true
 date: 2025-05-03
 readtime: true
