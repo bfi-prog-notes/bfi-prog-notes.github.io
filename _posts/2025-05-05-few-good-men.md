@@ -113,20 +113,18 @@ Tom Cruise _(Lieutenant Daniel Alistair Kaffee)_
 Jack Nicholson _(Colonel Nathan R. Jessep)_  
 Demi Moore _(Lieutenant Commander JoAnne Galloway)_  
 Kevin Bacon _(Captain Jack Ross)_  
-Kiefer Sutherland_(Lieutenant Jonathan James Kendrick)_  
+Kiefer Sutherland _(Lieutenant Jonathan James Kendrick)_  
 Kevin Pollak _(Lieutenant Sam Weinberg)_  
 James Marshall _(Private Louden Downey)_  
 J.T. Walsh _(Lieutenant Colonel Matthew Markinson)_  
 Christopher Guest _(Doctor Stone)_  
 J.A. Preston _(Judge Randolph)_  
 Matt Craven _(Lieutenant Dave Spradling)_  
-Wolfgang Bodison_  
-(Lance Corporal Harold W. Dawson)_  
+Wolfgang Bodison _(Lance Corporal Harold W. Dawson)_  
 Xander Berkeley _(Captain Whitaker)_  
 John M. Jackson _(Captain West)_  
 Noah Wyle _(Corporal Jeffrey Owen Barnes)_  
-Cuba Gooding Jr_  
-(Corporal Carl Edward Hammaker)_  
+Cuba Gooding Jr _(Corporal Carl Edward Hammaker)_  
 Lawrence Lowe _(bailiff)_  
 Josh Malina _(orderly)_  
 Oscar Jordan _(steward)_  
@@ -145,11 +143,10 @@ David Bowe _(Commander Gibbs)_
 Gene Whittington _(Mr Dawson)_  
 Maud Winchester _(Aunt Ginny)_
 
-USA 1992©
-
-138 mins
-
+USA 1992©  
+138 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA0NzMxNV19
+eyJoaXN0b3J5IjpbMTA2MjY3MDkyOV19
 -->
