@@ -50,9 +50,8 @@ Digital (Sat 3 May)
 Restored by the Yale Film Archive and  The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation
 
 New 35mm made with funding from the  National Lottery
-
-The screening on Sat 3 May will include a  pre-recorded introduction by Nina Lorez Collins<br>
+<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjIyMjMyXX0=
+eyJoaXN0b3J5IjpbMjA5NTc0NzU1NCwxNzIyMjIyMzJdfQ==
 -->
