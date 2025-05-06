@@ -87,10 +87,9 @@ _Stunt Co-ordinator_: Casey O’Neill
 _Cast Pilot_: Randy Hepner  
 _‘In Memory of’_: Tony Scott  
 
-_Cast**
+**Cast**  
 Tom Cruise _(Captain Pete Mitchell, ‘Maverick')_  
-Miles Teller_  
-(Lieutenant Bradley Bradshaw, 'Rooster')_  
+Miles Teller _(Lieutenant Bradley Bradshaw, 'Rooster')_  
 Jennifer Connelly _(Penny Benjamin)_  
 Jon Hamm _(Admiral Beau Simpson, ‘Cyclone’)_  
 Glen Powell _(Lieutenant Jake Seresin, ‘Hangman’)_  
@@ -98,49 +97,39 @@ Ed Harris _(Rear Admiral Chester Cain, ‘Hammer’)_
 Val Kilmer _(Admiral Tom Kazansky, ‘Iceman’)_  
 Lewis Pullman _(Lieutenant Robert Floyd, ‘Bob’)_  
 Charles Parnell _(Admiral Solomon Bates, ‘Warlock’)_  
-Bashir Salahuddin_  
-(Warrant Officer Bernie Coleman, ‘Hondo’)_  
-Monica Barbaro_  
-(Lieutenant Natasha Trace, ‘Phoenix’)_  
+Bashir Salahuddin _(Warrant Officer Bernie Coleman, ‘Hondo’)_  
+Monica Barbaro _(Lieutenant Natasha Trace, ‘Phoenix’)_  
 Jay Ellis _(Lieutenant Reuben Fitch, ‘Payback’)_  
-Danny Ramirez_  
-(Lieutenant Mickey Garcia, ‘Fanboy’)_  
-Greg Tarzan Davis_  
-(Lieutenant Javy Machado, ‘Coyote’)_  
-Jack Schumacher_  
-(Lieutenant Neil Vikander, ‘Omaha’)_  
+Danny Ramirez _(Lieutenant Mickey Garcia, ‘Fanboy’)_  
+Greg Tarzan Davis _(Lieutenant Javy Machado, ‘Coyote’)_  
+Jack Schumacher _(Lieutenant Neil Vikander, ‘Omaha’)_  
 Manny Jacinto _(Lieutenant Billy Avalone, ‘Fritz’)_  
 Kara Wang _(Lieutenant Callie Bassett, ‘Halo’)_  
-Jake Picking_  
-(Lieutenant Brigham Lennox, ‘Harvard’)_  
+Jake Picking _(Lieutenant Brigham Lennox, ‘Harvard’)_  
 Raymond Lee _(Lieutenant Logan Lee, Yale’)_  
 Jean Louisa Kelly _(Kazansky, Sarah)_  
 Lyliana Wray _(Amelia)_  
 Chelsea Harris _(Admiral’s aide)_  
-Darnell Kirkwood, Austin Bowerman,  
-Stephanie Andrea Barron _(comms-crew techs)_  
+Darnell Kirkwood, Austin Bowerman,  Stephanie Andrea Barron _(comms-crew techs)_  
 Alec Williams _(Cain’s aide)_  
 Rachel Winfree _(waitress)_  
 Peter Mark Kendall _(meek engineer)_  
 Ian Gary _(jaded engineer)_  
 Bob Stephenson _(senior engineer)_  
 Landon J. Gordon _(kid in truck stop)_  
-Margaret Strabala, Ryan Heilmann_  
-(air control officers)_  
+Margaret Strabala, Ryan Heilmann _(air control officers)_  
 Shantel Limbo _(staff sergeant)_  
 James Handy _(Jimmy, bartender)_  
 Whylip Lee _(fuel)_  
 Tristan Henry _(surfaces)_  
 Jason Robert Boles _(mini boss)_  
 Brian Ferguson _(fighter pilot in bar)_  
-Chido Nwokocha, Chaz Ingram, Rachel Markarian, Shannon Kane, Norman Ralph Eliasen_  
-(mission controllers)_
+Chido Nwokocha, Chaz Ingram, Rachel Markarian, Shannon Kane, Norman Ralph Eliasen _(mission controllers)_
 
-USA 2022©
-
-130 mins
-
+USA 2022©  
+130 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTU4Mjk5N119
+eyJoaXN0b3J5IjpbLTEwNTU0MjU0MjRdfQ==
 -->
