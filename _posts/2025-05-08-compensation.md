@@ -35,22 +35,17 @@ _Music_: Reginald B. Robinson, Atiba Y. Jali
 **Cast**  
 Michelle A. Banks _(Malindy Brown / Malaika Brown)_  
 John Earl Jelks _(Arthur Jones / Nico Jones)_  
-Christopher Smith _(William Young / dancer)_
-
+Christopher Smith _(William Young / dancer)_  
 K. Lynn Stephens _(Aminata Brown)_  
-Nirvana Cobb  
-_(Tildy Evans / children’s library reader)_
-
+Nirvana Cobb  _(Tildy Evans / children’s library reader)_  
 Kevin L. Davis _(Tyrone)_
 
-USA 1999
-
-92 mins
-
+USA 1999  
+92 mins  
 Digital 4K (restoration)
 
-Digitally restored in 4K by The Criterion Collection, UCLA Film and Television Archive, and Wimmin With a Mission Productions in conjunction with  
-The Sundance Institute
+Digitally restored in 4K by The Criterion Collection, UCLA Film and Television Archive, and Wimmin With a Mission Productions in conjunction with The Sundance Institute
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODg5Njc1MSwxNDAxNTMwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTg3NjA3MzMsMTQwMTUzMDE2XX0=
 -->
