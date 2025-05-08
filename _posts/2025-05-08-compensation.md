@@ -18,17 +18,13 @@ It is important for me as an artist to communicate with others about difficult t
 
 As an African American woman video- and filmmaker who has been producing work for multiple decades, I feel a strong affinity for – and a sense of responsibility in – crafting images of African American women. I am interested in expanding our horizons as Americans and as women – we are not invisible, and certainly not ‘bitches and hos’. _Compensation_ focuses decidedly on its women characters, telling the story primarily from their points of view. Through this film and others, I have tried to contribute to the challenge that independent filmmaking presents to the domain of mass media in the United States.
 
-As a university professor, it was very important to me that the _Compensation_ crew include students, many of whom were women; 85 percent of the crew ended up being female. My practice has been to mix professionals with students, and to also mix the production crew along the colour line. In doing so, I feel that I have been successful in making some small changes to the world of media. I will continue to employ these practices as I tell my stories and endeavour to influence other creators.
+As a university professor, it was very important to me that the _Compensation_ crew include students, many of whom were women; 85 percent of the crew ended up being female. My practice has been to mix professionals with students, and to also mix the production crew along the colour line. In doing so, I feel that I have been successful in making some small changes to the world of media. I will continue to employ these practices as I tell my stories and endeavour to influence other creators.  
+**Janus Films press notes**
+<br><br>
 
-Janus Films press notes
-
-<![endif]-->
-
-**Compensation**
-
+**Compensation**  
 _Director_: Zeinabu irene Davis  
-_Production Company_:  
-Wimmin With A Mission Productions  
+_Production Company_:  Wimmin With A Mission Productions  
 _Producers_: Zeinabu irene Davis, Marc Arthur Chéry, Yvonne Welbon, Dana Briscoe  
 _Screenplay_: Marc Arthur Chéry  
 _Director of Photography_: Pierre H.L. Désir Jr  
@@ -36,8 +32,7 @@ _Editors_: Zeinabu irene Davis, Dana Briscoe
 _Production Designer_: Cathy C. Cook  
 _Music_: Reginald B. Robinson, Atiba Y. Jali
 
-_Cast:_
-
+**Cast**  
 Michelle A. Banks _(Malindy Brown / Malaika Brown)_  
 John Earl Jelks _(Arthur Jones / Nico Jones)_  
 Christopher Smith _(William Young / dancer)_
@@ -57,5 +52,5 @@ Digital 4K (restoration)
 Digitally restored in 4K by The Criterion Collection, UCLA Film and Television Archive, and Wimmin With a Mission Productions in conjunction with  
 The Sundance Institute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTUzMDE2XX0=
+eyJoaXN0b3J5IjpbMTYzODg5Njc1MSwxNDAxNTMwMTZdfQ==
 -->
