@@ -58,8 +58,7 @@ _Costume Designer_: Rulette Mapp
 _Music_: Curt Harpel, Pat Thomi  
 _Sound Designer_: Kerry Carmean
 
-_Cast:_
-
+**Cast**  
 Toby Smith _(Pica Sullivan)_  
 April Barnett _(Tobi)_  
 Will Power _(Malik)_  
@@ -67,18 +66,15 @@ Channel Schafer _(Gloria Sullivan)_
 Salim Akil _(Mr Yamada)_  
 Keith Williams _(Mohamed)_  
 Stacey Marbey _(Meagan)_  
-Earl Ford _(Tide)_
-
-Keilan Matthews _(Tyson)_
-
+Earl Ford _(Tide)_  
+Keilan Matthews _(Tyson)_  
 Patrick Pulliam _(Kev)_  
 Timothy Braggs _(Jefferson)_
 
-USA 1998
-
-86 mins
-
+USA 1998  
+86 mins  
 Digital 4K (restoration)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTg4MjQwMl19
+eyJoaXN0b3J5IjpbMjE2MTA4OTM2XX0=
 -->
