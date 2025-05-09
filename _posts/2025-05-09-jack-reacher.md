@@ -110,7 +110,7 @@ _Armourer_: Samuel Arthurs
 _Weapons Technical Adviser_: Doug McQuarrie  
 _Unit Publicist_: Guy Adan
 
-**Cast**
+**Cast**  
 Tom Cruise _(Jack Reacher)_  
 Rosamund Pike _(Helen Rodin)_  
 Richard Jenkins _(District Attorney Rodin)_  
@@ -155,11 +155,10 @@ Jason McCune _(construction foreman)_
 Shane Callahan, Joshua Elijah Reese _(SWAT guys)_  
 Nathan Hollabaugh, Christopher Stadulis _(cops)_
 
-USA 2012©
-
-130 mins
-
+USA 2012©  
+130 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ2OTU0OTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDgzOTQyNzFdfQ==
 -->
