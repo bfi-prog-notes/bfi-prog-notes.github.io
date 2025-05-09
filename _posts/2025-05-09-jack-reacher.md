@@ -1,3 +1,14 @@
+---
+layout: post
+title: Jack Reacher
+published: true
+date: 2025-05-09
+readtime: true
+categories: ['Tom Cruise']
+tags: [Action, Thriller]
+metadata: 'USA 2012, 130 mins<br> Director: Christopher McQuarrie'
+pdf: '2025-05-09-jack-reacher.pdf'
+---
 
 _Jack Reacher_ is based on _One Shot_, the ninth in the series of Lee Child’s novels, so why begin in the middle, as it were? Producer Don Granger says, ‘_One Shot_ is perhaps the most cinematic of all the books. Within the novel are presented several elements that we thought were important in a first movie. First, I think it’s got one of the very best introductions for Reacher – it’s a great way to bring him into the plot that’s already in motion. But secondly, and perhaps even more importantly, there’s a moral dilemma for him. He comes into the story believing one thing, and then has to realise that the facts are perhaps pointing in a different direction. He then has to decide whether to take the easy way out of this, or the tougher way, and in that decision, we get to realise why Jack Reacher’s different from any other movie hero.’
 
@@ -159,6 +170,30 @@ USA 2012©
 130 mins  
 Digital
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NDgzOTQyNzFdfQ==
 -->
