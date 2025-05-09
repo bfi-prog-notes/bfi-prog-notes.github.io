@@ -84,9 +84,7 @@ Alexandra Wentworth _(Bobbi Fallon)_
 Aries Spears _(Tee Pee)_  
 Kelly Coffield _(Jan)_  
 Alice Crowe _(Alice)_  
-Larina Adamson, Winnie Holzman,  
-Diana Jordan, Susan Norfleet, Susan Pingleton, Cha-Cha Sandoval, Hynden Walch_  
-(women’s group members)_  
+Larina Adamson, Winnie Holzman,  Diana Jordan, Susan Norfleet, Susan Pingleton, Cha-Cha Sandoval, Hynden Walch _(women’s group members)_  
 Glenn Frey _(Dennis Wilburn)_  
 Donal Logue _(Rick, junior agent)_  
 Tom Gallop _(Ben)_  
@@ -108,15 +106,14 @@ Rod Tate _(‘Baja’ Brunard)_
 Charlie Cronin, Theo Greenly _(hootie fans)_  
 Beau Bridges _(Matt Cushman)_ *
 
-USA 1996
-
-139 mins
-
+USA 1996  
+139 mins  
 Digital 4K
 
-* Uncredited
+*Uncredited
 
 The screening on Sat 10 May will be introduced by Kimberley Sheehan, Season Programmer
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc0NjExMTJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTc4Njc3MDhdfQ==
 -->
