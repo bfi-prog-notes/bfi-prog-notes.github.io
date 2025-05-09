@@ -52,8 +52,7 @@ _Aerial Director of Photography_: David B. Nowell
 _A Camera Operator_: Gary Jay  
 _B Camera Operator_: Chris Haarhoff  
 _Steadicam Operators_: Chris Haarhoff, John Grillo  
-_Digital Imaging Technicians_: David Canning,  
-Edward S. Viola, Dominic Bartoloe  
+_Digital Imaging Technicians_: David Canning,  Edward S. Viola, Dominic Bartoloe  
 _Still Photographer_: Frank Connor  
 _Visual Effects_: Big Red Pixel, Howard Anderson Company, Pacific Title & Art Studio, Pixel Magic  
 _Visual Effects Supervisor_: John Sullivan  
@@ -76,21 +75,19 @@ _Department Head Hair Stylist_: Roddy Stayton
 _Titles_: Pacific Title  
 _Music_: James Newton Howard  
 _Additional Music_: Antonio Pinto, Tom Rothrock  
-_Executive Music Supervisors_: Todd Homme,  
-Kathy Nelson  
+_Executive Music Supervisors_: Todd Homme,  Kathy Nelson  
 _Music Supervisor_: Vicki Hiatt  
 _Score Recorded/Mixed by_: Shawn Murphy  
 _Sound Design/Supervision_: Elliott L. Koretz  
 _Production Sound Mixer_: Lee Orloff  
-_Re-recording Mixers_: Michael Minkler,  
-Myron Nettinga  
+_Re-recording Mixers_: Michael Minkler,  Myron Nettinga  
 _Sound Editors_: Michael Payne, Steven F. Nelson, Kim Secrist, Mike Chock  
 _Sound Effects Editing_: SoundStorm  
 _Stunt Co-ordinator_: Joel Kramer  
 _Technical Advisers_: Michael Gould, Charles Daniel  
-_Research_: John Wyatt, David Hollander  
-_Cast:_
-
+_Research_: John Wyatt, David Hollander
+  
+**Cast**  
 Tom Cruise _(Vincent)_  
 Jamie Foxx _(Max Durocher)_  
 Jada Pinkett Smith _(Annie Farrell)_  
@@ -106,14 +103,12 @@ Debi Mazar _(young professional woman)_
 Javier Bardem _(Felix)_  
 Emilio Rivera _(Paco)_  
 Jamie McBride _(traffic cop 2)_  
-Ken Ver Cammen, Charlie E. Schmidt Jr_  
-(FBI agents)_  
+Ken Ver Cammen, Charlie E. Schmidt Jr _(FBI agents)_  
 Michael A. Bentt _(Fever bouncer)_  
 Ian Hannin _(cell phone partier)_  
 Robert Deamer _(sergeant)_  
 David Mersault, Anthony Ochoa _(crime scene cops)_  
-Omar Orozco, Edgar Sanchez, Cosme Urquiola_  
-(El Rodeo doormen)_  
+Omar Orozco, Edgar Sanchez, Cosme Urquiola _(El Rodeo doormen)_  
 Thomas Rosales Jr _(Ramone)_  
 Wade Andrew Williams _(fed 2)_  
 Paul Adelstein _(fed 3)_  
@@ -123,23 +118,21 @@ Inmo _(Peter Lim)_
 Howard Bachrach _(pissed off driver)_  
 Charles Daniel _(plainclothes cop)_  
 Corinne Chooey, Jonell Kennedy _(waitresses)_  
-Steven Kozlowski, Roger Stoneburner,  
-Rodney Sandberg, George Petrina _(white guys)_  
-Donald Dean, Elliott Newman, Trevor Ware,  
-Bobby English, Auggie Cavanagh, Ronald Muldrow _(jazz musicians)_  
+Steven Kozlowski, Roger Stoneburner,  Rodney Sandberg, George Petrina _(white guys)_  
+Donald Dean, Elliott Newman, Trevor Ware,  Bobby English, Auggie Cavanagh, Ronald Muldrow _(jazz musicians)_  
 Peter McKernan Jr _(police helicopter pilot)_  
 Ivor Shier _(news helicopter pilot)_  
 Daniel Luján _(Rubio 1)_  
 Eddie Diaz _(Rubio 2)_  
 Joey Burns, John Convertino, Josh Cruze, Martin Flores, Rick Garcia, Lawrence Goldman, Maurilio Pineda, Daniel Sistos, Jacob Valenzuela, Luis Villegas, Yussi Wenger _(El Rodeo band members)_  
 Jason Statham _(airport man)_  
-USA 2004©
 
-120 mins
-
+USA 2004©  
+120 mins  
 Digital
 
 The screening on Thu 22 May will be introduced by Ian Haydn Smith, writer and curator
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTI0OTQxNF19
+eyJoaXN0b3J5IjpbLTEzMzMyNjQzMzRdfQ==
 -->
