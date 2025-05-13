@@ -22,13 +22,12 @@ _Nightshift_ shows what film can do if the conventional pace of narrative is slo
 
 The best British film of this year – and the best of the [Edinburgh] festival – was shown at midnight, and the fact that it benefited from this is a strong indication of its success. It’s called _Nightshift_. Robina Rose and her co-writer Nicola Lane worked for a long time as night porters in a hotel, and the film grew out of their experiences. Through the eyes of the young woman behind the reception desk, we see what happens in the nighttime foyer of a small hotel: virtually nothing. Of course, once our eyes have become accustomed to the old-fashioned warm red and gold tones (Jon Jost, himself an excellent American filmmaker, operated the camera), once we have adjusted to the slowed-down rhythm of nighttime movements, then our minds begin to wander leisurely, and we piece together the story, the stories of the people who, as if lost in a dream, are dragging their bags through the nighttime foyer. And with us, the young woman, _Nightshift_ begins to dream gently, almost imperceptibly: an older woman, framed by her twitching shadow, cast by the television on the wall behind her; the young wife of a gnome-like film director dressed all in white; a pillow fight, a shower of feathers in slow motion. With the simplest of techniques, Robina Rose has created an enchantingly serene film.  
 **Kraft Wetzel, _Frankfurter Rundschau_, 26 September 1981**
+<br>
 
 **Robina Rose** was born in 1951 to Danish and German parents and grew up in Notting Hill, London. After leaving school, she became a film projectionist at the Arts Lab on Drury Lane, Covent Garden. Rose graduated from the Royal College of Art in 1977, where she did camera work on Celestino Coronado’s _Hamlet_ starring Helen Mirren and Quentin Crisp. Rose was awarded a German Academic Exchange Service (DAAD) fellowship and moved to Berlin, where she was later invited to teach at the German Film and Television Academy (DFFB) and remained there for the rest of the 1980s. On her return from Berlin she worked for the Community Programme Unit of the BBC.
+<br><br>
 
-<![endif]-->
-
-**Nightshift**
-
+**Nightshift**  
 _Director_: Robina Rose  
 _Production Company_: Robina Rose  
 _With assistance from_: Arts Council of Great Britain  
@@ -44,8 +43,7 @@ _Music for lounge_: Eye Level
 _Music for bar_: The Stroke, Famous Names  
 _Sound_: Stephen Brown
 
-_Cast:_
-
+**Cast**  
 Jordan _(night receptionist)_  
 Anne Rees-Mogg  
 Mitch Davies  
@@ -72,15 +70,14 @@ Shaun Lawton
 Kristin Birrer  
 Philip Oellerich
 
-UK 1981
-
-68 mins
-
+UK 1981  
+68 mins  
 Digital 4K
 
 Digitally restored in 4K on behalf of Lightbox Film Center (Philadelphia) in collaboration with the British Film Institute and Cinenova. Restoration funding provided by Ron and Suzanne Naples
 
 Presented in partnership with Cinenova
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ0ODIzMTZdfQ==
+eyJoaXN0b3J5IjpbODg2MzE3NDQ5XX0=
 -->
