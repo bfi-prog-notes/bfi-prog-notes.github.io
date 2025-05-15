@@ -33,24 +33,19 @@ _A Way of Life_ was filmed entirely on location in Wales, primarily in Barry, Sw
 _Director_: Amma Asante  
 ©: UK Film Council, Cyngor Celfyddydau Cyrmu/Arts Council of Wales, ITV Wales  
 _Presented by_: UK Film Council  
-_Made with the support of_:  Cyngor Celfyddydau Cyrmu/Arts Council of Wales _Presented by_: ITV Wales  
+_Made with the support of_:  Cyngor Celfyddydau Cyrmu/Arts Council of Wales   _Presented by_: ITV Wales  
 _Production Company_: AWOL Productions  
 _Made with the support of_: National Lottery through the Film Council, UK Film Council New Cinema Fund  
-_Developed and produced in association with_:  
-ITV Wales, Tantrum Films  
-_With the participation of_:  
-Grosvenor Park Media Limited  
+_Developed and produced in association with_:  ITV Wales, Tantrum Films  
+_With the participation of_:  Grosvenor Park Media Limited  
 _Presented in association with_: Portman Productions  
-_World Receipts Collected/Distributed by_:  
-National Film Trustee Company Ltd  
+_World Receipts Collected/Distributed by_:  National Film Trustee Company Ltd  
 _Executive Producers_: Paul Trijbits, Tristan Whalley  
-_Executive Producer (Sgrin Cymru Wales)_:  
-Judith Higginbottom  
+_Executive Producer (Sgrin Cymru Wales)_:  Judith Higginbottom  
 _Produced by_: Charlie Hanson, Patrick Cassavetti, Peter Edwards  
 _Line Producer_: Meinir Stoutt  
 _For UKFC: Senior Production Executive:_ Himesh Kar; _Senior Business Affairs Executive_: Natalie Bass; _Head of Physical Production_: Fiona Morham  
-_For ITV Wales (Business Affairs Manager)_:  
-Sion Clwyd Roberts  
+_For ITV Wales (Business Affairs Manager)_:  Sion Clwyd Roberts  
 _Production Co-ordinator_: Sophie Treacher  
 _Production Accountant_: Sarah Teboul  
 _Accountant for ITV Wales_: Mike McCullagh  
@@ -63,8 +58,7 @@ _Script Supervisor_: Pamela Humphreys
 _Casting Director_: Gary Howe  
 _Written by_: Amma Asante  
 _Director of Photography_: Ian Wilson  
-_Additional Photography_: Martin Hawkins,  
-Nanu Segal  
+_Additional Photography_: Martin Hawkins,  Nanu Segal  
 _Still Photographer_: Rhian Ap Gruffydd  
 _Digital Visual Effects_: Christopher Mortimer  
 _Editors_: Steve Singleton, Claire Douglas  
@@ -72,8 +66,7 @@ _Production Designer_: Hayden Pearce
 _Art Director_: Arwel Jones  
 _Props Buyer_: Fraser Pearce  
 _Costume Designer_: Susie Lewis  
-_Wardrobe Supervisors_: Ian Chapman,  
-Carol Marshall  
+_Wardrobe Supervisors_: Ian Chapman,  Carol Marshall  
 _Make-up Designer_: Magi Vaughan  
 _Make-up Artists_: Allison Sing, Liz Jones  
 _Titles Sequence Designers_: Ally Burnett, Red, Seonaid Mackay  
@@ -96,8 +89,8 @@ _Foley_: Tim Alban
 _Fight Co-ordinator_: Kevin McCurdy  
 _Consultant_: Robert Chesshyre  
 _Unit Publicity_: Keeley Naylor, emfoundation  
-_Cast:_
 
+**Cast**  
 Stephanie James _(Leigh-Anne Williams)_  
 Nathan Jones _(Gavin Williams)_  
 Gary Sheppeard _(Robbie Matthews)_  
@@ -131,11 +124,10 @@ Michael Conway _(Danno)_
 Rhys Pettican Reh _(little boy in park)_  
 Rhys Jones _(little boy playing football)_
 
-UK 2004
-
-91 mins
-
+UK 2004  
+91 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzg2NjYzM119
+eyJoaXN0b3J5IjpbLTk2MzcyMTgwOV19
 -->
