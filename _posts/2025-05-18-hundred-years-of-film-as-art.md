@@ -33,13 +33,11 @@ _Director of Photography:_ Jimmy Rogers<br>
 _Editor:_ Alberto Cavalcanti<br>
 _Art Director:_ M. Mirovitch<br>
 _Musical Accompaniment:_ Yves de la Casinière
-
-**Cast**<br>
+_Cast:_<br>
 Clifford McLaglen<br>
 Philippe Hériat _(pimp)_<br>
 Nina Chouvalowa<br>
 Blanche Bernis _(prostitute)_<br>
-
 France 1926<br>
 40 mins<br>
 35mm
@@ -53,63 +51,38 @@ _Scenario:_ Francis Picabia<br>
 _Adaptation:_ René Clair<br>
 _Photography:_ Jimmy Berliet<br>
 _Editor:_ René Clair<br>
-
 _Music:_ Erik Satie
-
 _Cast:_<br>
-
 Francis Picabia<br>
-
 Erik Satie<br>
-
 Marcel Achard<br>
-
 Jean Börlin<br>
-
 Georges Charensol<br>
-
 Marcel Duchamp<br>
-
 Man Ray<br>
-
 Rolf de Maré<br>
-
 Pierre Scize<br>
-
 Touchagues<br>
-
 Mlle Friis<br>
-
 Georges Auric<br>
-
 Roger Le Bon<br>
-
 Mamy
-
 France 1924<br>
-
 22 mins<br>
-
 35mm
 
 **Menilmontant**<br>
-
 _Filmmaker_: Dimitri Kirsanoff  
 _Production Company_: Dimitri Kirsanov  
 _Photography_: Léonce Crouan, Dimitri Kirsanoff
-
 _Cast:_<br>
-
 Nadia Sibirskaïa _(younger sister)_  
 Yolande Beaulieu _(elder sister)_  
 Guy Belmont _(young man)_  
 Jean Pasquier  
 Maurice Ronsard
-
 France 1926<br>
-
 38 mins<br>
-
 35mm
 
 Live piano accompaniment by John Sweeney
@@ -117,5 +90,5 @@ Live piano accompaniment by John Sweeney
 Total running time: 100 mins
 <br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQxNDQ2OThdfQ==
+eyJoaXN0b3J5IjpbLTY5MzIzNjY3MF19
 -->
