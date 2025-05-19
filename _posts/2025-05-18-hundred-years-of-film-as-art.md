@@ -20,108 +20,85 @@ Teasing a narrative line out of the incredible complex of images and styles that
 
 _Menilmontant_ is the perfect anthology of truncated situations. The opening act of violence, for instance, is presented without a clear identification of murderer or motive: Kirsanov – clearly a director with an imaginative, if magpie, mind – is interested in the kinaesthetic impact of his jagged images, where the only moments of rest are provided by menacing close-ups of the axe before and after the frenzied, blurred murder. Continuity is equally wayward. Time progresses in leaps and bounds, backwards and forwards; all treatment of the baby’s birth (or indeed conception) is omitted in favour of the sudden image of mother and bundle standing outside a hospital door. Kirsanov uses the story, in fact, only as a structural device to hold together his bewildering collection of contemporary avant-garde styles, ranging from the French impressionist school (evident again in his own _Brumes d’automne)_ and Russian montage to the psychological probings of the German cinema. Yet the familiar narrative line describing the seduction and deprivation of the innocent in the big city proves remarkably resilient, despite the stylistic fireworks.  
 **Geoff Brown, _Monthly Film Bulletin_, October 1981**
+<br><br>
 
-**Rien que les heures**
-
-_Director:_ Alberto Cavalcanti
-
-_Production Company:_ Néo Film
-
-_Producer:_ Pierre Braunberger
-
-_Assistant Director:_ André Cerf
-
-_Screenplay:_ Alberto Cavalcanti
-
-_Adaptation:_ Alberto Cavalcanti
-
-_Director of Photography:_ Jimmy Rogers
-
-_Editor:_ Alberto Cavalcanti
-
-_Art Director:_ M. Mirovitch
-
+**Rien que les heures**<br>
+_Director:_ Alberto Cavalcanti<br>
+_Production Company:_ Néo Film<br>
+_Producer:_ Pierre Braunberger<br>
+_Assistant Director:_ André Cerf<br>
+_Screenplay:_ Alberto Cavalcanti<br>
+_Adaptation:_ Alberto Cavalcanti<br>
+_Director of Photography:_ Jimmy Rogers<br>
+_Editor:_ Alberto Cavalcanti<br>
+_Art Director:_ M. Mirovitch<br>
 _Musical Accompaniment:_ Yves de la Casinière
 
-_Cast:_
+**Cast**<br>
+Clifford McLaglen<br>
+Philippe Hériat _(pimp)_<br>
+Nina Chouvalowa<br>
+Blanche Bernis _(prostitute)_<br>
 
-Clifford McLaglen
-
-Philippe Hériat _(pimp)_
-
-Nina Chouvalowa
-
-Blanche Bernis _(prostitute)_
-
-France 1926
-
-40 mins
-
+France 1926<br>
+40 mins<br>
 35mm
 
-**Entr’acte**
-
-_Director:_ René Clair
-
-_Production Company:_ Ballets Suédois
-
-_Producer:_ Rolf de Maré
-
-_Assistant Director:_ Georges Lacombe
-
-_Scenario:_ Francis Picabia
-
-_Adaptation:_ René Clair
-
-_Photography:_ Jimmy Berliet
-
-_Editor:_ René Clair
+**Entr’acte**<br>
+_Director:_ René Clair<br>
+_Production Company:_ Ballets Suédois<br>
+_Producer:_ Rolf de Maré<br>
+_Assistant Director:_ Georges Lacombe<br>
+_Scenario:_ Francis Picabia<br>
+_Adaptation:_ René Clair<br>
+_Photography:_ Jimmy Berliet<br>
+_Editor:_ René Clair<br>
 
 _Music:_ Erik Satie
 
-_Cast:_
+_Cast:_<br>
 
-Francis Picabia
+Francis Picabia<br>
 
-Erik Satie
+Erik Satie<br>
 
-Marcel Achard
+Marcel Achard<br>
 
-Jean Börlin
+Jean Börlin<br>
 
-Georges Charensol
+Georges Charensol<br>
 
-Marcel Duchamp
+Marcel Duchamp<br>
 
-Man Ray
+Man Ray<br>
 
-Rolf de Maré
+Rolf de Maré<br>
 
-Pierre Scize
+Pierre Scize<br>
 
-Touchagues
+Touchagues<br>
 
-Mlle Friis
+Mlle Friis<br>
 
-Georges Auric
+Georges Auric<br>
 
-Roger Le Bon
+Roger Le Bon<br>
 
 Mamy
 
-France 1924
+France 1924<br>
 
-22 mins
+22 mins<br>
 
 35mm
 
-**Menilmontant**
+**Menilmontant**<br>
 
 _Filmmaker_: Dimitri Kirsanoff  
 _Production Company_: Dimitri Kirsanov  
 _Photography_: Léonce Crouan, Dimitri Kirsanoff
 
-_Cast:_
+_Cast:_<br>
 
 Nadia Sibirskaïa _(younger sister)_  
 Yolande Beaulieu _(elder sister)_  
@@ -129,15 +106,16 @@ Guy Belmont _(young man)_
 Jean Pasquier  
 Maurice Ronsard
 
-France 1926
+France 1926<br>
 
-38 mins
+38 mins<br>
 
 35mm
 
 Live piano accompaniment by John Sweeney
 
 Total running time: 100 mins
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzYyMTM5MF19
+eyJoaXN0b3J5IjpbLTE4NzQxNDQ2OThdfQ==
 -->
