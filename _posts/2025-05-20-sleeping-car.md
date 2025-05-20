@@ -36,8 +36,7 @@ _[Sound] Recordist_: A.C. O’Donoghue
 _Recorded by_: British Acoustic Film  
 _[Recorded] at_: Shepherd’s Bush Studios
 
-_Cast:_
-
+**Cast**  
 Madeleine Carroll _(Anne Howard)_  
 Ivor Novello _(Gaston Bray)_  
 Laddie Cliff _(Pierre Concombe)_  
@@ -51,15 +50,14 @@ Yvonne Dulac  *
 Pat Fitzpatrick  *  
 Bobbie Comber  *
 
-UK 1933
-
-82 mins
-
+UK 1933  
+82 mins  
 35mm
 
-* Uncredited
+*Uncredited
 
 A BFI National Archive print
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTQ1Njg5OF19
+eyJoaXN0b3J5IjpbLTQyNjQ1OTc0MF19
 -->
