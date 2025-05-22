@@ -29,46 +29,28 @@ Influenced by Paul Thomas Anderson’s Phantom Thread, Michel Gondry’s Eternal
 <br><br>
 
 **Test Pattern**<br>
-
 _Director:_ Shatara Michelle Ford<br>
-
-_Executive Producers:_ Brooke Jordan,  
-Brittany S. Hall<br>
-
-_Producers:_ Pin-Chun Liu,  
-Shatara Michelle Ford, Yu-Hao Su<br>
-
+_Executive Producers:_ Brooke Jordan,  Brittany S. Hall<br>
+_Producers:_ Pin-Chun Liu,  Shatara Michelle Ford, Yu-Hao Su<br>
 _Written by:_ Shatara Michelle Ford<br>
-
 _Director of Photography:_ Ludovica Isidori<br>
-
 _Editors:_ Matt Tassone, Katy Miller<br>
-
 _Production Designer:_ Eloise Ayala<br>
-
 _Costume Designer:_ Brionna Rowe<br>
-
 _Music:_ Robert Ouyang Rusli<br>
-
 _Music Supervisor:_ Alison Rosenfeld<br>
-
 _Sound Designer:_ Thomas Ouziel
 
-_Cast:_
-
-Brittany S. Hall _(Renesha)_
-
-Will Brill _(Evan)_
-
-Gail Bean _(Amber)_
-
+**Cast**<br>
+Brittany S. Hall _(Renesha)_<br>
+Will Brill _(Evan)_<br>
+Gail Bean _(Amber)_<br>
 Drew Fuller _(Mike)_
 
-USA 2019
-
-82 mins
-
-Digital
+USA 2019<br>
+82 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTQ3MjkyMl19
+eyJoaXN0b3J5IjpbMTgwMTM0ODg0Nl19
 -->
