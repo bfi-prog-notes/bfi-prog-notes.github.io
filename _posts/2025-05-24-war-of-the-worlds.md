@@ -61,10 +61,8 @@ _Costume Designer_: Joanna Johnston
 _Assistant Costume Designer_: Robert Wojewodski  
 _Make-up Department Head_: Lois Burwell  
 _Key Make-up_: Kenneth R. Myers  
-_Make-up Artists_: Leo Corey Castellano,  
-Tina Harrelson  
-_Prosthetics Fabrication_: Joel Harlow,  
-Rob Hinderstein  
+_Make-up Artists_: Leo Corey Castellano,  Tina Harrelson  
+_Prosthetics Fabrication_: Joel Harlow,  Rob Hinderstein  
 _Hair Department Head_: Kathryn Blondell  
 _Key Hairstylist_: Audrey L. Anzures  
 _Main/End Title Design_: The Picture Mill  
@@ -72,8 +70,7 @@ _Music_: John Williams
 _Chorus_: The Hollywood Film Chorale  
 _Orchestrations_: Conrad Pope, Eddie Karam  
 _Sound Design_: Richard King, Michael Babcock, Aaron Glascock  
-_Additional Sound Design/Editing_:  
-Hamilton Sterling, Randy Thom  
+_Additional Sound Design/Editing_:  Hamilton Sterling, Randy Thom  
 _Sound Mixer_: Ronald Judkins  
 _Boom Operators_: Robert Jackson, Dan Rosenblum  
 _Re-recording Mixers_: Andy Nelson, Anna Behlmer  
@@ -81,24 +78,17 @@ _Recordists_: Craig ‘Pup’ Heath, Matt Patterson, Denis St. Amand
 _Supervising Sound Editor_: Richard King  
 _Sound Editor_: Richard Hymns  
 _Dialogue Editors_: Hugo Weng, Michael Magill  
-_Sound Effects Recordists_: John Paul Fasal,
-
-Eric Potter  
-_Sound Effects Editors_: Michael W. Mitchell,
-
-Piero Mura  
+_Sound Effects Recordists_: John Paul Fasal, Eric Potter  
+_Sound Effects Editors_: Michael W. Mitchell, Piero Mura  
 _ADR Supervisor_: R.J. Kizer  
 _Foley Supervisor_: Christopher Flick  
-_Stunt Co-ordinator_: Vic Armstrong,  
-Captain Troy Waters  
-_Military Technical Advisers_:  
-Major Joseph Todd Breasseale  
+_Stunt Co-ordinator_: Vic Armstrong,  Captain Troy Waters  
+_Military Technical Advisers_:  Major Joseph Todd Breasseale  
 _Senior Researcher_: Jessica Biggins  
 _Researcher_: Stephen Christensen  
 _Dolby Sound Consultant_: Jim Wright
 
-_Cast:_
-
+**Cast**  
 Tom Cruise _(Ray Ferrier)_  
 Dakota Fanning _(Rachel)_  
 Miranda Otto _(Mary Ann)_  
@@ -125,21 +115,17 @@ Julie White _(woman)_
 Marianni Ebert _(hysterical woman)_  
 Rafael Sardina _(mechanic’s assistant)_  
 Amy Ryan _(neighbour with toddler)_  
-Ed Vassallo_,_ Michael Arthur _(intersection guys)_  
+Ed Vassallo, Michael Arthur _(intersection guys)_  
 Danny Hoch _(intersection guy cop)_  
 Sharrieff Pugh _(man studying street)_  
-Erika Lavonn_,_ Christopher Evan Welch _(photographers)_  
-John Michael Bolger, Omar Jermaine
-
-_(men holding women)_
-
+Erika Lavonn, Christopher Evan Welch _(photographers)_  
+John Michael Bolger, Omar Jermaine _(men holding women)_  
 Morgan Freeman _(narration)_
 
-USA 2005©
-
-116 mins
-
+USA 2005©  
+116 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDc5OTcyMV19
+eyJoaXN0b3J5IjpbNDQyNDU0MzddfQ==
 -->
