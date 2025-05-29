@@ -32,8 +32,7 @@ The first part permutates all the shots possible from framings of combinations o
 
 The films and videos in the programme represent two main strands in my work.  Not included are the more occasional multi-projector performance pieces and installations.
 
-_Silver Street_ is a student work, and the first conventionally produced film I made – shoot, develop, edit, print. This followed some experiments with unsplit Standard 8 that employed permutational image-generating systems. At the time I was influenced by talks given by some members of the Systems group of artists while a student at Reading University. A system, or looser procedure, was deployed subsequently in  
-_Not Resting_, a black and white film shot on colour stock whose images shift gradually from white to black.
+_Silver Street_ is a student work, and the first conventionally produced film I made – shoot, develop, edit, print. This followed some experiments with unsplit Standard 8 that employed permutational image-generating systems. At the time I was influenced by talks given by some members of the Systems group of artists while a student at Reading University. A system, or looser procedure, was deployed subsequently in  _Not Resting_, a black and white film shot on colour stock whose images shift gradually from white to black.
 
 _That Has Been_ is a much longer film, one of several made in the 1980s, in which I tried to combine formal approaches with an exploration of subjectivity verging on the autobiographical. I eventually abandoned this approach as I felt it was leading to an over-subjective and randomised process of image generation.
 
@@ -43,11 +42,11 @@ I made _Telly_ principally to teach myself three-machine video tape editing. I w
 
 _Clapping_ and _Ferrel_ both exploit editing processes that would be extremely laborious and costly to make on film, but which are easy to do using digital editing software. _Ferrel_ is one of several in which three consecutive frames are looped. Each loop runs for 20 seconds before advancing by one frame. The same procedure is deployed in _Porquerolles_ except that here single jpegs of a block of stone are cropped, re-framed into three overlapping images and looped. The same procedure yields an indefinite number of different results depending on the original image, and on how it’s cropped and reframed. The first part of _Porquerolles_ uses a strict system. I made jpegs of five blocks of stone, arranged in a loose circle in a field. In the first cycle we see blocks one, two, three, four and five individually. In the next we see pairs: one and two, two and three, three and four, four and five, then threes, fours and fives. This section was partly inspired by the composer Tom Johnson’s permutational work _Chord Catalogue_ (1986), in which all the 8178 possible chords available from the 12 semi-tones on a piano, are realised.
 
-_Clouds, Swifts_ (in progress) uses surrounding buildings to try to break down the default frame. The shots are activated and determined by birds flying through the space, so a chancier procedure is in operation.
-
-Nicky Hamlyn, 2025
+_Clouds, Swifts_ (in progress) uses surrounding buildings to try to break down the default frame. The shots are activated and determined by birds flying through the space, so a chancier procedure is in operation.  
+**Nicky Hamlyn, 2025**
+<br><br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODI5MDA0XX0=
+eyJoaXN0b3J5IjpbMTU1MTQ4OTcwMF19
 -->
