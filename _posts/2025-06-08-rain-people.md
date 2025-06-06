@@ -29,24 +29,16 @@ _I wonder if women today wouldn’t reject that conclusion?_
 
 They rejected it then. They said because I’m a woman and can have a baby does not mean that I should be at home. That’s not what I was saying. I was trying to work on an emotional level. I’m fascinated with the whole idea of a family. In the things I’m writing that is constant. Even _The Godfather_ is about that, to an extent.
 
-Interview by Stephen Farber, _Sight and Sound_, Autumn 1972
+**Interview by Stephen Farber, _Sight and Sound_, Autumn 1972**
+<br><br>
 
-<![endif]-->
-
-**The Rain People**
-
+**The Rain People**  
 _Director_: Francis Ford Coppola  
-_Production Companies_: American Zoetrope,  
-Warner Bros.-Seven Arts  
+_Production Companies_: American Zoetrope,  Warner Bros.-Seven Arts  
 _Producers_: Bart Patton, Ronald Colby  
-_Production Associates_: George Lucas,  
-Mona Skager  
-_Production Assistants_: John Blair, Sharon Compton, Joel Cox, Tony Dingman, Ken Gagnon, Tom Gavin, Marcia Griffin, Charles Hanawalt, Richard Marks, William Neil, Tom Ryan, James Sabat,
-
-Sully Sullivan, Fred Talmage, Steve Wilson  
-_Assistant Directors_: Richard Bennett,
-
-Jack Cunningham  
+_Production Associates_: George Lucas,  Mona Skager  
+_Production Assistants_: John Blair, Sharon Compton, Joel Cox, Tony Dingman, Ken Gagnon, Tom Gavin, Marcia Griffin, Charles Hanawalt, Richard Marks, William Neil, Tom Ryan, James Sabat, Sully Sullivan, Fred Talmage, Steve Wilson  
+_Assistant Directors_: Richard Bennett, Jack Cunningham  
 _Screenplay_: Francesco Coppola  
 _Director of Photography_: Wilmer C. Butler  
 _Editor_: Barry Malkin  
@@ -56,8 +48,7 @@ _Music Associate_: Carmine Coppola
 _Sound Recording_: Nathan Boxer  
 _Sound Montage_: Walter Murch
 
-_Cast:_
-
+**Cast**  
 Shirley Knight _(Natalie)_  
 James Caan _(‘Killer’ Kilgannon)_  
 Robert Duvall _(Gordon)_  
@@ -70,11 +61,11 @@ Sally Gracie _(Beth)_
 Alan Manson _(Lou)_  
 Robert Modica _(Vinny)_
 
-USA 1969
-
-101 mins
-
+USA 1969  
+101 mins  
 Digital 4K
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzAzMzgyNF19
+eyJoaXN0b3J5IjpbLTM1NjY2NzM3MSwxMzkzMDMzODI0XX0=
 -->
