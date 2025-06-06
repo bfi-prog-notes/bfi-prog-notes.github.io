@@ -14,103 +14,56 @@ _The Seventh Continent_ worked in television and the theatre, is preoccupied wit
 <br><br>
 
 **Benny’s Video**<br>
-
 _Director:_ Michael Haneke<br>
-
 ©: Wega-Film, Bernard Lang<br>
-
 _Production Companies:_ Wega-Film, Bernard Lang<br>
-
 _World Sales:_ Christa Saredi<br>
-
 _Producers:_ Veit Heiduschka, Bernard Lang<br>
-
 _Production Administrator:_ Christa Preisinger<br>
-
-_Production Managers:_ Michael Katz,  
-Gebhard Zupan<br>
-
+_Production Managers:_ Michael Katz,  Gebhard Zupan<br>
 _Production Manager (Egypt Unit):_ Nabil Shazli<br>
-
-_Switzerland Team Production Manager:_  
-Anne-Catherine Lang<br>
-
+_Switzerland Team Production Manager:_  Anne-Catherine Lang<br>
 _Unit Production Manager:_ Christian Wolf<br>
-
 _Unit Production Managers (Egypt Unit):_ Afaf Fawzi, Alfred Strobl<br>
-
 _Production Assistants (Egypt Unit):_ Sameh Said, Pierre Syoufi<br>
-
 _Assistant Director:_ Hanus Polak<br>
-
 _Script Supervisor:_ Johanna Teicht<br>
-
 _Screenplay:_ Michael Haneke<br>
-
 _Director of Photography:_ Christian Berger<br>
-
-_Assistant Photographers:_ Bernhard Pötscher,  
-Mike Huber<br>
-
+_Assistant Photographers:_ Bernhard Pötscher,  Mike Huber<br>
 _Lighting:_ Nicolas Cortolezis, Roland Heinrich, Michael Lang, Stefan Pochlatko<br>
-
 _Video Supervisor:_ Gerhard Stüttler<br>
-
 _Stills Photography:_ Peter Scheiblin<br>
-
 _Special Effects:_ Willi Neuner<br>
-
 _Editor:_ Marie Homolkova<br>
-
 _Assistant Editors:_ Andreas Prochaska, Marie Haider<br>
-
-_Production Designers:_ Christian Schuster,  
-Friedrich Martan<br>
-
+_Production Designers:_ Christian Schuster,  Friedrich Martan<br>
 _Set Decorator:_ Christoph Kanter<br>
-
 _Prop Buyer:_ Peter Ecker<br>
-
 _Standby Props:_ Robert Köstl, Hans Wagner<br>
-
 _Stage Construction:_ Robert Weiland<br>
-
 _Costumes:_ Erika Navas<br>
-
-_Wardrobe:_ Bettina Leidl, Susie Meneghel,  
-Lydia Polak<br>
-
+_Wardrobe:_ Bettina Leidl, Susie Meneghel,  Lydia Polak<br>
 _Music:_ Johann Sebastian Bach *<br>
-
 _Sound:_ Karl Schlifelner<br>
-
 _Sound Assistant:_ Eduard Hofmann<br>
-
 _Sound Assistant (Switzerland Unit):_ Andreas Sigg<br>
-
 _Sound Effects:_ Mel Kutbay<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Arno Frisch _(Benny)_<br>
-
-Angela Winkler _(mother)_
-
-Ulrich Mühe _(father)_
-
-Ingrid Strassner _(young girl)_
-
-Stephanie Brehme _(Evi)_
-
+Angela Winkler _(mother)_<br>
+Ulrich Mühe _(father)_<br>
+Ingrid Strassner _(young girl)_<br>
+Stephanie Brehme _(Evi)_<br>
 Stefan Polasek, Christian Pundy, Max Berner, Hanspeter Müller, Shelly Kästner
 
-Austria-Switzerland 1992©
+Austria-Switzerland 1992©<br>
+109 mins<br>
+Digital<br>
 
-109 mins
-
-Digital
-
-* Uncredited
+*Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTA2NTIxNF19
+eyJoaXN0b3J5IjpbLTE1MzkzMTY3ODhdfQ==
 -->
