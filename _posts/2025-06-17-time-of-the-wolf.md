@@ -42,162 +42,137 @@ Each of these stories can be understood one way or another. Ben is willing to sa
 <br><br>
 
 **Time of the Wolf** Le Temps du loup<br>
-
 _Director:_ Michael Haneke<br>
-
-©: Wega-Film, Bavaria-Film, France 3 Cinéma,  
-Arte France Cinéma<br>
-
-_Production Companies:_ France 3 Cinéma,
-
-Arte France Cinéma<br>
-
-_Presented by:_ Films du Losange (Paris),
-
-Wega-Film, Bavaria-Film<br>
-
+©: Wega-Film, Bavaria-Film, France 3 Cinéma,  Arte France Cinéma<br>
+_Production Companies:_ France 3 Cinéma, Arte France Cinéma<br>
+_Presented by:_ Films du Losange (Paris), Wega-Film, Bavaria-Film<br>
 _With:_ Österreichischer Rundfunk-Fernsehen, Bayerischer Rundfunk, ARTE<br>
+_With the participation of:_ Canal+, CNC – Centre national de la cinémat, Österreichisches Filminstitut, Filmfonds Wien, FilmFernsehFonds Bayern<br>
+_With the support of:_ Eurimages Conseil de l’Europe<br>
+_Executive Producers:_ Michael Katz,  Margaret Ménégoz<br>
+_Producers:_ Margaret Ménégoz, Veit Heiduschka<br>
+_Co-producer:_ Michael Weber<br>
+_Production Co-ordinator:_ Ulrike Lässer<br>
+_France Production Manager:_ Nathalie Nghet<br>
+_Austria Production Manager:_ Michael Katz<br>
+_Unit Production Manager:_ Roman Haschberger<br>
+_France Unit Manager:_ Fabien Courage<br>
 
-_With the participation of:_ Canal+,
+_Unit Manager:_ Mathias Mayer<br>
 
-CNC – Centre national de la cinémat,
+_Location Manager:_ Peter Ecker<br>
 
-Österreichisches Filminstitut, Filmfonds Wien, FilmFernsehFonds Bayern
-
-_With the support of:_ Eurimages Conseil de l’Europe
-
-_Executive Producers:_ Michael Katz,  
-Margaret Ménégoz
-
-_Producers:_ Margaret Ménégoz, Veit Heiduschka
-
-_Co-producer:_ Michael Weber
-
-_Production Co-ordinator:_ Ulrike Lässer
-
-_France Production Manager:_ Nathalie Nghet
-
-_Austria Production Manager:_ Michael Katz
-
-_Unit Production Manager:_ Roman Haschberger
-
-_France Unit Manager:_ Fabien Courage
-
-_Unit Manager:_ Mathias Mayer
-
-_Location Manager:_ Peter Ecker
-
-_1st Assistant Director:_ Hanus Polak Jr
+_1st Assistant Director:_ Hanus Polak Jr<br>
 
 _2nd Assistant Director:_ Katharina Biró,
 
-Kathrin Resetarits, Jens Christian Borner
+Kathrin Resetarits, Jens Christian Borner<br>
 
-_Script Supervisor:_ Jean Baptiste Filleau
+_Script Supervisor:_ Jean Baptiste Filleau<br>
 
-_Children Casting:_ Kris Portier de Bellair
+_Children Casting:_ Kris Portier de Bellair<br>
 
-_France Casting:_ Brigitte Moidon
+_France Casting:_ Brigitte Moidon<br>
 
-_Austria Casting:_ Markus Schleinzer
+_Austria Casting:_ Markus Schleinzer<br>
 
-_Screenplay:_ Michael Haneke
+_Screenplay:_ Michael Haneke<br>
 
-_Director of Photography:_ Jürgen Jürges
+_Director of Photography:_ Jürgen Jürges<br>
 
-_Steadicam Operator:_ Jörg Widmer
+_Steadicam Operator:_ Jörg Widmer<br>
 
-_Special Visual Effects:_ Geoffrey Kleindorfer
+_Special Visual Effects:_ Geoffrey Kleindorfer<br>
 
-_Special Effects:_ Tissi Brandhofer
+_Special Effects:_ Tissi Brandhofer<br>
 
-_Editors:_ Monika Willi, Nadine Muse
+_Editors:_ Monika Willi, Nadine Muse<br>
 
-_Additional Editors:_ Alarich Lenz, Yannick Coutheron
+_Additional Editors:_ Alarich Lenz, Yannick Coutheron<br>
 
-_Art Director:_ Christoph Kanter
+_Art Director:_ Christoph Kanter<br>
 
-_Set Decorator:_ Hans Wagner
+_Set Decorator:_ Hans Wagner<br>
 
-_Costumes:_ Lisy Christl
+_Costumes:_ Lisy Christl<br>
 
 _Make-up/Hair:_ Waldemar Pokromski, Ellen Just, Claus Lulla, Nicolaj Espinosa Bach, Tu Nguyen,  
-Ela Bumbul, Stéphane Malheu
+Ela Bumbul, Stéphane Malheu<br>
 
-_Make-up for Isabelle Huppert:_ Thi-Loan Nguyen
+_Make-up for Isabelle Huppert:_ Thi-Loan Nguyen<br>
 
 _Sound Recording:_ Guillaume Sciama,  
-Jean-Pierre LaForce
+Jean-Pierre LaForce<br>
 
-_Sound Retakes:_ William Franck
+_Sound Retakes:_ William Franck<br>
 
-_Studio Sound Engineer:_ Olivier Dô Húu
+_Studio Sound Engineer:_ Olivier Dô Húu<br>
 
-_Sound Effects:_ Pascal Chauvin
+_Sound Effects:_ Pascal Chauvin<br>
 
-_Post-synchronizations:_ Alter Ego, Hervé Icovic
+_Post-synchronizations:_ Alter Ego, Hervé Icovic<br>
 
-_Animal Wranglers:_ Animal Action
+_Animal Wranglers:_ Animal Action<br>
 
-_Horse Wrangler:_ Monika Fiserova
+_Horse Wrangler:_ Monika Fiserova<br>
 
 _Publicity:_ Mathilde Incerti
 
-_Cast:_
+_Cast:_<br>
 
-Isabelle Huppert _(Anne Laurent)_
+Isabelle Huppert _(Anne Laurent)_<br>
 
-Anaïs Demoustier _(Eva Laurent)_
+Anaïs Demoustier _(Eva Laurent)_<br>
 
-Lucas Biscombe _(Ben Laurent)_
+Lucas Biscombe _(Ben Laurent)_<br>
 
-Hakim Taleb _(the boy/young runaway)_
+Hakim Taleb _(the boy/young runaway)_<br>
 
-Patrice Chéreau _(Thomas Brandt)_
+Patrice Chéreau _(Thomas Brandt)_<br>
 
-Béatrice Dalle _(Lise Brandt)_
+Béatrice Dalle _(Lise Brandt)_<br>
 
-Olivier Gourmet _(Koslowski)_
+Olivier Gourmet _(Koslowski)_<br>
 
-Brigitte Roüan _(Béa)_
+Brigitte Roüan _(Béa)_<br>
 
-Daniel Duval _(Georges Laurent)_
+Daniel Duval _(Georges Laurent)_<br>
 
-Branko Samarovski _(policeman)_
+Branko Samarovski _(policeman)_<br>
 
-Thierry van Werveke _(Jean)_
+Thierry van Werveke _(Jean)_<br>
 
-Maurice Bénichou _(Monsieur Azoulay)_
+Maurice Bénichou _(Monsieur Azoulay)_<br>
 
-Maryline Even _(Madame Azoulay)_
+Maryline Even _(Madame Azoulay)_<br>
 
-Florence Loiret-Caille _(Nathalie Azoulay)_
+Florence Loiret-Caille _(Nathalie Azoulay)_<br>
 
-Pierre Berriau _(chalet man)_
+Pierre Berriau _(chalet man)_<br>
 
-Valérie Moreau _(chalet woman)_
+Valérie Moreau _(chalet woman)_<br>
 
-Ina Strnad
+Ina Strnad<br>
 
-Costel Cascaval _(Constantin)_
+Costel Cascaval _(Constantin)_<br>
 
-Rona Hartner _(Arina)_
+Rona Hartner _(Arina)_<br>
 
-Luminita Gheorghiu _(Mrs Homolka)_
+Luminita Gheorghiu _(Mrs Homolka)_<br>
 
-Adriana Trandafir
+Adriana Trandafir<br>
 
-Michaël Abiteboul _(armed man)_
+Michaël Abiteboul _(armed man)_<br>
 
-Franck Gourlat _(water seller)_
+Franck Gourlat _(water seller)_<br>
 
-François Hautesserre _(music lover)_
+François Hautesserre _(music lover)_<br>
 
-Maria Hofstätter _(quarrelsome woman)_
+Maria Hofstätter _(quarrelsome woman)_<br>
 
-Serge Riaboukine _(the leader)_
+Serge Riaboukine _(the leader)_<br>
 
-Claude Singeot _(razor blade man)_
+Claude Singeot _(razor blade man)_<br>
 
 Roman Agrinz, Alexander Barta, Peter Bartak, Gabriela Bauer, Ileana Brancau, Georg Friedrich, Simon Hatzl, Alexandra Hörmann, Margita Huttova, Edmund Jäger, Silke Jandl, Dorothea Kocsis,
 
@@ -208,13 +183,14 @@ Maria Speranza Paraschiv, Christoph Theussl,
 Sophie Wimmer-Lieb, Christian Wlach,  
 Mira Zeichmann
 
-France-Austria-Germany 2003©
+France-Austria-Germany 2003©<br>
 
-113 mins
+113 mins<br>
 
 Digital
 
-The screening on Wed 25 Jun will be introduced by Geoff Andrew, Film Critic, Lecturer and Programmer
+The screening on Wed 25 Jun will be introduced by Geoff Andrew, Film Critic, Lecturer and Programmer<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQwODQ1NjNdfQ==
+eyJoaXN0b3J5IjpbMjE0MjIyNzc5NV19
 -->
