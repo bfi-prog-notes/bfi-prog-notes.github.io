@@ -57,140 +57,71 @@ _France Production Manager:_ Nathalie Nghet<br>
 _Austria Production Manager:_ Michael Katz<br>
 _Unit Production Manager:_ Roman Haschberger<br>
 _France Unit Manager:_ Fabien Courage<br>
-
 _Unit Manager:_ Mathias Mayer<br>
-
 _Location Manager:_ Peter Ecker<br>
-
 _1st Assistant Director:_ Hanus Polak Jr<br>
-
-_2nd Assistant Director:_ Katharina Biró,
-
-Kathrin Resetarits, Jens Christian Borner<br>
-
+_2nd Assistant Director:_ Katharina Biró, Kathrin Resetarits, Jens Christian Borner<br>
 _Script Supervisor:_ Jean Baptiste Filleau<br>
-
 _Children Casting:_ Kris Portier de Bellair<br>
-
 _France Casting:_ Brigitte Moidon<br>
-
 _Austria Casting:_ Markus Schleinzer<br>
-
 _Screenplay:_ Michael Haneke<br>
-
 _Director of Photography:_ Jürgen Jürges<br>
-
 _Steadicam Operator:_ Jörg Widmer<br>
-
 _Special Visual Effects:_ Geoffrey Kleindorfer<br>
-
 _Special Effects:_ Tissi Brandhofer<br>
-
 _Editors:_ Monika Willi, Nadine Muse<br>
-
 _Additional Editors:_ Alarich Lenz, Yannick Coutheron<br>
-
 _Art Director:_ Christoph Kanter<br>
-
 _Set Decorator:_ Hans Wagner<br>
-
 _Costumes:_ Lisy Christl<br>
-
-_Make-up/Hair:_ Waldemar Pokromski, Ellen Just, Claus Lulla, Nicolaj Espinosa Bach, Tu Nguyen,  
-Ela Bumbul, Stéphane Malheu<br>
-
+_Make-up/Hair:_ Waldemar Pokromski, Ellen Just, Claus Lulla, Nicolaj Espinosa Bach, Tu Nguyen,  Ela Bumbul, Stéphane Malheu<br>
 _Make-up for Isabelle Huppert:_ Thi-Loan Nguyen<br>
-
-_Sound Recording:_ Guillaume Sciama,  
-Jean-Pierre LaForce<br>
-
+_Sound Recording:_ Guillaume Sciama,  Jean-Pierre LaForce<br>
 _Sound Retakes:_ William Franck<br>
-
 _Studio Sound Engineer:_ Olivier Dô Húu<br>
-
 _Sound Effects:_ Pascal Chauvin<br>
-
 _Post-synchronizations:_ Alter Ego, Hervé Icovic<br>
-
 _Animal Wranglers:_ Animal Action<br>
-
 _Horse Wrangler:_ Monika Fiserova<br>
-
 _Publicity:_ Mathilde Incerti
 
-_Cast:_<br>
-
+**Cast**<br>
 Isabelle Huppert _(Anne Laurent)_<br>
-
 Anaïs Demoustier _(Eva Laurent)_<br>
-
 Lucas Biscombe _(Ben Laurent)_<br>
-
 Hakim Taleb _(the boy/young runaway)_<br>
-
 Patrice Chéreau _(Thomas Brandt)_<br>
-
 Béatrice Dalle _(Lise Brandt)_<br>
-
 Olivier Gourmet _(Koslowski)_<br>
-
 Brigitte Roüan _(Béa)_<br>
-
 Daniel Duval _(Georges Laurent)_<br>
-
 Branko Samarovski _(policeman)_<br>
-
 Thierry van Werveke _(Jean)_<br>
-
 Maurice Bénichou _(Monsieur Azoulay)_<br>
-
 Maryline Even _(Madame Azoulay)_<br>
-
 Florence Loiret-Caille _(Nathalie Azoulay)_<br>
-
 Pierre Berriau _(chalet man)_<br>
-
 Valérie Moreau _(chalet woman)_<br>
-
 Ina Strnad<br>
-
 Costel Cascaval _(Constantin)_<br>
-
 Rona Hartner _(Arina)_<br>
-
 Luminita Gheorghiu _(Mrs Homolka)_<br>
-
 Adriana Trandafir<br>
-
 Michaël Abiteboul _(armed man)_<br>
-
 Franck Gourlat _(water seller)_<br>
-
 François Hautesserre _(music lover)_<br>
-
 Maria Hofstätter _(quarrelsome woman)_<br>
-
 Serge Riaboukine _(the leader)_<br>
-
 Claude Singeot _(razor blade man)_<br>
-
-Roman Agrinz, Alexander Barta, Peter Bartak, Gabriela Bauer, Ileana Brancau, Georg Friedrich, Simon Hatzl, Alexandra Hörmann, Margita Huttova, Edmund Jäger, Silke Jandl, Dorothea Kocsis,
-
-Natascha Kuliskova, Carmen Loley, Andreas Lust, Marian Mitas, Martin Nahalka, Klaus Ortner, Petru Pecican, Andreas Pühringer, Sonja Romei,
-
-Maria Speranza Paraschiv, Christoph Theussl,
-
-Sophie Wimmer-Lieb, Christian Wlach,  
-Mira Zeichmann
+Roman Agrinz, Alexander Barta, Peter Bartak, Gabriela Bauer, Ileana Brancau, Georg Friedrich, Simon Hatzl, Alexandra Hörmann, Margita Huttova, Edmund Jäger, Silke Jandl, Dorothea Kocsis, Natascha Kuliskova, Carmen Loley, Andreas Lust, Marian Mitas, Martin Nahalka, Klaus Ortner, Petru Pecican, Andreas Pühringer, Sonja Romei, Maria Speranza Paraschiv, Christoph Theussl, Sophie Wimmer-Lieb, Christian Wlach,  Mira Zeichmann
 
 France-Austria-Germany 2003©<br>
-
 113 mins<br>
-
 Digital
 
 The screening on Wed 25 Jun will be introduced by Geoff Andrew, Film Critic, Lecturer and Programmer<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjIyNzc5NV19
+eyJoaXN0b3J5IjpbMTYyMzg5MTE0N119
 -->
