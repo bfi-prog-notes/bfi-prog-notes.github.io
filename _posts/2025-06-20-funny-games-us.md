@@ -1,4 +1,3 @@
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -28,10 +27,10 @@ _Another English-language remake of one of your films has been mooted in Hollywo
 
 Only insofar as they’ve taken out an option on the script. They’re transferring the story to America and I’m getting some money for it and that’s as far as it goes. I’d be very wary of taking part in it, though if it does get made people will compare the two films to each other, of course. That really would be quite funny.
 
-Michael Haneke interviewed by Sheila Johnston, _Sight and Sound_, April 2008
+**Michael Haneke interviewed by Sheila Johnston, _Sight and Sound_, April 2008**<br>
+<br>
 
-**‘Funny Games U.S.’ in the horror genre context**
-
+**‘Funny Games U.S.’ in the horror genre context**  
 Back in 1997 Haneke compared his ‘parody of a thriller’ with realist works of terror such as John McNaughton’s _Henry: Portrait of a Serial Killer_ and the cinema of stylised ultra-violence represented by Peckinpah, Tarantino and Oliver Stone. But the past decade has seen onscreen depictions of rape and violence reach new heights with the emergence of graphic ‘torture porn’ in horror franchises such as _Saw_ and _Hostel._ Given that Haneke’s script and _mise en scène_ are largely unchanged, it is in casting and performance that his remake might provide a comment on the contemporary cinematic landscape. Certainly, Naomi Watts imbues her incarnation of Ann with a new sensuality that echoes the fetishisation of the female victim so frequent in present-day Hollywood horror; a scene in which she is made to strip for her captors’ amusement is haunted by the spectre of rape in a much more immediate manner.
 
 Tim Roth as George is a much weaker presence than Ulrich Mühe, placing a new spin on the dynamic between husband and wife as George becomes the embodiment of the emasculated American male and Ann edges ever closer to the status of immortal final girl. Brady Corbet as Peter may be an uncanny replica of his predecessor Frank Giering but Michael Pitt transforms Arno Frisch’s wiry devil Paul into a maleficent cherub, a golden vision of all-American innocence gone wrong, significantly clad in the same Converse pumps as his victims.
@@ -40,5 +39,5 @@ Catherine Wheatley, _Sight and Sound_, April 2008
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ0NDQ3MzldfQ==
+eyJoaXN0b3J5IjpbLTQ1MDY1MjY1MF19
 -->
