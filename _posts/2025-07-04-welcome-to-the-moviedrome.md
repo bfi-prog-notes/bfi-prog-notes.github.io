@@ -1,3 +1,14 @@
+---
+layout: post
+title: Welcome to the Moviedrome
+published: true
+date: 2025-07-04
+readtime: true
+categories: ['Moviedrome<br>Bringing the Cult TV Series to the Big Screen']
+tags: [Talks]
+metadata: 
+pdf: '2025-07-04-welcome-to-the-moviedrome.pdf'
+---
 
 _Moviedrome_ began on BBC2 at a time when there were just four TV channels in the UK, satellite broadcasting was in its infancy and streaming was decades away. It offered audiences a portal into the world of weird and wonderful cult cinema. To launch our season, join _Moviedrome_ presenter Alex Cox alongside series producer and this season’s curator Nick Freand Jones, for a conversation with broadcaster Samira Ahmed about this influential and inspirational series.  
 
@@ -23,6 +34,33 @@ There were certain obvious titles that we wanted to have for the BFI season. _Th
 I’m very heartened by how people seem to have these great memories of it. There’s this whole second life on the internet, with people talking about it and putting the intros up on YouTube. I recently worked with John Maclean [director of _Tornado_], who said _Moviedrome_ was his film education because he grew up in a small village in Scotland and there wasn’t a cinema. And Edgar Wright has been very vocal about Alex’s influence through the series. I think curation is needed just as much, if not more, in the modern film landscape. With the big streamers, it’s not even a human who’s making the decisions about what gets prominence.  
 **Nick Freand Jones was talking to Matthew Taylor, bfi.org.uk, June 2025**
 <br><br>
+
+**With thanks to**   
+Bob Cummins and Sharon Maitland
+<br><br> 
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
