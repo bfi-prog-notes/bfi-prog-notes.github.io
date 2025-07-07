@@ -22,94 +22,54 @@ Without benefit of special lighting or trickery, Paris stands for Alphaville sim
 <br><br>
 
 **Alphaville**<br>
-
 _A new film by:_ Jean-Luc Godard<br>
-
 _Production Companies:_ Chaumiane Productions, Filmstudio<br>
-
-_Assistant Directors:_ Charles L. Bitsch,  
-Jean-Paul Savignac<br>
-
-_2nd Assistant Directors:_ Hélène Kalouguine,  
-Jean-Pierre Léaud<br>
-
+_Assistant Directors:_ Charles L. Bitsch,  Jean-Paul Savignac<br>
+_2nd Assistant Directors:_ Hélène Kalouguine,  Jean-Pierre Léaud<br>
 _Creator of Lemmy Caution:_ Peter Cheyney<br>
-
 _Director of Photography:_ Raoul Coutard<br>
-
 _Props:_ Joseph Gerhard, Pierre Clauzel<br>
-
 _Costumers:_ Laurence Clairval, Yvonne Garetier
 
 _uncredited_<br>
-
 _Producer:_ André Michelin<br>
-
 _Production Manager:_ Philippe Dussart<br>
-
 _Unit Manager:_ Maurice Urbain<br>
-
 _Administration:_ Henry Dutrannoy<br>
-
 _Production Secretary:_ Jeanne-Marie Liron<br>
-
 _Trainee Director:_ Jacques Barzaghi<br>
-
 _Script Supervisor:_ Suzanne Schiffman<br>
-
 _Screenplay:_ Jean-Luc Godard<br>
-
 _Camera Operator:_ Georges Liron<br>
-
 _Camera Assistant:_ Jean Garcenót<br>
+_Key Grip:_ Bernard Largemains<br>
+_Supervising Gaffer:_ Fernand Coquet<br>
+_Stills:_ Marilù Parolini<br>
+_Editor:_ Agnès Guillemot<br>
+_Assistant Editor:_ Delphine Desfons<br>
+_Make-up:_ Jackie Reynal<br>
+_Hairstyles:_ Lionel<br>
+_Music:_ Paul Misraki<br>
+_Sound:_ René Levert<br>
 
-_Key Grip:_ Bernard Largemainsv
-
-_Supervising Gaffer:_ Fernand Coquet
-
-_Stills:_ Marilù Parolini
-
-_Editor:_ Agnès Guillemot
-
-_Assistant Editor:_ Delphine Desfons
-
-_Make-up:_ Jackie Reynal
-
-_Hairstyles:_ Lionel
-
-_Music:_ Paul Misraki
-
-_Sound:_ René Levert
-
-_Cast:_
-
-Eddie Constantine _(Lemmy Caution)_
-
-Anna Karina _(Natacha von Braun)_
-
+**Cast**<br>
+Eddie Constantine _(Lemmy Caution)_<br>
+Anna Karina _(Natacha von Braun)_<br>
 Akim Tamiroff _(Henri Dickson_)
 
-_uncredited_
-
-Howard Vernon _(Prof Léonard Nosfératu/von Braun)_
-
-László Szabó _(chief engineer)_
-
-Michel Delahaye _(Von Braun’s assistant)_
-
-Jean-André Fieschi _(Prof Heckell)_
-
-Jean-Louis Comolli _(Prof Jeckell)_
-
-Christa Lang
-
+_uncredited_<br>
+Howard Vernon _(Prof Léonard Nosfératu/von Braun)_<br>
+László Szabó _(chief engineer)_<br>
+Michel Delahaye _(Von Braun’s assistant)_<br>
+Jean-André Fieschi _(Prof Heckell)_<br>
+Jean-Louis Comolli _(Prof Jeckell)_<br>
+Christa Lang<br>
 Jean-Pierre Léaud
 
-France-Italy 1965
-
-99 mins
-
-Digital
+France-Italy 1965<br>
+99 mins<br>
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjA0NzcyNF19
+eyJoaXN0b3J5IjpbLTE4MTg2OTE4NDhdfQ==
 -->
