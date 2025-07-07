@@ -20,131 +20,96 @@ One aspect of the book slightly altered by Hodges was the character of Carter. �
 Because of its violent (not to mention sexual) content, the ﬁlm came in for inevitable criticism. ‘Mike Hodges did a great job on the picture. Maybe too great, since when it came out we were slammed by most critics for the violence,’ says Caine. ‘It was too realistic for people who had become used to the choreographed nonsense you usually saw in those days.’ Indeed, the American critic Pauline Kael described the ﬁlm as ‘virtuoso viciousness’, and even today it comes across as strong stuff.
 
 ‘I think that in its own way it was ahead of its time,’ prefers the director. ‘I remember Don Siegel seeing the ﬁlm and being completely stunned, because nothing quite like it had come out of Britain before. I think its quality inﬂuenced many other ﬁlms, too. You’d think that inﬂuence would destroy it, because it’s been seen so many times, but it just seems to grow in stature. It’s hard and ruthless, without a shadow of a doubt. At the time it probably appeared even more so, though we’ve had a lot of ﬁlms since which have been even more sadistic.’ Another reason for _Get_ _Carter_’s success is that it’s a cracking story, very well cast and perfectly told. It is the ultimate in hard-edged realism – and a production ﬁlmmakers should continue learning from for a long time to come.  
-Howard Maxford, _Film Review_, November 1997
+**Howard Maxford, _Film Review_, November 1997**
+<br><br>
 
-<![endif]-->
-
-**Get Carter**
-
-_Director:_ Mike Hodges
-
-_Production Company:_ Metro-Goldwyn-Mayer
-
-_Producer:_ Michael Klinger
-
-_Production Supervisor:_ Robert Sterne
-
-_Location Manager:_ Derek Gibson
-
-_Assistant Director:_ Keith Evans
-
-_Continuity:_ Doreen Dearnaley
-
-_Casting:_ Irene Lamb
-
-_Screenplay:_ Mike Hodges
-
-_From the novel_ Jack’s Return Home _by:_ Ted Lewis
-
-_Director of Photography:_ Wolfgang Suschitzky
-
-_Camera Operator:_ Dusty Miller
-
-_Stills Photography:_ Bob Penn
-
-_Special Effects:_ Jack Wallis
-
-_Editor:_ John Trumper
-
-_Production Designer:_ Assheton Gorton
-
-_Art Director:_ Roger King
-
-_Costume Designer:_ Vangie Harrison
-
-_Make-up:_ George Partleton
-
-_Hair:_ Allan McKeown
-
-_Music Composed/Played by:_ Roy Budd
-
-_Lyrics by:_ Jack Fishman
-
-_Sound Recording:_ Christian Wangler
-
-_Dubbing Mixer:_ Hugh Strain
-
-_Dubbing Editor:_ Jim Atkinson
-
-_Stunt Director:_ Johnny Morris
-
+**Get Carter**<br>
+_Director:_ Mike Hodges<br>
+_Production Company:_ Metro-Goldwyn-Mayer<br>
+_Producer:_ Michael Klinger<br>
+_Production Supervisor:_ Robert Sterne<br>
+_Location Manager:_ Derek Gibson<br>
+_Assistant Director:_ Keith Evans<br>
+_Continuity:_ Doreen Dearnaley<br>
+_Casting:_ Irene Lamb<br>
+_Screenplay:_ Mike Hodges<br>
+_From the novel_ Jack’s Return Home _by:_ Ted Lewis<br>
+_Director of Photography:_ Wolfgang Suschitzky<br>
+_Camera Operator:_ Dusty Miller<br>
+_Stills Photography:_ Bob Penn<br>
+_Special Effects:_ Jack Wallis<br>
+_Editor:_ John Trumper<br>
+_Production Designer:_ Assheton Gorton<br>
+_Art Director:_ Roger King<br>
+_Costume Designer:_ Vangie Harrison<br>
+_Make-up:_ George Partleton<br>
+_Hair:_ Allan McKeown<br>
+_Music Composed/Played by:_ Roy Budd<br>
+_Lyrics by:_ Jack Fishman<br>
+_Sound Recording:_ Christian Wangler<br>
+_Dubbing Mixer:_ Hugh Strain<br>
+_Dubbing Editor:_ Jim Atkinson<br>
+_Stunt Director:_ Johnny Morris<br>
 _Studio:_ Elstree Studios
 
-_Cast:_
+**Cast**<br>
+Michael Caine _(Jack Carter)_<br>
+Britt Ekland _(Anna Fletcher)_<br>
+John Osborne _(Cyril Kinnear)_<br>
+Ian Hendry _(Eric Paice)_<br>
+Bryan Mosley _(Cliff Brumby)_<br>
+Geraldine Moffat _(Glenda)_<br>
+Dorothy White _(Margaret)_<br>
+Alun Armstrong _(Keith)_<br>
 
-Michael Caine _(Jack Carter)_
+Glynn Edwards _(Albert Swift)_<br>
 
-Britt Ekland _(Anna Fletcher)_
+Tony Beckley _(Peter)_<br>
 
-John Osborne _(Cyril Kinnear)_
+George Sewell _(Con McCarty)_<br>
 
-Ian Hendry _(Eric Paice)_
+Rosemarie Dunham _(Edna Garfoot)_<br>
 
-Bryan Mosley _(Cliff Brumby)_
+Bernard Hepton _(Thorpe)_<br>
 
-Geraldine Moffat _(Glenda)_
+Petra Markham _(Doreen)_<br>
 
-Dorothy White _(Margaret)_
+Terence Rigby _(Gerald Fletcher)_<br>
 
-Alun Armstrong _(Keith)_
+Godfrey Quigley _(Eddie Appleyard)_<br>
 
-Glynn Edwards _(Albert Swift)_
+John Bindon _(Sid Fletcher)_<br>
 
-Tony Beckley _(Peter)_
+Kevin Brennan _(Harry)_<br>
 
-George Sewell _(Con McCarty)_
+Maxwell Rees _(vicar)_<br>
 
-Rosemarie Dunham _(Edna Garfoot)_
+Liz McKenzie _(Mrs Brumby)_<br>
 
-Bernard Hepton _(Thorpe)_
+John Hussey, Ben Aris _(architects)_<br>
 
-Petra Markham _(Doreen)_
+Kitty Attwood _(old woman)_<br>
 
-Terence Rigby _(Gerald Fletcher)_
+Denea Wilde _(pub singer)_<br>
 
-Godfrey Quigley _(Eddie Appleyard)_
-
-John Bindon _(Sid Fletcher)_
-
-Kevin Brennan _(Harry)_
-
-Maxwell Rees _(vicar)_
-
-Liz McKenzie _(Mrs Brumby)_
-
-John Hussey, Ben Aris _(architects)_
-
-Kitty Attwood _(old woman)_
-
-Denea Wilde _(pub singer)_
-
-Geraldine Sherman _(girl in café)_
+Geraldine Sherman _(girl in café)_<br>
 
 Joy Merlyn, Yvonne Michaels
 
-_(women in post office)_
+_(women in post office)_<br>
 
-Alan Hockey _(scrap dealer)_
+Alan Hockey _(scrap dealer)_<br>
 
 Carl Howard _(‘J’)_
 
-USA 1971
+USA 1971<br>
 
-112 mins
+112 mins<br>
 
 Digital 4K
 
-Moviedrome transmission date: 20 May 1990
+Moviedrome transmission date: 20 May 1990<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MDE1NjIwXX0=
+eyJoaXN0b3J5IjpbMTc3ODU3NDA3M119
 -->
