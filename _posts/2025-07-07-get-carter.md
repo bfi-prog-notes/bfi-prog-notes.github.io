@@ -61,55 +61,32 @@ Bryan Mosley _(Cliff Brumby)_<br>
 Geraldine Moffat _(Glenda)_<br>
 Dorothy White _(Margaret)_<br>
 Alun Armstrong _(Keith)_<br>
-
 Glynn Edwards _(Albert Swift)_<br>
-
 Tony Beckley _(Peter)_<br>
-
 George Sewell _(Con McCarty)_<br>
-
 Rosemarie Dunham _(Edna Garfoot)_<br>
-
 Bernard Hepton _(Thorpe)_<br>
-
 Petra Markham _(Doreen)_<br>
-
 Terence Rigby _(Gerald Fletcher)_<br>
-
 Godfrey Quigley _(Eddie Appleyard)_<br>
-
 John Bindon _(Sid Fletcher)_<br>
-
 Kevin Brennan _(Harry)_<br>
-
 Maxwell Rees _(vicar)_<br>
-
 Liz McKenzie _(Mrs Brumby)_<br>
-
 John Hussey, Ben Aris _(architects)_<br>
-
 Kitty Attwood _(old woman)_<br>
-
 Denea Wilde _(pub singer)_<br>
-
 Geraldine Sherman _(girl in café)_<br>
-
-Joy Merlyn, Yvonne Michaels
-
-_(women in post office)_<br>
-
+Joy Merlyn, Yvonne Michaels _(women in post office)_<br>
 Alan Hockey _(scrap dealer)_<br>
-
 Carl Howard _(‘J’)_
 
 USA 1971<br>
-
 112 mins<br>
-
 Digital 4K
 
 Moviedrome transmission date: 20 May 1990<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODU3NDA3M119
+eyJoaXN0b3J5IjpbMTY0MTU4NTU3MV19
 -->
