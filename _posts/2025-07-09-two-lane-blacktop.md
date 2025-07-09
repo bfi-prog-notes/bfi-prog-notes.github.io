@@ -20,8 +20,7 @@ The fact is that I’ve never been presented with a script I liked. Here I liked
 
 _What intrigued you about [Rudy] Wurlitzer’s writing?_
 
-I liked his sense of humour. He was extremely funny. I think all my scripts  
-are funny.
+I liked his sense of humour. He was extremely funny. I think all my scripts are funny.
 
 _What were you after in this film?_
 
@@ -35,7 +34,7 @@ _Would you describe_ Blacktop _as a love story? Who loves whom?_
 
 I always felt it was a love story. The girl loves the driver; the mechanic loves the girl and the driver, and he can’t decide between them and can’t accept his love for either. And the driver wants to love the girl, but can’t.
 
-_I’ve always felt there was a profound absence of love in_ Blacktop_…_
+_I’ve always felt there was a profound absence of love in_ Blacktop _…_
 
 Well, I’ve expressed these things to Rudy, but I don’t know if he wrote exactly that story ... Maybe audiences will see it differently, too. But I’ve always seen the driver as the same sort of character that Aznavour plays in _Tirez sur le pianiste_. He appeals to me too. It’s a guy who is so involved with his own existential dilemma, just dealing with himself as a person, that he throws away the thing he wants most, which is love. He can’t deal with those needs in time, and that becomes his tragedy.
 
@@ -49,16 +48,12 @@ G.T.O. is time ... God, that sounds pretentious. Look, I’m evolving, I’m get
 
 There is a confusion in people’s minds about what the essential elements of a movie are. We create ‘genres’ – the road picture, the melodrama, the Western ... I don’t think those are good categories. Certain movies are made over and over again, each through a different director’s vision. The prototypes for _Blacktop_ are Minnelli’s _The Clock_, Lelouch’s _Un homme et une femme_, Nichols’ _The Graduate_, Wilder’s _The Apartment_. They are all the same story, told against a different background.
 
-Interview by Beverly Walker, _Sight and Sound_, Winter 1970-71
+**Interview by Beverly Walker, _Sight and Sound_, Winter 1970-71**
+<br><br>
 
-<![endif]-->
-
-**Two-Lane Blacktop**
-
+**Two-Lane Blacktop**  
 _Directed by:_ Monte Hellman  
-©_/Production Companies:_ Universal Pictures,
-
-Michael S. Laughlin Enterprises  
+©_/Production Companies:_ Universal Pictures, Michael S. Laughlin Enterprises  
 _Produced by:_ Michael Laughlin  
 _Assistant to the Producer:_ Lee Wenner  
 _Associate Producer:_ Gary Kurtz  
@@ -71,8 +66,7 @@ _Story by:_ Will Corry
 _Director of Photography:_ Jack Deerson  
 _Photography Adviser:_ Gregory Sandor  
 _Editor:_ Monte Hellman  
-_Custom Auto Design and Constructions:_  
-Richard Ruth, William Kincheloe, H. Alan Deglin  
+_Custom Auto Design and Constructions:_  Richard Ruth, William Kincheloe, H. Alan Deglin  
 _Costumes:_ Richard Bruno  
 _Title Design:_ Marion Sampler  
 _Titles:_ Universal Title  
@@ -80,8 +74,8 @@ _Music Supervisor:_ Billy James
 _Music Editor:_ Synchrofilm  
 _Sound:_ Edit-Rite, Inc  
 _Technical Adviser:_ Jay Wheatley  
-_Cast:_
 
+**Cast**  
 James Taylor _(the driver)_  
 Warren Oates _(G.T.O.)_  
 Laurie Bird _(the girl)_  
@@ -106,13 +100,13 @@ Jim Mitcham _(2nd man at race track)_
 Kreag Caffey _(boy with motorcycle)_  
 Tom Witenbarger _(pick-up driver)_  
 Glen Rogers _(soldier)_  
-USA 1971©
 
-102 mins
-
+USA 1971©  
+102 mins  
 Digital
 
 Moviedrome transmission date: 6 August 1989
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2Mjk2OThdfQ==
+eyJoaXN0b3J5IjpbMTgzNDE3NTA3N119
 -->
