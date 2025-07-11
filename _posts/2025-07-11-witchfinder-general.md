@@ -31,141 +31,108 @@ Throughout the whole film there is a vivid sense of a time out of joint, which c
 <br><br>
 
 **Witchfinder General**<br>
-
 _Director:_ Michael Reeves<br>
-
-©_/Production Company:_  
-Tigon British Productions Ltd.<br>
-
+©_/Production Company:_  Tigon British Productions Ltd.<br>
 _Executive Producer:_ Tony Tenser<br>
-
 _Producer:_ Arnold Louis Miller<br>
+_Co-producer:_ Louis M. Heyward<br>
+_Associate Producer:_ Philip Waddilove<br>
+_Production Manager:_ Ricky Coward<br>
+_Assistant Director:_ Ian Goddard<br>
+_Continuity:_ Lorna Selwyn<br>
+_Screenplay:_ Michael Reeves, Tom Baker<br>
+_Additional Scenes:_ Louis M. Heyward<br>
+_Based on the novel by:_ Ronald Bassett<br>
+_Director of Photography:_ John Coquillon<br>
+_Grips:_ Freddie Williams<br>
+_Special Effects:_ Roger Dicken<br>
+_Editor:_ Howard Lanning<br>
+_Art Director:_ Jim Morahan<br>
+_Set Decorator:_ Andrew Low<br>
+_Wardrobe:_ Jill Thompson<br>
+_Make-up:_ Dore Hamilton<br>
+_Music Composed and Conducted by:_ Paul Ferris<br>
+_Theme Song:_ Gerry Langley *<br>
+_Sound:_ Paul LeMare<br>
 
-_Co-producer:_ Louis M. Heyward
+**Cast**<br>
+Vincent Price _(Matthew Hopkins)_<br>
+Ian Ogilvy _(Richard Marshall)_<br>
+Nicky Henson _(Trooper Swallow)_<br>
+Robert Russell _(John Stearne)_<br>
+Hilary Dwyer _(Sara)_<br>
+Tony Selby _(Salter)_<br>
+Michael Beint _(Captain Gordon)_<br>
+Bernard Kay _(fisherman)_<br>
+John Treneman _(Trooper Harcourt)_<br>
+Bill Maxwell _(Trooper Gifford)_<br>
+Peter Thomas _(farrier)_<br>
+Maggie Kimberley _(Elizabeth Clark)_<br>
 
-_Associate Producer:_ Philip Waddilove
+Dennis Thorne _(villager)_<br>
 
-_Production Manager:_ Ricky Coward
+Ann Tirard _(second old woman)_<br>
 
-_Assistant Director:_ Ian Goddard
+Gillian Aldham _(young woman in cell)_<br>
 
-_Continuity:_ Lorna Selwyn
+Hira Talfrey _(first old woman)_<br>
 
-_Screenplay:_ Michael Reeves, Tom Baker
+Jack Lynn _(first innkeeper)_<br>
 
-_Additional Scenes:_ Louis M. Heyward
+Michael Segal _(villager)_<br>
 
-_Based on the novel by:_ Ronald Bassett
+David Webb _(jailer)_<br>
 
-_Director of Photography:_ John Coquillon
+Sally Douglas _(wench in inn)_<br>
 
-_Grips:_ Freddie Williams
+Edward Palmer _(shepherd)_<br>
 
-_Special Effects:_ Roger Dicken
+Lee Peters _(infantry sergeant)_<br>
 
-_Editor:_ Howard Lanning
+Peter Haigh _(Lavenham magistrate)_<br>
 
-_Art Director:_ Jim Morahan
+Godfrey James _(Webb)_<br>
 
-_Set Decorator:_ Andrew Low
+Margaret Nolan _(wench in inn)_<br>
 
-_Wardrobe:_ Jill Thompson
+Philip Waddilove<br>
 
-_Make-up:_ Dore Hamilton
+Toby Lennon _(old man)_<br>
 
-_Music Composed and Conducted by:_ Paul Ferris
+Morris Jar _(Paul, young husband)_<br>
 
-_Theme Song:_ Gerry Langley *
+David Lyell _(foot soldier)_<br>
 
-_Sound:_ Paul LeMare
+Alf Joint _(sentry)_<br>
 
-_Cast:_
+Martin Terry _(second innkeeper)_<br>
 
-Vincent Price _(Matthew Hopkins)_
+John Kidd _(first magistrate)_<br>
 
-Ian Ogilvy _(Richard Marshall)_
+Rupert Davies _(John Lowes)_<br>
 
-Nicky Henson _(Trooper Swallow)_
+Patrick Wymark _(Oliver Cromwell)_<br>
 
-Robert Russell _(John Stearne)_
+Wilfred Brambell _(Master Loach)_<br>
 
-Hilary Dwyer _(Sara)_
+Paul Dawkins _(farmer)_<br>
 
-Tony Selby _(Salter)_
+Tasma Brereton, Sandy Seager _(wenches in inn)_<br>
 
-Michael Beint _(Captain Gordon)_
+Beaufoy Milton _(priest)_<br>
 
-Bernard Kay _(fisherman)_
+Donna Reading _(wench in inn)_<br>
 
-John Treneman _(Trooper Harcourt)_
+UK 1968©<br>
+86 mins<br>
+Digital
 
-Bill Maxwell _(Trooper Gifford)_
-
-Peter Thomas _(farrier)_
-
-Maggie Kimberley _(Elizabeth Clark)_
-
-Dennis Thorne _(villager)_
-
-Ann Tirard _(second old woman)_
-
-Gillian Aldham _(young woman in cell)_
-
-Hira Talfrey _(first old woman)_
-
-Jack Lynn _(first innkeeper)_
-
-Michael Segal _(villager)_
-
-David Webb _(jailer)_
-
-Sally Douglas _(wench in inn)_
-
-Edward Palmer _(shepherd)_
-
-Lee Peters _(infantry sergeant)_
-
-Peter Haigh _(Lavenham magistrate)_
-
-Godfrey James _(Webb)_
-
-Margaret Nolan _(wench in inn)_
-
-Philip Waddilove
-
-Toby Lennon _(old man)_
-
-Morris Jar _(Paul, young husband)_
-
-David Lyell _(foot soldier)_
-
-Alf Joint _(sentry)_
-
-Martin Terry _(second innkeeper)_
-
-John Kidd _(first magistrate)_
-
-Rupert Davies _(John Lowes)_
-
-Patrick Wymark _(Oliver Cromwell)_
-
-Wilfred Brambell _(Master Loach)_
-
-Paul Dawkins _(farmer)_
-
-Tasma Brereton, Sandy Seager _(wenches in inn)_
-
-Beaufoy Milton _(priest)_
-
-Donna Reading _(wench in inn)_
-
-UK 1968©  86 mins  Digital
-
-* Uncredited
+*Uncredited
 
 Moviedrome transmission date: 27 July 1992
 
 The screening on Fri 11 Jul will be introduced by Reece Shearsmith
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTg2OTE2Nl19
+eyJoaXN0b3J5IjpbMTUyMDE5NTE4XX0=
 -->
