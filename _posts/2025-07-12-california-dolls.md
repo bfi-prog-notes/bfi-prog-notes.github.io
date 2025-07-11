@@ -28,12 +28,10 @@ But one suspects that there is more than a socialist-realist (or back-to-grass-r
 Interesting also is a kind of subtext in this final bout, to do with diversification in adversity and Hollywood’s own industrial base, since the luxury into which Harry finally transports his girls is represented by the MGM Grand Hotel. The old MGM logo of the roaring lion fronts _...All the Marbles_; but the new stylised version is part of the décor in the Reno arena. In other respects, there are many signs of the old Aldrich – most regrettably in the fact that it doesn’t seem to make too much difference that the sporting heroes here are women (despite Harry’s statutory involvement with Iris, and the latter casually prostituting herself to Eddie Cisco to save the day). By a quick feminist tally, there is only one significant scene which the female duo has together apart from Harry, and there is a curious nullity about all the scenes which try to establish an abrasive buddy relationship between the three  of them.
 
 Aldrichian cynicism quite nicely bolsters the mood of a getting-by road movie, particularly in the scene where Harry finally puts together a substantial stake at the gaming table, then casually waylays the hoods who have been sent after him and adds their wallets to his winnings. _...All the Marbles_ is probably what is usually referred to as a transitional movie, but is often exhilaratingly so. Not least of the pleasures of its self-consciousness is its humour, especially in the way it clinches the connection with _The Big Knife_ (and puts the problem of survival on a more mundane level) through Harry’s frequent reference to that film’s original author.  ‘As Clifford Odets would say,’ he observes at the end of some incidental tale of woe, ‘it’s better than sticking a pencil in your eye.’  
-Richard Combs, _Monthly Film Bulletin_, December 1981
+**Richard Combs, _Monthly Film Bulletin_, December 1981**
+<br><br>
 
-<![endif]-->
-
-**The California Dolls (aka …All the Marbles)**
-
+**The California Dolls (aka …All the Marbles)**  
 _Director_: Robert Aldrich  
 _Production Companies_: The Aldrich Company, Metro-Goldwyn-Mayer  
 _Producer_: William Aldrich  
@@ -42,8 +40,7 @@ _Production Associate_: Eric Schwab
 _Production Manager_: Eddie Saeta  
 _Location Manager_: Lynn Kuwahara  
 _2nd Unit Director_: Adell Aldrich  
-_Assistant Directors_: Tom McCrory, Charles Myers, Robert Shue, Paul Moen, Kevin Finnegan,  
-Richard Allen, Michael Looney  
+_Assistant Directors_: Tom McCrory, Charles Myers, Robert Shue, Paul Moen, Kevin Finnegan,  Richard Allen, Michael Looney  
 _Screenplay_: Mel Frohman  
 _Director of Photography_: Joseph Biroc  
 _2nd Unit Photographer_: Bill Birch  
@@ -56,8 +53,7 @@ _Art Director_: B.B. Neel
 _Set Decorator_: Stuart Reiss  
 _Special Costume Design_: Bob Mackie  
 _Men’s Costumes_: Charles E. James  
-_Women’s Costumes_: Vou Lee Giokaris,  
-Charmaine Simmons  
+_Women’s Costumes_: Vou Lee Giokaris,  Charmaine Simmons  
 _Make-up_: Bill Turner  
 _Special Sequence Hairstyles_: Sydney Guilaroff  
 _Title Design_: Walter Blake  
@@ -68,15 +64,14 @@ _Music Supervisor_: Harry V. Lojewski
 _Music Editor_: Joe Tuley  
 _Choreography_: Kathryn Doby  
 _Sound Recording_: Richard Church  
-_Sound Re-recording_: Michael J. Kohut,  
-Jay M. Harding, Frank Reale  
+_Sound Re-recording_: Michael J. Kohut,  Jay M. Harding, Frank Reale  
 _Sound Editing_: New Creative Sound  
 _Dialogue Editor_: Rich Steven  
 _Stunt Co-ordinator_: Mickey Gilbert  
 _Wrestling Sequences Adviser_: Mildred Burke  
 _Wrestling Trainers_: Marlene Petrilli, Pedro Serrano, Adolfo Plascencia, Gustavo Torres, Karen McKay  
-_Cast:_
 
+**Cast**  
 Peter Falk _(Harry Sears)_  
 Vicki Frederick _(Iris)_  
 Laurene Landon _(Molly)_  
@@ -112,8 +107,7 @@ Don Brodie _(Reno timekeeper)_
 Lennie Bremen _(no-name promoter)_  
 Gloria Hayes _(Jerome’s girlfriend)_  
 Perry Cook _(doctor)_  
-Charles Anderson, Randy McClane,  
-Ray Homesley, Steve White _(bodybuilders)_  
+Charles Anderson, Randy McClane,  Ray Homesley, Steve White _(bodybuilders)_  
 Cosmo Sardo _(barber)_  
 Ernie Fuentes _(man with dice)_  
 Johnnie Decker _(warehouse box man)_  
@@ -124,15 +118,14 @@ Chuck Hicks, Gary R. McLarty _(thugs)_
 Joseph Margo _(service station attendant)_  
 Ivan Ditmars _(organist)_
 
-USA 1981
-
-112 mins
-
+USA 1981  
+112 mins  
 35mm
 
 A BFI National Archive print
 
 Moviedrome transmission date: 11 June 1989
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzAwMTQyN119
+eyJoaXN0b3J5IjpbNjMwMzAyNjUwXX0=
 -->
