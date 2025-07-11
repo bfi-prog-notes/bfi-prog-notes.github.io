@@ -68,59 +68,32 @@ John Treneman _(Trooper Harcourt)_<br>
 Bill Maxwell _(Trooper Gifford)_<br>
 Peter Thomas _(farrier)_<br>
 Maggie Kimberley _(Elizabeth Clark)_<br>
-
 Dennis Thorne _(villager)_<br>
-
 Ann Tirard _(second old woman)_<br>
-
 Gillian Aldham _(young woman in cell)_<br>
-
 Hira Talfrey _(first old woman)_<br>
-
 Jack Lynn _(first innkeeper)_<br>
-
 Michael Segal _(villager)_<br>
-
 David Webb _(jailer)_<br>
-
 Sally Douglas _(wench in inn)_<br>
-
 Edward Palmer _(shepherd)_<br>
-
 Lee Peters _(infantry sergeant)_<br>
-
 Peter Haigh _(Lavenham magistrate)_<br>
-
 Godfrey James _(Webb)_<br>
-
 Margaret Nolan _(wench in inn)_<br>
-
 Philip Waddilove<br>
-
 Toby Lennon _(old man)_<br>
-
 Morris Jar _(Paul, young husband)_<br>
-
 David Lyell _(foot soldier)_<br>
-
 Alf Joint _(sentry)_<br>
-
 Martin Terry _(second innkeeper)_<br>
-
 John Kidd _(first magistrate)_<br>
-
 Rupert Davies _(John Lowes)_<br>
-
 Patrick Wymark _(Oliver Cromwell)_<br>
-
 Wilfred Brambell _(Master Loach)_<br>
-
 Paul Dawkins _(farmer)_<br>
-
 Tasma Brereton, Sandy Seager _(wenches in inn)_<br>
-
 Beaufoy Milton _(priest)_<br>
-
 Donna Reading _(wench in inn)_<br>
 
 UK 1968©<br>
@@ -134,5 +107,5 @@ Moviedrome transmission date: 27 July 1992
 The screening on Fri 11 Jul will be introduced by Reece Shearsmith
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDE5NTE4XX0=
+eyJoaXN0b3J5IjpbMzE4NTE5NzZdfQ==
 -->
