@@ -115,13 +115,10 @@ Selwyn Emerson Miller _(Hot Traxx DJ)_
 Jamielyn Gamboa _(Colonel’s Hot Traxx girlfriend)_  
 Melissa Spell _(Becky’s girlfriend)_  
 Raymond Laboriel _(Becky’s girlfriend’s friend)_  
-Jon Brion_,_ Brian Kehew_,_ Robin Sharp_,_
-
-Audrey Wiechman _(awards ceremony band)_  
+Jon Brion, Brian Kehew, Robin Sharp, Audrey Wiechman _(awards ceremony band)_  
 Tim ‘Stuffy’ Soronen _(Raphael)_  
-Alexander D. Slanger_,_ Thomas Lenk_  
-(Floyd’s kids, boys)_  
-Lexi Leigh_,_ Laura Gronewald _(Floyd’s kids, girls)_  
+Alexander D. Slanger, Thomas Lenk _(Floyd’s kids, boys)_  
+Lexi Leigh, Laura Gronewald _(Floyd’s kids, girls)_  
 Vernon Guichard II _(Mugsy Jack’s bartender)_  
 Tony Tedeschi _(New Year’s Eve young stud)_  
 Leslie Redden _(KC Sunshine)_  
@@ -133,19 +130,16 @@ Robert Downey Sr. (a Prince) _(Burt, studio manager)_
 Veronica Hart _(judge)_  
 Jack Riley _(lawyer)_  
 Cannon Roe _(surfer)_  
-Mike Gunther_,_ Michael Raye Smith_,_Michael Scott Stencil _(surfer punks)_  
+Mike Gunther, Michael Raye Smith, Michael Scott Stencil _(surfer punks)_  
 Dustin Courtney _(donut boy)_  
 Allan Graf _(man with gun)_  
 José Chaidez _(Puerto Rican kid)_  
 B. Philly Johnson _(Rahad’s bodyguard)_  
 Joe G.M. Chan _(Cosmo, Rahad’s boy)_  
 Goliath _(Tyrone)_  
-Israel Juarbe_,_ Gregory Anthony Rae_  
-(Maurice’s brothers)_  
+Israel Juarbe, Gregory Anthony Rae _(Maurice’s brothers)_  
 Eric Winzenried _(doctor)_  
-Sharon Ferrol_,_ Anne Fletcher_,_ Scott Fowler_,_ Melanie A. Gage_,_ Eddie Garcia_,_ Sebastian La Cause_,_ Lance MacDonald_,_ Diane Mizota_,_ Nathan Frederic Prevost_,_
-
-Lisa E. Ratzin_,_ Dee Dee Weathers_,_ Darrel W. Wright _(Hot Traxx dancers)_
+Sharon Ferrol, Anne Fletcher, Scott Fowler_,_ Melanie A. Gage_,_ Eddie Garcia_,_ Sebastian La Cause_,_ Lance MacDonald_,_ Diane Mizota_,_ Nathan Frederic Prevost, Lisa E. Ratzin, Dee Dee Weathers, Darrel W. Wright _(Hot Traxx dancers)_
 
 USA 1997
 
@@ -153,5 +147,5 @@ USA 1997
 
 35mm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY5MzM1NzNdfQ==
+eyJoaXN0b3J5IjpbLTExMTMzNzIyOTVdfQ==
 -->
