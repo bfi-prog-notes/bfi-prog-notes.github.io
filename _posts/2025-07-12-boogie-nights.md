@@ -139,13 +139,12 @@ Joe G.M. Chan _(Cosmo, Rahad’s boy)_
 Goliath _(Tyrone)_  
 Israel Juarbe, Gregory Anthony Rae _(Maurice’s brothers)_  
 Eric Winzenried _(doctor)_  
-Sharon Ferrol, Anne Fletcher, Scott Fowler_,_ Melanie A. Gage_,_ Eddie Garcia_,_ Sebastian La Cause_,_ Lance MacDonald_,_ Diane Mizota_,_ Nathan Frederic Prevost, Lisa E. Ratzin, Dee Dee Weathers, Darrel W. Wright _(Hot Traxx dancers)_
+Sharon Ferrol, Anne Fletcher, Scott Fowler, Melanie A. Gage, Eddie Garcia, Sebastian La Cause, Lance MacDonald, Diane Mizota, Nathan Frederic Prevost, Lisa E. Ratzin, Dee Dee Weathers, Darrel W. Wright _(Hot Traxx dancers)_
 
-USA 1997
-
-156 mins
-
+USA 1997  
+156 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMzNzIyOTVdfQ==
+eyJoaXN0b3J5IjpbLTg5ODgxMDk2OV19
 -->
