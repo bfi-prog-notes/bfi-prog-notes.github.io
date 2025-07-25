@@ -72,8 +72,8 @@ _Music Recorded/Mixed by_: Stéphane Reichard
 _Recorder_: Pascal Von Hatten  
 _Re-recording Mixer_: Jean-Pierre Laforce  
 _Sound Editor_: Benoît Hillebrant  
-_Cast:_
 
+**Cast**  
 Charlotte Rampling _(Sarah Morton)_  
 Ludivine Sagnier _(Julie)_  
 Charles Dance _(John Bosload)_  
@@ -91,11 +91,10 @@ Keith Yeates _(Sarah’s father)_
 Tricia Aileen _(John Bosload’s secretary)_  
 Glen Davies _(pub barman)_
 
-France-UK 2002©
-
-103 mins
-
+France-UK 2002©  
+103 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTIxNjE1XX0=
+eyJoaXN0b3J5IjpbLTE4NzYwNDk4MzFdfQ==
 -->
