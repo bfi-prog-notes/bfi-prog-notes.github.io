@@ -23,105 +23,57 @@ USA 1979
 Video
 
 **Being There**<br>
-
 _Directed by:_ Hal Ashby<br>
-
 ©: Lorimar Film-und Fernsehproduktion GmbH<br>
-
 _Production Company:_ North Star International<br>
-
-_Made in association with:_  
-CIP-Europäische Treuhand<br>
-
+_Made in association with:_  CIP-Europäische Treuhand<br>
 _Presented by_: Lorimar Productions Inc.<br>
-
 _Executive Producer:_ Jack Schwartzman<br>
-
 _Produced by:_ Andrew Braunsberg<br>
-
 _Associate Producer:_ Charles B. Mulvehill<br>
-
 _Location Manager:_ Spencer Quinn<br>
-
 _1st Assistant Director:_ David S. Hamburger<br>
-
 _Script Supervisor:_ Edle Bakke<br>
-
 _Casting:_ Lynn Stalmaster<br>
-
 _Screenplay by:_ Jerzy Kosinski<br>
-
-_Based on the novel by: J_erzy Kosinski<br>
-
+_Based on the novel by:_ Jerzy Kosinski<br>
 _Director of Photography:_ Caleb Deschanel<br>
-
 _Camera Operator:_ Nick McLean<br>
-
-_Gary Burns Show Video Segment Directed by_:
-
-Don Mischer<br>
-
+_Gary Burns Show Video Segment Directed by_: Don Mischer<br>
 _Special Photography:_ Dianne Schroeder<br>
-
 _Editor:_ Don Zimmerman<br>
-
 _Editorial Consultant:_ Mireille Machu<br>
-
 _Production Designer:_ Michael Haller<br>
-
 _Art Director:_ James Schoppe<br>
-
 _Costumes Designed by:_ May Routh<br>
-
 _Peter Sellers’ Make-up:_ Charles Schram<br>
-
 _Shirley MacLaine’s Make-up:_ Frank Westmore<br>
-
 _Peter Sellers’ Hairstylist:_ Vivienne Walker<br>
-
 _Shirley MacLaine’s Hairstylist:_ Edie Panda<br>
-
 _Titles Designed by:_ Pablo Ferro<br>
-
 _Music:_ Johnny Mandel<br>
-
 _Production Sound Mixer:_ Jeff Wexler<br>
+_Re-recording Mixers:_ Donald O. Mitchell, Rick Kline, Bill Nicholson<br>
 
-_Re-recording Mixers:_ Donald O. Mitchell,
-
-Rick Kline, Bill Nicholson<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Peter Sellers _(Chance)_<br>
-
 Shirley MacLaine _(Eve Rand)_<br>
-
 Melvyn Douglas _(Benjamin Turnbull Rand)_<br>
-
 Jack Warden _(‘Bobby’, the president)_<br>
-
-Richard Dysart _(Dr Robert Allenby)_
-
-Richard Basehart _(Vladimir Skrapinov)_
-
-Ruth Attaway _(Louise)_
-
-David Clennon _(Thomas Franklin)_
-
-Fran Brill _(Sally Hayes)_
-
-Denise Dubarry _(Johanna)_
-
+Richard Dysart _(Dr Robert Allenby)_<br>
+Richard Basehart _(Vladimir Skrapinov)_<br>
+Ruth Attaway _(Louise)_<br>
+David Clennon _(Thomas Franklin)_<br>
+Fran Brill _(Sally Hayes)_<br>
+Denise Dubarry _(Johanna)_<br>
 Hal Ashby _(man in_ Washington Post _office) *_
 
-USA-Germany 1979©
+USA-Germany 1979©<br>
+130 mins<br>
+Digital<br>
 
-130 mins
-
-Digital
-
-* Uncredited
+* Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcxODMxOTFdfQ==
+eyJoaXN0b3J5IjpbMTA3MTE5MjM1OV19
 -->
