@@ -37,15 +37,13 @@ _Hairstylist:_ Peggy Gray
 _Music:_ Victor Young  
 _Song ‘Johnny Guitar’ by:_ Peggy Lee,  Victor Young; _Sung by:_ Peggy Lee  
 _Sound:_ T.A. Carman, Howard Wilson  
-_Stunt Double for Mercedes McCambridge:_
-
-Helen Griffith *  
+_Stunt Double for Mercedes McCambridge:_ Helen Griffith *  
 _Stunt Double for Scott Brady:_ Bob Folkerson *  
 _Stunt Double for Sterling Hayden:_ Pete Kellett *  
 _Stunt Double for Ernest Borgnine:_ Forrest Burns *  
 _Stunt Double for Ward Bond:_ Rocky Shahan *  
-_Cast:_
 
+**Cast**  
 Joan Crawford _(Vienna)_  
 Sterling Hayden _(Johnny Guitar)_  
 Mercedes McCambridge _(Emma Small)_  
@@ -66,18 +64,17 @@ Frank Marlowe _(Frank)_ *
 Trevor Bardette _(Jenks)_ *  
 Sumner Williams, Sheb Wooley,  
 Denver Pyle, Clem Harvey, Jack Ingram _(posse)_ *  
-USA 1954©
 
-109 mins
-
+USA 1954©  
+109 mins  
 Digital 4K
 
-* Uncredited
+*Uncredited
 
 Moviedrome transmission dates:  
-10 July 1988
-
+10 July 1988  
 12 June 1999
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjM0NDczOV19
+eyJoaXN0b3J5IjpbLTE0NTU2NTYzMTddfQ==
 -->
