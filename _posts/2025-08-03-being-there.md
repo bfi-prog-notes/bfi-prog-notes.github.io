@@ -1,3 +1,14 @@
+---
+layout: post
+title: Being There
+published: true
+date: 2025-08-03
+readtime: true
+categories: ['In Character<br>The Films of Peter Sellers']
+tags: [Comedy, Drama]
+metadata: 'USA-Germany 1979, 130 mins<br> Director: Hal Ashby'
+pdf: '2025-08-03-being-there.pdf'
+---
 
 If the perfect fool of Jerzy Kosinski’s _Being There_, who seems to rise by sheer weightlessness to the highest office in the land, has a predecessor in the comic literature of the United States, it is probably the billionaire prankster of Terry Southern’s _The Magic Christian_. Southern’s Guy Grand and Kosinski’s Chance (‘Chauncey Gardiner’) are ostensibly as different as night and day, but what they exemplify, in respectively active and passive fashion, is the gullibility of the public and the fallibility of its egalitarian doctrine that any man can be President – and/or rich, powerful and famous. The grand-daddy of them both, perhaps, is the Great Gatsby – the romantic apotheosis of the myth of the man who came from nowhere to make it big, but who remains an enigma, a blank, the man who has everything but the one thing he wants (which is where the movies, and _Citizen Kane_, come in).
 
@@ -74,6 +85,30 @@ Digital<br>
 
 * Uncredited<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA3MTE5MjM1OV19
 -->
