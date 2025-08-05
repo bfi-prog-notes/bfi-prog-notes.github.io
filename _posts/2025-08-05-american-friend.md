@@ -9,6 +9,7 @@ The movement of the film is governed by his dual attraction to Jonathan as, on t
 
 Ripley’s ‘I know less and less about who I am or who anybody else is’ becomes less and less true of himself as he discovers Jonathan (and through him, himself), but more and more true of Jonathan as he becomes increasingly estranged from his familiar and familial security. Moving, together from diametrically opposed positions, the two men in fact momentarily become one before moving apart again. At one point, indeed (although Wenders apparently denies having cast Dennis Hopper and Bruno Ganz for any physical resemblance), a shot of Hopper gives one the illusion that one is seeing Ganz. But even if this is purely an illusion in the eye of the beholder, the same point is unmistakably hinted at by other means: by the magic lantern whose single image distorts to two as Jonathan fiddles with the lens; by the toy Ripley gives to Jonathan, in which two superimposed images become one; above all by the matching shots of Jonathan and Ripley in the former’s workshop, with Jonathan squaring up a picture-frame and holding it so that it frames him diagonally, while Ripley (half a man trying to become whole like Jonathan) later unconsciously repeats the identical gesture with half of a broken frame.  
 **Tom Milne, _Monthly Film Bulletin_, January 1978**
+<br>
 
 **Wim Wenders on ‘The American Friend’**
 
@@ -24,46 +25,29 @@ _When you started shooting, you saw the film as Jonathan’s story. Yet besides 
 
 I think he’s still a very amoral person in the film. But maybe he’s more charming. I think Dennis is perhaps not the Tom Ripley of _Ripley’s Game_, but he has a lot of the Tom Ripley of _The Talented Mr. Ripley_. Not that I think his character is so different from the novel. He may start differently, but his ruthlessness at the end… I think Dennis is as immoral in his own way as Highsmith’s Ripley. Nevertheless, you can never reproach him with anything because of his incredible charm. And that’s Ripley, isn’t it?
 
-Interview by Jan Dawson, _Sight and Sound_, Winter 1977/8
+**Interview by Jan Dawson, _Sight and Sound_, Winter 1977/8**
+<br><br>
 
-<![endif]-->
-
-**The American Friend** Der Amerikanische Freund
-
+**The American Friend** Der Amerikanische Freund  
 _Director:_ Wim Wenders  
-©_/Production Company:_  
-Road Movies Filmproduktion GmbH  
-_Production Companies:_  
-Wim Wenders Filmproduktion,
-
-Les Films du Losange (Paris),
-
-Westdeutscher Rundfunk  
+©_/Production Company:_  Road Movies Filmproduktion GmbH  
+_Production Companies:_  Wim Wenders Filmproduktion, Les Films du Losange (Paris), Westdeutscher Rundfunk  
 _Executive Producer:_ Renée Gundelach  
 _Executive Producer (France):_ Margaret Ménégoz  
 _Associate Producer:_ Joachim von Mengershausen  
 _Production Supervisor:_ Renee Otto-Gundelach  
-_Production Accountants:_ Anna Povel,  
-Claude Bertonazzi  
-_Production Managers:_ Michael Wiedemann,  
-Pierre Cottrell  
+_Production Accountants:_ Anna Povel,  Claude Bertonazzi  
+_Production Managers:_ Michael Wiedemann,  Pierre Cottrell  
 _Unit Managers:_ Harald Kügler, Heinz Badewitz, Philippe Schwartz, Pat Kirk  
 _Production Assistant:_ Harald Vogel  
-_Assistant Directors:_ Fritz Müller-Scherz,  
-Emmanuel Clot, Serge Brodskis  
+_Assistant Directors:_ Fritz Müller-Scherz,  Emmanuel Clot, Serge Brodskis  
 _Script Supervisor:_ Gretl Zeilinger  
 _Screenplay:_ Wim Wenders  
-_Based on the novel ‘Ripley’s Game’ by:_  
-Patricia Highsmith  
+_Based on the novel ‘Ripley’s Game’ by:_  Patricia Highsmith  
 _Director of Photography:_ Robby Müller  
-_Camera Assistants:_ Martin Schäfer,  
-Jacques Steyn, Edward Lachman  
-_Louma Operators:_ Jean-Marie Lavalou,
-
-Jean-François Casi, Marc Casi  
-_Electricians:_ Hans Dreher, Andreas Willim,  
-Wolfgang Dell, Jean-Claude Lebras, Robert Morsch, Tassilo Peik, Hans Otto Herbst,  
-Ekkehart Heinrich, Johan Holm, Hans Volkmann, Ernst Harinko, Viktor Sauermann  
+_Camera Assistants:_ Martin Schäfer,  Jacques Steyn, Edward Lachman  
+_Louma Operators:_ Jean-Marie Lavalou, Jean-François Casi, Marc Casi  
+_Electricians:_ Hans Dreher, Andreas Willim,  Wolfgang Dell, Jean-Claude Lebras, Robert Morsch, Tassilo Peik, Hans Otto Herbst,  Ekkehart Heinrich, Johan Holm, Hans Volkmann, Ernst Harinko, Viktor Sauermann  
 _Stills Photography:_ Martin Schäfer  
 _Trick Shots:_ Theo Nischwitz  
 _Editor:_ Peter Przygodda  
@@ -77,16 +61,14 @@ _Title/Graphic Arts:_ Sickerts
 _Filmed with:_ Arriflex  
 _Music:_ Jürgen Knieper  
 _Sound:_ Martin Müller, Peter Kaiser  
-_Boom Operators:_ Uwe-Jens Laddey,  
-Jochen Bärwald, Marite Kavaliauskas  
+_Boom Operators:_ Uwe-Jens Laddey,  Jochen Bärwald, Marite Kavaliauskas  
 _Sound Mixers:_ Max Galinsky, Milan Bor  
 _Dedicated to:_ Henri Langlois  
-_Drivers:_ Axel Niendorf, Volker Finnern,  
-Michael Zimmer, Pierre Edelman, Hervé Grandsart  
+_Drivers:_ Axel Niendorf, Volker Finnern,  Michael Zimmer, Pierre Edelman, Hervé Grandsart  
 _Stuntman:_ Klaus Schichan  
 _Publicity:_ Cinepromotion  
-_Cast:_
 
+**Cast**  
 Dennis Hopper _(Tom Ripley)_  
 Bruno Ganz _(Jonathan Zimmermann)_  
 Lisa Kreuzer _(Marianne Zimmermann)_  
@@ -117,5 +99,5 @@ Digital
 
 The screening on Wed 27 Aug will be introduced by Jason Wood, BFI Executive Director of Public Programmes & Audiences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk3MTQ2NTldfQ==
+eyJoaXN0b3J5IjpbNTY4NDczOTA4XX0=
 -->
