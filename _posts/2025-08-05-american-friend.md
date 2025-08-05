@@ -91,13 +91,13 @@ Satya de La Manitou _(Angie)_
 Axel SchieﬂLer _(Lippo)_  
 Adolf Hansen _(Schaffner)_  
 Rosemarie Heinikel _(Mona)_  
-West Germany-France 1977
 
-128 mins
-
+West Germany-France 1977  
+128 mins  
 Digital
 
-The screening on Wed 27 Aug will be introduced by Jason Wood, BFI Executive Director of Public Programmes & Audiences
+The screening on Wed 27 Aug will include a pre-recorded introduction by Jason Wood, BFI Executive Director of Public Programmes & Audiences
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NDczOTA4XX0=
+eyJoaXN0b3J5IjpbLTE1ODg0MzgzMTNdfQ==
 -->
