@@ -35,8 +35,7 @@ _Titles_: Dan Fitzgerald
 _Music_: Gene Moore  
 _Sound_: Ed Down, Don Jessup
 
-_Cast:_
-
+**Cast**  
 Candace Hilligoss _(Mary Henry)_  
 Frances Feist _(Mrs Thomas, the landlady)_  
 Sidney Berger _(John Linden)_  
@@ -49,8 +48,7 @@ Bill De Jarnette
 Steve Boozer  
 Pamela Ballard  
 Larry Sneegas  
-Cari Conboy
-
+Cari Conboy  
 Karen Pyles  
 T.C. Adams  
 Sharon Scoville  
@@ -59,15 +57,14 @@ Peter Schnitzler
 Bill Sollner  
 Herk Harvey _(dead man)_ *
 
-USA 1962
-
-78 mins
-
+USA 1962  
+78 mins  
 Digital
 
-* Uncredited
+*Uncredited
 
 Moviedrome transmission date: 23 June 1991
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTU0MDIyMV19
+eyJoaXN0b3J5IjpbMTM5OTMwNDE5OV19
 -->
