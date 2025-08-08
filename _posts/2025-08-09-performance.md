@@ -25,123 +25,68 @@ The two worlds through which Chas moves are both convincingly created on the lev
 <br><br>
 
 **Performance**<br>
-
 _Directed by:_ Donald Cammell, Nicolas Roeg<br>
-
 ©: Warner Bros, Inc.<br>
-
 _A_ Goodtime Enterprises _production_<br>
-
 _Made by:_ Goodtime Enterprises Limited<br>
-
 _Distributed by:_ Warner Bros.<br>
-
 _Produced by:_ Sanford Lieberson<br>
-
 _Associate Producer:_ David Cammell<br>
-
 _Production Manager:_ Robert Lynn<br>
-
 _Unit Manager:_ Kevin Kavanagh<br>
-
 _Production Runner:_ Christopher O’Dell *<br>
-
 _Assistant Director:_ Richard Burge<br>
-
 _Continuity:_ Anabelle Davis-Goff<br>
-
 _Written by:_ Donald Cammell<br>
-
 _Photographed by:_ Nicolas Roeg<br>
-
 _Camera Operator:_ Mike Molloy<br>
-
 _Film Editors:_ Antony Gibbs, Brian Smedley-Aston<br>
-
 _Art Director:_ John Clark<br>
-
 _Set Dresser:_ Peter Young<br>
-
-_Turner’s House Design Consultant:_  
-Christopher Gibbs<br>
-
+_Turner’s House Design Consultant:_  Christopher Gibbs<br>
 _Costume Consultant:_ Deborah Dixon<br>
-
 _Wardrobe:_ Emma Porteous, Billy Jay<br>
-
-_Mr James Fox’s Suits by:_
-
-Hymie of Waterloo, London<br>
-
+_Mr James Fox’s Suits by:_ Hymie of Waterloo, London<br>
 _Make-up:_ Paul Rabiger, Linda De Vetta<br>
-
 _Hairdresser:_ Helen Lennox<br>
-
 _Colour by:_ Technicolor<br>
-
 _Music by:_ Jack Nitzsche<br>
+_Played by:_ Ry Cooder, Bobby West, Russel Titelman, The Merry Clayton Singers, Milt Holland, Amiya Dasgupta, Lowell George, Gene Parsons<br>
+_Moog Synthesizer:_ Bernard Krause<br>
+_Santur:_ Nasser Rastigar-Nejad<br>
+_Music Conducted by:_ Randy Newman<br>
+_Sound Recordist:_ Ron Barron<br>
+_Sound Editor:_ Alan Pattillo<br>
+_Buffy Ste.Marie performed musically through the courtesy of:_ Vanguard Records<br>
+_Dialogue Consultant and Technical Adviser:_ David Litvinoff<br>
+_Completed at:_ Twickenham Film Studios<br>
 
-_Played by:_ Ry Cooder, Bobby West, Russel Titelman, The Merry Clayton Singers, Milt Holland, Amiya Dasgupta, Lowell George, Gene Parsons
+**Cast**<br>
+James Fox _(Chas Devlin)_<br>
+Mick Jagger _(Turner)_<br>
+Anita Pallenberg _(Pherber)_<br>
+Michele Breton _(Lucy)_<br>
+Ann Sidney _(Dana)_<br>
+John Bindon _(Moody)_<br>
+Stanley Meadows _(Rosebloom)_<br>
+Allan Cuthbertson _(the lawyer)_<br>
+Antony Morton _(Dennis)_<br>
+Johnny Shannon _(Harry Flowers)_<br>
+Anthony Valentine _(Joey Maddocks)_<br>
+Ken Colley _(Tony Farrell)_<br>
+John Sterland _(the chauffeur)_<br>
+Laraine Wickens _(Lorraine)_<br>
 
-_Moog Synthesizer:_ Bernard Krause
+USA-UK 1970©<br>
+105 mins<br>
+35mm<br>
 
-_Santur:_ Nasser Rastigar-Nejad
-
-_Music Conducted by:_ Randy Newman
-
-_Sound Recordist:_ Ron Barron
-
-_Sound Editor:_ Alan Pattillo
-
-_Buffy Ste.Marie performed musically through the courtesy of:_ Vanguard Records
-
-_Dialogue Consultant and Technical Adviser:_
-
-David Litvinoff
-
-_Completed at:_ Twickenham Film Studios
-
-_Cast:_
-
-James Fox _(Chas Devlin)_
-
-Mick Jagger _(Turner)_
-
-Anita Pallenberg _(Pherber)_
-
-Michele Breton _(Lucy)_
-
-Ann Sidney _(Dana)_
-
-John Bindon _(Moody)_
-
-Stanley Meadows _(Rosebloom)_
-
-Allan Cuthbertson _(the lawyer)_
-
-Antony Morton _(Dennis)_
-
-Johnny Shannon _(Harry Flowers)_
-
-Anthony Valentine _(Joey Maddocks)_
-
-Ken Colley _(Tony Farrell)_
-
-John Sterland _(the chauffeur)_
-
-Laraine Wickens _(Lorraine)_
-
-USA-UK 1970©
-
-105 mins
-
-35mm
-
-* Uncredited
+*Uncredited
 
 A BFI National Archive print
 
-Moviedrome transmission date: 7 July 1991
+Moviedrome transmission date: 7 July 1991<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTc3NTUzM119
+eyJoaXN0b3J5IjpbLTgyMTgxMzE5XX0=
 -->
