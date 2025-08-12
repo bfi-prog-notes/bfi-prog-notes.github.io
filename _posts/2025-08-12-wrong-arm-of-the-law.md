@@ -43,8 +43,7 @@ Digital 4K (restoration)
 
 **The Wrong Arm of the Law**  
 _Directed by_: Cliff Owen  
-©_/Production Company_:  
-Robert Velaise Productions  
+©_/Production Company_:  Robert Velaise Productions  
 _Presented by_: Romulus Films  
 _In asssociation with_: M. Smedley Aston  
 _Executive Producer_: Robert Velaise  
@@ -53,12 +52,10 @@ _Associate Producer_: Cecil F. Ford
 _Production Secretary_: Golda Offenheim *  
 _Assistant Director_: Roy Baird  
 _2nd Assistant Director_: John Stoneham *  
-_3rd Assistant Directors_: Brian Lipman *,  
-Ross Devenish *  
+_3rd Assistant Directors_: Brian Lipman *,  Ross Devenish *  
 _Continuity_: Angela Martelli  
 _Casting_: Dorothy Holloway *  
-_Written by_: Ray Galton, Alan Simpson,  
-John Antrobus  
+_Written by_: Ray Galton, Alan Simpson,  John Antrobus  
 _From a Screenplay by_: John Warren, Len Heath  
 _Original Story by_: Ivor Jay, William Whistance Smith  
 _Director of Photography_: Ernest Steward  
@@ -88,8 +85,7 @@ _Assistant Sound Editor_: Wally Nelson *
 _Publicity_: Maureen Gregson *  
 _Made at_: Beaconsfield Studios
 
-_Cast:_
-
+**Cast**  
 Peter Sellers _(Pearly Gates)_  
 Lionel Jeffries _(Inspector Fred ‘Nosey’ Parker)_  
 Bernard Cribbins _(Nervous O’Toole)_  
@@ -109,19 +105,18 @@ Tutte Lemkow _(Siggy Schmoltz)_
 Barry Keegan _(Alf)_  
 Cardew Robinson _(mailman)_ *  
 John Junkin _(Maurice)_ *  
-Marianne Stone_(woman in front row at the meeting)_ *  
+Marianne Stone _(woman in front row at the meeting)_ *  
 Dennis Price _(Educated Ernest)_ *  
 Dick Emery _(man in flat 307)_ *  
 Gerald Sim _(airfield official)_ *  
 Michael Caine  *
 
-UK 1962
-
-94 mins
-
+UK 1962  
+94 mins  
 Digital 4K (restoration)
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTExNzIyN119
+eyJoaXN0b3J5IjpbMjEzMjcxODY4MV19
 -->
