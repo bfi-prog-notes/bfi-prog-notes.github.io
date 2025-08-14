@@ -113,121 +113,121 @@ _Rebec:_ Siba<br>
 _Acoustic Guitar/Viola/Mandolin/Strings:_ Luiz Brasil<br>
 
 _Viola:_ Marie Christine S. Bessler,  
-Jesuína Noronha Passaroto
+Jesuína Noronha Passaroto<br>
 
-_Violin:_ João Daltro De Almeida, Giancarlo Pareschi, Bernardo Bessler, Ricardo Amado da Silva, Michel Bessler, José Alves da Silva, Walter Hack
+_Violin:_ João Daltro De Almeida, Giancarlo Pareschi, Bernardo Bessler, Ricardo Amado da Silva, Michel Bessler, José Alves da Silva, Walter Hack<br>
 
-_Double Bass:_ Denner de Castro Campolina
+_Double Bass:_ Denner de Castro Campolina<br>
 
 _Violin, String Arrangements:_  
-Paschoal Perrotta Cordas
+Paschoal Perrotta Cordas<br>
 
-_Recording Studio:_ Discover Digital Studio
+_Recording Studio:_ Discover Digital Studio<br>
 
-_Mixing Studio:_ Estudio Mega Indie Records
+_Mixing Studio:_ Estudio Mega Indie Records<br>
 
-_Sound:_ Jean-Claude Brisson, François Groult, Bruno Tarrière, Waldir Xavier
+_Sound:_ Jean-Claude Brisson, François Groult, Bruno Tarrière, Waldir Xavier<br>
 
-_Additional Sound:_ Mark A. van der Willigen
+_Additional Sound:_ Mark A. van der Willigen<br>
 
-_Boom Operator:_ Fernando Augusto Duca
+_Boom Operator:_ Fernando Augusto Duca<br>
 
-_Sound Editor:_ Waldir Xavier
+_Sound Editor:_ Waldir Xavier<br>
 
 _Foley Artists:_ François Lepeuple,  
-Olivier Marlangeon
+Olivier Marlangeon<br>
 
-_Cast:_
+_Cast:_<br>
 
-Fernanda Montenegro _(Dora)_
+Fernanda Montenegro _(Dora)_<br>
 
-Marilia PÍra _(Irene)_
+Marilia PÍra _(Irene)_<br>
 
-Vinícius de Oliveira _(Josué)_
+Vinícius de Oliveira _(Josué)_<br>
 
-Sôia Lira _(Ana)_
+Sôia Lira _(Ana)_<br>
 
-Othon Bastos _(César)_
+Othon Bastos _(César)_<br>
 
-Otavie Augusto _(Pedrao)_
+Otavie Augusto _(Pedrao)_<br>
 
-Stela Freitas _(Yolanda)_
+Stela Freitas _(Yolanda)_<br>
 
-Matheus Nachtergaele _(Isaias)_
+Matheus Nachtergaele _(Isaias)_<br>
 
-Caio Junqueira _(Moisés)_
+Caio Junqueira _(Moisés)_<br>
 
-Maria Do Socorro Nobre _(1st letter, Rio)_
+Maria Do Socorro Nobre _(1st letter, Rio)_<br>
 
-Manoel Gomes _(2nd letter, Rio)_
+Manoel Gomes _(2nd letter, Rio)_<br>
 
-Roberto Andrade _(3rd letter, Rio)_
+Roberto Andrade _(3rd letter, Rio)_<br>
 
-Sheyla Kenia _(4th letter, Rio)_
+Sheyla Kenia _(4th letter, Rio)_<br>
 
-Malcon Soares _(5th letter, Rio)_
+Malcon Soares _(5th letter, Rio)_<br>
 
-Maria Fernandes _(6th letter, Rio)_
+Maria Fernandes _(6th letter, Rio)_<br>
 
-Maria Marlene _(7th letter, Rio)_
+Maria Marlene _(7th letter, Rio)_<br>
 
-Chrisanto Camargo _(8th letter, Rio)_
+Chrisanto Camargo _(8th letter, Rio)_<br>
 
-Jorsebá-Sebastião Oliveira _(9th letter, Rio)_
+Jorsebá-Sebastião Oliveira _(9th letter, Rio)_<br>
 
-Sidney Antunes _(religious man, station)_
+Sidney Antunes _(religious man, station)_<br>
 
-José Pedro Da Costa Filho _(stall owner)_
+José Pedro Da Costa Filho _(stall owner)_<br>
 
-Esperança Motta _(young prostitute, letter Rio)_
+Esperança Motta _(young prostitute, letter Rio)_<br>
 
-Marcelo Carneiro _(thief)_
+Marcelo Carneiro _(thief)_<br>
 
-Manula-Manuel José Neves _(Walkman owner)_
+Manula-Manuel José Neves _(Walkman owner)_<br>
 
-Preto De Linha _(shoeshine man)_
+Preto De Linha _(shoeshine man)_<br>
 
-Mário Mendes _(João, Yolanda’s husband)_
+Mário Mendes _(João, Yolanda’s husband)_<br>
 
-Gildásio Leite _(man on bus)_
+Gildásio Leite _(man on bus)_<br>
 
-Sınia Leite _(woman on bus 1)_
+Sınia Leite _(woman on bus 1)_<br>
 
-Estelina Moreira Da Silva _(woman on bus 2)_
+Estelina Moreira Da Silva _(woman on bus 2)_<br>
 
-Zezão Pereira _(bus driver)_
+Zezão Pereira _(bus driver)_<br>
 
-Felícia De Castro _(cashier)_
+Felícia De Castro _(cashier)_<br>
 
-Harildo Deda _(Bené)_
+Harildo Deda _(Bené)_<br>
 
-Marcos De Lima _(Bené’s son)_
+Marcos De Lima _(Bené’s son)_<br>
 
-Maria Menezes _(waitress)_
+Maria Menezes _(waitress)_<br>
 
-Telma Cunha _(lipstick woman)_
+Telma Cunha _(lipstick woman)_<br>
 
-José Ramos _(pilgrims’ driver)_
+José Ramos _(pilgrims’ driver)_<br>
 
-Dona Luzia _(pilgrim singing in truck)_
+Dona Luzia _(pilgrim singing in truck)_<br>
 
-Bertho Filho _(pilgrim 1)_
+Bertho Filho _(pilgrim 1)_<br>
 
-Edivaldo Lima _(Jessé’s son)_
+Edivaldo Lima _(Jessé’s son)_<br>
 
-Antonieta Noronha _(Violeta)_
+Antonieta Noronha _(Violeta)_<br>
 
-Rita Assemany _(Maria, Jessé’s wife)_
+Rita Assemany _(Maria, Jessé’s wife)_<br>
 
-Gideon Rosa _(Jessé)_
+Gideon Rosa _(Jessé)_<br>
 
-Dona Severina _(pilgrim praying 1)_
+Dona Severina _(pilgrim praying 1)_<br>
 
-João Rodrigues _(pilgrim praying 2)_
+João Rodrigues _(pilgrim praying 2)_<br>
 
-Nanego Lira _(preacher, northeast)_
+Nanego Lira _(preacher, northeast)_<br>
 
-Antônio Marcos _(singer)_
+Antônio Marcos _(singer)_<br>
 
 Iami Rebouças _(woman in photograph)_
 
@@ -263,5 +263,5 @@ Digital 4K
 
 A Curzon re-release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjUzMTE0MV19
+eyJoaXN0b3J5IjpbLTY4NjMyOTk2N119
 -->
