@@ -229,11 +229,11 @@ Nanego Lira _(preacher, northeast)_<br>
 
 Antônio Marcos _(singer)_<br>
 
-Iami Rebouças _(woman in photograph)_
+Iami Rebouças _(woman in photograph)_<br>
 
-João Braz _(photo stall owner)_
+João Braz _(photo stall owner)_<br>
 
-Antınio Dos Santos _(1st letter, northeast)_
+Antınio Dos Santos _(1st letter, northeast)_<br>
 
 Patrícia Brás _(2nd letter, northeast)_
 
@@ -263,5 +263,5 @@ Digital 4K
 
 A Curzon re-release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjMyOTk2N119
+eyJoaXN0b3J5IjpbMTEwNDc1NjMxOV19
 -->
