@@ -55,176 +55,93 @@ _Editors:_ Isabelle Rathéry, Felipe Lacerda<br>
 _Production Designers:_ Cássio Amarante,  Carla Caffé<br>
 _Costumes:_ Cristina Camargo<br>
 _Make-up:_ Antoine Garabedian<br>
-_Title:_ Arane<br>
-
+_Titles:_ Arane<br>
 _Colour Timer:_ Yvan Lucas<br>
-
 _Laboratory:_ Éclair<br>
-
 _Music:_ Antônio Pinto, Jacques Morelenbaum<br>
-
-_Cello:_ Jacques Morelenbaum,  
-Marcio Eymard Malard, Jorge Kundert Ranevsky<br>
-
+_Cello:_ Jacques Morelenbaum,  Marcio Eymard Malard, Jorge Kundert Ranevsky<br>
 _Piano:_ Edu Morelenbaum, Antônio Pinto<br>
-
 _Percussion:_ Marcos Suzano<br>
-
 _Rebec:_ Siba<br>
-
 _Acoustic Guitar/Viola/Mandolin/Strings:_ Luiz Brasil<br>
-
-_Viola:_ Marie Christine S. Bessler,  
-Jesuína Noronha Passaroto<br>
-
+_Viola:_ Marie Christine S. Bessler,  Jesuína Noronha Passaroto<br>
 _Violin:_ João Daltro De Almeida, Giancarlo Pareschi, Bernardo Bessler, Ricardo Amado da Silva, Michel Bessler, José Alves da Silva, Walter Hack<br>
-
 _Double Bass:_ Denner de Castro Campolina<br>
-
-_Violin, String Arrangements:_  
-Paschoal Perrotta Cordas<br>
-
+_Violin, String Arrangements:_  Paschoal Perrotta Cordas<br>
 _Recording Studio:_ Discover Digital Studio<br>
-
 _Mixing Studio:_ Estudio Mega Indie Records<br>
-
 _Sound:_ Jean-Claude Brisson, François Groult, Bruno Tarrière, Waldir Xavier<br>
-
 _Additional Sound:_ Mark A. van der Willigen<br>
-
 _Boom Operator:_ Fernando Augusto Duca<br>
-
 _Sound Editor:_ Waldir Xavier<br>
+_Foley Artists:_ François Lepeuple,  Olivier Marlangeon<br>
 
-_Foley Artists:_ François Lepeuple,  
-Olivier Marlangeon<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Fernanda Montenegro _(Dora)_<br>
-
 Marilia PÍra _(Irene)_<br>
-
 Vinícius de Oliveira _(Josué)_<br>
-
 Sôia Lira _(Ana)_<br>
-
 Othon Bastos _(César)_<br>
-
 Otavie Augusto _(Pedrao)_<br>
-
 Stela Freitas _(Yolanda)_<br>
-
 Matheus Nachtergaele _(Isaias)_<br>
-
 Caio Junqueira _(Moisés)_<br>
-
 Maria Do Socorro Nobre _(1st letter, Rio)_<br>
-
 Manoel Gomes _(2nd letter, Rio)_<br>
-
 Roberto Andrade _(3rd letter, Rio)_<br>
-
 Sheyla Kenia _(4th letter, Rio)_<br>
-
 Malcon Soares _(5th letter, Rio)_<br>
-
 Maria Fernandes _(6th letter, Rio)_<br>
-
 Maria Marlene _(7th letter, Rio)_<br>
-
 Chrisanto Camargo _(8th letter, Rio)_<br>
-
 Jorsebá-Sebastião Oliveira _(9th letter, Rio)_<br>
-
 Sidney Antunes _(religious man, station)_<br>
-
 José Pedro Da Costa Filho _(stall owner)_<br>
-
 Esperança Motta _(young prostitute, letter Rio)_<br>
-
 Marcelo Carneiro _(thief)_<br>
-
 Manula-Manuel José Neves _(Walkman owner)_<br>
-
 Preto De Linha _(shoeshine man)_<br>
-
 Mário Mendes _(João, Yolanda’s husband)_<br>
-
 Gildásio Leite _(man on bus)_<br>
-
 Sınia Leite _(woman on bus 1)_<br>
-
 Estelina Moreira Da Silva _(woman on bus 2)_<br>
-
 Zezão Pereira _(bus driver)_<br>
-
 Felícia De Castro _(cashier)_<br>
-
 Harildo Deda _(Bené)_<br>
-
 Marcos De Lima _(Bené’s son)_<br>
-
 Maria Menezes _(waitress)_<br>
-
 Telma Cunha _(lipstick woman)_<br>
-
 José Ramos _(pilgrims’ driver)_<br>
-
 Dona Luzia _(pilgrim singing in truck)_<br>
-
 Bertho Filho _(pilgrim 1)_<br>
-
 Edivaldo Lima _(Jessé’s son)_<br>
-
 Antonieta Noronha _(Violeta)_<br>
-
 Rita Assemany _(Maria, Jessé’s wife)_<br>
-
 Gideon Rosa _(Jessé)_<br>
-
 Dona Severina _(pilgrim praying 1)_<br>
-
 João Rodrigues _(pilgrim praying 2)_<br>
-
 Nanego Lira _(preacher, northeast)_<br>
-
 Antônio Marcos _(singer)_<br>
-
 Iami Rebouças _(woman in photograph)_<br>
-
 João Braz _(photo stall owner)_<br>
-
 Antınio Dos Santos _(1st letter, northeast)_<br>
-
 Patrícia Brás _(2nd letter, northeast)_<br>
-
 Ingrid Trigueiro _(3rd letter, northeast)_<br>
-
 Inaldo Santana _(4th letter, northeast)_<br>
-
 José Pereira Da Silva _(5th letter, northeast)_<br>
-
 Eliane Silva _(6th letter, northeast)_<br>
-
 Cícero Santos _(7th letter, northeast)_<br>
-
 Andréa Albuquerque _(8th letter, northeast)_<br>
-
 Everaldo Pontes _(9th letter, northeast)_<br>
-
 Diogo Lopes Filho _(cashier)_<br>
-
 Fernando Fulco _(F-street man)_<br>
 
 Brazil-France-Spain-Japan 1998©<br>
-
 111 mins<br>
-
 Digital 4K<br>
 
 A Curzon re-release<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEzOTUzMDIsMTEwNDc1NjMxOV19
+eyJoaXN0b3J5IjpbOTgzNDcwNTI5LDExMDQ3NTYzMTldfQ==
 -->
