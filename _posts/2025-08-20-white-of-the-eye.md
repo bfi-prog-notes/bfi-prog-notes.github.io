@@ -1,3 +1,14 @@
+---
+layout: post
+title: White of the Eye
+published: true
+date: 2025-08-20
+readtime: true
+categories: ['Moviedrome<br>Bringing the Cult TV Series to the Big Screen']
+tags: [Thriller]
+metadata: 'UK 1987, 118 mins<br> Director: Donald Cammell'
+pdf: '2025-08-20-white-of-the-eye.pdf'
+---
 
 ‘What is a cult film? A cult film is one which has a passionate following but does not appeal to everybody. Just because a movie is a cult movie does not automatically guarantee quality. Some cult films are very bad. Others are very, very good. Some make an awful lot of money at the box office. Others make no money at all. Some are considered quality films. Others are exploitation.’ From 1988 to 2000 _Moviedrome_ was presented by Alex Cox and then Mark Cousins. Across that time, more than 200 features were shown, and generations of movie fans and filmmakers would be informed and inspired by the selection, alongside the wit and wisdom of the introductions that preceded each screening. _Moviedrome_ was a portal into the world of weird and wonderful cinema. This two-month season features some of the most notable titles screened and wherever possible they are preceded by the original televised introduction.  
 **Nick Freand Jones, season curator and producer  of _Moviedrome_**
@@ -115,6 +126,34 @@ Digital
 
 Moviedrome transmission date: 2 July 2000
 <br><br>
+
+**With thanks to**   
+Sue Deeks, Simon Chilcott, Carl Davies, Josephine Haining and Andrew Abbott
+<br><br> 
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MDc4Nzc2MzJdfQ==
 -->
