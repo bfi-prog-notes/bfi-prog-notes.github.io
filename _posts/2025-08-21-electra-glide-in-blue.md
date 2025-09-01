@@ -22,8 +22,7 @@ _Electra Glide_ slides in and out of black comedy with the same ease that its ch
 **Richard Combs, _Sight and Sound_, Winter 1973-74**
 <br><br>
 
-**Electra Glide in Blue**
-
+**Electra Glide in Blue**  
 _Director_: James William Guercio  
 _Production Company_: United Artists  
 _Producer_: James William Guercio  
@@ -36,20 +35,15 @@ _Director of Photography_: Conrad Hall
 _2nd Unit Photographer_: Richard Kelley  
 _Special Effects_: Candy Flanagin  
 _Special Effects (Chase Sequence)_: Joe Lombardi  
-_Editors_: Jim Benson, John F. Link II,
-
-Jerry Greenberg  
+_Editors_: Jim Benson, John F. Link II, Jerry Greenberg  
 _Music_: James William Guercio  
 _Music Director_: Jimmie Haskell  
 _Sound Recording_: William Randall  
 _Sound Re-recording_: Robert Knudson  
 _Stunt Co-ordinator_: Bud Ekins  
-_Stunt Riders_: J.N. Roberts, Rock Walker,  
-Alan Gibbs, Scott Dockstader, Mickey Alzola,  
-Ron Rondell
+_Stunt Riders_: J.N. Roberts, Rock Walker,  Alan Gibbs, Scott Dockstader, Mickey Alzola,  Ron Rondell
 
-_Cast:_
-
+**Cast**  
 Robert Blake _(John Wintergreen)_  
 Billy ‘Green’ Bush _(Zipper Davis)_  
 Mitchell Ryan _(Harve Poole)_  
@@ -64,19 +58,17 @@ Walter Parazaider _(Loose Lips)_
 Joe Samsil _(Sgt. Ryker)_  
 Jason Clark _(L.A. detective)_  
 Michael Butler _(truck driver)_  
-Susan Forristal, Lucy Angle Guercio_  
-(ice cream girls)_  
+Susan Forristal, Lucy Angle Guercio _(ice cream girls)_  
 Melissa Green _(Zemko’s girlfriend)_  
 Jim Gilmore _(detective)_  
 Bob Zemko _(The Beard)_
 
-USA 1973
-
-114 mins
-
+USA 1973  
+114 mins  
 Video
 
 Moviedrome transmission date: 15 May 1988
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NTkyMDkxXX0=
+eyJoaXN0b3J5IjpbLTE5ODY2NDg2NDFdfQ==
 -->
