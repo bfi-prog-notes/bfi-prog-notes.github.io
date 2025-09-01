@@ -28,72 +28,34 @@ The late BFI chairman Anthony Minghella said of _Central Station_: ‘That small
 <br><br>
 
 **Central Station** Central do Brasil<br>
-
 _Director:_ Walter Salles<br>
-
 ©: VideoFilmes, MACT Productions<br>
-
-_Co-production:_ VideoFilmes,  
-MACT Productions, RioFilme<br>
-
+_Co-production:_ VideoFilmes,  MACT Productions, RioFilme<br>
 _With the participation of:_ Canal+, Ministère Français de la Culture, Ministère Français des Relations Extérieures, Sogepaq<br>
-
-_With the support of:_ Sundance Institute,
-
-Nippon Hoso Kyokai<br>
-
-_Executive Producers:_ Elisa Tolomelli,  
-Lillian Birnbaum, Don Ranvaud, Thomas Garvin<br>
-
-_Producers:_ Martine de Clermont-Tonnerre,  
-Arthur Cohn<br>
-
+_With the support of:_ Sundance Institute, Nippon Hoso Kyokai<br>
+_Executive Producers:_ Elisa Tolomelli,  Lillian Birnbaum, Don Ranvaud, Thomas Garvin<br>
+_Producers:_ Martine de Clermont-Tonnerre,  Arthur Cohn<br>
 _Associate Producers:_ Paulo Brito, Jack Gajos<br>
-
 _France Production Administration:_ Jacques Dubecq<br>
-
-_Production Managers:_ Marcelo Torres,  
-Afonso Coaracy<br>
-
+_Production Managers:_ Marcelo Torres,  Afonso Coaracy<br>
 _Production Co-ordinator:_ Beto Bruno<br>
-
 _Location Manager:_ Selma Santos<br>
-
 _Pernambuco Art Researcher:_ Almir de Azevêdo<br>
-
 _1st Assistant Director:_ Kátia Lund<br>
-
-_2nd Assistant Directors:_ Sérgio Machado,
-
-João Emanuel Carneiro<br>
-
+_2nd Assistant Directors:_ Sérgio Machado, João Emanuel Carneiro<br>
 _Rio 2nd Assistant Director:_ Vinícius Coimbra<br>
-
 _Northeast Script Supervisor:_ Adelina Pontual<br>
-
 _Casting:_ Sérgio Machado<br>
-
 _Rio Children Casting:_ Denise del Cueto<br>
-
 _Northeast Casting:_ José Bello<br>
-
-_Screenplay:_ João Emanuel Carneiro,  
-Marcos Bernstein<br>
-
+_Screenplay:_ João Emanuel Carneiro,  Marcos Bernstein<br>
 _Based on the original idea by:_ Walter Salles<br>
-
 _Director of Photography:_ Walter Carvalho<br>
-
 _Editors:_ Isabelle Rathéry, Felipe Lacerda<br>
-
-_Production Designers:_ Cássio Amarante,  
-Carla Caffé<br>
-
+_Production Designers:_ Cássio Amarante,  Carla Caffé<br>
 _Costumes:_ Cristina Camargo<br>
-
 _Make-up:_ Antoine Garabedian<br>
-
-_Titles:_ Arane<br>
+_Title:_ Arane<br>
 
 _Colour Timer:_ Yvan Lucas<br>
 
@@ -235,33 +197,34 @@ João Braz _(photo stall owner)_<br>
 
 Antınio Dos Santos _(1st letter, northeast)_<br>
 
-Patrícia Brás _(2nd letter, northeast)_
+Patrícia Brás _(2nd letter, northeast)_<br>
 
-Ingrid Trigueiro _(3rd letter, northeast)_
+Ingrid Trigueiro _(3rd letter, northeast)_<br>
 
-Inaldo Santana _(4th letter, northeast)_
+Inaldo Santana _(4th letter, northeast)_<br>
 
-José Pereira Da Silva _(5th letter, northeast)_
+José Pereira Da Silva _(5th letter, northeast)_<br>
 
-Eliane Silva _(6th letter, northeast)_
+Eliane Silva _(6th letter, northeast)_<br>
 
-Cícero Santos _(7th letter, northeast)_
+Cícero Santos _(7th letter, northeast)_<br>
 
-Andréa Albuquerque _(8th letter, northeast)_
+Andréa Albuquerque _(8th letter, northeast)_<br>
 
-Everaldo Pontes _(9th letter, northeast)_
+Everaldo Pontes _(9th letter, northeast)_<br>
 
-Diogo Lopes Filho _(cashier)_
+Diogo Lopes Filho _(cashier)_<br>
 
-Fernando Fulco _(F-street man)_
+Fernando Fulco _(F-street man)_<br>
 
-Brazil-France-Spain-Japan 1998©
+Brazil-France-Spain-Japan 1998©<br>
 
-111 mins
+111 mins<br>
 
-Digital 4K
+Digital 4K<br>
 
-A Curzon re-release
+A Curzon re-release<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc1NjMxOV19
+eyJoaXN0b3J5IjpbLTE4NjEzOTUzMDIsMTEwNDc1NjMxOV19
 -->
