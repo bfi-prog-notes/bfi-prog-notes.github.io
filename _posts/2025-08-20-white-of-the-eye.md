@@ -83,7 +83,7 @@ _Stunt Co-ordinator_: Dan Bradley
 _Stereo Design & Special Consultation_:  Christopher Hansen  
 _Camera and Lenses by_: Panavision
 
-*Cast**
+**Cast**  
 David Keith _(Paul White)_  
 Cathy Moriarty _(Joan White)_  
 Art Evans _(Charles Mendoza)_  
@@ -107,15 +107,14 @@ John Diehl _(Mr Dupree)_ *
 Donna Barrish _(Betty)_ *  
 Brad Wyman _(killer's Eye)_ *
 
-UK 1987
-
-118 mins
-
+UK 1987  
+118 mins  
 Digital
 
-* Uncredited
+*Uncredited
 
 Moviedrome transmission date: 2 July 2000
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Nzg2MjM5MF19
+eyJoaXN0b3J5IjpbLTE3MDc4Nzc2MzJdfQ==
 -->
