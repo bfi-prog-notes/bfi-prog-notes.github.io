@@ -27,8 +27,7 @@ The shooting took ten weeks – over a period between December 2000 and June 200
 
 _The film gives an impression of great serenity. Do you feel that you’ve shown the school in too idyllic a light?_
 
-Idyllic? For me, the film is very open, it gives everyone the possibility of projecting into it what they wish, their own memories of childhood… For my own part, I see in it a certain gravity, indeed a certain violence, even if it is somewhat suppressed. Before making the film, I believe that I had forgotten to what degree it is difficult to learn, but also to grow up. This dive back into school made me recall it with a vengeance. It’s that, perhaps, that is the true subject of the film.
-
+Idyllic? For me, the film is very open, it gives everyone the possibility of projecting into it what they wish, their own memories of childhood… For my own part, I see in it a certain gravity, indeed a certain violence, even if it is somewhat suppressed. Before making the film, I believe that I had forgotten to what degree it is difficult to learn, but also to grow up. This dive back into school made me recall it with a vengeance. It’s that, perhaps, that is the true subject of the film.  
 **Production notes**
 <br><br>
 
@@ -60,9 +59,9 @@ _Press Relations:_ Marie Queysanne
 _With:_ Georges Lopez _(himself, the teacher)_  
 
 France 2002©  
-104 mins
-
+104 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDEyOTU2XX0=
+eyJoaXN0b3J5IjpbMTc2MjQ1MDQ3OF19
 -->
