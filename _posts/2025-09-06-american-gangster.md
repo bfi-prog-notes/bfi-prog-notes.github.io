@@ -1,3 +1,14 @@
+---
+layout: post
+title: American Gangster
+published: true
+date: 2025-09-06
+readtime: true
+categories: ['Ridley Scott<br>Building Cinematic Worlds']
+tags: [Crime, Gangster, Biopic]
+metadata: 'USA 2007, 157 mins<br> Director: Ridley Scott'
+pdf: '2025-09-06-american-gangster.pdf'
+---
 
 The legend of heroin smuggler/family man/death dealer/civic leader Frank Lucas was first chronicled in a _New York Magazine_ article by journalist Mark Jacobson. In 2000, executive producer Nicholas Pileggi – who co-wrote the screenplays for _Goodfellas_ and _Casino_ with Martin Scorsese – introduced Jacobson to Lucas, thus beginning a journey in which Lucas recounted his outrageous rise and fall to the journalist. From watching his cousin murdered by the KKK in La Grange, North Carolina, to earning mind-boggling figures in drug sales to facing a lifetime in prison, Lucas had one stunner of a true tale.
 
@@ -43,6 +54,30 @@ USA 2007©
 157 mins  
 Digital
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNTk4MTYxODFdfQ==
 -->
