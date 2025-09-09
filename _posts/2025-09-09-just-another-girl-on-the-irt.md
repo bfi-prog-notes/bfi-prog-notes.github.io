@@ -93,11 +93,10 @@ Nicholas B. Carter _(child who opens bag)_
 Jasmine Thomas _(Chantel’s and Ty’s baby)_  
 Moise Dominque _(new born baby)_
 
-USA 1992
-
-98 mins
-
+USA 1992  
+98 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTM3ODYzOV19
+eyJoaXN0b3J5IjpbMTgzMjM5NjA1N119
 -->
