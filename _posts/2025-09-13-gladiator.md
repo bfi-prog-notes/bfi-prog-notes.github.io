@@ -127,11 +127,10 @@ Ray Calleja _(Lucius’ attendant)_
 Giannina Facio _(Maximus’ wife)_  
 Giorgio Cantarini _(Maximus’ son)_
 
-USA-UK 2000©
-
-155 mins
-
+USA-UK 2000©  
+155 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODQ1ODk0OV19
+eyJoaXN0b3J5IjpbLTkxNjY5NjcyN119
 -->
