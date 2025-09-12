@@ -98,11 +98,9 @@ _Choir Conductor_: Oscar Boada
 _Direct Sound_: Miguel Rejas  
 _Boom Operator_: Jaime Fernández-Cid  
 _Sound Mixing_: José Antonio Bermúdez  
-_Sound Editing_: Rosa Ortíz, Manuel Laguna,
+_Sound Editing_: Rosa Ortíz, Manuel Laguna, Diego Garrido
 
-Diego Garrido
-
-_Cast:_  
+**Cast**  
 Gael García Bernal _(Ángel/Zahara/Juan)_  
 Fele Martínez _(Enrique Goded)_  
 Daniel Giménez-Cacho _(Padre Manolo)_  
@@ -118,11 +116,10 @@ Petra Martínez _(Ignacio’s mother)_
 Sandra  
 Roberto Hoyas _(waiter)_
 
-Spain 2004
-
-106 mins
-
+Spain 2004  
+106 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDMyMDQwN119
+eyJoaXN0b3J5IjpbMTg4MTUxMzQ4M119
 -->
