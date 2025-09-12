@@ -72,17 +72,13 @@ _Set Decorator (Japan)_: Kyoji Sasaki
 _Illustrator_: Sherman Labby  
 _Scenic Artist_: Robert A. Woolfe  
 _Art Department Technical Adviser_:  Michael W. Hirabayashi  
-_Costume Designers_: Ellen Mirojnick,  
-Jennifer L. Parsons, Elaine Maser, Joseph L. Gruca  
-_Wardrobe Supervisors_: Melissa Stanton,  
-William A. Campbell  
+_Costume Designers_: Ellen Mirojnick,  Jennifer L. Parsons, Elaine Maser, Joseph L. Gruca  
+_Wardrobe Supervisors_: Melissa Stanton,  William A. Campbell  
 _Wardrobe (Japan Supervisor)_: Kazuko Shimada  
 _Make-up Artists_: Richard Dean, Christina Smith, Monty Westmore, Fred Blau, Neal Martz  
-_Make-up (Prosthetics)_: Richard Alonzo,  
-Allan A. Apone, Kenneth David Walker, Mark Maitre, Arnold Gargiulo  
+_Make-up (Prosthetics)_: Richard Alonzo,  Allan A. Apone, Kenneth David Walker, Mark Maitre, Arnold Gargiulo  
 _Make-up (Tattoo Artist)_: Michael Hancock  
-_Main Title Design_: Anthony Goldschmidt,  
-Cinema Research Corporation  
+_Main Title Design_: Anthony Goldschmidt,  Cinema Research Corporation  
 _Music_: Hans Zimmer  
 _Music Conductor/Orchestrations_: Shirley Walker  
 _Music Supervisor_: Dick Rudolph  
@@ -94,8 +90,7 @@ _Supervising Sound Editors_: Milton C. Burrow, William L. Manger
 _Additional Sound Effects_: Stephen Dewey, Musikwerks  
 _Stunt Co-ordinator_: Bobby Bass
 
-_Cast:_
-
+**Cast**  
 Michael Douglas _(Nick Conklin)_  
 Andy Garcia _(Charlie Vincent)_  
 Ken Takakura _(Masahiro Matsumoto)_  
@@ -122,8 +117,7 @@ Doug Yasuda _(Japanese/American translator)_
 Toshio Sato _(Japanese Embassy official)_  
 Jun Kunimura _(Yoshimoto)_  
 Roy K. Ogata, Shiro Oishi _(Sato’s men)_  
-Toru Tanaka, Rikiya Yasuoka, Joji Shimaki_  
-(Sugai’s men)_  
+Toru Tanaka, Rikiya Yasuoka, Joji Shimaki _(Sugai’s men)_  
 Goro Sasa, Taro Ibuki, Daisuke Awaji _(Ohashi’s men)_  
 Keone Young _(karaoke singer)_  
 Jim Ishida _(escort officer)_  
@@ -136,11 +130,10 @@ Ken Kensei _(Masahiro’s son)_
 Josip Elic _(bartender)_  
 Mitchell Bahr _(friend)_
 
-USA 1989
-
-125 mins
-
+USA 1989  
+125 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDc5NDA4M119
+eyJoaXN0b3J5IjpbODI0ODU2NTA3XX0=
 -->
