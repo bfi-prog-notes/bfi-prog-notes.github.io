@@ -1,3 +1,14 @@
+---
+layout: post
+title: Missing Believed Wiped<br>Associated-Rediffusion Special
+published: true
+date: 2025-09-27
+readtime: true
+categories: ['Associated-Rediffusion<br>The UK’s First Groundbreaking TV Franchise']
+tags: [Television]
+metadata: 
+pdf: '2025-09-27-mbw-rediffusion.pdf'
+---
 
 **Studio 5**  
 The opening of Associated-Rediffusion’s Studio 5 was a BIG deal. So big that the opening itself was televised and we were given a guided tour of the studio and a look at the rehearsals for that night’s magnificent opening extravaganza. That ambitious production has sadly not survived but the surviving launch programme gives us a tantalising glimpse at the preparations for – what was then – the largest TV performance ever staged.  
@@ -50,7 +61,40 @@ Based on the play by Pamela Llewellyn, the tense drama tells the story of a man 
 With thanks to Archbuild and to many BFI colleagues, especially the Rights and Contracts Dept, the BFI National Archive, the Southbank Tech Team, the TV Curators and the BFI’s Restoration Team. Also thanks are due to Paul Vanezis, Film is Fabulous! (John Franklin) and Kaleidoscope (for providing the A-R continuity compilation).
 <br><br>
 
+The Associated-Rediffusion collection is preserved in the BFI National Archive
 
+With thanks to Archbuild
+
+**With thanks to**  
+BFI colleagues Xavier Pillai, Lisa Kerrigan,  Chantelle Lavel Boyea and Elinor Groom
+
+The Associated Redifffusion season has been made possible with help from colleagues from across the BFI including the BFI National Archive; the Rights and Contracts Department, the Events Department, the Cinemas Office and the Content Remastering Team
+
+Please note that some of the programmes in this season contain racist language, attitudes and other content that reflect the views prevalent in its time, but will likely cause offence today (as they did then). For specific content warnings, please visit **bfi.org.uk/whatson**
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
