@@ -10,8 +10,7 @@ The ramshackle nature of the production – with cameras in shot, dancers gather
 The series coincided with, and exploited, the tremendous explosion of British pop talent which took the world by storm. Surviving footage provides a priceless archive of some memorable moments and important performances from some of the greatest stars of the day. In the 1980s, the rights to tapes of the series were acquired by pop artist-turned-entrepreneur, Dave Clark.  
 **Dick Fiddy, BFI Screenonline**
 
-**Francis Hitching (editor of Musical Programmes at Rediffusion)  
-on ‘Ready Steady Go!’**  
+**Francis Hitching (editor of Musical Programmes at Rediffusion)  on ‘Ready Steady Go!’**  
 The phenomenon about those early days of _Ready Steady Go!_, was not the teenagers who enjoyed it, but the adults. They, used to write and telephone in their hundreds: protesting, inquiring, congratulating. If there was one word to describe their reaction, it was bafflement. They simply couldn’t believe their eyes.
 
 _RSG!_ quickly became half a musical programme, half a weekly documentary. It was the first pop programme to show teenagers as they really were, acne and all. The reason for its early runaway success (one week it had a rating in the sixties, easily a record for the slot) was that it happened at a time when teenagers were more curious, more inventive, more interesting, more clanish, and more independent than ever before. Their clothes, their dancing and their music all showed this. And the outside world looked on bewildered, as explorers at a complex initiation/fertility rite.
@@ -26,11 +25,11 @@ For the first time this century Britain had popular music of its own – derived
 
 More disciplined, yes; more creative, no. It was probably this aspect that most riled adults – that teenagers could happily and successfully get along without the authority of anyone older. Elkan Allan, who as executive producer devised and master-minded the programme, enthusiastically endorsed this. Apart from myself, who was regarded as somewhere between an elderly brother and a youngish uncle, everybody on the production team had to be more or less in their teens. What’s more they had to work as a team and keep control of the programme’s content. What matter if Cathy McGowan fluffed her lines: to a teenager she was one of Us, not Them. Meanwhile Vicki Wickham, who started on the programme as my secretary and became the editor, gradually developed into a kind of conscience for the pop world. Earlier than anyone, she identified the source of the best of current pop, and held this up as the example which every record producer had to match.
 
-Stories of the Beatles’ retirement were published the same week as the announcement of the end of _Ready Steady Go!_ The coincidence should signify something. The end of an era, perhaps. More likely, it’s just that the novelty has worn off. Teenagers don’t dance, dress or sing less interestingly than they did in 1963. But the adults have joined the game.
-
-From _Fusion_, the house magazine of Rediffusion – number 45, Christmas 1966
+Stories of the Beatles’ retirement were published the same week as the announcement of the end of _Ready Steady Go!_ The coincidence should signify something. The end of an era, perhaps. More likely, it’s just that the novelty has worn off. Teenagers don’t dance, dress or sing less interestingly than they did in 1963. But the adults have joined the game.  
+**From _Fusion_, the house magazine of Rediffusion – number 45, Christmas 1966**
+<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIyMzYwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTQxNTMxMjVdfQ==
 -->
