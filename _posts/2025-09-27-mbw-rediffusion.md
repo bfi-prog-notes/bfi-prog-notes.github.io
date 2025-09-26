@@ -45,10 +45,14 @@ Several items within the collection relate to Max’s wife, Elisabeth Beresford,
 **ITV Playhouse: Each Wind That Blows** (Broadcast: 15 April 1960)  
 Starring: Michael Gwynn, Margaret Tyzack, Ronald Leigh-Hunt, Stratford Johns  
 Based on the play by Pamela Llewellyn, the tense drama tells the story of a man who, having been acquitted of murdering a young woman, returns to his wife, family and friends, and their suspicions of his guilt.
+<br><br>
 
 With thanks to Archbuild and to many BFI colleagues, especially the Rights and Contracts Dept, the BFI National Archive, the Southbank Tech Team, the TV Curators and the BFI’s Restoration Team. Also thanks are due to Paul Vanezis, Film is Fabulous! (John Franklin) and Kaleidoscope (for providing the A-R continuity compilation).
+<br><br>
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjM3NDI0OV19
+eyJoaXN0b3J5IjpbLTY0OTYyNTQwM119
 -->
