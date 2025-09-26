@@ -1,3 +1,14 @@
+---
+layout: post
+title: Drama 3 - The Classics at Associated-Rediffusion
+published: true
+date: 2025-09-20
+readtime: true
+categories: ['Associated-Rediffusion<br>The UK’s First Groundbreaking TV Franchise']
+tags: [Television]
+metadata: 
+pdf: '2025-09-20-drama-three.pdf'
+---
 
 As an original ITV company, in the early years Associated-Rediffusion mined the classical theatre canon for many of its TV dramas. It has left us a fascinating historical legacy, acclaimed 1960s actors in key canonical works. In _A Woman of No Importance_, an all-star cast revel in Oscar Wilde’s mischievous tale of social scandal, while Chekhov’s tale of a family distanced from their environment and living in a world of growing disillusionment is a stunning adaptation of the Russian writer’s play.  
 **bfi.org.uk**
@@ -106,6 +117,30 @@ The Associated Redifffusion season has been made possible with help from colleag
 
 Please note that some of the programmes in this season contain racist language, attitudes and other content that reflect the views prevalent in its time, but will likely cause offence today (as they did then). For specific content warnings, please visit **bfi.org.uk/whatson**
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI4NzgxOTg0M119
 -->
