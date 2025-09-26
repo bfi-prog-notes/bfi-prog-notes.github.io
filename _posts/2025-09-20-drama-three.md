@@ -34,12 +34,10 @@ _Three Sisters_ has been adapted for television by Leo Lehman from a translation
 For Ann Bell it has meant a very busy time. During the day she was rehearsing Chekhov and at night she was appearing in the West End production of _The Provok’d Wife_. ‘I could grumble about being overworked – which was marvellous – for that is the ambition of every person who acts. As another ambition of mine has been to appear in a Chekhov play you could say I killed two birds with one stone.’
 
 For Jill Bennett it meant that she succeeded in appearing in her favourite play. ‘I love Chekhov – he has been my favourite ever since I was at school.’ For Margaret Gordon it meant an ambition achieved and a reunion with Jili Bennett. They last appeared together in _The Anatomist_ – as sisters. But they have also worked on radio when Margaret Gordon played her mother – ‘people couldn’t see my face so it did not matter if I did not look old.’  
-Rediffusion publicity notes
+**Rediffusion publicity notes**
+<br><br>
 
-<![endif]-->
-
-**Play of the Week: A Woman of No Importance**
-
+**Play of the Week: A Woman of No Importance**  
 _Director_: Joan Kemp-Welch  
 _Production Company_: Associated-Rediffusion  
 _Adapted by_: Paul Dehn  
@@ -48,15 +46,13 @@ _Designer_: John Clements
 _Costume Designer_: Ernest Hewitt *  
 _Music Composed by_: Ron Grainer
 
-_Cast:_
-
+**Cast**  
 Helen Cherry _(Mrs Allonby)_  
 Griffith Jones _(Lord Illingworth)_  
 Athene Seyler _(Lady Hunstanton)_  
 Marian Spencer _(Lady Caroline Pontefract)_  
 Gwen Watford _(Mrs Arbuthnot)_  
-Charles Lloyd Pack_  
-(The Ven. Archdeacon Dauberry, DD)_  
+Charles Lloyd Pack _(The Ven. Archdeacon Dauberry, DD)_  
 Nicholas Hannen _(Sir John Pontefract)_  
 Eira Heath _(Miss Hester Worsley)_  
 Clifford Elkin _(Gerald Arbuthnot)_  
@@ -65,14 +61,11 @@ Michael Logan _(Mr Kelvil, MP)_
 Tony Bateman _(Lord Alfred Rufford)_  
 Stringer Davis _(Farquhar)_  
 Coral Fairweather _(Alice)_  
-Michael Ely _(James)_
-
-ITV tx 9.2.1960
-
+Michael Ely _(James)_  
+ITV tx 9.2.1960  
 75 mins
 
-**Play of the Week: Three Sisters**
-
+**Play of the Week: Three Sisters**  
 _Director_: Joan Kemp-Welch  
 _Production Company_: Associated-Rediffusion  
 _Adaptation_: Leo Lehman  
@@ -80,8 +73,7 @@ _[Based on the play] By_: Anton Chekhov
 _Designed by_: Fred Pusey  
 _Translated by_: Miki Iveria, Kitty Black
 
-_Cast:_
-
+**Cast**  
 Jill Bennett _(Masha)_  
 Kenneth Griffith _(Lieutenant Touzenbach)_  
 Griffith Jones _(Lieutenant Colonel Vershinin)_  
@@ -97,26 +89,23 @@ John Quayle _(2nd Lieutenant Fedotik)_
 Frederick Peisley _(Ferapont)_  
 Hilda Barry _(Antissa)_
 
-ITV tx 3.9.1963
-
+ITV tx 3.9.1963  
 80 mins
 
-* Uncredited
-
-<![endif]-->
+*Uncredited
+<br><br>
 
 The Associated-Rediffusion collection is preserved in the BFI National Archive
 
 With thanks to Archbuild
 
-**With thanks to**
+**With thanks to**  
+BFI colleagues Xavier Pillai, Lisa Kerrigan,  Chantelle Lavel Boyea and Elinor Groom
 
-BFI colleagues Xavier Pillai, Lisa Kerrigan,  
-Chantelle Lavel Boyea and Elinor Groom
-
-The Associated Redifffusion season has been made possible with help from colleagues from across the BFI including the BFI National Archive; the Rights and Contracts Department, the Events Department, the Cinemas Office and The Content Remastering Team
+The Associated Redifffusion season has been made possible with help from colleagues from across the BFI including the BFI National Archive; the Rights and Contracts Department, the Events Department, the Cinemas Office and the Content Remastering Team
 
 Please note that some of the programmes in this season contain racist language, attitudes and other content that reflect the views prevalent in its time, but will likely cause offence today (as they did then). For specific content warnings, please visit **bfi.org.uk/whatson**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxODM1NDYxXX0=
+eyJoaXN0b3J5IjpbMTI4NzgxOTg0M119
 -->
