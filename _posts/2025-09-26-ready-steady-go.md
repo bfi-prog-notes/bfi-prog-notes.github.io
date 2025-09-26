@@ -1,4 +1,3 @@
-<![endif]-->
 
 In the early 1960s, as pop music became the vanguard of a newly developing and revolutionary artistic and cultural movement, television producers began to tackle the task of inventing a format to cover the emerging scene in a ‘hip’ and ‘happening’ way. ABC Television made a brave stab with _Thank Your Lucky Stars_ (1961-66) but it was with _Ready Steady Go!_, an intoxicating blend of performances (both mimed and live), celebrity interviews, mime competitions and dance demonstrations, that British TV got its first authentic 1960s pop show – one the kids were keen to watch.
 
@@ -8,13 +7,11 @@ In its prime the Friday night series really lived up to its catchphrase ‘The W
 
 The ramshackle nature of the production – with cameras in shot, dancers gathered close to the acts and performances and interviews taking place in different areas of the studio – gave it a chaotic but appealing style. Musical guests were constantly from the top range and reflected the individual musical tastes of the production crew as much as chart position or new release status.
 
-The series coincided with, and exploited, the tremendous explosion of British pop talent which took the world by storm. Surviving footage provides a priceless archive of some memorable moments and important performances from some of the greatest stars of the day. In the 1980s, the rights to tapes of the series were acquired by pop artist-turned-entrepreneur, Dave Clark.
-
-Dick Fiddy, BFI Screenonline
+The series coincided with, and exploited, the tremendous explosion of British pop talent which took the world by storm. Surviving footage provides a priceless archive of some memorable moments and important performances from some of the greatest stars of the day. In the 1980s, the rights to tapes of the series were acquired by pop artist-turned-entrepreneur, Dave Clark.  
+**Dick Fiddy, BFI Screenonline**
 
 **Francis Hitching (editor of Musical Programmes at Rediffusion)  
-on ‘Ready Steady Go!’**
-
+on ‘Ready Steady Go!’**  
 The phenomenon about those early days of _Ready Steady Go!_, was not the teenagers who enjoyed it, but the adults. They, used to write and telephone in their hundreds: protesting, inquiring, congratulating. If there was one word to describe their reaction, it was bafflement. They simply couldn’t believe their eyes.
 
 _RSG!_ quickly became half a musical programme, half a weekly documentary. It was the first pop programme to show teenagers as they really were, acne and all. The reason for its early runaway success (one week it had a rating in the sixties, easily a record for the slot) was that it happened at a time when teenagers were more curious, more inventive, more interesting, more clanish, and more independent than ever before. Their clothes, their dancing and their music all showed this. And the outside world looked on bewildered, as explorers at a complex initiation/fertility rite.
@@ -35,5 +32,5 @@ From _Fusion_, the house magazine of Rediffusion – number 45, Christmas 1966
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODQzNDU4XX0=
+eyJoaXN0b3J5IjpbLTEwMzIyMzYwNTFdfQ==
 -->
