@@ -36,30 +36,22 @@ _Hair Stylist:_ Esperanza Goméz
 _Music_: Eduardo Hernández Moncada<br>
 _Sound:_ José B. Carles
 
-_Cast:<br>
+**Cast**<br>
 María Félix _(Beatriz Peñafiel)_  
 Pedro Armendáriz _(General José Juan Reyes)_  
 Fernando Fernández _(Padre Rafael Sierra)_  
 José Morcillo _(Carlos Peñafiel)_  
 Eduardo Arozamena _(Alcalde Joaquín Gómez)_  
 Miguel Inclán _(Captain Bocanegra)_<br>
-
 Manuel Dondé _(Fidel Bernal)_<br>
-
 Eugenio Rossi _(Eduardo Roberts)_<br>
-
 Norma Hill _(Rosa de Bernal)_<br>
-
 Juan García _(Captain Quiñones)_<br>
-
 José Torvay _(Maestro Apolonio Sánchez)_<br>
-
 Pascual García Peña _(Merolico)_
 
 Mexico 1946<br>
-
 99 mins<br>
-
 35mm
 
 A BFI National Archive print
@@ -67,5 +59,5 @@ A BFI National Archive print
 Restored by UCLA Film & Television Archive and The Film Foundation’s World Cinema Project in collaboration with Fundacion Televisa AC and Filmoteca de la UNAM. Restoration funded by the Material World Charitable Foundation.
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIwNDA0MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzUxMjI0NzFdfQ==
 -->
