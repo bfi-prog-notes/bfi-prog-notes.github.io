@@ -15,14 +15,11 @@ I remember seeing a cut of _Death and Transfiguration_ and being stunned by the 
 
 The trilogy did the rounds of the international festival circuits and was often seen – in the States in particular – as an unnecessarily pessimistic piece, receiving limited arthouse distribution as a result. In a ‘glad to be gay’ climate, the insecurity, guilt and downright loneliness so astutely expressed in these films was an unfashionable stance. Because Terence dared to show the pain of growing up Catholic and homosexual in working-class Liverpool in the ’50s and early ’60s, the films were not celebrated enough. Terence once told me that when he recognised his homosexuality he knelt in prayer for so long that his knees bled – this pain is conveyed in the spirit of his films.  
 **Jennifer Howarth, _Sight and Sound_, September 1994**
+<br><br>
 
-
-
-**Children**
-
+**Children**  
 _Directed by:_ Terence Davies  
-©_/Production:_  
-British Film Institute Production Board  
+©_/Production:_  British Film Institute Production Board  
 _Executive Production Supervisor:_ Geoffrey Evans  
 _Production:_ Peter Shannon  
 _Production Assistant:_ Rick Thomas  
@@ -34,42 +31,30 @@ _Assistant Cameraman:_ Chris Evans
 _Editors:_ Digby Rumsey, Sarah Ellis  
 _Cor Anglais Soloist:_ Stella Dickinson  
 _Sound Recordist:_ Digby Rumsey  
-_With special thanks to:_
+_With special thanks to:_ Alan Dosser and The Everyman Theatre Co.,  Notre Dame School, The McKee School  
 
-Alan Dosser and The Everyman Theatre Co.,  
-Notre Dame School, The McKee School  
-_Cast:_
-
+_Cast_  
 Phillip Mawdsley  
 Nick Stringer  
 Val Lilley  
-Robin Hooper _(Robert, aged 23)_
-
-Colin Hignett
-
-Robin Bowen
-
+Robin Hooper _(Robert, aged 23)_  
+Colin Hignett  
+Robin Bowen  
 Harry Wright  
-Phillip Joseph
-
-Trevor Eve
-
-Linda Beckett
-
+Phillip Joseph  
+Trevor Eve  
+Linda Beckett  
 Bill Maxwell  
-Elizabeth Estensen
-
-Malcolm Hughes
-
-Katherine Fahey
-
+Elizabeth Estensen  
+Malcolm Hughes  
+Katherine Fahey  
 Marjorie Rowlandson  
 Ann Kiesler  
-UK 1976©
 
-46 mins
-
+UK 1976©  
+46 mins  
 Digital
+<br>
 
 **Madonna and Child**
 
@@ -168,5 +153,5 @@ Digital
 
 Restoration supported by Simon and Harley Hessel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTA0MjQyMF19
+eyJoaXN0b3J5IjpbLTU5MTk0MDIzNl19
 -->
