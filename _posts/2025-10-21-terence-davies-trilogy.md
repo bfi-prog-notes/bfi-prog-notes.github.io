@@ -130,13 +130,17 @@ Gerry Shaw
 Mandy Walsh  
 Paul Oakley  
 children from the McKee School  
-UK 1983©
 
-26 mins
-
+UK 1983©  
+26 mins  
 Digital
 
 Restoration supported by Simon and Harley Hessel
+<br>
+
+**With thanks to**  
+James Dowling, John Taylor, Dan Copley,  
+Sophie Smith, Edge Hill University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjM2NjQ5Ml19
+eyJoaXN0b3J5IjpbLTk3NTIyOTk1MF19
 -->
