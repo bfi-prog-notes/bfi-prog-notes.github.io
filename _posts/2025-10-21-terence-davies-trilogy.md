@@ -33,7 +33,7 @@ _Cor Anglais Soloist:_ Stella Dickinson
 _Sound Recordist:_ Digby Rumsey  
 _With special thanks to:_ Alan Dosser and The Everyman Theatre Co.,  Notre Dame School, The McKee School  
 
-_Cast_  
+_Cast:_  
 Phillip Mawdsley  
 Nick Stringer  
 Val Lilley  
@@ -56,8 +56,7 @@ UK 1976©
 Digital
 <br>
 
-**Madonna and Child**
-
+**Madonna and Child**  
 _Directed by:_ Terence Davies  
 ©_/Production Company:_ National Film School  
 _Production:_ Mike Maloney  
@@ -70,13 +69,9 @@ _Grip:_ Tim Rolt
 _Editor:_ Mick Audsley  
 _Sound Recordist:_ Antoinette de Bromhead  
 _Dubbing Editor:_ Geoff Hogg  
-_With special thanks to:_ Sacred Heart Parish Church,
+_With special thanks to:_ Sacred Heart Parish Church, H.A. Harben & Co., The Harold Ackerley Studio, Canon Kennedy Primary School  
 
-H.A. Harben & Co., The Harold Ackerley Studio,
-
-Canon Kennedy Primary School  
-_Cast:_
-
+_Cast:_  
 Terry O’Sullivan _(Robert Tucker)_  
 Sheila Raynor _(Robert’s mother)_  
 Paul Barber  
@@ -88,18 +83,15 @@ Mal Jefferson
 Lovette Edwards  
 Rita Thatchery  
 Eddie Ross  
-UK 1980©
 
-30 mins
-
+UK 1980©  
+30 mins  
 Digital
+<br>
 
-**Death and Transfiguration**
-
+**Death and Transfiguration**  
 _Directed by:_ Terence Davies  
-_This film was financially assisted by:_  
-The Greater London Arts Association,  
-The British Film Institute  
+_This film was financially assisted by:_  The Greater London Arts Association, The British Film Institute  
 _Executive Producer:_ Maureen McCue  
 _Production:_ Claire Barwell  
 _Assistant Director:_ Aisling Walsh  
@@ -113,17 +105,10 @@ _Art Director:_ Miki van Zwanenberg
 _Assistant Art Director:_ Rachel Taite  
 _Make-up Adviser:_ Fae Hammond  
 _Performing ‘It All Depends on You’:_ Doris Day  
-_Sound Recording:_ Mohammed Hassini,  
-Charles Patey, Mark Frith  
-_With special thanks to:_  
-Michael Samuelson (Samuelson Films Service),
+_Sound Recording:_ Mohammed Hassini,  Charles Patey, Mark Frith  
+_With special thanks to:_  Michael Samuelson (Samuelson Films Service), The National Film and Television School, The City of Liverpool, Bethnal Green Hospital,  St Mary Abbotts Hospital  
 
-The National Film and Television School,
-
-The City of Liverpool, Bethnal Green Hospital,  
-St Mary Abbotts Hospital  
-_Cast:_
-
+_Cast:_  
 Wilfrid Brambell _(Robert Tucker)_  
 Terry O’Sullivan  
 Iain Munro  
@@ -153,5 +138,5 @@ Digital
 
 Restoration supported by Simon and Harley Hessel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTk0MDIzNl19
+eyJoaXN0b3J5IjpbLTI1NjM2NjQ5Ml19
 -->
