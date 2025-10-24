@@ -47,11 +47,11 @@ Katrin Schaake _(Sidonie von Grasenabb)_
 Eva Mattes _(Gabriele von Kant)_  
 Gisela Fackeldey _(Valerie von Kant)_  
 Irm Hermann _(Marlene)_  
-West Germany 1972
 
-125 mins
-
+West Germany 1972  
+125 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTU4MTY4NV19
+eyJoaXN0b3J5IjpbLTc5ODQwMDQzOV19
 -->
