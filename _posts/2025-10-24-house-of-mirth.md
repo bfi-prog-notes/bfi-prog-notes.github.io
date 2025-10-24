@@ -47,10 +47,8 @@ _Director_: Terence Davies
 ©: Granada Film Limited, FilmFour Limited  
 _Presented by_: Granada Film  
 _Production Company_: Three Rivers  
-_In association with_: Arts Council of England, FilmFour, Scottish Arts Council,  
-Showtime Networks, Glasgow Film Fund  
-_With participation of_: Diaphana Films,  
-Kinowelt Filmproduktion  
+_In association with_: Arts Council of England, FilmFour, Scottish Arts Council, Showtime Networks, Glasgow Film Fund  
+_With participation of_: Diaphana Films,  Kinowelt Filmproduktion  
 _Executive Producers_: Bob Last, Pippa Cross  
 _Producer_: Olivia Stewart  
 _Co-producer_: Alan J. Wands  
@@ -59,8 +57,7 @@ _Production Manager_: Wendy Broom
 _Production Co-ordinator_: Mandy McKay  
 _Production Accountant_: Louise Coulter  
 _Location Manager_: Sarah Lee  
-_Location Managers (2nd Unit)_: Valerie Bresso,  
-Tony Hood  
+_Location Managers (2nd Unit)_: Valerie Bresso,  Tony Hood  
 _Post-production Supervisor_: Sarah Lee  
 _Post-production Co-ordinator_: Anita M. Patel  
 _Post-production Consultant_: Michael Solinger  
@@ -70,8 +67,7 @@ _2nd Assistant Director_: William Booker
 _3rd Assistant Director_: Nanna Mailand-Hansen  
 _Director’s Assistant_: Alex Purbrick  
 _Script Supervisor_: Pat Rambaut  
-_Casting_: Billy Hopkins, Suzanne Smith,  
-Kerry Barden  
+_Casting_: Billy Hopkins, Suzanne Smith,  Kerry Barden  
 _Additional Casting_: Julia Duff  
 _Written by_: Terence Davies  
 _From the novel by_: Edith Wharton  
@@ -84,10 +80,8 @@ _Stills Photographer_: Jaap Buitendijk
 _Visual Effects_: Peerless Camera Company  
 _Visual Effects Supervisor_: John Paul Docherty  
 _Visual Effects Producer_: Susi Roper  
-_Computer Animation_: Mark Twinam-Cauchi,  
-Tim Ollive  
-_Digital Compositing_: John Swinnerton,  
-Steve Cutmore, Pat Wong, Mark Spevick  
+_Computer Animation_: Mark Twinam-Cauchi,  Tim Ollive  
+_Digital Compositing_: John Swinnerton,  Steve Cutmore, Pat Wong, Mark Spevick  
 _Special Effects Supervisor_: Stuart Murdoch  
 _Special Effects (2nd Unit)_: Ricky Farns  
 _Editor_: Michael Parker  
@@ -100,10 +94,8 @@ _Property Master_: Alan Bailey
 _Costume Designer_: Monica Howe  
 _Wardrobe Supervisor_: Ann Taylor  
 _Hair/Make-up_: Jan Harrison  
-_Hair/Make-up (Gillian Anderson)_:  
-Eva Marieges Moore  
-_Make-up/Hair Artists_: Meg Speirs,  
-Dianne Millar, Chrissie Powers  
+_Hair/Make-up (Gillian Anderson)_:  Eva Marieges Moore  
+_Make-up/Hair Artists_: Meg Speirs,  Dianne Millar, Chrissie Powers  
 _Musical Director_: Adrian Johnston  
 _Conductor_: Terry Davies  
 _Music Supervisor_: Heather Bownass  
@@ -123,8 +115,7 @@ _Dialect Coach_: Julia Wilson-Dickson
 _Voice Coach_: Patsy Rodenberg  
 _Horses/Carriages_: Debbie Kaye
 
-_Cast:_
-
+**Cast**  
 Gillian Anderson _(Lily Bart)_  
 Dan Aykroyd _(Gus Trenor)_  
 Eleanor Bron _(Mrs Peniston)_  
@@ -161,15 +152,14 @@ Mary Goonan _(2nd millinery girl)_
 Gowan Calder _(3rd millinery girl)_  
 Morag Siller _(4th millinery girl)_
 
-UK-USA-Germany 2000©
-
-140 mins
-
+UK-USA-Germany 2000©  
+140 mins  
 Digital
 
 A BFI re-release
 
 _The House of Mirth_ will be available on BFI Blu-ray on 17 November
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk2ODc3MTRdfQ==
+eyJoaXN0b3J5IjpbMTc0MjE2OTk2MF19
 -->
