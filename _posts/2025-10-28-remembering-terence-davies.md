@@ -33,11 +33,10 @@ My own memories of Terence Davies will never be decoupled from the experience of
 
 At the conclusion of that deeply nurturing conversation, as I was nervously pressing stop on my audio recorder, Davies then looked up at me with a warm smile and asked, ‘So… what is your book about?’ Concerned and amazed, I responded: ‘You! The book is about you.’ Davies’s face turned red and lit up like a child, delighted but also humbled beyond belief.
 
-‘Me?!’ It was an expression of unbelievable modesty coming from a man many agree was England’s greatest filmmaker of the last half century, but also evidence that Davies, never a commercially successful director in all the boring ways we measure such things, was always on the edge of being forgotten. It’s impossible to imagine, however, that Davies’s cinema will ever be forgotten by anyone who has seen a frame of it; his monumental films held candles as vigils to the form itself, and now without him, we will – we must – keep that flame burning.
-
-Michael Koresky, bfi.org.uk, 7 October 2023
+‘Me?!’ It was an expression of unbelievable modesty coming from a man many agree was England’s greatest filmmaker of the last half century, but also evidence that Davies, never a commercially successful director in all the boring ways we measure such things, was always on the edge of being forgotten. It’s impossible to imagine, however, that Davies’s cinema will ever be forgotten by anyone who has seen a frame of it; his monumental films held candles as vigils to the form itself, and now without him, we will – we must – keep that flame burning.  
+**Michael Koresky, bfi.org.uk, 7 October 2023**
 
 Michael Koresky is the author of the book _Terence Davies_, published by University of Illinois Press in their Contemporary Film Directors series.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjU0NDE1M119
+eyJoaXN0b3J5IjpbLTIwMzg1MDI5NTVdfQ==
 -->
