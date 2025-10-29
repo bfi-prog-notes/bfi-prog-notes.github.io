@@ -1,3 +1,14 @@
+---
+layout: post
+title: Spring in a Small Town
+published: true
+date: 2025-10-29
+readtime: true
+categories: ['Too Much<br>Melodrama on Film']
+tags: [Romance, Drama]
+metadata: 'China 1948, 98 mins<br> Director: Fei Mu'
+pdf: '2025-10-29-spring-in-a-small-town.pdf'
+---
 
 Fei Mu is considered part of the Second Generation of Chinese filmmakers, memorably captured in _Centre Stage_ (aka _Ruan Lingyu_, 1991), Stanley Kwan’s biopic of actress Ruan Lingyu. The Second Generation flourished in the 1930s, against the backdrop of the intense civil war between Chiang Kaishek’s Nationalists and Mao’s Communists. Unlike his contemporaries, such as Cai Chusheng, the director of _New Women_ (1935), and Wu Yonggang, the director of _The Goddess_ (1934), Fei Mu was not especially interested in furthering the leftist agendas of the film cadres who dominated his base at Lianhua Studios. He was instead viewed as a ‘poet director’, not much of a commendation during an age when political affiliation meant all. His interest in formal experimentation, symbolism, philosophical contemplation and use of subjectivity (a list identified by David Bordwell) set him apart from his contemporaries, who largely deployed Hollywood story structures and technique to convey their progressive messages.
 
@@ -54,6 +65,30 @@ China 1948<br>
 98 mins<br>
 Digital<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMzE0MTE2MzddfQ==
 -->
