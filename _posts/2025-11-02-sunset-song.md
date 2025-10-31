@@ -39,9 +39,9 @@ _What was the thorniest thing to deal with?_
 
 The constant pressure of not having enough money. Because we all took a risk. That was a constant strain, of having to drop scenes or rewrite them. I’ll never do that again. It was very unpleasant, but necessary. There was also the physical discomfort of being in Scotland in the cold and the mud. I had to have four Luxembourg actors [to meet funding stipulations] and the cast we had was all Irish. This lad came in who looked exactly like Toulouse-Lautrec. And I said, ‘The problem is he’s supposed to be Scottish,’ and he said, ‘Well, my accent isn’t very good,’ and I said, ‘I got that.’ They said, ‘Well, you’ve got to have one more actor from Luxembourg that has a line.’ The only person left was this lovely gentleman called Hercule, who was playing the undertaker, and I suggested he could say, ‘That’s all folks!’ and that went down like a lead balloon.
 
-Terence Davies interviewed by Nick James, _Sight and Sound_, January 2016
+**Terence Davies interviewed by Nick James, _Sight and Sound_, January 2016**
 <br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDc4MDM4M119
+eyJoaXN0b3J5IjpbMTAwMTcxODQzM119
 -->
