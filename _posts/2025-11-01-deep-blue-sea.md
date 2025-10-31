@@ -38,8 +38,7 @@ _For UKFC: Head of Film Fund_: Tanya Seghatchian; _Senior Production and Develop
 _For Film4: Head of Business Affairs_: Harry Dixon; _Head of Production_: Tracey Josephs; _Head of Commercial Development_: Sue Bruce-Smith  
 _For Protagonist Pictures: CEO_: Ben Roberts; _Head of Sales_: Charlotte Van Weede; _Head of Acquisitions_: Jeremy Baxter; _Head of Legal and Business Affairs_: Simon Osborn; _Head of Marketing_: Bridget Pedgrift  
 _For Artificial Eye: Managing Directors_: Louisa Dent, Jonathan Perchal; _Acquisitions Executive_:  Ailsa Ferrier  
-_For Fulcrum Media Finance: Managing Director_: Sharon Menzies; _Head of Business Affairs_:  
-Alice Clough  
+_For Fulcrum Media Finance: Managing Director_: Sharon Menzies; _Head of Business Affairs_:  Alice Clough  
 _Production Manager_: Monique Mussell  
 _Assistant Production Co-ordinator_: Sanjay Sharma  
 _Production Accountant_: Maxine Stanley  
@@ -64,9 +63,7 @@ _Rigging Gaffer_: Tim Wiley
 _Key Grips_: Dan Rake, Warwick Drucker  
 _Stills Photographer_: Liam Daniel  
 _Visual Effects by_: LipSync Post  
-_For LipSync Post: Digital Effects Supervisor_: Luke Butler; _CG Supervisor_: Sam Cox; _Executive Visual Effects Supervisors_: Sean H. Farrow, Stefan Drury; _Visual Effects Co-ordinator_: Lucy Tanner; _Digital Compositors_: Sheila Wickens, James Elster,  
-Paul Daiko
-
+_For LipSync Post: Digital Effects Supervisor_: Luke Butler; _CG Supervisor_: Sam Cox; _Executive Visual Effects Supervisors_: Sean H. Farrow, Stefan Drury; _Visual Effects Co-ordinator_: Lucy Tanner; _Digital Compositors_: Sheila Wickens, James Elster,  Paul Daiko  
 _Special Effects Supervisor_: Colin Gorry  
 _Senior Special Effects Technicians_: Ed Smith, Jonathan Wilson  
 _Editor_: David Charap  
@@ -107,8 +104,7 @@ _Filmed with_: Panavision Cameras and Lenses
 _DI Supervisor_: James Clarke  
 _Filmed at_: 3 Mills Studios
 
-_Cast:_
-
+**Cast**  
 Rachel Weisz _(Hester Collyer)_  
 Tom Hiddleston _(Freddie Page)_  
 Simon Russell-Beale _(Sir William Collyer)_  
@@ -125,13 +121,12 @@ Nicholas Amer _(Mr Elton)_
 Nick James _(man singing in pub)_ *  
 Jane Giles _(woman on tube platform)_ *
 
-UK-Australia 2011©
-
-98 mins
-
+UK-Australia 2011©  
+98 mins  
 Digital
 
-* Uncredited
+*Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NTU3MDc4XX0=
+eyJoaXN0b3J5IjpbLTE4NDM4Njk4NTZdfQ==
 -->
