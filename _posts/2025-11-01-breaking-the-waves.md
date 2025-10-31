@@ -49,214 +49,199 @@ I think that this strong emotional engagement was very important for me. Because
 <br><br>
 
 **Breaking the Waves**<br>
-
 _Directed by_: Lars von Trier<br>
-
 ©: Zentropa Entertainments ApS, La Sept Cinéma<br>
-
 _Produced by_: Zentropa Entertainments ApS<br>
-
-_In collaboration with_: Trust Film Svenska AB,
-
-Liberator Productions, Argus Film Produktie, Northern Lights A/S<br>
-
-_In co-production with_: La Sept Cinéma,  
-SVT Kanal 1 Drama, Media Investment Club,
-
-Nordisk Film- och TV-Fond, VPRO<br>
-
-_Supported by_: Det Danske Filminstitut,  
-Svenska Filminstitutet, Det Norske Filminstituttet, Stichting Nederlands Fonds voor de Film, Stichting Co-productiefonds Binnenlandse Omroep,
-
-Suomen Elokuvasäätiö<br>
-
-_Developed with the support of_:  
-European Script Fund<br>
+_In collaboration with_: Trust Film Svenska AB, Liberator Productions, Argus Film Produktie, Northern Lights A/S<br>
+_In co-production with_: La Sept Cinéma,  SVT Kanal 1 Drama, Media Investment Club, Nordisk Film- och TV-Fond, VPRO<br>
+_Supported by_: Det Danske Filminstitut,  Svenska Filminstitutet, Det Norske Filminstituttet, Stichting Nederlands Fonds voor de Film, Stichting Co-productiefonds Binnenlandse Omroep, Suomen Elokuvasäätiö<br>
+_Developed with the support of_:  European Script Fund<br>
 
 _In association with_: Canal+, Danmarks Radio,
 
 Icelandic Film Corporation, Lucky Red, October Films, Philippe Bober, TV1000, Villealfa Filmproductions Oy, YLE, TV1, ZDF<br>
 
-_Executive Producer_: Lars Jönsson
+_Executive Producer_: Lars Jönsson<br>
 
 _Executive Producers (Nordisk F&TVF)_:  
-Bengt Forslund, Dag Alveberg
+Bengt Forslund, Dag Alveberg<br>
 
 _Executive Producer (Danske Filminstitut)_:  
-Jørgen Ljungdahl
+Jørgen Ljungdahl<br>
 
 _Executive Producer (Svenska Filminstitutet)_:  
-Per Lysander
+Per Lysander<br>
 
-_Executive Producers (Norske Filminstituttet)_: Oddvar Bull Tuhus, Gunnar Svensrud
+_Executive Producers (Norske Filminstituttet)_: Oddvar Bull Tuhus, Gunnar Svensrud<br>
 
-_Producers_: Vibeke Windeløv, Peter Aalbæk Jensen
+_Producers_: Vibeke Windeløv, Peter Aalbæk Jensen<br>
 
-_Co-producers_: Axel Helgeland, Peter van Vogelpoel, Rob Langestraat, Marianne Slot
+_Co-producers_: Axel Helgeland, Peter van Vogelpoel, Rob Langestraat, Marianne Slot<br>
 
-_Unit Production Manager_: Lene Nielsen
+_Unit Production Manager_: Lene Nielsen<br>
 
-_Production Manager_: Leif Mohlin
+_Production Manager_: Leif Mohlin<br>
 
-_Financial Controller_: Charlotte Vinther
+_Financial Controller_: Charlotte Vinther<br>
 
 _Production Accounts_: Ann Køj Slemming,  
-Ghita Nørrekjær, Ann Vognsen
+Ghita Nørrekjær, Ann Vognsen<br>
 
-_Location Manager_: Morten Kleener
+_Location Manager_: Morten Kleener<br>
 
-_Location Manager (Scotland)_: Janet Riddoch
+_Location Manager (Scotland)_: Janet Riddoch<br>
 
 _Location Scouting (Scotland)_: Anthony Dod Mantle,
 
-Peter Øvig Knudsen
+Peter Øvig Knudsen<br>
 
-_Post-production Supervisor_: Tove Jystrup
+_Post-production Supervisor_: Tove Jystrup<br>
 
-_2nd Unit Director_: Kristoffer Nyholm
+_2nd Unit Director_: Kristoffer Nyholm<br>
 
-_1st Assistant Director_: Morten Arnfred
+_1st Assistant Director_: Morten Arnfred<br>
 
-_Continuity_: Linda Daae
+_Continuity_: Linda Daae<br>
 
-_Casting_: Joyce Nettles
+_Casting_: Joyce Nettles<br>
 
-_Written by_: Lars von Trier
+_Written by_: Lars von Trier<br>
 
-_Co-writer_: Peter Asmussen
+_Co-writer_: Peter Asmussen<br>
 
-_Script Translation_: Jonathan Sydenham
+_Script Translation_: Jonathan Sydenham<br>
 
 _Script Consultants_:  
-Kirsten Bonnén Rask, Tómas Gislason
+Kirsten Bonnén Rask, Tómas Gislason<br>
 
-_Director of Photography_: Robby Müller
+_Director of Photography_: Robby Müller<br>
 
-_2nd Unit Director of Photography_: Eric Kress
+_2nd Unit Director of Photography_: Eric Kress<br>
 
-_Operator_: Jean-Paul Meurisse
+_Operator_: Jean-Paul Meurisse<br>
 
-_Still Photographer_: Rolf Konøw
+_Still Photographer_: Rolf Konøw<br>
 
-_Chapter/End Sequences_: Manipulasion
+_Chapter/End Sequences_: Manipulasion<br>
 
-_Chapter/End Sequences Artist_: Per Kirkeby
+_Chapter/End Sequences Artist_: Per Kirkeby<br>
 
-_Special Effects (Scotland)_: Lars Andersen
+_Special Effects (Scotland)_: Lars Andersen<br>
 
-_Graphic Designer_: Morten Constantineanu Bak
+_Graphic Designer_: Morten Constantineanu Bak<br>
 
-_Film Editor_: Anders Refn
+_Film Editor_: Anders Refn<br>
 
-_Assistant Editor_: Anders Johannes Bukh
+_Assistant Editor_: Anders Johannes Bukh<br>
 
-_Art Director_: Karl Júlíusson
+_Art Director_: Karl Júlíusson<br>
 
-_Property Master_: Peter Grant
+_Property Master_: Peter Grant<br>
 
-_Construction Manager_: Leo Jørgart
+_Construction Manager_: Leo Jørgart<br>
 
-_Costume Designer_: Manon Rasmussen
+_Costume Designer_: Manon Rasmussen<br>
 
-_Costumes (Scotland)_: Binkie Darling
+_Costumes (Scotland)_: Binkie Darling<br>
 
-_Make-up_: Jennifer Jorfald, Sanne Gravfort
+_Make-up_: Jennifer Jorfald, Sanne Gravfort<br>
 
-_Special Make-up/Surgical Effects_: Morten Jacobsen
+_Special Make-up/Surgical Effects_: Morten Jacobsen<br>
 
-_Title Sequence/Photographer_: Henrik Jongdahl
+_Title Sequence/Photographer_: Henrik Jongdahl<br>
 
-_Music Arranged/Orchestrated by_: Joachim Holbek
+_Music Arranged/Orchestrated by_: Joachim Holbek<br>
 
-_Sound Designer/Recording Mixer_: Per Streit
+_Sound Designer/Recording Mixer_: Per Streit<br>
 
-_Sound Recording (2nd Unit)_: Klas Baggström
+_Sound Recording (2nd Unit)_: Klas Baggström<br>
 
-_Boom Operator_: Ad Stoop
+_Boom Operator_: Ad Stoop<br>
 
-_Supervising Sound Editor_: Kristian Eidnes Andersen
+_Supervising Sound Editor_: Kristian Eidnes Andersen<br>
 
-_Dialogue Editor_: Hans Møller
+_Dialogue Editor_: Hans Møller<br>
 
-_Sound Effects Editor_: Peter Schultz
+_Sound Effects Editor_: Peter Schultz<br>
 
-_Foley Artist_: Julien Naudin
+_Foley Artist_: Julien Naudin<br>
 
-_Stunt Co-ordinator (Scotland)_: Terry Forrestal
+_Stunt Co-ordinator (Scotland)_: Terry Forrestal<br>
 
 _Studio_: Det Danske Filmstudie
 
-_Cast:_
+_Cast:_<br>
 
-Emily Watson _(Bess)_
+Emily Watson _(Bess)_<br>
 
-Stellan Skarsgård _(Jan)_
+Stellan Skarsgård _(Jan)_<br>
 
-Katrin Cartlidge _(Dodo)_
+Katrin Cartlidge _(Dodo)_<br>
 
-Jean-Marc Barr _(Terry)_
+Jean-Marc Barr _(Terry)_<br>
 
-Adrian Rawlins _(Doctor Richardson)_
+Adrian Rawlins _(Doctor Richardson)_<br>
 
-Jonathan Hackett _(the minister)_
+Jonathan Hackett _(the minister)_<br>
 
-Sandra Voe _(Bess’ mother)_
+Sandra Voe _(Bess’ mother)_<br>
 
-Udo Kier _(man on the trawler)_
+Udo Kier _(man on the trawler)_<br>
 
-Mikkel Gaup _(Pits)_
+Mikkel Gaup _(Pits)_<br>
 
-Roef Ragas _(Pim)_
+Roef Ragas _(Pim)_<br>
 
-Phil McCall _(grandfather)_
+Phil McCall _(grandfather)_<br>
 
-Robert Robertson _(chairman)_
+Robert Robertson _(chairman)_<br>
 
-Desmond Reilly _(an elder)_
+Desmond Reilly _(an elder)_<br>
 
-Sarah Gudgeon _(Sybilla)_
+Sarah Gudgeon _(Sybilla)_<br>
 
-Finlay Welsh _(coroner)_
+Finlay Welsh _(coroner)_<br>
 
-David Gallacher _(Glasgow doctor)_
+David Gallacher _(Glasgow doctor)_<br>
 
-Ray Jeffries _(man on bus)_
+Ray Jeffries _(man on bus)_<br>
 
-Owen Kavanagh _(man at lighthouse)_
+Owen Kavanagh _(man at lighthouse)_<br>
 
-Bob Docherty _(man on boat)_
+Bob Docherty _(man on boat)_<br>
 
-David Bateson _(young sailor)_
+David Bateson _(young sailor)_<br>
 
-Callum Cuthbertson _(radio operator)_
+Callum Cuthbertson _(radio operator)_<br>
 
-Gavin Mitchell _(police officer 1)_
+Gavin Mitchell _(police officer 1)_<br>
 
-Brian Smith _(police officer 2)_
+Brian Smith _(police officer 2)_<br>
 
-Iain Agnew _(praying man 1)_
+Iain Agnew _(praying man 1)_<br>
 
-Charles Kearney _(praying man 2)_
+Charles Kearney _(praying man 2)_<br>
 
-Steven Leach _(praying man 3)_
+Steven Leach _(praying man 3)_<br>
 
-Dorte Rømer _(nurse)_
+Dorte Rømer _(nurse)_<br>
 
-Anthony O’Donnell _(boy 1)_
+Anthony O’Donnell _(boy 1)_<br>
 
-John Wark _(boy 2)_
+John Wark _(boy 2)_<br>
 
-Ronnie McKellaig _(precentor)_
+Ronnie McKellaig _(precentor)_<br>
 
-Peter Bensted _(voice of ugly man)_
+Peter Bensted _(voice of ugly man)_<br>
 
-Simon Towler Jorfald _(voice of boy in film)_
+Simon Towler Jorfald _(voice of boy in film)_<br>
 
-Denmark-France-Sweden-Italy-Netherlands 1996©
+Denmark-France-Sweden-Italy-Netherlands 1996©<br>
 
-159 mins
+159 mins<br>
 
-Digital
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODc4NzM4NV19
+eyJoaXN0b3J5IjpbLTExNzEwNDcyM119
 -->
