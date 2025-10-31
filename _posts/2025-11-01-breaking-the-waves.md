@@ -56,174 +56,86 @@ _In collaboration with_: Trust Film Svenska AB, Liberator Productions, Argus Fil
 _In co-production with_: La Sept Cinéma,  SVT Kanal 1 Drama, Media Investment Club, Nordisk Film- och TV-Fond, VPRO<br>
 _Supported by_: Det Danske Filminstitut,  Svenska Filminstitutet, Det Norske Filminstituttet, Stichting Nederlands Fonds voor de Film, Stichting Co-productiefonds Binnenlandse Omroep, Suomen Elokuvasäätiö<br>
 _Developed with the support of_:  European Script Fund<br>
-
-_In association with_: Canal+, Danmarks Radio,
-
-Icelandic Film Corporation, Lucky Red, October Films, Philippe Bober, TV1000, Villealfa Filmproductions Oy, YLE, TV1, ZDF<br>
-
+_In association with_: Canal+, Danmarks Radio, Icelandic Film Corporation, Lucky Red, October Films, Philippe Bober, TV1000, Villealfa Filmproductions Oy, YLE, TV1, ZDF<br>
 _Executive Producer_: Lars Jönsson<br>
-
-_Executive Producers (Nordisk F&TVF)_:  
-Bengt Forslund, Dag Alveberg<br>
-
-_Executive Producer (Danske Filminstitut)_:  
-Jørgen Ljungdahl<br>
-
-_Executive Producer (Svenska Filminstitutet)_:  
-Per Lysander<br>
-
+_Executive Producers (Nordisk F&TVF)_:  Bengt Forslund, Dag Alveberg<br>
+_Executive Producer (Danske Filminstitut)_:  Jørgen Ljungdahl<br>
+_Executive Producer (Svenska Filminstitutet)_:  Per Lysander<br>
 _Executive Producers (Norske Filminstituttet)_: Oddvar Bull Tuhus, Gunnar Svensrud<br>
-
 _Producers_: Vibeke Windeløv, Peter Aalbæk Jensen<br>
-
 _Co-producers_: Axel Helgeland, Peter van Vogelpoel, Rob Langestraat, Marianne Slot<br>
-
 _Unit Production Manager_: Lene Nielsen<br>
-
 _Production Manager_: Leif Mohlin<br>
-
 _Financial Controller_: Charlotte Vinther<br>
-
-_Production Accounts_: Ann Køj Slemming,  
-Ghita Nørrekjær, Ann Vognsen<br>
-
+_Production Accounts_: Ann Køj Slemming,  Ghita Nørrekjær, Ann Vognsen<br>
 _Location Manager_: Morten Kleener<br>
-
 _Location Manager (Scotland)_: Janet Riddoch<br>
-
-_Location Scouting (Scotland)_: Anthony Dod Mantle,
-
-Peter Øvig Knudsen<br>
-
+_Location Scouting (Scotland)_: Anthony Dod Mantle, Peter Øvig Knudsen<br>
 _Post-production Supervisor_: Tove Jystrup<br>
-
 _2nd Unit Director_: Kristoffer Nyholm<br>
-
 _1st Assistant Director_: Morten Arnfred<br>
-
 _Continuity_: Linda Daae<br>
-
 _Casting_: Joyce Nettles<br>
-
 _Written by_: Lars von Trier<br>
-
 _Co-writer_: Peter Asmussen<br>
-
 _Script Translation_: Jonathan Sydenham<br>
-
-_Script Consultants_:  
-Kirsten Bonnén Rask, Tómas Gislason<br>
-
+_Script Consultants_:  Kirsten Bonnén Rask, Tómas Gislason<br>
 _Director of Photography_: Robby Müller<br>
-
 _2nd Unit Director of Photography_: Eric Kress<br>
-
 _Operator_: Jean-Paul Meurisse<br>
-
 _Still Photographer_: Rolf Konøw<br>
-
 _Chapter/End Sequences_: Manipulasion<br>
-
 _Chapter/End Sequences Artist_: Per Kirkeby<br>
-
 _Special Effects (Scotland)_: Lars Andersen<br>
-
 _Graphic Designer_: Morten Constantineanu Bak<br>
-
 _Film Editor_: Anders Refn<br>
-
 _Assistant Editor_: Anders Johannes Bukh<br>
-
 _Art Director_: Karl Júlíusson<br>
-
 _Property Master_: Peter Grant<br>
-
 _Construction Manager_: Leo Jørgart<br>
-
 _Costume Designer_: Manon Rasmussen<br>
-
 _Costumes (Scotland)_: Binkie Darling<br>
-
 _Make-up_: Jennifer Jorfald, Sanne Gravfort<br>
-
 _Special Make-up/Surgical Effects_: Morten Jacobsen<br>
-
 _Title Sequence/Photographer_: Henrik Jongdahl<br>
-
 _Music Arranged/Orchestrated by_: Joachim Holbek<br>
-
 _Sound Designer/Recording Mixer_: Per Streit<br>
-
 _Sound Recording (2nd Unit)_: Klas Baggström<br>
-
 _Boom Operator_: Ad Stoop<br>
-
 _Supervising Sound Editor_: Kristian Eidnes Andersen<br>
-
 _Dialogue Editor_: Hans Møller<br>
-
 _Sound Effects Editor_: Peter Schultz<br>
-
 _Foley Artist_: Julien Naudin<br>
-
 _Stunt Co-ordinator (Scotland)_: Terry Forrestal<br>
-
 _Studio_: Det Danske Filmstudie
 
-_Cast:_<br>
-
+**Cast**<br>
 Emily Watson _(Bess)_<br>
-
 Stellan Skarsgård _(Jan)_<br>
-
 Katrin Cartlidge _(Dodo)_<br>
-
 Jean-Marc Barr _(Terry)_<br>
-
 Adrian Rawlins _(Doctor Richardson)_<br>
-
 Jonathan Hackett _(the minister)_<br>
-
 Sandra Voe _(Bess’ mother)_<br>
-
 Udo Kier _(man on the trawler)_<br>
-
 Mikkel Gaup _(Pits)_<br>
-
 Roef Ragas _(Pim)_<br>
-
 Phil McCall _(grandfather)_<br>
-
 Robert Robertson _(chairman)_<br>
-
 Desmond Reilly _(an elder)_<br>
-
 Sarah Gudgeon _(Sybilla)_<br>
-
 Finlay Welsh _(coroner)_<br>
-
 David Gallacher _(Glasgow doctor)_<br>
-
 Ray Jeffries _(man on bus)_<br>
-
 Owen Kavanagh _(man at lighthouse)_<br>
-
 Bob Docherty _(man on boat)_<br>
-
 David Bateson _(young sailor)_<br>
-
 Callum Cuthbertson _(radio operator)_<br>
-
 Gavin Mitchell _(police officer 1)_<br>
-
 Brian Smith _(police officer 2)_<br>
-
 Iain Agnew _(praying man 1)_<br>
-
 Charles Kearney _(praying man 2)_<br>
-
 Steven Leach _(praying man 3)_<br>
-
 Dorte Rømer _(nurse)_<br>
 
 Anthony O’Donnell _(boy 1)_<br>
@@ -243,5 +155,5 @@ Denmark-France-Sweden-Italy-Netherlands 1996©<br>
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEwNDcyM119
+eyJoaXN0b3J5IjpbLTMyMjk0MDI5MV19
 -->
