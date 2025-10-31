@@ -12,245 +12,245 @@ On this level _Far from Heaven_ operates within the critical history that surrou
 This experiment (which occasionally acknowledges Fassbinder’s brilliant 1973 reworking of the Sirk story _Fear Eats the Soul_) has no possible social foundation. For instance, when Ron takes Cary into the country, the beautiful old mill stands by the stream offering an alternative and idyllic lifestyle. In the equivalent scene, Raymond takes Cathy into the woods, but there is no suggestion of a marginal culture or Thoreauesque ideal in which they can find refuge.
 
 On the other hand, Haynes turns the premise of _The Reckless Moment_ on its head: it is not the father’s absence that allows a louche underworld to threaten the respectable, middle-class home but rather his presence. The atmosphere of seedy downtown bars (brilliantly lit by Edward Lachman with green and purple highlights) is not displaced on to the blackmailer as in _The Reckless Moment_ but represents the repressed within the home itself. The two stories come together at the end. Cathy lies on her bed, crying for her lost love, and at the cruelty of their world, just as Lucia Harper in the same _mise en scène_ weeps for the petty criminal who had fallen in love with her. In both movies the telephone rings and Sybil calls out ‘Mr Harper/Mr Whitaker on the telephone, Mrs Harper/Mrs Whitaker!’ Here the films diverge. In _Far from Heaven_, a cutaway shot shows Frank talking on the telephone in his hotel room, with his lover in the background. Of course, there’s no such cutaway in _The Reckless Moment_. But the fan of the Hollywood melodrama cannot but pick up the implications behind Haynes’ suggestion. Tom Harper’s absence from the family might well be due to other reasons apart from engineering work in Berlin. While _Far from Heaven_ can be appreciated on any level, these cross-narrative implications, poignant and witty, suggest that now that cinema is history, the filmmaker can also be the film historian.  
-**Laura Mulvey, _Sight and Sound_, March 2003
+**Laura Mulvey, _Sight and Sound_, March 2003**
+<br><br>
 
-<![endif]-->
+**Far from Heaven**<br>
 
-**Far from Heaven**
+_Director:_ Todd Haynes<br>
 
-_Director:_ Todd Haynes
-
-©: Vulcan Productions, Focus Features
+©: Vulcan Productions, Focus Features<br>
 
 _Production Companies:_ Killer Films,  
-John Wells Productions, Section Eight Productions
+John Wells Productions, Section Eight Productions<br>
 
-_Presented by:_ TF1 International, Vulcan Productions
+_Presented by:_ TF1 International, Vulcan Productions<br>
 
-_Presented in association with:_ Focus Features
+_Presented in association with:_ Focus Features<br>
 
-_Executive Producers:_ John Wells, Eric Robison, Tracy Brimm, John Sloss, Steven Soderbergh, George Clooney
+_Executive Producers:_ John Wells, Eric Robison, Tracy Brimm, John Sloss, Steven Soderbergh, George Clooney<br>
 
-_Produced by:_ Jody Patton, Christine Vachon
+_Produced by:_ Jody Patton, Christine Vachon<br>
 
-_Co-producers:_ Bradford Simpson, Declan Baldwin
+_Co-producers:_ Bradford Simpson, Declan Baldwin<br>
 
-_For Killer Films:_ Pamela Koffler, Katie Roumel
+_For Killer Films:_ Pamela Koffler, Katie Roumel<br>
 
-_Creative Executive For Killer Films:_ Jocelyn Hayes
+_Creative Executive For Killer Films:_ Jocelyn Hayes<br>
 
-_Production Executive For Killer Films:_ Jon Marcus
+_Production Executive For Killer Films:_ Jon Marcus<br>
 
-_Production Co-ordinator:_ Koula Sossiadis
+_Production Co-ordinator:_ Koula Sossiadis<br>
 
-_Production Manager:_ Scott Koenig
+_Production Manager:_ Scott Koenig<br>
 
-_Location Manager:_ Mike S. Ryan
+_Location Manager:_ Mike S. Ryan<br>
 
-_Location Co-ordinator:_ Ana Lombardo
+_Location Co-ordinator:_ Ana Lombardo<br>
 
-_Post-production Supervisor:_ Bradley M. Goodman
+_Post-production Supervisor:_ Bradley M. Goodman<br>
 
-_1st Assistant Director:_ Timothy Bird
+_1st Assistant Director:_ Timothy Bird<br>
 
-_2nd Assistant Director:_ Peter Thorell
+_2nd Assistant Director:_ Peter Thorell<br>
 
-_2nd 2nd Assistant Director:_ Kristal D. Mosley
+_2nd 2nd Assistant Director:_ Kristal D. Mosley<br>
 
-_Script Supervisor:_ Thomas Johnston
+_Script Supervisor:_ Thomas Johnston<br>
 
-_Casting:_ Laura Rosenthal
+_Casting:_ Laura Rosenthal<br>
 
-_Assistant Casting:_ Krista Bogetich
+_Assistant Casting:_ Krista Bogetich<br>
 
-_Screenplay:_ Todd Haynes
+_Screenplay:_ Todd Haynes<br>
 
-_Director of Photography:_ Edward Lachman
+_Director of Photography:_ Edward Lachman<br>
 
-_Camera Operator:_ Craig Haagensen
+_Camera Operator:_ Craig Haagensen<br>
 
-_1st Assistant Camera:_ Richard Gioia
+_1st Assistant Camera:_ Richard Gioia<br>
 
-_2nd Assistant Camera:_ Jay Feather
+_2nd Assistant Camera:_ Jay Feather<br>
 
-_Stills Photography:_ David Lee, Abbot Genser
+_Stills Photography:_ David Lee, Abbot Genser<br>
 
 _Process/Rear Screen Projections:_
 
-William G. Hansard, Don Hansard Jr
+William G. Hansard, Don Hansard Jr<br>
 
-_Special Effects Co-ordinator:_ Steve Kirshoff
+_Special Effects Co-ordinator:_ Steve Kirshoff<br>
 
-_Graphics:_ Holly Watson
+_Graphics:_ Holly Watson<br>
 
-_Edited by:_ James Lyons
+_Edited by:_ James Lyons<br>
 
-_Associate Editor:_ Shelly Westerman
+_Associate Editor:_ Shelly Westerman<br>
 
-_Production Designer:_ Mark Friedberg
+_Production Designer:_ Mark Friedberg<br>
 
-_Art Director:_ Peter Rogness
+_Art Director:_ Peter Rogness<br>
 
 _Assistant Art Directors:_ Jeff McDonald,
 
-Miguel Lopez-Castillo
+Miguel Lopez-Castillo<br>
 
-_Set Decorator:_ Ellen Christiansen
+_Set Decorator:_ Ellen Christiansen<br>
 
-_Assistant Set Decorator:_ Rena DeAngelo
+_Assistant Set Decorator:_ Rena DeAngelo<br>
 
-_Set Dresser Foreman:_ Harvey Goldberg
+_Set Dresser Foreman:_ Harvey Goldberg<br>
 
-_On-set Dresser:_ JoAnn Atwood
+_On-set Dresser:_ JoAnn Atwood<br>
 
 _Set Dressers:_ Henry Kaplan, Janine Pesce,  
-Joanna Hartell, Roman Greller
+Joanna Hartell, Roman Greller<br>
 
-_Costume Designer:_ Sandy Powell
+_Costume Designer:_ Sandy Powell<br>
 
-_Assistant Costume Designer:_ Lisa Padovani
+_Assistant Costume Designer:_ Lisa Padovani<br>
 
-_Costume Co-ordinator:_ M.J. McGrath
+_Costume Co-ordinator:_ M.J. McGrath<br>
 
 _Wardrobe Supervisors:_ Susan J. Wright,  
-David Davenport
+David Davenport<br>
 
-_Make-up Supervisor:_ Elaine Offers
+_Make-up Supervisor:_ Elaine Offers<br>
 
-_Make-up Artist:_ Hildie Ginsberg
+_Make-up Artist:_ Hildie Ginsberg<br>
 
-_Key Hairstylist:_ Alan D’Angerio
+_Key Hairstylist:_ Alan D’Angerio<br>
 
-_Hairstylist:_ Michael Kriston
+_Hairstylist:_ Michael Kriston<br>
 
-_Title Design:_ Bureau, NY, Marlene McCarty
+_Title Design:_ Bureau, NY, Marlene McCarty<br>
 
 _Titles/Opticals:_ Custom Film Effects,  
-Mark Dornfeld, Susan Shin George
+Mark Dornfeld, Susan Shin George<br>
 
-_Music:_ Elmer Bernstein
+_Music:_ Elmer Bernstein<br>
 
-_Piano Solos:_ Cynthia Millar
+_Piano Solos:_ Cynthia Millar<br>
 
-_Orchestration:_ Emilie A. Bernstein
+_Orchestration:_ Emilie A. Bernstein<br>
 
-_Choreographer:_ Ginger Thatcher
+_Choreographer:_ Ginger Thatcher<br>
 
-_Production Sound Mixer:_ Drew Kunin
+_Production Sound Mixer:_ Drew Kunin<br>
 
 _Boom Operators:_ Joseph White Jr,  
-Jeanne L. Gilliland
+Jeanne L. Gilliland<br>
 
 _Re-recording Mixers:_ Leslie Shatz,  
-Marshall Garlington
+Marshall Garlington<br>
 
-_Supervising Sound Editor:_ Kelley Baker
+_Supervising Sound Editor:_ Kelley Baker<br>
 
-_Researcher:_ Sheri Von Seeburg
+_Researcher:_ Sheri Von Seeburg<br>
 
 _Stunt Co-ordinator:_ Peter Bucossi
 
-_Cast:_
+_Cast:_<br>
 
-Julianne Moore _(Cathy Whitaker)_
+Julianne Moore _(Cathy Whitaker)_<br>
 
-Dennis Quaid _(Frank Whitaker)_
+Dennis Quaid _(Frank Whitaker)_<br>
 
-Dennis Haysbert _(Raymond Deagan)_
+Dennis Haysbert _(Raymond Deagan)_<br>
 
-Patricia Clarkson _(Eleanor Fine)_
+Patricia Clarkson _(Eleanor Fine)_<br>
 
-Viola Davis _(Sybil)_
+Viola Davis _(Sybil)_<br>
 
-James Rebhorn _(Doctor Bowman)_
+James Rebhorn _(Doctor Bowman)_<br>
 
-Celia Weston _(Mona Lauder)_
+Celia Weston _(Mona Lauder)_<br>
 
-Michael Gaston _(Stan Fine)_
+Michael Gaston _(Stan Fine)_<br>
 
-Ryan Ward _(David Whitaker)_
+Ryan Ward _(David Whitaker)_<br>
 
-Lindsay Andretta _(Janice Whitaker)_
+Lindsay Andretta _(Janice Whitaker)_<br>
 
-Jordan Puryear _(Sarah Deagan)_
+Jordan Puryear _(Sarah Deagan)_<br>
 
-Bette Henritze _(Mrs Leacock)_
+Bette Henritze _(Mrs Leacock)_<br>
 
-Barbara Garrick _(Doreen)_
+Barbara Garrick _(Doreen)_<br>
 
-Olivia Birkelund _(Nancy)_
+Olivia Birkelund _(Nancy)_<br>
 
-Kyle Smith _(Billy Hutchinson)_
+Kyle Smith _(Billy Hutchinson)_<br>
 
-Stevie Ray Dallimore _(Dick Dawson)_
+Stevie Ray Dallimore _(Dick Dawson)_<br>
 
-Mylika Davis _(Esther)_
+Mylika Davis _(Esther)_<br>
 
-Jason Franklin _(photographer)_
+Jason Franklin _(photographer)_<br>
 
-Gregory Marlow _(Reginald Carter)_
+Gregory Marlow _(Reginald Carter)_<br>
 
-C.C. Loveheart _(Marlene)_
+C.C. Loveheart _(Marlene)_<br>
 
-June Squibb _(elderly woman)_
+June Squibb _(elderly woman)_<br>
 
-Laurent Giroux _(man with moustache)_
+Laurent Giroux _(man with moustache)_<br>
 
-Alex Santoriello _(Spanish bartender)_
+Alex Santoriello _(Spanish bartender)_<br>
 
-Matt Malloy _(red-faced man)_
+Matt Malloy _(red-faced man)_<br>
 
-J.B. Adams _(Farnsworth)_
+J.B. Adams _(Farnsworth)_<br>
 
-Kevin Carrigan _(soda jerk)_
+Kevin Carrigan _(soda jerk)_<br>
 
-Chance Kelly _(Tallman)_
+Chance Kelly _(Tallman)_<br>
 
-Declan Baldwin _(officer 1)_
+Declan Baldwin _(officer 1)_<br>
 
-Brian Delate _(officer 2)_
+Brian Delate _(officer 2)_<br>
 
-Pamela Evans _(Kitty)_
+Pamela Evans _(Kitty)_<br>
 
-Joe Holt _(hotel waiter)_
+Joe Holt _(hotel waiter)_<br>
 
-Ben Moss _(Hutch’s friend)_
+Ben Moss _(Hutch’s friend)_<br>
 
-Susan Willis _(receptionist)_
+Susan Willis _(receptionist)_<br>
 
-Karl Schroeder _(conductor)_
+Karl Schroeder _(conductor)_<br>
 
-Lance Olds _(bail clerk)_
+Lance Olds _(bail clerk)_<br>
 
-Nicholas Joy _(blond boy)_
+Nicholas Joy _(blond boy)_<br>
 
-Virl Andrick _(blond boy’s father)_
+Virl Andrick _(blond boy’s father)_<br>
 
-Jonathan McClain _(staff member 1)_
+Jonathan McClain _(staff member 1)_<br>
 
-Jezebel Montero _(hooker)_
+Jezebel Montero _(hooker)_<br>
 
-Geraldine Bartlett _(woman at party)_
+Geraldine Bartlett _(woman at party)_<br>
 
-Ernest Rayford III _(glaring man)_
+Ernest Rayford III _(glaring man)_<br>
 
-Duane McLaughlin _(Jake)_
+Duane McLaughlin _(Jake)_<br>
 
-Betsy Aidem _(pool mother)_
+Betsy Aidem _(pool mother)_<br>
 
-Mary Anna Klindtworth _(pool daughter)_
+Mary Anna Klindtworth _(pool daughter)_<br>
 
-Ted Neustadt _(Ron)_
+Ted Neustadt _(Ron)_<br>
 
-Thomas Torres _(band leader)_
+Thomas Torres _(band leader)_<br>
 
 Blondell Cooper _(hostess)_
 
-USA-France 2002©
+USA-France 2002©<br>
 
-107 mins
+107 mins<br>
 
-Digital
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDY3MDk4OF19
+eyJoaXN0b3J5IjpbLTU0MjczNDI5NV19
 -->
