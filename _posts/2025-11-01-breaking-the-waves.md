@@ -137,23 +137,16 @@ Iain Agnew _(praying man 1)_<br>
 Charles Kearney _(praying man 2)_<br>
 Steven Leach _(praying man 3)_<br>
 Dorte Rømer _(nurse)_<br>
-
 Anthony O’Donnell _(boy 1)_<br>
-
 John Wark _(boy 2)_<br>
-
 Ronnie McKellaig _(precentor)_<br>
-
 Peter Bensted _(voice of ugly man)_<br>
-
 Simon Towler Jorfald _(voice of boy in film)_<br>
 
 Denmark-France-Sweden-Italy-Netherlands 1996©<br>
-
 159 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjk0MDI5MV19
+eyJoaXN0b3J5IjpbMTkwODUwMzY1OV19
 -->
