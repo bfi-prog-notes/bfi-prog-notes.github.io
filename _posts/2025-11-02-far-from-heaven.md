@@ -16,195 +16,96 @@ On the other hand, Haynes turns the premise of _The Reckless Moment_ on its head
 <br><br>
 
 **Far from Heaven**<br>
-
 _Director:_ Todd Haynes<br>
-
 ©: Vulcan Productions, Focus Features<br>
-
-_Production Companies:_ Killer Films,  
-John Wells Productions, Section Eight Productions<br>
-
+_Production Companies:_ Killer Films,  John Wells Productions, Section Eight Productions<br>
 _Presented by:_ TF1 International, Vulcan Productions<br>
-
 _Presented in association with:_ Focus Features<br>
-
 _Executive Producers:_ John Wells, Eric Robison, Tracy Brimm, John Sloss, Steven Soderbergh, George Clooney<br>
-
 _Produced by:_ Jody Patton, Christine Vachon<br>
-
 _Co-producers:_ Bradford Simpson, Declan Baldwin<br>
-
 _For Killer Films:_ Pamela Koffler, Katie Roumel<br>
-
 _Creative Executive For Killer Films:_ Jocelyn Hayes<br>
-
 _Production Executive For Killer Films:_ Jon Marcus<br>
-
 _Production Co-ordinator:_ Koula Sossiadis<br>
-
 _Production Manager:_ Scott Koenig<br>
-
 _Location Manager:_ Mike S. Ryan<br>
-
 _Location Co-ordinator:_ Ana Lombardo<br>
-
 _Post-production Supervisor:_ Bradley M. Goodman<br>
-
 _1st Assistant Director:_ Timothy Bird<br>
-
 _2nd Assistant Director:_ Peter Thorell<br>
-
 _2nd 2nd Assistant Director:_ Kristal D. Mosley<br>
-
 _Script Supervisor:_ Thomas Johnston<br>
-
 _Casting:_ Laura Rosenthal<br>
-
 _Assistant Casting:_ Krista Bogetich<br>
-
 _Screenplay:_ Todd Haynes<br>
-
 _Director of Photography:_ Edward Lachman<br>
-
 _Camera Operator:_ Craig Haagensen<br>
-
 _1st Assistant Camera:_ Richard Gioia<br>
-
 _2nd Assistant Camera:_ Jay Feather<br>
-
 _Stills Photography:_ David Lee, Abbot Genser<br>
-
-_Process/Rear Screen Projections:_
-
-William G. Hansard, Don Hansard Jr<br>
-
+_Process/Rear Screen Projections:_ William G. Hansard, Don Hansard Jr<br>
 _Special Effects Co-ordinator:_ Steve Kirshoff<br>
-
 _Graphics:_ Holly Watson<br>
-
 _Edited by:_ James Lyons<br>
-
 _Associate Editor:_ Shelly Westerman<br>
-
 _Production Designer:_ Mark Friedberg<br>
-
 _Art Director:_ Peter Rogness<br>
-
-_Assistant Art Directors:_ Jeff McDonald,
-
-Miguel Lopez-Castillo<br>
-
+_Assistant Art Directors:_ Jeff McDonald, Miguel Lopez-Castillo<br>
 _Set Decorator:_ Ellen Christiansen<br>
-
 _Assistant Set Decorator:_ Rena DeAngelo<br>
-
 _Set Dresser Foreman:_ Harvey Goldberg<br>
-
 _On-set Dresser:_ JoAnn Atwood<br>
-
-_Set Dressers:_ Henry Kaplan, Janine Pesce,  
-Joanna Hartell, Roman Greller<br>
-
+_Set Dressers:_ Henry Kaplan, Janine Pesce,  Joanna Hartell, Roman Greller<br>
 _Costume Designer:_ Sandy Powell<br>
-
 _Assistant Costume Designer:_ Lisa Padovani<br>
-
 _Costume Co-ordinator:_ M.J. McGrath<br>
-
-_Wardrobe Supervisors:_ Susan J. Wright,  
-David Davenport<br>
-
+_Wardrobe Supervisors:_ Susan J. Wright,  David Davenport<br>
 _Make-up Supervisor:_ Elaine Offers<br>
-
 _Make-up Artist:_ Hildie Ginsberg<br>
-
 _Key Hairstylist:_ Alan D’Angerio<br>
-
 _Hairstylist:_ Michael Kriston<br>
-
 _Title Design:_ Bureau, NY, Marlene McCarty<br>
-
-_Titles/Opticals:_ Custom Film Effects,  
-Mark Dornfeld, Susan Shin George<br>
-
+_Titles/Opticals:_ Custom Film Effects,  Mark Dornfeld, Susan Shin George<br>
 _Music:_ Elmer Bernstein<br>
-
 _Piano Solos:_ Cynthia Millar<br>
-
 _Orchestration:_ Emilie A. Bernstein<br>
-
 _Choreographer:_ Ginger Thatcher<br>
-
 _Production Sound Mixer:_ Drew Kunin<br>
-
-_Boom Operators:_ Joseph White Jr,  
-Jeanne L. Gilliland<br>
-
-_Re-recording Mixers:_ Leslie Shatz,  
-Marshall Garlington<br>
-
+_Boom Operators:_ Joseph White Jr,  Jeanne L. Gilliland<br>
+_Re-recording Mixers:_ Leslie Shatz,  Marshall Garlington<br>
 _Supervising Sound Editor:_ Kelley Baker<br>
-
 _Researcher:_ Sheri Von Seeburg<br>
-
 _Stunt Co-ordinator:_ Peter Bucossi
 
-_Cast:_<br>
-
+**Cast**<br>
 Julianne Moore _(Cathy Whitaker)_<br>
-
 Dennis Quaid _(Frank Whitaker)_<br>
-
 Dennis Haysbert _(Raymond Deagan)_<br>
-
 Patricia Clarkson _(Eleanor Fine)_<br>
-
 Viola Davis _(Sybil)_<br>
-
 James Rebhorn _(Doctor Bowman)_<br>
-
 Celia Weston _(Mona Lauder)_<br>
-
 Michael Gaston _(Stan Fine)_<br>
-
 Ryan Ward _(David Whitaker)_<br>
-
 Lindsay Andretta _(Janice Whitaker)_<br>
-
 Jordan Puryear _(Sarah Deagan)_<br>
-
 Bette Henritze _(Mrs Leacock)_<br>
-
 Barbara Garrick _(Doreen)_<br>
-
 Olivia Birkelund _(Nancy)_<br>
-
 Kyle Smith _(Billy Hutchinson)_<br>
-
 Stevie Ray Dallimore _(Dick Dawson)_<br>
-
 Mylika Davis _(Esther)_<br>
-
 Jason Franklin _(photographer)_<br>
-
 Gregory Marlow _(Reginald Carter)_<br>
-
 C.C. Loveheart _(Marlene)_<br>
-
 June Squibb _(elderly woman)_<br>
-
 Laurent Giroux _(man with moustache)_<br>
-
 Alex Santoriello _(Spanish bartender)_<br>
-
 Matt Malloy _(red-faced man)_<br>
-
 J.B. Adams _(Farnsworth)_<br>
-
 Kevin Carrigan _(soda jerk)_<br>
-
 Chance Kelly _(Tallman)_<br>
-
 Declan Baldwin _(officer 1)_<br>
 
 Brian Delate _(officer 2)_<br>
@@ -252,5 +153,5 @@ USA-France 2002©<br>
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjczNDI5NV19
+eyJoaXN0b3J5IjpbNzI0NTI2MDI5XX0=
 -->
