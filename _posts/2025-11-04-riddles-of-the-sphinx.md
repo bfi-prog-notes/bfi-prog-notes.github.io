@@ -18,11 +18,8 @@ At the moment of its production, _Riddles of the Sphinx_, along with films by Ba
 <br><br>
 
 **Riddles of the Sphinx**<br>
-
 _Direction_: Laura Mulvey, Peter Wollen<br>
-
 ©: British Film Institute<br>
-
 _Production_: BFI Production Board<br>
 
 _Producers_: Laura Mulvey, Peter Wollen<br>
@@ -122,5 +119,5 @@ Digital<br>
 
 The screening on Mon 17 Nov will be introduced  by writer Marina Warner<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTk0NzAzNl19
+eyJoaXN0b3J5IjpbLTE3NTk5NzkyODIsMTEzOTk0NzAzNl19
 -->
