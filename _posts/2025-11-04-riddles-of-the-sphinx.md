@@ -21,103 +21,56 @@ At the moment of its production, _Riddles of the Sphinx_, along with films by Ba
 _Direction_: Laura Mulvey, Peter Wollen<br>
 ©: British Film Institute<br>
 _Production_: BFI Production Board<br>
-
 _Producers_: Laura Mulvey, Peter Wollen<br>
-
-_Production Assistance_: Mark Nash,  
-Linda Redford, John Howe, Jonathan Collinson<br>
-
+_Production Assistance_: Mark Nash,  Linda Redford, John Howe, Jonathan Collinson<br>
 _Screenplay_: Laura Mulvey, Peter Wollen<br>
-
 _Cinematography_: Diane Tammes<br>
-
 _Rostrum_: Frameline Productions<br>
-
 _Lights_: G.B.S.<br>
-
-_[Cinematography] Assisted by_:  
-Jane Jackson, Steve Shaw<br>
-
+_[Cinematography] Assisted by_:  Jane Jackson, Steve Shaw<br>
 _Special Photographic Effects_: Burt Maiden<br>
-
 _Editing_: Carola Klein, Larry Sider<br>
-
 _Opticals_: Herbert Maiden<br>
-
 _Music_: Mike Ratledge<br>
-
-_Performed with equipment designed by_:  
-Denys Irving<br>
-
+_Performed with equipment designed by_:  Denys Irving<br>
 _Sound_: Larry Sider<br>
-
 _Sound Mixer_: Peter Maxwell<br>
-
 _Video_: Evanston Percussion Unit<br>
-
 _Child Care_: Christine Smith
 
-_Cast:_<br>
-
+**Cast**<br>
 Dinah Stabb _(Louise)_<br>
-
 Merdel Jordine _(Maxine)_<br>
-
 Rhiannon Tise _(Anna)_<br>
-
 Clive Merrison _(Chris)_<br>
-
 Marie Green _(acrobat)_<br>
-
 Paula Melbourne _(rope act)_<br>
-
 Crissie Trigger _(juggler)_<br>
-
 Mary Maddox _(voice off)_<br>
-
 Laura Mulvey<br>
-
 Mary Kelly<br>
-
 Marion Dain<br>
-
 Rosalind Delmar<br>
-
 Mary Dickinson<br>
-
 Rosamund Howe<br>
-
-MIranda Feuchtwang<br>
-
+Miranda Feuchtwang<br>
 Carole James<br>
-
 Claire Johnston<br>
-
 Tina Keane<br>
-
 Lin Layram<br>
-
 Carole Myer<br>
-
 Patsy Nightingale<br>
-
 Brenda Prince<br>
-
 Valerie Neale<br>
-
 Winifred Wollen<br>
-
 Joy Wong<br>
-
 staff of the Kensington Training College
 
 UK 1977©<br>
-
 91 mins<br>
-
 Digital<br>
 
 The screening on Mon 17 Nov will be introduced  by writer Marina Warner<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk5NzkyODIsMTEzOTk0NzAzNl19
+eyJoaXN0b3J5IjpbMjgyMzI3MjI2LDExMzk5NDcwMzZdfQ==
 -->
