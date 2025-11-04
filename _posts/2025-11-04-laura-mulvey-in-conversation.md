@@ -1,3 +1,14 @@
+---
+layout: post
+title: Laura Mulvey in Conversation
+published: true
+date: 2025-11-04
+readtime: true
+categories: ['Laura Mulvey<br>Thinking through Film']
+tags: [Talks]
+metadata: 
+pdf: '2025-11-04-laura-mulvey-in-conversation.pdf'
+---
 
 _A towering presence in debates surrounding independent cinema, gender and psychoanalysis in film, classical Hollywood, writing and filmmaking,  the author of the seminal essay ‘Visual Pleasure and Narrative Cinema’  joins us for this special in-conversation event and the bestowal of her  BFI Fellowship._
 
@@ -20,6 +31,29 @@ Laura’s intellectual reach in and beyond the world of film studies has been ac
 Not surprisingly, the honours bestowed on Laura are legion. She was elected a Fellow of the British Academy in 2000. She has been a visiting professor at more than a dozen institutions and has been awarded various honorary degrees, including from the University of East Anglia, Concordia University; University College Dublin; and Yale. In a testament to her intellectual stature, she is included as only one of two living women in the 2016 Routledge volume, _Fifty-One Key Feminist Thinkers_ where she appears alongside the likes of Sappho, Doris Lessing, Virginia Woolf, Simone de Beauvoir and Mary Wollstonecraft.  
 **Birkbeck, University of London (bbk.ac.uk)**
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
