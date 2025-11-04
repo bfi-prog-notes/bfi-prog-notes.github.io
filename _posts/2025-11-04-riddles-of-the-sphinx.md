@@ -1,3 +1,14 @@
+---
+layout: post
+title: Riddles of the Sphinx
+published: true
+date: 2025-11-04
+readtime: true
+categories: ['Laura Mulvey<br>Thinking through Film']
+tags: [Experimental, Drama]
+metadata: 'UK 1977, 91 mins<br> Directors: Laura Mulvey, Peter Wollen'
+pdf: '2025-11-04-riddles-of-the-sphinx.pdf'
+---
 
 ‘A film like _Riddles of the Sphinx_ is designed to separate form from content, so that the spectator is simultaneously aware of each.’ That is how, in 2002, Peter Wollen summed up one basic strategy underlying the film. There are several devices that work to remind the spectator of the constructed nature of what they see: the explicit flipping through a book with which the film begins (‘Opening pages’), direct address to camera (‘Laura speaking’), the re-photographing of existing film material (‘Stones’), the optical printing of the female acrobats (‘Acrobats’). However, the dominant feature in the 13 segments of ‘Louise’s story’, the central chapter of the film, is the horizontal panning motion of the camera. With the exception of Michael Snow’s trilogy on camera movement – _Wavelength_ (1967), _Back and Forth_ (1969) and _La Région Centrale_ (1971) – few films are so rigorously based on one single operation.
 
@@ -71,6 +82,30 @@ UK 1977©<br>
 Digital<br>
 
 The screening on Mon 17 Nov will be introduced  by writer Marina Warner<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjgyMzI3MjI2LDExMzk5NDcwMzZdfQ==
 -->
