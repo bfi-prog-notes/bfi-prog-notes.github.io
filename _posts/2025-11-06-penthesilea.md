@@ -29,41 +29,27 @@ _Titles and Animation_: Don Lembeck<br>
 _Choreography of Episodes 1 and 5_: Bud Beyer<br>
 _Sound_: Larry Sider
 
-_Cast:_<br>
+**Cast**<br>
 Debra Dolnansky _(herself/Penthesilea)_<br>
-
 Michael Thomas<br>
-
 Jan Creighton<br>
-
 Jim Goode<br>
-
 Lisa Kephart<br>
-
 Pat Kerwin<br>
-
 Whit MacLaughlin<br>
-
 Kristine Nielsen<br>
-
 Brian Reich<br>
-
 Jerry Stropnicky<br>
-
 Ann Woodworth<br>
-
 Peter Wollen<br>
-
 Grace McKeaney
 
 UK 1974<br>
-
 99 mins<br>
-
 Digital
 
 The screening on Thu 6 Nov will be introduced by academic and writer Nicolas Helm-Grovas<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTc4Mzc5Nl19
+eyJoaXN0b3J5IjpbODAxNDA5Nzg4XX0=
 -->
