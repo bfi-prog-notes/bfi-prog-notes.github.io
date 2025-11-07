@@ -50,28 +50,20 @@ _1st Assistant Camera_: Rupert Hornstein,  Darryl Byrne
 _2nd Assistant Camera_: Stefan Bruylants,  Kate Castro  
 _Digital Imaging Technician Supervisor_:  Niels Christensen  
 _Gaffers_: Dieter van der Eecken, Jesse Goldberg  
-_Key Grips_: Bo Molderez, Warren Weberg
-
+_Key Grips_: Bo Molderez, Warren Weberg  
 _[Stills] Photographer_: Johan Voets  
 _Visual Effects by_: The Fridge  
-_Special Effects_: Eric De Wulf, Peter Soete,  
-Koen Luypaert  
+_Special Effects_: Eric De Wulf, Peter Soete,  Koen Luypaert  
 _Edited by_: Pia Di Ciaula  
 _Production Designer_: Merijin Sep  
 _Art Directors_: Toon Mariën, Katha Seidman  
-_Set Decorator_: Ilse Willocx
-
+_Set Decorator_: Ilse Willocx  
 _Costume Designer_: Catherine Marchand  
-_Costume Supervisor_: Deborah Newhall
-
-_Wardrobe Supervisor_: Regina Van Eijden
-
-_Make-up Designers_: Fabienne Adam,  
-Michelle Van Brussel  
-_Make-up Department Head_: Joe Rossi
-
-_Key Make-up_: Stephanie Stachow
-
+_Costume Supervisor_: Deborah Newhall  
+_Wardrobe Supervisor_: Regina Van Eijden  
+_Make-up Designers_: Fabienne Adam,  Michelle Van Brussel  
+_Make-up Department Head_: Joe Rossi  
+_Key Make-up_: Stephanie Stachow  
 _Hair Designers_: Frank van Wolleghem, Evie Hamels  
 _Hair Department Head_: Jean Henry  
 _Key Hairdresser_: Emma Rotondi  
@@ -84,11 +76,8 @@ _Recording Engineer_: Stephen Guy, David Coyle
 _Sound Mixers_: Johan Maertens, Kevin Parker  
 _Re-recording Mixer_: Paul Cotterell  
 _Supervising Sound Editor_: Srdjan Kurpjel  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
-_Cast:_
-
+**Cast**  
 Cynthia Nixon _(Emily Dickinson)_  
 Jennifer Ehle _(Lavinia Dickinson, ‘Vinnie’)_  
 Jodhi May _(Susan Gilbert)_  
@@ -126,11 +115,10 @@ Noémie Schellens _(Mabel Loomis Todd)_
 Maarten Ketels _(Mr Todd)_  
 Barry Roberts _(funeral hearse driver)_
 
-UK 2016©
-
-125 mins
-
+UK 2016©  
+125 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MTMyNzAxXX0=
+eyJoaXN0b3J5IjpbMTY0MDU1MTAzOV19
 -->
