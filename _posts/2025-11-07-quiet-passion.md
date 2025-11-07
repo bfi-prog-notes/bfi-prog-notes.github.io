@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Quiet Passion
+published: true
+date: 2025-11-07
+readtime: true
+categories: ['Love, Sex, Religion, Death<br>The Complete Films of Terence Davies']
+tags: [Biopic]
+metadata: 'UK 2016, 125 mins<br> Director: Terence Davies'
+pdf: '2025-11-07-quiet-passion.pdf'
+---
 
 The biopic is a difficult film to get right, all the more so when its subject is an artist whose significance was understood only after their death. The view from here – a vantage point that makes plain the chain of influence linking Vincent van Gogh to his inheritors, and Emily Dickinson to hers – complicates our perception of the lives of these individuals. It is hard to imagine that Dickinson had no inkling during her life that her work would foment and transform the very principle of poetry – easier to think that she did, that she suspected all along. It’s even harder to hold in mind that posthumous fame changes not a detail of the lived experience. Awfully, it is an afterlife to which all but the artist herself are invited.
 
@@ -13,8 +24,7 @@ Physical remoteness and effulgent imagination are also the concerns of a recent 
 
 More or less contemporaries (Emily Brontë, whose name and novel are mentioned more than once in _A Quiet Passion_, died when Dickinson was 18), Dickinson and the Brontës had more in common than simply the trials of publication. Wainwright and Davies take like approaches to these writers’ lives, each filmmaker relaying the complexity not only of the subjects’ economic and social situations, but also of their practical and emotional accommodation of them. Most interestingly, both films depict the loss of a relative, and in each the treatment of disease and death is direct, unflinching. The material losses these women suffer body forth losses of a non-material kind. They gesture towards the dispossession of something that never was theirs to be taken, and is difficult to show on film: cultural opportunity. Its refusal is more painful in  _A Quiet Passion_, Dickinson harder hit. The Brontës had each other at least, though even this had its pitfalls, namely the conventionality that moved Charlotte to demean her sisters’ authorial integrity, blocking the republication of Anne’s second novel and writing a jaundiced foreword to Emily’s _Wuthering Heights_. Wainwright’s intimation of the pervasiveness of the dominant culture – the risk of cultural integration, of assimilation by the literary establishment – is among her film’s many merits. That risk came knocking at the Brontë parsonage, just at it called for Dickinson at Amherst. It was the Emilys who denied it entrance and stood their ground, adamant that their writing not be raked or interfered with. Resisting assimilation may not look like much; these films say it is.
 
-That both productions chose to have replica houses built is not incidental.  
-_A Quiet Passion_ has its Dickinson Homestead, _To Walk Invisible_ its Haworth parsonage – places whose comfort and containment formed these women and ministered to their creative and spiritual lives. As Virginia Woolf wrote after visiting the parsonage in 1904: ‘Haworth expresses the Brontës; the Brontës express Haworth; they fit like a snail to its shell.’
+That both productions chose to have replica houses built is not incidental.  _A Quiet Passion_ has its Dickinson Homestead, _To Walk Invisible_ its Haworth parsonage – places whose comfort and containment formed these women and ministered to their creative and spiritual lives. As Virginia Woolf wrote after visiting the parsonage in 1904: ‘Haworth expresses the Brontës; the Brontës express Haworth; they fit like a snail to its shell.’
 
 By the conclusion of _A Quiet Passion_, we are left in no doubt as to the kind of woman Emily Dickinson was, or how deeply she felt. And yet she remains a mystery. Davies appears not to have wanted to manage his subject, to be overbearing and work her like clay on his wheel. It isn’t for us, he seems to say, to see with her eyes or walk in her shoes. After all, to be a poet is not, in all cases, to wish to be transparent. Not all poetry is confessional, not even all of it personal.
 
@@ -119,6 +129,35 @@ UK 2016©
 125 mins  
 Digital
 <br><br>
+
+**With thanks to**  
+James Dowling, John Taylor, Dan Copley,  
+Sophie Smith, Edge Hill University
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY0MDU1MTAzOV19
 -->
