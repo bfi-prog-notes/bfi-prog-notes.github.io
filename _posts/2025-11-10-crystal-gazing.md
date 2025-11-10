@@ -75,23 +75,21 @@ Steven Bernstein, Marcus Birsel, Nick Ray _(cul-de-sac)_
 Annette Flanders, Robert Flanders, Mark Nash _(taxi queue)_  
 Judy Crighton, Robert Dayant,  Nick Johnson, Sion Tammes _(Rough Trade)_  
 Adrian Garvey, Karen Hazelwood, Colin Wood _(job centre)_  
-Rosemary Bailey, Susan Barrowclough,  Victor Bockris, Miles, Kim Nygaard_(Monsieur Thompson’s)_  
+Rosemary Bailey, Susan Barrowclough,  Victor Bockris, Miles, Kim Nygaard _(Monsieur Thompson’s)_  
 Tony Rayns, Bertha Tsang, Charles Tsang, Wellington Tsang _(Chinese takeaway)_  
 Reggie Fergus, Kevin Samuels _(roller-skating)_  
 Jim Daly _(Elgin pub)_  
-Barbie Coles, Kate Cragg,  
-Ilona Halberstadt, Philip Ward _(nightclub)_  
+Barbie Coles, Kate Cragg,  Ilona Halberstadt, Philip Ward _(nightclub)_  
 Ian Graham _(coach yard)_  
 Richard Borthwick, Steven Brooks, Benny Green, Anne Kidd, Vanessa McKinnon _(Pontins ad)_  
 Alan Altrudo, Kathy Altrudo, Anna Bell, Ricardo Gomez Perez, Abigail Marshall, Alba Rebelledo, Mary Roberts, Carol Robinson, Valance Robinson, Magnolia Urbano _(pickets)_
 
-UK 1982
-
-90 mins
-
+UK 1982  
+90 mins  
 16mm
 
 The screening on Mon 10 Nov will be introduced by Esther Leslie, Professor of Political Aesthetics, Birkbeck, University of London
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzM0Mzc1OF19
+eyJoaXN0b3J5IjpbLTQ4MjA0MDAzNl19
 -->
