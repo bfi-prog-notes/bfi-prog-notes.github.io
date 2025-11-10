@@ -82,39 +82,22 @@ Guy Burgess _(Dean)_<br>
 James Dublin _(Carlos)_<br>
 Harry Donaldson _(leatherboy)_<br>
 Alaena Adams, James Dublin,  Michael Bailey, June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
-
 Tony Knight, Akim Mogaji, Derrick McClintock, Jimmy Somerville, Dencil Williams _(angels)_<br>
-
 Michael Bailey, Jon Iwenjiora, Paul Bernstock, Tony Knight, Steven Brown, Orson Nava, Sarah Dunn, Matthew Scott, Simon Fogg, Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
-
-Wayne James, Irvine Lewis, Trevor Miller
-
-_(brothers in jazz)_<br>
-
+Wayne James, Irvine Lewis, Trevor Miller _(brothers in jazz)_<br>
 John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham, Seymour Laws, Reginald Parker _(thugs/police)_<br>
-
-Clarke Peters  
-_(voice reading Langston Hughes)_<br>
-
-Erick Ray Evans  
-_(voice reading Bruce Nugent)_<br>
-
-Essex Hemphill, Wayson Jones  
-_(American voices)_<br>
-
+Clarke Peters  _(voice reading Langston Hughes)_<br>
+Erick Ray Evans  _(voice reading Bruce Nugent)_<br>
+Essex Hemphill, Wayson Jones  _(American voices)_<br>
 Toni Morrison _(voice reading James Baldwin)_<br>
-
 Stuart Hall _(British voice)_
 
 UK 1989©<br>
-
 45 mins<br>
-
 Digital 4K
 
-The screening on Wed 19 Nov will include  
-an introduction<br>
+The screening on Wed 19 Nov will include  an introduction<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzM0OTE1M119
+eyJoaXN0b3J5IjpbMTU5MDQ3OTg2M119
 -->
