@@ -25,149 +25,96 @@ This critical interest in history suggests that Julien is attempting a dialogue 
 <br><br>
 
 **Ethnic Notions**<br>
-
 _Director_: Marlon Riggs  
 _Production Company_: KQED TV  
 _Written by_: Marlon Riggs<br>
-
 _Photography:_ Calvin Roberts<br>
-
 _Graphic Artist:_ Tom Curtis<br>
-
 _Narrator:_ Esther Rolle
 
 USA 1986<br>
-
 58 mins<br>
-
 Digital
 <br>
 
 **Looking for Langston**<br>
-
 _Director:_ Isaac Julien<br>
-
-©_/Production Company:_  
-Sankofa Film and Video<br>
-
+©_/Production Company:_  Sankofa Film and Video<br>
 _Producer:_ Nadine Marsh-Edwards<br>
-
 _Production Assistant:_ Robert Crusz<br>
-
-_Runners:_ James Wolstenholme,  
-Malcolm Manning<br>
-
+_Runners:_ James Wolstenholme,  Malcolm Manning<br>
 _Jobfit C4 Trainee:_ Mary Montgomery<br>
-
 _NEMDC Trainee:_ Emily Mokaene<br>
-
-_Assistant Directors:_ Chris Hall,  
-Maureen Blackwood<br>
-
+_Assistant Directors:_ Chris Hall,  Maureen Blackwood<br>
 _Continuity:_ Julia Britton<br>
-
-_Casting:_ Isaac Julien,  
-Nadine Marsh-Edwards<br>
-
+_Casting:_ Isaac Julien,  Nadine Marsh-Edwards<br>
 _Screenplay:_ Isaac Julien<br>
-
 _Script Consultant:_ Mark Nash<br>
-
 _Director of Photography:_ Nina Kellgren<br>
-
 _Rostrum Photography:_ Begonia Tamarit<br>
-
 _Focus Puller:_ Amanda Richardson<br>
-
 _Grip:_ Gary Romaine<br>
-
 _Gaffer:_ Nuala Campbell<br>
-
 _Electricians:_ Natasha Franklin, Simon Jones<br>
-
 _Stills:_ Sunil Gupta<br>
-
 _Editor:_ Robert Hargreaves<br>
-
 _Assistant Editor:_ Emma Matthews<br>
-
-_Art Director:_ Derek Brown
-
-_Art Department Stylist:_ Leslie Gilda
-
-_Storyboard:_ John Hewitt
-
-_Props Buyer:_ Neesh Ruben
-
-_Construction Manager:_ David Ferris
-
-_Costume Designer:_ Robert Worley
-
-_Make-up:_ Hilary Steinberg
-
-_Titles:_ Les Latimer Opticals
-
-_Incidental Music:_ Peter Spencer,  
-Trevor Mathison, Wayson Jones
-
-_Sound:_ Martin Jackson, Ronald Bailey
-
-_Dubbing Mixer:_ David Skilton
-
+_Art Director:_ Derek Brown<br>
+_Art Department Stylist:_ Leslie Gilda<br>
+_Storyboard:_ John Hewitt<br>
+_Props Buyer:_ Neesh Ruben<br>
+_Construction Manager:_ David Ferris<br>
+_Costume Designer:_ Robert Worley<br>
+_Make-up:_ Hilary Steinberg<br>
+_Titles:_ Les Latimer Opticals<br>
+_Incidental Music:_ Peter Spencer,  Trevor Mathison, Wayson Jones<br>
+_Sound:_ Martin Jackson, Ronald Bailey<br>
+_Dubbing Mixer:_ David Skilton<br>
 _New York Research/Production:_ Mark Nash
 
-_Cast:_
+**Cast**<br>
+Ben Ellison _(Alex)_<br>
+Matthew Baidoo _(Beauty)_<br>
+Akim Mogaji _(James)_<br>
+John Wilson _(Karl)_<br>
+Dencil Williams _(Marcus)_<br>
+Guy Burgess _(Dean)_<br>
+James Dublin _(Carlos)_<br>
+Harry Donaldson _(leatherboy)_<br>
+Alaena Adams, James Dublin,  Michael Bailey, June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
 
-Ben Ellison _(Alex)_
+Tony Knight, Akim Mogaji, Derrick McClintock, Jimmy Somerville, Dencil Williams _(angels)_<br>
 
-Matthew Baidoo _(Beauty)_
-
-Akim Mogaji _(James)_
-
-John Wilson _(Karl)_
-
-Dencil Williams _(Marcus)_
-
-Guy Burgess _(Dean)_
-
-James Dublin _(Carlos)_
-
-Harry Donaldson _(leatherboy)_
-
-Alaena Adams, James Dublin,  
-Michael Bailey, June Givanni, Guy Burgess, Cherry Smyth _(mourners)_
-
-Tony Knight, Akim Mogaji, Derrick McClintock, Jimmy Somerville, Dencil Williams _(angels)_
-
-Michael Bailey, Jon Iwenjiora, Paul Bernstock, Tony Knight, Steven Brown, Orson Nava, Sarah Dunn, Matthew Scott, Simon Fogg, Cherry Smyth, Pedro Williams _(dancers at wake)_
+Michael Bailey, Jon Iwenjiora, Paul Bernstock, Tony Knight, Steven Brown, Orson Nava, Sarah Dunn, Matthew Scott, Simon Fogg, Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
 
 Wayne James, Irvine Lewis, Trevor Miller
 
-_(brothers in jazz)_
+_(brothers in jazz)_<br>
 
-John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham, Seymour Laws, Reginald Parker _(thugs/police)_
+John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham, Seymour Laws, Reginald Parker _(thugs/police)_<br>
 
 Clarke Peters  
-_(voice reading Langston Hughes)_
+_(voice reading Langston Hughes)_<br>
 
 Erick Ray Evans  
-_(voice reading Bruce Nugent)_
+_(voice reading Bruce Nugent)_<br>
 
 Essex Hemphill, Wayson Jones  
-_(American voices)_
+_(American voices)_<br>
 
-Toni Morrison _(voice reading James Baldwin)_
+Toni Morrison _(voice reading James Baldwin)_<br>
 
 Stuart Hall _(British voice)_
 
-UK 1989©
+UK 1989©<br>
 
-45 mins
+45 mins<br>
 
 Digital 4K
 
 The screening on Wed 19 Nov will include  
-an introduction
+an introduction<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NTQ2NDU3XX0=
+eyJoaXN0b3J5IjpbMTk0MzM0OTE1M119
 -->
