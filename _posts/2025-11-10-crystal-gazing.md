@@ -1,3 +1,14 @@
+---
+layout: post
+title: Crystal Gazing
+published: true
+date: 2025-11-10
+readtime: true
+categories: ['Laura Mulvey<br>Thinking through Film']
+tags: [Experimental, Drama]
+metadata: 'UK 1982, 90 mins<br> Directors: Laura Mulvey, Peter Wollen'
+pdf: '2025-11-10-crystal-gazing.pdf'
+---
 
 **Laura Mulvey on ‘Crystal Gazing’**  
 In _Crystal Gazing_, the question of narrative situation revolves around the four characters we took from Erich Kästner’s _Fabian_ and reinvented for our script. The atmosphere of disillusion and disorientation that has overwhelmed the book’s intellectual, bohemian protagonists in Berlin in 1930 seemed relevant to the onset of Thatcherism. But through images of the future and the idea of crystal gazing, we added another dimension. Real or fantastic, these ‘intimations’ reach towards an indistinct temporality in which ‘now’, ‘then’ and ‘to come’ are entangled. For instance, during the magic act in the fifth scene, the protagonist is described in the voice-over as ‘looking through a childhood window onto a landscape where the present succumbed to the future’. And later: ‘They had damaged the map to dreamland and there was no way home for the blindfolded’. The four characters loosely represent different and contrasting aspects to this sense of time, varying between ruined traces of a lost utopianism to the technological advances of speculative capitalism.
@@ -90,6 +101,30 @@ UK 1982
 
 The screening on Mon 10 Nov will be introduced by Esther Leslie, Professor of Political Aesthetics, Birkbeck, University of London
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ4MjA0MDAzNl19
 -->
