@@ -67,16 +67,14 @@ Seyna Kane _(young Seynabou)_
 Coumba-Mar Thiam _(teenage Rama)_  
 Binta Thiam _(child Rama)_  
 Alain Payen _(voice of publisher)_  
-Louise Lemoine-Torres_  
-(voice of Maître Darcourt, lawyer)_
+Louise Lemoine-Torres _(voice of Maître Darcourt, lawyer)_
 
-France 2022©
-
-123 mins
-
+France 2022©  
+123 mins  
 Digital
 
-The screening on Wed 12 Nov will be introduced by Xavier Alexandre Pillai, BFI TV Programmer
+The screening on Wed 12 Nov will be introduced by Xavier Alexandre Pillai, BFI TV Programmer<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE5NDM3N119
+eyJoaXN0b3J5IjpbLTQxNTk4NDIwMV19
 -->
