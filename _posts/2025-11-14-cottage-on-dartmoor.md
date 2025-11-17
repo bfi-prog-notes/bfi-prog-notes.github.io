@@ -36,15 +36,11 @@ _Music/Music Conductor:_ William Hodgson
 Hans Adalbert von Schlettow  _(farmer Harry Stevens)_<br>
 Uno Henning _(Joe Ward)_<br>
 Norah Baring _(Sally)_<br>
-
 Judd Green _(customer)_ *<br>
-
 Anthony Asquith _(bespectacled man in cinema)_ *
 
 UK 1929<br>
-
 86 mins<br>
-
 35mm
 
 *Uncredited
@@ -54,5 +50,5 @@ With live piano accompaniment
 A BFI National Archive print<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDEwMjUxNl19
+eyJoaXN0b3J5IjpbNzI0NTYxMjY4XX0=
 -->
