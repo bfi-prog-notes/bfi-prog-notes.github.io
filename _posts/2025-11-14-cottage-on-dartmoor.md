@@ -1,8 +1,18 @@
+---
+layout: post
+title: A Cottage on Dartmoor
+published: true
+date: 2025-11-14
+readtime: true
+categories: ['Too Much<br>Melodrama on Film']
+tags: [Melodrama, Thriller]
+metadata: 'UK 1929, 86 mins<br> Director: Anthony Asquith'
+pdf: '2025-11-14-cottage-on-dartmoor.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-For those accustomed to the miniature pleasures of Asquith’s later work,  
-_A Cottage on Dartmoor_ (his last silent film, though a dialogue sequence was added during production) is a major revelation. It displays the director’s lively and sensitive imagination working at full stretch before he succumbed to the visual and moral blandness of ‘quality’ cinema: theme and style are equally provocative – indeed, the movie’s intensity and bravura seem positively un-English. Perhaps the Swedish link-up in production explains some of this (the Swedish version is titled _Fången 53_): certainly audiences accustomed to the dramas of Sjöström would have relished the characters’ turbulent emotions and the striking use made of natural landscapes.
+For those accustomed to the miniature pleasures of Asquith’s later work,  _A Cottage on Dartmoor_ (his last silent film, though a dialogue sequence was added during production) is a major revelation. It displays the director’s lively and sensitive imagination working at full stretch before he succumbed to the visual and moral blandness of ‘quality’ cinema: theme and style are equally provocative – indeed, the movie’s intensity and bravura seem positively un-English. Perhaps the Swedish link-up in production explains some of this (the Swedish version is titled _Fången 53_): certainly audiences accustomed to the dramas of Sjöström would have relished the characters’ turbulent emotions and the striking use made of natural landscapes.
 
 The opening moments (mostly static shots, beautifully composed) establish the spiritual milieu – the escaped prisoner making his way with difficulty across the bleak moors, silhouetted against a vast expanse of sky, with swirling mist and gnarled leafless trees. After Joe reaches the cottage and emerges from the shadows to surprise the girl he adores, flashbacks plunge us into the tale’s social milieu – the barbershop where haircuts cost one shilling and singeing costs ninepence, and love flares up amongst the chattering assistants, hot towels and lather. Outside the barbershop, love has an equally hard time surviving: Sally takes Joe to her horrendous boarding-house, where they sit stifled amongst the potted plants and gossiping old maids. The only alternative for a night out seems to be a visit to the Elite Cinema, where Sally and her friendly farmer are jammed in tight with the rest of the audience (here, originally, was the talking sequence – the present print remains silent throughout). While everyone else watches the movie (ingeniously, a talkie itself), Joe stares at Sally with a glint of madness. Finally, his jealous passion erupts in the form of bodily violence: he threatens the farmer with a razor and all is pandemonium – bottles smash on the floor, water-sprays jump out of control, and Joe stands petrified, smearing his forehead with blood from his fingers.
 
@@ -49,6 +59,30 @@ With live piano accompaniment
 
 A BFI National Archive print<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzI0NTYxMjY4XX0=
 -->
