@@ -98,10 +98,8 @@ _Costume Designer_: Catherine George
 _Assistant Costume Designer_: Adejoke Taiwo  
 _Costume Supervisor_: Michelle Carr  
 _Make-up Designer & Make-up Department Head_: Miho Suzuki  
-_Hair Designer & Hair Department Head_:  
-Colleen LaBaff  
-_Original Music Composed & Performed by_:  
-George Vjestica, Raife Burchell, Lynne Ramsay  
+_Hair Designer & Hair Department Head_:  Colleen LaBaff  
+_Original Music Composed & Performed by_:  George Vjestica, Raife Burchell, Lynne Ramsay  
 _Strings Performed & Arranged by_: Fiona Brice  
 _Vocals by_: Lynne Ramsay  
 _Acoustic, Electric & Bass Guitar, Keyboards, Loops & Backing Vocals by_: George Vjestica  
@@ -112,15 +110,13 @@ _Music Editor_: Ed Hamilton
 _Choreographer_: Nicole Charlton Goodbrand  
 _Sound Designer_: Tim Burns  
 _Sound Mixer_: Ron Osiowy  
-_Re-recording Mixers_: Andrew Stirk,  
-Steve Single, George Elliott  
+_Re-recording Mixers_: Andrew Stirk,  Steve Single, George Elliott  
 _Supervising Sound Editor_: Paul Davies  
 _Supervising Dialogue Editor_: Linda Forsén  
 _Stunt Co-ordinator_: Steve McMichael  
 _Intimacy Co-ordinator_: Laryssa Yanchak
 
-_Cast:_
-
+**Cast**  
 Jennifer Lawrence _(Grace)_  
 Robert Pattinson _(Jackson)_  
 LaKeith Stanfield _(Karl)_  
@@ -148,11 +144,10 @@ Lauren Viau _(Bessie)_
 Sarah Vanderschoot _(beach girl)_  
 Phoenix Valentine _(other teenage girl)_
 
-USA-UK 2025©
-
-118 mins
-
+USA-UK 2025©  
+118 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMTk5MzI1XX0=
+eyJoaXN0b3J5IjpbLTcxNzI3NjU3OV19
 -->
