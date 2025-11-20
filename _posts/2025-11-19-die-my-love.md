@@ -4,7 +4,7 @@ title: Die My Love
 published: true
 date: 2025-11-19
 readtime: true
-categories: ['Seniors' Paid Matinee']
+categories: ['Seniors Paid Matinee']
 tags: [Drama]
 metadata: 'USA-UK 2025, 118 mins<br> Director: Lynne Ramsay'
 pdf: '2025-11-19-die-my-love.pdf'
