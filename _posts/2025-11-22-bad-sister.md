@@ -33,40 +33,25 @@ _Music:_ Karl Jenkins, Mike Ratledge
 Dawn Archibald _(Jane)_<br>
 Isabel Dean _(Mrs Marten)_<br>
 Kevin McNally _(Tony)_<br>
-
 Matyelok Gibbs _(Meg)_<br>
-
 Hugh Millais _(Dalzell/Mr Aldridge)_<br>
-
 Neil Cunningham _(Stephen)_<br>
-
 Clive Merrison _(Paul)_  
 Marty Cruickshank _(Mary/Marie)_<br>
-
 Libba Davies _(Kathy)_<br>
-
 Emma Jacobs _(Miranda)_<br>
-
 Bill Denniston _(Luke)_<br>
-
 Maeve Watt _(Louise)_<br>
-
 Ian Stewart _(Mr Elliot)_<br>
-
 A.S. Ross _(interviewer)_<br>
-
 Allan Mitchell _(doctor)_<br>
-
 Annilee Kuukka _(Jane, girl)_<br>
-
 Harriet Laidlaw _(Isabel, girl)_
 
 C4 tx 23.6.1983<br>
-
 93 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQxNjQ5NjldfQ==
+eyJoaXN0b3J5IjpbLTk1NDQ4NDUzMV19
 -->
