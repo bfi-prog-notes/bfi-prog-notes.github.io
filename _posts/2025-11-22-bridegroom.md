@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Bridegroom, the Actress and the Pimp + The Woman’s Film
+published: true
+date: 2025-11-22
+readtime: true
+categories: ['Laura Mulvey<br>Thinking through Film']
+tags: [Experimental, Drama, Documentary]
+metadata: 'West Germany/USA 1968/1970, 28/40 mins<br> Directors: Jean-Marie Straub, Danièle Huillet, Judy Smith,  Louise Alaimo, Ellin Sorrin'
+pdf: '2025-11-22-bridegroom.pdf'
+---
 
 Jean-Marie Straub describes _The Bridegroom, the Actress and the Pimp_ as ‘the most aleatory of my films, and the most political’. The element of randomness or chance in its genesis is well documented in many interviews with Straub and in Richard Roud’s book on the director: after completing his Bach film, Straub ‘felt like making a short thriller’ but got diverted into adapting and producing the Bruckner play for the Aktion-Theatre; during the play’s three-week run, the other elements came together in Straub’s mind (the graffiti, a long-standing fascination with the Landsbergerstrasse in the ‘red light’ district of Munich, a newspaper story about a romance between an ex-prostitute and an African American man), and their conjunction produced the film.
 
@@ -61,6 +72,33 @@ Digital
 
 This event is co-presented by  Third World Newsreel  
 **https://www.twn.org**
+<br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM4MTkzMzA3M119
 -->
