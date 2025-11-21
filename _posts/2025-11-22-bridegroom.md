@@ -24,17 +24,11 @@ In the mid-1970s, as the global landscape of solidarity movements evolved, New Y
 <br><br>
 
 **The Bridegroom, the Actress and the Pimp**  
-Der Bräutigam, die Komödiantin und  
-der Zuhälter
-
+Der Bräutigam, die Komödiantin und  der Zuhälter  
 _Directors_: Jean-Marie Straub, Danièle Huillet *  
-_Production Companies_:  
-Janus Film und Fernsehen (Frankfurt),  
-Straub-Huillet  
+_Production Companies_:  Janus Film und Fernsehen (Frankfurt),  Straub-Huillet  
 _Producer_: Klaus Hellwig  
-_Collaborators_: Herbert Limder, Herbert Meier,  
-Heinz Pusl, Dietmar Müller, Bernward Wember,  
-Ian Bodenham, Helmut Färber  
+_Collaborators_: Herbert Limder, Herbert Meier,  Heinz Pusl, Dietmar Müller, Bernward Wember,  Ian Bodenham, Helmut Färber  
 _Script_: Jean-Marie Straub  
 _Original play_: Ferdinand Bruckner  
 _Photography_: Klaus Schilling, Hubs Hagen  
@@ -42,42 +36,31 @@ _Editors_: Danièle Huillet, Jean-Marie Straub
 _Music_: Johann Sebastian Bach  
 _Sound Recording_: Peter Lutz, Klaus Eckelt
 
-_Cast:_
-
+**Cast**  
 James Powell _(James)_  
 Lilith Ungerer _(Lilith / Marie in the play)_  
-Rainer Werner Fassbinder_  
-(the pimp / Freder in the play)_  
+Rainer Werner Fassbinder _(the pimp / Freder in the play)_  
 Peer Raben _(Willi / Alt in the play)_  
 Irm Hermann _(Désirée)_  
 Kristin Peterson _(Irene)_  
 Hanna Schygulla _(Lucy)_  
 Rudolf Waldemar Brem _(Petrell)_
 
-West Germany 1968
-
-28 mins
-
+West Germany 1968  
+28 mins  
 Digital
 
-**The Woman’s Film**
-
-_Directors_: Judy Smith,  
-Louise Alaimo, Ellin Sorrin  
-_Production Company_: Newsreel
-
-USA 1970
-
-40 mins
-
+**The Woman’s Film**  
+_Directors_: Judy Smith,  Louise Alaimo, Ellin Sorrin  
+_Production Company_: Newsreel  
+USA 1970  
+40 mins  
 Digital
 
-* Uncredited
+*Uncredited
 
-This event is co-presented by  
-Third World Newsreel
-
+This event is co-presented by  Third World Newsreel  
 **https://www.twn.org**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDEzMjUwMV19
+eyJoaXN0b3J5IjpbLTM4MTkzMzA3M119
 -->
