@@ -1,3 +1,14 @@
+---
+layout: post
+title: Antonio das Mortes
+published: true
+date: 2025-11-29
+readtime: true
+categories: ['Laura Mulvey<br>Thinking through Film']
+tags: [Experimental, Drama, Period]
+metadata: 'Brazil 1969, 100 mins<br> Director: Glauber Rocha'
+pdf: '2025-11-29-antonio-das-mortes.pdf'
+---
 
 Glauber Rocha’s _Antonio das Mortes_ is surely one of the most astonishing films to come out of Brazil in the 1960s. A well-deserved Palme d’Or winner at Cannes in 1969, it starred Maurício do Valle as the eponymous ‘hero’ (whose name translates as Antonio of the Dead), a _jagunço_ – hired killer – who first appeared in Rocha’s 1964 film _Deus e o Diabo na Terra do Sol_ (literally, _God and the Devil in the Land of the Sun_ but known in English as _Black God, White Devil_), where he is hired to dispose of Corisco, ‘the last _cangaceiro_’. The term _cangaceiro_ refers to the social bandits, heroes of the oppressed, who operated in the _sertão_, the lawless northeast of Brazil, in the late 19th and early 20th centuries. Almost 30 years after the events of the earlier film, Antonio is called in again when a new _cangaceiro_ emerges at the head of a small band of rebels – only to realise in the end that it was not the _cangaceiro_ he should have been fighting but the landowners.
 
@@ -64,6 +75,30 @@ Digital (restoration)
 
 *Uncredited<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg5NTk0NTk2XX0=
 -->
