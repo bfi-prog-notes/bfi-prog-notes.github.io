@@ -27,56 +27,31 @@ _Production Company_:  Monumental Pictures<br>
 _For:_ Channel Four<br>
 _Production Co-ordinator (London, Moscow) and translation:_ Jessica Kaner<br>
 _Production Co-ordinator (Toronto):_ Deanne Judson<br>
-_Director of Photography: _Thomas H. Turnbull<br>
-
+_Director of Photography:_ Thomas H. Turnbull<br>
 _Camera Assistant:_ Yuri Mironov<br>
-
 _Stills:_ Stephen Waddell<br>
-
 _Edited by:_ Tom Hayes<br>
-
-_Online Operators:_ Richard McCarthy,  
-Michael Sagadore, Gary Poole<br>
-
+_Online Operators:_ Richard McCarthy,  Michael Sagadore, Gary Poole<br>
 _Archive Research:_ Asaya Abdulina<br>
-
-_Original Music by:_ Karl Jenkins,  
-Michael Ratledge<br>
-
+_Original Music by:_ Karl Jenkins,  Michael Ratledge<br>
 _Sound:_ Larry Sider<br>
-
 _Sound Mix:_ Marc Benoit<br>
-
-_Translation:_ Suzanne Lydic,  
-Beata Lozinski, Gordon Livermore<br>
-
+_Translation:_ Suzanne Lydic,  Beata Lozinski, Gordon Livermore<br>
 _Interpreter:_ Irena Artis<br>
-
 _Voice-over:_ Petra Markham<br>
-
-_‘The Bronze Horseman’ recited by:  
-_Pavel Gatynya
-
+_‘The Bronze Horseman’ recited by:_ Pavel Gatynya  
 C4 tx 6.6.1994<br>
-
 50 mins<br>
-
 Digital
 
 **23rd August 2008**<br>
-
 _Directors_: Laura Mulvey, Mark Lewis, Faysal Abdullah  
-_Production Company_:  
-Mark Lewis Studio Inc.  
-_Producers_: Laura Mulvey, Mark Lewis,  
-Faysal Abdullah
-
+_Production Company_:  Mark Lewis Studio Inc.  
+_Producers_: Laura Mulvey, Mark Lewis,  Faysal Abdullah  
 UK 2013<br>
-
 22 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjU4NDc3NF19
+eyJoaXN0b3J5IjpbMTI5NjUwMDc5Ml19
 -->
