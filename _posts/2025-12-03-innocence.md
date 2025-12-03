@@ -84,30 +84,14 @@ Corinne Marchand _(headmistress)_
 Sonia Petrovna _(headmistress’ assistant)_  
 Véronique Nordey _(bursar)_  
 Micheline Hadzihalilovic _(Madeleine)_  
-Amandine Algoet_,_ Natacha Allard,  
-Angélique Belokoptytov_,_ Dylan Comte,  
-Mégane Comte_,_ Florian Decort_,_Violette de Laet,  Thelma de Swaef,  
-Yasmine Dewaele_,_ Elisa Firouzfar,
+Amandine Algoet, Natacha Allard,  Angélique Belokoptytov, Dylan Comte,  
+Mégane Comte, Florian Decort, Violette de Laet,  Thelma de Swaef,  Yasmine Dewaele, Elisa Firouzfar, Marité Girard, André Goffin, Noémie Guns,  Juliette Hancisse, Elisabeth Hancisse,  Yasmine Iman Touati,  Aurélie Jacquemin, Laurane Jacquemin, Valentine Jonge,  Anne Keff, Frédérique Laloy, Charlotte Mahy,  Jessica Marber,  Lisa Mardaga, Marie-Eve Merckx, Clémentine Michel,  
+Agnès Orlandini,  Lise Ottinger,  Opaline Picron,  Valentine Pirlet, Sylviane Ramboux,  Ana Tchemoutova,  Alysson Torfs,  Julie Vandermeulen,  Celine Vandermeulen,  Ana Vitner,  Paula Wicik
 
-Marité Girard_,_ André Goffin, Noémie Guns,  
-Juliette Hancisse, Elisabeth Hancisse,  
-Yasmine Iman Touati,  Aurélie Jacquemin,  
-Laurane Jacquemin, Valentine Jonge,  
-Anne Keff, Frédérique Laloy, Charlotte Mahy,  
-Jessica Marber,  Lisa Mardaga,
-
-Marie-Eve Merckx, Clémentine Michel,  
-Agnès Orlandini,  Lise Ottinger,  Opaline Picron,  
-Valentine Pirlet, Sylviane Ramboux,  
-Ana Tchemoutova,  Alysson Torfs,  
-Julie Vandermeulen,  Celine Vandermeulen,  
-Ana Vitner,  Paula Wicik
-
-France-UK-Belgium 2004
-
-122 mins
-
+France-UK-Belgium 2004  
+122 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTU1NTk5Ml19
+eyJoaXN0b3J5IjpbLTkxNTY3NzBdfQ==
 -->
