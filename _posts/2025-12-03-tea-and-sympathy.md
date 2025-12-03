@@ -26,120 +26,65 @@ Maybe we are more than typically concerned with our own Masculinity?
 <br><br>
 
 **Tea and Sympathy**<br>
-
 _Director:_ Vincente Minnelli<br>
-
 ©: Loew’s Incorporated<br>
-
 _Production Company:_ Metro-Goldwyn-Mayer<br>
-
 _Producer:_ Pandro S. Berman<br>
-
 _Assistant Director:_ Joel Freeman<br>
-
 _Screenplay/Based on the play by:_ Robert Anderson<br>
-
 _Director of Photography:_ John Alton<br>
-
 _Colour Consultant:_ Charles K. Hagedon<br>
-
 _Film Editor:_ Ferris Webster<br>
-
 _Art Directors:_ William A. Horning, Edward Carfagno<br>
-
 _Set Decorations:_ Edwin B. Willis, Keogh Gleason<br>
-
 _Wardrobe for Miss Deborah Kerr by:_ Helen Rose<br>
-
 _Make-up:_ William Tuttle<br>
-
 _Hair Styles:_ Sydney Guilaroff<br>
-
 _Music:_ Adolph Deutsch<br>
-
 _Recording Supervisor:_ Wesley C. Miller
 
 _uncredited_<br>
-
 _Singing Voice Double for John Kerr:_ Gene Merlino
 
-_Cast:_<br>
-
+**Cast**<br>
 Deborah Kerr _(Laura Reynolds)_<br>
-
 John Kerr _(Tom Robinson Lee)_<br>
-
 Leif Erickson _(Bill Reynolds)_<br>
-
 Edward Andrews _(Herb Lee)_<br>
-
 Darryl Hickman _(Al Thompson)_<br>
-
 Norma Crane _(Ellie Martin)_<br>
-
 Dean Jones _(Ollie)_<br>
-
 Jacqueline De Wit _(Lilly Sears)_<br>
-
 Tom Laughlin _(Ralph)_<br>
-
 Ralph Votrian _(Steve)_<br>
-
 Steve Terrell _(Phil)_<br>
-
 Kip King _(Ted)_<br>
-
 Jimmy Hayes _(Henry)_<br>
-
 Richard Tyler _(Roger)_<br>
-
 Don Burnett _(Vic)_<br>
 
 _uncredited_<br>
-
 Mary Ann Hokanson _(Mary Williams)_<br>
-
 Ron Kennedy _(Dick)_<br>
-
 Peter Miller _(Pete)_<br>
-
 Robert Santon _(young boy)_<br>
-
 Bob Alexander _(Pat)_<br>
-
 Michael Monroe _(Earl)_<br>
-
 Byron Kane _(umpire)_<br>
-
 Paul Bryar _(Alex)_<br>
-
 Harry Harvey Jr, Bobby Ellis _(boys)_<br>
-
 Saul Gorss, Dale Van Sickle _(burly men)_<br>
-
 Norman Ollstad _(new young boy)_<br>
-
 Peter Leeds _(headmaster at bonfire)_<br>
-
-Chuck Courtney, Jimmy Pickford, Ralph Reed,
-
-David Bair, Parker Eggleston _(boys in soda shop)_<br>
-
-Charles Webster, Coulter Irwin, Tom McKee,
-
-Rodney Bell, Wilson Wood _(alumni)_<br>
-
-Eleanore Tanin, Virginia Eiler, Lucille Knoch
-
-Madge Meredith _(alumni wives)_
-
+Chuck Courtney, Jimmy Pickford, Ralph Reed, David Bair, Parker Eggleston _(boys in soda shop)_<br>
+Charles Webster, Coulter Irwin, Tom McKee, Rodney Bell, Wilson Wood _(alumni)_<br>
+Eleanore Tanin, Virginia Eiler, Lucille Knoch, Madge Meredith _(alumni wives)_<br>
 Del Erickson _(Ferdie)_
 
-USA 1956©
-
-122 mins
-
-35mm
+USA 1956©<br>
+122 mins<br>
+35mm<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mzg3MTc5XX0=
+eyJoaXN0b3J5IjpbNjIxOTM3ODUxXX0=
 -->
