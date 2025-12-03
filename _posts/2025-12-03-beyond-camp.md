@@ -20,66 +20,41 @@ Although these three short films are almost unbearably intense distillations of 
 **Sarah Cleary** is a freelance film curator based in London. She has appeared on panels and presented screenings at BFI Southbank, the Rio, the Garden and Picturehouse. She has also contributed writing to outlets such as _Sight and Sound_ and _Little White Lies_. Since 2023, she has been screening films at the Prince Charles Cinema in London as the curator of the Funeral Parade Presents, an ongoing monthly LGBTQIA+ film strand. Under the Funeral Parade moniker, Sarah has curated and hosted screenings ranging from exploitation oddities to arthouse classics.  
 <br><br>
 
-**Further viewing**
-
+**Further viewing**<br>
 _Now, Voyager_ (1942)<br>
-
 _Tea and Sympathy_ (1956)<br>
-
 _Written on the Wind_ (1956)<br>
-
 _The Children’s Hour_ (1961)<br>
-
 _The Bitter Tears of Petra Von Kant_ (1972)<br>
-
 _Polyester_ (1981)<br>
-
 _Mommie Dearest_ (1981)<br>
-
 _All About My Mother_ (1999)<br>
-
 _8 Women_ (2002)<br>
-
 _Carol_ (2015)
-<br>
+<br><br>
 
 **Lehre deutsch mit Petra von Kant  
-**(Teach German with Petra von Kant)
-
-Single channel video (8 mins)
-
-Colour with stereo sound
-
+**(Teach German with Petra von Kant)<br>
+Single channel video (8 mins)<br>
+Colour with stereo sound<br>
 Ming Wong, 2017
 
-**Bourbon Street Blues**
+**Bourbon Street Blues**<br>
+_Director:_ Douglas Sirk<br>
+_Cinematography:_ Michael Ballhaus<br>
+_Script (Writer):_ Maria E. Faria-Yaber<br>
+_Based on the play_ ‘The Lady of Larkspur Lotion’ _by:_ Tennessee Williams<br>
+_Cast:_<br>
+Annemarie Düringer<br>
+Rainer-Werner Fassbinder<br>
+Doris Schade<br>
+Richard L. Wagner<br>
+West Germany 1979<br>
+25 mins<br>
+<br>
 
-_Director:_ Douglas Sirk
-
-_Cinematography:_ Michael Ballhaus
-
-_Script (Writer):_ Maria E. Faria-Yaber
-
-_Based on the play_ ‘The Lady of Larkspur Lotion’ _by:_ Tennessee Williams
-
-_Cast:_
-
-Annemarie Düringer
-
-Rainer-Werner Fassbinder
-
-Doris Schade
-
-Richard L. Wagner
-
-West Germany 1979
-
-25 mins
-
-Thanks to Film Heritage, a project of the  
-CreatiF Center of the University of Television  
-and Film Munich, for permission to screen  
-_Bourbon Street Blues_.
+Thanks to Film Heritage, a project of the  CreatiF Center of the University of Television  and Film Munich, for permission to screen  _Bourbon Street Blues_.
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjQ3OTE5Ml19
+eyJoaXN0b3J5IjpbLTMwNDAzMjg0XX0=
 -->
