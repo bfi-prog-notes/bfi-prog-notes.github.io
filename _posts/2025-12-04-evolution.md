@@ -77,11 +77,9 @@ _Titles_: Alex Bata
 _Sound/Sound Editing_: Fabiola Ordoyo  
 _Re-recording Mixer_: Marc Orts  
 _Production Sound Mixer_: Daniel Fontrodona  
-_Thanks_: Gaspar Noé, Stéphane Derderian,  
-Vincent Maraval, Philippe Akoka
+_Thanks_: Gaspar Noé, Stéphane Derderian,  Vincent Maraval, Philippe Akoka
 
-_Cast:_
-
+**Cast**  
 Max Brebant _(Nicolas)_  
 Roxane Duran _(Stella)_  
 Julie-Marie Parmentier _(the mother)_  
@@ -103,11 +101,10 @@ Magdalena Komarova
 Mireia Leon  
 Mateo Lopez
 
-France-Belgium-Spain 2015
-
-81 mins
-
+France-Belgium-Spain 2015  
+81 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjQ4NzQ3M119
+eyJoaXN0b3J5IjpbNzI1Mzg1MTQzXX0=
 -->
