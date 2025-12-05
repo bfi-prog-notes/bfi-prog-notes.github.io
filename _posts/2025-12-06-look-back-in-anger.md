@@ -1,3 +1,14 @@
+---
+layout: post
+title: Look Back in Anger
+published: true
+date: 2025-12-06
+readtime: true
+categories: ['Muse of Fire<br>Richard Burton']
+tags: [Drama]
+metadata: 'UK 1958, 99 mins<br> Director: Tony Richardson'
+pdf: '2025-12-06-look-back-in-anger.pdf'
+---
 
 **A contemporary review**  
 Is Richard Burton too old for Jimmy? At the time I found his performance in _Look Back in Anger_ so compelling that I did not question his physical suitability. And there is no doubt about his complete psychic absorption in the role. It is true that Burton the actor always snarls and scowls and curls his lip; but these are unmistakably the snarls and grimaces of Jimmy Porter. Whether the credit is due more to the director, the actor, or to intelligent casting (which is certainly the case with Claire Bloom’s exact and brilliant Helena) it is hard to judge; but this is in any case a performance of the first rank.
@@ -79,6 +90,30 @@ UK 1958©<br>
 
 Screening with a BBC interview with Richard Burton and Claire Bloom on _Look Back in Anger_ (8min)<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg3ODQ2MDUyOF19
 -->
