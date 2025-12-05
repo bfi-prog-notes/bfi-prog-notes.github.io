@@ -25,99 +25,54 @@ Can the breakthrough be maintained? We know our producers too well; and if _Look
 <br><br>
 
 **Look Back in Anger**<br>
-
 _Directed by:_ Tony Richardson<br>
-
 ©: Woodfall Film Productions<br>
-
 _a Woodfall film_<br>
-
 _Produced by:_ Harry Saltzman<br>
-
 _Production Manager:_ Al Marcus<br>
-
 _Casting Director:_ Robert Lennard<br>
-
 _Scenario Editor:_ Frederick Gotfurt<br>
-
 _Screenplay by:_ Nigel Kneale<br>
-
 _Based on the play by:_ John Osborne<br>
-
 _Additional Dialogue by:_ John Osborne<br>
-
 _Director of Photography:_ Oswald Morris<br>
-
 _Camera Operator:_ Denys Coop<br>
-
 _Editor:_ Richard Best<br>
-
 _Editor:_ Bert Bates *<br>
-
 _Art Director:_ Peter Glazier<br>
-
 _Make-up:_ Eric Aylott<br>
-
 _Music Hall Song:_ Tom Eastwood<br>
-
 _Music Performed by:_ The Chris Barber Band<br>
-
 _Music Supervisor:_ John Addison<br>
-
 _Sound:_ Cecil Mason, Len Shilton<br>
-
 _Transport Manager:_ Eddie Frewin *<br>
-
 _Publicity Director:_ Alan Thomson *<br>
-
 _Studio:_ Elstree Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Richard Burton _(Jimmy Porter)_<br>
-
 Claire Bloom _(Helena Charles)_<br>
-
 Mary Ure _(Alison Porter)_<br>
-
 Edith Evans _(Mrs ‘Ma’ Tanner)_<br>
-
 Gary Raymond _(Cliff)_<br>
-
 Glen Byam Shaw _(Colonel Redfern)_<br>
-
 George Devine _(doctor)_<br>
-
 Donald Pleasence _(Hurst)_<br>
-
 Phyllis Neilson-Terry _(Mrs Redfern)_<br>
-
 members of the English Stage Company<br>
-
 Jane Eccles _(Miss Drury)_<br>
-
 S.P. Kapoor _(Kapoor)_<br>
-
 Walter Hudd _(actor)_<br>
-
 Anne Dickins _(girl A.S.M.)_<br>
-
 John Dearth _(pet stall man)_<br>
-
 Nigel Davenport _(1st commercial traveller)_<br>
-
 Alfred Lynch _(2nd commercial traveller)_<br>
-
 Toke Townley _(spectacled man)_<br>
-
 Bernice Swanson _(Sally)_<br>
-
 Jordan Lawrence _(producer)_ *
 
 UK 1958©<br>
-
 99 mins<br>
-
 35mm<br>
 
 *Uncredited
@@ -125,5 +80,5 @@ UK 1958©<br>
 Screening with a BBC interview with Richard Burton and Claire Bloom on _Look Back in Anger_ (8min)<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzM1MDg4MF19
+eyJoaXN0b3J5IjpbLTg3ODQ2MDUyOF19
 -->
