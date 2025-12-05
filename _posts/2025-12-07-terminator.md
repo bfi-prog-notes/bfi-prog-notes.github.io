@@ -40,136 +40,69 @@ The results spoke for themselves: the film took over $78 million at the box offi
 <br><br>
 
 **The Terminator**<br>
-
 _Directed by:_ James Cameron<br>
-
 ©: Cinema ’84<br>
-
 _Production:_ Pacific Western Productions<br>
-
 _Presented by:_ Hemdale Film Corporation<br>
-
 _An_ Orion Pictures _release_<br>
-
 _Executive Producers:_ John Daly, Derek Gibson<br>
-
-_Executive in Charge of Production:_  
-Bruce M. Kerner<br>
-
+_Executive in Charge of Production:_  Bruce M. Kerner<br>
 _Produced by:_ Gale Anne Hurd<br>
-
 _Production Manager:_ Donna Smith<br>
-
 _Production Co-ordinator:_ Kathy Breen<br>
-
 _Production Accountant:_ Marilyn Tasso<br>
-
 _Location Manager:_ Joseph A. Liuzzi<br>
-
 _Post-production Supervisor:_ Donna Smith<br>
-
 _2nd Unit Director/Action:_ Jean-Paul Ouellette<br>
-
 _2nd Unit Director/Effects:_ Stan Winston<br>
-
 _1st Assistant Director:_ Betsy Magruder<br>
-
 _Script Supervisor:_ Brenda Weisman<br>
-
 _Casting by:_ Stanzi Stokes<br>
-
 _Written by:_ James Cameron<br>
-
 _With:_ Gale Anne Hurd<br>
-
 _Additional Dialogue:_ William Wisher Jr<br>
-
 _Director of Photography:_ Adam Greenberg<br>
-
-_2nd Unit Director of Photography:_  
-Chuck Colwell<br>
-
-_Special Visual Effects by:_  
-Fantasy II Film Effects<br>
-
-_Process Photography Cinematographer:_
-
-Austin McKinney<br>
-
-_Special Terminator Effects Created by:_
-
-Stan Winston<br>
-
+_2nd Unit Director of Photography:_  Chuck Colwell<br>
+_Special Visual Effects by:_  Fantasy II Film Effects<br>
+_Process Photography Cinematographer:_ Austin McKinney<br>
+_Special Terminator Effects Created by:_ Stan Winston<br>
 _Edited by:_ Mark Goldblatt<br>
-
 _Art Director:_ George Costello<br>
-
 _Costume Designer:_ Hilary Wright<br>
-
 _Costume Supervisor:_ Deborah Everton<br>
-
 _Make-up Artist:_ Jefferson Dawn<br>
-
 _Hair Stylist:_ Peter Tothpal<br>
-
 _Main Title Design:_ Ernest D. Farino<br>
-
 _Music by:_ Brad Fiedel<br>
-
 _Production Sound Mixer:_ Richard Lightstone<br>
-
-_Re-recording Mixers:_ Terry Porter,
-
-David J. Hudson, Mel Metcalfe<br>
-
+_Re-recording Mixers:_ Terry Porter, David J. Hudson, Mel Metcalfe<br>
 _Supervising Sound Editor:_ David Campling<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Arnold Schwarzenegger _(Terminator)_<br>
-
 Michael Biehn _(Kyle Reese)_<br>
-
 Linda Hamilton _(Sarah Connor)_<br>
-
 Lance Henriksen _(Vukovich)_<br>
-
 Paul Winfield _(Lieutenant Traxler)_<br>
-
 Rick Rossovich _(Matt)_<br>
-
 Bess Motta _(Ginger)_<br>
-
-Earl Boen _(Silberman)_
-
-Dick Miller _(pawn shop clerk)_
-
-Shawn Schepps _(Nancy)_
-
-Bruce M. Kerner _(desk sergeant)_
-
-Franco Columbu _(future Terminator)_
-
-Bill Paxton _(punk leader)_
-
-Brad Rearden, Brian Thompson _(punks)_
-
-William Wisher Jr, Ken Fritz,  
-Tom Oberhaus _(policemen)_
-
-Ed Dogans _(cop in alley)_
-
-Joe Farago _(TV anchorman)_
-
-Hettie Lynne Hurtes _(TV anchorwoman)_
-
+Earl Boen _(Silberman)_<br>
+Dick Miller _(pawn shop clerk)_<br>
+Shawn Schepps _(Nancy)_<br>
+Bruce M. Kerner _(desk sergeant)_<br>
+Franco Columbu _(future Terminator)_<br>
+Bill Paxton _(punk leader)_<br>
+Brad Rearden, Brian Thompson _(punks)_<br>
+William Wisher Jr, Ken Fritz,  Tom Oberhaus _(policemen)_<br>
+Ed Dogans _(cop in alley)_<br>
+Joe Farago _(TV anchorman)_<br>
+Hettie Lynne Hurtes _(TV anchorwoman)_<br>
 Tony Mirelez _(station attendant)_
 
-USA 1984©
-
-107 mins
-
-Digital 4K
+USA 1984©<br>
+107 mins<br>
+Digital 4K<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTEyMDI3NV19
+eyJoaXN0b3J5IjpbLTE4MjE3Nzk1NDVdfQ==
 -->
