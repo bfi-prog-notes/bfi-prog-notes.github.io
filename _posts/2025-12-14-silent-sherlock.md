@@ -42,62 +42,45 @@ Madame D’Esterre _(Mrs Hudson)_
 Joan Beverley _(Irene Adair)_  
 Alfred Drayton _(King of Bohemia)_  
 Miles Mander _(Godfrey Norton)_  
-Annie Esmond _(maid)_
-
+Annie Esmond _(maid)_  
 UK 1921
 
-**The Golden Pince-Nez**
-
+**The Golden Pince-Nez**  
 _Director_: George Ridgwell  
 _Production Company_: Stoll Film Company  
-_Scenario:_ Geoffrey H. Malins, Patrick L. Mannock
-
-_From the story by_: Arthur Conan Doyle
-
-_Photography:_ Alfred H. Moise
-
-_Art Direction:_ Walter W. Murton
-
-_Cast:_
-
-Eille Norwood _(Sherlock Holmes)_  
-Hubert Willis _(Dr Watson)_  
-Teddy Arundell _(Inspector Hopkins)_
-
-Norma Whalley _(Anna Coram)_
-
-Cecil Morton York _(Professor Coram)_
-
-UK 1922
-
-**The Final Problem**
-
-_Director_: George Ridgwell  
-_Production Company_: Stoll Film Company  
-_Producer_: George Ridgwell
-
 _Scenario:_ Geoffrey H. Malins, Patrick L. Mannock  
 _From the story by_: Arthur Conan Doyle  
-_Photography:_ Alfred H. Moise
+_Photography:_ Alfred H. Moise  
+_Art Direction:_ Walter W. Murton  
+_Cast:_  
+Eille Norwood _(Sherlock Holmes)_  
+Hubert Willis _(Dr Watson)_  
+Teddy Arundell _(Inspector Hopkins)_  
+Norma Whalley _(Anna Coram)_  
+Cecil Morton York _(Professor Coram)_  
+UK 1922
 
-_Art Direction:_ Walter W. Murton
-
-_Cast:_
-
+**The Final Problem**  
+_Director_: George Ridgwell  
+_Production Company_: Stoll Film Company  
+_Producer_: George Ridgwell  
+_Scenario:_ Geoffrey H. Malins, Patrick L. Mannock  
+_From the story by_: Arthur Conan Doyle  
+_Photography:_ Alfred H. Moise  
+_Art Direction:_ Walter W. Murton  
+_Cast:_  
 Eille Norwood _(Sherlock Holmes)_  
 Hubert Willis _(Dr Watson)_  
 Tom Beaumont _(Inspector Gregory)_  
-Percy Standing _(Professor Moriarty)_
-
+Percy Standing _(Professor Moriarty)_  
 UK 1923
 
 Total running time: 102 mins
 
-With recorded score composed by  
-Joseph Havlat, Neil Brand and Joanna MacGregor
+With recorded score composed by  Joseph Havlat, Neil Brand and Joanna MacGregor
 
-Restoration funded by Iron Mountain.  
-Additional support for the score from The Charles Skey Charitable Trust and Cockayne – Grants for the Arts: a donor advised fund held at The London Community Foundation.
+Restoration funded by Iron Mountain.  Additional support for the score from The Charles Skey Charitable Trust and Cockayne – Grants for the Arts: a donor advised fund held at The London Community Foundation.
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU2MjA4MTFdfQ==
+eyJoaXN0b3J5IjpbLTQ4NjI2MDcxXX0=
 -->
