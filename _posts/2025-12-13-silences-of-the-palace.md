@@ -37,13 +37,11 @@ _But though Arabic culture may not be a culture of the image, poetry makes use o
 
 That’s right. Poetry is made up of a superimposition of images on words. Perhaps this culture of the indirect has advantages over a culture valuing simple and direct expression. Here everything is a little bit devious, a bit unformulated – the unsaid, and so on. This is why the camera is so amazing. It’s in complete harmony with this rather repressed language. A camera is somewhat sly and hidden. It’s there and it can capture small details about something one is trying to say, so in a sense it can be an instrument for poetry.  
 **_Sight and Sound_, March 1995**
-<br><
+<br><br>
 
-**The Silences of the Palace** Samt El Koussour
-
+**The Silences of the Palace** Samt El Koussour  
 _Director_: Moufida Tlatli  
-_Production Companies_: Cinétéléfilms, Magfilm, Ministère des Affaires Culturelles, Mat Films,  
-Le Ministère des Affaires Étrangères, Ministère Français de la Culture, Channel Four, Canal+ Horizons, Hubert Bals Fund, Agence de Coopération Culturelle et Technique  
+_Production Companies_: Cinétéléfilms, Magfilm, Ministère des Affaires Culturelles, Mat Films,  Le Ministère des Affaires Étrangères, Ministère Français de la Culture, Channel Four, Canal+ Horizons, Hubert Bals Fund, Agence de Coopération Culturelle et Technique  
 _Producers_: Ahmed Attia, Richard Magnien  
 _Production Manager_: Tarak Harbi  
 _Written by_: Moufida Tlatli  
@@ -54,8 +52,7 @@ _Set Designer_: Claude Bennys
 _Music_: Anouar Brahem  
 _Sound_: Faouzi Thabet
 
-_Cast:_
-
+**Cast**  
 Amel Hedhili _(Khedija)_  
 Hend Sabri _(young Alia)_  
 Najia Ouerghi _(Khalti Hadda)_  
@@ -71,14 +68,12 @@ Fatima Ben Saïdane _(Mroubia)_
 Zahira Ben Ammar _(Habiba)_  
 Sabah Bouzouita _(Schéma)_
 
-Tunisia-France 1994
-
-130 mins
-
+Tunisia-France 1994  
+130 mins  
 Digital
 
-The screening on Thu 18 Dec will be introduced  
-by Ifriqiya Cinema
+The screening on Thu 18 Dec will be introduced  by Ifriqiya Cinema
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1OTQ3MDgyXX0=
+eyJoaXN0b3J5IjpbLTUyMTAxNzI4XX0=
 -->
