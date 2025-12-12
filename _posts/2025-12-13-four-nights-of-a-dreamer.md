@@ -46,55 +46,46 @@ You know my films have always seemed to me ... how could I say it? … attempts,
 **Interview by Carlos Clarens, _Sight and Sound_, Winter 1971-72**
 <br><br>
 
-**Four Nights of a Dreamer** Quatre nuits d’un rêveur
-
+**Four Nights of a Dreamer** Quatre nuits d’un rêveur  
 _Director_: Robert Bresson  
-_Production Companies_: Albina Productions,  
-I Film dell’Orso, Victoria Films, ORTF - Office de Radiodiffusion Télévision Française  
+_Production Companies_: Albina Productions,  I Film dell’Orso, Victoria Films, ORTF - Office de Radiodiffusion Télévision Française  
 _Unit Manager_: Daniel Deschamps  
 _Production Manager_: Georges Casati  
-_Assistant Directors_: Mylène van der Mersch,  
-Munni Kabir, André Bitoun, Jean-Pierre Ghys  
+_Assistant Directors_: Mylène van der Mersch,  Munni Kabir, André Bitoun, Jean-Pierre Ghys  
 _Script Supervisor_: Irene Lhomme  
 _Screenplay_: Robert Bresson  
-_Based on the story ‘White Nights’ by_:  
-Fyodor Dostoevsky  
+_Based on the story ‘White Nights’ by_:  Fyodor Dostoevsky  
 _Director of Photography_: Pierre Lhomme  
 _Director of Photography (‘Amour, tu nous tiens’)_: Ghislain Cloquet *  
-_Camera Operators_: Guy Testarossa,  
-Jacques Renard  
+_Camera Operators_: Guy Testarossa,  Jacques Renard  
 _Editor_: Raymond Lamy  
 _Assistant Editor_: Geneviève Billo  
 _Art Director_: Pierre Charbonnier  
 _Assistant Art Director_: Arakel Araquelian  
-_Music_: Michel Magne, Groupe Batuki,  
-Christopher Hayward, Louis Guitar, F.R. David  
+_Music_: Michel Magne, Groupe Batuki,  Christopher Hayward, Louis Guitar, F.R. David  
 _Sound Engineer_: Roger Letellier  
 _Assistant Sound Engineer_: Michel Kharat  
 _Sound Mixer_: Jacques Carrère
 
-_Cast:_
-
+**Cast**  
 Isabelle Weingarten _(Marthe)_  
 Guillaume des Forêts _(Jacques)_  
 Jean-Maurice Monnoyer _(the lodger)_  
 Giorgio Maulini _(locksmith)_  
 Lydia Biondi _(Marthe’s mother)_  
 Patrick Jouané _(gangster in ‘Amour, tu nous tiens’)_  
-Jérôme Massart_(youth who visits Jacques' apartment)_ *  
+Jérôme Massart _(youth who visits Jacques' apartment)_ *  
 Groupe Batuki _(musicians on bateau-mouche)_ *  
 Jonathan Rosenbaum _(extra)_ *
 
-France-Italy 1971
-
-82 mins
-
+France-Italy 1971  
+82 mins  
 Digital 4K (restoration)
 
-* Uncredited
+*Uncredited
 
-Restored by mk2 Films under the supervision of Mylène Bresson, at Eclair Classics (Paris) and  
-L.E. Diapason, with the support of the Centre national du cinema et de l’image animée (CNC)
+Restored by mk2 Films under the supervision of Mylène Bresson, at Eclair Classics (Paris) and  L.E. Diapason, with the support of the Centre national du cinema et de l’image animée (CNC)
+<br><br<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYzNjE0MjldfQ==
+eyJoaXN0b3J5IjpbNDA5MzcxMzMzLC0xNjQ2MzYxNDI5XX0=
 -->
