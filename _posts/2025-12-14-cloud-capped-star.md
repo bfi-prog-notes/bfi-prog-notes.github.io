@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Cloud-Capped Star
+published: true
+date: 2025-12-14
+readtime: true
+categories: ['Too Much<br>Melodrama on Film']
+tags: [Melodrama]
+metadata: 'India 1960, 127 mins<br> Director: Ritwik Ghatak'
+pdf: '2025-12-14-cloud-capped-star.pdf'
+---
 
 _The Cloud-Capped Star_ iconically represents the angst of the Partition and affective impacts of the resultant refugee crisis on women. In this film, Ritwik Ghatak politicised melodrama to embody the immensity of the loss incurred by such seismic events. It is the only film in his oeuvre that succeeded commercially and is deemed a classic of world cinema. In 2012, French critic Raymond Bellour ranked it among the ten films to have a lasting influence on him. The repercussions of rupture are depicted through the daily life of a refugee family and its sole breadwinner Nita, the protagonist. Unshackling the colonised from exclusive colonial references, Ghatak inscribed the absent subject into history by reclaiming their precolonial past through appropriation of Indian folk and mythological traditions. An avid reader of Jung, he developed the Great Mother archetype in the film as the foundation of the collective unconscious and as a shared spiritual motif among ancient cultures that fell prey to colonialism.
 
@@ -49,6 +60,30 @@ Digital (restoration)
 
 Restored by the Criterion Collection in cooperation with The Film Foundation’s World Cinema Project and the Cineteca di Bologna<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc0ODg1MTEwMl19
 -->
