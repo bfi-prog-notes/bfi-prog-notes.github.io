@@ -44,8 +44,7 @@ The eye must be directed and told where to look for meaning, in paintings as in 
 You know my films have always seemed to me ... how could I say it? … attempts, trials ... The language of images is still so unknown, so new, so difficult to practise.
 
 **Interview by Carlos Clarens, _Sight and Sound_, Winter 1971-72**
-
-<![endif]-->
+<br><br>
 
 **Four Nights of a Dreamer** Quatre nuits d’un rêveur
 
@@ -97,5 +96,5 @@ Digital 4K (restoration)
 Restored by mk2 Films under the supervision of Mylène Bresson, at Eclair Classics (Paris) and  
 L.E. Diapason, with the support of the Centre national du cinema et de l’image animée (CNC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTY1ODkwNl19
+eyJoaXN0b3J5IjpbLTE2NDYzNjE0MjldfQ==
 -->
