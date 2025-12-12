@@ -85,7 +85,7 @@ Digital 4K (restoration)
 *Uncredited
 
 Restored by mk2 Films under the supervision of Mylène Bresson, at Eclair Classics (Paris) and  L.E. Diapason, with the support of the Centre national du cinema et de l’image animée (CNC)
-<br><br<
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MzcxMzMzLC0xNjQ2MzYxNDI5XX0=
+eyJoaXN0b3J5IjpbNjI4MjI2MDUxLC0xNjQ2MzYxNDI5XX0=
 -->
