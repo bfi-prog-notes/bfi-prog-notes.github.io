@@ -1,3 +1,14 @@
+---
+layout: post
+title: Nineteen Eighty-four
+published: true
+date: 2025-12-15
+readtime: true
+categories: ['Muse of Fire<br>Richard Burton']
+tags: [Sci-Fi, Drama]
+metadata: 'UK-West Germany 1984, 110 mins<br> Director: Michael Radford'
+pdf: '2025-12-15-nineteen-eighty-four.pdf'
+---
 
 Burton was not first choice for the role of inscrutable Inner Party official O’Brien in Radford’s as-yet-unmatched adaptation of the totemic dystopian novel. Yet his casting opposite Hurt’s Winston Smith proved a masterstroke. Shot over the exact period specified by Orwell, the film was released two months after Burton’s death at just 58. All the more chilling for its restraint, his performance was a sobering swansong to an extraordinary career.
 
@@ -15,6 +26,30 @@ Even so, there must only be a limited number of people who will go to _Nineteen 
 Radford is trying here to do something more than appeal to the nostalgia (or infantilism) of a certain generation. In _Nineteen Eighty-four_ design is a mode of Orwell interpretation. Deconsecrating, re-naming, or changing the function of monuments is more symbolic than their destruction. The Convention knew this and so does Mrs Thatcher (County Hall, it should be said, does not figure). So when familiar London landmarks such as Alexandra Palace, Battersea Power Station and Senate House appear in new guises, London momentarily takes on the appearance of modern Berlin: nothing is quite what it seems, what you remember, or what you learned before. It is too often forgotten that what Orwell describes in _Nineteen Eighty-four_ is the English Revolution. Radford has rightly seized on this aspect of the book, but imaginatively and in a way which provides that rare thing: a British film in distinctively English locations. Catch it while you can.  
 **Jill Forbes, _Sight and Sound_, Winter 1984/5**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjkxMDUzNTM1XX0=
