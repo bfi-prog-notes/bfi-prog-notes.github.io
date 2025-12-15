@@ -1,9 +1,7 @@
-<![endif]-->
 
 Burton was not first choice for the role of inscrutable Inner Party official O’Brien in Radford’s as-yet-unmatched adaptation of the totemic dystopian novel. Yet his casting opposite Hurt’s Winston Smith proved a masterstroke. Shot over the exact period specified by Orwell, the film was released two months after Burton’s death at just 58. All the more chilling for its restraint, his performance was a sobering swansong to an extraordinary career.
 
-**A contemporary review**
-
+**A contemporary review**  
 When a Sunday supplement asked her what she was doing for Christmas, Brigid Brophy once replied that she was off to Istanbul so as ‘to eat turkey in Turkey’. To judge from the queues outside the cinemas, audiences felt much the same about ‘seeing _1984_ in 1984’. How right they were. The novel is a wasting asset and, now the year is out, is destined for the literary shelf alongside other Utopias. The film-going public were quick to appreciate that Mike Radford’s _Nineteen Eighty-four_ is definitive in this respect, a coup achieved in the nick of time which no one else can ever pull off.
 
 But how will it look in 1985? It is not an interpretation of Orwell’s novel, a ‘1984 for our times’. It might be argued that plot and characterisation are so flimsy in the original that flights of analysis were out of the question, but the authors’ extraordinary – some might say slavish – fidelity to the novel is a deliberate choice, not a _pis aller_. There is a particular pleasure when the washerwoman’s song comes in pat on cue or the picture in Mr Charrington’s shop falls off the wall to reveal a screen, and it derives from knowing the outcome. Radford’s _Nineteen Eighty-four_ presupposes a childlike disposition in its audience – a disposition that requires the exact repetition of a favourite bedtime story and will not tolerate the slightest departure from the canon. Not enough has been made of _Nineteen Eighty-four_ as a classic of juvenile literature (the rats are a case in point), but it has been cleverly identified here.
@@ -14,11 +12,10 @@ The authors’ wish to be faithful also extended to the casting. It is known tha
 
 Even so, there must only be a limited number of people who will go to _Nineteen Eighty-four_ simply to relive their childhood. But the real surprises and the genuine exercise of creative talent come with the design of the film, which is brilliant. Every item in these carefully constructed sets is both familiar and strange. Outdated technology is deployed for very modern kinds of surveillance. It is rather like paying a visit to the Irish Republic and finding that people still smoke ‘Craven A’: Winston dials an old-fashioned metal telephone of the kind found in Button B call-boxes; the documents he has to revise arrive in suction impelled tubes that department stores once used to send money to the cashier; when the Thought Police want to know what is going on in somebody’s apartment, they resort to the crude expedient of flying an ancient helicopter low along the street and peering in through the window. Nor is breakfast television forgotten: simply, Winston is awoken not by a Green Goddess but by an old-style gym mistress complete with divided skirt and whistle.
 
-Radford is trying here to do something more than appeal to the nostalgia (or infantilism) of a certain generation. In _Nineteen Eighty-four_ design is a mode of Orwell interpretation. Deconsecrating, re-naming, or changing the function of monuments is more symbolic than their destruction. The Convention knew this and so does Mrs Thatcher (County Hall, it should be said, does not figure). So when familiar London landmarks such as Alexandra Palace, Battersea Power Station and Senate House appear in new guises, London momentarily takes on the appearance of modern Berlin: nothing is quite what it seems, what you remember, or what you learned before. It is too often forgotten that what Orwell describes in _Nineteen Eighty-four_ is the English Revolution. Radford has rightly seized on this aspect of the book, but imaginatively and in a way which provides that rare thing: a British film in distinctively English locations. Catch it while you can.
-
-Jill Forbes, _Sight and Sound_, Winter 1984/5
-
+Radford is trying here to do something more than appeal to the nostalgia (or infantilism) of a certain generation. In _Nineteen Eighty-four_ design is a mode of Orwell interpretation. Deconsecrating, re-naming, or changing the function of monuments is more symbolic than their destruction. The Convention knew this and so does Mrs Thatcher (County Hall, it should be said, does not figure). So when familiar London landmarks such as Alexandra Palace, Battersea Power Station and Senate House appear in new guises, London momentarily takes on the appearance of modern Berlin: nothing is quite what it seems, what you remember, or what you learned before. It is too often forgotten that what Orwell describes in _Nineteen Eighty-four_ is the English Revolution. Radford has rightly seized on this aspect of the book, but imaginatively and in a way which provides that rare thing: a British film in distinctively English locations. Catch it while you can.  
+**Jill Forbes, _Sight and Sound_, Winter 1984/5**
+<br><br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDg0NDM3MF19
+eyJoaXN0b3J5IjpbMjkxMDUzNTM1XX0=
 -->
