@@ -21,139 +21,72 @@ Nervously drifting and unfocused as the film’s ideas may be, its extravagant v
 <br><br>
 
 **Exorcist II: The Heretic**<br>
-
 _Director_: John Boorman<br>
-
 _Production Company_: Warner Bros.<br>
-
 _Producers_: Richard Lederer, John Boorman<br>
-
 _Associate Producer_: Charles Orme<br>
-
-_Production Managers_: John Coonan,  
-William C. Gerrity<br>
-
+_Production Managers_: John Coonan,  William C. Gerrity<br>
 _Location Manager_: John James<br>
-
-_2nd Unit Director/Creative Associate_:  
-Rospo Pallenberg<br>
-
+_2nd Unit Director/Creative Associate_:  Rospo Pallenberg<br>
 _Assistant Directors_: Phil Rawlins, Victor Hsu<br>
-
 _Screenplay_: William Goodhart<br>
-
 _Original Characters_: William Peter Blatty<br>
-
 _Director of Photography_: William A. Fraker<br>
-
-_Special Locust Photography_: Sean Morris,  
-David Thompson<br>
-
-_2nd Unit Photographers_: David Quaid,  
-Ken Eddy, Diane Eddy<br>
-
+_Special Locust Photography_: Sean Morris,  David Thompson<br>
+_2nd Unit Photographers_: David Quaid,  Ken Eddy, Diane Eddy<br>
 _Special Photographic Effects_: Albert J. Whitlock, Van Der Veer Photo Company<br>
-
 _Process Consultant_: Bill Hansard<br>
-
-_Special Effects_: Chuck Gaspar, Wayne Edgar,
-
-Jim Blount, Jeff Jarvis, Roy Kelly<br>
-
+_Special Effects_: Chuck Gaspar, Wayne Edgar, Jim Blount, Jeff Jarvis, Roy Kelly<br>
 _Editor_: Tom Priestley<br>
-
 _Associate Editor_: Axel Hubert<br>
-
 _Production Designer_: Richard MacDonald<br>
-
 _Art Directors_: Jack T. Collis, Gene Rudolf<br>
-
 _Set Decorator_: John Austin<br>
-
 _Regan’s Drawings_: Katrine Boorman<br>
-
 _Scenic Artist_: Ron Strang<br>
-
 _Costumes:_ Robert De Mora<br>
-
 _Special Make-up_: Dick Smith<br>
-
 _Make-up_: Gary Liddiard<br>
-
 _Title Design_: Dan Perri<br>
-
-_Music Composed and Conducted by_:  
-Ennio Morricone<br>
-
+_Music Composed and Conducted by_:  Ennio Morricone<br>
 _Choreography_: Daniel Joseph Giagni<br>
-
 _Sound Recording_: Walter Goss<br>
-
-_Sound Re-recording_: Arthur Piantadosi,
-
-Les Fresholtz, Michael Minkler<br>
-
+_Sound Re-recording_: Arthur Piantadosi, Les Fresholtz, Michael Minkler<br>
 _Sound Effects_: Jim Atkinson<br>
-
 _Synchronisation Effects Editor_: Russ Hill<br>
-
 _Entomologist_: Steven Kutcher<br>
-
 _African Technical Consultant_: Fiseha Dimetros<br>
-
 _Hypnosis Consultant_: Kenneth Fineman
 
-_Cast:_<br>
-
+**Cast**<br>
 Linda Blair _(Regan MacNeil)_<br>
-
 Richard Burton _(Father Philip Lamont)_<br>
-
 Louise Fletcher _(Dr Gene Tuskin)_<br>
-
 Max von Sydow _(Father Merrin)_<br>
-
 Kitty Winn _(Sharon Spencer)_<br>
-
 Paul Henreid _(Cardinal Jaros)_<br>
-
 James Earl Jones _(older Kokumo)_<br>
-
 Ned Beatty _(Edwards)_<br>
-
 Belinha Beatty _(Liz)_<br>
-
 Rose Portillo _(Spanish girl)_<br>
-
 Barbara Cason _(Mrs Phalor)_<br>
-
 Tiffany Kinney _(deaf girl)_<br>
-
 Joey Green _(young Kokumo)_<br>
-
 Fiseha Dimetros _(young Monk)_<br>
-
 Ken Renard _(abbot)_<br>
-
 John Joyce _(monk)_<br>
-
 Hank Garrett _(conductor)_<br>
-
 Lorry Goldman _(accident victim)_<br>
-
 Bill Grant _(taxi driver)_<br>
-
-Shane Butterworth_,_ Joely Adams _(Tuskin children)_<br>
-
+Shane Butterworth, Joely Adams _(Tuskin children)_<br>
 Vladek Sheybal _(voice of Pazuzu)_
 
 USA 1977<br>
-
 102 mins<br>
-
 35mm<br>
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTA3NjY4N119
+eyJoaXN0b3J5IjpbLTEzNTI4NDExMTFdfQ==
 -->
