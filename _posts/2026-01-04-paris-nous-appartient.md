@@ -72,17 +72,14 @@ Hans Lucas<br>
 Jean-Claude Brialy _(Jean-Marc)_<br>
 Claude Chabrol, Jacques Rivette  _(guests at party in Neuilly)_ *<br>
 Jean-Luc Godard _(man at café)_ *<br>
-
 Jacques Demy *
 
 France 1961<br>
-
 141 mins<br>
-
 35mm
 
-* Uncredited<br>
+*Uncredited<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE0NzAyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzQ1MzUxMzZdfQ==
 -->
