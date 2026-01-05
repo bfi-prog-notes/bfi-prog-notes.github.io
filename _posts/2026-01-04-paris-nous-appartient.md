@@ -18,115 +18,59 @@ Undeniably a rare film, one can still describe it perhaps in that less rare term
 <br><br>
 
 **Paris nous appartient** Paris Belongs to Us<br>
-
 _Director:_ Jacques Rivette<br>
-
-_Production Companies:_ AJYM Films,  
-Les Films du Carrosse<br>
-
+_Production Companies:_ AJYM Films,  Les Films du Carrosse<br>
 _Producer:_ Roland Nonin<br>
-
 _Unit Manager:_ Robert Lachenay<br>
-
-_Assistants:_ Jean Herman, Isabelle Phat,  
-Alain Pozarnik<br>
-
+_Assistants:_ Jean Herman, Isabelle Phat,  Alain Pozarnik<br>
 _Script Girl:_ Laura Mauri<br>
-
 _Scenario/Dialogue:_ Jacques Rivette, Jean Gruault<br>
-
 _Director of Photography:_ Charles Bitsch<br>
-
 _Camera Assistant:_ André Mrugalski<br>
-
 _Key Grip:_ Bernard Largemains<br>
-
 _Stills Photography:_ Georges Pierre *<br>
-
 _Editor:_ Denise de Casabianca<br>
-
 _Assisted by:_ Ghislaine Desjonquères<br>
-
 _Laboratory:_ GTC Joinville France<br>
-
 _Music:_ Philippe Arthuys<br>
-
 _With the collaboration of:_ Ivo Malec<br>
-
 _Guitar:_ Jean Borredon<br>
-
 _Sound Recordist:_ Christian Hackspill<br>
-
 _Dialogue Coach:_ Suzanne Schiffman<br>
+_‘Babel’ sequence extracted from the film ‘Metropolis’ by:_ Fritz Lang _(Courtesy of:_ Ufa,  La Cinémathèque française)
 
-_‘Babel’ sequence extracted from the film ‘Metropolis’ by:_ Fritz Lang _(Courtesy of:_ Ufa,  
-La Cinémathèque française)
-
-_Cast:_<br>
-
+**Cast**<br>
 Betty Schneider _(Anne Goupil)_<br>
-
 Giani Esposito _(Gérard Lenz)_<br>
-
 Françoise Prévost _(Terry Yordan)_<br>
-
 Daniel Crohem _(Philip Kaufman)_<br>
-
 François Maistre _(Pierre Goupil)_<br>
-
 Birgitta Juslin _(Finnish model)_<br>
-
 Noëlle Leiris<br>
-
 Monique Le Porrier<br>
-
 Malka Ribowska<br>
-
 Louise Roblin _(guest at party in Neuilly)_<br>
-
 Anne Zamire _(woman with baby)_<br>
-
 Paul Bisciglia _(Paul, member of theatre group)_<br>
-
 Jean-Pierre Delage<br>
-
 Claus Von Lorbach<br>
-
 Jean Martin<br>
-
 Henri Poirier _(member of theatre group)_<br>
-
 André Thorent _(Bernard)_<br>
-
 Jane Car<br>
-
 Jacqueline Dupuis<br>
-
 Claire Fischer<br>
-
 Teresa Gracia<br>
-
 Danielle Vercoutre<br>
-
 Liliane Weiner<br>
-
 Roland Daviller<br>
-
 Fernand George<br>
-
 François Robert<br>
-
 José Sebastian<br>
-
 Jean-Marie Robain _(Jean-Bernard George)_<br>
-
 Hans Lucas<br>
-
 Jean-Claude Brialy _(Jean-Marc)_<br>
-
-Claude Chabrol, Jacques Rivette  
-_(guests at party in Neuilly)_ *<br>
-
+Claude Chabrol, Jacques Rivette  _(guests at party in Neuilly)_ *<br>
 Jean-Luc Godard _(man at café)_ *<br>
 
 Jacques Demy *
@@ -138,7 +82,7 @@ France 1961<br>
 35mm
 
 * Uncredited<br>
-* <br><br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDk2OTY3NF19
+eyJoaXN0b3J5IjpbLTIwNTE0NzAyMjRdfQ==
 -->
