@@ -45,7 +45,7 @@ Digital
 
 **NB:** The Academy Award for Best Costume Design [in a colour film] was awarded to the uncredited Sanzo Wada for the film. Some sources cite  
 Shima Yoshizane as having responsibility for costume design.
-<b
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDE1Nzk1MF19
+eyJoaXN0b3J5IjpbMTA1NzU5NDM2OF19
 -->
