@@ -1,3 +1,14 @@
+---
+layout: post
+title: INLAND EMPIRE
+published: true
+date: 2026-01-08
+readtime: true
+categories: ['David Lynch<br>The Dreamer']
+tags: [Drama, Experimental]
+metadata: 'USA-France-Poland 2006, 180 mins<br> Director: David Lynch'
+pdf: '2026-01-08-inland-empire.pdf'
+---
 
 Whether or not such a thing as ‘pure cinema’ exists is an argument that will never cease – can movies attain essential ‘movieness’ by way of pure visual effect, associative or imagistic, without depending on the remnants of theatre and literature, namely language, character or drama? Should they? Can we separate form from content, or is form the content? Or should content be an integral factor in form? Is such a thing possible? Is Stan Brakhage ‘pure’ (or just ‘abstract’?), and if so, what does that mean? Does ‘pure’ simply indicate a lack of coherent material (‘material’? What’s that?) and a surrender to impressions and subliminals, if not outright de-significance?
 
@@ -145,6 +156,37 @@ USA-France-Poland 2006©<br>
 180 mins<br>
 Digital 4K<br>
 <br><br>
+
+**With thanks to**  
+Sabrina Sutherland  
+Lindsey Bowden
+<br><br>
+
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MjQ3OTkxMjZdfQ==
 -->
