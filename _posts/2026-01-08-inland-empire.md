@@ -63,163 +63,88 @@ Justin Theroux _(Devon Berk/Billy Side)_<br>
 Karolina Gruszka _(lost girl)_<br>
 Jan Hench _(Janek)_<br>
 Krzysztof Majchrzak _(phantom)_<br>
-
 Grace Zabriskie _(visitor 1)_<br>
-
 Ian Abercrombie _(Henry the butler)_<br>
-
 Karen Baird _(servant)_<br>
-
 Bellina Logan _(Linda)_<br>
-
 Amanda Foreman _(Tracy)_<br>
-
 Peter J. Lucas _(Piotrek Krol)_<br>
-
 Harry Dean Stanton _(Freddie Howard)_<br>
-
 Cameron Daddo _(Devon Berk’s manager)_<br>
-
 Jerry Stahl _(Devon Berk’s agent)_<br>
-
 John T. Churchill _(1st A.D. Chuck Ross)_<br>
-
 Phil DeSanti _(2nd A.D. Tim Hurst)_<br>
-
 Chamonix Bosch _(3rd A.D. Sally Irwin)_<br>
-
 Sara Glaser _(script supervisor Ellen Thomas)_<br>
-
 Neil Dickson _(producer)_<br>
-
 Edward St. George _(hair stylist)_<br>
-
 Diane Ladd _(Marilyn Levens)_<br>
-
 Melissa Lowndes _(Marilyn Levens’ assistant)_<br>
-
 Marsha Lewis _(Marilyn Levens’ hair stylist)_<br>
-
 Jeremy Alter _(stage manager)_<br>
-
 William H. Macy _(announcer)_<br>
-
 Austin Lynch _(Devon Berk’s driver)_<br>
-
 Jason Weinberg _(Nikki Grace’s manager)_<br>
-
 Heidi Bivens _(Devon Berk’s wardrobe assistant)_<br>
-
 Randy Johnson _(studio security guard 1)_<br>
-
 Duncan K. Fraser _(studio security guard 2)_<br>
-
 Stanislaw Kazimierz Cybulski _(Mr Zydowicz)_<br>
-
 Henryka Cybulski _(Mrs Zydowicz)_<br>
-
 Julia Ormond _(Doris Side)_<br>
-
 Robert Charles Hunter _(Detective Hutchinson)_<br>
-
 Ewa Jerzykowski _(head menervant)_<br>
-
 Scott Ressler _(camera operator)_<br>
-
 Emily Stofle _(Lanni)_<br>
-
 Jordan Ladd _(Terri)_<br>
-
 Kristen Kerr _(Lori)_<br>
-
 Terryn Westbrook _(Chelsi)_<br>
-
 Jamie Eifert _(Sandi)_<br>
-
 Kathryn Turner _(Dori)_<br>
-
 Michelle Renea _(Kari)_<br>
-
 Adam Zdunek _(man on street)_<br>
-
 Erik Crary _(Mr K)_<br>
-
 Wendy Rhodes _(Salli)_<br>
-
 Mikhaila Aaseng _(Tammi)_<br>
-
 Stanley Kamel _(Koz Kakawski)_<br>
-
 Marek Zydowicz _(Gordy)_<br>
-
 Mary Steenburgen _(visitor 2)_<br>
-
 Leon Niemczyk _(Marek)_<br>
-
 Jozef Zbirog _(Darek)_<br>
-
 Marian Stanislawski _(Franciszek)_<br>
-
 Charlene Harding _(Roxi)_<br>
-
 Suzette Belouin _(Mandi)_<br>
-
 Lisa Dengler-Eaton _(club dancer)_<br>
-
 Gail Greaves, Joseph Altruda _(bartenders)_<br>
-
 Jay P. Work _(saxophonist)_<br>
-
 William McNeil _(drummer)_<br>
-
 Carolina Cerisola _(club backstage girl)_<br>
-
 Leah Morelli _(Carolina)_<br>
-
 Helen Chase _(street person 1)_<br>
-
 Nae _(street person 2)_<br>
-
 Terry Crews _(street person 3)_<br>
-
 Kris Kane _(Nikki Grace’s wardrobe assistant)_<br>
-
 Michelle Clark _(make-up artist)_<br>
-
 Brandon Reinhardt _(Smithy’s son)_<br>
-
 Tracy Ashton _(the marine’s sister)_<br>
-
 Masuimi Max _(Niko)_<br>
-
 Domeniquie Vandenberg _(trainyard worker)_<br>
-
 Penny Hintz _(teacher)_<br>
-
 Nick 13 _(archaeologist)_<br>
-
 Keith Kjarval _(lumberjack)_<br>
 
 _Special appearances by:_<br>
-
 Nastassja Kinski<br>
-
 Laura Harring<br>
 
 _With voice performances by:_<br>
-
 Scott Coffey<br>
-
 Laura Harring<br>
-
 Naomi Watts<br>
 
 USA-France-Poland 2006©<br>
-
 180 mins<br>
-
 Digital 4K<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0NjE5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjQ3OTkxMjZdfQ==
 -->
