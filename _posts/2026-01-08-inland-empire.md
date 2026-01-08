@@ -32,111 +32,111 @@ Erik Crary, Jay Aaseng<br>
 
 _Production Supervisor:_ Erik Crary<br>
 
-_Post-production Supervisor:_ Greg Spence
+_Post-production Supervisor:_ Greg Spence<br>
 
-_Casting by:_ Johanna Ray
+_Casting by:_ Johanna Ray<br>
 
-_Written by:_ David Lynch
+_Written by:_ David Lynch<br>
 
 _Camera Operators:_ David Lynch, Erik Crary,
 
-Odd Geir Saether, Ole Johan Roska
+Odd Geir Saether, Ole Johan Roska<br>
 
-_Gaffer:_ Jonathan Wenstrup
+_Gaffer:_ Jonathan Wenstrup<br>
 
-_Still Photographer:_ Michael Roberts
+_Still Photographer:_ Michael Roberts<br>
 
-_Special Physical Effects:_ Gary D’Amico
+_Special Physical Effects:_ Gary D’Amico<br>
 
-_Editor:_ David Lynch *
+_Editor:_ David Lynch *<br>
 
-_Assistant Editor:_ Noriko Miyakawa
+_Assistant Editor:_ Noriko Miyakawa<br>
 
-_Art Director:_ Christina Wilson
+_Art Director:_ Christina Wilson<br>
 
-_Set Decorator:_ Melanie Rein
+_Set Decorator:_ Melanie Rein<br>
 
-_Costume Supervisor (Poland Unit):_ Paulina Polom _Wardrobe:_ Heidi Bivens, Karen Baird
+_Costume Supervisor (Poland Unit):_ Paulina Polom _Wardrobe:_ Heidi Bivens, Karen Baird<br>
 
-_Key Make-up:_ Michelle Clark
+_Key Make-up:_ Michelle Clark<br>
 
-_Special Effects Make-up:_ Duke Cullen
+_Special Effects Make-up:_ Duke Cullen<br>
 
-_Key Hairdresser:_ Edward St. George
+_Key Hairdresser:_ Edward St. George<br>
 
-_Main Title Design:_ Eric Ladd
+_Main Title Design:_ Eric Ladd<br>
 
-_End Title Design:_ Melissa Elliott
+_End Title Design:_ Melissa Elliott<br>
 
-_Mastering Colourist:_ George Koran
+_Mastering Colourist:_ George Koran<br>
 
-_Music:_ Angelo Badalamenti
+_Music:_ Angelo Badalamenti<br>
 
-_Music Consultant:_ Marek Zebrowski
+_Music Consultant:_ Marek Zebrowski<br>
 
-_Sound Designer:_ David Lynch
+_Sound Designer:_ David Lynch<br>
 
-_Sound Supervisors:_ Ronald Eng, Dean Hurley
+_Sound Supervisors:_ Ronald Eng, Dean Hurley<br>
 
-_Boom Operator:_ John Evans
+_Boom Operator:_ John Evans<br>
 
-_Utility Sound:_ Sara Glaser
+_Utility Sound:_ Sara Glaser<br>
 
-_Production Sound Mixer:_ Dean Hurley
+_Production Sound Mixer:_ Dean Hurley<br>
 
 _Sound Re-recording Mixers:_ Dean Hurley,
 
-Ronald Eng, David Lynch
+Ronald Eng, David Lynch<br>
 
-_Dialogue Editors:_ David Cohen, Robert Troy
+_Dialogue Editors:_ David Cohen, Robert Troy<br>
 
-_Sound Effects Editor:_ Steve Tushar
+_Sound Effects Editor:_ Steve Tushar<br>
 
-_Foley Mixer:_ Ryan Maguire
+_Foley Mixer:_ Ryan Maguire<br>
 
-_Foley Editor:_ Willard Overstreet
+_Foley Editor:_ Willard Overstreet<br>
 
-_Special Consultant:_ Pierre Edelman
+_Special Consultant:_ Pierre Edelman<br>
 
-_Stunt Co-ordinator:_ Garrett Warren
+_Stunt Co-ordinator:_ Garrett Warren<br>
 
-_Animal Handling by:_ Working Wildlife
+_Animal Handling by:_ Working Wildlife<br>
 
-_Cast:_
+_Cast:_<br>
 
-Laura Dern _(Nikki Grace/Susan Blue)_
+Laura Dern _(Nikki Grace/Susan Blue)_<br>
 
-Jeremy Irons _(Kingsley Stewart)_
+Jeremy Irons _(Kingsley Stewart)_<br>
 
-Justin Theroux _(Devon Berk/Billy Side)_
+Justin Theroux _(Devon Berk/Billy Side)_<br>
 
-Karolina Gruszka _(lost girl)_
+Karolina Gruszka _(lost girl)_<br>
 
-Jan Hench _(Janek)_
+Jan Hench _(Janek)_<br>
 
-Krzysztof Majchrzak _(phantom)_
+Krzysztof Majchrzak _(phantom)_<br>
 
-Grace Zabriskie _(visitor 1)_
+Grace Zabriskie _(visitor 1)_<br>
 
-Ian Abercrombie _(Henry the butler)_
+Ian Abercrombie _(Henry the butler)_<br>
 
-Karen Baird _(servant)_
+Karen Baird _(servant)_<br>
 
-Bellina Logan _(Linda)_
+Bellina Logan _(Linda)_<br>
 
-Amanda Foreman _(Tracy)_
+Amanda Foreman _(Tracy)_<br>
 
-Peter J. Lucas _(Piotrek Krol)_
+Peter J. Lucas _(Piotrek Krol)_<br>
 
-Harry Dean Stanton _(Freddie Howard)_
+Harry Dean Stanton _(Freddie Howard)_<br>
 
-Cameron Daddo _(Devon Berk’s manager)_
+Cameron Daddo _(Devon Berk’s manager)_<br>
 
-Jerry Stahl _(Devon Berk’s agent)_
+Jerry Stahl _(Devon Berk’s agent)_<br>
 
-John T. Churchill _(1st A.D. Chuck Ross)_
+John T. Churchill _(1st A.D. Chuck Ross)_<br>
 
-Phil DeSanti _(2nd A.D. Tim Hurst)_
+Phil DeSanti _(2nd A.D. Tim Hurst)_<br>
 
 Chamonix Bosch _(3rd A.D. Sally Irwin)_
 
@@ -272,5 +272,5 @@ USA-France-Poland 2006©
 
 Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk0NDgyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzg2NjYxOTJdfQ==
 -->
