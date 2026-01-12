@@ -19,218 +19,172 @@ There is in _Twin Peaks_ an anarchy of observation, of invention, of digging wit
 <br><br>
 
 **Twin Peaks – original US pilot episode**<br>
-
 _Director:_ David Lynch<br>
-
 _Production Companies:_ Lynch/Frost Productions, Propaganda Films<br>
-
 _Executive Producers:_ Mark Frost, David Lynch<br>
-
 _Producer:_ David J. Latt<br>
-
 _Associate Producer:_ Monty Montgomery<br>
-
 _Unit Production Manager:_ Eugene Mazzola<br>
-
 _Production Supervisor:_ Deborah Lefaive<br>
-
 _Production Co-ordinator:_ Denyse Hurley<br>
-
 _LA Co-ordinator:_ Joseph Montrone<br>
-
 _Production Accountant:_ Nowell B. Grossman<br>
-
 _Location Manager:_ Julie Duvic<br>
-
 _Post-production Supervisor:_ Ute Leonhardt<br>
-
 _Assistant to Mark Frost:_ Paula K. Shimatsu-U<br>
-
 _1st Assistant Director:_ Margaux Mackay<br>
-
 _2nd Assistant Director:_ Carol L. Vitkay<br>
-
 _Assistant to David Lynch:_ Debby Trutnik<br>
-
 _Script Supervisor:_ Sharon West<br>
-
 _Casting:_ Johanna Ray<br>
-
 _Casting (Seattle):_ Susan Dixon<br>
-
 _Extra Casting:_ White Light Casting Inc<br>
-
 _Written by:_ Mark Frost, David Lynch<br>
-
 _Director of Photography:_ Ron Garcia<br>
-
 _Camera Operator:_ Sean Doyle<br>
-
 _1st Assistant Camera:_ Thomas Klines<br>
-
 _Gaffer:_ James Blair<br>
-
 _Key Grip:_ Mark Davis<br>
-
 _Special Effects:_ Greg McMickle<br>
-
 _Editor:_ Duwayne R. Dunham<br>
-
 _Associate Editor:_ Jay Ignaszewski<br>
-
 _Assistant Editors:_ Brian Berdan, Michael Altman<br>
-
 _Production Designer:_ Patricia Norris<br>
-
 _Set Decorator:_ Leslie Morales<br>
-
 _On-set Dresser:_ Frank Silva<br>
-
 _Scenic Artist:_ Gretchen Armstrong<br>
-
 _Prop Master:_ Greg McMickle<br>
-
 _Construction Co-ordinator:_ Charles Armstrong<br>
-
 _Costume Designer:_ Patricia Norris<br>
-
 _Key Costumer:_ Earl Lewis<br>
-
 _Wardrobe Supervisor:_ Ron Leamon<br>
-
 _Make-up Supervisor:_ Lizbeth Williamson<br>
-
 _Hairstyles:_ Wayne Coker<br>
-
 _Titles/Opticals:_ Pacific Title<br>
-
 _Titles:_ Awest<br>
+_Music:_ Angelo Badalamenti<br>
+_Music Editor:_ David Slusser<br>
+_Sound Design:_ Douglas Murray<br>
+_Re-recording Mixers:_ Mark Berger, David Parker<br>
 
-_Music:_ Angelo Badalamenti
+_Sound Mixer:_ James Pilcher<br>
 
-_Music Editor:_ David Slusser
-
-_Sound Design:_ Douglas Murray
-
-_Re-recording Mixers:_ Mark Berger, David Parker
-
-_Sound Mixer:_ James Pilcher
-
-_Sound Effects Recordist:_ John Wentworth
+_Sound Effects Recordist:_ John Wentworth<br>
 
 _Stunt Co-ordinator:_ David Boushey
 
-_Cast:_
+_Cast:_<br>
 
-Kyle MacLachlan _(Agent Dale Cooper)_
+Kyle MacLachlan _(Agent Dale Cooper)_<br>
 
-Michael Ontkean _(Sheriff Harry S. Truman)_
+Michael Ontkean _(Sheriff Harry S. Truman)_<br>
 
-Mädchen Amick _(Shelly Johnson)_
+Mädchen Amick _(Shelly Johnson)_<br>
 
-Dana Ashbrook _(Bobby Briggs)_
+Dana Ashbrook _(Bobby Briggs)_<br>
 
-Richard Beymer _(Benjamin Horne)_
+Richard Beymer _(Benjamin Horne)_<br>
 
-Lara Flynn Boyle _(Donna Hayward)_
+Lara Flynn Boyle _(Donna Hayward)_<br>
 
-Sherilyn Fenn _(Audrey Horne)_
+Sherilyn Fenn _(Audrey Horne)_<br>
 
-Warren Frost _(William Hayward)_
+Warren Frost _(William Hayward)_<br>
 
-Peggy Lipton _(Norma Jennings)_
+Peggy Lipton _(Norma Jennings)_<br>
 
-James Marshall _(James Hurley)_
+James Marshall _(James Hurley)_<br>
 
-Everett McGill _(Ed Hurley)_
+Everett McGill _(Ed Hurley)_<br>
 
-Jack Nance _(Pete Martell)_
+Jack Nance _(Pete Martell)_<br>
 
-Ray Wise _(Leland Palmer)_
+Ray Wise _(Leland Palmer)_<br>
 
-Joan Chen _(Josie Packard)_
+Joan Chen _(Josie Packard)_<br>
 
-Piper Laurie _(Catherine Martell)_
+Piper Laurie _(Catherine Martell)_<br>
 
-Russ Tamblyn _(Dr Lawrence Jacoby)_
+Russ Tamblyn _(Dr Lawrence Jacoby)_<br>
 
-Eric Da Re _(Leo Johnson)_
+Eric Da Re _(Leo Johnson)_<br>
 
-Mary Jo Deschanel _(Eileen Hayward)_
+Mary Jo Deschanel _(Eileen Hayward)_<br>
 
-Harry Goaz _(Andy Brennan)_
+Harry Goaz _(Andy Brennan)_<br>
 
-Gary Hershberger _(Mike)_
+Gary Hershberger _(Mike)_<br>
 
-Michael Horse _(Tommy ‘Hawk’ Bill)_
+Michael Horse _(Tommy ‘Hawk’ Bill)_<br>
 
-Grace Zabriskie _(Sarah Palmer)_
+Grace Zabriskie _(Sarah Palmer)_<br>
 
-Troy Evans _(George Wolchezk)_
+Troy Evans _(George Wolchezk)_<br>
 
-John Boylan _(Dwayne Milford)_
+John Boylan _(Dwayne Milford)_<br>
 
-Rodney Harvey _(Biker Scotty)_
+Rodney Harvey _(Biker Scotty)_<br>
 
-Sheryl Lee _(Laura Palmer)_
+Sheryl Lee _(Laura Palmer)_<br>
 
-Robert Davenport _(Johnny Horne)_
+Robert Davenport _(Johnny Horne)_<br>
 
-Jan D’Arcy _(Sylvia Horne)_
+Jan D’Arcy _(Sylvia Horne)_<br>
 
-Kimmy Robertson _(Lucy Moran)_
+Kimmy Robertson _(Lucy Moran)_<br>
 
-Jessica Wallenfels _(Harriet Hayward)_
+Jessica Wallenfels _(Harriet Hayward)_<br>
 
-Wendy Robie _(Nadine Hurley)_
+Wendy Robie _(Nadine Hurley)_<br>
 
-Don Davis _(Major Briggs)_
+Don Davis _(Major Briggs)_<br>
 
-Charlotte Stewart _(Betty Briggs)_
+Charlotte Stewart _(Betty Briggs)_<br>
 
-Roberta Maguire _(Maria Pulaski)_
+Roberta Maguire _(Maria Pulaski)_<br>
 
-Phoebe Augustine _(Ronnette Pulaski)_
+Phoebe Augustine _(Ronnette Pulaski)_<br>
 
-Frank Roberts _(Father Hutchings)_
+Frank Roberts _(Father Hutchings)_<br>
 
-Brett Vadset _(Joey)_
+Brett Vadset _(Joey)_<br>
 
-Davis Wasman _(Gilman White)_
+Davis Wasman _(Gilman White)_<br>
 
-Jane Jones _(Margaret Honeycutt)_
+Jane Jones _(Margaret Honeycutt)_<br>
 
-Tawnya Pettiford-Waites _(Dr Shelvy)_
+Tawnya Pettiford-Waites _(Dr Shelvy)_<br>
 
-Shelly Henning _(Alice Brady)_
+Shelly Henning _(Alice Brady)_<br>
 
-Dorothy Roberts _(Mrs Jackson)_
+Dorothy Roberts _(Mrs Jackson)_<br>
 
-Julee Cruise _(girl singer)_
+Julee Cruise _(girl singer)_<br>
 
-Armie Stenseth _(Sven Jorgenson)_
+Armie Stenseth _(Sven Jorgenson)_<br>
 
-Andrea Hays _(Heidi)_
+Andrea Hays _(Heidi)_<br>
 
-Rick Tutor _(Janek Pulaski)_
+Rick Tutor _(Janek Pulaski)_<br>
 
-Marjorie Nelson _(Janice Hogan)_
+Marjorie Nelson _(Janice Hogan)_<br>
 
-Ben DiGregorio _(Max Hartman)_
+Ben DiGregorio _(Max Hartman)_<br>
 
-Diane Caldwell _(hotel employee)_
+Diane Caldwell _(hotel employee)_<br>
 
-Catherine Coulson _(log lady)_
+Catherine Coulson _(log lady)_<br>
 
 Al Strobel _(one armed man)_
 
-USA 1990
+USA 1990<br>
 
-94 mins
+94 mins<br>
 
 35mm
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNzM2MDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDYxNjMyNjBdfQ==
 -->
