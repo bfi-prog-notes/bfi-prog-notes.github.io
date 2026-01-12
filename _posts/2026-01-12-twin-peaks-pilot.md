@@ -66,125 +66,69 @@ _Music:_ Angelo Badalamenti<br>
 _Music Editor:_ David Slusser<br>
 _Sound Design:_ Douglas Murray<br>
 _Re-recording Mixers:_ Mark Berger, David Parker<br>
-
 _Sound Mixer:_ James Pilcher<br>
-
 _Sound Effects Recordist:_ John Wentworth<br>
-
 _Stunt Co-ordinator:_ David Boushey
 
-_Cast:_<br>
-
+**Cast**<br>
 Kyle MacLachlan _(Agent Dale Cooper)_<br>
-
 Michael Ontkean _(Sheriff Harry S. Truman)_<br>
-
 Mädchen Amick _(Shelly Johnson)_<br>
-
 Dana Ashbrook _(Bobby Briggs)_<br>
-
 Richard Beymer _(Benjamin Horne)_<br>
-
 Lara Flynn Boyle _(Donna Hayward)_<br>
-
 Sherilyn Fenn _(Audrey Horne)_<br>
-
 Warren Frost _(William Hayward)_<br>
-
 Peggy Lipton _(Norma Jennings)_<br>
-
 James Marshall _(James Hurley)_<br>
-
 Everett McGill _(Ed Hurley)_<br>
-
 Jack Nance _(Pete Martell)_<br>
-
 Ray Wise _(Leland Palmer)_<br>
-
 Joan Chen _(Josie Packard)_<br>
-
 Piper Laurie _(Catherine Martell)_<br>
-
 Russ Tamblyn _(Dr Lawrence Jacoby)_<br>
-
 Eric Da Re _(Leo Johnson)_<br>
-
 Mary Jo Deschanel _(Eileen Hayward)_<br>
-
 Harry Goaz _(Andy Brennan)_<br>
-
 Gary Hershberger _(Mike)_<br>
-
 Michael Horse _(Tommy ‘Hawk’ Bill)_<br>
-
 Grace Zabriskie _(Sarah Palmer)_<br>
-
 Troy Evans _(George Wolchezk)_<br>
-
 John Boylan _(Dwayne Milford)_<br>
-
 Rodney Harvey _(Biker Scotty)_<br>
-
 Sheryl Lee _(Laura Palmer)_<br>
-
 Robert Davenport _(Johnny Horne)_<br>
-
 Jan D’Arcy _(Sylvia Horne)_<br>
-
 Kimmy Robertson _(Lucy Moran)_<br>
-
 Jessica Wallenfels _(Harriet Hayward)_<br>
-
 Wendy Robie _(Nadine Hurley)_<br>
-
 Don Davis _(Major Briggs)_<br>
-
 Charlotte Stewart _(Betty Briggs)_<br>
-
 Roberta Maguire _(Maria Pulaski)_<br>
-
 Phoebe Augustine _(Ronnette Pulaski)_<br>
-
 Frank Roberts _(Father Hutchings)_<br>
-
 Brett Vadset _(Joey)_<br>
-
 Davis Wasman _(Gilman White)_<br>
-
 Jane Jones _(Margaret Honeycutt)_<br>
-
 Tawnya Pettiford-Waites _(Dr Shelvy)_<br>
-
 Shelly Henning _(Alice Brady)_<br>
-
 Dorothy Roberts _(Mrs Jackson)_<br>
-
 Julee Cruise _(girl singer)_<br>
-
 Armie Stenseth _(Sven Jorgenson)_<br>
-
 Andrea Hays _(Heidi)_<br>
-
 Rick Tutor _(Janek Pulaski)_<br>
-
 Marjorie Nelson _(Janice Hogan)_<br>
-
 Ben DiGregorio _(Max Hartman)_<br>
-
 Diane Caldwell _(hotel employee)_<br>
-
 Catherine Coulson _(log lady)_<br>
-
 Al Strobel _(one armed man)_
 
 USA 1990<br>
-
 94 mins<br>
-
 35mm
 
 A BFI National Archive print<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYxNjMyNjBdfQ==
+eyJoaXN0b3J5IjpbLTY3NDQ5MDU1Ml19
 -->
