@@ -46,28 +46,16 @@ _A film by_: Jon Nguyen, Rick Barnes,  Olivia Neergaard-Holm
 _Presented by_: Duck Diver Films, Kong Gulerod Film  
 _In association with_: Xanf Studio, Hideout Films  
 _Executive Producers_: Adam F. Goldberg, Lawrence Makow, Christophe Vandaele, Kurt S. Kittleson, Alexandre Gama, Vince Di Meglio, Aga Wasiak, Josefine Bothe  
-_Produced by_: Jon Nguyen, Jason S.,  
-Sabrina S. Sutherland  
-_Co-producers_: Dominick Duda, Anders V. Christensen, Kristina Maaetoft-Udsen,  
-Marina Girard  
-_Associate Producers_: Thure Munkholm, Airrion Copeland, Mahlon Chute, Adam Crossnoe, Collette Carpenter, Alain Cayrol, Rory Bhandari, Grace June Cleere, Elliot V. Kotek, Joseph Gribbin, A.D. Liano,
-
-Adam Harding, Andreas Batzel, Alina Holgate, Jeremy Hobbs, Matt Brandstein, Greg Schuler,
-
-Palmer Stilwell Taipale, Yasmine Mehmet,
-
-Chad Miles Romney, Brandon Dinklage, Jessica Gerlach, Huib Snijders, Jacques Burtin, Mark Pickenheim, Kip Piper, Mark Reynolds, Brett McConnell, Nickie Huai, Clayt Hudson, Carol Gray, Mario Van der Meulen, Joni Steele Kimberlin, Don Erlandson, Henry Self, Igor Masnjak, Scott Grieder, Matt Brandstein, Stuart Douglas Harris, Herve Gorree Wery  
-_Production Manager_:  
-Noah Maaetoft Nguyen-Udsen  
+_Produced by_: Jon Nguyen, Jason S.,  Sabrina S. Sutherland  
+_Co-producers_: Dominick Duda, Anders V. Christensen, Kristina Maaetoft-Udsen,  Marina Girard  
+_Associate Producers_: Thure Munkholm, Airrion Copeland, Mahlon Chute, Adam Crossnoe, Collette Carpenter, Alain Cayrol, Rory Bhandari, Grace June Cleere, Elliot V. Kotek, Joseph Gribbin, A.D. Liano, Adam Harding, Andreas Batzel, Alina Holgate, Jeremy Hobbs, Matt Brandstein, Greg Schuler, Palmer Stilwell Taipale, Yasmine Mehmet, Chad Miles Romney, Brandon Dinklage, Jessica Gerlach, Huib Snijders, Jacques Burtin, Mark Pickenheim, Kip Piper, Mark Reynolds, Brett McConnell, Nickie Huai, Clayt Hudson, Carol Gray, Mario Van der Meulen, Joni Steele Kimberlin, Don Erlandson, Henry Self, Igor Masnjak, Scott Grieder, Matt Brandstein, Stuart Douglas Harris, Herve Gorree Wery  
+_Production Manager_:  Noah Maaetoft Nguyen-Udsen  
 _Post Supervisor_: Anders V. Christensen  
 _Assistant to the Producer_: Lula Nguyen  
 _Archival Footage Researcher_: Janne Gartner  
-_Script Consultants_: Pilar Alessandra,  
-Isabel Andres Porti  
+_Script Consultants_: Pilar Alessandra,  Isabel Andres Porti  
 _Cinematographer_: Jason S.  
-_Visual Effects_: Thomas Irving, Frederik Marbell,
-
-Martin Munck Schmidt, Dicki Lakha  
+_Visual Effects_: Thomas Irving, Frederik Marbell, Martin Munck Schmidt, Dicki Lakha  
 _Animation_: Rino Stefano Tagliafierro  
 _Edited by_: Olivia Neergaard-Holm  
 _On-line_: Thomas Irving, Frederik Marbell  
@@ -79,25 +67,21 @@ _Main Title Designed by_: Tobias Røder
 _Title Design_: Chris Thompson  
 _Colourist_: Maria Klarlund  
 _Music Composed by_: Jonatan Bengta  
-_Additional Music Composed by_:  
-Josef Maria Schäfers, Stella Luncke, Clayton Thomas, Bernd Öszevim, Olga Blinky Luncke  
+_Additional Music Composed by_:  Josef Maria Schäfers, Stella Luncke, Clayton Thomas, Bernd Öszevim, Olga Blinky Luncke  
 _Sound Design by_: Philip Nicolai Flindt  
 _Sound Design_: Philip Nicolai Flindt  
 _Additional Sound Design_: Josef Maria Schäfers  
 _Additional Sound Design_: Stella Luncke  
 _Re-recording Mixer_: Philip Nicolai Flindt  
 _For_: Lula Boginia Lynch  
-_Special Thanks_: David Lynch
-
-_With:_
-
+_Special Thanks_: David Lynch  
+_With:_  
 David Lynch
 
-USA-Denmark 2016©
-
-88 mins
-
+USA-Denmark 2016©  
+88 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk0NDQyOTFdfQ==
+eyJoaXN0b3J5IjpbLTY4MzUxODEwN119
 -->
