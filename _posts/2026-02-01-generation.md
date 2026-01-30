@@ -1,1 +1,125 @@
 
+When the 28-year-old Andrzej Wajda made _A Generation_, his debut feature, he was clearly in thrall to the Italian non-realists. He eschewed the contrivance of studio filmmaking, preferring to work on location with young, untested actors. The opening shot, a long pan across a bleak, urban landscape accompanied by haunting pipe music, wouldn’t look out of place in a Rossellini film. The nostalgic voiceover, in which the narrator recalls his Warsaw childhood, is the same device Fellini uses in _I vitelloni_.
+
+At first, as we see three boys playing with a knife, this seems to be shaping up as a typical rites-of-passage story. But the gentle beginning belies the harshness of what follows. Bohdan Czeszko’s screenplay, based on his own novel, is set in Warsaw in 1942, during the Nazi occupation. There is very little idyllic about the lives of the youngsters. If they transgress or join the resistance, they are liable to be executed. The protagonist Stach (Tadeusz Lomnicki) knows as much. He sees a friend shot by a Nazi sentry merely for trying to steal some coal. Walking the streets, he comes across the bodies of two patriots, hanging from a gallows in a public square. (Wajda shows him staring transfixed at their dangling legs.)
+
+Just occasionally, a hint of agit-prop seeps into the storytelling. The young communists are portrayed as idealistic heroes. Some of the dialogue, notably when a Marxist oldtimer in the carpentry workshop explains to Stach how he is exploited by his capitalist boss, sounds as if it was drafted by apparatchiks. Wajda was making the film for the government, who clearly regarded it as first and foremost a propaganda exercise. However, the energy and lyricism of the filmmaking counters the didacticism. As Roman Polanski, who plays one of the youngsters, put it, ‘for us, it was tremendously important. All of Polish cinema was beginning with it... we worked night and day. Wajda believed in what he was doing. This was something utterly new in Poland (it was the time of Stalinism) that film was different, young.’ (Quoted in Boleslaw Michalek, _Andrzej Wajda_, Paris, 1964.)
+
+The protagonists are sucked into political resistance in spite of themselves. ‘The others say you’re tough but I think you’re a kid,’ Dorota (Urszula Modrzynska), the beautiful resistance leader tells Stach. At that moment, we realise just how young he really is. Wajda conveys both the exhilaration Stach and his friends feel when they have guns in their hands and their terror in the face of the violence and death they encounter. They are not allowed a childhood. As if to emphasise the fact, in one beautifully observed scene the smoke from the burning ghetto billows around the carousel at a funfair.
+
+Just as Maciek (Cybulski) in _Ashes and Diamonds_ is able to forget the political struggle for a moment when he has a brief affair, Stach too enjoys a short, doomed romance. The same mood of fatalism runs through both films. Wajda’s heroes and heroines are attempting to resist the tide of history. It’s a forlorn, even suicidal endeavour, but there is a very Polish heroism in their folly.
+
+As the neo-realists discovered, bombed out cities provide superbly atmospheric backdrops. In _A Generation_, Wajda makes excellent use of the wasteland and rubble strewn streets of Warsaw. The chase sequence, in which Starh’s friend Jasio (Tadeusz Janczar) flees his Nazi pursuers over roofs and down side streets, anticipates Maciek’s equally forlorn dash for freedom at the end of _Ashes and Diamonds_. Wajda shows Jasio caught at the top of a maze-like stairwell with nowhere left to go. It’s a highly symbolic moment, even at a dead-end he refuses to surrender.  
+**Geoffrey Macnab, _Sight and Sound_, February 1998**
+
+
+**While You Are Sleeping**
+
+This fascinating short captures a bustling city at night and was shot by Jerzy Lipman, the cinematographer on _A Generation_.
+
+<![endif]-->
+
+**While You Are Sleeping** Kiedy ty śpisz
+
+_Director:_ Andrzej Wajda
+
+_Writers:_ Andrzej Wajda, Konrad Nalecki,  
+Jerzy Lipman
+
+_Poems:_ Tadeusz Kubiak
+
+_Photography:_ Jerzy Lipman
+
+_Camera Operator:_ Stefan Matyjaszkiewicz
+
+Poland 1953
+
+11 mins
+
+Digital (restoration)
+
+**A Generation** Pokolenie
+
+_Director:_ Andrzej Wajda
+
+_Production Company:_ Film Polski
+
+_Production Manager:_ Ignacy Taub
+
+_Assistant Directors:_ Kazimierz Kutz, Konrad Nalecki
+
+_Screenplay:_ Bohdan Czeszko
+
+_Based on the novel by:_ Bohdan Czeszko
+
+_Director of Photography:_ Jerzy Lipman
+
+_Camera Operator:_ Stefan Matyjaszkiewicz
+
+_Editor:_ Czeslaw Raniszewski
+
+_Art Director:_ Roman Mann
+
+_Set Decorators:_ Jerzy Skrzepinski, Józef Galewski
+
+_Costume Designer:_ Jerzy Szeski
+
+_Make-up:_ Zdzislaw Papierz
+
+_Music:_ Andrzej Markowski
+
+_Music Performed by:_  
+Philharmonic Orchestra of Warsaw
+
+_Sound:_ Józef Koprowicz
+
+_Artistic Consultant:_ Aleksander Ford
+
+_Cast:_
+
+Tadeusz Lomnicki _(Stach)_
+
+Urszula Modrzynska _(Dorota)_
+
+Tadeusz Janczar _(Jasio Krone)_
+
+Janusz Paluszkiewicz _(Sekula)_
+
+Ryszard Kotas _(Jacek)_
+
+Roman Polanski _(Mundek)_
+
+Zbigniew Cybulski _(Kostka)_
+
+Ludwik Benoit _(Grzesio)_
+
+Jerzy Krsowski
+
+Zofia Czerwinska
+
+Stanislaw Milski
+
+Tadeusz Fijewski
+
+Juliusz Roland
+
+Kazimierz Wichniarz
+
+August Kowalczyk
+
+Hanna Skarzanka
+
+Cezary Julski
+
+Zygmunt Zintel
+
+Poland 1955
+
+87 mins
+
+Digital (restoration)
+
+Restored by DI Factory and reKINO
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5ODMwMDkxNTddfQ==
+-->
