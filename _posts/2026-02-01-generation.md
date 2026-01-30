@@ -11,115 +11,106 @@ Just as Maciek (Cybulski) in _Ashes and Diamonds_ is able to forget the politica
 
 As the neo-realists discovered, bombed out cities provide superbly atmospheric backdrops. In _A Generation_, Wajda makes excellent use of the wasteland and rubble strewn streets of Warsaw. The chase sequence, in which Starh’s friend Jasio (Tadeusz Janczar) flees his Nazi pursuers over roofs and down side streets, anticipates Maciek’s equally forlorn dash for freedom at the end of _Ashes and Diamonds_. Wajda shows Jasio caught at the top of a maze-like stairwell with nowhere left to go. It’s a highly symbolic moment, even at a dead-end he refuses to surrender.  
 **Geoffrey Macnab, _Sight and Sound_, February 1998**
+<br>
 
-
-**While You Are Sleeping**
-
+**While You Are Sleeping**  
 This fascinating short captures a bustling city at night and was shot by Jerzy Lipman, the cinematographer on _A Generation_.
+<br><br><br>
 
-<![endif]-->
-
-**While You Are Sleeping** Kiedy ty śpisz
-
-_Director:_ Andrzej Wajda
-
-_Writers:_ Andrzej Wajda, Konrad Nalecki,  
-Jerzy Lipman
-
-_Poems:_ Tadeusz Kubiak
-
-_Photography:_ Jerzy Lipman
-
+**While You Are Sleeping** Kiedy ty śpisz<br>
+_Director:_ Andrzej Wajda<br>
+_Writers:_ Andrzej Wajda, Konrad Nalecki,  Jerzy Lipman<br>
+_Poems:_ Tadeusz Kubiak<br>
+_Photography:_ Jerzy Lipman<br>
 _Camera Operator:_ Stefan Matyjaszkiewicz
 
-Poland 1953
-
-11 mins
-
+Poland 1953<br>
+11 mins<br>
 Digital (restoration)
 
-**A Generation** Pokolenie
+**A Generation** Pokolenie<br>
 
-_Director:_ Andrzej Wajda
+_Director:_ Andrzej Wajda<br>
 
-_Production Company:_ Film Polski
+_Production Company:_ Film Polski<br>
 
-_Production Manager:_ Ignacy Taub
+_Production Manager:_ Ignacy Taub<br>
 
-_Assistant Directors:_ Kazimierz Kutz, Konrad Nalecki
+_Assistant Directors:_ Kazimierz Kutz, Konrad Nalecki<br>
 
-_Screenplay:_ Bohdan Czeszko
+_Screenplay:_ Bohdan Czeszko<br>
 
-_Based on the novel by:_ Bohdan Czeszko
+_Based on the novel by:_ Bohdan Czeszko<br>
 
-_Director of Photography:_ Jerzy Lipman
+_Director of Photography:_ Jerzy Lipman<br>
 
-_Camera Operator:_ Stefan Matyjaszkiewicz
+_Camera Operator:_ Stefan Matyjaszkiewicz<br>
 
-_Editor:_ Czeslaw Raniszewski
+_Editor:_ Czeslaw Raniszewski<br>
 
-_Art Director:_ Roman Mann
+_Art Director:_ Roman Mann<br>
 
-_Set Decorators:_ Jerzy Skrzepinski, Józef Galewski
+_Set Decorators:_ Jerzy Skrzepinski, Józef Galewski<br>
 
-_Costume Designer:_ Jerzy Szeski
+_Costume Designer:_ Jerzy Szeski<br>
 
-_Make-up:_ Zdzislaw Papierz
+_Make-up:_ Zdzislaw Papierz<br>
 
-_Music:_ Andrzej Markowski
+_Music:_ Andrzej Markowski<br>
 
 _Music Performed by:_  
-Philharmonic Orchestra of Warsaw
+Philharmonic Orchestra of Warsaw<br>
 
-_Sound:_ Józef Koprowicz
+_Sound:_ Józef Koprowicz<br>
 
 _Artistic Consultant:_ Aleksander Ford
 
-_Cast:_
+_Cast:_<br>
 
-Tadeusz Lomnicki _(Stach)_
+Tadeusz Lomnicki _(Stach)_<br>
 
-Urszula Modrzynska _(Dorota)_
+Urszula Modrzynska _(Dorota)_<br>
 
-Tadeusz Janczar _(Jasio Krone)_
+Tadeusz Janczar _(Jasio Krone)_<br>
 
-Janusz Paluszkiewicz _(Sekula)_
+Janusz Paluszkiewicz _(Sekula)_<br>
 
-Ryszard Kotas _(Jacek)_
+Ryszard Kotas _(Jacek)_<br>
 
-Roman Polanski _(Mundek)_
+Roman Polanski _(Mundek)_<br>
 
-Zbigniew Cybulski _(Kostka)_
+Zbigniew Cybulski _(Kostka)_<br>
 
-Ludwik Benoit _(Grzesio)_
+Ludwik Benoit _(Grzesio)_<br>
 
-Jerzy Krsowski
+Jerzy Krsowski<br>
 
-Zofia Czerwinska
+Zofia Czerwinska<br>
 
-Stanislaw Milski
+Stanislaw Milski<br>
 
-Tadeusz Fijewski
+Tadeusz Fijewski<br>
 
-Juliusz Roland
+Juliusz Roland<br>
 
-Kazimierz Wichniarz
+Kazimierz Wichniarz<br>
 
-August Kowalczyk
+August Kowalczyk<br>
 
-Hanna Skarzanka
+Hanna Skarzanka<br>
 
-Cezary Julski
+Cezary Julski<br>
 
-Zygmunt Zintel
+Zygmunt Zintel<br>
 
-Poland 1955
+Poland 1955<br>
 
-87 mins
+87 mins<br>
 
 Digital (restoration)
 
-Restored by DI Factory and reKINO
+Restored by DI Factory and reKINO<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMwMDkxNTddfQ==
+eyJoaXN0b3J5IjpbMTAyOTMxMjYxNl19
 -->
