@@ -71,7 +71,13 @@ Poland 1955<br>
 Digital (restoration)
 
 Restored by DI Factory and reKINO<br>
+<br>
+
+**With thanks to**  
+Marlena Łukasiak, Michał Oleszczyk,  Jędrzej Sabliński
+
+Presented with the ICA and Ciné Lumière, who will also be hosting screenings of Wajda’s works in February and March<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU1NDI2NjJdfQ==
+eyJoaXN0b3J5IjpbLTk0MDMzMDkyOCwtMTA0NTU0MjY2Ml19
 -->
