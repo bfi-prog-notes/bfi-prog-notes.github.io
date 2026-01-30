@@ -22,95 +22,56 @@ _Director:_ Andrzej Wajda<br>
 _Writers:_ Andrzej Wajda, Konrad Nalecki,  Jerzy Lipman<br>
 _Poems:_ Tadeusz Kubiak<br>
 _Photography:_ Jerzy Lipman<br>
-_Camera Operator:_ Stefan Matyjaszkiewicz
-
+_Camera Operator:_ Stefan Matyjaszkiewicz  
 Poland 1953<br>
 11 mins<br>
 Digital (restoration)
 
 **A Generation** Pokolenie<br>
-
 _Director:_ Andrzej Wajda<br>
-
 _Production Company:_ Film Polski<br>
-
 _Production Manager:_ Ignacy Taub<br>
-
 _Assistant Directors:_ Kazimierz Kutz, Konrad Nalecki<br>
-
 _Screenplay:_ Bohdan Czeszko<br>
-
 _Based on the novel by:_ Bohdan Czeszko<br>
-
 _Director of Photography:_ Jerzy Lipman<br>
-
 _Camera Operator:_ Stefan Matyjaszkiewicz<br>
-
 _Editor:_ Czeslaw Raniszewski<br>
-
 _Art Director:_ Roman Mann<br>
-
 _Set Decorators:_ Jerzy Skrzepinski, Józef Galewski<br>
-
 _Costume Designer:_ Jerzy Szeski<br>
-
 _Make-up:_ Zdzislaw Papierz<br>
-
 _Music:_ Andrzej Markowski<br>
-
-_Music Performed by:_  
-Philharmonic Orchestra of Warsaw<br>
-
+_Music Performed by:_  Philharmonic Orchestra of Warsaw<br>
 _Sound:_ Józef Koprowicz<br>
-
 _Artistic Consultant:_ Aleksander Ford
 
-_Cast:_<br>
-
+**Cast**<br>
 Tadeusz Lomnicki _(Stach)_<br>
-
 Urszula Modrzynska _(Dorota)_<br>
-
 Tadeusz Janczar _(Jasio Krone)_<br>
-
 Janusz Paluszkiewicz _(Sekula)_<br>
-
 Ryszard Kotas _(Jacek)_<br>
-
 Roman Polanski _(Mundek)_<br>
-
 Zbigniew Cybulski _(Kostka)_<br>
-
 Ludwik Benoit _(Grzesio)_<br>
-
 Jerzy Krsowski<br>
-
 Zofia Czerwinska<br>
-
 Stanislaw Milski<br>
-
 Tadeusz Fijewski<br>
-
 Juliusz Roland<br>
-
 Kazimierz Wichniarz<br>
-
 August Kowalczyk<br>
-
 Hanna Skarzanka<br>
-
 Cezary Julski<br>
-
 Zygmunt Zintel<br>
 
 Poland 1955<br>
-
 87 mins<br>
-
 Digital (restoration)
 
 Restored by DI Factory and reKINO<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTMxMjYxNl19
+eyJoaXN0b3J5IjpbLTEwNDU1NDI2NjJdfQ==
 -->
