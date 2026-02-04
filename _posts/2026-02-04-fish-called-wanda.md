@@ -69,8 +69,7 @@ _Construction Manager_: Roy Evans
 _Head of Construction_: Leon Apsey  
 _Costume Designer_: Hazel Pethig  
 _Wardrobe Master_: Ray Usher  
-_Wardrobe Assistants_: Steve Cornish,  
-Jenny Hawkins  
+_Wardrobe Assistants_: Steve Cornish,  Jenny Hawkins  
 _Make-up Supervisor_: Paul Engelen  
 _Make-up Artiste_: Lynda Armstrong-Lawlor  
 _Chief Hairdresser_: Barry Richardson  
@@ -93,8 +92,7 @@ _Fish by_: Wet Pets
 _Unit Publicist_: Bill Edwards  
 _Studio_: Twickenham Film Studios
 
-_Cast:_
-
+**Cast**  
 John Cleese _(Archie Leach)_  
 Jamie Lee Curtis _(Wanda Gerschwitz)_  
 Kevin Kline _(Otto)_  
@@ -147,5 +145,5 @@ Digital
 
 The screening on Wed 4 Feb will be introduced by Josh Glenn, BFI Production Coordinator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3ODkyNjkyXX0=
+eyJoaXN0b3J5IjpbNTM2NDkxODY4XX0=
 -->
