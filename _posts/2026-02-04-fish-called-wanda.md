@@ -121,10 +121,8 @@ Tom Piggot Smith _(13-year old Johnson child)_
 Katherine John _(10-year old Johnson child)_  
 Sophie Johnstone _(8-year old Johnson child)_  
 Kim Barclay _(nanny)_  
-Sharon Twomey_  
-(1st junior barrister, defence counsel)_  
-Patrick Newman_  
-(2nd junior barrister, defence counsel)_  
+Sharon Twomey _(1st junior barrister, defence counsel)_  
+Patrick Newman _(2nd junior barrister, defence counsel)_  
 David Simeon _(clerk of court, Old Bailey)_  
 Imogen Bickford-Smith _(stenographer)_  
 Tia Lee _(junior barrister, prosecution counsel)_  
@@ -137,13 +135,12 @@ Clare McIntyre _(airline employee)_
 Charu Bala Chokshi _(Indian cleaner)_  
 Stephen Fry _(Hutchison)_
 
-USA-UK 1988©
-
-108 mins
-
+USA-UK 1988©  
+108 mins  
 Digital
 
-The screening on Wed 4 Feb will be introduced by Josh Glenn, BFI Production Coordinator
+The screening on Wed 4 Feb will be introduced by Josh Glenn, BFI Production Coordinator<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NDkxODY4XX0=
+eyJoaXN0b3J5IjpbMTQ1OTkyNTE0OF19
 -->
