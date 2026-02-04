@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Fish Called Wanda
+published: true
+date: 2026-02-04
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Comedy]
+metadata: 'USA-UK 1988, 108 mins<br> Director: Charles Crichton'
+pdf: '2026-02-04-fish-called-wanda.pdf'
+---
 
 **John Cleese on ‘A Fish Called Wanda’ and director Charles Crichton**  
 In the late 1960s, Graham Chapman and I wrote a script for David Frost. It was about a small firm of private detectives and was called _Pig Lust and Company_, with Pig Lust being played by Ronnie Barker. I asked Denis Norden to direct it. He said no. I asked Jay Lewis, who’d done _The Baby and the Battleship_. After my first phone call, he had a heart attack and died. Then someone suggested that Graham and I should meet with Charles Crichton. This would have been around 1968. We started working on the script and were knocked out by him. We realised that we were working with someone on a different plane from anyone we had encountered before.
@@ -141,6 +152,30 @@ Digital
 
 The screening on Wed 4 Feb will be introduced by Josh Glenn, BFI Production Coordinator<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ1OTkyNTE0OF19
 -->
