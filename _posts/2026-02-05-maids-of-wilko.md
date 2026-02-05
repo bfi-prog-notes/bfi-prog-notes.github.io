@@ -32,106 +32,57 @@ _Script Supervisor:_ Boleslaw Michalek<br>
 _Screenplay:_ Zbigniew Kaminski<br>
 _Original Novel:_ Jaroslaw Iwaszkiewicz<br>
 _Director of Photography:_ Edward Klosinski<br>
-_Camera Operators:_ Janusz Kalicinski,  
-Ireneusz Hartowicz<br>
-
-_Assistant Camera:_ Bogdan Borewicz,  
-Jerzy Tomczuk<br>
-
+_Camera Operators:_ Janusz Kalicinski,  Ireneusz Hartowicz<br>
+_Assistant Camera:_ Bogdan Borewicz,  Jerzy Tomczuk<br>
 _Stills Photographer:_ Renata Pajchel<br>
-
 _Editor:_ Halina Prugar<br>
-
 _Assistant Editor:_ Barbara Grodner<br>
-
 _Art Director:_ Allan Starski<br>
-
 _Assistant Art Director:_ Maria Lubelska-Chrolowska<br>
-
 _Set Decorator:_ Maria Osiecka-Kuminek<br>
-
 _Assistant Set Decorators:_ Malgorzata Dipont, Zenon Wilk, Jozef Runo<br>
-
 _Costumes:_ Wieslawa Starska<br>
-
-_Costume Assistants:_ Anna Plochocka,  
-Dorota Czerwik<br>
-
+_Costume Assistants:_ Anna Plochocka,  Dorota Czerwik<br>
 _Make-up:_ Anna Wlodarczyk, Grazyna Dabrowska<br>
-
-_Laboratory:_  
-Wytwórnia Filmów Dokumentalnych w Warszawie<br>
-
+_Laboratory:_  Wytwórnia Filmów Dokumentalnych w Warszawie<br>
 _Music:_ Karol Szymanowski<br>
-
 _Concert Violinist:_ Karol Szymanowski<br>
-
 _Music Consultant:_ Anna Grabowska<br>
-
 _Sound:_ Piotr Zawadzki<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Daniel Olbrychski _(Viktor Ruben)_<br>
-
 Anna Seniuk _(Julia)_<br>
-
 Christine Pascal _(Tunia)_<br>
-
 Maja Komorowska _(Yola)_<br>
-
 Stanislawa Celinska _(Zosia)_<br>
-
 Krystyna Zachwatowicz _(Kazia)_<br>
-
 Zofia Jaroszewska _(Viktor’s aunt)_<br>
-
 Tadeusz Bialoszczynski _(Viktor’s uncle)_<br>
-
 Paul Dutron _(Yola’s husband)_<br>
-
 Zbigniew Zapasiewicz _(Julia’s husband)_<br>
-
 Joanna Poraska _(mother)_<br>
-
 Andrzej Lapicki _(doctor)_<br>
-
 K. Brodzikowski<br>
-
 A. Rostkowska<br>
-
 K. Orzechowski<br>
-
 H. Michalska<br>
-
 J. Kozak-Sutowicz<br>
-
 K. Wolanska<br>
-
 W. Kaluski<br>
-
 E. Ozana<br>
-
 A. Szenajch<br>
-
 B. Stepniakówna<br>
-
 A. Grzybowski<br>
-
 A. Wachnickie<br>
-
 M. Wachnickie<br>
-
 F. Jasinski<br>
-
 Jaroslaw Iwaszkiewicz _(old man on train)_
 
 Poland-France 1979©<br>
-
 118 mins<br>
-
 Digital (restoration)<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTc2NjUzMl19
+eyJoaXN0b3J5IjpbMTE3NTQwNDI2XX0=
 -->
