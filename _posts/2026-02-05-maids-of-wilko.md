@@ -17,136 +17,121 @@ Here are the present and future Viktor, rushing together into the night, their p
 The film is unique in Wajda’s filmography in that it contains superb portraits of women. Here, women are the mainstay of order and graces exemplary members of society, responsible for themselves and for others. That is why everything that these women do – cook and fry, some red currants, raspberries with cream, they lay out flowers, sometimes play the piano, they read something to children in French – all of this is important. It is something that we desperately miss and need, while all this selflessness disappeared under the brutal stamp of contemporary life.
 
 _The Maids of Wilko_ is generally considered one of the most beautiful and mature films produced by Wajda. In it, Wajda’s feeling for the beauty of the Polish landscape, his maturity in the treatment of life and death, and his feel for the passage of time contribute to the formation of a richly subdued portrayal of life, with all of its complexities. Music, colour, and _mise-en-scène_, all essential but non-excessive, create an atmosphere of peace and contemplation. Thanks to the film’s slow pace Wajda allows the women to play themselves and to improvise during the prolonged, serene scenes. In this film, the director does not present any thesis or didactically try to teach his audience what to do or how to behave. Rather, he lets the cameras roll and leisurely account for the events in front of and around them.  
-**Janina Falkowska, _Andrzej Wajda: History, Politics, and Nostalgia in Polish Cinema _  (Berghahn Books, 2007)**
+**Janina Falkowska, _Andrzej Wajda: History, Politics, and Nostalgia in Polish Cinema_ (Berghahn Books, 2007)**
+<br><br>
 
-<![endif]-->
-
-**The Maids of Wilko** Panny z Wilka
-
-_Director:_ Andrzej Wajda
-
-©: Film Polski
-
-_Presented by:_ Zespol Filmowy ‘X’,  
-Pierson Productions, Films Molière
-
-_Production Manager:_ Barbara Pec-Slesicka
-
-_France Production Manager:_ Tony Molière
-
-_Production Assistants:_ Alina Klobukowska,  
-Henryk Wloch. Tomasz Bek, Maciej Skalski,  
-Jolanta Jarzecka, Wanda Helbert, Elzbieta Kotynia
-
-_Assistant Directors:_ Krystyna Grochowicz, Magdalena Holland, Marek Netzel, Jolanta Jedynak
-
-_Script Supervisor:_ Boleslaw Michalek
-
-_Screenplay:_ Zbigniew Kaminski
-
-_Original Novel:_ Jaroslaw Iwaszkiewicz
-
-_Director of Photography:_ Edward Klosinski
-
+**The Maids of Wilko** Panny z Wilka<br>
+_Director:_ Andrzej Wajda<br>
+©: Film Polski<br>
+_Presented by:_ Zespol Filmowy ‘X’,  Pierson Productions, Films Molière<br>
+_Production Manager:_ Barbara Pec-Slesicka<br>
+_France Production Manager:_ Tony Molière<br>
+_Production Assistants:_ Alina Klobukowska,  Henryk Wloch. Tomasz Bek, Maciej Skalski,  Jolanta Jarzecka, Wanda Helbert, Elzbieta Kotynia<br>
+_Assistant Directors:_ Krystyna Grochowicz, Magdalena Holland, Marek Netzel, Jolanta Jedynak<br>
+_Script Supervisor:_ Boleslaw Michalek<br>
+_Screenplay:_ Zbigniew Kaminski<br>
+_Original Novel:_ Jaroslaw Iwaszkiewicz<br>
+_Director of Photography:_ Edward Klosinski<br>
 _Camera Operators:_ Janusz Kalicinski,  
-Ireneusz Hartowicz
+Ireneusz Hartowicz<br>
 
 _Assistant Camera:_ Bogdan Borewicz,  
-Jerzy Tomczuk
+Jerzy Tomczuk<br>
 
-_Stills Photographer:_ Renata Pajchel
+_Stills Photographer:_ Renata Pajchel<br>
 
-_Editor:_ Halina Prugar
+_Editor:_ Halina Prugar<br>
 
-_Assistant Editor:_ Barbara Grodner
+_Assistant Editor:_ Barbara Grodner<br>
 
-_Art Director:_ Allan Starski
+_Art Director:_ Allan Starski<br>
 
-_Assistant Art Director:_ Maria Lubelska-Chrolowska
+_Assistant Art Director:_ Maria Lubelska-Chrolowska<br>
 
-_Set Decorator:_ Maria Osiecka-Kuminek
+_Set Decorator:_ Maria Osiecka-Kuminek<br>
 
-_Assistant Set Decorators:_ Malgorzata Dipont, Zenon Wilk, Jozef Runo
+_Assistant Set Decorators:_ Malgorzata Dipont, Zenon Wilk, Jozef Runo<br>
 
-_Costumes:_ Wieslawa Starska
+_Costumes:_ Wieslawa Starska<br>
 
 _Costume Assistants:_ Anna Plochocka,  
-Dorota Czerwik
+Dorota Czerwik<br>
 
-_Make-up:_ Anna Wlodarczyk, Grazyna Dabrowska
+_Make-up:_ Anna Wlodarczyk, Grazyna Dabrowska<br>
 
 _Laboratory:_  
-Wytwórnia Filmów Dokumentalnych w Warszawie
+Wytwórnia Filmów Dokumentalnych w Warszawie<br>
 
-_Music:_ Karol Szymanowski
+_Music:_ Karol Szymanowski<br>
 
-_Concert Violinist:_ Karol Szymanowski
+_Concert Violinist:_ Karol Szymanowski<br>
 
-_Music Consultant:_ Anna Grabowska
+_Music Consultant:_ Anna Grabowska<br>
 
-_Sound:_ Piotr Zawadzki
+_Sound:_ Piotr Zawadzki<br>
 
-_Cast:_
+_Cast:_<br>
 
-Daniel Olbrychski _(Viktor Ruben)_
+Daniel Olbrychski _(Viktor Ruben)_<br>
 
-Anna Seniuk _(Julia)_
+Anna Seniuk _(Julia)_<br>
 
-Christine Pascal _(Tunia)_
+Christine Pascal _(Tunia)_<br>
 
-Maja Komorowska _(Yola)_
+Maja Komorowska _(Yola)_<br>
 
-Stanislawa Celinska _(Zosia)_
+Stanislawa Celinska _(Zosia)_<br>
 
-Krystyna Zachwatowicz _(Kazia)_
+Krystyna Zachwatowicz _(Kazia)_<br>
 
-Zofia Jaroszewska _(Viktor’s aunt)_
+Zofia Jaroszewska _(Viktor’s aunt)_<br>
 
-Tadeusz Bialoszczynski _(Viktor’s uncle)_
+Tadeusz Bialoszczynski _(Viktor’s uncle)_<br>
 
-Paul Dutron _(Yola’s husband)_
+Paul Dutron _(Yola’s husband)_<br>
 
-Zbigniew Zapasiewicz _(Julia’s husband)_
+Zbigniew Zapasiewicz _(Julia’s husband)_<br>
 
-Joanna Poraska _(mother)_
+Joanna Poraska _(mother)_<br>
 
-Andrzej Lapicki _(doctor)_
+Andrzej Lapicki _(doctor)_<br>
 
-K. Brodzikowski
+K. Brodzikowski<br>
 
-A. Rostkowska
+A. Rostkowska<br>
 
-K. Orzechowski
+K. Orzechowski<br>
 
-H. Michalska
+H. Michalska<br>
 
-J. Kozak-Sutowicz
+J. Kozak-Sutowicz<br>
 
-K. Wolanska
+K. Wolanska<br>
 
-W. Kaluski
+W. Kaluski<br>
 
-E. Ozana
+E. Ozana<br>
 
-A. Szenajch
+A. Szenajch<br>
 
-B. Stepniakówna
+B. Stepniakówna<br>
 
-A. Grzybowski
+A. Grzybowski<br>
 
-A. Wachnickie
+A. Wachnickie<br>
 
-M. Wachnickie
+M. Wachnickie<br>
 
-F. Jasinski
+F. Jasinski<br>
 
 Jaroslaw Iwaszkiewicz _(old man on train)_
 
-Poland-France 1979©
+Poland-France 1979©<br>
 
-118 mins
+118 mins<br>
 
-Digital (restoration)
+Digital (restoration)<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTI3NzEwN119
+eyJoaXN0b3J5IjpbMTI5MTc2NjUzMl19
 -->
