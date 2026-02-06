@@ -31,121 +31,111 @@ _Assistant Director_: Andrzej Zulawski
 _Screenplay_: Jerzy Stefan Stawïnski  
 _Photography_: Jerzy Lipman  
 _Music_: Jerzy Matuszkiewicz  
-Poland 1962  25 mins  
+Poland 1962  
+25 mins  
 Digital (restoration)
+<br>
 
-**Everything for Sale** Wszystko Na Sprzedaż
+**Everything for Sale** Wszystko Na Sprzedaż<br>
+_Director:_ Andrzej Wajda<br>
+©: Film Polski<br>
+_Production Company:_ Zespól Filmowy ‘Kamera’<br>
+_Producers:_ Jerzy Bossak, Ernest Bryll,  Jozef Krakowski<br>
+_Production Manager:_ Barbara Pec-Slesicka<br>
+_Assistant Directors:_ Andrzej Piotrowski,  Andrzej Kostenko, Krystyna Grochowicz<br>
+_Screenplay:_ Andrzej Wajda<br>
+_Director of Photography:_ Witold Sobocinski<br>
+_Camera Operator:_ Maciej Kijowski<br>
+_Editor:_ Halina Prugar<br>
+_Assistant Editor:_ Grazyna Pliszczynska<br>
+_Art Director:_ Wieslaw Sniadecki<br>
 
-_Director:_ Andrzej Wajda
+_Costumes:_ Katarzyna Chodorowicz<br>
 
-©: Film Polski
-
-_Production Company:_ Zespól Filmowy ‘Kamera’
-
-_Producers:_ Jerzy Bossak, Ernest Bryll,  
-Jozef Krakowski
-
-_Production Manager:_ Barbara Pec-Slesicka
-
-_Assistant Directors:_ Andrzej Piotrowski,  
-Andrzej Kostenko, Krystyna Grochowicz
-
-_Screenplay:_ Andrzej Wajda
-
-_Director of Photography:_ Witold Sobocinski
-
-_Camera Operator:_ Maciej Kijowski
-
-_Editor:_ Halina Prugar
-
-_Assistant Editor:_ Grazyna Pliszczynska
-
-_Art Director:_ Wieslaw Sniadecki
-
-_Costumes:_ Katarzyna Chodorowicz
-
-_Make-up:_ Jadwiga Swietoslawska, Anna Adamek
+_Make-up:_ Jadwiga Swietoslawska, Anna Adamek<br>
 
 _Music Composed and Conducted by:_  
-Andrzej Korzynski
+Andrzej Korzynski<br>
 
-_Sound:_ Wieslawa Dembinska
+_Sound:_ Wieslawa Dembinska<br>
 
-_Cast:_
+_Cast:_<br>
 
-Beata Tyszkiewicz _(Beata, Andrzej’s wife)_
+Beata Tyszkiewicz _(Beata, Andrzej’s wife)_<br>
 
-Elzbieta Czyzewska _(Ela, the actor’s wife)_
+Elzbieta Czyzewska _(Ela, the actor’s wife)_<br>
 
-Andrzej Lapicki _(Andrzej, film director)_
+Andrzej Lapicki _(Andrzej, film director)_<br>
 
-Daniel Olbrychski _(Daniel)_
+Daniel Olbrychski _(Daniel)_<br>
 
-Witold Holtz _(Witek, assistant director)_
+Witold Holtz _(Witek, assistant director)_<br>
 
-Malgorzata Potocka _(Mala)_
+Malgorzata Potocka _(Mala)_<br>
 
-Bogumil Kobiela _(Bobek)_
+Bogumil Kobiela _(Bobek)_<br>
 
-Elzbieta Kepinska
+Elzbieta Kepinska<br>
 
-Irena Laskowska
+Irena Laskowska<br>
 
-Tadeusz Kalinowski
+Tadeusz Kalinowski<br>
 
-Wieslaw Dymny
+Wieslaw Dymny<br>
 
-Wojciech Solarz
+Wojciech Solarz<br>
 
-Józef Fuchs
+Józef Fuchs<br>
 
-Witold Dederko
+Witold Dederko<br>
 
-Andrzej Kostenko
+Andrzej Kostenko<br>
 
-Franciszek Starowieyski
+Franciszek Starowieyski<br>
 
-Wanda Warska
+Wanda Warska<br>
 
-Adam Pawlikowsky
+Adam Pawlikowsky<br>
 
-T. Baljon
+T. Baljon<br>
 
-J. Domanski
+J. Domanski<br>
 
-B. Ejmont
+B. Ejmont<br>
 
-K. Fus
+K. Fus<br>
 
-A. Gawronski
+A. Gawronski<br>
 
-W. Hoffman
+W. Hoffman<br>
 
-I. Harasymowicz
+I. Harasymowicz<br>
 
-B Jarosz
+B Jarosz<br>
 
-M. Kalenik
+M. Kalenik<br>
 
-J. Karaszkiewicz
+J. Karaszkiewicz<br>
 
-B. Lyakowski
+B. Lyakowski<br>
 
-E. Nowacka
+E. Nowacka<br>
 
-R. Ostalowski
+R. Ostalowski<br>
 
-L. Pietraszak
+L. Pietraszak<br>
 
-A. Piotrowski
+A. Piotrowski<br>
 
 J. Turowicz
 
-Poland 1968©  99 mins
+Poland 1968©<br>
+99 mins<br>
 
 Digital (restoration)
 
-Restored by Orka and The Chimney Pot
+Restored by Orka and The Chimney Pot<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNjU3MTE3XX0=
+eyJoaXN0b3J5IjpbLTE3OTg3NzkzOV19
 -->
