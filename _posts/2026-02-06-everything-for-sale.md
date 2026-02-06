@@ -49,93 +49,53 @@ _Camera Operator:_ Maciej Kijowski<br>
 _Editor:_ Halina Prugar<br>
 _Assistant Editor:_ Grazyna Pliszczynska<br>
 _Art Director:_ Wieslaw Sniadecki<br>
-
 _Costumes:_ Katarzyna Chodorowicz<br>
-
 _Make-up:_ Jadwiga Swietoslawska, Anna Adamek<br>
-
-_Music Composed and Conducted by:_  
-Andrzej Korzynski<br>
-
+_Music Composed and Conducted by:_  Andrzej Korzynski<br>
 _Sound:_ Wieslawa Dembinska<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Beata Tyszkiewicz _(Beata, Andrzej’s wife)_<br>
-
 Elzbieta Czyzewska _(Ela, the actor’s wife)_<br>
-
 Andrzej Lapicki _(Andrzej, film director)_<br>
-
 Daniel Olbrychski _(Daniel)_<br>
-
 Witold Holtz _(Witek, assistant director)_<br>
-
 Malgorzata Potocka _(Mala)_<br>
-
 Bogumil Kobiela _(Bobek)_<br>
-
 Elzbieta Kepinska<br>
-
 Irena Laskowska<br>
-
 Tadeusz Kalinowski<br>
-
 Wieslaw Dymny<br>
-
 Wojciech Solarz<br>
-
 Józef Fuchs<br>
-
 Witold Dederko<br>
-
 Andrzej Kostenko<br>
-
 Franciszek Starowieyski<br>
-
 Wanda Warska<br>
-
 Adam Pawlikowsky<br>
-
 T. Baljon<br>
-
 J. Domanski<br>
-
 B. Ejmont<br>
-
 K. Fus<br>
-
 A. Gawronski<br>
-
 W. Hoffman<br>
-
 I. Harasymowicz<br>
-
 B Jarosz<br>
-
 M. Kalenik<br>
-
 J. Karaszkiewicz<br>
-
 B. Lyakowski<br>
-
 E. Nowacka<br>
-
 R. Ostalowski<br>
-
 L. Pietraszak<br>
-
 A. Piotrowski<br>
-
 J. Turowicz
 
 Poland 1968©<br>
 99 mins<br>
-
 Digital (restoration)
 
 Restored by Orka and The Chimney Pot<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg3NzkzOV19
+eyJoaXN0b3J5IjpbMTY0MDI4OTQwM119
 -->
