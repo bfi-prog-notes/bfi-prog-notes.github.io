@@ -27,14 +27,11 @@ _In association with_: Precision Films,  Mack-Taylor Productions
 _Executive Producer_: Lawrence Kasanoff  
 _Producers_: Edward R. Pressman, Oliver Stone  
 _Co-producer_: Michael Rauch  
-_Associate Producers_: Michael Flynn,  
-Diane Schneier  
+_Associate Producers_: Michael Flynn,  Diane Schneier  
 _Production Associate_: Anne Damato  
 _Production Manager_: Steven Felder  
-_Location Co-ordinators_: Richard W. Dooley,  
-Neri Kyle Tannenbaum  
-_Executive Post-production Supervisor_:  
-Nancy Karaffa  
+_Location Co-ordinators_: Richard W. Dooley,  Neri Kyle Tannenbaum  
+_Executive Post-production Supervisor_:  Nancy Karaffa  
 _Post-production Supervisor_: Kerry Orent  
 _Assistant Directors_: Herb Gains, Nathalie Vadim  
 _Casting_: Risa Bramon, Billy Hopkins  
@@ -56,12 +53,10 @@ _Main Title Design_: R/Greenberg Associates
 _Music_: Brad Fiedel  
 _Music Editor_: Jim Weidman  
 _Sound Recording_: Thomas Brandau  
-_Sound Re-recording (NY)_: Jack Cooley,  
-Donald O. Mitchell, Michael Herbick  
+_Sound Re-recording (NY)_: Jack Cooley,  Donald O. Mitchell, Michael Herbick  
 _Sound Re-recording (LA)_: Kevin O’Connell  
 _Supervising Sound Editor_: Richard King  
-_Sound Editors_: Patricia Sandy Bennett,  
-Elliot Deitch, Michael Steinfeld  
+_Sound Editors_: Patricia Sandy Bennett,  Elliot Deitch, Michael Steinfeld  
 _ADR Editor_: Hal Levinsohn  
 _2nd ADR Editor_: Trissy Bowers  
 _Stunt Co-ordinator_: Jery Hewitt  
@@ -118,5 +113,5 @@ USA 1989©
 
 35mm print courtesy of the Cinema Museum
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkxMjkxMjhdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzc0MTY3MjZdfQ==
 -->
