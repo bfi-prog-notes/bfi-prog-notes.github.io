@@ -21,148 +21,81 @@ Julie Christie’s Bathsheba has been criticised. It is true that she remains ob
 <br><br>
 
 **Far from the Madding Crowd**<br>
-
 _Directed by:_ John Schlesinger<br>
-
 ©_/Presented by:_ Metro-Goldwyn-Mayer, Inc.<br>
-
 _A_ Joseph Janni, Vic Films _production_<br>
-
 _Produced by:_ Joseph Janni<br>
-
 _Associate Producer:_ Edward Joseph<br>
-
 _Production Manager:_ Frank Ernst<br>
-
 _Assistant Director:_ Kip Gowans<br>
-
 _2nd Assistant Director:_ David Bracknell *<br>
-
 _Continuity:_ Anne Skinner<br>
-
 _Casting Director:_ Miriam Brickman<br>
-
 _Screenplay by:_ Frederic Raphael<br>
-
 _From the novel by:_ Thomas Hardy<br>
-
 _Director of Photography:_ Nicolas Roeg<br>
-
 _Camera Operator:_ John Harris<br>
-
 _Camera Focus:_ Tony Richmond<br>
-
 _Camera Grips:_ Edward Tucker<br>
-
 _Editor:_ Malcolm Cooke<br>
-
 _Production Designed by:_ Richard MacDonald<br>
-
 _Art Director:_ Roy Smith<br>
-
 _Set Decorator:_ Peter James<br>
-
 _Costume Designer:_ Alan Barrett<br>
-
 _Make-up Artists:_ Bob Lawrance, Phillip Leakey<br>
-
 _Hairdresser:_ Ivy Emmerton<br>
-
 _Music Composed by:_ Richard Rodney Bennett<br>
-
 _Conducted by:_ Marcus Dods<br>
-
 _Folksong Adviser:_ Isla Cameron<br>
-
 _Sound Recordists:_ Robin Gregory, John Aldred<br>
-
 _Sound Editors:_ Gordon Daniel, Alfred Cox<br>
-
 _Swordmaster:_ Derek Ware<br>
-
 _Horsemaster:_ Max Faulkner
 
-_Cast:_<br>
-
+**Cast**<br>
 Julie Christie _(Bathsheba Everdene)_<br>
-
 Terence Stamp _(Sergeant Frank Troy)_<br>
-
 Peter Finch _(William Boldwood)_<br>
-
 Alan Bates _(Gabriel Oak)_<br>
-
 Fiona Walker _(Liddy)_<br>
-
 John Barrett _(Joseph Poorgrass)_<br>
-
 Owen Berry _(Old Smallbury)_<br>
-
 Laurence Carter _(Laban Tall)_<br>
-
 Denise Coffey _(Soberness)_<br>
-
 Paul Dawkins _(Henery Fray)_<br>
-
 Vincent Harding _(Mark Clark)_<br>
-
 Harriet Harper _(Temperance)_<br>
-
 Marie Hopps _(Mrs Coggan)_<br>
-
 Freddie Jones _(Cainy Ball)_<br>
-
 Margaret Lacey _(Maryann Money)_<br>
-
 Alison Leggatt _(Mrs Hurst)_<br>
-
 Pauline Melville _(Mrs Tall)_<br>
-
 Andrew Robertson _(Andrew Randle)_<br>
-
 Brian Rawlinson _(Matthew Moon)_<br>
-
 Julian Somers _(Jan Coggan)_<br>
-
 Prunella Ransome _(Fanny Robin)_<br>
-
 Victor Stone _(Billy Smallbury)_<br>
-
 Peter Stone _(Teddy Coggan)_<br>
-
 Walter Gale _(Jacob Smallbury)_<br>
-
-Leslie Anderson, Keith Hooper  
-_(Boldwood labourers)_<br>
-
+Leslie Anderson, Keith Hooper  _(Boldwood labourers)_<br>
 Jonathan Newth _(gentleman at cockfight)_<br>
-
 Derek Ware _(corporal)_<br>
-
 John Donegal _(sailor)_<br>
-
 Peggyann Clifford _(fat lady at circus)_<br>
-
 Noel Henkel _(circus manager)_<br>
-
 Bryan Mosley _(barker)_<br>
-
 David Swarbrick _(fiddler at barn dance)_<br>
-
 Alba _(gentleman at party)_<br>
-
-Frank Duncan, Hugh Walker  
-_(farmers at Corn Exchange)_<br>
-
+Frank Duncan, Hugh Walker  _(farmers at Corn Exchange)_<br>
 John Garrie _(Pennyways)_ *<br>
-
 Michael Beint _(labourer)_ *<br>
 
 USA-UK 1967©<br>
 165 mins<br>
 Digital
 
-* Uncredited
+*Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjE0Mzg0OV19
+eyJoaXN0b3J5IjpbLTI0MjQ0MDU3NV19
 -->
