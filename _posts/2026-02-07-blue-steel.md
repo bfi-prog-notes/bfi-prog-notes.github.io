@@ -1,3 +1,14 @@
+---
+layout: post
+title: Blue Steel
+published: true
+date: 2026-02-07
+readtime: true
+categories: ['Close to the Edge<br>The Films of Kathryn Bigelow']
+tags: [Thriller]
+metadata: 'USA 1989, 102 mins<br> Director: Kathryn Bigelow'
+pdf: '2026-02-07-blue-steel.pdf'
+---
 
 **Kathryn Bigelow:** With _Blue Steel_ I wanted to do a ‘woman’s action film’, putting a woman at the centre of a movie predominantly occupied by men. When women go to see _Lethal Weapon_, many of them will identify with Mel Gibson. I was interested in creating a person at the centre of an action film who represents an Everyman that both women and men could identify with. At our initial screenings at the Berlin Film Festival, some men at the press conference commented that they found themselves for the first time in their lives identifying with a woman. I found this very interesting because finally the notion of self-preservation is universal. I wanted to create a very strong, capable person who just happens to be a woman, using the context of the police genre.  
 **_Monthly Film Bulletin_, November 1990 (Adapted from a profile of Kathryn Bigelow in BBC2’s _Moving Pictures_; thanks to Paul Kerr and Sally Rowland)**
@@ -111,6 +122,30 @@ USA 1989©
 
 35mm print courtesy of the Cinema Museum
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUxMzExNzE4NF19
 -->
