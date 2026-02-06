@@ -60,8 +60,8 @@ _Sound Editors_: Patricia Sandy Bennett,  Elliot Deitch, Michael Steinfeld
 _ADR Editor_: Hal Levinsohn  
 _2nd ADR Editor_: Trissy Bowers  
 _Stunt Co-ordinator_: Jery Hewitt  
-_Cast:_
 
+**Cast**  
 Jamie Lee Curtis _(Megan Turner)_  
 Ron Silver _(Eugene Hunt)_  
 Clancy Brown _(Nick Mann)_  
@@ -105,13 +105,12 @@ Michael Del Rio _(John Perez)_
 Harley Flannagan _(1st punk)_  
 James Drescher _(2nd punk)_
 
-USA 1989©
-
-102 mins
-
+USA 1989©  
+102 mins  
 35mm
 
 35mm print courtesy of the Cinema Museum
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc0MTY3MjZdfQ==
+eyJoaXN0b3J5IjpbLTUxMzExNzE4NF19
 -->
