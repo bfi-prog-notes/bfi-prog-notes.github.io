@@ -52,213 +52,106 @@ _2nd Assistant Directors:_ Nick Harvard,  Yanal Barakat<br>
 _Script Supervisor:_ Aslaug Konradsdóttir<br>
 _Casting by:_ Mark Bennett<br>
 _Screenplay:_ Mark Boal<br>
-
 _Director of Photography:_ Barry Ackroyd<br>
-
-_2nd Unit Director of Photography:_  
-Niels Reedtz Johansen<br>
-
+_2nd Unit Director of Photography:_  Niels Reedtz Johansen<br>
 _Canadian Unit Director of Photography:_ Tom Sigel<br>
-
-_Camera Operators:_ Scott McDonald,  
-Duraid Munajim<br>
-
-_Third Eye FX Hi-Speed Camera Operator:_  
-Dory Aoun<br>
-
-_1st Assistant Camera:_ Stewart Whelan,  
-Oliver Driscoll, Imad Rechiche<br>
-
+_Camera Operators:_ Scott McDonald,  Duraid Munajim<br>
+_Third Eye FX Hi-Speed Camera Operator:_  Dory Aoun<br>
+_1st Assistant Camera:_ Stewart Whelan,  Oliver Driscoll, Imad Rechiche<br>
 _2nd Unit 1st Assistant Camera:_ Russell Kennedy<br>
-
-_Canadian Unit A 1st Assistant Camera:_  
-David Lourie<br>
-
+_Canadian Unit A 1st Assistant Camera:_  David Lourie<br>
 _Canadian Unit B 1st Assistant Camera:_ Robin Smith<br>
-
-_2nd Assistant Camera:_ Thomas Taylor,  
-Glenn Coulman, Mouna Khaali<br>
-
+_2nd Assistant Camera:_ Thomas Taylor,  Glenn Coulman, Mouna Khaali<br>
 _2nd Unit 2nd Assistant Camera:_ Max Glickman<br>
-
-_Canadian Unit A 2nd Assistant Camera:_  
-Jeremy Spofford<br>
-
-_Canadian Unit B 2nd Assistant Camera:_  
-Andy Capicik<br>
-
+_Canadian Unit A 2nd Assistant Camera:_  Jeremy Spofford<br>
+_Canadian Unit B 2nd Assistant Camera:_  Andy Capicik<br>
 _Key Grip:_ Mher Keshishian<br>
-
 _Canadian Unit Key Grip:_ Dave ‘Bucket’ Walker<br>
-
 _Gaffer:_ Matthew Moffatt<br>
-
 _Canadian Unit Gaffer:_ Jim Swanson<br>
-
 _Video Assist Operator:_ Sami Sahweil<br>
-
 _Stills Photography:_ Jonathan Olley<br>
-
-_Visual Effects Provided by:_ Company 3,  
-Encore Visual Effects<br>
-
+_Visual Effects Provided by:_ Company 3,  Encore Visual Effects<br>
 _Special Effects Supervisor:_ Richard Stutsman<br>
-
-_Special Effects Foremen:_ Blair Foord,  
-Ernst Gschwind<br>
-
+_Special Effects Foremen:_ Blair Foord,  Ernst Gschwind<br>
 _Editors:_ Bob Murawski, Chris Innis<br>
-
-_SFX Editors:_ Jamie Hardt, Bernard Weiser,  
-Rick Franklin<br>
-
+_SFX Editors:_ Jamie Hardt, Bernard Weiser,  Rick Franklin<br>
 _1st Assistant Editor:_ Sean Valla<br>
-
 _Production Designer:_ Karl Júlíusson<br>
-
 _Canadian Unit Production Designer:_ Paul Joyal<br>
-
 _Art Director:_ David Bryan<br>
-
 _Assistant Art Director:_ Nadeer Ibrahim<br>
-
 _Set Decorator:_ Ameen Al-Masri<br>
-
 _Storyboard Artist:_ Gary Thomas<br>
-
 _Property Master:_ Mike Malik<br>
-
 _Construction Co-ordinator:_ Marwan Kheir<br>
-
 _Costume Designer:_ George Little<br>
-
 _Assistant Costume Designers:_ Daniel Lester, Hanadi<br>
-
 _Hair/Make-up Designer:_ Daniel Parker<br>
-
 _Prosthetic Make-up Artist:_ Robin Pritchard<br>
-
 _Digital Intermediate Provided by:_ Company 3<br>
-
 _Music by:_ Marco Beltrami, Buck Sanders<br>
-
 _Guitar Performed by:_ Buck Sanders<br>
-
 _Violin Performed by:_ Endre Granat<br>
-
 _Cello Performed by:_ Andrew Shulman<br>
-
 _Bass Performed by:_ Mike Valerio<br>
-
 _Erhu Performed by:_ Karen Han<br>
-
-_Voice/Ethnic Instruments Performed by:_  
-Yorgos Adamis<br>
-
+_Voice/Ethnic Instruments Performed by:_  Yorgos Adamis<br>
 _Music Supervisor:_ John Bissell<br>
-
 _Music Co-ordinator:_ Sarah Ferguson<br>
-
 _Music Editor:_ Julie Pearce<br>
-
 _Music Mixed by:_ John Kurlander<br>
-
 _Sound Design:_ Paul N.J. Ottosson<br>
-
 _Sound Mixer:_ Ray Beckett<br>
-
 _Boom Operator:_ Simon Bysshe<br>
-
 _Re-recording Mixer:_ Paul N.J. Ottosson<br>
-
 _Dialogue Editors:_ Robert Troy, Kimberly Harris<br>
-
 _ADR Editors:_ Robert Troy, Kimberly Harris<br>
-
 _Foley Editors:_ John Sanacore, Alex Ullrich<br>
-
-_Military Adviser:_  
-Csm James Clifford USA/EOD (Retired)<br>
-
-_Technical Consultants:_ Ben Thomas,  
-Barrie Rice, Matthew Thompson<br>
-
+_Military Adviser:_  Csm James Clifford USA/EOD (Retired)<br>
+_Technical Consultants:_ Ben Thomas,  Barrie Rice, Matthew Thompson<br>
 _Jordanian Military Liaison:_ Marwan Abadi<br>
-
 _Stunt Co-ordinators:_ Robert Young, Barrie Rice<br>
-
 _Weapons Specialist:_ David Fencl
 
-_Cast:_<br>
-
+**Cast**<br>
 Jeremy Renner _(Staff Sergeant William James)_<br>
-
 Anthony Mackie _(Sergeant J.T. Sanborn)_<br>
-
 Brian Geraghty _(Specialist Owen Eldridge)_<br>
-
 Christian Camargo _(Colonel John Cambridge)_<br>
-
 Suhail Al-Dabbach _(black suit man)_<br>
-
 Christopher Sayegh _(Beckham)_<br>
-
 Evangeline Lilly _(Connie James)_<br>
-
 Ralph Fiennes _(contractor team leader)_<br>
-
 David Morse _(Colonel Reed)_<br>
-
 Guy Pearce _(Sergeant Matt Thompson)_<br>
-
 Nabil Koni _(Professor Nabil)_<br>
-
 Sam Spruell _(Charlie, contractor)_<br>
-
 Sam Redford _(Jimmy, contractor)_<br>
-
 Feisal Sadoun _(Feisal, contractor)_<br>
-
 Barrie Rice _(Chris, contractor)_<br>
-
 Imad Daoudi _(Iraqi police captain at UN)_<br>
-
 Erin Gann _(mortuary affairs officer)_<br>
-
 Justin Campbell _(Sergeant Carter)_<br>
-
 Malcolm Barrett _(Sergeant Foster)_<br>
-
 Kristoffer Winter _(soldier at intersection)_<br>
-
 J.J. Kandel _(guard at Camp Liberty market)_<br>
-
 Ryan Tramont _(guard at Liberty Gate)_<br>
-
 Michael Desante _(Iraqi translator)_<br>
-
 Hasan Darwish _(DVD merchant)_<br>
-
 Wasfi Amour _(insurgent in the stairwell)_<br>
-
 Nibras Qassem _(Nabil’s wife)_<br>
-
 Ben Thomas _(US army medic)_<br>
-
 Nader Tarawneh _(insurgent sniper)_<br>
-
 Anas ‘Tipsy’ Wellman _(soldier at UN)_<br>
-
 Omar Mario _(butcher)_<br>
-
 Fleming Campbell _(soldier at tarmac)_<br>
 
 USA 2008©<br>
-
 131 mins<br>
 
 35mm<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg4NzY0MDddfQ==
+eyJoaXN0b3J5IjpbNDczMTA2NzA1XX0=
 -->
