@@ -29,28 +29,21 @@ https://www.tonicollette.org/projects/1998velvetgoldmine/#google_vignette
 Website of _Invisible Women: Bringing woman filmmakers from archives to screens_ https://www.invisible-women.co.uk/post/spotlight-sandy-powell#:~:text=Once%20again%20working%20to%20a,Powell
 <br><br>
 
-**Velvet Goldmine**
-
+**Velvet Goldmine**<br>
 _Director:_ Todd Haynes  
 © _[UK/Eire]:_ Channel Four  
 © _[Rest of World]:_ Velvet Goldmine Productions, Newmarket Capital LLC  
-_Production Companies:_ Zenith Productions,
-
-6Killer Films  
+_Production Companies:_ Zenith Productions, 6Killer Films  
 _In Association with:_ Single Cell Pictures  
-_For:_ Newmarket Capital Group,  
-Goldwyn Films International, Channel 4 Films  
+_For:_ Newmarket Capital Group,  Goldwyn Films International, Channel 4 Films  
 _Executive Producers:_ Scott Meek, Michael Stipe  
 _For Single Cell Executive Producer:_ Sandy Stern  
 _Co-executive Producers:_ Chris J. Ball, William Tyrer  
 _Producer:_ Christine Vachon  
 _Co-producer:_ Olivia Stewart  
-_Zenith Executive in Charge of Production:_  
-Chris Catterall  
-_Killer Executive in Charge of Production:_  
-Pamela Koffler  
-_Development for Killer Films:_ Eva Kolodner,  
-Katie Roumel  
+_Zenith Executive in Charge of Production:_  Chris Catterall  
+_Killer Executive in Charge of Production:_  Pamela Koffler  
+_Development for Killer Films:_ Eva Kolodner,  Katie Roumel  
 _Production Accountant:_ Sheryl Leonardo  
 _Production Co-ordinator:_ Wendy Lilly  
 _Unit Manager:_ Wendy Broom  
@@ -78,13 +71,13 @@ _Production Designer:_ Christopher Hobbs
 _Art Director:_ Andrew Munro  
 _Production Buyer:_ Trisha Edwards  
 _Prop Master:_ George Ball  
-_Costume Designer:_ Sandy Powell
+_Costume Designer:_ Sandy Powell<br>
 
 _Costume Design Assistant_: Debbie Scott  
 _Wardrobe Supervisor_: Clare Spragge  
 _Wardrobe Assistants_: Sunita Singh,  
 Josef Kowalewski  
-_Wardrobe Trainee_: Gareth Duggan
+_Wardrobe Trainee_: Gareth Duggan<br>
 
 _Hair/Make-up Designer:_ Peter King  
 _Title Design:_ Bureau, NY  
@@ -99,111 +92,109 @@ _Re-recording Mixers:_ David Novack, Sound One
 _Supervising Sound Editors:_ Eliza Paley,  
 Paul Soucek  
 _Sound Effects Editor:_ Michael W. Mitchell  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
-_Cast:_
+_Cast:_<br>
+Ewan McGregor _(Curt Wild)_<br>
 
-Ewan McGregor _(Curt Wild)_
+Jonathan Rhys Meyers _(Brian Slade)_<br>
 
-Jonathan Rhys Meyers _(Brian Slade)_
+Toni Collette _(Mandy Slade)_<br>
 
-Toni Collette _(Mandy Slade)_
+Christian Bale _(Arthur Stuart)_<br>
 
-Christian Bale _(Arthur Stuart)_
+Eddie Izzard _(Jerry Divine)_<br>
 
-Eddie Izzard _(Jerry Divine)_
+Emily Woof _(Shannon)_<br>
 
-Emily Woof _(Shannon)_
+Michael Feast _(Cecil)_<br>
 
-Michael Feast _(Cecil)_
+Janet McTeer _(female narrator)_<br>
 
-Janet McTeer _(female narrator)_
+Maíread McKinley _(Wilde housemaid)_<br>
 
-Maíread McKinley _(Wilde housemaid)_
+Luke Morgan Oliver _(Oscar Wilde, aged 8)_<br>
 
-Luke Morgan Oliver _(Oscar Wilde, aged 8)_
+Osheen Jones _(Jack Fairy, aged 7)_<br>
 
-Osheen Jones _(Jack Fairy, aged 7)_
+Micko Westmoreland _(Jack Fairy)_<br>
 
-Micko Westmoreland _(Jack Fairy)_
+Damian Suchet _(BBC reporter)_<br>
 
-Damian Suchet _(BBC reporter)_
+Danny Nutt _(kissing sailor)_<br>
 
-Danny Nutt _(kissing sailor)_
+Wash Westmoreland _(young man)_<br>
 
-Wash Westmoreland _(young man)_
+Don Fellows _(Lou)_<br>
 
-Don Fellows _(Lou)_
+Ganiat Kasumu _(Mary)_<br>
 
-Ganiat Kasumu _(Mary)_
+Ray Shell _(Murray)_<br>
 
-Ray Shell _(Murray)_
+Alastair Cumming _(Tommy Stone)_<br>
 
-Alastair Cumming _(Tommy Stone)_
+Zoe Boyce _(girl on subway)_<br>
 
-Zoe Boyce _(girl on subway)_
+Jim Whelan _(Mr Stuart)_<br>
 
-Jim Whelan _(Mr Stuart)_
+Sylvia Grant _(Mrs Stuart)_<br>
 
-Sylvia Grant _(Mrs Stuart)_
+Tim Hans _(Manchester teacher)_<br>
 
-Tim Hans _(Manchester teacher)_
+Ryan Pope _(Arthur’s brother)_<br>
 
-Ryan Pope _(Arthur’s brother)_
+Stuart Callaghan _(boy in record shop 1)_<br>
 
-Stuart Callaghan _(boy in record shop 1)_
+James Francis _(boy in record shop 2)_<br>
 
-James Francis _(boy in record shop 2)_
+Callum Hamilton _(Brian Slade, aged 7)_<br>
 
-Callum Hamilton _(Brian Slade, aged 7)_
+Lindsay Kemp _(pantomime dame)_<br>
 
-Lindsay Kemp _(pantomime dame)_
+Carlos Miranda _(pianist)_<br>
 
-Carlos Miranda _(pianist)_
+Emma Handy _(Mod girlfriend)_<br>
 
-Emma Handy _(Mod girlfriend)_
+Matthew Glamour _(Mimosa)_<br>
 
-Matthew Glamour _(Mimosa)_
+Daniel Adams _(Curt Wild, aged 13)_<br>
 
-Daniel Adams _(Curt Wild, aged 13)_
+Brian Torfeh _(bartender)_<br>
 
-Brian Torfeh _(bartender)_
+Joe Beattie _(Cooper)_<br>
 
-Joe Beattie _(Cooper)_
+Sarah Cawood _(Angel)_<br>
 
-Sarah Cawood _(Angel)_
+David Hoyle _(Freddi)_<br>
 
-David Hoyle _(Freddi)_
-
-Winston Austin _(Micky)_
+Winston Austin _(Micky)_<br>
 
 Ivan Cartwright _(Cecil’s friend 1)_  
-Peter King _(Cecil’s friend 2)_
+Peter King _(Cecil’s friend 2)_<br>
 
-Justin Salinger _(Rodney)_
+Justin Salinger _(Rodney)_<br>
 
-Roger Alborough _(middle age man)_
+Roger Alborough _(middle age man)_<br>
 
-Peter Bradley Jr _(30s style singer)_
+Peter Bradley Jr _(30s style singer)_<br>
 
-Jonathan Cullen _(reporter 1)_
+Jonathan Cullen _(reporter 1)_<br>
 
-William Key _(reporter 2)_
+William Key _(reporter 2)_<br>
 
-Vincent Marzello _(US reporter 1)_
+Vincent Marzello _(US reporter 1)_<br>
 
-Corey Skaggs _(US reporter 2)_
+Corey Skaggs _(US reporter 2)_<br>
 
-Nathan Osgood _(US reporter 3)_
+Nathan Osgood _(US reporter 3)_<br>
 
 Nadia Williams _(teenage girl)_
 
-UK-USA 1998©
+UK-USA 1998©<br>
 
-119 mins
+119 mins<br>
 
-Digital
+Digital<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzI0MzgyM119
+eyJoaXN0b3J5IjpbMjUwNzgwMDldfQ==
 -->
