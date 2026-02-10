@@ -1,9 +1,19 @@
+---
+layout: post
+title: The Hurt Locker
+published: true
+date: 2026-02-10
+readtime: true
+categories: ['Close to the Edge<br>The Films of Kathryn Bigelow']
+tags: [War, Drama, Action]
+metadata: 'USA 2008, 131 mins<br> Director: Kathryn Bigelow'
+pdf: '2026-02-10-hurt-locker.pdf'
+---
 
 Jeremy Renner plays Sergeant First Class William James, a loose-cannon explosive ordnance disposal expert, whose unorthodox approach to his job in the second Iraq War unsettles his colleagues. Bigelow made history as the first woman to win the Academy Award for Best Director with this tense, but insightful, portrait of soldiers addicted to adrenaline and duty. Handheld close-ups combine with precise framing to deliver a visceral and immersive exploration of the chaos, horror and psychological toll of war.
 
 **Kathryn Bigelow on ‘The Hurt Locker’**  
-Kathryn Bigelow’s latest feature confirms her reputation as one of the world’s foremost directors of action. Set in the chaotic streets of Baghdad in 2004,  
-_The Hurt Locker_ follows a group of ‘EOD techs’ (Explosive Ordnance Disposal – i.e. bomb-disposal – technicians) as they go about their work dismantling often crudely made bombs. Developed from a script by Mark Boal, who worked as an embedded reporter in Iraq in 2004, Bigelow’s film has a visceral, immersive, documentary impact that vividly conveys the ever-present dangers such units face from snipers and suicide bombers. Though Guy Pearce and Ralph Fiennes have memorable cameos, the central cast is made up of lesser-known names such as Jeremy Renner, who plays the mercurial but brilliantly skilful Sergeant William James.
+Kathryn Bigelow’s latest feature confirms her reputation as one of the world’s foremost directors of action. Set in the chaotic streets of Baghdad in 2004,  _The Hurt Locker_ follows a group of ‘EOD techs’ (Explosive Ordnance Disposal – i.e. bomb-disposal – technicians) as they go about their work dismantling often crudely made bombs. Developed from a script by Mark Boal, who worked as an embedded reporter in Iraq in 2004, Bigelow’s film has a visceral, immersive, documentary impact that vividly conveys the ever-present dangers such units face from snipers and suicide bombers. Though Guy Pearce and Ralph Fiennes have memorable cameos, the central cast is made up of lesser-known names such as Jeremy Renner, who plays the mercurial but brilliantly skilful Sergeant William James.
 
 _We’ve seen much of the Iraq war from the perspective of the soldiers on the ground, through postings to YouTube and similar sites. Did this affect how you approached the look of the film?_
 
@@ -151,6 +161,30 @@ USA 2008©<br>
 131 mins<br>
 35mm<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI1MzUxOTQ1M119
 -->
