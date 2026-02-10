@@ -72,13 +72,10 @@ _Art Director:_ Andrew Munro
 _Production Buyer:_ Trisha Edwards  
 _Prop Master:_ George Ball  
 _Costume Designer:_ Sandy Powell<br>
-
 _Costume Design Assistant_: Debbie Scott  
 _Wardrobe Supervisor_: Clare Spragge  
-_Wardrobe Assistants_: Sunita Singh,  
-Josef Kowalewski  
+_Wardrobe Assistants_: Sunita Singh,  Josef Kowalewski  
 _Wardrobe Trainee_: Gareth Duggan<br>
-
 _Hair/Make-up Designer:_ Peter King  
 _Title Design:_ Bureau, NY  
 _Original Score:_ Carter Burwell  
@@ -89,112 +86,63 @@ _Music Maven:_ Jim Dunbar
 _Choreography:_ Lea Anderson  
 _Sound Recordist:_ Peter Lindsay  
 _Re-recording Mixers:_ David Novack, Sound One  
-_Supervising Sound Editors:_ Eliza Paley,  
-Paul Soucek  
+_Supervising Sound Editors:_ Eliza Paley,  Paul Soucek  
 _Sound Effects Editor:_ Michael W. Mitchell  
 
-_Cast:_<br>
+**Cast**<br>
 Ewan McGregor _(Curt Wild)_<br>
-
 Jonathan Rhys Meyers _(Brian Slade)_<br>
-
 Toni Collette _(Mandy Slade)_<br>
-
 Christian Bale _(Arthur Stuart)_<br>
-
 Eddie Izzard _(Jerry Divine)_<br>
-
 Emily Woof _(Shannon)_<br>
-
 Michael Feast _(Cecil)_<br>
-
 Janet McTeer _(female narrator)_<br>
-
 Maíread McKinley _(Wilde housemaid)_<br>
-
 Luke Morgan Oliver _(Oscar Wilde, aged 8)_<br>
-
 Osheen Jones _(Jack Fairy, aged 7)_<br>
-
 Micko Westmoreland _(Jack Fairy)_<br>
-
 Damian Suchet _(BBC reporter)_<br>
-
 Danny Nutt _(kissing sailor)_<br>
-
 Wash Westmoreland _(young man)_<br>
-
 Don Fellows _(Lou)_<br>
-
 Ganiat Kasumu _(Mary)_<br>
-
 Ray Shell _(Murray)_<br>
-
 Alastair Cumming _(Tommy Stone)_<br>
-
 Zoe Boyce _(girl on subway)_<br>
-
 Jim Whelan _(Mr Stuart)_<br>
-
 Sylvia Grant _(Mrs Stuart)_<br>
-
 Tim Hans _(Manchester teacher)_<br>
-
 Ryan Pope _(Arthur’s brother)_<br>
-
 Stuart Callaghan _(boy in record shop 1)_<br>
-
 James Francis _(boy in record shop 2)_<br>
-
 Callum Hamilton _(Brian Slade, aged 7)_<br>
-
 Lindsay Kemp _(pantomime dame)_<br>
-
 Carlos Miranda _(pianist)_<br>
-
 Emma Handy _(Mod girlfriend)_<br>
-
 Matthew Glamour _(Mimosa)_<br>
-
 Daniel Adams _(Curt Wild, aged 13)_<br>
-
 Brian Torfeh _(bartender)_<br>
-
 Joe Beattie _(Cooper)_<br>
-
 Sarah Cawood _(Angel)_<br>
-
 David Hoyle _(Freddi)_<br>
-
 Winston Austin _(Micky)_<br>
-
 Ivan Cartwright _(Cecil’s friend 1)_  
 Peter King _(Cecil’s friend 2)_<br>
-
 Justin Salinger _(Rodney)_<br>
-
 Roger Alborough _(middle age man)_<br>
-
 Peter Bradley Jr _(30s style singer)_<br>
-
 Jonathan Cullen _(reporter 1)_<br>
-
 William Key _(reporter 2)_<br>
-
 Vincent Marzello _(US reporter 1)_<br>
-
 Corey Skaggs _(US reporter 2)_<br>
-
 Nathan Osgood _(US reporter 3)_<br>
-
 Nadia Williams _(teenage girl)_
 
 UK-USA 1998©<br>
-
 119 mins<br>
-
 Digital<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzgwMDldfQ==
+eyJoaXN0b3J5IjpbMjA2MTkwOTUzMV19
 -->
