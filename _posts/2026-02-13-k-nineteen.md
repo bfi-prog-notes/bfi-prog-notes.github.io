@@ -100,8 +100,7 @@ _Effects Editors_: Kyrsten Mate Comoglio,  Douglas Murray, Aura Gilge
 _Stunt Co-ordinators_: Mickey Giacomazzi,  Jamie Jones  
 _Consultants_: Peter Huchthausen, Igor Kolosov,  Lars Hansen  
 
-_Cast:_
-
+**Cast**  
 Harrison Ford _(Captain Alexei Vostrikov)_  
 Liam Neeson _(Captain Mikhail Polenin)_  
 Peter Sarsgaard _(Vadim Radtchenko)_  
@@ -144,13 +143,12 @@ Lev Prygunov _(Ivan Vershinin)_
 Jeremy Akerman _(Fyodor Tsetkov)_  
 Lee J. Campbell _(judge)_
 
-USA-Germany-UK-Canada 2002©
-
-138 mins
-
+USA-Germany-UK-Canada 2002©  
+138 mins  
 35mm
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5NzEwNDhdfQ==
+eyJoaXN0b3J5IjpbLTQ5MzU4OTQ2OF19
 -->
