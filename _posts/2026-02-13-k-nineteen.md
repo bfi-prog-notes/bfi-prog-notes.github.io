@@ -1,3 +1,14 @@
+---
+layout: post
+title: K-19 - The Widowmaker
+published: true
+date: 2026-02-13
+readtime: true
+categories: ['Close to the Edge<br>The Films of Kathryn Bigelow']
+tags: [War, Thriller]
+metadata: 'USA-Germany-UK-Canada 2002, 138 mins<br> Director: Kathryn Bigelow'
+pdf: '2026-02-13-k-nineteen.pdf'
+---
 
 According to director/producer Kathryn Bigelow, the story of what happened to K-19 and her crew had everything an action-thriller needed built right into the actual events as they took place during the Cold War. And, since that war was fought on a mental battlefield rather than a physical one, the film, drawn from public sources and historical record, is that much more intriguing and unique.
 
@@ -23,8 +34,7 @@ While filming was under way, costume designer Marit Allen worked under great tim
 
 When filming in Russia was completed, the production moved directly to Canada’s Lake Winnipeg for two days. There, the frozen lake’s surface provided a convincingly harsh stand-in for the Arctic Ocean ice pack. The cast and crew then moved to Toronto, where the submarine-interior sequences were filmed. Additional location shooting took place at Halifax, Nova Scotia, where the snow-covered Halifax Shipyards facility served as the Soviet naval base at Murmansk.
 
-Following more interior work in Toronto, the production went back to Halifax, which served as a base for shooting in the open North Atlantic. Principal photography was completed in June 2001, after which director/producer Bigelow returned to Los Angeles for post-production editing and special  
-effects work.  
+Following more interior work in Toronto, the production went back to Halifax, which served as a base for shooting in the open North Atlantic. Principal photography was completed in June 2001, after which director/producer Bigelow returned to Los Angeles for post-production editing and special  effects work.  
 **Production notes**
 <br><br>
 
@@ -149,6 +159,30 @@ USA-Germany-UK-Canada 2002©
 
 *Uncredited
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ5MzU4OTQ2OF19
 -->
