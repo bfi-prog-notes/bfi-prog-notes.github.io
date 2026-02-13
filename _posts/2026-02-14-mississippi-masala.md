@@ -142,18 +142,15 @@ Phavin Parbario _(young Jay)_
 Emanuel Mudara _(young Okelo)_  
 Immaculate Byakatonda _(Okelo’s mother)_  
 Amrit Panesar _(Mrs Bedi)_  
-Jimmy Din _(Bharat)_
-
+Jimmy Din _(Bharat)_  
 Bonnie M. Lubega _(teacher)_  
-Sammy E.D. Senkumba, Mayambala Ssekasi_  
-(taxi drivers)_  
+Sammy E.D. Senkumba, Mayambala Ssekasi _(taxi drivers)_  
 Joseph Olita _(Idi Amin)_
 
-USA-UK 1991
-
-118 mins
-
+USA-UK 1991  
+118 mins  
 Digital 4K (restoration)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMjE5MzA2XX0=
+eyJoaXN0b3J5IjpbLTE4MTI3Mzg5NF19
 -->
