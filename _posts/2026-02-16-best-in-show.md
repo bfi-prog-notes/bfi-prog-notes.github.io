@@ -1,3 +1,14 @@
+---
+layout: post
+title: Best in Show
+published: true
+date: 2026-02-16
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Comedy]
+metadata: 'USA 2000, 90 mins<br> Director: Christopher Guest'
+pdf: '2026-02-16-best-in-show.pdf'
+---
 
 The idea for _Best in Show_ was born during a trip writer/director Christopher Guest took six years ago to his local dog park to exercise his own two dogs. ‘There were people there with pure-bred dogs, with mutts and so on, and as I mingled with them I started thinking that this might be an interesting idea to explore in a movie,’ he recalls. For this project, Guest teamed up with another acclaimed member of the comedic pantheon, Eugene Levy, with whom he collaborated on _Waiting for Guffman_. A cast member of the seminal sketch comedy show, _SCTV_, and star of the recent hit, _American Pie_, Levy relished the opportunity to work on another film with Guest. ‘It’s hard to partner with somebody because writers have different rhythms, different chemistry,’ says Levy. ‘But Chris and I hit it off on _Guffman_ from day one. We work very well together.’
 
@@ -118,6 +129,30 @@ USA 2000©
 90 mins  
 Digital
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjA4NDMxMDc2XX0=
 -->
