@@ -28,97 +28,52 @@ Jerzy enjoys his celebrity, and he was potentially susceptible. Nothing is easy:
 <br><br>
 
 **Rough Treatment** Bez Znieczulenia<br>
-
 _Director:_ Andrzej Wajda<br>
+_Production Companies:_ Zespol Filmowy ‘X’, Film Polski<br>
+_Executive Producer:_ Barbara Pec-Slesicka<br>
+_Production Supervisors:_ Alina Klobukowska, Malgorzata Pakula, Bozena Michalska, Tomasz Bek<br>
+_TV Sequences:_ Mariusz Walter, Tomasz Debinski, Gabriela Milobedzka, Henryk Babulewicz<br>
+_Assistant Directors:_ Krystyna Grochowicz,  Krzysztof Tchorzewski, Jolanta Jedynak<br>
+_Screenplay:_ Agnieszka Holland, Andrzej Wajda, Krzysztof Zaleski<br>
+_Director of Photography:_ Edward Klosinski<br>
+_Camera Operators:_ Janusz Kalicinski,  Jan Ossowski, Jerzy Tomczuk<br>
+_Editor:_ Halina Prugar<br>
+_Associate Editor:_ Maria Kalicinska<br>
+_Art Directors:_ Allan Starski,  Maria Lubelska-Chrolowska<br>
+_Set Decorators:_ Maria Osiecka-Kuminek, Magdalena Dipont<br>
+_Costumes:_ Wieslawa Starska, Anna Wlodarczyk<br>
+_Make-up:_ Halina Ber, Grazyna Dabrowska<br>
+_Music:_ Jerzy Derfl, Wojciech Mylynarski<br>
+_Sound Recording:_ Piotr Zawadzki,  Malgorzata Lewandowska
 
-_Production Companies:_ Zespol Filmowy ‘X’,
+**Cast**<br>
+Zbigniew Zapasiewicz _(Jerzy Michalowski)_<br>
+Ewa Dalkowska _(Ewa Michalowska)_<br>
+Andrzej Seweryn _(Jacek Rosciszewski)_<br>
+Krystyna Janda _(Agata)_<br>
+Emilia Krakowska _(Dr Wanda Jackowicz)_<br>
+Roman Wilhelmi _(Bronski)_<br>
+Kazimierz Kaczor _(editor-in-chief)_<br>
+Iga Mayer _(Ewa’s mother)_<br>
+Aleksandra Jasienska _(Ola Michalowska)_<br>
+Marta Salinger _(Kookie Michalowska)_<br>
+Stefania Iwinska _(housekeeper)_<br>
+Halina Golanka _(Ewa’s sister)_<br>
+Jerzy Stuhr _(Ewa’s lawyer)_<br>
+Maria Teresa Wójcik _(Jerzy’s lawyer)_<br>
+Danuta Balicka-Satanowicz _(judge)_<br>
+Jolanta Kozak-Sutowicz _(Stenia)_<br>
+Zygmunt Kestowicz _(features editor)_<br>
+T. Andrzejewski, K. Banman, T. Gandera,  Z. Grusznic, J. Kaluski, W. Kapitulka, Krzysztof Kiersznowski, H. Kulina, M. Kula, W. Lothe-Stanislawska, R. Labedz, M. Miarczynska,  M. Maciejewski, Stanislaw Michalski, Andrzej Mrowiec, W. Nieciegewicz, I. Olejnik, Witold Pyrkosz, B. Szymkowski, T. Stockinger, Boguslaw Sobczuk, Jerzy Radziwilowicz, Grzegorz Wons,  W. Wysocki, Krystyna Wolanska, Krzysztof Zalewski, Tomasz Zygadlo
 
-Film Polski
-
-_Executive Producer:_ Barbara Pec-Slesicka
-
-_Production Supervisors:_ Alina Klobukowska, Malgorzata Pakula, Bozena Michalska, Tomasz Bek
-
-_TV Sequences:_ Mariusz Walter, Tomasz Debinski, Gabriela Milobedzka, Henryk Babulewicz
-
-_Assistant Directors:_ Krystyna Grochowicz,  
-Krzysztof Tchorzewski, Jolanta Jedynak
-
-_Screenplay:_ Agnieszka Holland, Andrzej Wajda, Krzysztof Zaleski
-
-_Director of Photography:_ Edward Klosinski
-
-_Camera Operators:_ Janusz Kalicinski,  
-Jan Ossowski, Jerzy Tomczuk
-
-_Editor:_ Halina Prugar
-
-_Associate Editor:_ Maria Kalicinska
-
-_Art Directors:_ Allan Starski,  
-Maria Lubelska-Chrolowska
-
-_Set Decorators:_ Maria Osiecka-Kuminek, Magdalena Dipont
-
-_Costumes:_ Wieslawa Starska, Anna Wlodarczyk
-
-_Make-up:_ Halina Ber, Grazyna Dabrowska
-
-_Music:_ Jerzy Derfl, Wojciech Mylynarski
-
-_Sound Recording:_ Piotr Zawadzki,  
-Malgorzata Lewandowska
-
-_Cast:_
-
-Zbigniew Zapasiewicz _(Jerzy Michalowski)_
-
-Ewa Dalkowska _(Ewa Michalowska)_
-
-Andrzej Seweryn _(Jacek Rosciszewski)_
-
-Krystyna Janda _(Agata)_
-
-Emilia Krakowska _(Dr Wanda Jackowicz)_
-
-Roman Wilhelmi _(Bronski)_
-
-Kazimierz Kaczor _(editor-in-chief)_
-
-Iga Mayer _(Ewa’s mother)_
-
-Aleksandra Jasienska _(Ola Michalowska)_
-
-Marta Salinger _(Kookie Michalowska)_
-
-Stefania Iwinska _(housekeeper)_
-
-Halina Golanka _(Ewa’s sister)_
-
-Jerzy Stuhr _(Ewa’s lawyer)_
-
-Maria Teresa Wójcik _(Jerzy’s lawyer)_
-
-Danuta Balicka-Satanowicz _(judge)_
-
-Jolanta Kozak-Sutowicz _(Stenia)_
-
-Zygmunt Kestowicz _(features editor)_
-
-T. Andrzejewski, K. Banman, T. Gandera,  
-Z. Grusznic, J. Kaluski, W. Kapitulka, Krzysztof Kiersznowski, H. Kulina, M. Kula, W. Lothe-Stanislawska, R. Labedz, M. Miarczynska,  
-M. Maciejewski, Stanislaw Michalski, Andrzej Mrowiec, W. Nieciegewicz, I. Olejnik, Witold Pyrkosz, B. Szymkowski, T. Stockinger, Boguslaw Sobczuk, Jerzy Radziwilowicz, Grzegorz Wons,  
-W. Wysocki, Krystyna Wolanska, Krzysztof Zalewski, Tomasz Zygadlo
-
-Poland 1978
-
-130 mins
-
+Poland 1978<br>
+130 mins<br>
 Digital (restoration)
 
 Restored by Yakumama
 
-The screening on Mon 9 Mar will be introduced by film critic and scholar Michał Oleszczyk
+The screening on Mon 9 Mar will be introduced by film critic and scholar Michał Oleszczyk<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA1NDk0NjNdfQ==
+eyJoaXN0b3J5IjpbNTg2NDcyMzVdfQ==
 -->
