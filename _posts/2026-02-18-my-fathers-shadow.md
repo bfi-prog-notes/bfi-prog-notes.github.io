@@ -46,11 +46,9 @@ _Associate Producer_: Moya De Young
 _UK Production Manager_: Shuku Anderson  
 _Nigeria Production Managers_: Ayo Ogunlade, Jumafor Ajogwu  
 _Financial Controller_: Jessica McCausland  
-_Location Scout and Manager_:  
-Iyeoluwawunmi Hassan  
+_Location Scout and Manager_:  Iyeoluwawunmi Hassan  
 _Post-production Supervisor_: Shaheen Schleifer  
-_Post-production Co-ordinators_:  
-Stephen Thomas Walsh, Patricia McCormack  
+_Post-production Co-ordinators_:  Stephen Thomas Walsh, Patricia McCormack  
 _Post-production Producer_: George Blomiley  
 _1st Assistant Director_: Ade Oshin  
 _2nd Assistant Director_: Nero Omoluwa  
@@ -71,11 +69,9 @@ _Graphic Design_: Asel Tambay
 _Costume Design by_: PC Williams  
 _Assistant Costume Designer_: Diipo Ayo-Adedusi  
 _Costume Supervisor_: Aisha Tiga Kassim  
-_Hair and Make-up by_: Kehinde Are,  
-Feyisayo Oyebisi  
+_Hair and Make-up by_: Kehinde Are,  Feyisayo Oyebisi  
 _Make-up Designer_: Feyisayo Oyebisi  
-_Make-up Artists_: Uduoghene Alakpa,  
-Moyosore Momolosho  
+_Make-up Artists_: Uduoghene Alakpa,  Moyosore Momolosho  
 _Key Hair Designer_: Kehinde Are  
 _Hair Designer_: Nike Folorunsho  
 _Film Stock Provided by_: Kodak  
@@ -97,8 +93,7 @@ _Talking Drum Consultant_: Adedeji Aremu
 _Talking Drummer_: Elijah Olawiyola  
 _Animal Wrangler_: Olamide Ijadunola
 
-_Cast:_
-
+**Cast**  
 Sopé Dìrísù _(Folarin)_  
 Chibuike Marvellous Egbo _(Remi)_  
 Godwin Egbo _(Akin)_  
@@ -131,8 +126,7 @@ Fred Ideh _(man at bar)_
 Solomon Oluboyo _(bar customer 1)_  
 David Apemiye _(bar customer 2)_  
 Sunday Godwin _(car driver)_  
-Inusa Ubby, Tobi Odunsi,  
-Ugeonyemechi David Patrick _(soldiers)_  
+Inusa Ubby, Tobi Odunsi,  Ugeonyemechi David Patrick _(soldiers)_  
 Ogini Bernard _(bony scholarly man)_  
 Victoria Jonah _(plus sized woman)_  
 Omolabake Kareem Temitope _(young lady)_  
@@ -155,13 +149,12 @@ Jomi Bello _(IBB military leader)_
 David Nsikak, Enwere Obinna James, Afolabi Olorunwa Adekomaiya, Gerald Unimke Bishung, Abraham Uwa _(band members)_  
 Stephen Joseph, Kelvin Amoabi, Isaac Maduabuli _(TV advert)_
 
-UK-Germany 2025©
-
-94 mins
-
+UK-Germany 2025©  
+94 mins  
 Digital
 
 A MUBI release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzNjM3MzRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTA4ODc5Nl19
 -->
