@@ -26,117 +26,59 @@ In emphasising that the _ars longa_ maxim is particularly inapplicable to ‘off
 <br><br>
 
 **Man of Marble** Człowiek z Marmuru<br>
-
 _Director:_ Andrzej Wajda<br>
-
 ©: Film Polski<br>
-
 _Production Company:_ Zespol Filmowy ‘X’<br>
-
 _Producer:_ Andrzej Wajda<br>
-
 _Production Manager:_ Barbara Pec-Slesicka<br>
-
-_Production Assistants:_ Andrzej Smulski,  
-Elzbieta Kozlowska, Alina Klobukowska,  
-Janusz Dziumowicz, Waldemar Król<br>
-
-_Assistant Directors:_ Krystyna Grochowicz,  
-Witold Holtz, Leszek Tarnowski,  
+_Production Assistants:_ Andrzej Smulski,  Elzbieta Kozlowska, Alina Klobukowska,  Janusz Dziumowicz, Waldemar Król<br>
+_Assistant Directors:_ Krystyna Grochowicz,  Witold Holtz, Leszek Tarnowski,  
 Magdalena Stelmaszczyk, Agnieszka Holland *<br>
-
 _Screenplay:_ Aleksander Scibor-Rylski<br>
-
 _Dramaturge:_ Boleslaw Michalek *<br>
-
 _Director of Photography:_ Edward Klosinski<br>
-
-_Assistant Camera:_ Jacek Lomnicki,  
-Jan Ossowski, Jerzy Tomczuk<br>
-
+_Assistant Camera:_ Jacek Lomnicki,  Jan Ossowski, Jerzy Tomczuk<br>
 _Stills Photography:_ Renata Pajchel<br>
-
 _Editors:_ Halina Prugar, Maria Kalicinska<br>
-
 _Art Directors:_ Allan Starski, Wojciech Majda<br>
-
 _Set Decorator:_ Maria Osiecka-Kuminek<br>
-
-_Costume Designers:_ Lidia Rzeszewska,  
-Wieslawa Konopelska<br>
-
+_Costume Designers:_ Lidia Rzeszewska,  Wieslawa Konopelska<br>
 _Make-up:_ Anna Adamek, Iwona Kaminska<br>
-
-_Laboratory:_  
-Wytwórnia Filmów Dokumentalnych w Warszawie<br>
-
+_Laboratory:_  Wytwórnia Filmów Dokumentalnych w Warszawie<br>
 _Music:_ Andrzej Korzynski<br>
-
 _Additional Music/Songs:_ Jerzy Gerta *, Zdzislaw Gozdawy *, Alfred Gradstein *, Andrzej Nowikow *, Franciszka Palki *, Kazimierz Serocki *, Waclaw Stepni *, Tadeusz Sygietynski *, Wladyslaw Szpilman *<br>
-
 _Vocal Group:_ Ali Babki<br>
-
 _Music Consultant:_ Malgorzata Jaworska<br>
-
 _Sound:_ Piotr Zawadzki
 
-_Cast:_<br>
-
+**Cast**<br>
 Jerzy Radziwilowicz _(Mateusz Birkut)_<br>
-
 Krystyna Janda _(Agnieszka)_<br>
-
 Michal Tarkowski _(Wincenty Witek)_<br>
-
 Piotr Cieslak _(Michalak)_<br>
-
 Wieslaw Wójcik _(Party Secretary Jodla)_<br>
-
 Krystyna Zachwatowicz _(Hanka Tomczyk)_<br>
-
 Tadeusz Lomnicki _(Jerzy Burski, the director)_<br>
-
 Jacek Lomnicki _(young Jerzy Burski)_<br>
-
 Magda Teresa Wójcik _(editor)_<br>
-
 Boguslaw Sobczuk _(TV producer)_<br>
-
 Leonard Zajaczkowski _(cameraman)_<br>
-
 Jacek Domanski _(sound man)_<br>
-
 Zdzislaw Kozien _(Agnieszka’s father)_<br>
-
 Irena Laskowska _(museum employee)_<br>
-
 Wieslaw Drzewicz _(owner of the ‘Ostoia’)_<br>
-
 Ewa Zietek _(secretary)_<br>
-
-E. Borkowska, A. Graziewicz, E. Karwanski
-
-S. Kornacka, H. Lapinski, J. Moniak, I. Oberska
-
-Z. Ploszaj, J. Roland, M. Rayzacher, G. Skurski
-
-D. Stalinska, Z. Szymbroski, M. Swigon
-
-K. Wolanska, A. Wykretowicz
-
-Mieczyslaw Grabka, Andrzej Seweryn _(narrators)_
-
+E. Borkowska, A. Graziewicz, E. Karwanski, S. Kornacka, H. Lapinski, J. Moniak, I. Oberska, Z. Ploszaj, J. Roland, M. Rayzacher, G. Skurski, D. Stalinska, Z. Szymbroski, M. Swigon, K. Wolanska, A. Wykretowicz, Mieczyslaw Grabka, Andrzej Seweryn _(narrators)_<br>
 Kazimierz Kaczor _(colonel)_ *
 
-Poland 1976©
-
-161 mins
-
+Poland 1976©<br>
+161 mins<br>
 Digital (restoration)
 
-* Uncredited
+*Uncredited
 
-Restored by Yakumama
+Restored by Yakumama<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjMzODkwMF19
+eyJoaXN0b3J5IjpbMTEwOTAwMjg5Nl19
 -->
