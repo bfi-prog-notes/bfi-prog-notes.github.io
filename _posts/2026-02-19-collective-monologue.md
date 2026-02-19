@@ -20,25 +20,18 @@ Notions of care radiate throughout _Collective Monologue_ both within the story,
 Jessica Sarah Rinland is an Argentine-British filmmaker. She is a recipient of numerous prizes including Special Mention at Locarno Film Festival and Best Film at DocumentaMadrid for _Those That, at a Distance, Resemble Another_ (2019), Primer Premio at BIM – Bienalede Imagen en Movimiento for _Black Pond_ (2018), Arts + Science Award at Ann Arbor Film Festival, for _Adeline for Leaves_ (2014), and Massachusetts Institute of Technology’s Schnitzer prize for excellence in the arts in 2017. Her work has been exhibited at University of Tennessee’s Downtown Gallery, Southwark Park Galleries, London, Taipei Biennial, Somerset House and Bloomberg New Contemporarie. She has had retrospectives of her films at Anthology Film Archives, NYC (2021), Doc’s Kingdom, Portugal (2021), Aricadoc, Santiago (2021), Eureka Film Festival, Bogotá (2020), Curtocircuito, Spain (2018) and London Short Film Festival (2016), Flaherty Film Seminar (2022). Her films are held in the BFI’s collections.  
 
 **Production notes**
+<br><br>
 
-<![endif]-->
-
-**Collective Monologue**
-
+**Collective Monologue**  
 _Director_: Jessica Sarah Rinland  
 ©: Trapecio Cine, Jessica Sarah Rinland  
 _Production Company_: Trapecio Cine  
 _With the support of_: INCAA, Hubert Bals Development Fund, Ikusmira Berriak, The Film Study Center - Harvard University, Mother Pictures  
-_Production Support_: Bord Cadre Films, Cine Argentino, INCAA - Instituto Nacional de Cine y Artes Audiovisuales, Hubert Bals Fund,  
-Mother Pictures, The Film Study Center at
-
-Harvard University  
+_Production Support_: Bord Cadre Films, Cine Argentino, INCAA - Instituto Nacional de Cine y Artes Audiovisuales, Hubert Bals Fund,  Mother Pictures, The Film Study Center at Harvard University  
 _Executive Producer_: Melanie Schapiro  
 _Development Production 2020_: Maravilla Cine, Paula Zyngierman, Leandro Listorti  
-_Producers_: Melanie Schapiro,  
-Jessica Sarah Rinland  
-_Associate Producers_: Dan Wechsler,  
-Jamal Zeinal-Zade, Andreas Roald  
+_Producers_: Melanie Schapiro,  Jessica Sarah Rinland  
+_Associate Producers_: Dan Wechsler,  Jamal Zeinal-Zade, Andreas Roald  
 _Production Manager_: Malena Villafañe  
 _Production Supervisor_: Camila Cicchino  
 _Archive Consultants_: Ashley Kerr, Rosana Menna  
@@ -54,15 +47,14 @@ _Sound Recording_: Guido Ronconi
 _Sound Mixer_: Philippe Ciompi  
 _Foley and Voice_: Jessica Sarah Rinland
 
-Argentina-Netherlands-USA-UK-Switzerland 2024
-
-104 mins
-
+Argentina-Netherlands-USA-UK-Switzerland 2024  
+104 mins  
 Digital
 
 Courtesy of Sovereign Film Distribution
 
 Total running time 130 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE3NDc4N119
+eyJoaXN0b3J5IjpbMTc4MjA3NDQyNF19
 -->
