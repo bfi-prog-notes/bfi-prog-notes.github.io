@@ -1,4 +1,3 @@
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -14,11 +13,125 @@ But while these sequences are gruelling, they’re not gratuitous. As in Robert 
 
 A sprawling saga of lives in a violent urban environment, with flashes of self-conscious narrative (the film shuttles back and forth in time) and overlapping plotlines, _Amores_ _perros_ will inevitably invite comparisons with Quentin Tarantino’s first two movies. In fact, González Iñárritu seems to be goading us to make them: in the opening scene, which takes place inside Octavio’s car as it hurtles through the city, Octavio’s friend attempts to stem the blood from a wound Cofi has just sustained much as Harvey Keitel extemporised first-aid on Tim Roth in the back of their getaway car in _Reservoir Dogs_; later there’s a playful parody of the torture scene from that film. But if the comparison works, it’s only superficially: _Amores_ _perros’_ moments of violence are forceful but fleeting (when El Chivo shoots dead a businessman in a restaurant, all we see is a trickle of blood bubbling and thickening on a hotplate), and despite the occasional reversal of the film’s chronology, it’s largely stylistically unaffected.
 
-The final section follows El Chivo, who’s been glimpsed throughout the first two episodes as an impassive witness to events. Living in a one-room squat and spending his days wandering the streets followed by the troupe of dogs he cares for, he seems to have retreated from the world some time ago. A former revolutionary, his idealism has long since flagged – when a corrupt police commander asks him why he doesn’t wear his glasses any more, his resigned reply is: ‘If God wants me to see blurry I’ll see blurry.’ Concentrating on El Chivo’s attempt to set up one last hit – and his efforts to find out more about the daughter who believes him dead – the film’s final reel also catches up with Octavio, Ramiro and Susana. There’s a courageously bleak edge to the turn of events (‘To make God laugh, tell him your plans,’ Susana says of Octavio’s hopes), and it’s tempting to read a political critique underlying the harrowing portrait of a place that seems to drive its inhabitants to the edge of despair. González Iñárritu himself has stated that the film illustrates the legacy of 71 years of single-party rule (which ended in December 2000): a society where the chasm between rich and poor is ever-growing and crime seems the only means of subsistence for millions of people. Yet the film snatches hope where it can – and it’s perhaps González Iñárritu’s greatest achievement that, after all its grim stretches, _Amores_ _perros_ comes to a close with a note of muted optimism.
+The final section follows El Chivo, who’s been glimpsed throughout the first two episodes as an impassive witness to events. Living in a one-room squat and spending his days wandering the streets followed by the troupe of dogs he cares for, he seems to have retreated from the world some time ago. A former revolutionary, his idealism has long since flagged – when a corrupt police commander asks him why he doesn’t wear his glasses any more, his resigned reply is: ‘If God wants me to see blurry I’ll see blurry.’ Concentrating on El Chivo’s attempt to set up one last hit – and his efforts to find out more about the daughter who believes him dead – the film’s final reel also catches up with Octavio, Ramiro and Susana. There’s a courageously bleak edge to the turn of events (‘To make God laugh, tell him your plans,’ Susana says of Octavio’s hopes), and it’s tempting to read a political critique underlying the harrowing portrait of a place that seems to drive its inhabitants to the edge of despair. González Iñárritu himself has stated that the film illustrates the legacy of 71 years of single-party rule (which ended in December 2000): a society where the chasm between rich and poor is ever-growing and crime seems the only means of subsistence for millions of people. Yet the film snatches hope where it can – and it’s perhaps González Iñárritu’s greatest achievement that, after all its grim stretches, _Amores_ _perros_ comes to a close with a note of muted optimism.  
+**Edward Lawrenson, _Sight and Sound_, May 2001**
+<br><br>
 
-Edward Lawrenson, _Sight and Sound_, May 2001
+**Amores perros**  
+_Director_: Alejandro González Iñárritu  
+_Production Company_: Zeta Film, AltaVista Films  
+_Executive Producers_: Martha Sosa Elizondo, Francisco González Compeán  
+_Producer_: Alejandro González Iñárritu  
+_Associate Producers_: Raúl Olvera Ferrer, Guillermo Arriaga, Pelayo Gutiérrez, Mónica Lozano Serrano  
+_Production Manager_: Tita Lombardo  
+_Head of Production (STPC)_: Oscar Reboreda  
+_Production Supervisor_: Erick Tamayo  
+_Production Co-ordinator_: Gloria ‘Pekas’ Lozano  
+_Location Manager_: Patricia Cano, Mayte Gallegos  
+_Post-production (Supervisor)_: Tlacatéotl Mata  
+_Post-production (Co-ordinator)_:  Pablo Baksht Segovia  
+_Production Consultant_: Anna Roth Kanarska  
+_Production Assistants_: Paco Medina, Mario A. Cornejo Ruiz, Fabio García Montes de Oca,  Juan Carlos Landero  
+_1st Assistant Director_: Carlos Hidalgo  
+_2nd Assistant Director_: Efrén del Moral  
+_2nd 2nd Assistant Director_: Julián ‘Chico’ Valdés  
+_Assistant Director (2nd Unit)_: Adrián Grümber  
+_Assistant to the Director_: Lucero Gutiérrez  
+_Script Supervisor_: Luciana Kaplan  
+_Casting Director_: Manuel Teil  
+_Screenplay_: Guillermo Arriaga  
+_Director of Photography_: Rodrigo Prieto  
+_Lighting_: Benito Aguilar  
+_1st Assistant Camera_: Arturo Castañeda  
+_2nd Assistant Camera_: Fernando Díaz Torres  
+_Gaffer_: Jesús González  
+_Key Grip_: Pedro González  
+_Special Effects Co-ordinator_: Alejandro Vázquez  
+_Graphic Design_: Luis Blackaller  
+_Editors_: Alejandro González Iñárritu, Luis Carballar, Fernando Pérez Unda  
+_Consultant Editors_: Guillermo del Toro,  Carlos Bolado  
+_Production Designer_: Brigitte Broch  
+_Art Director_: Melo Hinojosa  
+_Art Department Co-ordinator_: Alisarine Ducolomb  
+_Set Decorator_: Julieta Alvarez  
+_Storyboard and Making-of_: Fernando Llanos  
+_Costume Designer_: Gabriela Diaque  
+_Wardrobe Head (STPC)_: Ismael Jardón Texas  
+_Stylist_: Gabriel Solana  
+_Make-up_: David Gameros, Marco Rosado  
+_Hair_: Isabel Amezcua, Eduardo Gómez  
+_Front Credits Design_: Oliver Castro  
+_End Credits Design_: Pablo Rovalo, Ignacio Borja  
+_Music_: Gustavo Santaolalla  
+_Additional Music_: Daniel Hidalgo  
+_Music Supervisor_: Lynn Fainchtein  
+_Music Engineer_: Aníbal Kerpel  
+_Sound Design_: Martín Hernández  
+_Sound Supervisors_: Martín Hernández,  Roland N. Thai  
+_Sound_: Antonio Diego  
+_Final Mix Engineers_: Geoffrey G. Rubay, Rudi Pi  
+_Sound Editors_: Joaquín Díaz, Efraín García Mora, Alejandro Quevedo, Rodolfo Romero,  Adrián Reynoso  
+_Sound Effects Recordists_: Martín Hernández, Carlos Honc, Samuel Mendoza, Kaeri Tedla  
+_Stunt Co-ordinator_: Gerardo Moreno  
+_Stunt Co-ordinator (Vehicles)_:  Edgar Lezama ‘chivata’  
+_Stunts_: Javier Lambert, Mauricio Martínez, Rafael Valdez, Igor Aranda, Tomas Guzmán, Gabriela Moreno, Jorge Corzo, Ubaldo Bucio, Raúl Martínez  
+_Dolby Sound Consultant_: Andy Potvin  
+_Thanks_: Guillermo del Toro  
+_Special Thanks_: Federico Gonzalez Compeán, Alfonso Cuarón  
+_Dog Trainers_: Larry Casanova Ernesto,  Ernesto Aparicio
 
+**Cast**  
+Emilio Echevarría _(El Chivo, The Goat)_  
+Gael García Bernal _(Octavio)_  
+Goya Toledo _(Valeria)_  
+Álvaro Guerrero _(Daniel)_  
+Vanessa Bauche _(Susana)_  
+Jorge Salinas _(Luis)_  
+Marco Pérez _(Ramiro)_  
+Rodrigo Murray _(Gustavo)_  
+Humberto Busto _(Jorge)_  
+Gerardo Campbell _(Mauricio)_  
+Rosa María Bianque _(Aunt Luisa)_  
+Dunia Saldívar _(Susana’s mother)_  
+Adriana Barraza _(Octavio’s mother)_  
+José Sefami _(Leonardo)_  
+Lourdes Echevarría _(Maru)_  
+Laura Almela _(Julieta)_  
+Ricardo Dalmacci _(Andrés Salgado)_  
+Gustavo Sánchez Parra _(Jarocho)_  
+Dagoberto Gama _(Alvaro)_  
+Gustavo Muñóz _(El Chispas)_  
+Carlo Bernal _(Javier)_  
+Rodrigo Obstab _(El Jaibo)_  
+Edgar González _(baby Rodrigo)_  
+Hilda González _(cashier)_  
+Patricio Castillo _(doctor)_  
+Roberto Medina _(male TV announcer)_  
+Angeles Marín _(female TV announcer)_  
+Ana María González _(nurse)_  
+Carlos Samperio _(man at scrap yard)_  
+T. Kazuyo Togawa _(fat lady)_  
+Gema Aparicio _(domestic)_  
+Adriana Varone _(Luis’ lover)_  
+Bruno Salgado _(Champignon)_  
+Adriana Islas _(Lina)_  
+Regina Abad _(Jimena)_  
+Leoncio Torres _(El Pelón)_  
+Luisa Geliz _(Daniel’s secretary)_  
+Jean Paul Bierry _(man at meeting)_  
+Alma Rocío González _(woman at meeting)_  
+Mauricio Martínez _(police agent)_  
+Juan Manuel Ramos _(policeman)_  
+Ernesto Bog _(man 1)_  
+José Luis Barraza _(man 2)_  
+Jorge Arellano _(young caretaker 1)_  
+Jonathan Herrera _(young caretaker 2)_  
+Heriberto Castillo _(stranger)_
 
+Mexico 2000©  
+154 mins  
+Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTY1OTg2N119
+eyJoaXN0b3J5IjpbLTMzOTQzODg4OF19
 -->
