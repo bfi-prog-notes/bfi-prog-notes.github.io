@@ -61,120 +61,64 @@ _Music Consultant:_ Malgorzata Przedpelska<br>
 _Sound:_ Piotr Zawadzki<br>
 _Studio_: Wytwórnia Filmów Dokumentalnych
 
-_Cast**<br>
-Jerzy Radziwilowicz  
-_(Maciej Tomczyk/Mateusz Birkut)_<br>
-
+**Cast**<br>
+Jerzy Radziwilowicz  _(Maciej Tomczyk/Mateusz Birkut)_<br>
 Krystyna Janda _(Agniewszka Tomczyk)_<br>
-
 Marian Opania _(Winkel)_<br>
-
 Irena Byrska _(Anna’s mother)_<br>
-
 Wieslawa Kosmalska _(Anna Hulewicz)_<br>
-
 Boguslaw Linda _(Dzidek)_<br>
-
 Franciszek Trzeciak _(Badecki)_<br>
-
 Janusz Gajos _(2nd man at radio recording)_<br>
-
 Andrzej Seweryn _(Captain Wirski)_<br>
-
 Marek Kondrat _(Grzenda)_<br>
-
 Jerzy Trela _(Antoniak)_<br>
-
 Krzysztof Janczar _(Kryska)_<br>
-
 Krystyna Zachwatowicz-Wajda _(Maciej’s mother)_<br>
-
 Boguslaw Sobczuk _(TV director)_<br>
-
 Wojciech Alaborski _(staff member)_<br>
-
 L. Andrzejewski<br>
-
 A. Barcis<br>
-
 Z. Buczkowski<br>
-
 J. Domanski<br>
-
 B. Dykiel _(section head)_<br>
-
 A. Ferency<br>
-
 A. Gawronski<br>
-
 L. Grzmocinski<br>
-
 T. Gwiazdowski<br>
-
 M. Jarosz<br>
-
 M. Juszczakiewicz<br>
-
 W. Kaluski<br>
-
 J. Kiszkis<br>
-
 M. Komorowska<br>
-
 A. Komornicka<br>
-
 H. Kowalczyk<br>
-
 I. Kownas<br>
-
 J. Kozak-Sutowicz<br>
-
 K. Machowski<br>
-
 M. Michalak<br>
-
 St. Michalski<br>
-
 K. Mielczarek<br>
-
 Z. Mayr<br>
-
 K. Orzechowski<br>
-
 J. Pawlowski<br>
-
 J. Popielarczyk<br>
-
 St. Staniek<br>
-
 T. Sosna-Sarno<br>
-
 L. Soluba<br>
-
 P. Suchora<br>
-
 A. Szejnach<br>
-
 L. Terlecka<br>
-
 M. Tronski-Szalawski<br>
-
 J. Szczepanski<br>
-
 K. Wieczorek<br>
-
 K. Zaleski<br>
-
 J. Zaorski<br>
-
 Halina Labornarska _(doctor in psychiatric hospital)_ *<br>
-
 Lech Walesa, Anna Walentynowicz, Stanislaw J. Borowczak, Zbigniew Lis, Teodor Kudla *<br>
 
 Poland 1981©<br>
-
 152 mins<br>
-
 Digital<br>
 
 *Uncredited
@@ -182,5 +126,5 @@ Digital<br>
 Restored by Yakumama<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDE0NzY2NV19
+eyJoaXN0b3J5IjpbLTY5OTUwMzEwXX0=
 -->
