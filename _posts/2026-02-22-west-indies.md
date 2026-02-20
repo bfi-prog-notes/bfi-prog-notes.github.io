@@ -45,9 +45,10 @@ Gerald Bloncourt _(Monsieur de la Pierre)_
 Mauritania-Algeria-France 1979  
 113 mins  
 Digital (restoration)
-<
+<br><br>
 
 _The World of Black Film: A Journey Through Cinematic Blackness in 100 Films_ by Ashley Clark is available to buy in the BFI Shop
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMTg5ODc4XX0=
+eyJoaXN0b3J5IjpbMTcwNTIwNjQ2NF19
 -->
