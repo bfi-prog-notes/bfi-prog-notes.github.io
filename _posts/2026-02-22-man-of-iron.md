@@ -32,189 +32,155 @@ Wajda has clearly relied on footage from _Workers ’80_, a film made during the
 <br><br>
 
 **Man of Iron** Człowiek z żelaza<br>
-
 _Director:_ Andrzej Wajda<br>
-
 ©: Film Polski<br>
-
-_Production Companies:_ PRF ‘Zespoly Filmowe’,  
-Zespol Filmowy ‘X’<br>
-
+_Production Companies:_ PRF ‘Zespoly Filmowe’,  Zespol Filmowy ‘X’<br>
 _Production Supervisor:_ Henryk Wloch<br>
-
 _Production Manager:_ Barbara Pec-Slesicka<br>
-
-_2nd Unit Production Managers:_  
-Alina Klobukowska, Maciej Wojtulewicz<br>
-
-_Assistant Production Managers:_ Maciej Skalski, Iwona Ziulkowska, Iwona Klapinska,  
-Wanda Helbert, Jacek Górnowicz<br>
-
+_2nd Unit Production Managers:_  Alina Klobukowska, Maciej Wojtulewicz<br>
+_Assistant Production Managers:_ Maciej Skalski, Iwona Ziulkowska, Iwona Klapinska,  Wanda Helbert, Jacek Górnowicz<br>
 _Production Secretary:_ Barbara Fedyniak<br>
-
 _2nd Unit Director:_ Krystyna Grochowicz<br>
-
-_Assistant Directors:_ Andrzej Chodakowski,  
-Stanislaw Kaluzynski, Lukasz Zielinski<br>
-
-_Screenplay:_ Aleksander Scibor-Rylski
-
-_Director of Photography:_ Edward Klosinski
-
-_Camera Operator:_ Janusz Kalincinski
-
-_Camera Assistants:_ Jan Ossowski,  
-Krzysztof Ciesielski, Mieczyslaw Kozaczyk
-
-_Stills Photographer:_ Renata Pajchel
-
-_Editor:_ Halina Prugar
-
-_Art Director:_ Allan Starski
-
-_2nd Unit Art Director:_ Maja Chrolowska
-
-_2nd Unit Assistant Art Director:_ Joanna Lelanow
-
-_Set Decorator:_ Magdalena Dipont
-
-_Assistant Set Decorators:_ Emil Kostecki,  
-Jozef Runo
-
-_Costumes:_ Wieslawa Starska
-
-_Make-up:_ Anna Adamek
-
-_Laboratory:_ Wytwórnia Filmów Dokumentalnych
-
-_Music/Conductor:_ Andrzej Korzynski
-
-_Music Consultant:_ Malgorzata Przedpelska
-
-_Sound:_ Piotr Zawadzki
-
+_Assistant Directors:_ Andrzej Chodakowski,  Stanislaw Kaluzynski, Lukasz Zielinski<br>
+_Screenplay:_ Aleksander Scibor-Rylski<br>
+_Director of Photography:_ Edward Klosinski<br>
+_Camera Operator:_ Janusz Kalincinski<br>
+_Camera Assistants:_ Jan Ossowski,  Krzysztof Ciesielski, Mieczyslaw Kozaczyk<br>
+_Stills Photographer:_ Renata Pajchel<br>
+_Editor:_ Halina Prugar<br>
+_Art Director:_ Allan Starski<br>
+_2nd Unit Art Director:_ Maja Chrolowska<br>
+_2nd Unit Assistant Art Director:_ Joanna Lelanow<br>
+_Set Decorator:_ Magdalena Dipont<br>
+_Assistant Set Decorators:_ Emil Kostecki,  Jozef Runo<br>
+_Costumes:_ Wieslawa Starska<br>
+_Make-up:_ Anna Adamek<br>
+_Laboratory:_ Wytwórnia Filmów Dokumentalnych<br>
+_Music/Conductor:_ Andrzej Korzynski<br>
+_Music Consultant:_ Malgorzata Przedpelska<br>
+_Sound:_ Piotr Zawadzki<br>
 _Studio_: Wytwórnia Filmów Dokumentalnych
 
-_Cast:_
-
+_Cast**<br>
 Jerzy Radziwilowicz  
-_(Maciej Tomczyk/Mateusz Birkut)_
+_(Maciej Tomczyk/Mateusz Birkut)_<br>
 
-Krystyna Janda _(Agniewszka Tomczyk)_
+Krystyna Janda _(Agniewszka Tomczyk)_<br>
 
-Marian Opania _(Winkel)_
+Marian Opania _(Winkel)_<br>
 
-Irena Byrska _(Anna’s mother)_
+Irena Byrska _(Anna’s mother)_<br>
 
-Wieslawa Kosmalska _(Anna Hulewicz)_
+Wieslawa Kosmalska _(Anna Hulewicz)_<br>
 
-Boguslaw Linda _(Dzidek)_
+Boguslaw Linda _(Dzidek)_<br>
 
-Franciszek Trzeciak _(Badecki)_
+Franciszek Trzeciak _(Badecki)_<br>
 
-Janusz Gajos _(2nd man at radio recording)_
+Janusz Gajos _(2nd man at radio recording)_<br>
 
-Andrzej Seweryn _(Captain Wirski)_
+Andrzej Seweryn _(Captain Wirski)_<br>
 
-Marek Kondrat _(Grzenda)_
+Marek Kondrat _(Grzenda)_<br>
 
-Jerzy Trela _(Antoniak)_
+Jerzy Trela _(Antoniak)_<br>
 
-Krzysztof Janczar _(Kryska)_
+Krzysztof Janczar _(Kryska)_<br>
 
-Krystyna Zachwatowicz-Wajda _(Maciej’s mother)_
+Krystyna Zachwatowicz-Wajda _(Maciej’s mother)_<br>
 
-Boguslaw Sobczuk _(TV director)_
+Boguslaw Sobczuk _(TV director)_<br>
 
-Wojciech Alaborski _(staff member)_
+Wojciech Alaborski _(staff member)_<br>
 
-L. Andrzejewski
+L. Andrzejewski<br>
 
-A. Barcis
+A. Barcis<br>
 
-Z. Buczkowski
+Z. Buczkowski<br>
 
-J. Domanski
+J. Domanski<br>
 
-B. Dykiel _(section head)_
+B. Dykiel _(section head)_<br>
 
-A. Ferency
+A. Ferency<br>
 
-A. Gawronski
+A. Gawronski<br>
 
-L. Grzmocinski
+L. Grzmocinski<br>
 
-T. Gwiazdowski
+T. Gwiazdowski<br>
 
-M. Jarosz
+M. Jarosz<br>
 
-M. Juszczakiewicz
+M. Juszczakiewicz<br>
 
-W. Kaluski
+W. Kaluski<br>
 
-J. Kiszkis
+J. Kiszkis<br>
 
-M. Komorowska
+M. Komorowska<br>
 
-A. Komornicka
+A. Komornicka<br>
 
-H. Kowalczyk
+H. Kowalczyk<br>
 
-I. Kownas
+I. Kownas<br>
 
-J. Kozak-Sutowicz
+J. Kozak-Sutowicz<br>
 
-K. Machowski
+K. Machowski<br>
 
-M. Michalak
+M. Michalak<br>
 
-St. Michalski
+St. Michalski<br>
 
-K. Mielczarek
+K. Mielczarek<br>
 
-Z. Mayr
+Z. Mayr<br>
 
-K. Orzechowski
+K. Orzechowski<br>
 
-J. Pawlowski
+J. Pawlowski<br>
 
-J. Popielarczyk
+J. Popielarczyk<br>
 
-St. Staniek
+St. Staniek<br>
 
-T. Sosna-Sarno
+T. Sosna-Sarno<br>
 
-L. Soluba
+L. Soluba<br>
 
-P. Suchora
+P. Suchora<br>
 
-A. Szejnach
+A. Szejnach<br>
 
-L. Terlecka
+L. Terlecka<br>
 
-M. Tronski-Szalawski
+M. Tronski-Szalawski<br>
 
-J. Szczepanski
+J. Szczepanski<br>
 
-K. Wieczorek
+K. Wieczorek<br>
 
-K. Zaleski
+K. Zaleski<br>
 
-J. Zaorski
+J. Zaorski<br>
 
-Halina Labornarska _(doctor in psychiatric hospital)_ *
+Halina Labornarska _(doctor in psychiatric hospital)_ *<br>
 
-Lech Walesa, Anna Walentynowicz, Stanislaw J. Borowczak, Zbigniew Lis, Teodor Kudla *
+Lech Walesa, Anna Walentynowicz, Stanislaw J. Borowczak, Zbigniew Lis, Teodor Kudla *<br>
 
-Poland 1981©
+Poland 1981©<br>
 
-152 mins
+152 mins<br>
 
-Digital
+Digital<br>
 
-* Uncredited
+*Uncredited
 
-Restored by Yakumama
+Restored by Yakumama<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODczMjUyNDRdfQ==
+eyJoaXN0b3J5IjpbLTgzNDE0NzY2NV19
 -->
