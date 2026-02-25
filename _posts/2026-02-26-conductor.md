@@ -20,122 +20,64 @@ Aside from some technical lapses (there’s the odd instance of the scar that co
 <br><br>
 
 **The Conductor** Dyrygent<br>
-
 _Director:_ Andrzej Wajda<br>
-
 ©: Film Polski<br>
-
 _Production Company:_ Zespol Filmowy ‘X’<br>
-
 _Production Co-ordinators:_ Alina Klobukowska, Tomasz Bek, Maciej Skalski, Jolanta Jarzecka, Wanda Helbert<br>
-
 _Production Manager:_ Barbara Pec-Slesicka<br>
-
-_Assistant Directors:_ Jakub Rucinski,
-
-Andrzej Kazanecki, Jolanta Jedynak<br>
-
+_Assistant Directors:_ Jakub Rucinski, Andrzej Kazanecki, Jolanta Jedynak<br>
 _Screenplay:_ Andrzej Kijowski<br>
-
-_Based on stories by/conversations with:_
-
-Andrzej Markowski<br>
-
+_Based on stories by/conversations with:_ Andrzej Markowski<br>
 _Director of Photography:_ Slawomir Idziak<br>
+_Camera Operator:_ Piotr Kwiatkowski<br>
+_Assistant Camera:_ Piotr Stankiewicz,  Jerzy Tomczuk<br>
+_Stills Photographer:_ Renata Pajchel<br>
+_Editor:_ Halina Prugar<br>
+_Assistant Editors:_ Barbara Grodner, Ewa Smal<br>
+_Art Director:_ Allan Starski<br>
+_Assistant Art Directors:_ Maria Lubelska, Joanna Lelanow<br>
+_Assistant Set Decorator:_ Jozef Runo<br>
+_Set Decorator:_ Maria Osiecka-Kuminek<br>
+_Costume Designer:_ Wieslawa Starska<br>
+_Assistant Costume Designer:_ Anna Plochocka<br>
+_Make-up:_ Anna Adamek, Grazyna Dabrowska<br>
+_Laboratory:_  Wytwórnia Filmów Dokumentalnych w Warszawie<br>
+_Music Director:_ Stanislaw Wislocki<br>
+_Music Consultant:_ Malgorzata Jaworska<br>
+_Sound:_ Piotr Zawadzki<br>
+_Assistant Sound:_ Dorota Tucholka, Waclaw Borawski, Stanislaw Hojden<br>
 
-_Camera Operator:_ Piotr Kwiatkowski
+**Cast**<br>
+John Gielgud _(Jan Lasocki)_<br>
+Krystyna Janda _(Marta Pietryk)_<br>
+Andrzej Seweryn _(Adam Pietryk)_<br>
+Jan Ciecierski _(Marta’s father)_<br>
+Tadeusz Czechowski<br>
+Marek Dabrowski<br>
+Józef Fryzlewicz _(town official)_<br>
+Janusz Gajos _(Warsaw dignitary)_<br>
+Stanislaw Górka<br>
+Jerzy Kleyn<br>
+Mary Ann Krasinski _(Marta’s American friend)_<br>
+Anna Lopatowska _(Anna, violinist)_<br>
+Elzbieta Strzalkowska<br>
+Marysia Seweryn _(Marysia, Marta’s daughter)_<br>
+Jerzy Szmidt<br>
+Mewis Walker _(Lilian, Lasocki’s wife)_<br>
+Wojciech Wysocki<br>
+Stanislaw Zatloka<br>
+Orkiestra Symfoniczna Centr<br>
+Zespolu Artystycznego<br>
+Polish Army<br>
 
-_Assistant Camera:_ Piotr Stankiewicz,  
-Jerzy Tomczuk
-
-_Stills Photographer:_ Renata Pajchel
-
-_Editor:_ Halina Prugar
-
-_Assistant Editors:_ Barbara Grodner, Ewa Smal
-
-_Art Director:_ Allan Starski
-
-_Assistant Art Directors:_ Maria Lubelska,
-
-Joanna Lelanow
-
-_Assistant Set Decorator:_ Jozef Runo
-
-_Set Decorator:_ Maria Osiecka-Kuminek
-
-_Costume Designer:_ Wieslawa Starska
-
-_Assistant Costume Designer:_ Anna Plochocka
-
-_Make-up:_ Anna Adamek, Grazyna Dabrowska
-
-_Laboratory:_  
-Wytwórnia Filmów Dokumentalnych w Warszawie
-
-_Music Director:_ Stanislaw Wislocki
-
-_Music Consultant:_ Malgorzata Jaworska
-
-_Sound:_ Piotr Zawadzki
-
-_Assistant Sound:_ Dorota Tucholka,
-
-Waclaw Borawski, Stanislaw Hojden
-
-_Cast:_
-
-John Gielgud _(Jan Lasocki)_
-
-Krystyna Janda _(Marta Pietryk)_
-
-Andrzej Seweryn _(Adam Pietryk)_
-
-Jan Ciecierski _(Marta’s father)_
-
-Tadeusz Czechowski
-
-Marek Dabrowski
-
-Józef Fryzlewicz _(town official)_
-
-Janusz Gajos _(Warsaw dignitary)_
-
-Stanislaw Górka
-
-Jerzy Kleyn
-
-Mary Ann Krasinski _(Marta’s American friend)_
-
-Anna Lopatowska _(Anna, violinist)_
-
-Elzbieta Strzalkowska
-
-Marysia Seweryn _(Marysia, Marta’s daughter)_
-
-Jerzy Szmidt
-
-Mewis Walker _(Lilian, Lasocki’s wife)_
-
-Wojciech Wysocki
-
-Stanislaw Zatloka
-
-Orkiestra Symfoniczna Centr
-
-Zespolu Artystycznego
-
-Polish Army
-
-Poland 1979©
-
-102 mins
-
+Poland 1979©<br>
+102 mins<br>
 Digital (restoration)
 
 Restored by Fixafilm
 
-The screening on Mon 9 Mar will be introduced by film critic and scholar Michał Oleszczyk
+The screening on Mon 9 Mar will be introduced by film critic and scholar Michał Oleszczyk<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3NDQ3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTAyNzc4NTFdfQ==
 -->
