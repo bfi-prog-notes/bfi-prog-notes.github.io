@@ -24,24 +24,21 @@ After some four-and-a-half successful years on air, the programme was brought to
 <br><br>
 
 **Bandung File: Haiti**<br>
-
 Channel 4 1986. Dir Christopher Spencer. 36min. Digital
 
-**Bandung File: Too Many Questions**
-
+**Bandung File: Too Many Questions**<br>
 Channel 4 1985. Dir David Cohen.  
 27min. Digital
 
-**Bandung File: Grunwick Strike**
-
+**Bandung File: Grunwick Strike**<br>
 Channel 4 1987. Dir Christopher Spencer. 38min. Digital
 
-**Bandung File: Smile Jamaica**
-
+**Bandung File: Smile Jamaica**<br>
 UK 1988. Dir Christopher Spencer.  
 52min. Digital
 
 Total running time 163min
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDk0MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE1MTI1MzMwMDVdfQ==
 -->
