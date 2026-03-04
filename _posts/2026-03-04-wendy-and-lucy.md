@@ -8,180 +8,95 @@ Reichardt’s close enough to her character that when Wendy’s car won’t star
 <br><br>
 
 **Wendy and Lucy**<br>
-
 _Directed by:_ Kelly Reichardt<br>
-
 ©: Field Guide Films<br>
-
 _Production Companies:_ Film Science, Glass Eye Pix<br>
-
 _Presented by:_ Oscilloscope Laboratories<br>
-
 _Executive Producers:_ Todd Haynes, Rajen Savjani, Phil Morrison, Joshua Blum<br>
-
 _Produced by:_ Neil Kopp<br>
-
 _Producers:_ Anish Savjani, Larry Fessenden<br>
-
 _Production Supervisor:_ Jeffery P. Harding<br>
-
 _Production Accountant:_ Brett Cranford<br>
-
 _Production Co-ordinator:_ Katy Kolego<br>
-
 _Location Manager:_ Roger Faires<br>
-
 _Post-production Supervisor:_ Kyle Gilman<br>
-
 _1st Assistant Director:_ Gabriel Fleming<br>
-
 _Casting Director:_ Laura Rosenthal<br>
-
 _Casting by:_ Simon Max Hill<br>
-
 _Additional Casting:_ William Bailey<br>
-
 _Screenplay by:_ Jon Raymond, Kelly Reichardt<br>
-
 _From the story by:_ Jon Raymond<br>
-
 _Director of Photography:_ Sam Levy<br>
-
 _Additional Photography:_ Greg Schmitt<br>
-
 _1st Assistant Camera:_ Tg Firestone<br>
-
 _2nd Assistant Camera:_ Eliza Plumlee<br>
-
 _Key Grip:_ Brian Shotzbarger<br>
-
 _Gaffer:_ Efrem Peter<br>
-
 _Still Photographer:_ Simon Max Hill<br>
-
 _After Effects:_ Hive FX, Jim Clark<br>
-
 _Editor:_ Kelly Reichardt<br>
-
-_Assistant Editors:_ Andreas Fehrle,  
-Abbi Jutkowitz, Mike Burchett<br>
-
+_Assistant Editors:_ Andreas Fehrle,  Abbi Jutkowitz, Mike Burchett<br>
 _Production Designer:_ Ryan Smith<br>
-
 _Lead Man:_ Nate Smith<br>
-
 _Wardrobe Designer:_ Amanda Needham<br>
-
 _Wardrobe Assistant:_ Jamie Hanson<br>
-
 _Tattoo Artist:_ Amy Cole<br>
-
 _Hair:_ David Kennedy<br>
-
 _Title Design:_ PLAZM, Joshua Berger, Niko Courtelis<br>
-
 _Film Labs:_ FotoKem<br>
-
 _Video Dailies:_ FotoKem<br>
-
-_Digital Intermediate Facility:_  
-Hollywood Intermediate, Inc<br>
-
+_Digital Intermediate Facility:_  Hollywood Intermediate, Inc<br>
 _Digital Intermediate Colourist:_ Will Harris<br>
-
 _Grocery Store Music:_ Smokey Hormel<br>
-
 _Wendy Theme Music:_ Will Oldham<br>
-
 _Sound Designers:_ Leslie Shatz, Eric Offin<br>
-
 _Location Sound:_ Eric Hill<br>
-
 _Additional Sound Recordist:_ Tyler Stephens<br>
-
 _Rain Recordings:_ Reuben Cox<br>
-
 _Re-recording Mixer:_ Leslie Shatz<br>
-
 _Co Re-recording Mixer:_ Eric Offin<br>
-
 _Re-recording Facility:_ Wildfire Studios<br>
-
 _Sound Editor:_ Javier Bennassar<br>
-
 _ADR Recordist:_ Mark Garcia<br>
-
 _Foley Supervisor:_ Eli Cohn<br>
-
 _Foley Artist:_ Brian Vancho
 
-_Cast:_<br>
-
+**Cast**<br>
 Michelle Williams _(Wendy)_<br>
-
 Walter Dalton _(security guard)_<br>
-
 Larry Fessenden _(man in park)_<br>
-
 Will Oldham _(Icky)_<br>
-
 John Robinson _(Andy)_<br>
-
 Will Patton _(mechanic)_<br>
-
 Lucy the dog _(herself)_<br>
-
-David Koppell, Max Clement, Sid Shanley,  
-Dave Hubner _(kids by fire)_<br>
-
+David Koppell, Max Clement, Sid Shanley,  Dave Hubner _(kids by fire)_<br>
 Michelle Worthy _(Sadie)_<br>
-
 Roger Faires _(recycler in wheelchair)_<br>
-
 Boggs Johnson _(recycling man)_<br>
-
 Tanya Smith _(grocery checker)_<br>
-
 Michael Brophy _(grocery store checker)_<br>
-
 John Breen _(Mr Hunt)_<br>
-
 Deneb Catalan _(male cop)_<br>
-
 Skeeter Green _(female cop)_<br>
-
 Marilyn Hickey _(police administrator)_<br>
-
-Jeanine Jackson, Brenna Beardsley  
-_(grocery cashiers)_<br>
-
+Jeanine Jackson, Brenna Beardsley  _(grocery cashiers)_<br>
 Winfield Jackson, Gabe Nevins, Connor O’Shea, Josh Larsen _(teenagers by car)_<br>
-
 Ayanna Berkshire _(pound employee)_<br>
-
 Dan Wilson _(man on bus)_<br>
-
 Greg Schmitt _(mechanic in garage)_<br>
-
 David Rives Curtright _(man reading book)_<br>
-
 Holly Cundiff _(security guard’s woman)_<br>
-
 James Yu _(cab driver)_<br>
-
 George Haapala _(home owner)_<br>
-
 Deirdre O’Connell _(Deb, phone call voice)_<br>
-
 M. Blash _(Dan, phone call voice)_
 
 USA 2008©<br>
-
 80 mins<br>
-
 Digital
 
-The screening on Wed 4 Mar will be introduced by writer and editor Laura Staab
+The screening on Wed 4 Mar will be introduced by writer and editor Laura Staab<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjgxNTgyOV19
+eyJoaXN0b3J5IjpbNzY4MDkyNTM1XX0=
 -->
