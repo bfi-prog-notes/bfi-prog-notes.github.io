@@ -1,4 +1,3 @@
-<![endif]-->
 
 ‘The thing is, it’s hard for me to analyse what I do because I’m always in the moment and trying to move forward.’ Kathryn Bigelow has come to London by train from Paris, where she was being honoured by the Cinémathèque française. ‘I met Costa-Gavras,’ the Cinémathèque’s president, best known as the director of _Z_ (1969). ‘He’s a hero of mine, and I told him, “You invented the political thriller.” You couldn’t do this movie if it hadn’t been for him.’ ‘This movie’ is _A House of Dynamite_, Bigelow’s first in eight years, and the most sheerly compelling of her career, moving forward with the relentlessness of a rocket.
 
@@ -12,11 +11,77 @@ Still, although _A House of Dynamite_ is highly plausible, and although it is ne
 
 Perversely or otherwise, Bigelow’s films from _Blue Steel_ onwards betray a fascination with the protocols of the straight world alongside the desire for unmediated experience manifested by countercultural figures like _Point Break_’s Bodhi; indeed, some of her most extreme thrill-seekers, such as Jeremy Renner’s character in _The Hurt Locker_, are feeding their need from within the most tightly routinised parts of the machine.
 
-_A House of Dynamite_ may seem some way distant from these concerns, but its characters are the most governed by protocol of any in Bigelow’s career, as well as the most distanced from real, unmediated experience. And by showing the astounding efforts we have collectively made, as a species, to make nuclear annihilation an ever-present possibility, it is also in keeping with the rest of her films in tracing the lineaments of the death drive beneath modern civilisation’s apparently rational surface. Her response to this? ‘I don’t know, it’s a real reach.’
+_A House of Dynamite_ may seem some way distant from these concerns, but its characters are the most governed by protocol of any in Bigelow’s career, as well as the most distanced from real, unmediated experience. And by showing the astounding efforts we have collectively made, as a species, to make nuclear annihilation an ever-present possibility, it is also in keeping with the rest of her films in tracing the lineaments of the death drive beneath modern civilisation’s apparently rational surface. Her response to this? ‘I don’t know, it’s a real reach.’  
+**Henry K. Miller, _Sight and Sound_, December 2025**
+<br><br>
 
-Henry K. Miller, _Sight and Sound_, December 2025
+**A House of Dynamite**  
+_Directed by_: Kathryn Bigelow  
+©: Netflix  
+_Production Companies_: First Light Productions, Kingsgate Films, Prologue Entertainment  
+_Presented by_: Netflix  
+_Executive Producers_: Brian Bell, Sarah Bremner  
+_Produced by_: Greg Shapiro, Kathryn Bigelow,  Noah Oppenheim  
+_Unit Production Manager_: Brian Bell  
+_Financial Controller_: Steve Guilbaud  
+_Supervising Location Manager_: Ryan Smith  
+_Location Manager_: Leila Nurse  
+_Post-production Supervisors_: Luca Borghese,  Luca Borghese  
+_2nd Unit Director_: George Cottle  
+_1st Assistant Director_: Simon Warnock  
+_Casting by_: Susanne Scheel  
+_Written by_: Noah Oppenheim  
+_Director of Photography_: Barry Ackroyd  
+_2nd Unit Directors of Photography_: Eric Moynier, John Garrett  
+_A Camera Operator_: Barry Ackroyd  
+_Stills Photography_: Eros Hoagland  
+_Visual Effects Supervisor_: Chris Harvey  
+_Visual Effects by_: Distillery VFX  
+_Special Effects Supervisor_: Devin Maggio  
+_Edited by_: Kirk Baxter  
+_Production Designer_: Jeremy Hindle  
+_Art Director_: Ann Bartek  
+_Set Decorator_: David Schlesinger  
+_Costume Designer_: Sarah Edwards  
+_Department Head Make-up_: Jackie Risotto  
+_Department Head Hair_: Kerrie Smith  
+_Main and End Titles Designed by_: Teddy Blanks  
+_Finishing Colourist_: Stephen Nakamura  
+_Colour and Finish by_: Company 3  
+_Music by_: Volker Bertelmann  
+_Score Performed by_:  London Contemporary Orchestra  
+_Music Supervisor_: George Drakoulias  
+_Sound Design by_: Paul N.J. Ottosson  
+_Production Sound Mixer_: Thomas Varga  
+_Re-recording Mixer_: Paul N.J. Ottosson  
+_Supervising Sound Editor_: Paul N.J. Ottosson  
+_Stunt Co-ordinators_: George Cottle, Mark Fichera  
+_Thanks_: Roeg Sutherland
 
+**Cast**  
+Idris Elba _(POTUS [US president])_  
+Rebecca Ferguson _(Captain Olivia Walker)_  
+Gabriel Basso _(Deputy National Security Advisor Jake Baerington)_  
+Jared Harris _(Secretary of Defense Reid Baker)_  
+Tracy Letts _(General Anthony Brody)_  
+Anthony Ramos _(Major Daniel Gonzalez)_  
+Moses Ingram _(Cathy Rogers)_  
+Jonah Hauer-King _(Lieutenant Commander Robert Reeves)_  
+Greta Lee _(Anna Park)_  
+Jason Clarke _(Admiral Mark Miller)_  
+Malachi Beasley _(SCPO William Davis)_  
+Brian Tee _(SAIC Ken Cho)_  
+Brittany O’Grady _(Lily Baerington)_  
+Gbenga Akinnagbe _(Major General Steven Kyle)_  
+Willa Fitzgerald _(Abby Jansing)_  
+Renée Elise Goldsberry _(First Lady)_  
+Kyle Allen _(Captain Jon Zimmer)_  
+Kaitlyn Dever _(Caroline Baker)_
 
+USA 2025©  
+112 mins  
+Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUzNjE4NTZdfQ==
+eyJoaXN0b3J5IjpbMTYwNzU4NTExNl19
 -->
