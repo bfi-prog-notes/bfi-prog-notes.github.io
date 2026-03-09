@@ -88,11 +88,10 @@ Lu Yu _(‘Spareribs’)_
 Roger Babb _(Paul)_  
 Saunder Finard _(Elliot)_
 
-USA 1986
-
-93 mins
-
+USA 1986  
+93 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgyNzY4NjZdfQ==
+eyJoaXN0b3J5IjpbNTQxODgzMDE2XX0=
 -->
