@@ -68,167 +68,89 @@ _1989 Restoration_<br>
 _Reconstructed and Restored by:_ Robert A. Harris<br>
 _Restoration Produced by:_ Robert A. Harris,  Jim Painten<br>
 _Editorial Consultant:_ Anne V. Coates<br>
-
 _Sound Consultant:_ Richard L. Anderson<br>
-
 _Re-recording Mixer:_ Gregg Landaker
 
 _uncredited_<br>
-
 _Location Manager:_ Eva Monley<br>
-
 _Production Consultant:_ André de Toth<br>
-
 _Production Representative:_ Mildred McCargar<br>
-
 _Research:_ Marie Budberg<br>
-
 _1st Assistant Director:_ Ted Sturgis<br>
-
-_2nd Assistant Directors:_ David Tringham,
-
-Bryan Coates, Michael Stevenson<br>
-
+_2nd Assistant Directors:_ David Tringham, Bryan Coates, Michael Stevenson<br>
 _Spanish Shoot Assistant Director:_ Otto Plaschkes<br>
-
 _2nd Unit Continuity:_ Lee Turner<br>
-
 _Assistant Editor:_ Howard Kent<br>
-
 _Art Director:_ Ben Rogers<br>
-
-_Assistant Art Directors:_ Wallis Smith,  
-Charles Bishop<br>
-
+_Assistant Art Directors:_ Wallis Smith,  Charles Bishop<br>
 _Production Buyers:_ John Higgs, Edward Rodrigo<br>
-
 _Music Co-ordinator:_ Morris W. Stoloff<br>
-
 _Foley Artist:_ Beryl Mortimer<br>
-
 _Principal Military Adviser:_ L.E.M. Perowne<br>
-
 _Military Adviser:_ Colonel R.C. Hutt<br>
-
 _Liaison Officer:_ Wing Commander Jock Dalgleish<br>
-
 _Aviation Stunts:_ John Crewdson<br>
-
 _Stunt Double – Peter O’Toole:_ John Sullivan<br>
-
 _Dialogue Coach:_ Hugh Miller<br>
-
 _Unit Publicist:_ John Woolfenden<br>
+_Moroccan Studios:_  Andromeda Studios (Ouarzazate, Morocco)
 
-_Moroccan Studios:_  
-Andromeda Studios (Ouarzazate, Morocco)
-
-_Cast:_<br>
-
+**Cast**<br>
 Alec Guinness _(Prince Feisal)_<br>
-
 Anthony Quinn _(Auda Abu Tayi)_<br>
-
 Jack Hawkins _(General Allenby)_<br>
-
 José Ferrer _(Turkish Bey)_<br>
-
 Anthony Quayle _(Colonel Harry Brighton)_<br>
-
 Claude Rains _(Mr Dryden)_<br>
-
 Arthur Kennedy _(Jackson E. Bentley)_<br>
-
 I.S. Johar _(Gasim)_<br>
-
 Gamil Ratib _(Majid)_<br>
-
 Zia Mohyeddin _(Tafas)_<br>
-
 Donald Wolfit _(General Murray)_<br>
-
 Omar Sharif _(Sherif Ali ibn el Kharish)_<br>
-
 Peter O’Toole _(T.E. Lawrence)_<br>
-
 Michel Ray _(Farraj)_<br>
-
 John Dimech _(Daud)_<br>
-
 Howard Marion Crawford _(medical officer)_<br>
-
 Jack Gwillim _(club secretary)_<br>
-
 Hugh Miller _(R.A.M.C. colonel)_
 
 _uncredited_<br>
-
 Noel Howlett _(vicar at St Paul’s)_<br>
-
 Jack Hedley _(reporter at St Paul’s)_<br>
-
 Ian MacNaughton _(Corporal Hartley, map room)_<br>
-
 Harry Fowler _(Corporal William Potter, map room)_<br>
-
 John Barry _(MP, map room)_<br>
-
 Bruce Beeby _(captain, officers’ club)_<br>
-
 Patrick Kavanagh _(staff-major, Murray’s aide)_<br>
-
 Norman Rossington _(Corporal Jenkins)_<br>
-
 Henry Oscar _(Selim, Koran reciter)_<br>
-
 John Ruddock _(elder Harith)_<br>
-
 Kamal Rashid _(Auda’s son)_<br>
-
 David Lean _(voice of motorcyclist, Suez Canal)_<br>
-
 Roy Stevens _(driver, Cairo)_<br>
-
 Fred Bennett _(sergeant, Cairo)_<br>
-
 Peter Dukelow _(driver, Cairo)_<br>
-
 Cyril Shaps _(bartender, officers’ club)_<br>
-
 Daniel Moynihan _(officer, officers’ club)_<br>
-
 Fernando Sancho _(Turkish sergeant)_<br>
-
 Clive Morton _(artillery general, field briefing)_<br>
-
 John Robinson _(infantry general, field briefing)_<br>
-
 Basil Dignam _(cavalry general, field briefing)_<br>
-
 Mohammed Habachi _(Talal)_<br>
-
 Cher Kaoiu _(Khitan of Aleppo)_<br>
-
 Kenneth Fortescue _(Tracey, Allenby’s ADC)_<br>
-
 Peter Burton _(sheik, Arab Council)_<br>
-
 Bryan Pringle _(driver, end sequence)_<br>
-
 Stuart Saunders _(regimental sergeant major)_<br>
-
 Barry Warren _(2 British officers/Arab sheik)_<br>
-
 Robert Bolt _(soldier with pipe, officer’s club)_<br>
-
 John Bennett
 
 UK 1962©<br>
-
 222 mins + play-in music and interval<br>
-
 Digital 4K<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjI5ODc1XX0=
+eyJoaXN0b3J5IjpbLTc5MTIwMTk0OV19
 -->
