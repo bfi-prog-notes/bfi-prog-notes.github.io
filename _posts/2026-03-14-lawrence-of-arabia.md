@@ -1,3 +1,14 @@
+---
+layout: post
+title: Lawrence of Arabia
+published: true
+date: 2026-03-14
+readtime: true
+categories: ['BFI Member Poll']
+tags: [Adventure, Biopic, Period]
+metadata: 'UK 1962, 222 mins<br> Director: David Lean'
+pdf: '2026-03-14-lawrence-of-arabia.pdf'
+---
 
 On Monday 10 December 1962, at the Odeon Leicester Square, filmgoers first watched Colonel T.E. Lawrence blow out a half-spent match and instantly transform the screen into a blazing red Arabian dawn. It was the royal premiere of David Lean’s _Lawrence of Arabia_. Present were director Lean and producer Sam Spiegel (the team behind the Oscar-winning _The Bridge on the River Kwai_, 1957). Present too were Queen Elizabeth II and her husband the Duke of Edinburgh. Almost not present at all was the film itself.
 
@@ -151,6 +162,27 @@ UK 1962©<br>
 222 mins + play-in music and interval<br>
 Digital 4K<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc5MTIwMTk0OV19
 -->
