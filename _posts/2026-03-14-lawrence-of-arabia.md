@@ -28,84 +28,45 @@ Good flick.
 <br><br>
 
 **Lawrence of Arabia**<br>
-
 _Directed by:_ David Lean<br>
-
 ©_/Production Company:_ Horizon Pictures (G.B.)<br>
-
 _Produced by:_ Sam Spiegel<br>
-
 _Production Manager:_ John Palmer<br>
-
 _Location Manager:_ Douglas Twiddy<br>
-
 _2nd Unit Directors:_ Andre Smagghe, Noel Howard<br>
-
 _Assistant Director:_ Roy Stevens<br>
-
 _Continuity:_ Barbara Cole<br>
-
 _Casting Director:_ Maude Spector<br>
-
 _Screenplay by:_ Robert Bolt, Michael Wilson<br>
-
 _Director of Photography:_ F.A. Young<br>
-
 _2nd Unit Photography:_ Skeets Kelly, Nicolas Roeg, Peter Newbrook<br>
-
 _Camera Operator:_ Ernest Day<br>
-
 _Chief Electrician:_ Archie Dansie<br>
-
 _Special Effects:_ Cliff Richardson<br>
-
 _Editor:_ Anne V. Coates<br>
-
 _Production Designed by:_ John Box<br>
-
 _Art Director:_ John Stoll<br>
-
 _Assistant Art Directors:_ R. Rossotti, G. Richardson, T. Marsh, A. Rimmington<br>
-
 _Set Dresser:_ Dario Simoni<br>
-
 _Property Master:_ Eddie Fowlie<br>
-
 _Construction Manager:_ Peter Dukelow<br>
-
 _Construction Assistant:_ Fred Bennett<br>
-
 _Costume Designer:_ Phyllis Dalton<br>
-
 _Wardrobe:_ John Wilson-Apperson<br>
-
 _Make-up:_ Charles Parker<br>
-
 _Hairdresser:_ A.G. Scott<br>
-
 _Music Composed by:_ Maurice Jarre<br>
-
 _Played by:_ The London Philharmonic Orchestra<br>
-
 _Conductor:_ Sir Adrian Boult<br>
-
 _Orchestrations:_ Gérard Schurmann<br>
-
 _Sound Recording:_ Paddy Cunningham<br>
-
 _Sound Dubbing:_ John Cox<br>
-
 _Sound Editor:_ Winston Ryder<br>
-
 _Studio:_ Shepperton Studios
 
 _1989 Restoration_<br>
-
 _Reconstructed and Restored by:_ Robert A. Harris<br>
-
-_Restoration Produced by:_ Robert A. Harris,  
-Jim Painten<br>
-
+_Restoration Produced by:_ Robert A. Harris,  Jim Painten<br>
 _Editorial Consultant:_ Anne V. Coates<br>
 
 _Sound Consultant:_ Richard L. Anderson<br>
@@ -149,124 +110,125 @@ _Principal Military Adviser:_ L.E.M. Perowne<br>
 
 _Military Adviser:_ Colonel R.C. Hutt<br>
 
-_Liaison Officer:_ Wing Commander Jock Dalgleish
+_Liaison Officer:_ Wing Commander Jock Dalgleish<br>
 
-_Aviation Stunts:_ John Crewdson
+_Aviation Stunts:_ John Crewdson<br>
 
-_Stunt Double – Peter O’Toole:_ John Sullivan
+_Stunt Double – Peter O’Toole:_ John Sullivan<br>
 
-_Dialogue Coach:_ Hugh Miller
+_Dialogue Coach:_ Hugh Miller<br>
 
-_Unit Publicist:_ John Woolfenden
+_Unit Publicist:_ John Woolfenden<br>
 
 _Moroccan Studios:_  
 Andromeda Studios (Ouarzazate, Morocco)
 
-_Cast:_
+_Cast:_<br>
 
-Alec Guinness _(Prince Feisal)_
+Alec Guinness _(Prince Feisal)_<br>
 
-Anthony Quinn _(Auda Abu Tayi)_
+Anthony Quinn _(Auda Abu Tayi)_<br>
 
-Jack Hawkins _(General Allenby)_
+Jack Hawkins _(General Allenby)_<br>
 
-José Ferrer _(Turkish Bey)_
+José Ferrer _(Turkish Bey)_<br>
 
-Anthony Quayle _(Colonel Harry Brighton)_
+Anthony Quayle _(Colonel Harry Brighton)_<br>
 
-Claude Rains _(Mr Dryden)_
+Claude Rains _(Mr Dryden)_<br>
 
-Arthur Kennedy _(Jackson E. Bentley)_
+Arthur Kennedy _(Jackson E. Bentley)_<br>
 
-I.S. Johar _(Gasim)_
+I.S. Johar _(Gasim)_<br>
 
-Gamil Ratib _(Majid)_
+Gamil Ratib _(Majid)_<br>
 
-Zia Mohyeddin _(Tafas)_
+Zia Mohyeddin _(Tafas)_<br>
 
-Donald Wolfit _(General Murray)_
+Donald Wolfit _(General Murray)_<br>
 
-Omar Sharif _(Sherif Ali ibn el Kharish)_
+Omar Sharif _(Sherif Ali ibn el Kharish)_<br>
 
-Peter O’Toole _(T.E. Lawrence)_
+Peter O’Toole _(T.E. Lawrence)_<br>
 
-Michel Ray _(Farraj)_
+Michel Ray _(Farraj)_<br>
 
-John Dimech _(Daud)_
+John Dimech _(Daud)_<br>
 
-Howard Marion Crawford _(medical officer)_
+Howard Marion Crawford _(medical officer)_<br>
 
-Jack Gwillim _(club secretary)_
+Jack Gwillim _(club secretary)_<br>
 
 Hugh Miller _(R.A.M.C. colonel)_
 
-_uncredited_
+_uncredited_<br>
 
-Noel Howlett _(vicar at St Paul’s)_
+Noel Howlett _(vicar at St Paul’s)_<br>
 
-Jack Hedley _(reporter at St Paul’s)_
+Jack Hedley _(reporter at St Paul’s)_<br>
 
-Ian MacNaughton _(Corporal Hartley, map room)_
+Ian MacNaughton _(Corporal Hartley, map room)_<br>
 
-Harry Fowler _(Corporal William Potter, map room)_
+Harry Fowler _(Corporal William Potter, map room)_<br>
 
-John Barry _(MP, map room)_
+John Barry _(MP, map room)_<br>
 
-Bruce Beeby _(captain, officers’ club)_
+Bruce Beeby _(captain, officers’ club)_<br>
 
-Patrick Kavanagh _(staff-major, Murray’s aide)_
+Patrick Kavanagh _(staff-major, Murray’s aide)_<br>
 
-Norman Rossington _(Corporal Jenkins)_
+Norman Rossington _(Corporal Jenkins)_<br>
 
-Henry Oscar _(Selim, Koran reciter)_
+Henry Oscar _(Selim, Koran reciter)_<br>
 
-John Ruddock _(elder Harith)_
+John Ruddock _(elder Harith)_<br>
 
-Kamal Rashid _(Auda’s son)_
+Kamal Rashid _(Auda’s son)_<br>
 
-David Lean _(voice of motorcyclist, Suez Canal)_
+David Lean _(voice of motorcyclist, Suez Canal)_<br>
 
-Roy Stevens _(driver, Cairo)_
+Roy Stevens _(driver, Cairo)_<br>
 
-Fred Bennett _(sergeant, Cairo)_
+Fred Bennett _(sergeant, Cairo)_<br>
 
-Peter Dukelow _(driver, Cairo)_
+Peter Dukelow _(driver, Cairo)_<br>
 
-Cyril Shaps _(bartender, officers’ club)_
+Cyril Shaps _(bartender, officers’ club)_<br>
 
-Daniel Moynihan _(officer, officers’ club)_
+Daniel Moynihan _(officer, officers’ club)_<br>
 
-Fernando Sancho _(Turkish sergeant)_
+Fernando Sancho _(Turkish sergeant)_<br>
 
-Clive Morton _(artillery general, field briefing)_
+Clive Morton _(artillery general, field briefing)_<br>
 
-John Robinson _(infantry general, field briefing)_
+John Robinson _(infantry general, field briefing)_<br>
 
-Basil Dignam _(cavalry general, field briefing)_
+Basil Dignam _(cavalry general, field briefing)_<br>
 
-Mohammed Habachi _(Talal)_
+Mohammed Habachi _(Talal)_<br>
 
-Cher Kaoiu _(Khitan of Aleppo)_
+Cher Kaoiu _(Khitan of Aleppo)_<br>
 
-Kenneth Fortescue _(Tracey, Allenby’s ADC)_
+Kenneth Fortescue _(Tracey, Allenby’s ADC)_<br>
 
-Peter Burton _(sheik, Arab Council)_
+Peter Burton _(sheik, Arab Council)_<br>
 
-Bryan Pringle _(driver, end sequence)_
+Bryan Pringle _(driver, end sequence)_<br>
 
-Stuart Saunders _(regimental sergeant major)_
+Stuart Saunders _(regimental sergeant major)_<br>
 
-Barry Warren _(2 British officers/Arab sheik)_
+Barry Warren _(2 British officers/Arab sheik)_<br>
 
-Robert Bolt _(soldier with pipe, officer’s club)_
+Robert Bolt _(soldier with pipe, officer’s club)_<br>
 
 John Bennett
 
-UK 1962©
+UK 1962©<br>
 
-222 mins + play-in music and interval
+222 mins + play-in music and interval<br>
 
-Digital 4K
+Digital 4K<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwNDEyMzddfQ==
+eyJoaXN0b3J5IjpbNDczNjI5ODc1XX0=
 -->
