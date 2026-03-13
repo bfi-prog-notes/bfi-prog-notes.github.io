@@ -1,1 +1,272 @@
 
+On Monday 10 December 1962, at the Odeon Leicester Square, filmgoers first watched Colonel T.E. Lawrence blow out a half-spent match and instantly transform the screen into a blazing red Arabian dawn. It was the royal premiere of David Lean’s _Lawrence of Arabia_. Present were director Lean and producer Sam Spiegel (the team behind the Oscar-winning _The Bridge on the River Kwai_, 1957). Present too were Queen Elizabeth II and her husband the Duke of Edinburgh. Almost not present at all was the film itself.
+
+Two nights earlier, the expensive 70mm print had got scratched. There were only two such prints in existence, and the other was under lock and key at London Airport (today’s Heathrow), standing by to fly off to New York. Lean’s editor, Anne V. Coates, found herself speeding down to the airport to retrieve the New York print in order to save the world premiere.
+
+Coates had spent four months editing the film with Lean, leaving composer Maurice Jarre just six weeks to write and record the orchestral score for the three hour 42-minute film. This schedule left Jarre catching just two or three hours’ sleep a night. After three years in the writing, shooting and editing, the film remained something of an enigma; by the night of the premiere, even Lean himself had only seen the finished version in two halves the wrong way round.
+
+A lucky few had seen it. The day before the premiere, two crew screenings were held. Twice that Sunday, dazed crew members emerged, spellbound and staggering, from the scorching deserts of Arabia into the cold West End air. Among them was Anne Coates. Lean soon telephoned her to check that the film looked and sounded as it should. It was, she assured him, ‘just fantastic’.
+
+On the Monday of the premiere, the royal party travelled through the freezing fog then plaguing London, to be greeted at the Odeon by Spiegel, who escorted them along a line-up of cast and crew dressed in white tie. Spiegel was sorry to see Omar Sharif present; in his determination to maximise press attention on his proud new find Peter O’Toole, Spiegel had wanted the Egyptian star to stay away from the premiere, but Sharif proved unstoppable, and his presence only added to the rapture of the press coverage.
+
+Lean was sporting the CBE which the Queen had given him nine years earlier (while he was filming _Hobson’s Choice_).
+
+‘Good flick?’ the Duke of Edinburgh asked Lean. Lean politely replied that he hoped so, and, though he realised the Duke had meant no offence, inwardly he bridled at the jovial term ‘flick’. The British Establishment’s attitude toward cinema as rather mindless entertainment was a live issue for Lean. Indeed, his own father had decided not to attend the premiere, finding the journey in to London too much trouble for a film.
+
+The audience took their places and so began the overture’s unsettling, bellicose percussion crashes. When the film began, the audience, accustomed to black and white television and grainy newspaper photographs, were soon ineffably transported by the succession of enthralling 70mm Technicolor images: a shimmering mirage charging through waves of heat to take the form of a rifle-bearing Arab rider; a boy being convincingly, horrifically, swallowed into quicksand; an ocean liner sailing, as plain as day, through desert dunes. Such splendour, in such rich detail, was new.
+
+Also new was the film’s dark approach to biopic. _Lawrence_ told of a young British soldier sent, in the First World War, to unite the Arab tribes in battle against their Turkish invaders. During his unlikely mission, Lawrence becomes something he doesn’t like, his self-image careening from mythical miracle worker to vulnerable, murderous fraud, while his humanity is played like a keyboard by his military and political superiors for their own (not Arabia’s) gain. Not all Spiegel’s publicity was as high-minded as the literate screenplay however; in one instance a real camel was photographed enjoying the film in a cinema in Sutton.
+
+Lean was urged to shorten the film, and after the premiere he reluctantly agreed to cut out around 20 minutes (though the longer version continued to play in Leicester Square). Not until 1989 was the film restored to its original form, and its triumphant rerelease brought a new wave of interest in  
+Lean’s work.
+
+Critic Dilys Powell thought the horse train ambush scene stood comparison with Homer. Noël Coward, at the premiere’s after-party at Grosvenor House, said that had O’Toole been any prettier, the film would have had to be renamed _Florence of Arabia_. Lean and Spiegel sensed that they had topped _Kwai_. By common consent, they appeared to have made a masterpiece. Lawrence went on to become the number two box office hit of its year (pipped by the gimmicky _How the West Was Won_). It won seven Academy Awards and became a regular fixture in critics’ lists of the world’s ‘greatest films’.
+
+Good flick.
+
+**Patrick Fahy, bfi.org.uk**
+<br><br>
+
+**Lawrence of Arabia**<br>
+
+_Directed by:_ David Lean<br>
+
+©_/Production Company:_ Horizon Pictures (G.B.)<br>
+
+_Produced by:_ Sam Spiegel<br>
+
+_Production Manager:_ John Palmer<br>
+
+_Location Manager:_ Douglas Twiddy<br>
+
+_2nd Unit Directors:_ Andre Smagghe, Noel Howard<br>
+
+_Assistant Director:_ Roy Stevens<br>
+
+_Continuity:_ Barbara Cole<br>
+
+_Casting Director:_ Maude Spector<br>
+
+_Screenplay by:_ Robert Bolt, Michael Wilson<br>
+
+_Director of Photography:_ F.A. Young<br>
+
+_2nd Unit Photography:_ Skeets Kelly, Nicolas Roeg, Peter Newbrook<br>
+
+_Camera Operator:_ Ernest Day<br>
+
+_Chief Electrician:_ Archie Dansie<br>
+
+_Special Effects:_ Cliff Richardson<br>
+
+_Editor:_ Anne V. Coates<br>
+
+_Production Designed by:_ John Box<br>
+
+_Art Director:_ John Stoll<br>
+
+_Assistant Art Directors:_ R. Rossotti, G. Richardson, T. Marsh, A. Rimmington<br>
+
+_Set Dresser:_ Dario Simoni<br>
+
+_Property Master:_ Eddie Fowlie<br>
+
+_Construction Manager:_ Peter Dukelow<br>
+
+_Construction Assistant:_ Fred Bennett<br>
+
+_Costume Designer:_ Phyllis Dalton<br>
+
+_Wardrobe:_ John Wilson-Apperson<br>
+
+_Make-up:_ Charles Parker<br>
+
+_Hairdresser:_ A.G. Scott<br>
+
+_Music Composed by:_ Maurice Jarre<br>
+
+_Played by:_ The London Philharmonic Orchestra<br>
+
+_Conductor:_ Sir Adrian Boult<br>
+
+_Orchestrations:_ Gérard Schurmann<br>
+
+_Sound Recording:_ Paddy Cunningham<br>
+
+_Sound Dubbing:_ John Cox<br>
+
+_Sound Editor:_ Winston Ryder<br>
+
+_Studio:_ Shepperton Studios
+
+_1989 Restoration_<br>
+
+_Reconstructed and Restored by:_ Robert A. Harris<br>
+
+_Restoration Produced by:_ Robert A. Harris,  
+Jim Painten<br>
+
+_Editorial Consultant:_ Anne V. Coates<br>
+
+_Sound Consultant:_ Richard L. Anderson<br>
+
+_Re-recording Mixer:_ Gregg Landaker
+
+_uncredited_<br>
+
+_Location Manager:_ Eva Monley<br>
+
+_Production Consultant:_ André de Toth<br>
+
+_Production Representative:_ Mildred McCargar<br>
+
+_Research:_ Marie Budberg<br>
+
+_1st Assistant Director:_ Ted Sturgis<br>
+
+_2nd Assistant Directors:_ David Tringham,
+
+Bryan Coates, Michael Stevenson<br>
+
+_Spanish Shoot Assistant Director:_ Otto Plaschkes<br>
+
+_2nd Unit Continuity:_ Lee Turner<br>
+
+_Assistant Editor:_ Howard Kent<br>
+
+_Art Director:_ Ben Rogers<br>
+
+_Assistant Art Directors:_ Wallis Smith,  
+Charles Bishop<br>
+
+_Production Buyers:_ John Higgs, Edward Rodrigo<br>
+
+_Music Co-ordinator:_ Morris W. Stoloff<br>
+
+_Foley Artist:_ Beryl Mortimer<br>
+
+_Principal Military Adviser:_ L.E.M. Perowne<br>
+
+_Military Adviser:_ Colonel R.C. Hutt<br>
+
+_Liaison Officer:_ Wing Commander Jock Dalgleish
+
+_Aviation Stunts:_ John Crewdson
+
+_Stunt Double – Peter O’Toole:_ John Sullivan
+
+_Dialogue Coach:_ Hugh Miller
+
+_Unit Publicist:_ John Woolfenden
+
+_Moroccan Studios:_  
+Andromeda Studios (Ouarzazate, Morocco)
+
+_Cast:_
+
+Alec Guinness _(Prince Feisal)_
+
+Anthony Quinn _(Auda Abu Tayi)_
+
+Jack Hawkins _(General Allenby)_
+
+José Ferrer _(Turkish Bey)_
+
+Anthony Quayle _(Colonel Harry Brighton)_
+
+Claude Rains _(Mr Dryden)_
+
+Arthur Kennedy _(Jackson E. Bentley)_
+
+I.S. Johar _(Gasim)_
+
+Gamil Ratib _(Majid)_
+
+Zia Mohyeddin _(Tafas)_
+
+Donald Wolfit _(General Murray)_
+
+Omar Sharif _(Sherif Ali ibn el Kharish)_
+
+Peter O’Toole _(T.E. Lawrence)_
+
+Michel Ray _(Farraj)_
+
+John Dimech _(Daud)_
+
+Howard Marion Crawford _(medical officer)_
+
+Jack Gwillim _(club secretary)_
+
+Hugh Miller _(R.A.M.C. colonel)_
+
+_uncredited_
+
+Noel Howlett _(vicar at St Paul’s)_
+
+Jack Hedley _(reporter at St Paul’s)_
+
+Ian MacNaughton _(Corporal Hartley, map room)_
+
+Harry Fowler _(Corporal William Potter, map room)_
+
+John Barry _(MP, map room)_
+
+Bruce Beeby _(captain, officers’ club)_
+
+Patrick Kavanagh _(staff-major, Murray’s aide)_
+
+Norman Rossington _(Corporal Jenkins)_
+
+Henry Oscar _(Selim, Koran reciter)_
+
+John Ruddock _(elder Harith)_
+
+Kamal Rashid _(Auda’s son)_
+
+David Lean _(voice of motorcyclist, Suez Canal)_
+
+Roy Stevens _(driver, Cairo)_
+
+Fred Bennett _(sergeant, Cairo)_
+
+Peter Dukelow _(driver, Cairo)_
+
+Cyril Shaps _(bartender, officers’ club)_
+
+Daniel Moynihan _(officer, officers’ club)_
+
+Fernando Sancho _(Turkish sergeant)_
+
+Clive Morton _(artillery general, field briefing)_
+
+John Robinson _(infantry general, field briefing)_
+
+Basil Dignam _(cavalry general, field briefing)_
+
+Mohammed Habachi _(Talal)_
+
+Cher Kaoiu _(Khitan of Aleppo)_
+
+Kenneth Fortescue _(Tracey, Allenby’s ADC)_
+
+Peter Burton _(sheik, Arab Council)_
+
+Bryan Pringle _(driver, end sequence)_
+
+Stuart Saunders _(regimental sergeant major)_
+
+Barry Warren _(2 British officers/Arab sheik)_
+
+Robert Bolt _(soldier with pipe, officer’s club)_
+
+John Bennett
+
+UK 1962©
+
+222 mins + play-in music and interval
+
+Digital 4K
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMDAwNDEyMzddfQ==
+-->
