@@ -54,11 +54,7 @@ Harold Beaulieu, Cynthia Jenkins, Jack London, Rob Lewine _(militants, desert gr
 Danny Conlon, Wally McKay, Cliff Pinard, Don Vann, Charlie Wyatt _(National Guardsmen)_  
 Sandy Cox _(stenographer)_  
 Val Daniels, Harlen Green _(county sheriffs)_  
-Roland Gonzalez, Jack Gozdick, Brian Hart,
-
-Linda Mandel, Don Pino, Jason Sunners,
-
-Conchita Thornton _(semi-militants, desert group)_  
+Roland Gonzalez, Jack Gozdick, Brian Hart, Linda Mandel, Don Pino, Jason Sunners, Conchita Thornton _(semi-militants, desert group)_  
 Rodger Greene _(federal marshal)_  
 Mitchell Harding, Mike Hodel _(newscasters)_  
 Joe Hudgins _(chief tribunal marshal)_  
@@ -67,8 +63,7 @@ Mark Keats _(Chairman Hoeger)_
 Tom Kemp, Harry McKasson _(tribunal marshals)_  
 Mary Ellen Kleinhall _(Allison Mitchner)_  
 Lee Marks _(FBI Agent Donovan)_  
-Ted Martin, Harold Schneider_  
-(pacifists, desert group)_  
+Ted Martin, Harold Schneider _(pacifists, desert group)_  
 Patrick Noland _(defendant)_  
 Katherine Quittner _(Nancy Smith)_  
 Sigmund Rich _(Professor Hazlett)_  
@@ -77,11 +72,10 @@ Norman Sinclair _(Mr Sully)_
 Scott Turner _(Janus Kohler)_  
 Dennis Wilson _(deputy)_
 
-USA 1971
-
-89 mins
-
+USA 1971  
+89 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NTY0OTg2XX0=
+eyJoaXN0b3J5IjpbLTgwNzc2Njg5Ml19
 -->
