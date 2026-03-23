@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Cars That Ate Paris
+published: true
+date: 2026-03-30
+readtime: true
+categories: ['Finding Your Way<br>The Films of Peter Weir']
+tags: [Horror, Comedy]
+metadata: 'Australia 1974, 88 mins<br> Director: Peter Weir'
+pdf: '2026-03-30-cars-that-ate-paris.pdf'
+---
 
 **Contemporary reviews**  
 Paris, Australia, that is: a small collection of shabby houses with a ministering church and hospital, somewhere amongst the scrubwood and winding roads of the outback. Once it saw a gold rush; now it sees no one but its own dwindling inhabitants and the occasional motorist, lured there by the copious road signs. George and Arthur Waldo are among those lured: their car crashes; George is killed and Arthur recovers in hospital, alongside victims of similar accidents. After this, he doesn’t feel much like driving a car and wanders about in a daze, forced to stay put in a community which gets more sinister day by day. Gradually it appears that the dying town is in the cliched position of living off the refuse of a materialistic society – symbolised in this instance by the automobile (the accidents are planned, the cars and victims then looted). But the obviousness of its theme has little adverse effect on the success of _The Cars That Ate Paris_, a grotesque and engaging horror-comedy and a fine feature debut by the Australian Peter Weir.
@@ -86,7 +97,34 @@ Digital 4K (remaster)
 Digitally remastered by the  National Film and Sound Archive of Australia
 
 *Uncredited
+<br>
+
+**With thanks to**  
+Peter and Ingrid Weir
+
+_The Cars That Ate Paris_ and _The Plumber_ will be released on BFI Blu-ray on 25 May
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwNDA3NTgwNDddfQ==
 -->
