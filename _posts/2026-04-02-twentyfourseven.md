@@ -123,12 +123,13 @@ Dave Miller _(Phil ‘The Animal’ Yates)_
 Ginger Keane _(Stephen S. Stephenson Jr)_  
 
 UK 1997©  
-96 mins
+96 mins  
 Digital (remaster)
 
 Remastered by the BFI
 
 The screening on Tue 21 Apr will include a Q&A with director Shane Meadows
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwODk4MzcxXX0=
+eyJoaXN0b3J5IjpbMTYzOTA2MjYwNV19
 -->
