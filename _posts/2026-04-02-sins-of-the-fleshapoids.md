@@ -1,3 +1,14 @@
+---
+layout: post
+title: Sins of the Fleshapoids
+published: true
+date: 2026-04-02
+readtime: true
+categories: ['Trash! The Wildest Films You’ve Ever Seen']
+tags: [Sci-Fi]
+metadata: 'USA 1965, 97 mins<br> Director: Mike Kuchar'
+pdf: '2026-04-02-sins-of-the-fleshapoids.pdf'
+---
 
 One million years into the future, human-looking androids known as Fleshapoids break into revolt when their masters become too lazy to service their needs and desires. A whole other universe is uncovered in Mike Kuchar’s status quo-busting, new-love seeking, unbounded, camp, sci-fi, midnight movie success. John Waters said of the film, it ‘really shows what an underground movie was’.  
 **bfi.org.uk**
@@ -28,6 +39,27 @@ USA 1965<br>
 97 mins<br>
 16mm<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzYyMjkxNzAzXX0=
 -->
