@@ -15,109 +15,60 @@ In many ways a document of the death of the 60s, _Multiple Maniacs_ also kicksta
 
 **Multiple Maniacs**  
 _Directed by_: John Waters<br>
-
 ©: John Waters<br>
-
 Dreamland Studios _present_<br>
-
 _a_ Dreamland _production_<br>
-
 _Produced by_: John Waters<br>
-
-_Production Assistance_: David Lochary,
-
-Howard Gruber, Bob Skidmore, Mink Stole,  
-Jack Walsh<br>
-
+_Production Assistance_: David Lochary, Howard Gruber, Bob Skidmore, Mink Stole,  Jack Walsh<br>
 _Written by_: John Waters<br>
-
 _Director of Photography_: John Waters *<br>
-
 _Stills Photography_: Lawrence Irvine<br>
-
 _Lobstora by_: Vince Peranio<br>
-
 _Edited by_: John Waters
 
-_Cast:_<br>
-
+**Cast**<br>
 Divine<br>
-
 David Lochary<br>
-
 Mary Vivian Pearce<br>
-
 Mink Stole<br>
-
 Cookie Mueller<br>
-
 Edith Massey<br>
-
 Susan Lowe<br>
-
 Rick Morrow<br>
-
 Howard Gruber<br>
-
 Paul Swift<br>
-
 Vince Peranio<br>
-
 Jim Thompson<br>
-
 Dee Vitolo<br>
-
-Ed Peranio
-
-Bob Skidmore
-
-Margie Skidmore
-
-Jack Walsh
-
-Susan Walsh
-
-Gilbert McGill
-
-Pat Moran
-
-Paul Landis
-
-Mark Lazarus
-
-Harvey Freed
-
-Suzie Nichols
-
-Steve Waters
-
-Julia Richardson
-
-Will Cullen
-
-Jack Roberts
-
-Mark Isherwood
-
-Berenica Cipcus
-
-Hawley Peterson
-
-Tom Wells
-
-Michael Renner
-
-Cowboy
-
+Ed Peranio<br>
+Bob Skidmore<br>
+Margie Skidmore<br>
+Jack Walsh<br>
+Susan Walsh<br>
+Gilbert McGill<br>
+Pat Moran<br>
+Paul Landis<br>
+Mark Lazarus<br>
+Harvey Freed<br>
+Suzie Nichols<br>
+Steve Waters<br>
+Julia Richardson<br>
+Will Cullen<br>
+Jack Roberts<br>
+Mark Isherwood<br>
+Berenica Cipcus<br>
+Hawley Peterson<br>
+Tom Wells<br>
+Michael Renner<br>
+Cowboy<br>
 George Figgs (_Jesus Christ_)
 
-USA 1970
+USA 1970<br>
+91 mins<br>
+Digital<br>
 
-91 mins
-
-Digital
-
-* Uncredited
+*Uncredited<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjYzNTgxMV19
+eyJoaXN0b3J5IjpbLTExMTQyMjE4MjFdfQ==
 -->
