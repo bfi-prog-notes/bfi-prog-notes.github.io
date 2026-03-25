@@ -110,44 +110,31 @@ Jay Saiter, Tony Todd _(policemen at Truman's house)_
 Marco Rubeo _(man in Christmas box)_  
 Daryl Davis, Robert Davis _(couple at picnic table)_  
 R.J. Murdock _(production assistant)_  
-Matthew McDonough, Larry McDowell
-
-_(men at newstand)_  
+Matthew McDonough, Larry McDowell _(men at newstand)_  
 Joseph Lucus _(ticket taker)_  
-Logan Kirksey _(TV host)_
-
+Logan Kirksey _(TV host)_  
 _Christof's World_  
 Ed Harris _(Christof)_  
-Paul Giamatti, Adam Tomei
-
-_(control room directors)_  
+Paul Giamatti, Adam Tomei _(control room directors)_  
 Harry Shearer _(Mike Michaelson)_  
 Una Damon _(Chloe)_  
-Philip Baker Hall, John Pleshette
-
-_(network executives)_  
-Philip Glass, John Pramik _(keyboard artists)_
-
+Philip Baker Hall, John Pleshette _(network executives)_  
+Philip Glass, John Pramik _(keyboard artists)_  
 _The Viewers_  
 O-Lan Jones, Krista Lynn Landolfi _(bar waitresses)_  
 Joe Minjares _(bartender)_  
 Al Foster, Zoaunne Leroy, Millie Slavin _(bar patrons)_  
 Terry Camilleri _(man in bathtub)_  
 Dona Hardy, Jeanette Miller _(senior citizens)_  
-Joel Mckinnon Miller, Tom Simmons
-
-_(garage attendants)_  
+Joel McKinnon Miller, Tom Simmons _(garage attendants)_  
 Susan Angelo _(mother)_  
 Carly Smiga _(daughter)_  
-Yuji Okumoto, Kiyoko Yamaguchi,
+Yuji Okumoto, Kiyoko Yamaguchi, Saemi Nakamura _(Japanese family)_
 
-Saemi Nakamura _(Japanese family)_
-
-USA 1998
-
-103 mins
-
+USA 1998  
+103 mins  
 Digital 4K
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIwMDYyNzZdfQ==
+eyJoaXN0b3J5IjpbNzY5MDAwODk4XX0=
 -->
