@@ -1,10 +1,10 @@
-<![endif]-->
 
 _+ intro by broadcaster Samira Ahmed_
 
 Shot in a documentary style inspired by the French New Wave, the Beatles’ first feature film captured Britain at a moment of social transformation, with a portrayal of celebrity, camaraderie and media frenzy that still resonates today. To mark publication of her BFI Film Classic on _A Hard Day’s Night_, author Samira Ahmed’s introduction will explore how a film made to celebrate a pop phenomenon became an enduring cinematic classic.
 
 This screening will be followed by a book signing in the BFI Southbank Foyer.
+<br><br>
 
 _A Hard Day’s Night_ falls into that category of films you can easily feel you’ve seen without seeing. The Beatles in drainpipe trousers, Chelsea boots and black and white, mop-topped and mob tailed, chased here, there and everywhere around Liverpool’s Lime Street station – this is a sequence so often imitated, parodied and quoted that it fully merits that most overused of words, iconic. Other scenes wallpaper almost every Beatles documentary you’d care to mention: the group larking on a playing field, caught on film from a circling helicopter, or Ringo Starr on a stroppy, short-lived sabbatical from the group, drifting along a riverside in an oversized overcoat. And then, too, it’s tempting to discount it as a cash-in and spin-off, a supplement to a music career that can only ever be a secondary work.
 
@@ -14,11 +14,11 @@ In fact the music in _A Hard Day’s Night_ came after the film, with Lennon and
 
 Yet _A Hard Day’s Night_ is predominantly forward-looking. Parallels with the _nouvelle vague_ may be slightly overplayed, but they are unquestionably there, in its fleetness of foot, and faith in the simple equation of band + camera + wit = film. And it’s there too in its impatience with perfection: for the happily amateur dance scene in Godard’s _Bande à part_ (released the same year), see George Harrison knocking over an amp on stage or losing a shoe boarding a helicopter. Lester’s liberal use of handheld cameras, meanwhile, suffuses _A Hard Day’s Night_ with a kind of fugitive twitchiness, a subtle sense that anyone might just cut and run – even a cameraman.
 
-Richard Lester and editor John Jympson arguably invented a new vocabulary for capturing stage performance, with multiple mobile cameras weaving in between the musicians. Stylistic tics to be seen in any given moment of present-day Glastonbury coverage can be seen coming in to focus for the first time here. Close-ups of Starr’s foot on a kick-drum pedal; a shot down the gleaming strings on a guitar neck; the camera roaming behind Starr to gaze out through the band to the wall of teenage faces creating a wall of sound. (The soundtrack, remixed in 5.1 surround by Giles Martin, captures that sound in unnerving, unearthly detail.) Lester often shows us the multiple, unmixed camera feeds seen on monitors by the TV director (played by Victor Spinetti): it’s a neat device which brings the mechanics of the medium to the fore and lets the viewer’s eye skip freely from viewpoint to viewpoint. One can easily imagine George Harrison being riveted by such details, and that’s one more legacy to be remembered when watching _A Hard Day’s Night_ – a gleam in the eye that would become Harrison’s HandMade Films.
-
-Sam Davies, _Sight and Sound_, August 2014
+Richard Lester and editor John Jympson arguably invented a new vocabulary for capturing stage performance, with multiple mobile cameras weaving in between the musicians. Stylistic tics to be seen in any given moment of present-day Glastonbury coverage can be seen coming in to focus for the first time here. Close-ups of Starr’s foot on a kick-drum pedal; a shot down the gleaming strings on a guitar neck; the camera roaming behind Starr to gaze out through the band to the wall of teenage faces creating a wall of sound. (The soundtrack, remixed in 5.1 surround by Giles Martin, captures that sound in unnerving, unearthly detail.) Lester often shows us the multiple, unmixed camera feeds seen on monitors by the TV director (played by Victor Spinetti): it’s a neat device which brings the mechanics of the medium to the fore and lets the viewer’s eye skip freely from viewpoint to viewpoint. One can easily imagine George Harrison being riveted by such details, and that’s one more legacy to be remembered when watching _A Hard Day’s Night_ – a gleam in the eye that would become Harrison’s HandMade Films.  
+**Sam Davies, _Sight and Sound_, August 2014**
+<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0OTE0NTZdfQ==
+eyJoaXN0b3J5IjpbMTA3Nzk4MzE2NV19
 -->
