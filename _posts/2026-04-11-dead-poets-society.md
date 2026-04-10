@@ -31,12 +31,10 @@ Filmed entirely on location, _Dead Poets Society_ is the first feature to be sho
 
 ‘I got out of the car and I knew I wanted it. We met the headmaster and I had to suppress the desire to say “This is it! Can we have it?” There was always a surprising nook or cranny... a new place to put your actors against. Despite the fact that it’s on the East Coast – just 90 minutes from New York – you could really be in Northern Scotland.’
 
-The real clincher for Weir was a mural in the St. Andrews dining hall painted by N.C. Wyeth in 1936 depicting a divided image (one side of the mural is a figure of liberty surrounded by a cluster of boys, the other is a group of industrialists crouched over a drafting table). The moment Weir laid eyes on it he knew he would have to use the tableau in the film’s opening credits. This ‘found image’ encapsulated the ‘Dead Poets’ theme – the choice that must be made between the pursuit of personal freedom or a life of unyielding conformity.
-
-Production notes
-
-<![endif]-->
+The real clincher for Weir was a mural in the St. Andrews dining hall painted by N.C. Wyeth in 1936 depicting a divided image (one side of the mural is a figure of liberty surrounded by a cluster of boys, the other is a group of industrialists crouched over a drafting table). The moment Weir laid eyes on it he knew he would have to use the tableau in the film’s opening credits. This ‘found image’ encapsulated the ‘Dead Poets’ theme – the choice that must be made between the pursuit of personal freedom or a life of unyielding conformity.  
+**Production notes**
+<br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODYzOTkyNV19
+eyJoaXN0b3J5IjpbMTY2NTI0MTY4OF19
 -->
