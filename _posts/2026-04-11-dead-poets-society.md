@@ -1,3 +1,14 @@
+---
+layout: post
+title: Dead Poets Society
+published: true
+date: 2026-04-11
+readtime: true
+categories: ['Finding Your Way<br>The Films of Peter Weir']
+tags: [Drama]
+metadata: 'USA 1989, 129 mins<br> Director: Peter Weir'
+pdf: '2026-04-11-dead-poets-society.pdf'
+---
 
 _Dead Poets Society_ is a compelling story about courage and self-awakening set against a rare and unusual backdrop: poetry and romanticism. Of paramount importance to the filmmakers was choosing a director who could balance the film’s intellectual concerns with the story’s extraordinary characters. Equally critical was their desire to give the film a stunning visual look. The producers immediately focused on acclaimed Australian filmmaker Peter Weir, who, like Robin Williams, also attended a private school during the 1950’s.
 
@@ -34,6 +45,33 @@ Filmed entirely on location, _Dead Poets Society_ is the first feature to be sho
 The real clincher for Weir was a mural in the St. Andrews dining hall painted by N.C. Wyeth in 1936 depicting a divided image (one side of the mural is a figure of liberty surrounded by a cluster of boys, the other is a group of industrialists crouched over a drafting table). The moment Weir laid eyes on it he knew he would have to use the tableau in the film’s opening credits. This ‘found image’ encapsulated the ‘Dead Poets’ theme – the choice that must be made between the pursuit of personal freedom or a life of unyielding conformity.  
 **Production notes**
 <br><br>
+
+**With thanks to**  
+Peter and Ingrid Weir
+
+_The Cars That Ate Paris_ and _The Plumber_ will be released on BFI Blu-ray on 25 May
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY2NTI0MTY4OF19
