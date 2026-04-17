@@ -1,3 +1,14 @@
+---
+layout: post
+title: Kinaesthesia
+published: true
+date: 2026-04-17
+readtime: true
+categories: ['Preview']
+tags: [Experimental, Documentary]
+metadata: 'UK 2025, 97 mins<br> Director: Gerald Fox'
+pdf: '2026-04-17-kinaesthesia.pdf'
+---
 
 _+ Q&A with director Gerald Fox_
 
@@ -25,8 +36,7 @@ _In terms of recreating techniques or silent-film scenes for your interspersed f
 
 Well, the animals didn’t always behave themselves. I remember the camel people arrived and promptly crashed their truck with the camels [onboard] into the wall. There were problems with the antlers of the reindeer and it [also] wouldn’t stand still. I actually stood in and tried to ride that horse [we use] and nearly ended up in a river because it just went out of control. I was hanging on for dear life. And there was a swan that kept attacking us when we were filming stuff on the lake, literally charging at the boat.
 
-_I presume there was no temptation to faithfully recreate the eye slicing from  
-_ Un chien andalou _ (1929)?_
+_I presume there was no temptation to faithfully recreate the eye slicing from _ Un chien andalou _ (1929)?_
 
 Well, we got him to do the [motion], but not to actually cut the eye. We did try and reenact the bit with ants on the hand. God knows what they must have done to get that many ants coming out of the hand because we could not get it, no matter what. I put some honey on it, but they all seemed to run away!  It was impossible.
 
@@ -61,6 +71,27 @@ Digital
 
 Courtesy of Tull Stories
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI3NDk3NjYwXX0=
 -->
