@@ -28,15 +28,12 @@ Well, the animals didn’t always behave themselves. I remember the camel people
 _I presume there was no temptation to faithfully recreate the eye slicing from  
 _ Un chien andalou _ (1929)?_
 
-Well, we got him to do the [motion], but not to actually cut the eye. We did try and reenact the bit with ants on the hand. God knows what they must have done to get that many ants coming out of the hand because we could not get it, no matter what. I put some honey on it, but they all seemed to run away!  
-It was impossible.
+Well, we got him to do the [motion], but not to actually cut the eye. We did try and reenact the bit with ants on the hand. God knows what they must have done to get that many ants coming out of the hand because we could not get it, no matter what. I put some honey on it, but they all seemed to run away!  It was impossible.
 
-Josh Slater-Williams, bfi.org.uk
+**Josh Slater-Williams, bfi.org.uk**
+<br><br>
 
-<![endif]-->
-
-**Kinaesthesia**
-
+**Kinaesthesia**  
 _Director_: Gerald Fox  
 ©: Foxy Films Ltd  
 _a_ Foxy Films _production_  
@@ -58,13 +55,12 @@ _Music Composition_: Alan Snelling
 _Re-recording Mixer_: Alan Snelling  
 _Thanks_: BFI National Archive, Jemima Khan, Bryony Dixon
 
-UK 2025
-
-97 mins
-
+UK 2025  
+97 mins  
 Digital
 
 Courtesy of Tull Stories
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkxODMwOTddfQ==
+eyJoaXN0b3J5IjpbMTI3NDk3NjYwXX0=
 -->
