@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Devil's Backbone
+published: true
+date: 2026-05-02
+readtime: true
+categories: ['Guillermo del Toro']
+tags: [Horror, Thriller]
+metadata: 'Spain-Mexico 2001, 108 mins<br> Director: Guillermo del Toro'
+pdf: '2026-05-02-devils-backbone.pdf'
+---
 
 _The Devil’s Backbone_, director Guillermo del Toro’s masterly supernatural thriller set in an orphanage haunted by the ghost of a young boy, is the latest in a distinguished line of features exploring the legacy of the Spanish Civil War from a child’s point of view. It’s a tradition that has long combined the domestic and the horrific. Victor Erice’s 1972 _The Spirit of the Beehive_ (_El espíritu de la colmena_), for instance, had its youthful protagonist Ana – a cinematic ancestor of the orphan Carlos at the centre of this film – come face to face with Frankenstein’s monster, an all-too appropriate allegory for Spanish dictator Franco. But two aspects distinguish _The Devil’s Backbone_ from such recent UK releases as José Luis Cuerda’s saccharine _Butterfly’s Tongue_ (_La lengua de las mariposas_) and Montxo Barrios Armendáriz’s _Secrets of the Heart_ (_Los secretos del corazón_). The first is its status as a Spanish-Latin American co-production, made jointly by Almodóvar’s El Deseo and Mexico’s Tequila Gang. Until now El Deseo has limited itself to Spanish or Basque directors who, given unprecedented artistic freedom, realised such varied fare as Alex de la Iglesia’s coarse science-fiction comedy _Acción mutante_ (1993) and Daniel Calparsoro’s taut political thriller _Pasajes_ (1996).
 
@@ -98,6 +109,27 @@ Digital 4K
 **With thanks to**  
 Cai Mason, Lisa Taback, Imogen Munsey and the Netflix team, Gary Ungar
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMDI2MTA3ODddfQ==
 -->
