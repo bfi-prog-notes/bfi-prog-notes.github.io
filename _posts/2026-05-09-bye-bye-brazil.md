@@ -86,7 +86,8 @@ Brazil-France 1979
 100 mins  
 Digital 4K
 
-The screening on Sat 23 May will be introduced by Dr Antonio da Silva, University of Essex
+The screening on Sat 23 May will be introduced by Dr Antonio da Silva, University of Essex<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5NzgwNjZdfQ==
+eyJoaXN0b3J5IjpbLTY1NTg3ODI2Nl19
 -->
