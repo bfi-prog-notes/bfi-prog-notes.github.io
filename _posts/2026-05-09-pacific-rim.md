@@ -75,8 +75,7 @@ _Animation Supervisor_: Hal Hickel
 _Animation_: Industrial Light & Magic  
 _Edited by_: John Gilroy, Peter Amundson  
 _1st Assistant Editors_: James W. Harrison III,  Steve Bobertz  
-_Production Designers_: Andrew Neskoromny,  
-Carol Spier  
+_Production Designers_: Andrew Neskoromny,  Carol Spier  
 _Supervising Art Directors_: Elinor Rose Galbraith, Richard Johnson  
 _Art Directors_: Andrew Li, Sandi Tanaka  
 _Illustrators_: Henry Fong, Fan Hong, Vicky Pui  
@@ -116,8 +115,7 @@ _Digital Intermediate_: Motion Picture Imaging
 _This film is dedicated to the memory of monster masters_: Ray Harryhausen, Ishiro Honda  
 _Thanks_: James Cameron, David Cronenberg, Alfonso Cuarón, Alejandro González Iñárritu
 
-_Cast:_
-
+**Cast**  
 Charlie Hunnam _(Raleigh Becket)_  
 Idris Elba _(Stacker Pentecost)_  
 Rinko Kikuchi _(Mako Mori)_  
@@ -133,13 +131,11 @@ Brad Henke _(construction foreman)_
 Mana Ashida _(young Mako)_  
 Santiago Segura _(wizened man)_
 
-USA 2013
-
-133 mins
-
-Digital 2D (Tue 12 and Fri 22 May)
-
+USA 2013  
+133 mins  
+Digital 2D (Tue 12 and Fri 22 May)  
 IMAX with Laser 3D (Sat 9 May)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwNDYxMTddfQ==
+eyJoaXN0b3J5IjpbOTE5MDE5MDQzXX0=
 -->
