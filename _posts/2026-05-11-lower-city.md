@@ -1,3 +1,14 @@
+---
+layout: post
+title: Lower City
+published: true
+date: 2026-05-11
+readtime: true
+categories: ['Brazil on Film']
+tags: [Drama]
+metadata: 'Brazil-UK 2005, 98 mins<br> Director: Sérgio Machado'
+pdf: '2026-05-11-lower-city.pdf'
+---
 
 Flickering flames and strumming guitars play over the opening credits of _Lower City_, a sure sign of the fevered passions that will be unleashed over the next 98 minutes. And with the first shot of bottle-blonde Karinna (played by Sonia Braga’s niece Alice Braga) making up in front of a cracked mirror, the stage is set for a high-octane drama from the same school of Latin American crowd pleasers as _Amores perros_ and _City of God_ (the latter of which also featured the younger Braga). The jerky hand-held camera, low lighting and saturated colours are highly reminiscent of both these earlier films. And it comes as no surprise that the accomplished male leads are veterans of Hector Babenco’s stylish prison epic _Carandiru_. Toss producer Walter Salles into the mix, and this is a project with a strong track record.
 
@@ -26,6 +37,30 @@ Machado strove to provide a new take on a situation that has become a film stapl
 
 The screening on Mon 11 May will be introduced  by season co-curator Renata de Almeida
 <br><br>
+
+Presented as part of the UK/Brazil Season of Culture 2025-26 and supported by  Instituto Guimarães Rosa
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4Nzg3ODkwNzZdfQ==
 -->
