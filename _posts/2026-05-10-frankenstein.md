@@ -99,8 +99,8 @@ _Supervising Sound Editors_: Nelson Ferreira,  Nathan Robitaille
 _Sound Effects Editors_: Craig MacLellan,  Paul Germann, Dashen Naidoo, Scott Hitchon  
 _Stunt Co-ordinators_: Eli Zagoudakis, Marshall Virtue  
 _Movement Coach_: Denise Fujiwara  
-_Cast:_
 
+**Cast**  
 Oscar Isaac _(Victor Frankenstein)_  
 Jacob Elordi _(the creature)_  
 Mia Goth _(Elizabeth/Claire Frankenstein)_  
@@ -136,13 +136,12 @@ Roberto Campanella _(woman in confessional)_
 Warren Albert _(Professor Kugelmann)_  
 Kim Morgan _(guest at wedding and bistro)_
 
-USA 2025
-
-150 mins
-
+USA 2025  
+150 mins  
 35mm (Sun 17 May and Sun 31 May)  
 Digital (Wed 27 May)  
 IMAX with Laser (Sun 10 May)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMxMzk3MjddfQ==
+eyJoaXN0b3J5IjpbLTYxNjc1MzI5XX0=
 -->
