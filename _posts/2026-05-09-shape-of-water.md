@@ -119,15 +119,13 @@ Brandon McKnight _(Duane)_
 Clyde Whitham _(wet cinema patron)_  
 Jonelle Gunderson _(bus passenger 1)_  
 Cameron Laurie _(bus passenger 2)_  
-Evgeny Akimov, Sergei Nikonov_,_ Vanessa Oude-Reimerink_,_ Alexey Pankratov _(Russian band)_  
-Guillermo del Toro_,_ Nathan Robitaille_  
-(creature vocals)_
+Evgeny Akimov, Sergei Nikonov, Vanessa Oude-Reimerink, Alexey Pankratov _(Russian band)_  
+Guillermo del Toro, Nathan Robitaille _(creature vocals)_
 
-USA 2017
-
-124 mins
-
+USA 2017  
+124 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDczMjk1NTldfQ==
+eyJoaXN0b3J5IjpbLTU5NTk2Mzg5N119
 -->
