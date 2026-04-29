@@ -26,139 +26,113 @@ The auditions in _Hollywood Shuffle_ are based on reality; I’ve seen casting d
 <br><br>
 
 **Hollywood Shuffle**<br>
+_Director:_ Robert Townsend<br>
+_Production Companies:_  Goldwyn Entertainment Company, Conquering Unicorn Productions<br>
+_Executive Producer:_ Carl Craig<br>
+_Producer:_ Robert Townsend<br>
+_Location Manager:_ Kojo Lewis<br>
+_Screenplay:_ Robert Townsend,  Keenen Ivory Wayans<br>
+_Director of Photography:_ Peter Deming<br>
+_Special Photography:_ Paul Slaughter<br>
+_Special Effects:_ Howard A. Anderson Company _Editor:_ W.O. Garrett<br>
+_Art Director:_ Melba Katzman Farquhar<br>
+_Wardrobe:_ Andre Allen<br>
+_Make-up:_ Deborah Fleming, Tara Posey<br>
+_Titles and Opticals:_ Pacific Title<br>
+_Music Composed/Conducted/Arranged by:_ Patrice Rushen, Udi Harpaz<br>
+_Keyboard Technician:_ Todd Grace<br>
+_Music Editing:_ Music Design Group<br>
+_Music Editor:_ Richard Luckey<br>
+_Music Recording:_ Criband Interlock Studios,  Mike Perricone<br>
 
-_Director:_ Robert Townsend
+_Choreography:_ Donald Douglass<br>
 
-_Production Companies:_  
-Goldwyn Entertainment Company,
-
-Conquering Unicorn Productions
-
-_Executive Producer:_ Carl Craig
-
-_Producer:_ Robert Townsend
-
-_Location Manager:_ Kojo Lewis
-
-_Screenplay:_ Robert Townsend,  
-Keenen Ivory Wayans
-
-_Director of Photography:_ Peter Deming
-
-_Special Photography:_ Paul Slaughter
-
-_Special Effects:_ Howard A. Anderson Company _Editor:_ W.O. Garrett
-
-_Art Director:_ Melba Katzman Farquhar
-
-_Wardrobe:_ Andre Allen
-
-_Make-up:_ Deborah Fleming, Tara Posey
-
-_Titles and Opticals:_ Pacific Title
-
-_Music Composed/Conducted/Arranged by:_
-
-Patrice Rushen, Udi Harpaz
-
-_Keyboard Technician:_ Todd Grace
-
-_Music Editing:_ Music Design Group
-
-_Music Editor:_ Richard Luckey
-
-_Music Recording:_ Criband Interlock Studios,  
-Mike Perricone
-
-_Choreography:_ Donald Douglass
-
-_Sound Recording:_ William Shaffer
+_Sound Recording:_ William Shaffer<br>
 
 _Sound Re-recording:_ Greg P. Russell,
 
-Jeffrey J. Haboush, Randy Honaker
+Jeffrey J. Haboush, Randy Honaker<br>
 
-_Supervising Sound Editor:_ Sam Horta
+_Supervising Sound Editor:_ Sam Horta<br>
 
-_Stunt Co-ordinator:_ Steve W. James
+_Stunt Co-ordinator:_ Steve W. James<br>
 
-_Cast:_
+_Cast:_<br>
 
-Robert Townsend _(Bobby Taylor)_
+Robert Townsend _(Bobby Taylor)_<br>
 
-Anne-Marie Johnson _(Lydia)_
+Anne-Marie Johnson _(Lydia)_<br>
 
-Starletta DuPois _(Bobby’s mother)_
+Starletta DuPois _(Bobby’s mother)_<br>
 
-Helen Martin _(Bobby’s grandmother)_
+Helen Martin _(Bobby’s grandmother)_<br>
 
-Craigus R. Johnson _(Stevie Taylor)_
+Craigus R. Johnson _(Stevie Taylor)_<br>
 
-Ludie Washington _(Tiny)_
+Ludie Washington _(Tiny)_<br>
 
-Keenen Ivory Wayans _(Donald)_
+Keenen Ivory Wayans _(Donald)_<br>
 
-Roy Fegan _(Jesse Wilson)_
+Roy Fegan _(Jesse Wilson)_<br>
 
-Marc Figueroa _(sit-com father)_
+Marc Figueroa _(sit-com father)_<br>
 
-Sarah Kaite Coughlan _(sit-com girlfriend)_
+Sarah Kaite Coughlan _(sit-com girlfriend)_<br>
 
-Sean Michael Flynn _(sit-com boyfriend)_
+Sean Michael Flynn _(sit-com boyfriend)_<br>
 
-Brad Sanders _(batty boy)_
+Brad Sanders _(batty boy)_<br>
 
-David McKnight _(uncle Ray)_
+David McKnight _(uncle Ray)_<br>
 
-John Witherspoon _(Mr Jones)_
+John Witherspoon _(Mr Jones)_<br>
 
-Don Reed _(Maurice)_
+Don Reed _(Maurice)_<br>
 
-Kim Wayans _(customer in chair)_
+Kim Wayans _(customer in chair)_<br>
 
-Gregory Alexander _(pimp)_
+Gregory Alexander _(pimp)_<br>
 
-Conni Marie Brazelton _(1st hooker)_
+Conni Marie Brazelton _(1st hooker)_<br>
 
-Lorrie Marlow _(2nd hooker)_
+Lorrie Marlow _(2nd hooker)_<br>
 
-Sena Ayn Black _(receptionist)_
+Sena Ayn Black _(receptionist)_<br>
 
-Lisa Mende _(casting director)_
+Lisa Mende _(casting director)_<br>
 
-Dom Irrera _(writer)_
+Dom Irrera _(writer)_<br>
 
-Eugene Robert Glazer _(director)_
+Eugene Robert Glazer _(director)_<br>
 
 Bobby Mardis, Jesse Aragon, Bobby McGee,  
 Verda Bridges, Richard ‘Romeo’ McGregor, Rusty Cundieff, E.J. Murray Jr, Carl Craig, Angela Teek, Nancy Cheryll Davis, Tony Edwards  
-_(actors in auditions)_
+_(actors in auditions)_<br>
 
-_Black Acting School:_
+_Black Acting School:_<br>
 
 Angela Teek _(Harriet);_ Rusty Cundieff, Roy Fegan, Richard Cummings Jr _(slaves);_ Grand Bush _(Mandingo/Ricky Taylor);_ Verda Bridges _(Bessie);_ Anne-Marie Johnson _(Willie-Mae);_ Sena Ayn Black _(Missy);_ Robert Townsend _(Jasper);_ Jesse Aragon, Michael T. Smith _(students);_ Eugene Robert Glazer _(1st teacher);_ Michael Conn _(2nd teacher);_ Jimmy Woodard _(advance student);_ Franklyn Ajaye, Damon Wayans, Michael Colyar _(bodyguards);_ Carl Craig, Donald Douglass, Bobby Mardis, Jimmy Woodard _(basketball players)_
 
-_Sneakin’ in the movies:_
+_Sneakin’ in the movies:_<br>
 
 Robert Townsend _(Speed);_ Jimmy Woodard _(Tyrone/punk);_ Eugene Robert Glazer _(Amadeus/Chicago Jones/Dirty Larry);_ Sena Ayn Black _(woman on cliff/1st hostage/hooker);_ Michael Conn _(1st police detective);_ Christopher Jackson, Jesse Aragon _(punks);_ Verda Bridges _(2nd hostage/hooker);_ Nancy Cheryll Davis, Angela Teek, Anne-Marie Johnson _(hookers)_
 
-_Zombie Pimps:_
+_Zombie Pimps:_<br>
 
 Richard Cummings Jr _(usher in theatre);_ Richard ‘Romeo’ McGregor, Jesse Aragon, Michael T. Smith, Rusty Cundieff, Jimmy Woodard, Roy Fegan, Bobby McGee _(zombie pimps);_ Gregory Alexander, Carl Craig, Rusty Cundieff, Donald Douglass, Tony Edwards, Omar W. Hester, Bobby Mardis, Bobby McGee, Richard ‘Romeo’ McGregor _(Eddie Murphy types);_ Kim Genelle _(1st beautiful girl);_ Conni Marie Brazelton _(2nd beautiful girl);_ Larry Cortinas _(chauffeur)_
 
-_Death of a Breakdancer:_
+_Death of a Breakdancer:_<br>
 
-Robert Townsend _(Sam Ace);_ Nancy Cheryll Davis _(Debra Jenkins);_ Shirley Ann Jenkins _(Cookie’s mother);_ Nick Stewart _(Cookie’s father);_ Damon Wayans _(Willie);_ Richard Cummings Jr, Jesse Kitten, Steve W. James, Jimmy Woodard, Grand Bush _(hoods);_ Keenen Ivory Wayans _(Jerry Curl);_ Le Tari _(Rudie);_ Sarah Kaite Coughlan _(rehearsing actress);_ Greg Nave Hartwell _(rehearsing actor);_ Jake Blackschmidt _(snake killer);_ Howard Allen, Steven Fertig _(agents);_ Michael LaViolette _(wardrobe man);_ Paul Mooney _(president of NAACP);_ Beverly Brown, Carl Craig, Sarah Kaite Coughlan, Charles R. Edwards, Tamra Naggar, Peter Krug, Brad Laven, Lorrie Marlow _(reporters);_ Myra J, Wren T. Brown _(picketers);_ Jesse Aragon, Carl Craig, Rusty Cundieff, Roy Fegan, E.J. Murray Jr _(members of The Beaners gang);_ Gregory Alexander, Verda Bridges, Donald Douglass, Tony Edwards, Bobby Mardis, Bobby McGee, Angela Teek, Richard ‘Romeo’ McGregor _(members of The Afros gang);_ Tony Livingston _(Cordelia);_ Carl Craig _(fool);_ Kathleen Clark _(award presenter);_ Tammy Kaitz _(model with award);_ Lydia Nicole _(makeup woman);_ Shirley Ann Jenkins _(wardrobe person);_ Mark Westover _(1st assistant director);_ Robert R. Shafer _(commercial director);_ Nancy Scher, Marc Figueroa _(clients);_ Stephen Adrianson, Jimmy Woodard, Greg Nave Hartwell, Larry Cortinas
+Robert Townsend _(Sam Ace);_ Nancy Cheryll Davis _(Debra Jenkins);_ Shirley Ann Jenkins _(Cookie’s mother);_ Nick Stewart _(Cookie’s father);_ Damon Wayans _(Willie);_ Richard Cummings Jr, Jesse Kitten, Steve W. James, Jimmy Woodard, Grand Bush _(hoods);_ Keenen Ivory Wayans _(Jerry Curl);_ Le Tari _(Rudie);_ Sarah Kaite Coughlan _(rehearsing actress);_ Greg Nave Hartwell _(rehearsing actor);_ Jake Blackschmidt _(snake killer);_ Howard Allen, Steven Fertig _(agents);_ Michael LaViolette _(wardrobe man);_ Paul Mooney _(president of NAACP);_ Beverly Brown, Carl Craig, Sarah Kaite Coughlan, Charles R. Edwards, Tamra Naggar, Peter Krug, Brad Laven, Lorrie Marlow _(reporters);_ Myra J, Wren T. Brown _(picketers);_ Jesse Aragon, Carl Craig, Rusty Cundieff, Roy Fegan, E.J. Murray Jr _(members of The Beaners gang);_ Gregory Alexander, Verda Bridges, Donald Douglass, Tony Edwards, Bobby Mardis, Bobby McGee, Angela Teek, Richard ‘Romeo’ McGregor _(members of The Afros gang);_ Tony Livingston _(Cordelia);_ Carl Craig _(fool);_ Kathleen Clark _(award presenter);_ Tammy Kaitz _(model with award);_ Lydia Nicole _(makeup woman);_ Shirley Ann Jenkins _(wardrobe person);_ Mark Westover _(1st assistant director);_ Robert R. Shafer _(commercial director);_ Nancy Scher, Marc Figueroa _(clients);_ Stephen Adrianson, Jimmy Woodard, Greg Nave Hartwell, Larry Cortinas _(commercial TV crew members)_
 
-_(commercial TV crew members)_
+USA 1987<br>
 
-USA 1987
-
-81 mins
+81 mins<br>
 
 35mm
 
-The screening on Wed 6 May will be introduced by Rógan Graham, BFI Film Programmer
+The screening on Wed 6 May will be introduced by Rógan Graham, BFI Film Programmer<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzE3NTU0XX0=
+eyJoaXN0b3J5IjpbLTEyNjA4Njk0MDRdfQ==
 -->
