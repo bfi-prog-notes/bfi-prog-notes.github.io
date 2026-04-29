@@ -43,8 +43,7 @@ _Location Manager_: Vince Nyuli
 _Post-production Supervisor_: Douglas Wilkinson  
 _1st Assistant Director_: Pierre Henry  
 _2nd Assistant Director_: Tyler Delben  
-_3rd Assistant Directors_: Lize Van Der Bijl,  
-Nicole Dipietro  
+_3rd Assistant Directors_: Lize Van Der Bijl,  Nicole Dipietro  
 _Script Supervisor_: Dug Rotstein  
 _Casting by_: Robin D. Cook  
 _Extras Casting_: Zameret Kleinman  
@@ -77,8 +76,7 @@ _Key Hair_: Rossana Vendramini
 _Main Titles_: Cam McLauchlin  
 _Digital Intermediate Colourist_: Chris Wallace  
 _Music by_: Alexandre Desplat  
-_Score Performed by_:  
-The London Symphony Orchestra  
+_Score Performed by_:  The London Symphony Orchestra  
 _Score Conducted by_: Alexandre Desplat  
 _Dance Choreographer_: Roberto Campanella  
 _Production Sound Mixer_: Glen Gauthier  
@@ -90,8 +88,7 @@ _Unit Publicist_: Lisa Shamata
 _Digital Intermediate Facility_: DeLuxe Toronto  
 _Filmed at_: Cinespace Studios
 
-_Cast:_
-
+**Cast**  
 Sally Hawkins _(Elisa Esposito)_  
 Michael Shannon _(Richard Strickland)_  
 Richard Jenkins _(Giles)_  
@@ -122,7 +119,7 @@ Brandon McKnight _(Duane)_
 Clyde Whitham _(wet cinema patron)_  
 Jonelle Gunderson _(bus passenger 1)_  
 Cameron Laurie _(bus passenger 2)_  
-Evgeny Akimov_,_ Sergei Nikonov_,_ Vanessa Oude-Reimerink_,_ Alexey Pankratov _(Russian band)_  
+Evgeny Akimov, Sergei Nikonov_,_ Vanessa Oude-Reimerink_,_ Alexey Pankratov _(Russian band)_  
 Guillermo del Toro_,_ Nathan Robitaille_  
 (creature vocals)_
 
@@ -132,5 +129,5 @@ USA 2017
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNTYwNjEzXX0=
+eyJoaXN0b3J5IjpbLTE3MDczMjk1NTldfQ==
 -->
