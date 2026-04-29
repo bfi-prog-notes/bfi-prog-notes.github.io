@@ -79,7 +79,7 @@ _Dolby Sound Consultant_: Thomas Kodros
 _Unit Publicist_: Joe Everett  
 _Digital Intermediate by_: DeLuxe Toronto
 
-_Cast**
+**Cast**  
 Mia Wasikowska _(Edith Cushing)_  
 Jessica Chastain _(Lucille Sharpe)_  
 Tom Hiddleston _(Thomas Sharpe)_  
@@ -94,9 +94,6 @@ Emily Coutts _(Eunice)_
 Alec Stockwell _(Finlay)_  
 Brigitte Robinson _(Jane, secretary)_  
 Gillian Ferrier, Tamara Hope, Kimberly-Sue Murray _(society girls)_  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 Sofia Wells _(young Edith)_  
 Joanna Douglas _(Annie, maid)_  
 Bill Lake _(coroner)_  
@@ -114,11 +111,10 @@ Brian Kaulback, Richard Kerr, Shane McPherson _(vendors)_
 Tim Blake _(reverend)_  
 Thomas Dorey _(architect)_
 
-USA 2015
-
-119 mins
-
+USA 2015  
+119 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ1NDI4NDhdfQ==
+eyJoaXN0b3J5IjpbMTQxMjY4OTQ4MV19
 -->
