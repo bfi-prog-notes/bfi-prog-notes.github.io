@@ -1,3 +1,14 @@
+---
+layout: post
+title: Bye Bye Brazil
+published: true
+date: 2026-05-09
+readtime: true
+categories: ['Brazil on Film']
+tags: [Drama]
+metadata: 'Brazil-France 1979, 100 mins<br> Director: Carlos Diegues'
+pdf: '2026-05-09-bye-bye-brazil.pdf'
+---
 
 **Carlos Diegues on ‘Bye Bye Brazil’**  
 _Bye Bye Brazil_ is a film about one country in decline and another that is taking its place. I cannot specify exactly what is ending and what is beginning, all I can do is record the extraordinary period of transition, through the stories of four characters searching for their places in this new country, just as any of us would. Life in Brazil today is sometimes born in strange circumstances: in the co-existence of the archaic and the modern, for example, or of the jungle and pollution, of ox-carts and aeroplanes, of misery and abundance, of beauty and pain. It is stimulating to know that we live in a country that can still shape its own destiny, starting from its own ‘madness’. This has nothing to do with nationalism, nor with easy optimism… it’s just a matter of having hope.
@@ -88,6 +99,30 @@ Digital 4K
 
 The screening on Sat 23 May will be introduced by Dr Antonio da Silva, University of Essex<br>
 <br><br>
+
+Presented as part of the UK/Brazil Season of Culture 2025-26 and supported by  Instituto Guimarães Rosa
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY1NTg3ODI2Nl19
 -->
