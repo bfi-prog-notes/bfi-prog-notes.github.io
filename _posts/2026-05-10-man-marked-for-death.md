@@ -1,3 +1,14 @@
+---
+layout: post
+title: Man Marked for Death, 20 Years Later
+published: true
+date: 2026-05-10
+readtime: true
+categories: ['Brazil on Film']
+tags: [Documentary]
+metadata: 'Brazil 1984, 119 mins<br> Director: Eduardo Coutinho'
+pdf: '2026-05-10-man-marked-for-death.pdf'
+---
 
 In 1962, fresh-faced Brazilian filmmaker Eduardo Coutinho stumbled upon the story of an assassinated peasant leader in the rural north-east of the country that truly inspired him. It would take him more than 20 years to complete his project, but the resulting film is often considered to be the country’s finest documentary and in 2015 was voted the 4th greatest Brazilian film ever made by the Brazilian Association of Film Critics (Abraccine). Not only that, but _Man Marked for Death, 20 Years Later_ is also a landmark achievement by an important voice in South American cinema that has recently been brought back to the attention of audiences with a digitally remastered Blu-ray release courtesy of the newly launched Mawu Films.
 
@@ -42,6 +53,31 @@ Brazil 1984
 119 mins  
 Digital (restoration)
 <br><br>
+
+Presented as part of the UK/Brazil Season of Culture 2025-26 and supported by  Instituto Guimarães Rosa
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ5MzEwOTcyNl19
 -->
