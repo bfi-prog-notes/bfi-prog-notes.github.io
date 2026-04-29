@@ -117,7 +117,7 @@ _Sound Effects Editor_: Marvin Walowitz
 _Stunt Co-ordinator_: Dan Bradley  
 _Mr Malkovich’s Double_: Grant Mathis  
 
-_Cast:_
+**Cast**  
 John Cusack _(Craig Schwartz)_  
 Cameron Diaz _(Lotte Schwartz)_  
 Catherine Keener _(Maxine)_  
@@ -156,13 +156,12 @@ Michelle Pfeiffer *
 Winona Ryder  *  
 Gary Sinise  *
 
-USA 1999
-
-113 mins
-
+USA 1999  
+113 mins  
 35mm
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNDU2OTUwXX0=
+eyJoaXN0b3J5IjpbODY5Mjg0MzU4XX0=
 -->
