@@ -40,13 +40,12 @@ Geoffrey Bayldon _(clerk)_
 Eileen Way _(secretary)_  
 Jacquie Wallis
 
-UK 1952
-23 mins
-
+UK 1952  
+23 mins  
 Digital 4K (restoration)
+<br><br>
 
-**The Flying Scot**
-
+**The Flying Scot**  
 _Director_: Compton Bennett  
 ©_/Production Company_: Insignia Films  
 _Executive Producer_: Peter Rogers  
@@ -79,8 +78,7 @@ _Sound Maintenance_: Frank Sloggett *
 _Publicity Director_: Philip Ridgeway *  
 _Studio_: Beaconsfield Studios
 
-_Cast:_
-
+**Cast**  
 Lee Patterson _(Ronnie)_  
 Kay Callard _(Jackie)_  
 Alan Gifford _(Phil)_  
@@ -95,13 +93,12 @@ John Dearth _(father)_
 Patsy Smart _(mother)_ *  
 Geoffrey Bodkin _(neat boy)_ *
 
-UK 1957
-
-71 mins
-
+UK 1957  
+71 mins  
 Digital 4K (restoration)
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjkxNTI2NF19
+eyJoaXN0b3J5IjpbLTE1NTc0MTQzMTBdfQ==
 -->
