@@ -52,120 +52,65 @@ _Assistant Editors:_ Kent Beyda, Nancy Golden,  Hal Bowers<br>
 _Art Director:_ Bryan Ryman<br>
 _Prop Man:_ Robert Vehon<br>
 _Chief Set Construction:_ Verna Bagby<br>
-
 _Assistant Set Construction:_ Abraham Zwick<br>
-
-_Local 33 Stagehands:_ Pat Don Aroma,  
-Larry Baughman<br>
-
-_Local 33:_ Larry Dean, Dave Walker,  
-Emmett O’Connell<br>
-
+_Local 33 Stagehands:_ Pat Don Aroma,  Larry Baughman<br>
+_Local 33:_ Larry Dean, Dave Walker,  Emmett O’Connell<br>
 _Costume Designer:_ Alexandra Corwin-Hankin<br>
-
 _Wardrobe Masters:_ Miles Ciletti, Charles Akins<br>
-
 _Men’s Wardrobe by:_ Gangi of Rome<br>
-
 _Colour by:_ MGM Labs<br>
-
 _Composed Music:_ Bo Harwood<br>
-
 _Arranged/Conducted Music:_ Booker T. Jones<br>
-
 _Musical Consultant:_ Lee Housekeeper<br>
-
 _Sound:_ Bo Harwood<br>
-
 _Sound Assistant:_ Joanne T. Harwood<br>
-
 _Boom Operator:_ Crew Chamberlin<br>
-
 _Sound Mixer:_ Bill Varney<br>
-
 _Re-recorded at:_ Goldwyn Studios<br>
-
 _Sound Editor:_ Joe G. Woo Jr<br>
-
 _Teacher/Welfare Worker:_ Adria Licklider<br>
-
 _Location Equipment:_ Cinemobile<br>
-
-_Appreciation to:_ Playboy Limousine,  
-Colonel Sanders<br>
-
+_Appreciation to:_ Playboy Limousine,  Colonel Sanders<br>
 _Stunt Drivers:_ Victor Paul, Charles Picerni<br>
-
 _Stunt Double:_ Donna Garrett<br>
-
 _Publicists:_ Esme Chandlee, Eve Siegel<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Gena Rowlands _(Myrtle Gordon)_<br>
-
 Ben Gazzara _(Manny Victor)_<br>
-
 John Cassavetes _(Maurice Aarons)_<br>
-
 Joan Blondell _(Sarah Goode)_<br>
-
 Paul Stewart _(David Samuels)_<br>
-
 Zohra Lampert _(Dorothy Victor)_<br>
-
 Laura Johnson _(Nancy Stein)_<br>
-
 John Tuell _(Gus Simmons)_<br>
-
 Ray Powers _(Jimmy)_<br>
-
 John Finnegan _(prop man)_<br>
-
 Louise Fitch _(Kelly)_<br>
-
 Fred Draper _(Leo)_<br>
-
 Katherine Cassavetes _(Vivian)_<br>
-
 Lady Rowlands _(Melva Drake)_<br>
-
 Carol Warren _(Carla)_<br>
-
 Briana Carver _(Lena)_<br>
-
 Angelo Grisanti _(Charlie Spikes)_<br>
-
 Meade Roberts _(Eddie Stein)_<br>
-
 Eleanor Zee _(Sylvia Stein)_<br>
-
 David Rowlands _(doorman)_<br>
-
 Sharon Van Ivan _(Shirley)_<br>
-
 Jimmy Christie _(news stand operator)_<br>
-
 James Karen _(bell boy)_<br>
-
 Jimmy Joyce _(bartender)_<br>
-
 Sherry Bain _(bar maid)_<br>
-
 Sylvia Davis Shaw _(hotel maid)_<br>
-
 Peter Lampert _(maître d’)_<br>
-
 Peter Falk, Peter Bogdanovich, Seymour Cassel, Tony Roberts _(opening night congratulators)_
 
 USA 1977©<br>
-
 144 mins<br>
-
 Digital
 
 The screening on Wed 27 May will be introduced by Katie McCabe, Reviews Editor at _Sight and Sound_<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk4NDEzODJdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjc4MzMwNjhdfQ==
 -->
