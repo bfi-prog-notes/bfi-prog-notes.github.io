@@ -24,71 +24,33 @@ pugilistic bond.
 <br><br>
 
 **Opening Night**<br>
-
 _Director:_ John Cassavetes<br>
-
 ©_/Presented by:_ Faces Distribution Corporation<br>
-
-_Made with the cooperation of:_  
-Pasadena Community Arts Center, Pasadena Community Services Commission, Inc.,
-
-Cal-Neva Community Action Association<br>
-
+_Made with the cooperation of:_  Pasadena Community Arts Center, Pasadena Community Services Commission, Inc., Cal-Neva Community Action Association<br>
 _Executive Producer:_ Sam Shaw<br>
-
 _Producer:_ Al Ruban<br>
-
 _Assistant to the Producer:_ Sharon Van Ivan<br>
-
 _Associate Producer:_ Michael Lally<br>
-
 _Accounting:_ Susan Howell<br>
-
 _Production Co-ordinator:_ Teresa Stokovic<br>
-
-_Production Managers:_ Foster H. Phinney,  
-Ed Ledding<br>
-
+_Production Managers:_ Foster H. Phinney,  Ed Ledding<br>
 _Location Supervisor:_ Jack Krupnick<br>
-
 _Secretaries:_ Arlene Harris, Michelle Hart<br>
-
-_Production Assistants:_ Carol Roux,
-
-Robert Bogdanoff, Raymond Vellucci<br>
-
+_Production Assistants:_ Carol Roux, Robert Bogdanoff, Raymond Vellucci<br>
 _Post-production [Secretary]:_ Kathleen Barker<br>
-
 _2nd Assistant Director:_ Lisa Hallas<br>
-
-_Script Supervisors:_ Tom Cornwell,  
-Joanne T. Harwood<br>
-
+_Script Supervisors:_ Tom Cornwell,  Joanne T. Harwood<br>
 _Casting:_ Prometheus Patient<br>
-
 _Writer:_ John Cassavetes<br>
-
 _Director of Photography:_ Al Ruban<br>
-
 _Camera Operators:_ Frederick Elmes, Michael Ferris<br>
-
-_Camera Assistants:_ Catherine Coulson,  
-Jed Skillman<br>
-
-_Gaffers:_ Donne Daniels, Joseph L. Rezwin,  
-Donald Robinson, Richard Ross<br>
-
+_Camera Assistants:_ Catherine Coulson,  Jed Skillman<br>
+_Gaffers:_ Donne Daniels, Joseph L. Rezwin,  Donald Robinson, Richard Ross<br>
 _Graphics/Still Photographer:_ Richard Upper<br>
-
 _Editor:_ Tom Cornwell<br>
-
-_Assistant Editors:_ Kent Beyda, Nancy Golden,  
-Hal Bowers<br>
-
+_Assistant Editors:_ Kent Beyda, Nancy Golden,  Hal Bowers<br>
 _Art Director:_ Bryan Ryman<br>
-
 _Prop Man:_ Robert Vehon<br>
-
 _Chief Set Construction:_ Verna Bagby<br>
 
 _Assistant Set Construction:_ Abraham Zwick<br>
@@ -103,106 +65,107 @@ _Costume Designer:_ Alexandra Corwin-Hankin<br>
 
 _Wardrobe Masters:_ Miles Ciletti, Charles Akins<br>
 
-_Men’s Wardrobe by:_ Gangi of Rome
+_Men’s Wardrobe by:_ Gangi of Rome<br>
 
-_Colour by:_ MGM Labs
+_Colour by:_ MGM Labs<br>
 
-_Composed Music:_ Bo Harwood
+_Composed Music:_ Bo Harwood<br>
 
-_Arranged/Conducted Music:_ Booker T. Jones
+_Arranged/Conducted Music:_ Booker T. Jones<br>
 
-_Musical Consultant:_ Lee Housekeeper
+_Musical Consultant:_ Lee Housekeeper<br>
 
-_Sound:_ Bo Harwood
+_Sound:_ Bo Harwood<br>
 
-_Sound Assistant:_ Joanne T. Harwood
+_Sound Assistant:_ Joanne T. Harwood<br>
 
-_Boom Operator:_ Crew Chamberlin
+_Boom Operator:_ Crew Chamberlin<br>
 
-_Sound Mixer:_ Bill Varney
+_Sound Mixer:_ Bill Varney<br>
 
-_Re-recorded at:_ Goldwyn Studios
+_Re-recorded at:_ Goldwyn Studios<br>
 
-_Sound Editor:_ Joe G. Woo Jr
+_Sound Editor:_ Joe G. Woo Jr<br>
 
-_Teacher/Welfare Worker:_ Adria Licklider
+_Teacher/Welfare Worker:_ Adria Licklider<br>
 
-_Location Equipment:_ Cinemobile
+_Location Equipment:_ Cinemobile<br>
 
 _Appreciation to:_ Playboy Limousine,  
-Colonel Sanders
+Colonel Sanders<br>
 
-_Stunt Drivers:_ Victor Paul, Charles Picerni
+_Stunt Drivers:_ Victor Paul, Charles Picerni<br>
 
-_Stunt Double:_ Donna Garrett
+_Stunt Double:_ Donna Garrett<br>
 
-_Publicists:_ Esme Chandlee, Eve Siegel
+_Publicists:_ Esme Chandlee, Eve Siegel<br>
 
-_Cast:_
+_Cast:_<br>
 
-Gena Rowlands _(Myrtle Gordon)_
+Gena Rowlands _(Myrtle Gordon)_<br>
 
-Ben Gazzara _(Manny Victor)_
+Ben Gazzara _(Manny Victor)_<br>
 
-John Cassavetes _(Maurice Aarons)_
+John Cassavetes _(Maurice Aarons)_<br>
 
-Joan Blondell _(Sarah Goode)_
+Joan Blondell _(Sarah Goode)_<br>
 
-Paul Stewart _(David Samuels)_
+Paul Stewart _(David Samuels)_<br>
 
-Zohra Lampert _(Dorothy Victor)_
+Zohra Lampert _(Dorothy Victor)_<br>
 
-Laura Johnson _(Nancy Stein)_
+Laura Johnson _(Nancy Stein)_<br>
 
-John Tuell _(Gus Simmons)_
+John Tuell _(Gus Simmons)_<br>
 
-Ray Powers _(Jimmy)_
+Ray Powers _(Jimmy)_<br>
 
-John Finnegan _(prop man)_
+John Finnegan _(prop man)_<br>
 
-Louise Fitch _(Kelly)_
+Louise Fitch _(Kelly)_<br>
 
-Fred Draper _(Leo)_
+Fred Draper _(Leo)_<br>
 
-Katherine Cassavetes _(Vivian)_
+Katherine Cassavetes _(Vivian)_<br>
 
-Lady Rowlands _(Melva Drake)_
+Lady Rowlands _(Melva Drake)_<br>
 
-Carol Warren _(Carla)_
+Carol Warren _(Carla)_<br>
 
-Briana Carver _(Lena)_
+Briana Carver _(Lena)_<br>
 
-Angelo Grisanti _(Charlie Spikes)_
+Angelo Grisanti _(Charlie Spikes)_<br>
 
-Meade Roberts _(Eddie Stein)_
+Meade Roberts _(Eddie Stein)_<br>
 
-Eleanor Zee _(Sylvia Stein)_
+Eleanor Zee _(Sylvia Stein)_<br>
 
-David Rowlands _(doorman)_
+David Rowlands _(doorman)_<br>
 
-Sharon Van Ivan _(Shirley)_
+Sharon Van Ivan _(Shirley)_<br>
 
-Jimmy Christie _(news stand operator)_
+Jimmy Christie _(news stand operator)_<br>
 
-James Karen _(bell boy)_
+James Karen _(bell boy)_<br>
 
-Jimmy Joyce _(bartender)_
+Jimmy Joyce _(bartender)_<br>
 
-Sherry Bain _(bar maid)_
+Sherry Bain _(bar maid)_<br>
 
-Sylvia Davis Shaw _(hotel maid)_
+Sylvia Davis Shaw _(hotel maid)_<br>
 
-Peter Lampert _(maître d’)_
+Peter Lampert _(maître d’)_<br>
 
 Peter Falk, Peter Bogdanovich, Seymour Cassel, Tony Roberts _(opening night congratulators)_
 
-USA 1977©
+USA 1977©<br>
 
-144 mins
+144 mins<br>
 
 Digital
 
-The screening on Wed 27 May will be introduced by Katie McCabe, Reviews Editor at _Sight and Sound_
+The screening on Wed 27 May will be introduced by Katie McCabe, Reviews Editor at _Sight and Sound_<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNjM3MzUyXX0=
+eyJoaXN0b3J5IjpbLTIwNjk4NDEzODJdfQ==
 -->
