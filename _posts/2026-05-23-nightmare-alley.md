@@ -100,14 +100,13 @@ Clifton Collins Jr _(Funhouse Jack)_
 Paul Anderson _(geek)_  
 Lara Jean Chorostecki _(Louise Hoatley)_
 
-USA-Mexico 2021
-150 mins
-
+USA-Mexico 2021  
+150 mins  
 Digital
 
-Black & White version (Sat 23 May)
-
-Colour version (Sat 30 May)
+Black & White version (Sat 23 May)  
+Colour version (Sat 30 May)<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYxODY1ODddfQ==
+eyJoaXN0b3J5IjpbMTAzNzI5Njg3OV19
 -->
