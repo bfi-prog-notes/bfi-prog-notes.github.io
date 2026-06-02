@@ -39,55 +39,43 @@ Fourthly, we had to work with the poorest possible materials and that too, on a 
 
 All these considerations drove me to _Ajantrik_, and I jumped at the first opportunity to make it.  
 **Ritwik Ghatak, ‘Some Thoughts on _Ajantrik_’, _Cinema and I_ (Ritwik Memorial Trust, 1987)**  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+<br><br>
 
-**The Life of the Adivasis**
-
+**The Life of the Adivasis**  
 A compassionate depiction of the tribal peoples living in Bihar, written by and featuring the voice of acclaimed Hindi author and screenwriter Radhakrishna.
+<br><br>
 
-<![endif]-->
-
-**The Life of the Adivasis  
-**Adivasiyon Ka Jeevan Srot
-
+**The Life of the Adivasis** Adivasiyon Ka Jeevan Srot  
 _Director_: Ritwik Ghatak  
 _Sponsor_: Government of Bihar  
-India 1955
-
-13 mins
-
+India 1955  
+13 mins  
 Digital 4K (restoration)
+<br><br>
 
-**The Pathetic Fallacy** Ajantrik
-
+**The Pathetic Fallacy** Ajantrik  
 _Director_: Ritwik Ghatak  
 _Production Company_: L & B Films International  
 _Screenplay_: Ritwik Ghatak  
 _Story_: Subodh Ghosh  
-_Director of Photography_: Dinen Gupta
-
+_Director of Photography_: Dinen Gupta  
 _Editor:_ Ramesh Joshi  
 _Music_: Ali Akbar Khan
 
-_Cast:_
-
+**Cast**  
 Kali Banerjee _(Bimal)_  
 Gyanesh Mukherjee  
 Gangapada Bose  
-Satindra Bhattacharya
-
-Shriman Deepak
-
+Satindra Bhattacharya  
+Shriman Deepak  
 Kajal Gupta
 
-India 1958
-
-102 mins
-
+India 1958  
+102 mins  
 Digital 4K (restoration)
 
-The screening on Tue 21 Jun will be introduced by season curator Sanghita Sen
+The screening on Tue 21 Jun will be introduced by season curator Sanghita Sen<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzIxNDE3N119
+eyJoaXN0b3J5IjpbLTExODM2MzYzNjBdfQ==
 -->
