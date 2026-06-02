@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Pathetic Fallacy
+published: true
+date: 2026-06-02
+readtime: true
+categories: ['Revolutionary Cinema<br>The Passion of Ritwik Ghatak']
+tags: [Comedy, Drama]
+metadata: 'India 1958, 102 mins<br> Director: Ritwik Ghatak'
+pdf: '2026-06-02-pathetic-fallacy.pdf'
+---
 
 **Ritwik Ghatak on ‘The Pathetic Fallacy (Ajantrik)’**  
 For 12 long years, I had thought about this story before I made it into a film. When it first came my way, accidentally, I was a green boy, newly come to Calcutta and fresh from the university. _Ajantrik_ caught my imagination and held it for ten days at a stretch – for more reason than the alliteration with my name.
@@ -20,8 +31,7 @@ There were other points of attraction for me.
 
 Firstly, the story is laid in a terrain which is one of the least-known to normal Bengali filmgoers. They have no emotional attachment with it. Try however I might, I could not peddle in nostalgic sentimentalism, which is the curse of many a fine worker in this country. I had to create new values, all within the span of the film itself. On the other hand I could cash in on the novelty of the landscape. The different planes and levels are refreshingly unusual to the plainsmen of the Gangetic delta.
 
-Secondly, the tribal people. They are the people who own the land where the story is laid. Without them the landscape would lose its charm and meaning.  
-I cannot marshal my camera on any spot without integrating them into my composition.
+Secondly, the tribal people. They are the people who own the land where the story is laid. Without them the landscape would lose its charm and meaning.  I cannot marshal my camera on any spot without integrating them into my composition.
 
 Also, it is a silly story. Only silly people can identify themselves with a man who believes that godforsaken car has life. Silly people like children, simple folk like peasants, animists like tribals. To us city folks, it is a story of a crazy man.
 
@@ -76,6 +86,27 @@ Digital 4K (restoration)
 
 The screening on Tue 21 Jun will be introduced by season curator Sanghita Sen<br>
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExODM2MzYzNjBdfQ==
 -->
