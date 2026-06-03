@@ -51,57 +51,37 @@ The prospect is exciting, is it not?
 Reprinted in _Cinema and I_ (Ritwik Memorial Trust, 1987)**
 <br><br>
 
-**Bagala’s Discovery of Bengal  
-**Bagalar Banga Darshan
-
+**Bagala’s Discovery of Bengal** Bagalar Banga Darshan  
 _Director_: Ritwik Ghatak  
-_Director of Photography_:  
-Dilip Ranjan Mukhopadhyay  
-_Music_: Hriday Ranjan Kushari
-
-_Cast:_
-
+_Director of Photography_:  Dilip Ranjan Mukhopadhyay  
+_Music_: Hriday Ranjan Kushari  
+_Cast:_  
 Sunil Bhattacharya  
-Indrami Mukhopadya
-
-India 1963
-
-36 mins
-
+Indrami Mukhopadya  
+India 1963  
+36 mins  
 Digital
 
-**The Knave of Trumps** Ranger Ghulam
-
-India 1968
-
-30 mins
-
-Digital
-
+**The Knave of Trumps** Ranger Ghulam  
+India 1968  
+30 mins  
+Digital  
 Silent with pre-recorded sitar accompaniment by Sheema Mukherjee
 
-**Ramkinkar Baij: A Personality Study  
-**Ramkinkar
-
-_Director_: Ritwik Ghatak
-
-India 1975
-
-31 mins
-
+**Ramkinkar Baij: A Personality Study** Ramkinkar  
+_Director_: Ritwik Ghatak  
+India 1975  
+31 mins  
 Digital (restoration)
 
-**Scientists of Tomorrow**
-
-_Director_: Ritwik Ghatak
-
-India 1967
-
-10 mins
-
+**Scientists of Tomorrow**  
+_Director_: Ritwik Ghatak  
+India 1967  
+10 mins  
 Digital 4K (restoration)
 
 The screening on Wed 3 Jun will be introduced by season curator Sanghita Sen
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTM5NzQyMl19
+eyJoaXN0b3J5IjpbLTE1MDUzMjAyMzhdfQ==
 -->
