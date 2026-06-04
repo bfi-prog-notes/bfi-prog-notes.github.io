@@ -30,10 +30,8 @@ _Director_: Karim Aïnouz
 _Production Companies_: RT Features, Pola Pandora, Sony Pictures, Canal Brasil, Naymar  
 _Associate Producer_: Uno Filmes  
 _Supported by_: Medienbord Brandenburg, Banco Regional de Desenvolvimento do Extremo Sul, Fundo Setorial do Audiovisual, ANCINE  
-_Executive Producers_: Camilo Cavalcanti,  Viviane Mendonca, Mariana Coelho,  
-Cecile Tollu-Polonowski, André Novis  
-_Produced by_: Rodrigo Teixeira,  
-Michael Webber, Viola Fügen  
+_Executive Producers_: Camilo Cavalcanti,  Viviane Mendonca, Mariana Coelho, Cecile Tollu-Polonowski, André Novis  
+_Produced by_: Rodrigo Teixeira,  Michael Webber, Viola Fügen  
 _Associate Producer_: Michel Merkt  
 _Assistant Director_: Nina Kopko  
 _Script Supervisor_: Carol Ao  
@@ -47,14 +45,12 @@ _Art Director_: Rodrigo Martirena
 _Costume Designer_: Marina Franco  
 _Make-up_: Rosemary Paiva  
 _Original Music_: Benedikt Schiefer  
-_Music Supervisors_: Guilherme Garbato,  
-Gustavo Garbato  
+_Music Supervisors_: Guilherme Garbato,  Gustavo Garbato  
 _Direct Sound_: Laura Zimmerman  
 _Sound Mixer_: Björn Wiese  
 _Sound Editor_: Waldir Xavier
 
-_Cast:_
-
+**Cast**  
 Carol Duarte _(Eurídice)_  
 Julia Stockler _(Guida / Gisele)_  
 Antonio Fonseca _(Manoel)_  
@@ -69,11 +65,10 @@ Maria Manoella _(Zelia)_
 Fernanda Montenegro _(Eurídice)_  
 Hugo Cruz _(Feliciano)_
 
-Brazil-Germany-USA 2019©
-
-140 mins
-
+Brazil-Germany-USA 2019©  
+140 mins  
 Digital
+<br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzkwMTI3XX0=
+eyJoaXN0b3J5IjpbMjEyNzE5MDQ5NV19
 -->
