@@ -32,87 +32,78 @@ This was the most important film made by Olga Preobrazhenskaya, a Russian film p
 <br><br>
 
 **Secrets of Nature: Plants of the Underworld**<br>
-
 _Director:_ Mary Field<br>
-
 _Production Company_: British Instructional Films<br>
-
-UK 1930
-
-11 mins
-
+UK 1930<br>
+11 mins<br>
 Digital
 
-**Cinderella**
-
+**Cinderella**<br>
 _Director_: Lotte Reiniger  
 _Production Company_: Institut für Kulturforschung  
 _Collaborators_: Carl Koch, Toni Raboldt  
-_Verses specially written by_: Humbert Wolfe  
-_[Film Society version]_  
-_Based on the story by_: The Brothers Grimm
-
-Germany 1922
-
-16 mins
-
+_Verses specially written by_: Humbert Wolfe  _[Film Society version]_  
+_Based on the story by_: The Brothers Grimm<br>
+Germany 1922<br>
+16 mins<br>
 35mm
 
-**The Seashell and the Clergyman**
+**The Seashell and the Clergyman**<br>
 
 La coquille et le Clergyman
 
-_Director/Producer:_ Germaine Dulac
+_Director/Producer:_ Germaine Dulac<br>
 
-_Assistant Director:_ Louis Ronjat
+_Assistant Director:_ Louis Ronjat<br>
 
-_Screenplay:_ Antonin Artaud
+_Screenplay:_ Antonin Artaud<br>
 
-_Director of Photography:_ Paul Parguel
+_Director of Photography:_ Paul Parguel<br>
 
-_Camera Operator:_ Paul Guichard
+_Camera Operator:_ Paul Guichard<br>
 
-_Storyboard Artist:_ Antonin Artaud
+_Storyboard Artist:_ Antonin Artaud<br>
 
-_Consultant:_ Yvonne Allendy
+_Consultant:_ Yvonne Allendy<br>
 
-_Cast:_
+_Cast:_<br>
 
-Alex Allin _(the clergyman)_
+Alex Allin _(the clergyman)_<br>
 
-Génica Athanasiou _(the woman)_
+Génica Athanasiou _(the woman)_<br>
 
-Lucien Bataille _(the officer)_
+Lucien Bataille _(the officer)_<br>
 
-France 1928
+France 1928<br>
 
-40 mins
+40 mins<br>
 
 35mm
 
-**Peasant Women of Ryazan** Baby Riazanskie
+**Peasant Women of Ryazan** Baby Riazanskie<br>
 
 _Director_: Olga Preobrazhenskaya  
-_Production Company_: First Studio Sovekino
+_Production Company_: First Studio Sovekino<br>
 
-_Cast:_
+_Cast:_<br>
 
-Emma Tsesarskaya
+Emma Tsesarskaya<br>
 
-Raisa Pruzhnaya
+Raisa Pruzhnaya<br>
 
 K. Yastrebitsky  
 G. Bobynin  
 O. Narbekova  
-M. Savelyev
+M. Savelyev<br>
 
-USSR 1927
+USSR 1927<br>
 
-67 mins
+67 mins<br>
 
 Digital
 
-With live piano accompaniment by Meg Morley
+With live piano accompaniment by Meg Morley<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNzgxOTExXX0=
+eyJoaXN0b3J5IjpbNDM5ODU0NzMxXX0=
 -->
