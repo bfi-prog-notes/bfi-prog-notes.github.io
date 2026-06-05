@@ -45,53 +45,33 @@ And such films should not and cannot cost very much. The documentary films that 
 
 The next difficulty that comes to my mind is the method of sponsorship and the way of handling the filmmaking proper.  
 **Ritwik Ghatak, ‘Cinema and I’ (Ritwik Memorial Trust, 1987)**
+<br><br>
 
-<![endif]-->
-
-**Rendezvous**
-
-_Director_: Rajendra Nath Shukla
-
-India 1965
-
-13 mins
-
-Digital 4K (restoration)
-
+**Rendezvous**<br>
+_Director_: Rajendra Nath Shukla<br>
+India 1965<br>
+13 mins<br>
+Digital 4K (restoration)<br>
 Courtesy of Film and Television Institute of India
 
-<![endif]-->
-
-**The Chhau Dance of Purulia  
-**Puruliar Chhou Nritya
-
-_Director_: Ritwik Ghatak
-
-India 1970
-
-13 mins
-
+**The Chhau Dance of Purulia** Puruliar Chhou Nritya<br>
+_Director_: Ritwik Ghatak<br>
+India 1970<br>
+13 mins<br>
 Digital 4K (restoration)
 
-**The Question** Yeh Kyun
-
-_Director_: Ritwik Ghatak
-
-India 1970
-
-20 mins
-
+**The Question** Yeh Kyun<br>
+_Director_: Ritwik Ghatak<br>
+India 1970<br>
+20 mins<br>
 Digital 4K (restoration)
 
-**Where the Padma Flows** Durbar Gati Padma
-
-_Director_: Ritwik Ghatak
-
-India 1971
-
-22 mins
-
-Digital 4K (restoration)
+**Where the Padma Flows** Durbar Gati Padma<br>
+_Director_: Ritwik Ghatak<br>
+India 1971<br>
+22 mins<br>
+Digital 4K (restoration)<br>
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUwNDMwMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzA0OTE0OTZdfQ==
 -->
