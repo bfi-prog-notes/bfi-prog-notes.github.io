@@ -48,62 +48,38 @@ Germany 1922<br>
 16 mins<br>
 35mm
 
-**The Seashell and the Clergyman**<br>
-
-La coquille et le Clergyman
-
+**The Seashell and the Clergyman** La coquille et le Clergyman<br>
 _Director/Producer:_ Germaine Dulac<br>
-
 _Assistant Director:_ Louis Ronjat<br>
-
 _Screenplay:_ Antonin Artaud<br>
-
 _Director of Photography:_ Paul Parguel<br>
-
 _Camera Operator:_ Paul Guichard<br>
-
 _Storyboard Artist:_ Antonin Artaud<br>
-
 _Consultant:_ Yvonne Allendy<br>
-
 _Cast:_<br>
-
 Alex Allin _(the clergyman)_<br>
-
 Génica Athanasiou _(the woman)_<br>
-
 Lucien Bataille _(the officer)_<br>
-
 France 1928<br>
-
 40 mins<br>
-
 35mm
 
 **Peasant Women of Ryazan** Baby Riazanskie<br>
-
 _Director_: Olga Preobrazhenskaya  
 _Production Company_: First Studio Sovekino<br>
-
 _Cast:_<br>
-
 Emma Tsesarskaya<br>
-
 Raisa Pruzhnaya<br>
-
 K. Yastrebitsky  
 G. Bobynin  
 O. Narbekova  
 M. Savelyev<br>
-
 USSR 1927<br>
-
 67 mins<br>
-
 Digital
 
 With live piano accompaniment by Meg Morley<br>
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5ODU0NzMxXX0=
+eyJoaXN0b3J5IjpbMzk1MDgxMzQzXX0=
 -->
