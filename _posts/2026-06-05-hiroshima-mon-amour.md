@@ -39,79 +39,42 @@ I don’t know why Resnais goes on about their sticking together. That’s not t
 <br><br>
 
 **Hiroshima mon amour**<br>
-
 _Director:_ Alain Resnais<br>
-
-_Production Companies:_ Argos-Films,  
-Como Films (Paris), Daiei Kyoto, Pathe Overseas<br>
-
+_Production Companies:_ Argos-Films,  Como Films (Paris), Daiei Kyoto, Pathe Overseas<br>
 _Executive Producer:_ Samy Halfon<br>
-
-_Production Managers:_ Sacha Kamenka,  
-Shirakawa Takeo<br>
-
+_Production Managers:_ Sacha Kamenka,  Shirakawa Takeo<br>
 _Unit Managers:_ R. Knabe, I. Ohashi<br>
-
 _Production Secretary:_ Nicole Seyler<br>
-
-_Assistant Directors:_ I. Shirai, T. Andréfouet,  
-J.-P. [Jean-Pierre] Léon, R. [René] Guyonnet,  
-Itoi, Hara<br>
-
+_Assistant Directors:_ I. Shirai, T. Andréfouet,  J.-P. [Jean-Pierre] Léon, R. [René] Guyonnet,  Itoi, Hara<br>
 _Script Supervisor:_ Sylvette Baudrot<br>
-
 _Scenario/Dialogue:_ Marguerite Duras<br>
-
 _Literary Adviser:_ Gérard Jarlot<br>
-
 _Director of Photography (France):_ Sacha Vierny<br>
-
 _Director of Photography (Japan):_ Michio Takahashi<br>
-
 _Lighting:_ [Akihiro] Ito<br>
-
 _Camera Operators:_ [Pierre] Goupil, Watanabe, Ioda<br>
-
-_Assistant Operators:_ [Jean] Chiabaut,  
-[Denys] Clerval, Nogatomo, Yamagutschi<br>
-
-_Editors:_ Henri Colpi, Jasmine Chasney,  
-Anne Sarraute<br>
-
+_Assistant Operators:_ [Jean] Chiabaut,  [Denys] Clerval, Nogatomo, Yamagutschi<br>
+_Editors:_ Henri Colpi, Jasmine Chasney,  Anne Sarraute<br>
 _Art Directors:_ Esaka, Mayo, [Maurice] Petri<br>
-
 _Assistant Art Director:_ [Noboru] Miyakuni<br>
-
 _Properties:_ Roger Jumeau, Ikeda<br>
-
 _Costumer:_ Gérard Collery<br>
-
 _Make-up:_ Alex Marcus, R. Toioda<br>
-
 _Hairstyles:_ Eliane Marcus<br>
-
 _Music:_ Giovanni Fusco, Georges Delerue<br>
-
 _Sound:_ Pierre Calvet, René Renault, Yamamoto
 
-_Cast:_<br>
-
+**Cast**<br>
 Emmanuelle Riva _(she)_<br>
-
 Eiji Okada _(he)_<br>
-
 Stella Dassas _(the mother)_<br>
-
 Pierre Barbaud _(the father)_<br>
-
 Bernard Fresson _(the German)_
 
 France-Japan 1959<br>
-
 100 mins<br>
-
 Digital 4K<br>
-
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE4OTgxMThdfQ==
+eyJoaXN0b3J5IjpbLTk4NjM4OTY2OF19
 -->
