@@ -1,3 +1,14 @@
+---
+layout: post
+title: Babenco - Tell Me When I Die
+published: true
+date: 2026-06-13
+readtime: true
+categories: ['Brazil on Film']
+tags: [Documentary]
+metadata: 'Brazil 2019, 73 mins<br> Director: Bárbara Paz'
+pdf: '2026-06-13-babenco-tell-me-when-i-die.pdf'
+---
 
 **Director’s Statement: Bárbara Paz**  
 I decided to make the documentary when I saw my much-loved companion one day in one of the many hospital beds he occupied, and became fearful that there would not be enough time to tell the story of the man whose strength so impressed me. Basically, I wanted everyone to hear what he was hearing, to get to know the thinker over and above the filmmaker, this man who fought to survive because he lived to make films. Every time Hector was on the verge of death he would think of another film to make.
@@ -26,6 +37,30 @@ As much as death is very present in the film, so is love and joy. This is especi
 It is also an opportunity for those who did not have the privilege of knowing him personally to see excerpts of his remarkable filmography that speaks so profoundly about global issues such as poverty, social inequality, prejudice, the environment and other relevant human themes that are very present in our societies today.  
 **Production notes**
 <br><br>
+
+Presented as part of the UK/Brazil Season of Culture 2025-26 and supported by  Instituto Guimarães Rosa
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUwMDc1NDIxNV19
 -->
