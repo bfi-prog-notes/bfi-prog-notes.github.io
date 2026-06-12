@@ -37,7 +37,7 @@ _You have had critical and artistic success with your award-winning production o
 
 That’s very true. We have to think of our isolation as a positive thing – and it is. Having been around the world recently, the things that my team and I have been able to do are inconceivable in other countries, particularly in terms of doing a classic opera on the main stage in the main opera house of the country. It’s totally unheard of anywhere else.
 
-_You have used the same opera design team for_ Strictly Ballroom_. Was it hard persuading M&A [Film Corporation] to go with non-film people?_
+_You have used the same opera design team for_ Strictly Ballroom _. Was it hard persuading M&A [Film Corporation] to go with non-film people?_
 
 Very early on in the piece, when M&A came to me, I said to Tristram [Miall, producer], ‘Look, I work with these people. We’ve developed a working relationship. It’s extremely important that they design the film.’ Very bravely, M&A backed that, where a lot of other people were saying, ‘Ooh, they haven’t done a film before.’ The upshot is that they’ve now been offered other films.
 
@@ -47,8 +47,9 @@ _What are your hopes for the film?_
 
 That _Strictly Ballroom_ will be a success and that Australians in particular will come to see it, because it is about Australians. Everyone booed Scott Hastings out of the race, but he came back as an outsider and won!
 
-Interview by Ronnie Taylor, _Cinema Papers_, May 1992
+**Interview by Ronnie Taylor, _Cinema Papers_, May 1992**
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcwOTc4OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNTYwNzc4NDEsLTExMjcwOTc4OTldfQ
+==
 -->
