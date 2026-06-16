@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Second Mother
+published: true
+date: 2026-06-16
+readtime: true
+categories: ['Brazil on Film']
+tags: [Drama]
+metadata: 'Brazil 2015, 112 mins<br> Director: Anna Muylaert'
+pdf: '2026-06-16-second-mother.pdf'
+---
 
 The tensions in the life of the enterprising and affectionate housekeeper-cum-nanny protagonist of Anna Muylaert’s accomplished _The Second Mother_ are identified from the very opening of the film. She is watching over the small son of her employers by the family pool while talking to her absent daughter on the phone. The matronly Val is identified as the child Fabinho’s second mother as he plainly asks ‘What time she will return?’ – _que horas ela volta?_, the film’s original Brazilian title. It’s a telling question that is picked up when we next see the household over a decade later. It refers to the now adolescent Fabinho’s busy professional mother Bárbara, but it resonates with Val and even, during the course of the film, with Val’s daughter Jéssica and the latter’s own relationship with her baby son. Indeed, Muylaert’s film functions by skilfully crafting a web of parallel situations between the different parent-child pairings across a lean, adroit narrative charting the disruption that ensues when the clever, motivated Jéssica becomes a cuckoo in the middle-class family’s nest.
 
@@ -20,6 +31,30 @@ _The Second Mother_ was supposed to be my first feature film project. I decided 
 As I said, almost 20 years later I came back to this project, feeling that it was the right time to address its complexity. My two sons were adults, the country was changing for the better, its people developing more self-esteem and getting stronger. Likewise, I had also learned a lot about writing and directing films as well as working with actors. For all these personal, social and professional issues, this is a lifetime project that reflects the recent history of the country as well as choices that I have made in my own life. I hope all the love and care that is in this film’s DNA can go further and maybe, in its own small way, help people find new and better places for themselves in the world.  
 **Production notes**
 <br><br>
+
+Presented as part of the UK/Brazil Season of Culture 2025-26 and supported by  Instituto Guimarães Rosa
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgyMTM0MzU2OV19
 -->
