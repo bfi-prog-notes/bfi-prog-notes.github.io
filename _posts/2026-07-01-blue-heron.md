@@ -4,7 +4,7 @@ title: Blue Heron
 published: true
 date: 2026-07-01
 readtime: true
-categories: ['Seniors']
+categories: ['Seniors' Matinee']
 tags: [Drama]
 metadata: 'Canada-Hungary-USA 2025, 90 mins<br> Director: Sophy Romvari'
 pdf: '2026-07-01-blue-heron.pdf'
@@ -55,5 +55,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgyNjUyMzNdfQ==
+eyJoaXN0b3J5IjpbMTMwNzMzMjU1LC0yMDI4MjY1MjMzXX0=
 -->
