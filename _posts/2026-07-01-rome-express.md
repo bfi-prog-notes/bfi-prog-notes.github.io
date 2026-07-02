@@ -1,9 +1,19 @@
+---
+layout: post
+title: Rome Express
+published: true
+date: 2026-07-01
+readtime: true
+categories: ['Station to Station<br>Kazuo Ishiguro’s Top Ten Train Films']
+tags: [Thriller]
+metadata: 'UK 1932, 94 mins<br> Director: Walter Forde'
+pdf: '2026-07-01-rome-express.pdf'
+---
 
 German star Conrad Veidt and ace Austrian cameraman Günther Krampf bring a near-expressionist Weimar sensibility to this riveting British thriller, set aboard a train filled with enjoyably stiff-upper-lipped stereotypes. Deplorably neglected today, this deserves to be remembered both as a classic and as a strangely serendipitous blending of two normally opposed cinematic styles.  
 **Kazuo Ishiguro**
 
-The studios at Lime Grove in Shepherd’s Bush had been closed down for a year from 1931, a year that had seen major changes for Gaumont-British. The company had ﬁnally gained outright control of Gainsborough Studios (having had shares in the company since 1927) and Michael Balcon had been promoted to production head of both companies, having previously been in control of Gainsborough alone. When the new studios, now one of the largest in Europe, opened in June 1932, the two studios between them had the capacity, according to historian Rachael Low, for producing between 30 and 40 ﬁlms a year. With an expansion on this scale, and the inevitable expense incurred, Gaumont-British needed to produce a string of box-ofﬁce winners.  
-As a result, Balcon initiated a policy, contrary to his later beliefs while at Ealing, of producing ﬁlms aimed at an international audience. _Rome Express_, being the ﬁrst of these, had to make an impact on the international box ofﬁce.
+The studios at Lime Grove in Shepherd’s Bush had been closed down for a year from 1931, a year that had seen major changes for Gaumont-British. The company had ﬁnally gained outright control of Gainsborough Studios (having had shares in the company since 1927) and Michael Balcon had been promoted to production head of both companies, having previously been in control of Gainsborough alone. When the new studios, now one of the largest in Europe, opened in June 1932, the two studios between them had the capacity, according to historian Rachael Low, for producing between 30 and 40 ﬁlms a year. With an expansion on this scale, and the inevitable expense incurred, Gaumont-British needed to produce a string of box-ofﬁce winners.  As a result, Balcon initiated a policy, contrary to his later beliefs while at Ealing, of producing ﬁlms aimed at an international audience. _Rome Express_, being the ﬁrst of these, had to make an impact on the international box ofﬁce.
 
 To direct this important ﬁlm, Balcon chose Walter Forde, the ex-comedian turned director, who had earlier produced a number of box-ofﬁce hits for Balcon at Gainsborough, such as the Edgar Wallace thriller _The Ringer_ (1931) and the Jack Hulbert comedy _The Ghost Train_ (1931). Balcon’s chosen cast was suitably cosmopolitan for a ﬁlm holding such international ambitions, with the German Conrad Veidt and the American Esther Ralston leading a roster of stalwart British players. The cinematography of Günther Krampf would hopefully give the ﬁlm a European look, while the editing of Fredrick Y. Smith, an American editor brought in especially by Balcon, would help to give the ﬁlm some American pace. The story itself, chosen by Forde, was also cosmopolitan, eschewing any British background, dealing as it did with a train journey across Europe.
 
@@ -16,6 +26,30 @@ Such techniques all sound rather obvious today, but at the time the sets and the
 The inﬂuence of _Rome Express_ itself was to live on for many years to come, as indeed it still does. The train-set ﬁlm was to prove perennially popular; one immediately thinks of Hitchcock’s _The Lady Vanishes_ (1938) in this context, as was the gathering together of a disparate group of characters in a closed setting who have to contend with a dangerous situation, such as Ford’s _Stagecoach_ (1939) and any number of interchangeably-plotted ‘disaster’ ﬁlms. _Rome Express_ is the antecedent of them all.  
 **John Oliver**
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NzkyNjg3MDNdfQ==
 -->
