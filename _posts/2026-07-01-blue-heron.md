@@ -1,3 +1,14 @@
+---
+layout: post
+title: Blue Heron
+published: true
+date: 2026-07-01
+readtime: true
+categories: ['Seniors' Matinee']
+tags: [Drama]
+metadata: 'Canada-Hungary-USA 2025, 90 mins<br> Director: Sophy Romvari'
+pdf: '2026-07-01-blue-heron.pdf'
+---
 
 In one of her early short films, _Grandma’s House_ (2018), Sophy Romvari documented her late grandmother’s flat in Budapest. Each shot showed a different room, all of them eerily quiet, in grainy digital lo-fi, followed by Romvari holding up a photograph taken in the same place decades before: the spot where her grandmother once watered flowers was now an empty balcony; where once a lively dinner party, now a nondescript corner. The beauty of these photographs is what will eventually make them so painful – they have fixed in time a happiness that the director can never return to, and which she might not even recognise. The physical image stays the same, even as her memory of the scene it depicts fades and falters, even after everyone in the photo has died.
 
@@ -23,6 +34,25 @@ In _Blue Heron_ there are no solutions, nothing that can make up for what has be
 **Ian Wang, _Sight and Sound_, Summer 2026**
 <br><br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMjgyNjUyMzNdfQ==
