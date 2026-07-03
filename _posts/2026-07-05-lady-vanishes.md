@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Lady Vanishes
+published: true
+date: 2026-07-05
+readtime: true
+categories: ['Station to Station<br>Kazuo Ishiguro’s Top Ten Train Films']
+tags: [Thriller]
+metadata: 'UK 1938, 96 mins<br> Director: Alfred Hitchcock'
+pdf: '2026-07-05-lady-vanishes.pdf'
+---
 
 On a train crossing Europe on the brink of the Second World War, Iris takes tea with the friendly English governess she met in her compartment. Minutes later, the governess has vanished and none of the train’s eccentric gallery of passengers will admit to having ever seen her. Propelled by a superb Launder and Gilliat script, Hitchcock’s finest British film is, by turns, hilarious, thrilling, romantic and scary.  
 **Kazuo Ishiguro**
@@ -21,6 +32,30 @@ It’s clear that the sparkling screwball interaction between Iris and Gilbert w
 Hitchcock, of course, was responsible for the rhythmic flow of the film, the note-perfect performances and the pleasing shifts in mood. All this was absent from Launder and Gilliat’s _Night Train to Munich_, a leaden thriller about a British agent impersonating a Nazi officer in which director Carol Reed squanders both the train sequence and Margaret Lockwood, cast as the daughter of a German scientist. Not even the return of Charters and Caldicott, with their dry public-school badinage, can save it. Effortlessly appealing, Gilbert and Iris – who plan to marry and avoid trains – should have returned like _The Thin Man’_s Nick and Nora Charles with their own mystery franchise, but it wasn’t to be. The last word on _The Lady Vanishes_ should go to François Truffaut. ‘They show it often in Paris; sometimes I see it twice in one week,’ he told Hitchcock, as if nothing were more natural.  
 **Graham Fuller, _Sight and Sound_, January 2008**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk2OTEwNzk1NV19
 -->
