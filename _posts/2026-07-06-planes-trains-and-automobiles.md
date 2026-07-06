@@ -1,3 +1,14 @@
+---
+layout: post
+title: Planes, Trains & Automobiles
+published: true
+date: 2026-07-06
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Comedy]
+metadata: 'USA 1987, 92 mins<br> Director: John Hughes'
+pdf: '2026-07-06-planes-trains-and-automobiles.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -18,6 +29,30 @@ Del Griffith fills the screen with the effluence of his life style – scattered
 Another pleasing aspect of _Planes, Trains & Automobiles_ is its emphasis on the possibility of male friendship which goes beyond conventional areas such as work and macho camaraderie to an understanding of emotional needs and a certain thoughtfulness. Neal and Del’s homophobia when they are first forced to share a room develops into an enjoyment of each other’s company when Neal invites Del to join him in the second motel – ‘Why do I feel like I’m in summer camp?’ Neal asks – their joking and philosophising aided by consumption of the room’s supply of alcoholic miniatures. The other characters encountered en route are as well observed as the central duo, from Larry Hankin’s hot-rod taxi driver to Edie McClurg’s affronted car-rental agent, each ensuring Neal suffers maximum irritation along the way, but also by the end prompting his remark that he’s a ‘little wiser’.  
 **Janet Hawken, _Monthly Film Bulletin_, June 1988**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTkzNzAwMjI2XX0=
 -->
