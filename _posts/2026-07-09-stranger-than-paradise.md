@@ -1,3 +1,14 @@
+---
+layout: post
+title: Stranger than Paradise
+published: true
+date: 2026-07-09
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Comedy, Drama]
+metadata: 'USA-West Germany 1984, 89 mins<br> Director: Jim Jarmusch'
+pdf: '2026-07-09-stranger-than-paradise.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -12,6 +23,30 @@ In this respect, the performances – particularly that of Lurie – are crucial
 That, perhaps, is not exactly a hugely dramatic conclusion for a film, but Jarmusch leads us to it with considerable warmth, wit and a subtle poetry. Aunt Lottie and Eddie, in particular, are enormously engaging, amusing characters: the former babbles on in Hungarian, barely bothering to notice whether anyone is in fact listening to her, and repeatedly beats her two guests, who both take a ridiculous pride in their gambling skills, at a card game; Eddie, meanwhile, is so eager to impress Eva that when she announces she is going to Cleveland, he tells her the city is so beautiful she is sure to love it – before admitting that he has never been there. (Of course, when he and Willie finally go there themselves, all they see are characterless suburbs and enormous, ugly industrial sites, just as their later experience of Florida – ‘Paradise’ – is, as far as we actually see, largely confined to a motel room.) At the same time, however, Jarmusch makes use of Tom DiCillo’s bleached monochrome camerawork to often stunning effect, so that a snow-covered Lake Erie and a Florida beach look as bleakly beautiful as each other. Music, too, is used to lend an air of strangeness to an otherwise mundane landscape, with Lurie’s string quartet (appropriately echoing the style of the Hungarian composer Bartók) providing a melancholy backdrop to the sometimes dreamlike images on view.  
 **Geoff Andrew, _Stranger than Paradise: Maverick Filmmakers in Recent American Cinema_ (Prion, 1998)**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEzNDAxMTE2M119
 -->
