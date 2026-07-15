@@ -1,8 +1,18 @@
+---
+layout: post
+title: Bhaji on the Beach
+published: true
+date: 2026-07-15
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Comedy]
+metadata: 'UK 1993, 101 mins<br> Director: Gurinder Chadha'
+pdf: '2026-07-15-bhaji-on-the-beach.pdf'
+---
 
 About a third of the way through _Bhaji on the Beach_, one of the film’s most dayglo characters, the Bombay-based, Chanel-clad Rekha, clambers down from the coach, totters around the corner on her pink high heels and is confronted with her first, unforgettable glimpse of Blackpool. The sight is so gloriously gaudy, and above all familiar, that her awe-filled response is almost involuntary: ‘It’s Bombay!’ she exclaims.
 
-It is a moment that _Bhaji_’s director, Gurinder Chadha, feels sums up the film.  
-‘I do think that Blackpool, when the Illuminations are on, is where England meets India. I bet that if the film goes out in India there will be directors who will want to come and film here.’
+It is a moment that _Bhaji_’s director, Gurinder Chadha, feels sums up the film.  ‘I do think that Blackpool, when the Illuminations are on, is where England meets India. I bet that if the film goes out in India there will be directors who will want to come and film here.’
 
 Sometimes home is not as far away as it seems. And it is these issues of home, hybridity, identity and belonging that preoccupy Chadha in _Bhaji_, the first feature film to be directed by an Asian woman in Britain. ‘What I’ve tried to do with all my work is to open up all that stuff – what it is to be British. What I’m doing is making a claim, as well as documenting a history of British Asian people.’ In his collection of essays _Imaginary Homelands_, Salman Rushdie makes it clear that ‘laying claim’ is not a pursuit without pitfalls. How do you preserve cultural values without falling into a ghetto mentality? How do you discuss the need for change without playing into the hands of the enemy? It is a question that transcends politics, nationality, even race. ‘It is a question,’ he remarks, ‘of how to be in the world.’
 
@@ -17,6 +27,30 @@ With its picaresque coach journey, stops at motorway cafes and Punjabi version o
 Chadha, who has a degree in politics and economics and a work background dominated by television journalism, says of herself: ‘I came to this work as someone who was very conscious of how the media constructs images of Black people. What I’m interested in doing is counteracting those images of how I – as a Black woman – should be, rather than looking at the multiplicity and complexity of what I actually am.’  
 **Andrea Stuart, _Sight and Sound_, February 1994**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODc2MTgxNDE3XX0=
 -->
