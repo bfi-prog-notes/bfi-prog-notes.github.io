@@ -1,3 +1,14 @@
+---
+layout: post
+title: Kings of the Road
+published: true
+date: 2026-07-19
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Drama, Road Movies]
+metadata: 'West Germany 1976, 176 mins<br> Director: Wim Wenders'
+pdf: '2026-07-19-kings-of-the-road.pdf'
+---
 
 A three-hour study of two men who are on the road, servicing the projectors in failing movie theatres, _Kings of the Road_ is full of film references and the situation of a Hawksian bond tested against the newer threats of tedium and cultural deterioration in which Germany has become a satellite of Americana. The pace is leisurely, and the action is not emphatic, but _Kings of the Road_ is one of the best films of the seventies. It seemed to predict Wenders’ future: an increasingly existential concern underlying the unforced dealings between lonely people.  
 **David Thomson, _A Biographical Dictionary of Film_ (Andre Deutsch, 1994)**
@@ -15,6 +26,29 @@ On a figurative level, their journey is an examination of the means and limits o
 The film concludes even more pessimistically on this level than on the psychological, or at least ends by insisting on a similar return to degree zero and a new beginning. As Robert simply wanders away, to continue his journey by train (he has always been the more concerned with actually going somewhere), he encounters a small boy noting down straightforward descriptions of the things he sees around him, and Robert trades his few remaining possessions for the notebook. Bruno is last seen where he began, repairing a projector in a smalltown movie-house and listening to an elderly projectionist lament the death of the cinema. The lament, of course, is also Wenders’ own, but in a way its purpose is as much a psychological purging as the characters’ experiences in the film: the oft-invoked figure of Lang (as with Ford in _Alice_) serves more as a necessary but finally perishable father figure than he does for specific filmic reference. The final image seems to imply that this aspect of Wenders’ career – as well as his nostalgic phase of black-and-white movie making – is over: the cinema’s illuminated sign, ‘Weisse Wand’ (White Screen), is malfunctioning so that only three letters, spelling ‘end’, are alight, next to the cinema’s entwined initials, ‘WW’.  
 **Richard Combs, _Monthly Film Bulletin_, July 1977**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
