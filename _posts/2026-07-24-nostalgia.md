@@ -1,3 +1,15 @@
+---
+layout: post
+title: Nostalgia
+published: true
+date: 2026-07-24
+readtime: true
+categories: ['Re-releases']
+tags: [Drama]
+metadata: 'Italy-USSR 1983, 125 mins<br> Director: Andrei Tarkovsky'
+pdf: '2026-07-24-nostalgia.pdf'
+---
+
 How could I have imagined as I was making _Nostalgia_ that the stifling sense of longing that fills the screen space of that film was to become my lot for the rest of my life; that from now until the end of my days I would bear the painful malady within myself?  
 **Andrei Tarkovsky**
 
@@ -13,7 +25,31 @@ Enclosing the final image is the ruined cathedral through which, in an earlier d
 
 Never one to unlock the secrets of his images too readily, entitled as they are to their own private litany, Tarkovsky is unconcerned about the penetrability of _Nostalgia_. In conversation filtered clumsily through the language barrier, he’ll confirm it’s intended to be Domenico’s son in abrupt colour close-up who, fresh from seven-year seclusion, stares at a breathtaking hill-top town wreathed in mists and asks, as well he may, ‘Is this the end of the world?’. He’ll agree that the sequence in fact conflicts with the rest of the monochrome/colour dialogue of the film, and agree equally cheerfully that it might be justified (if justification be needed) as a ‘bridge’ between past and present. As a poet, he’ll support any reading if the poem supports it too. His visual language is hypnotic, dazzling and audacious, particularly in the hotel scene where he calmly tracks into close-up on the bed while dimming various circles of light, staging a rainstorm, and introducing a very palpable hallucination. The purgatorial crossing and recrossing of St. Catherine’s Pool, whatever one’s sympathies by this stage, is also an undeniable triumph of pure cinema. If Andrei, frozen in expectancy at the end, is indeed Tarkovsky himself, we are entitled to a degree of faith that as filmmaker at least, he has no intention of changing, and that the lines are still open.  
 **Philip Strick, _Monthly Film Bulletin_, December 1983**
+<br><br>
+
+A Curzon re-release
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTI0OTc3NDM2XX0=
 -->
