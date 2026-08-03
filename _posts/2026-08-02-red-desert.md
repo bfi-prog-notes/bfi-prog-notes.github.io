@@ -1,3 +1,14 @@
+---
+layout: post
+title: Red Desert
+published: true
+date: 2026-08-02
+readtime: true
+categories: ['Monica Vitti<br>Creative Force']
+tags: [Drama]
+metadata: 'Italy-France 1964, 117 mins<br> Director: Michelangelo Antonioni'
+pdf: '2026-08-02-red-desert.pdf'
+---
 
 Against the backdrop of a bleak industrial landscape, a traumatised woman embarks on an affair. Antonioni’s first colour film critiques industrialisation and reflects on fragmented human connection in a rapidly changing society. Vitti, starring alongside Richard Harris, gives a devastating performance as the fragile Giuliana, who is searching for something she cannot name. The film won the Golden Lion at the 1965 Venice Film Festival.
 
@@ -20,6 +31,39 @@ I think the background that you see as the title credits roll is very beautiful.
 
 _Red Desert_ isn’t really a continuation of my previous work. Before, the environment in which my characters lived was described indirectly through their own positions, their psychology and feelings and backgrounds. What those films were most about was the personal relationships of the characters. In _Red Desert_, I wanted to highlight more the relationship between the characters and the world around them. I tried, therefore, to rediscover the traces of ancient human feelings which are buried nowadays under a welter of conventions, gestures, and rhythms that amount to substitutes; and under a conciliatory ‘public-relations’ jargon that hides our true feelings. It’s almost like being an archaeologist, digging through dry and arid material of the modern age. If this kind of ‘digging’ shows through more clearly in _Red Desert_, it is also because our world is slowly becoming easier to study.  
 **Interview by François Maurin. Originally published in _Humanité dimanche_, 23 September 1964. Translated by Andrew Taylor for publication in _The Architecture of Vision_ (Marsilio, 1996)**
+<br><br>
+
+**In partnership with**   
+Cinecittà and the Cinema Department of the Ministry of Culture
+
+**With thanks to**  
+Paola Ruggiero, Camilla Cormanni, Marco Cicala and Germana Ruscio
+<br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY3ODk5NTk4N119
 -->
