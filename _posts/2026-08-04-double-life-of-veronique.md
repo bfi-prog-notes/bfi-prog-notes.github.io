@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Double Life of Véronique
+published: true
+date: 2026-08-04
+readtime: true
+categories: ['No Strings Attached<br>Puppets on Film']
+tags: [Drama, Mystery]
+metadata: 'France-Poland-Norway 1991, 98 mins<br> Director: Krzysztof Kieslowski'
+pdf: '2026-08-04-double-life-of-veronique.pdf'
+---
 
 With its obsessive brooding on objects – their unearthly light, their depths of emotive resonance, their portentous presence – it would be fair to say that _The Double Life of Véronique_ is concerned with the luminous, the numinous and the ominous. Foremost in the film’s system of objects is the mirror, as befits a story about duality and specularity. Mirrors are everywhere, splitting up the screen, reflecting and refracting gazes, multiplying space: the mirror in which Véronique first sees her lover, the mirror manipulated by a child across the street to throw a strange light into her room, and finally the dual image of Véronique embracing her father. But the film’s multiplication of space, time and identity is sufficiently indeterminate to open up the narrative far beyond a clear-cut dualism. Even the _doppelgänger_ premise alluded to in the title is ambivalent. The story may be about one woman with a double life, about two women with one life between them, or about two entirely separate lives. Not only are events and characters doubled, but so is the narrative itself. The tape Véronique receives, apparently a recording of earlier events, is also a pre-recording, a prediction of things she will witness in Paris. Her meeting with Alexandre will inspire him to write a story called ‘The Double Life of…’ but that is already (partly) the title of the fiction in which she is a character – a fiction already written by him, at least insofar as he has scripted his manipulation of her.
 
@@ -16,6 +27,30 @@ co-production yet. It takes the constraints that have scuttled countless earlier
 Kielowski has admitted that the project was just as much an aleatory one for him as it is for its audience. The film, he says, went through 20 alternative cuts before it reached its present form, and he shot seven possible endings, none of which (including the present one) struck him as being fully adequate. This bears out what he wrote in his introduction to the English edition of the _Decalogue_ scripts: ‘We know no more than you. But maybe it is worth investigating the unknown, if only because the very feeling of not knowing is a painful one.’ Perhaps this is the key to understanding the importance Kieslowski has assumed in European cinema. Unlike most of his contemporaries – the ageing radicals, the angry social critics, the directors of freshened-up melodramas, the formalists, the unreconstructed hippie dreamers – he approaches his subjects in a spirit of sincere enquiry, allowing content to shape form and the concrete circumstances surrounding the production to define the parameters of  the work.  
 **Tony Rayns, _Sight and Sound_, March 1992**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTM4NTc2MzA0XX0=
 -->
