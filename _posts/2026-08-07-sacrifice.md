@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Sacrifice
+published: true
+date: 2026-08-07
+readtime: true
+categories: ['Re-releases']
+tags: [Drama]
+metadata: 'Sweden-France-UK 1986, 148 mins<br> Director: Andrei Tarkovsky'
+pdf: '2026-08-07-sacrifice.pdf'
+---
 
 He was a giant for work, and a highly disciplined man who hated disorder and would only come to the set after much preparation. Quite often I found it strenuous to keep up with his pace – which is not to say that Tarkovsky made inhuman demands on his collaborators, but to give an idea of his rhythm and that the whole team were happy to follow it. _The Sacrifice_ contains a mere 120 cuts, but each one was subject to deep critical scrutiny. Editing the film did not mean blindly following a pre-arranged set of concepts. It meant creative work carried out between an axis of a fixed vision and the inner dynamics of the material, the number of cuts gave no indication of the range of difficulties faced in the process.  
 **Michal Leszczylowski, Editor, _Sight and Sound_, Spring 1987**
@@ -28,6 +39,27 @@ of death.’
 
 A Curzon re-release
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMDgxNTg5MzRdfQ==
 -->
