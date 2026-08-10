@@ -1,12 +1,9 @@
-<![endif]-->
 
-He was a giant for work, and a highly disciplined man who hated disorder and would only come to the set after much preparation. Quite often I found it strenuous to keep up with his pace – which is not to say that Tarkovsky made inhuman demands on his collaborators, but to give an idea of his rhythm and that the whole team were happy to follow it. _The Sacrifice_ contains a mere 120 cuts, but each one was subject to deep critical scrutiny. Editing the film did not mean blindly following a pre-arranged set of concepts. It meant creative work carried out between an axis of a fixed vision and the inner dynamics of the material, the number of cuts gave no indication of the range of difficulties faced in the process.
+He was a giant for work, and a highly disciplined man who hated disorder and would only come to the set after much preparation. Quite often I found it strenuous to keep up with his pace – which is not to say that Tarkovsky made inhuman demands on his collaborators, but to give an idea of his rhythm and that the whole team were happy to follow it. _The Sacrifice_ contains a mere 120 cuts, but each one was subject to deep critical scrutiny. Editing the film did not mean blindly following a pre-arranged set of concepts. It meant creative work carried out between an axis of a fixed vision and the inner dynamics of the material, the number of cuts gave no indication of the range of difficulties faced in the process.  
+**Michal Leszczylowski, Editor, _Sight and Sound_, Spring 1987**
 
-Michal Leszczylowski, Editor, _Sight and Sound_, Spring 1987
-
-The issue I raise in this film is one that to my mind is the most crucial: the absence in our culture of room for a spiritual existence. We have extended the scope of our material assets and conducted materialistic experiments without taking into account the threat posed by depriving man of his spiritual dimension. Man is suffering but he doesn’t know why. I wanted to show that a man can renew his ties to life by renewing his covenant with himself and with the source of his soul. And one way to recapture moral integrity is by having the capacity to offer oneself in sacrifice.
-
-Andrei Tarkovsky, 1986
+The issue I raise in this film is one that to my mind is the most crucial: the absence in our culture of room for a spiritual existence. We have extended the scope of our material assets and conducted materialistic experiments without taking into account the threat posed by depriving man of his spiritual dimension. Man is suffering but he doesn’t know why. I wanted to show that a man can renew his ties to life by renewing his covenant with himself and with the source of his soul. And one way to recapture moral integrity is by having the capacity to offer oneself in sacrifice.  
+**Andrei Tarkovsky, 1986**
 
 Within a few weeks of each other in the spring of 1986, Gunter Grass’ _Die Rättin_ was published in Germany and Andrei Tarkovsky’s _The Sacrifice_ was given its first showing at Cannes. In his novel Grass describes the time after an atomic holocaust, after the end of human time, the earth ravaged by fire storms and ashes, its landscapes pitted and filled with water and debris, encrusted with mud, cleft and torn asunder. The catastrophe at the centre of Tarkovsky’s film is the outbreak of a Third World War, a final cataclysm in which ‘there will be neither victors nor vanquished, neither cities nor villages, neither grass nor trees, neither water in the springs nor birds in the sky.’ In the spring of 1986 the disaster of Chernobyl burst upon us, casting its warning shadow over the world. In the final days of the year Tarkovsky died.
 
@@ -14,8 +11,7 @@ The convulsion that sets the machinery of sacrifice in motion in Tarkovsky’s f
 
 Alexander’s sacrifice is the liberating act of a man seeking a way out of this situation, a man who sees an opportunity of becoming an instrument of human redemption. Although he himself has retired from the stage to contemplate, to write and teach, he has grown weary of words. Like Hamlet, he sees the world ruled by procrastination and idle talk. The time has come for deeds.
 
-In _The Sacrifice_, as in other films by Tarkovsky, there are certain autobiographical references to be found. It is an aspect of his work for which he frequently incurred criticism, and most severely in his native country. The autobiographical element in his films ranges from the direct personal quotations of _Mirror_ to relatively allusive parallels in other films. _Nostalgia_ is dedicated to Tarkovsky’s mother and contains echoes from his childhood and youth.  
-_The Sacrifice_ is dedicated to his son, and the thematic material – the faith Alexander places in Little Man – is a reflection of the hopes Tarkovsky himself placed in the future.
+In _The Sacrifice_, as in other films by Tarkovsky, there are certain autobiographical references to be found. It is an aspect of his work for which he frequently incurred criticism, and most severely in his native country. The autobiographical element in his films ranges from the direct personal quotations of _Mirror_ to relatively allusive parallels in other films. _Nostalgia_ is dedicated to Tarkovsky’s mother and contains echoes from his childhood and youth.  _The Sacrifice_ is dedicated to his son, and the thematic material – the faith Alexander places in Little Man – is a reflection of the hopes Tarkovsky himself placed in the future.
 
 In other realms of art the inclusion of personal motifs or experience is regarded as a valid process, through which a further plane of meaning and dialogue may be established. Tarkovsky’s use of autobiographical reference could be compared in painting (to which one can trace numerous parallels in his work) with the incorporation by artists of their own portraits, often discreetly hidden among the secondary figures or in background scenes. In the ‘Adoration of the Magi’, for example, critics have long conjectured that the armoured figure in the bottom right-hand corner is a self-portrayal of Leonardo himself as a young man.
 
@@ -26,13 +22,12 @@ The initial screenplay concept, written before the shooting of _Nostalgia_ and b
 During the shooting of _Nostalgia_, Tarkovsky was struck by a number of parallels between his preoccupations in film at that time and his own life. Andrei Gorchakov, the film’s leading character, had come to Italy with the intention of remaining only a short time and had been consumed with yearning for his home; but he had been unable to return, and ultimately died in Italy. Tarkovsky himself had originally intended to return to Russia after completing the film, but had also been overtaken by illness in Italy and forced to stay. He was deeply affected further by the death of Anatoli Solonizyn, the leading actor in most of his earlier films, who was to have played the role of Gorchakov in _Nostalgia_, and who was long foreseen for the part of Alexander in ‘The Witch’. Solonizyn died of the same disease that had brought the turning point in Alexander’s life in the first version of the story, and ‘today, years later, I too am suffering from it.’
 
 Tarkovsky subsequently revised his treatment of this story, removing it from a realm that had become alarmingly personal, to give it a more universal validity. The autobiographical strand remains, however, inextricably woven into the texture, and the lines spoken by Alexander to his little son beneath the trees have a poignant significance: ‘There is no such thing as death, only the fear  
-of death.’
-
-Peter Green, _Sight and Sound_, Spring 1987
+of death.’  
+**Peter Green, _Sight and Sound_, Spring 1987**
 <br><br>
 
 A Curzon re-release
-
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODk1NzY4OV19
+eyJoaXN0b3J5IjpbLTExMDgxNTg5MzRdfQ==
 -->
