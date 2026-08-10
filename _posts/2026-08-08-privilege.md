@@ -1,3 +1,14 @@
+---
+layout: post
+title: Privilege
+published: true
+date: 2026-08-08
+readtime: true
+categories: ['System Critical<br>The Radical Films of Peter Watkins']
+tags: [Satire, Musical]
+metadata: 'UK 1967, 103 mins<br> Director: Peter Watkins'
+pdf: '2026-08-08-privilege.pdf'
+---
 
 In 1966, following the collapse of a film which I hoped to develop with Albert Finney’s production company, on the 1916 Easter uprising in Dublin, I was approached by John Heyman, a British artists’ agent, to make a film based on an original screenplay by Johnny Speight, which dealt with the influence of Steven Shorter, a pop star in the 1960s. American novelist Norman Bognor and I adapted the script, which we retitled _Privilege_, to emphasise the significance of Steven Shorter as an allegory for the manner in which national states, working via religion, the mass media, sports, popular culture, etc., divert a potential political challenge by young people. In case this theme appears exaggerated, it is important to keep in mind that it was set in the ‘swinging Britain’ of the 1960s, and was prescient of the way that popular culture and the media in the US commercialised the anti-war and counter-culture movement in that country as well. _Privilege_ also ominously predicted what was to happen in Margaret Thatcher’s Britain of the 1980s – especially during the period of the Falkland Islands War.
 
@@ -18,6 +29,30 @@ I recall odd moments and places from the promotion schedule, usually prompted by
 At a press conference shortly after _Privilege_ was released, a journalist asked me where I stood vis-à-vis the scathing view it took of the church. On hearing that I was an atheist, he asked if that wasn’t a rather bleak, and comfortless position. On the contrary, I told him; I found it more reassuring than a lot of the alternatives. ln a way, I still think I was right: guaranteed extinction would be a soft option. It’s one in which I can no longer put any faith.  
 **_Sight and Sound_, May 1993**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwNzcwNTE3Nl19
 -->
