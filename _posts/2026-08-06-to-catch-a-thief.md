@@ -1,3 +1,14 @@
+---
+layout: post
+title: To Catch a Thief
+published: true
+date: 2026-08-06
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Romance, Thriller]
+metadata: 'USA 1954, 107 mins<br> Director: Alfred Hitchcock'
+pdf: '2026-08-06-to-catch-a-thief.pdf'
+---
 
 **Hitchcock on ‘To Catch a Thief’**  
 Straightening out the zigzag course conversations are apt to take, especially when prompted by questions, I find that in the main my talk with Alfred Hitchcock after the London premiere of _To Catch a Thief_ covered two subjects: the combination of realism and fantasy, and the difference of opinion between himself and certain critics about the existence of metaphysical elements in his work.
@@ -17,6 +28,30 @@ When Hitchcock was in France, shooting exteriors for _To Catch a Thief_, article
 There is, however, nothing new in believing that he does. In _The Lodger_, made in 1926, there is a scene showing a man, who has been hanging for hours by his handcuffed wrists from an iron railing, being taken down in a state of collapse. ‘It’s just possible,’ Hitchcock said, ‘that I made some passing reference to the effect that this figure resembled Christ’s when being taken down from the cross. But the scene was not intended to suggest this. Nevertheless, one of the newspapers thought that it did. No – what interested me was the drama of being handcuffed. There’s a special terror,’ he said, ‘a sort of “thing” about being tied up, haven’t you noticed? The classic line when somebody in a melodrama is about to be handcuffed goes: “Oh no, Inspector, not that, please!” And the answer: “We must – this is a serious case.” I’ve often exploited this situation,’ he added. In _The 39 Steps_, of course, it was fundamental…’  
 **Catherine de la Roche, _Sight and Sound_, Winter 1955-6**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDg1MDY4OTY3XX0=
 -->
