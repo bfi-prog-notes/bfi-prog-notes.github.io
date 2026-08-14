@@ -1,3 +1,14 @@
+---
+layout: post
+title: À nos amours
+published: true
+date: 2026-08-14
+readtime: true
+categories: ['Three Films by Maurice Pialat']
+tags: [Drama]
+metadata: 'France 1983, 102 mins<br> Director: Maurice Pialat'
+pdf: '2026-08-14-a-nos-amours.pdf'
+---
 
 Unhappiness, to coin a maxim, often derives from nothing more than the fact that we do not possess precisely the kind of happiness we might wish. As with most of Maurice Pialat’s protagonists, Suzanne in _À nos amours_ is unhappy. Even when sanguine, she has a baffling capacity for radiating unhappiness around her, like those people who carry the condition within them like a disease, infecting others without suffering its effects themselves. Nor are we made privy to any latent causes for unhappiness in her nature. She is pretty, intelligent in a teenager’s sulky, incommunicative manner, surrounded by chums of both sexes, wooed by an attractive though rather doleful youth and patently, if very maladroitly, worshipped by her parents and elder brother.
 
@@ -13,7 +24,33 @@ But there is something else. Pialat’s personal reputation is that of a difficu
 
 Thus the ending of _À nos amours_ should not be read as wholly pessimistic; and discarding one’s illusions, as Suzanne does, is not quite the same thing as being disillusioned. For (concluding, as I started, with a maxim) as we grow older, we are left with fewer causes for hope or happiness, but fewer of those left to us turn out to be illusory.  
 **Gilbert Adair, _Sight and Sound_, Summer 1984**
+<br><br>
+
+The screening on Fri 14 Aug will include an introduction by David Thompson, presented by A Nos Amours.
+
+A Nos Amours is a collective founded by Joanna Hogg and Adam Roberts dedicated to programming, promoting, understanding and enjoying over-looked, under-exposed or especially potent cinema.
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI4NzE0MzE3MF19
 -->
