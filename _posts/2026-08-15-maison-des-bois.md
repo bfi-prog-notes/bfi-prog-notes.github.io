@@ -1,6 +1,16 @@
+---
+layout: post
+title: La Maison des bois
+published: true
+date: 2026-08-15
+readtime: true
+categories: ['Re-releases']
+tags: [Drama, Television]
+metadata: 'France-Italy 1971, 379 mins<br> Director: Maurice Pialat'
+pdf: '2026-08-15-maison-des-bois.pdf'
+---
 
-As a filmmaker, Maurice Pialat was a late bloomer. From the mid-50s to the  
-mid-60s, when he was in his thirties, he shot several shorts and, before that, had attempted to realise his artistic ambitions through painting; neither venture yielded much success. Yet with the help of filmmakers François Truffaut and Claude Berri, who acted as producers, Pialat finally directed his feature debut, _L’Enfance nue_ (1968), when he was 43 years old. Though it proved a box-office disappointment, it won the Prix Jean Vigo, garnering its director significant notice in the French film industry.
+As a filmmaker, Maurice Pialat was a late bloomer. From the mid-50s to the  mid-60s, when he was in his thirties, he shot several shorts and, before that, had attempted to realise his artistic ambitions through painting; neither venture yielded much success. Yet with the help of filmmakers François Truffaut and Claude Berri, who acted as producers, Pialat finally directed his feature debut, _L’Enfance nue_ (1968), when he was 43 years old. Though it proved a box-office disappointment, it won the Prix Jean Vigo, garnering its director significant notice in the French film industry.
 
 An offer for a follow-up project came from an unlikely source: the Office de radiodiffusion-télévision française (ORTF), France’s national department for public television and radio from 1964 to 1975. The agency commissioned Pialat to direct a dramatic miniseries called _La Maison des bois_ from a script penned by René Wheeler, best known for cowriting the hit caper _Rififi_ (1955). Wheeler’s initial teleplay followed a small-town family that takes in three Parisian boys whose fathers are serving at the front during World War I. Consulting producer Yves Laumet thought of Pialat because of his stellar work with children in _L’Enfance nue_.
 
@@ -24,6 +34,37 @@ _La Maison des bois_ was broadcast on Sunday evenings on the second channel, com
 
 Yet when Pialat became increasingly recognised as one of the country’s greatest directors, the series was rebroadcast several times on French television: in 1974 (in a monochrome version), 1980, 1985, 1990, and 2003. _La Maison des bois_ has also been aired in Italy, Canada, Monaco, Switzerland, and Belgium. This 4K digital restoration provides a tremendous occasion to rediscover Pialat’s finest moment as a director and one of the greatest television shows of all time.  
 **Janus Films**
+<br><br>
+
+A Janus release
+
+This 4K restoration was completed in 2024 by the French National Audiovisual Institute (INA) from the 16mm negative image and 16mm magnetic tape
+
+The screening of Episodes 1, 2 & 3 on Sun 16 Aug is presented by A Nos Amours, with an intro by David Thompson
+
+A Nos Amours is a collective founded by Joanna Hogg and Adam Roberts dedicated to programming, promoting, understanding and enjoying over-looked, under-exposed or especially potent cinema
+<br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMyNzAzMDE0Nl19
 -->
