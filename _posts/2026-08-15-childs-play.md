@@ -1,3 +1,14 @@
+---
+layout: post
+title: Child's Play
+published: true
+date: 2026-08-15
+readtime: true
+categories: ['No Strings Attached<br>Puppets on Film']
+tags: [Horror]
+metadata: 'USA 1988, 87 mins<br> Director: Tom Holland'
+pdf: '2026-08-15-childs-play.pdf'
+---
 
 Chucky is a sweet-looking ‘Good Guy’ doll which becomes hideously evil when its body is inhabited by the soul of a killer.
 
@@ -23,6 +34,30 @@ Since the repellent playmate, Chucky, incarnates the Lakeside Strangler by virtu
 
 Among other obscurities, it is uncertain why the Strangler should wish to blow up (by complicated and unlikely means) his former colleague, while the assertion by his voodoo guide that the killer must transfer his soul to the first person he told his secret to seems a blatant example of making up the rules to suit the plot. Which said, there is no doubt that Chucky becomes a pleasingly demented figure of menace, his plastic features increasingly weird turning, and that Tom Holland mightily enjoys the action sequences – the exploding toy shop, the defenestration of the babysitter, the driver struggling to stay on the road as a knife plunges up through the car seat, the pest-disposal mayhem of the final struggle. The vampire neighbours of _Fright Night_ were more fun, but the signs remain that Holland can handle a good story when he finds one. His most accurate stroke of horror in _Child’s Play_ is neatly mundane: the birthday kid’s loving preparation of his mother’s breakfast tray produces a mound of lurid cereals and charred toast congealing in a lake of fruit juice and milk…  
 **Philip Strick, _Monthly Film Bulletin_, June 1989**
+<br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk5ODI1MjM0MV19
 -->
