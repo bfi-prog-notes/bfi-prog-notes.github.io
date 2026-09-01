@@ -1,3 +1,14 @@
+---
+layout: post
+title: La Femme infidèle
+published: true
+date: 2026-09-01
+readtime: true
+categories: ['Re-releases']
+tags: [Thriller]
+metadata: 'France-Italy 1969, 99 mins<br> Director: Claude Chabrol'
+pdf: '2026-09-01-femme-infidele.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -18,6 +29,30 @@ The most stunning images in the film are here and at the end. The first is of De
 What has Chabrol demonstrated? That despite appearances – everything in Chabrol is despite those – the heights and depths of emotion can be visited and returned from safely? – or encompassed and assimilated? – or encountered and avoided? – paradoxically by cleaving to just these restrictive forms of life? Chabrol doesn’t like the bourgeoisie, but we doubt whether he is more fascinated or repelled by this artificial skin of behaviour. Are the heights scaled, as it were, or skirted, after all? Doesn’t he admire, despite himself, the sophistication of this fighting unit, and their ability to survive? When Desvallées confesses to Hélène, ‘Je t’aime comme un fou,’ is he preserving an invaluable relationship or (the bourgeois sin) a priceless possession? At any rate this sure-footed, finely acted and spellbinding film is not ruffled, but deepened, by that ambivalence.  
 **Gavin Millar, _Sight and Sound_, Autumn 1969**
 <br><br>
+
+A BFI re-release
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc3NDM2NDk5Ml19
 -->
