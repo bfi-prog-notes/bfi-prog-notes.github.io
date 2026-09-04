@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Beast Must Die
+published: true
+date: 2026-09-05
+readtime: true
+categories: ['Claude Chabrol<br>Elements of Crime']
+tags: [Thriller]
+metadata: 'France-Italy 1969, 113 mins<br> Director: Claude Chabrol'
+pdf: '2026-09-05-beast-must-die.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -14,6 +25,27 @@ As the dialogue becomes more revealing, the quick quiet music grows more agitate
 These shafts of revelation penetrating the limpid surface of Chabrol’s film are the Homeric details which are unique and personal and for which the conventions of the detective film provide a framework. Charles recounts for Philippe a scene in _The Iliad_ in which a warrior is pierced by a spear through the neck. The spear comes out through his mouth, and the warrior bites a cold metal tongue. Chabrol’s spearhead tongue is a strangely menacing rotating overhead shot of two fried eggs sizzling gorgeously and monumentally in a frying pan.  
 **Robert Giard, _Film Heritage_, Spring 1971**
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc2NDEzODFdfQ==
 -->
