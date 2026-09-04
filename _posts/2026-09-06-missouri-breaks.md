@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Missouri Breaks
+published: true
+date: 2026-09-06
+readtime: true
+categories: ['A Road Less Travelled<br>Harry Dean Stanton']
+tags: [Western]
+metadata: 'USA 1976, 126 mins<br> Director: Arthur Penn'
+pdf: '2026-09-06-missouri-breaks.pdf'
+---
 
 Described by Philip French as ‘a rich, allusive movie, witty, tinged with tragedy, and beautifully lit in the style of paintings by Frederic Remington and Charles Russell,’ Arthur Penn’s story of cattle rustlers perishing in the face of encroaching capitalism is perhaps best known for its pairing of its two stars. Nicholson impresses as the head of a gang, while Brando is in impish form as a cruel assassin. Stanton proves moving as a man who realises that he is condemned to a grisly fate.
 
@@ -17,6 +28,27 @@ The story of how wealth, culture and influence conspire to create more sleepy so
 Along with _Kid Blue_, and of course _Barry Lyndon_ in another genre, _The Missouri Breaks_ is one of the few recent films to have attempted to render the flavour of period lighting (shadowy golden-browns for the oil-lit interiors, echoing the landscape burning up under the Montana sun), while at the same time avoiding the mistake made by nearly all Westerns under the influence of the dingy, dusty settings favoured by Ince and Griffith (Penn’s little farm towns and mining villages are impeccably ramshackle but constructed out of new, rawly cut planks). And in another departure from tradition, Ford especially, the womenfolk are rarely waiting patiently back at the ranch. Although the raunchily innocent heroine (beautifully played by Kathleen Lloyd) is much too open-handed for the film to be accused of misogyny, it undoubtedly takes a bleak view of the matriarchy. Apart from the cattle baron’s runaway wife (whose flight from his rectitude has plunged him into puritan mania), the most notable representatives of the gentle sex are two sweet old ladies – one in black with prayer-book in hand, the other in grey with steel-rimmed spectacles pushed up on her brow – who guard the bordello from intrusion by the embarrassed outlaws. Taken together with Brando in his poke bonnet, snuggling down after a day’s murderous labour murmuring ‘Granny’s tired,’ they suggest that what the film is really talking about is the rape of God’s country by Whistler’s mother.  
 **Tom Milne, _Sight and Sound_, Summer 1976**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI0MTM2Njc3Nl19
 -->
