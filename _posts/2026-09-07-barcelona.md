@@ -4,7 +4,7 @@ title: Barcelona
 published: true
 date: 2026-09-07
 readtime: true
-categories: ['Seniors' Free Matinee']
+categories: ['Seniors']
 tags: [Comedy, Drama]
 metadata: 'USA 1994, 101 mins<br> Director: Whit Stillman'
 pdf: '2026-09-07-barcelona.pdf'
