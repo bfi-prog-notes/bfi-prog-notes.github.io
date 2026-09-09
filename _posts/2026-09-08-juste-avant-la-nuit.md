@@ -1,3 +1,14 @@
+---
+layout: post
+title: Juste avant la nuit
+published: true
+date: 2026-09-08
+readtime: true
+categories: ['Claude Chabrol<br>Elements of Crime']
+tags: [Thriller]
+metadata: 'France-Italy 1971, 108 mins<br> Director: Claude Chabrol'
+pdf: '2026-09-08-juste-avant-la-nuit.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -14,6 +25,27 @@ The sight of his wife and children, his idolising mother’s remarks about Laura
 Hélène will, of course, eventually make the decisive play, but only after her uncomprehending and antiseptic sympathy has subtly provided the spectator with some justification for Charles’ at first sight monstrous act. Yet what makes the film’s ending so unusually chilling is that Hélène herself, unlike her namesake in _Le Boucher_, recognises no connection between her own ‘virtue’ and her partner’s vice, indeed persistently refuses to acknowledge that the vice exists. Even when she kills Charles, it is not to satisfy his lust for punishment but rather, by preventing him from going to the police, to keep his darker reality from leaving any permanent stain on her ideal home. The final sequence, with its layers of duplicity, offers a bleak view of the foundations on which such homes are built. Protesting that she understands and admires Charles’ desire to do what is right, Hélène cold-bloodedly administers an overdose of laudanum; and he, secretly aware of what she’s done but believing that she has done it for him, at last falls asleep in childlike contentment, clasping the hand of his ‘model’ wife as they lie side by side in their separate beds.  
 **Jan Dawson, _Sight and Sound_, Spring 1973**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExNDIzMTM3ODFdfQ==
 -->
