@@ -1,3 +1,14 @@
+---
+layout: post
+title: Wedding in Blood
+published: true
+date: 2026-09-10
+readtime: true
+categories: ['Claude Chabrol<br>Elements of Crime']
+tags: [Thriller, Crime]
+metadata: 'France-Italy 1973, 96 mins<br> Director: Claude Chabrol'
+pdf: '2026-09-10-wedding-in-blood.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -24,6 +35,27 @@ Ironically, it is this fear of scandal which brings about the final arrest of Pi
 In _Les Noces rouges_, as in every film Chabrol has made in the series, which can be extended back as far as _Le Beau Serge_, there is a Paul. This time, however, there is no Hélène or Charles. Chabrol has said that Hélène is partially a creature of myth, and that ‘Charles will never kill Paul.’ Charles was the character who was incapable of final corruption, who was often an idealist and dreamer. In _Les Noces rouges_, as in the underrated _Doctor Popaul_, it would seem that Paul can be killed by a changed Charles character. The dreamers and the dream, as well as the Hélène of romantic myth, are no more. So it is that Chabrol ends his rich series of bourgeois melodramas. A new sort of system? A new basis for human relationships? Why, they never even dreamed of that!  
 **David L. Overbey, _Sight and Sound_, Autumn 1973**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQwMzU5ODU0N119
 -->
