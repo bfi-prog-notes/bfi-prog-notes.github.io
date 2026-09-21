@@ -1,3 +1,14 @@
+---
+layout: post
+title: Queen at Sea
+published: true
+date: 2026-09-21
+readtime: true
+categories: ['Seniors']
+tags: [Drama]
+metadata: 'UK-USA 2026, 121 mins<br> Director: Lance Hammer'
+pdf: '2026-09-21-queen-at-sea.pdf'
+---
 
 It’s not a theme to make audiences comfortable – nor filmmakers, nor actors. It takes seriousness, and nerves of steel, to attempt substantial dramas about old age and infirmity, especially about dementia, topics that cinema generally shies away from – as most of us do in real life, until they directly affect our own experience. But in recent years, we’ve seen a handful of striking cinematic treatments of the theme: François Ozon’s euthanasia drama _Everything Went Fine_ (2021); Michael Haneke’s _Amour_ (2012), about the decline of an octogenarian couple; Florian Zeller’s _The Father_ (2020), which used stylised shifts of space and time to take us into the mind of a man with Alzheimer’s; Gaspar Noé’s formally daring _Vortex_ (2021), which used a split screen to evoke the barrier in communication that dementia introduces.
 
@@ -26,6 +37,27 @@ She also did significant research. ‘I never even asked her,’ Hammer says, �
 You imagine it takes considerable delicacy and nerve to ask older actors to play parts in which they perform their own mortality and vulnerability in a deeply exposing way – with scenes here (as for Emmanuelle Riva in _Amour_) that could be considered as compromising their physical dignity. Hammer approached the challenge circumspectly. ‘The conversations with Annie were, “Before you say yes to this part, we should talk about it – there are some undignified moments. It takes bravery. You’re going to go into a role that’s not you; it’s brutal.” And she was energised by that, because it’s an opportunity to achieve real true art. Tom, Annie, Juliette, they’re _art beasts_ – there’s such a commitment to the art.’  
 **Jonathan Romney, _Sight and Sound_, October 2026**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUzNTg0NDc3MF19
 -->
