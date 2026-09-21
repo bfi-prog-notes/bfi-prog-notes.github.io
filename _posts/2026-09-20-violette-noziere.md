@@ -1,3 +1,14 @@
+---
+layout: post
+title: Violette Nozière
+published: true
+date: 2026-09-20
+readtime: true
+categories: ['Claude Chabrol<br>Elements of Crime']
+tags: [Drama, Crime]
+metadata: 'France-Canada 1978, 125 mins<br> Director: Claude Chabrol'
+pdf: '2026-09-20-violette-noziere.pdf'
+---
 
 **‘I fell in love with Violette Nozière’ by Claude Chabrol**  
 One night in 1933, a girl of 18 began a long odyssey through the Bois de Vincennes in a bus. This was Violette Nozière. Until this night she had lived in her parents’ tiny flat with Baptiste, her father, an engine-driver with the railways, and Germaine, her mother, a housewife. A thorough-going pair of inhibited petits bourgeois, the parents kept on day in and day out about their disappointments and about the hopes they entertained for their child. But Violette didn’t give a damn about all that: she wanted love, the grand passion, and she wanted lavish spending, gorgeous clothes, a life of bars, dance halls, sports cars, joyrides to the seaside. Her quest was for the ultimate.
@@ -35,6 +46,27 @@ Violette herself is a perfect illustration of the natural ambivalence of the hum
 I fell in love with Violette Nozière long before I understood her. Others had fallen under the spell before me: Eluard, Aragon, Magritte, Simone de Beauvoir, Pierre Brasseur. In trying to bring her to life again, I felt the fascination of her ambiguities: murderer and saint, liar and true heart, childish yet inspired. I had to explore her mind, lay bare her dreams, suffer her daily existence. In this evocation of a headline sensation and a trial which had all France agog while Hitler was taking over control of Germany, it is no longer a question of judging, but of understanding.  
 **_Monthly Film Bulletin_, April 1979 (This article appeared in a press brochure at the 1978 Cannes Film Festival; translation by Tom Milne)**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk2MzA4ODk3XX0=
 -->
