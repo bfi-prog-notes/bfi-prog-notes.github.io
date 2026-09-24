@@ -1,3 +1,14 @@
+---
+layout: post
+title: Paris Is Burning
+published: true
+date: 2026-09-23
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Documentary]
+metadata: 'USA 1990, 74 mins<br> Director: Jennie Livingston'
+pdf: '2026-09-23-paris-is-burning.pdf'
+---
 
 Nearly 40 years after the release of _Paris Is Burning_ (1990), Jennie Livingston’s beloved documentary exploring the LGBTQ+ underworld of New York’s ball culture, its reputation is stronger than ever. Although so many of the formidable ballroom stars spotlighted in the film – Dorian Corey, Pepper LaBeija, Willi Ninja, Octavia St. Laurent, Angie Xtravaganza, Venus Xtravaganza – are no longer with us, clips of their performances and their sharp, witty pieces to camera have been embraced by online audiences. The interviewees’ critiques of race, class, gender and the construction of identity in Reagan’s America have taken on new resonances in the Trump era. I spoke to Livingston on the occasion of her film arriving on UK Blu-ray for the first time, in a new 2K restoration which she supervised.
 
@@ -19,6 +30,30 @@ Livingston’s method of weaving the ball, street and interview footage into a c
 If the wit, glamour and mind-boggling outfits of _Paris Is Burning_ are disarming, not far beneath the film’s surface is an immensely moving quality. Watching the sublimely elegant Willi teaching a class of slouchy (real) girls a feminine deportment is hilarious, but the outside world intrudes in a more insidious way. Venus’ death (presumably at the hands of a client who discovered her secret) is bad enough; but realising that no amount of ballroom realness can get these voguing ‘executives’ off the Harlem catwalks and onto Wall Street itself is quietly heart-breaking.  
 **Louise Gray, _Sight and Sound_, April 1993**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwMTUwNjExOF19
 -->
