@@ -1,3 +1,14 @@
+---
+layout: post
+title: Babymother
+published: true
+date: 2026-10-25
+readtime: true
+categories: ['Big Screen Classics']
+tags: [Drama]
+metadata: 'UK 1998, 82 mins<br> Director: Julian Henriques'
+pdf: '2026-10-25-babymother.pdf'
+---
 
 **Stuart Hall on ‘Babymother’**  
 Despite the much-acclaimed British cinema renaissance, Black British ﬁlms are still rarer than gold dust. _Babymother,_ the new ‘reggae musical’ from Formation Films, courtesy of Channel Four Films, the Arts Council and sundry foreign backers, will be one of the ﬁrst of the new cinematic wave to test the treacherous waters of British ﬁlm distribution. Directed by Julian Henriques, former _Arena_ and BBC arts-documentary producer, and produced by Parminder Vir, herself a successful television-documentary producer and his partner in Formation Films, _Babymother_ is  grounded in the vibrant Black scene of dancehall – the latest musical sound (and look) to capture the imagination of Britain’s urban Black youth. Shot on location in Harlesden, one of London’s Black inner suburbs, using largely non-professional actors, it is a much expanded and transformed version of an idea ﬁrst tried out by Henriques in a 1992 Channel 4 docudrama-with-music, _We the Ragamuffin._
@@ -15,6 +26,30 @@ Cultural critics – in Harlesden, Kingston and on Brooklyn’s Atlantic Avenue 
 These complex issues are well represented within the ﬁlm through Anita’s tender moments alone with her children, the scenes of them with their father, when he’s at home (which avoid the usual sentimentality), and the ﬁlm’s theme song itself, which underlines the message: ‘Baby-mother! Be a Mother to Your Child!’ But they cannot be fully explored within the limits of its entertainment conventions. In that sense _Babymother_ marks another episode in second-wave feminism’s long, incomplete march. It reminds us that popular culture, despite its elements of celebration and resistance, is also and always an ambiguous and contradictory space. Among other issues, _Babymother_ poses the question of just how, and by what complicated shifts, the liberation of women is connected to girl power. And, as an added bonus in an engaging Black British extravaganza, Anita, Sharon and Yvette make the Spice Girls look like convent ﬁfth-formers at a Sunday afternoon tea party.  
 **_Sight and Sound,_ September 1998**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMwNzk0MzU2Nl19
 -->
