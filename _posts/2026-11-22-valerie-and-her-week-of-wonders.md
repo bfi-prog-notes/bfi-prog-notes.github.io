@@ -1,3 +1,14 @@
+---
+layout: post
+title: Valerie and Her Week of Wonders
+published: true
+date: 2026-11-22
+readtime: true
+categories: ['Restored']
+tags: [Fantasy]
+metadata: 'Czechoslovakia 1970, 77 mins<br> Director: Jaromil Jireš'
+pdf: '2026-11-22-valerie-and-her-week-of-wonders.pdf'
+---
 
 _+ intro by writer Virginie Sélavy_
 
@@ -16,6 +27,27 @@ In the Gothic extravaganza of _Valerie and Her Week of Wonders_ one detects the 
 Coffins and cobwebs, transmutations, the corruption of innocence, the bizarre forms of sexual gratification (flagellation, persecution of witches, masturbatory fantasies) prompted by religious hypocrisy and repression – the accumulation of images adds up less to the fragmented totality of a dream than to items from a dream recalled in retrospect. When Valerie looks into what seems to be a mirror and is then revealed to be the open window of a carriage, we are left admiring a magician’s illusion, and feel vaguely irritated that the magician hasn’t let us into his secret. _Valerie_ is shot in ravishing colour (as richly textured as anything in _Capricious Summer_ or _The Firemen’s Ball_), abounds in appealing _trompe l’oeil_ effects, dazzles with its marvellous sets and costumes. But this is the architecture of a dream and not the substance; dreams, even in fairyland, are seldom so seductive.  
 **David Wilson, _Monthly Film Bulletin_, May 1971**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTIzMjk0NDNdfQ==
 -->
