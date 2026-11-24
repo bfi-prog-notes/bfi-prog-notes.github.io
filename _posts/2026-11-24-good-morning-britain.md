@@ -1,6 +1,16 @@
+---
+layout: post
+title: Good Morning, Britain - TV-am Revisited
+published: true
+date: 2026-11-24
+readtime: true
+categories: ['Events']
+tags: [Television, Talks]
+metadata: 
+pdf: '2026-11-24-good-morning-britain.pdf'
+---
 
-To celebrate the launch of The BFI Collections Fund, join contributors and presenters to transport us back to the 1980s and the heady days of TV-am.  
-Relive the (then) brave new world of shoulder pads, breaking news stories, children’s programming and, of course, aerobics. BFI Ambassador Sanjeev Bhaskar hosts a one-off sofa of special guests Lorraine Kelly, Nick Owen, Lizzie Webb, Gyles Brandreth, Lisa Aziz, Anne Diamond, Anneka Rice and Timmy Mallett, to revisit a historic, much-loved era of breakfast television.  
+To celebrate the launch of The BFI Collections Fund, join contributors and presenters to transport us back to the 1980s and the heady days of TV-am.  Relive the (then) brave new world of shoulder pads, breaking news stories, children’s programming and, of course, aerobics. BFI Ambassador Sanjeev Bhaskar hosts a one-off sofa of special guests Lorraine Kelly, Nick Owen, Lizzie Webb, Gyles Brandreth, Lisa Aziz, Anne Diamond, Anneka Rice and Timmy Mallett, to revisit a historic, much-loved era of breakfast television.  
 **bfi.org.uk**
 
 February 1983. Britain is waking up to a bright new era of television. For the first time, viewers can switch on the commercial channel in the morning and find a brand-new service dedicated to news, current affairs and entertainment. The station is TV-am, the programme _Good Morning Britain_  and its arrival promises to change the way the nation starts its day.
@@ -34,8 +44,32 @@ We’re proud to be caring for this vital piece of television history, thanks to
 
 **To support the BFI Collections Fund:**
 
+<img style="float: left;" src="/img/collections-fund.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
 **https://stories.bfi.org.uk/collections-fund/**
 <br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI3OTg1Nzc0M119
 -->
