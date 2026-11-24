@@ -44,7 +44,7 @@ We’re proud to be caring for this vital piece of television history, thanks to
 
 **To support the BFI Collections Fund:**
 
-<img style="float: left;" src="/img/collections-fund.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/collections-fund.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 **https://stories.bfi.org.uk/collections-fund/**
 <br><br><br>
